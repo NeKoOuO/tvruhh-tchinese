@@ -1,0 +1,195 @@
+{
+	
+	"BNT_mote_petal" : {
+		"name"    : "魔尘花瓣",
+		"memory"  : "This must come from a very pretty flower. Oh, I can remember this now! That must be a good sign.",
+		"card"    : "这场战斗中获得[VAL1]%额外魔尘",
+	},
+	"BNT_mote_flower" : {
+		"name"    : "魔尘之花",
+		"memory"  : "It was a very pretty flower! And now I'll always remember it. I have to remember it.",
+		"card"    : "这场战斗中获得[VAL1]%额外魔尘",
+	},
+	"BNT_mote_garden" : {
+		"name"    : "魔尘花园",
+		"memory"  : "Such a beautiful garden. Have I really been seeing this every day? I can remember it now, but what if I forget it again?",
+		"card"    : "这场战斗中获得[VAL1]%额外魔尘",
+	},
+	"BNT_green_mote" : {
+		"name"    : "绿色魔尘",
+		"memory"  : "Let's see, who have I met before?|L||L|Scrambla: Likes to hug|L|(Has a sister? Twins?)|L||L|Knot Knott: Wives|L|(Can't be separated)|L||L|Calorie: Scaly, spicy, and very sleepy|L||L|Unknown: Flying noodle with big hair",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为绿色",
+	},
+	"BNT_red_mote" : {
+		"name"    : "红色魔尘",
+		"memory"  : "These are the Guardians I've seen.|L||L|Rendy: Big mite|L|(Loves cuddles)|L||L|Lila: Flying eyeball|L|(Loves sweet fruit)|L||L|Sandrome: Very long|L||L|Unknown: Tall screaming tree",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为红色",
+	},
+	"BNT_yellow_mote" : {
+		"name"    : "黄色魔尘",
+		"memory"  : "I still don't really know how to read that well. Maybe they can help me?|L||L|Hadesoh: Warmth and fire|L|(knows some fun words)|L||L|Ombroah: Rain and water|L|Photoxai: Bright and light|L|Dendrohai: Trees and stuff|L||L|There are so many! I wonder if I'll meet a love Glyph?",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为黄色",
+	},
+	"BNT_blue_mote" : {
+		"name"    : "蓝色魔尘",
+		"memory"  : "The first monster I met was a Zaramech! Lulu the little robot! Most other ones are not so little.|L||L|Sentinel 4X: Lady with mite legs|L|(Loves to ask questions)|L||L|Syncron: 4 robot bugs|L|(On high alert!)|L||L|Flip Flap: Love to sing|L|(Looks like Knot Knott. Wives?)",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为蓝色",
+	},
+	"BNT_orange_mote" : {
+		"name"    : "橙色魔尘",
+		"memory"  : "I've seen these Glass Flora so far.|L||L|Vitrea: Very pretty|L|Glacia: Very pretty|L|(Bad at keeping secrets)|L||L|Kiwi: Cute little girl|L|(4 of them?)|L||L|Momo: Dancer|L|(Stage fright)",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为橙色",
+	},
+	"BNT_purple_mote" : {
+		"name"    : "紫色魔尘",
+		"memory"  : "I always know their names the instant I connect our dreams together. It's as if the name they wish to be called appears in my mind. But Veyerals don't seem to have names in the same way that other monsters do. Burning Veyeral just accepts that as her name. Voltage, Venom, Frozen, Split... they are all the same way.",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为紫色",
+	},
+	"BNT_green_ore" : {
+		"name"    : "绿色矿石",
+		"memory"  : "I want to show you these, uh-|L|Have you ever heard of tetrids before? Normally they look like triangles, but these ones were polished into spheres. The fun thing about them is how they feel different to everyone.|L||L|What does this one feel like? It feels wet to you?",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为绿色",
+	},
+	"BNT_red_ore" : {
+		"name"    : "红色矿石",
+		"memory"  : "The reason these were rounded is because naturally shaped tetrids can be very dangerous. They have much less power in this shape, so we can play with them and see how they affect us.|L||L|What does this one feel like? Is it warm? Yeah, that is pretty common for red.",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为红色",
+	},
+	"BNT_yellow_ore" : {
+		"name"    : "黄色矿石",
+		"memory"  : "Okay, what does this one feel like? So, it feels just like a normal rock? That means one of your other senses is affected. Does it smell like anything? Uhh, try licking it then. Yeah, it's okay, just do it!|L||L|Sweet fruit? Lucky!",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为黄色",
+	},
+	"BNT_blue_ore" : {
+		"name"    : "蓝色矿石",
+		"memory"  : "I can't believe how lucky you've been so far! This one just smells minty to you? All of these have been pleasant for you.|L||L|Didn't you tell me that minty smells help you calm your anxiety? Huh, that is interesting considering this is the blue one.",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为蓝色",
+	},
+	"BNT_orange_ore" : {
+		"name"    : "橙色矿石",
+		"memory"  : "Finally, mild discomfort for you, hehehe!|L|That sounds like the same tingles I get from the blue one! But if it's only affecting your hand, then I bet a full tetrid wouldn't be so painful for you.|L||L|Now you're itchy? Maybe it's a little different than what I feel.",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为橙色",
+	},
+	"BNT_purple_ore" : {
+		"name"    : "紫色矿石",
+		"memory"  : "Like nothing? Not even cold? Just nothing? Does it still feel like it has weight? Is there pressure if you squeeze it? I can't even begin to imagine what that feels like. I wish I could feel what you feel.",
+		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为紫色",
+	},
+	"BNT_prism_flake" : {
+		"name"    : "棱镜之尘",
+		"memory"  : "Motes usually come in six flavors. All Zaraden can produce all six types. They shed microscopic amounts of them though their skin at all times. Those monsters though... They are on another level entirely.|L|They are fascinating!",
+		"card"    : "魔尘分数+[VAL1]%|L|[VAL2]% of motes are radiant",
+	},
+	"BNT_prism_shard" : {
+		"name"    : "棱镜碎片",
+		"memory"  : "A mass of motes will bond together into regular tetrahedronal formations. When a formation reaches a certain size, any new motes will stop sticking to it. We call this fully formed mass a tetrid.|L|Usually, motes will only bond with other motes of the same color. However, radiant tetrids can be formed when all six types of motes are blended together all the way down to the molecular level.",
+		"card"    : "魔尘分数+[VAL1]%|L|[VAL2]%的魔尘为光耀",
+	},
+	"BNT_full_prism" : {
+		"name"    : "完整棱镜",
+		"memory"  : "Tetrids are our most common source of power. Obviously the miniscule amount that Zaraden produce is nowhere near enough, but luckily we have monsters that produce massive amounts of five of the six colors.|L||L|Gathering them is very dangerous and we still don't have a solution for the lack of purple motes, but that's what I was brought here to solve!",
+		"card"    : "魔尘分数+[VAL1]%|L|[VAL2]%的魔尘为光耀",
+	},
+	"BNT_stardust" : {
+		"name"    : "星尘",
+		"memory"  : "My body is so soft and squishy.|L|So fragile.|L||L|Can you believe we are made of the same material as the stars?",
+		"card"    : "全连击给予光耀魔尘且+[VAL1]%分数",
+	},
+	
+	
+	
+	
+	"?_burden"	  : "? 负担效果|L|+???",
+	
+	"BNT_shamble_sigil" : {
+		"name"    : "晃晃印记",
+		"memory"  : "Have you ever seen one of these out there? It's called a Shamble. It says here that they usually look like a bunch of pieces moving together. Like chunks of meat and stuff like that. Gross!|L||L|They can turn you into pieces just by looking at you! There is no way they can really do that. Something that powerful would have got you a long time ago, hehehe!",
+		"card"    : "[VAL1]毒素生命|L|魔尘分数+[VAL5]%",
+	},
+	"BNT_guardian_sigil" : {
+		"name"    : "守卫者印记",
+		"memory"  : "A Guardian is just like a big creature. Big aviocs, huge mites, and even giant hydra plants. The big mite I saw looked about as tall as you, so they're probably not as big as I thought.|L||L|Yes! I know I saw it.|L|No! If I tell you where, you're going to try looking for it! We just found this safe home for you.",
+		"card"    : "[VAL1]燃烧生命|L|魔尘分数+[VAL5]%",
+	},
+	"BNT_glyph_sigil" : {
+		"name"    : "符文印记",
+		"memory"  : "These are living glyphs that float around. Have you seen one before? These are supposedly the things creating all those heart shaped stones you find all the time. It says here that they get really mad if you touch them, but you touch them all the time, right? Maybe they like you, hehehe!|L||L|No! Forget I said that, it was a joke!",
+		"card"    : "每30秒自动恐慌|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_zaramech_sigil" : {
+		"name"    : "扎拉机械印记",
+		"memory"  : "Now these I have seen for myself. They reprogrammed a few Zaramechs to do work over in Sentakah City. They keep them chained up... And-|L|I know that face.|L||L|I know they are just machines, but I don't like how they are treated either...",
+		"card"    : "过载[VAL1]生命|L|魔尘分数+[VAL5]%",
+	},
+	"BNT_flora_sigil" : {
+		"name"    : "植物印记",
+		"memory"  : "Have you ever accidentally stepped on a flower made of glass? These are supposed to look and feel just like normal flowers, but remove any piece and it instantly turns into glass.|L||L|So you have seen glass petals before! But not a whole flower? This says that they have eyeballs in them. That's gross, hehehe! Did you ever see one of those?",
+		"card"    : "[VAL1]光耀生命|L|魔尘分数+[VAL5]%",
+	},
+	"BNT_veyeral_sigil" : {
+		"name"    : "维目尔印记",
+		"memory"  : "Your heart and my heart makes these little motes all the time. They come in 6 colors based on your mood at the time. These 5 types of monsters make a huge amount of these 5 colors, but none of them make the purple kind-|L||L|Hey, are you paying attention? You put your antenna on my heart. No wait... Uh, you don't have to move or anything.",
+		"card"    : "[VAL1]流血生命|L|魔尘分数+[VAL5]%",
+	},
+	"BNT_shameful_ore" : {
+		"name"    : "羞愧矿石",
+		"memory"  : "These feel very sticky to me. In fact, if they were in their natural shape, green tetrids would actually hurt me. They feel so sticky that letting them go feels like it pulls my skin off with it!|L||L|Don't ask me how I know.",
+		"card"    : "[VAL1]创伤之心|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_enraged_ore" : {
+		"name"    : "愤怒矿石",
+		"memory"  : "Red ones feel warm to me too. The thing is, they aren't actually warm at all. These are just rocks that trick you into feeling something!|L||L|But that's also the dangerous part. What if this felt like sticking your hand into fire? Your body's reaction could damage the nerves in your hand.",
+		"card"    : "失去连击流血[VAL1]生命|L|魔尘分数+[VAL3]%",
+	},
+	"BNT_denial_ore" : {
+		"name"    : "否认矿石",
+		"memory"  : "If I touch my antenna with this one, I hear a droning sound. It sounds pretty loud with full yellow tetrids, but it's not an unbearable feeling like what green or blue do to me.|L||L|It's fun to think about what this means for each of us.",
+		"card"    : "受击无敌时间-[VAL1]%|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_anxious_ore" : {
+		"name"    : "焦虑矿石",
+		"memory"  : "I was not so fortunate with blue. This round one gives my whole arm tingles, but a full blue tetrid feels like I'm being electrocuted!",
+		"card"    : "1个压力之心|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_fragile_ore" : {
+		"name"    : "脆弱矿石",
+		"memory"  : "Now it's my turn to be the lucky one! This one tastes like sour fruit to me! It's closer to the artificial flavor like in those sour candies I gave you, so I love it even more!",
+		"card"    : "[VAL1]个流血之心|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_lonely_ore" : {
+		"name"    : "孤独矿石",
+		"memory"  : "For me, the purple one always had a strange smell that I could never figure out. I really like the smell, but I don't know-|L|Wait...|L||L|There is no way! I can't believe this! It's been a mystery for so long!|L||L|It smells just like YOU! How is this even possible?",
+		"card"    : "迟延恐慌且流血|L|魔尘分数+[VAL3]%",
+	},
+	"BNT_paranoid" : {
+		"name"    : "偏执",
+		"memory"  : "You really just sleep out here every night? What if a monster finds you while you're asleep? I saw a huge mite lurking around here before. I know I saw it!",
+		"card"    : "恐慌使你流血[VAL1]生命|L|魔尘分数+[VAL3]%",
+	},
+	"BNT_perceived" : {
+		"name"    : "被察觉",
+		"memory"  : "They are just mindless creatures and killing machines. There is no way to reason with them. You have to promise me, if you ever see one of those THINGS, you will run away! Promise me. No more talk of wanting to be friends with them, okay?",
+		"card"    : "无法使用恐慌攻击|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_observed" : {
+		"name"    : "被观察",
+		"memory"  : "I'm so tired of this secret. She's all I can think about. I love her so much, but she's wingless. How could we ever...? It was so cruel of me to give her that kind of hope.|L||L|Is someone watching me? Quit looking at me! Am I going insane? Who said that?!",
+		"card"    : "无法使用恐慌攻击|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_blind_love" : {
+		"name"    : "盲目之爱",
+		"memory"  : "Helping a Zaraden get down from a tree. What would everyone think of me? But if not me, then who? And why should I care about what they think?!|L||L|...No one is looking anyways.",
+		"card"    : "你的子弹隐形|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_hard_focus" : {
+		"name"    : "硬性专注",
+		"memory"  : "Kiss her face|L|Kiss her face|L|Kiss her face|L|Kiss her face|L|Kiss her face",
+		"card"    : "专注时无法移动|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_hyperfocus" : {	
+		"name"    : "过度专注",
+		"memory"  : "She's all I can think about anymore! Ahh! What is wrong with me?",
+		"card"    : "专注时无法移动|L|魔尘分数+[VAL2]%",
+	},
+	
+}

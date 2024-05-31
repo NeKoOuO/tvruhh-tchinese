@@ -1,0 +1,317 @@
+{
+	
+	"BNS_health_a" : {
+		"name"    : "小型治疗",
+		"memory"  : "There are monsters clawing at my heart.|L|They are tearing it apart.|L|I don't know how they got here,|L|I don't know what they want.|L|Did I do something wrong?",
+		"card"    : "回复 [VAL1]%生命",
+	},
+	"BNS_health_b" : {
+		"name"    : "半满治疗",
+		"memory"  : "I need someone to help me,|L|Hold my heart while I fix it,|L|And keep the monsters away.|L|I will be okay.|L|I will be okay.",
+		"card"    : "回复 [VAL1]%生命",
+	},
+	"BNS_health_c" : {
+		"name"    : "全满治疗",
+		"memory"  : "I can offer this embrace,|L|While you fix your broken heart.|L|I'll keep the monsters at bay.|L|You will be okay.|L|You will be okay.",
+		"card"    : "回复 [VAL1]%生命",
+	},
+	"BNS_karma_a" : {
+		"name"    : "单个愿望",
+		"memory"  : "There are so many stars in the sky. Every one of those can have planets of their own. Some might even have the perfect conditions to sustain life, just like Eyeris.",
+		"card"    : "+[VAL1]因果",
+	},
+	"BNS_karma_b" : {
+		"name"    : "双重愿望",
+		"memory"  : "We've never heard from any other life up in the stars. Maybe we are the only ones who are able to communicate. Maybe they are trying to talk to us right now, but we just don't know how to listen to them.",
+		"card"    : "+[VAL1]因果",
+	},
+	"BNS_karma_c" : {
+		"name"    : "三重愿望",
+		"memory"  : "There are places even further than the furthest star. Distances so vast that our simple three dimensional tools can't measure them. Or maybe they are right next to us in a direction we can't even comprehend.",
+		"card"    : "+[VAL1]因果",
+	},
+	"BNS_damage_a" : {
+		"name"    : "过载之爱+",
+		"memory"  : "That wingless girl seems to love everything. She loves flowers. She loves colors. She loves the rain. She even loves mites! I even had to help her down from a tree because she wanted to pet a mite.",
+		"card"    : "总伤害+[VAL1]%",
+	},
+	"BNS_damage_b" : {
+		"name"    : "过载之爱++",
+		"memory"  : "She told me that she even loves those awful monsters that lurk down there. I don't know how anyone could love one of those! She says that she just wants to give them a hug. I told her that she would give me a heart attack if she ever did something so dumb!",
+		"card"    : "总伤害+[VAL1]%",
+	},
+	"BNS_damage_c" : {
+		"name"    : "过载之爱+++",
+		"memory"  : "She really just loves everything, and...|L||L|I think I love her.",
+		"card"    : "总伤害+[VAL1]%",
+	},
+	"BNS_scribble" : {
+		"name"    : "草稿",
+		"memory"  : "No, don't look at that one. I was still just learning how to draw. It's embarrassing...|L||L|Okay, you can look.",
+		"card"    : "暴击率+[VAL1]%",
+	},
+	"BNS_doodle" : {
+		"name"    : "涂鸦",
+		"memory"  : "Why do we keep finding this crumpled up artwork down here? Are other artists ashamed of their work like us?|L||L|Impossible! Only the highest form of cutie could make something like this. Could someone else have told her this art was bad?|L||L|Unimaginable! This must have been an accident. Just a lot of happy accidents.",
+		"card"    : "暴击率+[VAL1]%",
+	},
+	"BNS_scrawl" : {
+		"name"    : "乱涂乱画",
+		"memory"  : "|shake|I don't want to die|L|I don't want to die|L|I don't want to die|L|I don't want to die|L|I don't want to die|L|LEAVE US ALONE!",
+		"card"    : "暴击率+[VAL1]%",
+	},
+	"BNS_glow_mark" : {
+		"name"    : "发光印记",
+		"memory"  : "Colors with a light nature:|L||C3||xai||den| (Xaiden) |C0|Brightness|L||C3||kah||den| (Kahden) |C0|Chrome|L||C3||ai||den| (Aiden) |C0|White",
+		"card"    : "光耀防御+[VAL1]",
+	},
+	"BNS_dark_mark" : {
+		"name"    : "黑暗印记",
+		"memory"  : "Colors with a dark nature:|L||C3||vai||den| (Vaiden) |C0|Purple|L||C3||ah||den| (Ahden) |C0|Blue|L||C3||nu||den| (Nuden) |C0|Pure dark",
+		"card"    : "虚空防御+[VAL1]",
+	},
+	"BNS_burn_mark" : {
+		"name"    : "燃烧印记",
+		"memory"  : "Colors with a warm nature:|L||C3||soh||den| (Soden) |C0|Red|L||C3||lin||den| (Linden) |C0|Orange|L||C3||lu||den| (Luden) |C0|Pink",
+		"card"    : "燃烧防御+[VAL1]",
+	},
+	"BNS_spark_mark" : {
+		"name"    : "电弧印记",
+		"memory"  : "Colors with an energetic nature:|L||C3||yo||den| (Yoden) |C0|Yellow|L||C3||toh||den| (Tohden) |C0|Cyan|L||C3||ren||den| (Renden) |C0|Fuchsia",
+		"card"    : "电击防御+[VAL1]",
+	},
+	"BNS_toxic_mark" : {
+		"name"    : "毒素印记",
+		"memory"  : "Colors with a bland nature:|L||C3||tra||den| (Traden) |C0|Gray|L||C3||dra||den| (Draden) |C0|Brown|L||C3||ry||dra||den| (Rydraden) |C0|Murky",
+		"card"    : "毒素防御+[VAL1]",
+	},
+	"BNS_starlight" : {
+		"name"    : "星光",
+		"memory"  : "I wish I could put the light of the stars in a bottle. That way, I can still have some when it rains all night.",
+		"card"    : "最大生命+[VAL1]",
+	},
+	"BNS_moonlight" : {
+		"name"    : "月光",
+		"memory"  : "I can see the moons every night.|L|For only a moment,|L|They peek through the cloudy sky.|L|I try to stay awake.|L|Then it's raining once again.",
+		"card"    : "最大生命+[VAL1]",
+	},
+	"BNS_sunlight" : {
+		"name"    : "日光",
+		"memory"  : "I miss the sun.|L|When will it come back?",
+		"card"    : "最大生命+[VAL1]",
+	},
+	"BNS_battery" : {
+		"name"    : "电池",
+		"memory"  : "When you flip |teh| it becomes |yo|, so this reads \"small battery\" any way you hold it.|L||L|I'm so good at words!",
+		"card"    : "最大能量+[VAL1]",
+	},
+	
+	
+	
+	
+	"BNS_panic_a" : {
+		"name"    : "单个恐慌",
+		"memory"  : "There is just too much happening all at once.|L|I just need a moment,|L|For everything to silence,|L|For everything to back away,|L|Just a moment of peace.|L|Did I ask for too much?",
+		"card"    : "+[VAL1]恐慌攻击",
+	},
+	"BNS_panic_b" : {
+		"name"    : "两个恐慌",
+		"memory"  : "I want it all to freeze.|L|Just give me a moment to breathe.|L|A temporary bubble to vent.|L|I will be okay.|L|I will be okay.",
+		"card"    : "+[VAL1]恐慌攻击",
+	},
+	"BNS_panic_c" : {
+		"name"    : "三个恐慌",
+		"memory"  : "Take a moment to breathe.|L|Take all the time you need.|L|I will be your bubble.|L|You will be okay.|L|You will be okay.",
+		"card"    : "+[VAL1]恐慌攻击",
+	},
+	"BNS_vial_a" : {
+		"name"    : "小型药剂",
+		"memory"  : "Take a little sip and you will start to feel better.",
+		"card"    : "+[VAL1]备用生命以在战斗中缓慢恢复",
+	},
+	"BNS_vial_b" : {
+		"name"    : "半满药剂",
+		"memory"  : "I put in nanomachines that will repair your heart from the inside.",
+		"card"    : "+[VAL1]备用生命以在战斗中缓慢恢复",
+	},
+	"BNS_vial_c" : {
+		"name"    : "全满药剂",
+		"memory"  : "I lied. It's only some of that zesty drink. Placebo can be very powerful!",
+		"card"    : "+[VAL1]备用生命以在战斗中缓慢恢复",
+	},
+	"BNS_glass_a" : {
+		"name"    : "玻璃之心",
+		"memory"  : "Glacia accidentally tore one of her petals. It turned to glass and shattered. I know they always grow back, but she looked so heartbroken.",
+		"card"    : "下次受击伤害减半",
+	},
+	"BNS_glass_b" : {
+		"name"    : "二重玻璃",
+		"memory"  : "I think the Glass Flora can generate glass with sharp edges, but they never do. They always throw smooth glass pebbles at me when they are afraid. I don't think they ever intend to hurt anyone.",
+		"card"    : "后续[VAL1]次受击伤害减半",
+	},
+	"BNS_glass_c" : {
+		"name"    : "三重玻璃",
+		"memory"  : "Kiwi has started sculpting glass hearts and giving them to anyone that will take them. They must have gotten the idea from the Glyphs.",
+		"card"    : "后续[VAL1]次受击伤害减半",
+	},
+	"BNS_life_blood" : {
+		"name"    : "生命之血",
+		"memory"  : "What has been fueling these Zaramech for so long? The sample I got feels strangely familiar.",
+		"card"    : "承受一次致命伤害",
+	},
+	"BNS_extra_blood" : {
+		"name"    : "额外的血",
+		"memory"  : "I didn't want to believe it, but the results don't lie. It's Zaraden blood...|L||L|But where is it coming from?",
+		"card"    : "承受[VAL1]次致命伤害",
+	},
+	"BNS_undo" : {
+		"name"    : "撤销",
+		"memory"  : "That one didn't count!",
+		"card"    : "阻挡下一次受击",
+	},
+	"BNS_extra_undo" : {
+		"name"    : "额外撤销",
+		"memory"  : "I don't think I deserve another chance.",
+		"card"    : "阻挡后续[VAL1]次受击",
+	},
+	
+	
+	
+	
+	"BNS_green_a" : {
+		"name"    : "一绿",
+		"memory"  : "Green motes are said to be flakes that form in the heart of a Zaraden feeling embarrassment, guilt, or shame. I wonder how the Shambles ended up with so many of these.",
+		"card"    : "+1绿色棱晶",
+	},
+	"BNS_green_b" : {
+		"name"    : "两绿",
+		"memory"  : "Shambles are very powerful beings that can warp time and space. The most powerful ones can tear a place to shreds just by existing. They can pull objects right out of the air. These objects are believed to be taken from an alternate timeline. Likewise, they can make anything vanish by presumably taking it to another universe.",
+		"card"    : "+2绿色棱晶",
+	},
+	"BNS_green_c" : {
+		"name"    : "三绿",
+		"memory"  : "Weaker Shambles that can't simply tear a hole through walls are often seen avoiding invisible obstacles that either used to exist or might exist in the future. There are theories that Shambles are actually four dimensional creatures. We can only see a small fraction of their true forms.",
+		"card"    : "+3绿色棱晶",
+	},
+	"BNS_red_a" : {
+		"name"    : "一红",
+		"memory"  : "Red motes are said to be flakes that form in the heart of a Zaraden feeling anger or frustration. The Guardians have so many of these. I hope they don't feel that way all the time.",
+		"card"    : "+1红色棱晶",
+	},
+	"BNS_red_b" : {
+		"name"    : "两红",
+		"memory"  : "Eyeris has a wide variety of strange creatures, but the most peculiar are the Guardians. Every living species has at least one member that is much larger and features remarkable mutations. They are called Guardians due to the fact that they will guard specific areas for completely unknown reasons.",
+		"card"    : "+2红色棱晶",
+	},
+	"BNS_red_c" : {
+		"name"    : "三红",
+		"memory"  : "Guardians will always guard very specific areas known as Guardian Zones. As soon as an animal begins to mutate into a Guardian, it will head straight towards the nearest Guardian Zone. They completely ignore their own species' usual habits and instincts as if they had been completely overwritten by the mutation.",
+		"card"    : "+3红色棱晶",
+	},
+	"BNS_yellow_a" : {
+		"name"    : "一黄",
+		"memory"  : "Yellow motes are said to be flakes that form in the heart of a Zaraden who refuses to accept an awful reality. Eyeric Glyph monsters are just words. Why would they have these motes?",
+		"card"    : "+1黄色棱晶",
+	},
+	"BNS_yellow_b" : {
+		"name"    : "两黄",
+		"memory"  : "The Eyeric Glyph creatures are rare beings that take on the appearance of a symbol in our own written language. They embody the literal meaning of the symbol they take the form of. The theory is that they must understand our language since they were discovered long after the symbols had been created.",
+		"card"    : "+2黄色棱晶",
+	},
+	"BNS_yellow_c" : {
+		"name"    : "三黄",
+		"memory"  : "The behavior of an Eyeric Glyph is unpredictable. They have been known to hold perfectly still for days at a time only to shift around at impossible speeds right after. Not much is known about them other than they will attack any Zaraden near them. Did we accidentally create them? Are they angry at us?",
+		"card"    : "+3黄色棱晶",
+	},
+	"BNS_blue_a" : {
+		"name"    : "一蓝",
+		"memory"  : "Blue motes are said to be flakes that form in the heart of a Zaraden feeling stress or anxiety. The Zaramechs have so many of these, but they seem to be perfectly calm all the time.",
+		"card"    : "+1蓝色棱晶",
+	},
+	"BNS_blue_b" : {
+		"name"    : "两蓝",
+		"memory"  : "Zaramechs are machines built long ago for some unknown purpose. They roam around with no clear intent, but they do occasionally attack seemingly random targets. The only sure thing is that they will attack any Veyerals on sight and even chase them down until their target is destroyed.",
+		"card"    : "+2蓝色棱晶",
+	},
+	"BNS_blue_c" : {
+		"name"    : "三蓝",
+		"memory"  : "Zaramechs have a tendency to attack predators of endangered species. This would suggest that they may have been some sort of wildlife preservation devices, but there have been strange cases where they eliminate all life within a small perimeter.",
+		"card"    : "+3蓝色棱晶",
+	},
+	"BNS_orange_a" : {
+		"name"    : "一橙",
+		"memory"  : "Orange motes are said to be flakes that form in the heart of a Zaraden feeling unstable or insecure. The Glass Flora are so strong and yet so fragile. They must feel insecurity, but do they even have a heart to form motes with?",
+		"card"    : "+1橙色棱晶",
+	},
+	"BNS_orange_b" : {
+		"name"    : "两橙",
+		"memory"  : "Glass Flora are strange plants that grow all throughout the world. They are almost indistinguishable from regular plants. They even feel exactly like a normal plant would. That is, until you remove a piece. Any part severed from the main body of a Glass Flora will instantly harden into glass.",
+		"card"    : "+2橙色棱晶",
+	},
+	"BNS_orange_c" : {
+		"name"    : "三橙",
+		"memory"  : "Unlike most regular plants, all Glass Flora will grow eyeballs. These eyeballs, usually found inside of blooming flowers, are the only non-glass part of the creature. Their roots are used for movement rather than absorbing nutrients. Oddly enough, they absorb sunlight and water through their eyeballs instead.",
+		"card"    : "+3橙色棱晶",
+	},
+	"BNS_purple_a" : {
+		"name"    : "一紫",
+		"memory"  : "Purple motes are said to be flakes that form in the heart of a Zaraden feeling loneliness. Veyerals always carry these motes. Are they the cause of loneliness or just drawn to it?",
+		"card"    : "+1紫色棱晶",
+	},
+	"BNS_purple_b" : {
+		"name"    : "两紫",
+		"memory"  : "Veyerals are creatures from the void. They are attracted to feelings of loneliness and they infect any life that they come across. Those that have been infected are driven mad by extreme loneliness until the Veyerals completely take over their mind.",
+		"card"    : "+2紫色棱晶",
+	},
+	"BNS_purple_c" : {
+		"name"    : "三紫",
+		"memory"  : "All Veyerals seem to have the same goal, not to take a life, but to convince a life to end itself. They die along with their host. Is that really what they want?",
+		"card"    : "+3紫色棱晶",
+	},
+	"BNS_green_orange" : {
+		"name"    : "绿橙",
+		"memory"  : "The green ones feel sticky even though they don't actually stick to my skin.|L||L|The orange ones feel slippery. Like they could slip out of my hands at any moment, but they don't.",
+		"card"    : "+1绿色棱晶|L|+1橙色棱晶",
+	},
+	"BNS_blue_red" : {
+		"name"    : "蓝红",
+		"memory"  : "The red ones are just slightly warm to the touch.|L||L|The blue ones didn't seem to do anything at first, but nothing could prepare me for the most terrifying sound I've ever heard. If a蓝色棱晶 even touches my antennae... I don't think there are words to describe it.",
+		"card"    : "+1蓝色棱晶|L|+1红色棱晶",
+	},
+	"BNS_purple_yellow" : {
+		"name"    : "紫黄",
+		"memory"  : "Yellow ones feel at least twice as heavy as the other colors.|L||L|Then there's the purple ones... They smell just like her. I wish I never tried this.|L|I miss her.",
+		"card"    : "+1紫色棱晶|L|+1黄色棱晶",
+	},
+	"BNS_cool_tetrids" : {
+		"name"    : "冷色棱晶",
+		"memory"  : "Each color of tetrid affects every Zaraden differently. They can affect the sense of touch, taste, smell, or hearing with varying intensity. The effects are usually harmless, but it is possible to experience excruciating amounts of pain by simply touching them.",
+		"card"    : "+1绿色棱晶|L|+1蓝色棱晶|L|+1紫色棱晶",
+	},
+	"BNS_warm_tetrids" : {
+		"name"    : "暖色棱晶",
+		"memory"  : "The effects of tetrids on Zaraden seem to follow their personality in some way. For example, an easily frustrated Zaraden might feel extreme heat or loud noises from红色棱晶s.|L||L|It can be fun to learn how they affect you, but it can also be very dangerous. They can be physically and mentally damaging. I know from experience.",
+		"card"    : "+1红色棱晶|L|+1黄色棱晶|L|+1橙色棱晶",
+	},
+	"BNS_mote_swirl" : {
+		"name"    : "魔尘漩涡",
+		"memory"  : "|ry||den||-||vai||lu| Shame|L||soh||den||-||vai||lu| Frustration|L||yo||den||-||vai||lu| Denial|L||ah||den||-||vai||lu| Anxiety|L||lin||den||-||vai||lu| Insecurity|L||vai||den||-||vai||lu| Loneliness",
+		"card"    : "每种颜色的半个棱晶",
+	},
+	"BNS_radiant_a" : {
+		"name"    : "光耀碎片",
+		"memory"  : "So this is how it's done?|L|This is what powers our whole world-",
+		"card"    : "一片光耀棱晶",
+	},
+	"BNS_radiant_b" : {
+		"name"    : "半个光耀",
+		"memory"  : "-and they want me to help with THIS?!",
+		"card"    : "半个光耀棱晶",
+	},
+	"BNS_radiant_c" : {
+		"name"    : "完整光耀",
+		"memory"  : "They know that I'm a wingless, but I guess I'm one of the \"useful ones.\"|L||L|I don't know what to do...",
+		"card"    : "一个完整的光耀棱晶",
+	},
+
+}
