@@ -1,0 +1,277 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "Excuse us, miss.",
+			"dialog_rand2"		: "Oh, hello again.",
+			"dialog_rand3"		: "It's the pretty lady again.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "Umm, may we ask you something?",
+			"dialog_rand2"		: "We want to ask a favor of you.",
+			"dialog_rand3"		: "Is it okay for us to ask something of you?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "This may be terribly rude of us, but-",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "Your dreams are simply wonderful.|!||L|They are beyond words, really.",
+			"dialog_rand2"		: "We've never seen such beauty as your dreams have shown us.",
+			"dialog_rand3"		: "Your dreams are a world of unmatched beauty.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "We wish to see that world again.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "We can't dream by ourselves, but we want to sleep in that marvelous dreamscape of yours.",
+		},
+	],
+	
+	"monster_gifts"	: "Veyerals' Gifts",
+	
+	"op_start"		: "Show Them A Dream",
+	"op_leave"		: "It's Too Late",
+	
+	"comment_start"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "We implore you to give us sweet dreams.",
+	},
+	"comment_leave"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+		"dialog"	: "On second thought, we are so tired, and your mere presence is enough for us.",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+		"dialog"	: "|C3|(They seem to be asleep)",
+	},
+	
+	"start_battle" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Excellent!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "|wave|We shall have such sweet dreams tonight.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|You've made us so happy.",
+		},
+	],
+	
+	"start_battle_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "|shake|You can't dream?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "We Veyerals lack that ability it seems.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
+			"dialog"			: "So, I've shown you all your very first dreams, ever?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Don't be sad, miss.|L||!|We appreciate what you've already done for us.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
+			"dialog"			: "I'll show you the best dream that I can.",
+		},
+	],
+	
+	"no_battle" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "Love... You.",
+		},
+	],
+	
+	"return_intro" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "|C3|...[VAL1] motes.|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|They're all counting motes in their sleep.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Oh yes. We've also gathered these gifts for you.",
+		},
+	],
+	
+	
+	"comment_take_first"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "I insist that you take one.",
+	},
+	"comment_take_another"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "Take any one you want!",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "Will you take this?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "Your dreams are worth it.",
+			"dialog_rand2"		: "This is how much we love you.",
+			"dialog_rand3"		: "|wave|A dream come true.",
+			"dialog_rand4"		: "This cannot compare to the gift you have given us.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "I know I speak for all of us when I say that you deserve another gift.",
+			"dialog_rand2"		: "We want you to have another gift.",
+			"dialog_rand3"		: "Please take another gift.",
+		}
+	],
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Umm, I have one last request.|L||!|I need help falling asleep again.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "Good, because I still have something that I need to do.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "What could that be?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "You're so cute...",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|I see you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
+			"dialog"			: "W-what?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Oh.|!||L|Pardon the assumption.|!||L|It's just that your lovely eye-",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "Defect, it is simply an eyeball thing.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "Oh.|!| I     see   you?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Marvelous.",
+		},
+		
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "You are warm like the sun...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "Greeny, I can't help but notice that I woke up in a pile of Veyerals.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "Oh, they all piled on top of you in their sleep.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "And you had nothing to do with this?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "|wave|Nuh uh.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "|shake|Yeah!|L||!|This is just what I needed!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "Oops.|L||!|Sorry, that was loud.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "These ladies could sleep through a metal concert.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "It's time for my nap...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+	],
+
+}

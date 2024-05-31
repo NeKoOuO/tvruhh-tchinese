@@ -1,0 +1,157 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_normal"],
+			"random"			: 4,
+			"dialog_rand1"		: "Your hugs beyond powerful!",
+			"dialog_rand2"		: "Your hug brings the lovepocalypse!",
+			"dialog_rand3"		: "You are weapon of mass affection!",
+			"dialog_rand4"		: "You show love to Roundsaw!",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_shocked"],
+			"dialog"			: "|shake|You must want more power!",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "Roundsaw will share strength.",
+			"dialog_rand2"		: "Roundsaw will make you stronger.",
+		},
+	],
+	
+	"intro_devil" : [
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "You are strong like Guardian!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "Yeah, I get that a lot.",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_shocked"],
+			"dialog"			: "|shake|Roundsaw wants to see you more powerful!",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "Roundsaw will make you stronger.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "Lookin for a rematch, huh?",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_shocked"],
+			"dialog"			: "Wait! Roundsaw has gift.",
+		},
+	],
+	
+	"monster_gifts"	: "Roundsaw's Gifts",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+		"dialog"	: "This makes you stronger.",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_normal"],
+		"dialog"	: "Take this?",
+	},
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "Did you put your saw away?",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_sad"],
+			"dialog"			: "Roundsaw does not have saw right now.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious3"],
+			"dialog"			: "Now's my chance.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "|shake|Prrrrrrrrrr.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_sad"],
+			"dialog"			: "Roundsaw can have hug?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "Sure thing, Roundsaw.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "|shake|Woah!",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "Your thorns squishy!",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "Oh, my feathers?|!||L|They look sharp, but they are actually squishy.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "You're mine now!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "|shake|Prrrrrrrrrrrrrr.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "No Greeny.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_pain"],
+			"dialog"			: "|shake|But,   I want the scaly noodle!",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "I could use some more practice.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "Go get your saw!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "Yeah yeah yeah!",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_sad"],
+			"dialog"			: "Roundsaw wants hug.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "|shake|Prrrrrrrrrrrr.",
+		},
+	],
+
+}

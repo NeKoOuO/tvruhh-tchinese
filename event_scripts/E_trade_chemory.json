@@ -1,0 +1,400 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "Hmmm...",
+			"dialog_rand2"		: "What shall it be today?",
+			"dialog_rand3"		: "Today I think-",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised"],
+			"random"			: 6,
+			"dialog_rand1"		: "Spectral Blooms!",
+			"dialog_rand2"		: "Day Blooms!",
+			"dialog_rand3"		: "Night Blooms!",
+			"dialog_rand4"		: "Sweet Fruit!",
+			"dialog_rand5"		: "String Sugar!",
+			"dialog_rand6"		: "Petrichor!",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|I want to transmute a perfume of that scent.",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
+			"dialog"			: "Umm-",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
+			"dialog"			: "My behavior was very     toxic    earlier, but I want to change that.",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_confused_blush"],
+			"dialog"			: "I know one way that I can make the world better.",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+			"dialog"			: "If you have anything |C3|toxic|C0| in nature, then I want to turn it into an aromatic perfume.",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"dialog"			: "|wave|Anything can be changed for the better.",
+		},
+	],
+	
+	"intro_blank" : [
+		{
+			"character"			: ["VOICE_static", "CHAR_chemory_right", "MOOD_surprised"],
+			"dialog"			: "|C3|Sniff sniff",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
+			"dialog"			: "What are you doing?",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "|C3|Sniff sniff",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|I want to make a perfume of that scent.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
+			"dialog"			: "My hair?",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"dialog"			: "I know how I can make the world a little better today.",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_blush"],
+			"dialog"			: "The sweet scent in your hair has inspired me!",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+			"dialog"			: "If you have any gifts that are |C3|toxic|C0| in nature, then I want to turn them into an aromatic perfume.",
+		},
+	],
+	
+	"mood_title"	: "Chemory's Mood",
+	"monster_gifts"	: "Chemory's Gifts",
+	"player_gifts"	: "[NAME]'s Active Gifts",
+	"player_quicks"	: "[NAME]'s Quick Gifts",
+
+	"op_trade"			: "Chemory's Gifts",
+	"op_give_active"	: "Give Active Gifts",
+	"op_give_quick"		: "Give Quick Gifts",
+	"op_leave"			: "Leave",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "I will trade some of my gifts for yours.",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_normal"],
+		"dialog"	: "I want things I can transmute into perfume.",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+		"dialog"	: "A lot of these make excellent ingredients.",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+		"dialog"	: "I'll get to work when you go!",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
+		"dialog"	: "I have nothing left to give.",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+		"dialog"	: "I think I have enough for today.",
+	},
+	"comment_give_empty"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_suprised"],
+		"dialog"	: "You have no ingredients.",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_confused"],
+		"dialog"	: "Are you leaving now?",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "This is for you!",
+	},
+	"comment_take_stone"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_awkward"],
+		"dialog"	: "I uhh... I made this for you.",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_shocked"],
+		"dialog"	: "I can't remember what this is.",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_blush"],
+		"dialog"	: "Do you have something else for me?",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
+		"dialog"	: "Sadly, I can't make it any smaller for you.",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_normal"],
+		"dialog"	: "Do you want this?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|May it bond well with you.",
+			"dialog_rand2"		: "I hope it transforms your ability to love.",
+			"dialog_rand3"		: "Please use this to make the world a little better.",
+			"dialog_rand4"		: "I know you will do great things with this.",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_normal"],
+		"dialog"	: "I'll take this if you don't need it.",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "I will transmute this into something fragrant!",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "|wave|What a beautiful mess this is!|L||norm|I can turn it into something lovely.",
+	},
+	"comment_give_TAG_scent"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+		"dialog"	: "What a lovely scent this has!",
+	},
+	"comment_give_TAG_chemory_part"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
+		"dialog"	: "|shake|Is that one of mine?|norm||L|Can I have it back, please?",
+	},
+	"comment_give_I_natural_glyph"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
+		"dialog"	: "That's really cute!|L||shake|Wait, is that supposed to be me?",
+	},
+	"comment_give_dislike"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised"],
+		"dialog"	: "I can't take this.|L|Strong electric currents will mess with the transmutation process.",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised"],
+		"dialog"	: "I'll have to transmute this quickly!",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "I can use this vibe as inspiration.",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_aggressive"],
+		"dialog"	: "This is the kind of challenge I'm looking for!",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_confused"],
+		"dialog"	: "I have enough of this already.",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+		"dialog"	: "You should keep that.",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "Will you give this to me?",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "This could be very useful to me.",
+			"dialog_rand2"		: "Thank you. I love it!",
+			"dialog_rand3"		: "You are too nice to me.",
+			"dialog_rand4"		: "This could help me with my work!",
+		}
+	],
+	"special_given" 		: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "I will bond the molecules into something lovely.",
+			"dialog_rand2"		: "It's time for some chemical bonding!",
+			"dialog_rand3"		: "Bonding the elements.",
+			"dialog_rand4"		: "I will bind the molecules with something sweet.",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"random"			: 3,
+			"dialog_rand1"		: "This has a chance to become something greater.",
+			"dialog_rand2"		: "|wave|Doesn't that sound romantic?",
+			"dialog_rand3"		: "|wave|A little romance between the chemicals.",
+		}
+	],
+	"TAG_scent_given" 		: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "This scent has inspired me to create!",
+			"dialog_rand2"		: "I will make a perfume out of this.",
+			"dialog_rand3"		: "I love this scent so much!",
+		}
+	],
+	"TAG_chemory_part_given" 	: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_awkward"],
+			"dialog"			: "This is so embarrassing.",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_confused_blush"],
+			"dialog"			: "These are very dangerous!",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "I can't believe how careless I was with these!",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"dialog"			: "I appreciate you returning it to me.",
+		},
+	],
+	"I_natural_glyph_given" 	: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
+			"dialog"			: "Do you think I can change myself for the better?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"dialog"			: "I won't let you down.",
+		}
+	],
+
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_static", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "|C3|Sniff sniff|L||!||shake|Nom",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "|shake|Did you just bite my hair?",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad_blush"],
+			"dialog"			: "It smells so sweet, I thought it was made of string sugar.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "Chemory, I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "I'm sorry.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"random"			: 4,
+			"dialog_rand1"		: "Blue, you smell like sitting by a pond at sunset.",
+			"dialog_rand2"		: "Blue, you smell like a stream flowing through a field of flowers.",
+			"dialog_rand3"		: "Blue, you smell like a tree covered in mushrooms before the rain.",
+			"dialog_rand4"		: "Blue, you smell like the shade under a tree on a sunny day with a light breeze.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "And you have the scent of the moon rising over the forest.",
+			"dialog_rand2"		: "And you emit a fragrance of a basket of sweet fruit and heart candy.",
+			"dialog_rand3"		: "And you have the scent of the sunrise over a field of grass.",
+			"dialog_rand4"		: "And you emit the scent of dew collecting on a day bloom in the morning.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "How did you do that?|L||!|It's so specific!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"dialog"			: "|wave|You're welcome.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "My sister really likes the smell of sour fruit trees.",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "Is that so?|!||L|I could change my scent to that right now.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_happy"],
+			"dialog"			: "Oh wow, that smells exactly the same!",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_awkward"],
+			"dialog"			: "You don't have to stand over there.|!||L|You can come closer if you want.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "Oh, okay.",
+		},
+		
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_static", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "|C3|Sniff sniff",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+			"dialog"			: "What a lovely scent you have!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "Oh, you like that?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_vey_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "I call it    Campfire and Burnt Hair.",
+			"dialog_rand2"		: "I call it    Rolling Around in the Grass for Half an Hour.",
+			"dialog_rand3"		: "I call it    Lightning Burned Down a Tree I was Sleeping Under.",
+			"dialog_rand4"		: "I call it    Moist Tree Bark.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_static", "CHAR_chemory_right", "MOOD_surprised"],
+			"dialog"			: "|C3|Sniff sniff",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+			"dialog"			: "What a lovely scent you have!",
+		},
+	],
+
+}

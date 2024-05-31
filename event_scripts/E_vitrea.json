@@ -1,0 +1,824 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+			"dialog"			: "Welcome to-",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+			"dialog"			: "|wave|My observatory!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "What will you discover today?",
+			"dialog_rand2"		: "Are you ready to capture the stars?",
+			"dialog_rand3"		: "I hope you find something interesting today.",
+		}
+	],
+	
+	"shop_level"		: "Observatory Level [VAL1]",
+	"total_tokens"		: "Total Lens Tokens Used",
+	"telescope_gifts"	: "[VAL1] Gifts",
+	"player_gifts"		: "[NAME]'s Gifts",
+
+	"op_scopes"		: "Observatory",
+	"op_donate"		: "Donate Gifts",
+	"op_upgrade"	: "Upgrades",
+	"op_leave"		: "Leave",
+	
+	"op_telescope_1"	: "Telescope A",
+	"op_telescope_2"	: "Telescope B",
+	"op_telescope_3"	: "Telescope C",
+	"op_donate_limit"	: "Backroom Size",
+	
+	"comment_scopes"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+		"dialog"	: "Look through the telescopes and turn your discovery into gifts.",
+	},
+	"comment_donate"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+		"dialog"	: "Donate some of your gifts to the observatory!|L|I'll give you |C3|Lens Tokens|C0| and |C3|Karma.|C0|",
+	},
+	"comment_donate_limit"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
+		"dialog"	: "I have no more room for donations today.",
+	},
+	"comment_token_limit"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_upset"],
+		"dialog"	: "Use some of those |C3|Lens Tokens|C0| you already have!",
+	},
+	"comment_upgrades"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+		"dialog"	: "I can improve the observatory with all those |C3|Tetrids|C0| you got!",
+	},
+	"comment_max_level"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+		"dialog"	: "Look at my complete and perfect observatory!",
+	},
+	"comment_leave"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
+		"dialog"	: "If you gotta go now, I can save all your |C3|Lens Tokens|C0| for next time.",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
+		"dialog"	: "You have to go so soon?",
+	},
+	
+	"comment_open_telescope"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+		"dialog"	: "Each of my telescopes can capture one gift from the stars.",
+	},
+	"comment_used_telescope"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
+		"dialog"	: "You can't get another gift out of this one, but you can still look through it.",
+	},
+	"comment_empty_telescope"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
+		"dialog"	: "There is nothing left to see in this one.",
+	},
+	"comment_locked_telescope"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious"],
+		"dialog"	: "This telescope isn't ready to use yet.",
+	},
+	
+	
+	
+	"cost_line"		: "Use |C3|[VAL1] Lens Tokens|C0| to capture this gift.",
+	"cost_line_1"	: "Use |C3|1 Lens Token|C0| to capture this gift.",
+	"comment_unknown"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked"],
+		"dialog"	: "The telescope can't seem to get a good focus on this!|L|[VAL1]",
+	},
+	"comment_one"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
+		"dialog"	: "Simply stellar.|L|[VAL1]",
+	},
+	"comment_two"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+		"dialog"	: "A lovely bit of cosmos.|L|[VAL1]",
+	},
+	"comment_three"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
+		"dialog"	: "I am awestruck.|L|[VAL1]",
+	},
+	"comment_bonus"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+		"dialog"	: "A bonus in the stars!|L|[VAL1]",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+		"dialog"	: "Capture this quickly!|L|[VAL1]",
+	},
+	"comment_limit"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
+		"dialog"	: "No point in capturing this one if you can't even carry it.",
+	},
+	"comment_over"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious"],
+		"dialog"	: "You would need |C3|[VAL2] Lens Tokens|C0| to capture this.",
+	},
+	"comment_over_1"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious"],
+		"dialog"	: "You would need |C3|1 Lens Token|C0| to capture this.",
+	},
+	"comment_closed"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
+		"dialog"	: "You already captured a gift with this telescope.",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+		"dialog"	: "Capture this gift?",
+	},
+	
+	"gift_bought" 		: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+			"random"			: 4,
+			"dialog_rand1"		: "|shake|Yes yes!|norm||L|Take that cosmos with you.",
+			"dialog_rand2"		: "|wave|Bright   and   shiny.",
+			"dialog_rand3"		: "Ooh, I love that one.",
+			"dialog_rand4"		: "That is one of my favorites!",
+		}
+	],
+	
+	
+	
+	"donate_line"	: "I'll give you |C3|[VAL1] Lens Tokens|C0| and |C3|[VAL2] Karma|C0| for it.",
+	"donate_line_1"	: "I'll give you |C3|1 Lens Token|C0| and |C3|[VAL2] Karma|C0| for it.",
+	"comment_donate_normal"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
+		"dialog"	: "I can take this as a donation.|L|[VAL1]",
+	},
+	"comment_donate_cosmic"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
+		"dialog"	: "I want this in my collection!|L|[VAL1]",
+	},
+	"comment_donate_special"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
+		"dialog"	: "I think I |shake|need|norm| that!|L|[VAL1]",
+	},
+	"comment_donate_I_little_sister"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+		"dialog"	: "|wave|The little half of my favorite constellation.|norm||L|[VAL1]",
+	},
+	"comment_donate_I_big_sister"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+		"dialog"	: "|wave|The big half of my favorite constellation.|norm||L|[VAL1]",
+	},
+	"comment_donate_TAG_vitrea_part"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush"],
+		"dialog"	: "I was wondering where I put that.|L|[VAL1]",
+	},
+	"comment_donate_TAG_glacia_part"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_too_happy"],
+		"dialog"	: "|shake|Can I have that?|norm||L|[VAL1]",
+	},
+	"comment_donate_quick"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+		"dialog"	: "Quick, before it's gone!|L|[VAL1]",
+	},
+	"comment_donate_blessing"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
+		"dialog"	: "What is that? Pure emotion?|L|[VAL1]",
+	},
+	"comment_donate_cosmic_blessing"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+		"dialog"	: "These vibes are |wave|truly stellar!|norm||L|[VAL1]",
+	},
+	"comment_donate_burden"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
+		"dialog"	: "You really won't give that to me?|L|Ah, you know me well enough to know this would be bad for me.",
+	},
+	"comment_donate_taken": {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+		"dialog"	: "You just got that.|L|I want you to keep it.",
+	},
+	"comment_donate_starter": {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_upset"],
+		"dialog"	: "I'm not taking that from you.",
+	},
+	"donate_confirm"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
+		"dialog"	: "I can really have it?",
+	},
+	
+	"gift_donated" 		: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|Thanks for giving me this!",
+			"dialog_rand2"		: "I love it so much!",
+			"dialog_rand3"		: "You must really want to capture the stars.",
+			"dialog_rand4"		: "I'm so happy right now.",
+		}
+	],
+	"cosmic_donated" 	: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
+			"random"			: 3,
+			"dialog_rand1"		: "The stars are so beautiful.",
+			"dialog_rand2"		: "There are so many mysteries in the universe.",
+			"dialog_rand3"		: "I love to look at the stars.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+			"random"			: 8,
+			"dialog_rand1"		: "Did you know that 800 years ago, there was a nova star explosion close enough to glow as bright as the moons?",
+			"dialog_rand2"		: "Did you know that our star is smaller than 99% of all known rainbow stars? I can't wait to see it again.",
+			"dialog_rand3"		: "Did you know that some of the stars we can see right now actually blew up millions of years ago?",
+			"dialog_rand4"		: "Did you know that the days on Eyeris are shorter than days on any other planet in our solar system?",
+			"dialog_rand5"		: "Did you know that the universe is only 28.5 billion years old?",
+			"dialog_rand6"		: "Did you know that shooting stars are actually just space rocks that burn up as they fall down onto Eyeris?",
+			"dialog_rand7"		: "Did you know that Eyeris is the fourth planet from our star?",
+			"dialog_rand8"		: "Did you know that in about 10 billion years, our star will grow massive and explode? We better get off this planet before that.",
+		}
+	],
+	"special_donated" 	: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "happy_glare"],
+			"dialog"			: "This looks like it came from another universe entirely!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+			"dialog"			: "Did you know that there may be an infinite number of parallel universes?",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
+			"dialog"			: "If that's the case, then everything you can ever imagine     |shake|must   exist!",
+		}
+	],
+	"I_little_sister_donated" 	: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
+			"dialog"			: "I love this pair of constellations so much!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+			"dialog"			: "Did you know that all glass flora petals reflect actual stars in the sky?",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
+			"dialog"			: "But I wish mine reflected this constellation.",
+		},
+	],
+	"I_big_sister_donated" 	: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
+			"dialog"			: "I love this pair of constellations so much!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+			"dialog"			: "Did you know that I love you a whole lot for giving this to me?",
+		},
+	],
+	"TAG_vitrea_part_donated" 	: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
+			"dialog"			: "I should be more careful with these!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush"],
+			"dialog"			: "I don't want anyone to step on them and hurt themselves.",
+		},
+	],
+	"TAG_glacia_part_donated" 	: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
+			"dialog"			: "Really, I can have it?",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
+			"dialog"			: "It still smells like her.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
+			"dialog"			: "Oh! I said that out loud.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_too_happy"],
+			"dialog"			: "Why are you looking at me like that?",
+		},
+	],
+	
+	
+	
+	
+	"comment_upgrade_scope_0"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+		"dialog"	: "I can activate this telescope if you give me some tetrids.",
+	},
+	"comment_upgrade_scope_1"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
+		"dialog"	: "This telescope can only view |C3|1 cosmic body|C0| right now, but I can upgrade this with some tetrids!",
+	},
+	"comment_upgrade_scope"			: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+		"dialog"	: "This telescope can be used to see |C3|[VAL1] cosmic bodies|C0| right now, but I can upgrade it with more tetrids!",
+	},
+	"comment_upgrade_scope_maxed"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+		"dialog"	: "This telescope is at max power!|L|It can be used to observe |C3|[VAL1] cosmic bodies|C0| per visit.",
+	},
+	
+	"comment_upgrade_donate_1"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
+		"dialog"	: "The backroom can only hold |C3|1 Donation|C0| per visit, but I can make room for another.",
+	},
+	"comment_upgrade_donate"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+		"dialog"	: "The backroom has room for |C3|[VAL1] Donations|C0| per visit, but I can make room for more!",
+	},
+	"comment_upgrade_donate_maxed"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+		"dialog"	: "I can fit up to |C3|[VAL1] Donations|C0| in Amalga's backroom dimension. This seems to be the absolute limit.",
+	},
+	
+	"comment_upgrade_fail"			: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
+		"dialog"	: "Let's try to slow down, yeah?|L|Try using more |C3|Lens Tokens|C0| in the telescopes, so I can figure out what needs to improve.",
+	},
+	
+	"upgrade_telescope_first" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+			"dialog"			: "|shake|Yes!|norm| I can activate another telescope with this!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+			"dialog"			: "In fact, you can use it right now!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+			"dialog"			: "Though it can only observe one object for now.",
+		}
+	],
+	"upgrade_telescope" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+			"dialog"			: "This telescope will be able to observe more celestial objects next time you visit!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+			"dialog"			: "You will have more options when choosing which gift to capture.",
+		},
+	],
+	"upgrade_telescope_final" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+			"dialog"			: "Next time you visit, this telescope will be at maximum power!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
+			"dialog"			: "I'm getting so excited thinking about it.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_too_happy"],
+			"dialog"			: "|shake|Just think of all the celestial bodies you can observe.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+			"dialog"			: "I can't wait to show you!",
+		},
+	],
+	"upgrade_donation_first" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "orange_scene_music",
+			"bg_image"			: "spr_scene_raining_cave",
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
+			"dialog"			: "Let's see if I can do this by myself.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
+			"dialog"			: "|shake|Backroom expansion!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+			"dialog"			: "It worked!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+			"dialog"			: "My friend, Amalga, is letting me use something called a backroom dimension.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
+			"dialog"			: "It's like a little pocket in the fourth dimension that she can open.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+			"dialog"			: "I can put your donations and extra lens tokens in there since you don't want to be carrying those around.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
+			"dialog"			: "Those tokens are only useful here anyways, right?",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
+			"dialog"			: "Did you know, most Shambles can open holes into the fourth dimension?",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+			"dialog"			: "Amalga gave me a tiny piece of herself, so that I can open this rift whenever I want.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
+			"dialog"			: "The way it seems to work is-",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
+			"dialog"			: "Umm, actually...|L||!|I'll take your whole day if I keep going.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+			"dialog"			: "Basically, I can take an extra donation from you every day now.",
+		}
+	],
+	"upgrade_donation" 			: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
+			"dialog"			: "|shake|Backroom expansion!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+			"dialog"			: "I can put more donations in the backroom dimension.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+			"dialog"			: "I can now accept more donations each time you visit!",
+		}
+	],
+	"upgrade_donation_final" 	: [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "orange_scene_music",
+			"bg_image"			: "spr_scene_raining_cave",
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
+			"dialog"			: "It seems like this will be the last time I can do this.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
+			"dialog"			: "|shake|Backroom expansion!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+			"dialog"			: "I can put so much stuff in here now.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
+			"dialog"			: "I can't believe Amalga trusts me so much with all this space.",
+		},
+		{
+			"play_music"		: "silence",
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
+			"dialog"			: "Did you-",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
+			"dialog"			: "Did you just look in there?",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "...",
+		},
+		{
+			"play_music"		: "nightmare_music_c",
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "What     did you see?",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "I can't believe you did that.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "This is really my fault.|L||!|I should have warned you not to look in there.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "Do you know what I have to do now?",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "I can't let Amalga find out about this.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "I can't let |shake|anyone|norm|     find out about this.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "I didn't want to do this, but now I have no other choice.",
+		},
+		{
+			"play_music"		: "silence",
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "...",
+		},
+		{
+			"play_music"		: "scene_music_b",
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|I'm going to cry!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Pretty, pretty, please don't tell anyone!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
+			"dialog"			: "|shake|You're going to make me cry if you do!",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
+			"dialog"			: "Crying is good for you, Vitrea.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Amalga!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
+			"dialog"			: "Where did you come from?",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
+			"dialog"			: "This is OUR backroom dimension.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
+			"dialog"			: "We know everything you put in here, and we can hear you when it's open, silly.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_angry"],
+			"dialog"			: "We told you that when we gave it to you!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_awkward"],
+			"dialog"			: "Oh, that's right.|L||!|I knew I was forgetting something.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
+			"dialog"			: "So     you know then?",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "Your first drawings won't be perfect.|L||!|You are still learning.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_aggressive"],
+			"dialog"			: "Or are you talking about how you practice kissing all those photos of Glacia?",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
+			"dialog"			: "|shake|I don't do that!",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Just kidding!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "You should tell her how you feel.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
+			"dialog"			: "I can't.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
+			"dialog"			: "She wouldn't feel the same.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "You don't know that for sure.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
+			"dialog"			: "The longer you wait, the more it will hurt.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
+			"dialog"			: "I've never done this before.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_normal"],
+			"dialog"			: "That's okay.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
+			"dialog"			: "You don't have to do it today.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
+			"dialog"			: "But trust us, not knowing for all these years is so much worse than rejection.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
+			"dialog"			: "Maybe it helps knowing that all of us are rooting for you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"play_music"		: "silence",
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
+			"dialog"			: "Umm, thanks Amalga.",
+		},
+		{
+			"play_music"		: "orange_scene_music",
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
+			"dialog"			: "We have to go now!|!||L|We have to give that pale Zaraden a bunch of gifts in our universe.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked"],
+			"dialog"			: "You aren't even Amalga from THIS universe?",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
+			"dialog"			: "Nope.|L||!||wave|Bye bye.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+			"dialog"			: "|wave|See some version of you later.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+			"dialog"			: "She's so sweet.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
+			"dialog"			: "I'm sorry that took so long!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush"],
+			"dialog"			: "I guess you know my secret now.|L||!|I actually feel so relieved that it's out there.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
+			"dialog"			: "Could Glacia really feel the same?",
+		},
+	],
+	
+	"green_comment"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_angry"],
+		"dialog"	: "These are too sticky!",
+	},
+	"red_comment"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
+		"dialog"	: "Do I hear a guitar solo in there?",
+	},
+	"yellow_comment"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+		"dialog"	: "These smell like day blooms.",
+	},
+	"blue_comment"		: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+		"dialog"	: "The color of the night sky.|L|They feel smooth like glass.|L||C3|These give me the most power.",
+	},
+	"orange_comment"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
+		"dialog"	: "These feel like broken petals.",
+	},
+	"purple_comment"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked"],
+		"dialog"	: "These are as cold as the vacuum of space.",
+	},
+	"radiant_comment"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+		"dialog"	: "|shake|These shine like a star!",
+	},
+	"upgrade_confirm"	: {
+		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+		"dialog"	: "Can I really have these?",
+	},
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "Thank you for letting me see the sky through the clouds today.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+			"dialog"			: "If my calculations are correct, the rain will stop by tomorrow.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"			: "Yeah,    you are probably right.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+			"dialog"			: "I'll be here for you on all the rainy days.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+			"dialog"			: "How do you even work?|L||!|How are you alive?|L||!|Are you even made of matter?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "What matters is how gorgeous I am.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
+			"dialog"			: "That radial symmetry.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "Uh, can I have her back now?",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
+			"dialog"			: "Oh, sorry!",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "Where did you get the glass for these special lenses?",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "I know that face.",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
+			"dialog"			: "Well, my glass wasn't working, so...    my friend let me use some of hers.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "Oh wow, |wave|Glacia|norm| must really trust you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_too_happy"],
+			"dialog"			: "Yeah,    I guess so.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
+			"dialog"			: "Do they have telescopes in the towers?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "Those pathetic things weren't anywhere near your level!",
+		},
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+			"dialog"			: "Oh, really?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "When I get back up there, I'm going to make them give you a whole tower for your telescopes.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
+			"dialog"			: "You don't have to do all that.",
+		},
+	],
+	
+	"leave_default" 	: [
+		{
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
+			"dialog"			: "I hope you come back soon.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
+			"dialog"			: "I'll be here to show you the stars",
+		},
+	],
+
+}

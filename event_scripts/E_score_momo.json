@@ -1,0 +1,337 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "Momo, Momo, Momo,|L|That's a name you should know.",
+			"dialog_rand2"		: "She's unmatched in her stance.|L|She can kill with her dance.",
+			"dialog_rand3"		: "Who's the flower with the power?|L|The unbreakable and unmistakable.",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "Momo, Momo, Momo,|L|She's the star of the show.",
+			"dialog_rand2"		: "Let's go. Let's go. Let's go!|L|It's time for, Momo.",
+			"dialog_rand3"		: "Momo can dance, Momo can sing.|L|Momo can kill almost anything!",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_angry_blush"],
+			"random"			: 3,
+			"dialog_rand1"		: "Enough with that!",
+			"dialog_rand2"		: "Alright, cut it out!",
+			"dialog_rand3"		: "Stop it!",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_surprised_blush"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_blush"],
+			"dialog"			: "Sorry, I'm just a little nervous.",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "Momo has a request for you.",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_confused"],
+			"dialog"			: "Uh, yeah.|L|I have a new dance.",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"dialog"			: "|wave|I want to practice it with you.",
+		},
+	],
+	
+	"monster_gifts"	: "Momo's Gifts",
+	
+	"op_start"		: "Dance With Momo",
+	"op_leave"		: "Momo Runs Away",
+	
+	"comment_start"		: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_normal"],
+		"dialog"	: "I need your dream powers for this one.",
+	},
+	"comment_leave"		: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_sad"],
+		"dialog"	: "On second thought...",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_sad"],
+		"dialog"	: "Umm, actually...",
+	},
+	
+	"start_battle" 	: [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Simply flourishing!",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_aggressive"],
+			"dialog"			: "I call this one the Murder Dance.",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"dialog"			: "Part of it takes place in the dream world.",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"dialog"			: "Just follow my lead and try not to get yourself hurt, okay?",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "Watch out for us too.|L||!|We like to murder.|L||!|Our weapon is dance.",
+		},
+	],
+	
+	"start_battle_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
+			"dialog"			: "Actually, I'm just going to watch.|!||L|You two go ahead.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Wha?",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_sad"],
+			"dialog"			: "Oh, are you sure?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
+			"dialog"			: "Yeah, my legs are tired.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_angry"],
+			"dialog"			: "I'm the one that has to walk everywhere!",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "|wave|Have fun, Sunshine!",
+		},
+	],
+	
+	"no_battle" 	: [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_surprised_blush"],
+			"dialog"			: "|shake|Nevermind! I'm not ready!",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "Wait, where are you going?",
+		},
+		{
+			"character"			: ["VOICE_none", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "She ran off again.|L||!|Please be patient with her.",
+		},
+	],
+	
+	"return_intro" : [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_very_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "|wave|A flourishing crescendo!",
+			"dialog_rand2"		: "|wave|I'm positively blooming!",
+			"dialog_rand3"		: "|wave|Now THAT got me flowering!",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "Do you feel like I do?",
+			"dialog_rand2"		: "I'm completely amazed by you.",
+			"dialog_rand3"		: "It's like you knew all the moves already.",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "|wave|Miss Momo.|norm||!||L|The audience left some gifts for you.",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_surprised_blush"],
+			"dialog"			: "|shake|There was an audience?!",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "|C3|[VAL1] little motes|C0| came out to see you.|L||!|There were also a few monsters hiding behind the trees.",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"dialog"			: "I must share these with my dance partners.",
+		},
+	],
+	
+	
+	"comment_take_first"	: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_normal"],
+		"dialog"	: "Take anything you want!",
+	},
+	"comment_take_another"	: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+		"dialog"	: "Take another gift!",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_normal"],
+		"dialog"	: "Is this your choice?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "You really stole the show.",
+			"dialog_rand2"		: "I want to see you flourish.",
+			"dialog_rand3"		: "Your flower power is undeniable.",
+			"dialog_rand4"		: "This will get you blooming.",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "You deserve another gift.",
+			"dialog_rand2"		: "Your moves have earned you another gift.",
+			"dialog_rand3"		: "I insist you have another one.",
+		}
+	],
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"dialog"			: "|wave|You've got me blooming over here!",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "What about me?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "I love you too!",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "And me?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "And I love you!",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "I want some too.",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_confused"],
+			"dialog"			: "We'll be here all day.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "Blue?|!||L|Where did she go?",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_confused"],
+			"dialog"			: "Umm, look over there.",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "|shake|It's my turn to hold her!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Well, if you insist.",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "|shake|Now it's my turn!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Ladies, please!|L||!|There is enough Blue here for all of you.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"dialog"			: "You were |wave|simply flourishing!",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "Oh, really?|!||L|What does that mean?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "It means she likes you!",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_awkward"],
+			"dialog"			: "Okay, bye!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised_blush"],
+			"dialog"			: "Wait! Where are you going?",
+		},
+		{
+			"character"			: ["VOICE_none", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "Don't worry about it.|L||!|Momo runs away sometimes.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
+			"dialog"			: "Wow that dance-",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "All those thorned vines and those saw blades-",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_confused"],
+			"dialog"			: "Is it too much?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "Are you kidding?|L||!|Let's throw some heavy guitar riffs on top next time!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "We'll need a drummer too.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"dialog"			: "That would have me flourishing.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"dialog"			: "We have to dance together again real soon.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"dialog"			: "|wave|You've got me positively blooming!",
+		},
+	],
+
+}

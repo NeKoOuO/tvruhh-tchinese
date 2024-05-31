@@ -1,0 +1,273 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "|wave|Oh, Zaraden.",
+			"dialog_rand2"		: "|wave|We welcome the Zaraden.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "You are doing okay, right?",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
+			"dialog"			: "|shake|Oh,|norm| you need water.|!||L|Here, sit down.|!||L|We will take care of you.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "We are going to get you something.",
+			"dialog_rand2"		: "We have something for you.",
+			"dialog_rand3"		: "We want you to have something.",
+		},
+	],
+	
+	"intro_twins" : [
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
+			"dialog"			: "|wave|We welcome the twin Zaradens.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "Can we get you both some water.|!||L|Sit down and rest for a bit.|!||L|We will take care of you.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "I think we're okay-",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_surprised"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "Actually,   Sunshine just got a scrape on her little feets.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
+			"dialog"			: "Oh no.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "What are you talking about?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad2"],
+			"dialog"			: "Yeah, it's horrible.|L||!|She can barely walk anymore.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
+			"dialog"			: "Sit down right now.|L||!|Let us take care of you.",
+		},
+	],
+	
+	"monster_gifts"	: "Amalga's Gifts",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
+		"dialog"	: "Please, take any of these.",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_normal"],
+		"dialog"	: "Taking this one?",
+	},
+	
+	"another_gift_1" 	: [
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
+			"dialog"			: "We hope you like that.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
+			"dialog"			: "Um-",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
+			"dialog"			: "|shake|Wait,|norm| you need to rest more.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
+			"dialog"			: "Let us get you something else.",
+		},
+	],
+	
+	"another_gift_2" 	: [
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
+			"dialog"			: "Yes, we knew you would like that too.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
+			"dialog"			: "We can't have you getting yourself hurt.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "We know what else will protect you.",
+		},
+	],
+	
+	"another_gift_3" 	: [
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
+			"dialog"			: "Take it, please.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
+			"dialog"			: "And here's another one.|L||!|Just in case.",
+		},
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_despair"],
+			"dialog"			: "Amalga, please!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "You are starting to fall apart.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
+			"dialog"			: "Oh, that hand is detachable.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
+			"dialog"			: "We just want you to be safe.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "Amalga, I'm going to be okay.|L||!|Take care of yourself, too.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "We um-",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
+			"dialog"			: "We love you,    too.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "Amalga, I think that's enough.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
+			"dialog"			: "Oh, okay.    Sorry.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "Besides, she has me around.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
+			"dialog"			: "Nothing bad will happen to my Defect!|L||!||shake|Not while I'm around!",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
+			"dialog"			: "See? I'm in good hands.|L||!|Now come here for a hug.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
+			"dialog"			: "Careful. This arm isn't attached so well.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "Amalga, that's enough.|L||!|I'm okay, see?",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "Are you sure?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_despair"],
+			"dialog"			: "|shake|She's in so much pain!",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "She probably needs you to |wave|cuddle|norm| with her for a few hours or something.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
+			"dialog"			: "Just to be safe.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "Well...|L||!|Just for a little while, okay?",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "Slow down!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
+			"dialog"			: "I don't want a maid doing everything for me anymore.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
+			"dialog"			: "We just want you to be safe, okay?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "You've seen me fight.|!||L|You should be more worried about those other monsters.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_aggressive"],
+			"dialog"			: "You are right.|!||L|You better go easy on them, or we will find you and-",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "Aww, you're so heckin adorable.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
+			"dialog"			: "Oh, let me also get you a-",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
+			"dialog"			: "We got carried away again.",
+		},
+		{
+			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
+			"dialog"			: "We know you can handle this.",
+		},
+	],
+
+}

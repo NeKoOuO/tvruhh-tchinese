@@ -1,0 +1,360 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
+			"dialog"			: "Umm... Can you help us?",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
+			"random"			: 3,
+			"dialog_rand1"		: "We can't find our wife!",
+			"dialog_rand2"		: "Have you seen our wife?",
+			"dialog_rand3"		: "We think our wife is missing!",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
+			"dialog"			: "She went back to her universe to get... something.",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
+			"dialog"			: "If we follow her through the warp synapse, we might never be able to come back.",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
+			"dialog"			: "But she's been gone for almost 5 minutes now!",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "What if something happened to her?",
+			"dialog_rand2"		: "What if she never comes back?",
+			"dialog_rand3"		: "What if she's in trouble?",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
+			"dialog"			: "You have to help us bring her back!",
+		},
+	],
+	
+	"intro_devil" : [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "Well if it isn't Knot Knott!",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
+			"dialog"			: "Without our wife, we are just Knot.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad"],
+			"dialog"			: "Not Knot Knott?|L|Are you okay?",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
+			"dialog"			: "Our wife went back to her universe to get... something.",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
+			"dialog"			: "But she's been gone for almost 5 minutes!",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "What if something happened to her?",
+			"dialog_rand2"		: "What if she never comes back?",
+			"dialog_rand3"		: "What if she's in trouble?",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
+			"dialog"			: "You have to help us bring her back!",
+		},
+	],
+	
+	"monster_gifts"	: "Knot Knott's Gifts",
+	
+	"op_start"		: "Help Knot reach Knott",
+	"op_leave"		: "Knott returns by herself",
+	
+	"comment_start"		: {
+		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
+		"dialog"	: "You'll help us right?",
+	},
+	"comment_leave"		: {
+		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
+		"dialog"	: "We think we can feel her coming back!",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
+		"dialog"	: "Is that her?",
+	},
+	
+	"start_battle" 	: [
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
+			"dialog"			: "Thank you so much.",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
+			"dialog"			: "We can check on her through our dreams.",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
+			"dialog"			: "We can't stand being this far away from her for even another minute!",
+		},
+	],
+	
+	"start_battle_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "Don't worry, Knot!|L||!|We are going to find your wife.",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
+			"dialog"			: "What if she is gone forever?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
+			"dialog"			: "We're going to save her, okay!",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
+			"dialog"			: "We can't stand being this far away from her.",
+		},
+	],
+	
+	"start_battle_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "Wait, so you aren't not Knot?",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
+			"dialog"			: "No we are Knot!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "So you're not Knot?",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
+			"dialog"			: "No. With our wife we are Knot Knott!|L||!|Alone, we are Knot!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
+			"dialog"			: "I'm so confused.",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
+			"dialog"			: "Just help us find our wife!",
+		},
+	],
+	
+	"no_battle" 	: [
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
+			"dialog"			: "We're back.",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_sad"],
+			"dialog"			: "But we couldn't find our surprise.",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
+			"dialog"			: "|shake|Wife!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
+			"dialog"			: "We were only gone for like a minute.",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
+			"dialog"			: "But we missed you so much, too.",
+		},
+	],
+	
+	"return_intro" : [
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
+			"dialog"			: "Hey, We're back.",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
+			"dialog"			: "|shake|Wife!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_surprised"],
+			"dialog"			: "Were you pulling on us?",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_sad"],
+			"dialog"			: "We feel like exactly |C3|[VAL1] motes|C0| were pulled out of us through the warp synapse.",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
+			"dialog"			: "You know, we were only gone for like 5 minutes!",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
+			"dialog"			: "But we missed you so much, wife!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
+			"dialog"			: "Did you find our surprise?",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
+			"dialog"			: "We sure did!",
+		},
+	],
+	
+	
+	"comment_take_first"	: {
+		"character"	: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
+		"dialog"	: "These gifts are for our friends.",
+	},
+	"comment_take_another"	: {
+		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
+		"dialog"	: "Please take another one.",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
+		"dialog"	: "You want this one?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "We brought these a long way here just for you.",
+			"dialog_rand2"		: "Friends give each other interdimensional gifts.",
+			"dialog_rand3"		: "Enjoy this gift from another universe.",
+			"dialog_rand4"		: "Our wife knew you would like that one.",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_surprised"],
+			"random"			: 3,
+			"dialog_rand1"		: "Do you want another one?",
+			"dialog_rand2"		: "We want you to have another one.",
+			"dialog_rand3"		: "Let's give her another one.",
+		}
+	],
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "See Knot? You had nothing to worry about.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
+			"dialog"			: "Thank you for saving our wife!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
+			"dialog"			: "Wait, what happened?",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
+			"dialog"			: "Oh look wife, you dropped one of your eyes.",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_suprised"],
+			"dialog"			: "No, it's way too perfect. It must be one of yours.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "Actually, I think that one is mine.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Yes, it's a common occurrence to fight over me.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "So, how did you two meet each other?",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
+			"dialog"			: "Oh, you know, the usual way.",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
+			"dialog"			: "We both put our feelers out into the multiverse at the same time.",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
+			"dialog"			: "And we just kind of clicked together. Literally.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "I see. Good to know.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "What are you planning?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
+			"dialog"			: "I'm not!",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "So YOU were Knot Knott!",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
+			"dialog"			: "Together, we are Knot Knott.|!||L|Alone she is Knott!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
+			"dialog"			: "I thought I understood everything, but it was all for naught.",
+		},
+		{
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
+			"dialog"			: "Which one?",
+		},
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
+			"dialog"			: "Not you too!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
+			"dialog"			: "There's TWO more knots?",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
+			"dialog"			: "Thank you for saving our wife!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
+			"dialog"			: "Wait, what happened?",
+		},
+	],
+
+}

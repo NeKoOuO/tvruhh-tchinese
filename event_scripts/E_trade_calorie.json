@@ -1,0 +1,352 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"random"			: 3,
+			"dialog_rand1"		: "Can we ask you something?",
+			"dialog_rand2"		: "Do you have a moment?",
+			"dialog_rand3"		: "Hey, can you help us with something?",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "It's just that...",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+			"random"			: 3,
+			"dialog_rand1"		: "|shake|It's so hot!",
+			"dialog_rand2"		: "|shake|We feel like we're on fire!",
+			"dialog_rand3"		: "|shake|We're burning up here!",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "We can't fall asleep like this.|L||!|We are so tired...",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+			"dialog"			: "Do you have anything |C3|cold|C0| for us?",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"dialog"			: "We'll try anything, please!",
+		},
+	],
+	
+	"intro_defect" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"dialog"			: "Can you help us with something?",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "We are so hot and so tired.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "Oh, I have an idea.|!||L|Here, hold this.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
+			"dialog"			: "What are you doing?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "She is so cold!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "The perfect temperature, is it not?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "Let's see if I have other |C3|cold|C0| things for you.",
+		},
+	],
+	
+	"intro_twins" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"dialog"			: "Can you help us with something?",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "We are so hot and so tired.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
+			"dialog"			: "Oh no, she's hot!",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "Hey, Sunshine-",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "Whatever you are going to say, you can stop it right now.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "I hope we have some |C3|cold|C0| stuff for her.",
+		},
+	],
+	
+	"mood_title"	: "Calorie's Mood",
+	"monster_gifts"	: "Calorie's Gifts",
+	"player_gifts"	: "[NAME]'s Active Gifts",
+	"player_quicks"	: "[NAME]'s Quick Gifts",
+
+	"op_trade"			: "Calorie's Gifts",
+	"op_give_active"	: "Give Active Gifts",
+	"op_give_quick"		: "Give Quick Gifts",
+	"op_leave"			: "Leave",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+		"dialog"	: "We have some gifts for you.|L|Careful! They might be hot!",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "We'll try anything to cool off.",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_aggressive"],
+		"dialog"	: "We will love you forever if you have a |C3|Cold Tonic.|C0|",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+		"dialog"	: "We'll be taking a nap when you leave.",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+		"dialog"	: "We have nothing left.",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+		"dialog"	: "We feel cool enough to fall asleep now.",
+	},
+	"comment_give_empty"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+		"dialog"	: "Aww, you don't have any?",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "Are you going now?",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+		"dialog"	: "Please, take this!",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+		"dialog"	: "We are so hot, we can't even see this clearly!",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+		"dialog"	: "Wait! It's weird, but this helps us sleep sometimes.",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+		"dialog"	: "You don't have any room for this.",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "You like that one, yeah?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|We'll think of your smile as we fall asleep.",
+			"dialog_rand2"		: "It's a little crispy, but it should be fine.",
+			"dialog_rand3"		: "|wave|We warmed it up for you.",
+			"dialog_rand4"		: "We hope it helps you too.",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "Sure, we'll take that if you don't need it.",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+		"dialog"	: "That would cool us off so much!",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+		"dialog"	: "Now THAT is the perfect temperature!",
+	},
+	"comment_give_TAG_calorie_food"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+		"dialog"	: "We... really want to eat that!|L|Please, can we have it?",
+	},
+	"comment_give_Q_cold_tonic"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+		"dialog"	: "|shake|Please, let us drink that!",
+	},
+	"comment_give_dislike"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_angry"],
+		"dialog"	: "We don't need to increase our temperature!",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "Yes! This will leave a cold void when it's gone.",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+		"dialog"	: "A little positive vibe to help us sleep.",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+		"dialog"	: "|shake|Ahh!|norm||L|Sorry, We just remembered a nightmare we had.",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+		"dialog"	: "We don't need that anymore.",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+		"dialog"	: "We are not taking that from you.",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+		"dialog"	: "Can we really have this?",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "We love it.",
+			"dialog_rand2"		: "Thank you so much.",
+			"dialog_rand3"		: "You are so nice to us.",
+		}
+	],
+	"special_given" 		: [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "Finally, some cold.",
+			"dialog_rand2"		: "That feels so good.",
+			"dialog_rand3"		: "We feel so cool.",
+			"dialog_rand4"		: "At last, sweet relief from the heat.",
+		}
+	],
+	"TAG_calorie_food_given" 		: [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+			"dialog"			: "|shake|So delicious.",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "We loved it.|!||L|This will help us sleep for sure.",
+		}
+	],
+
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "I hope you can get some sleep.|!||L|I won't hug you this time, so you can cool off.",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "Oh.",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_aggressive"],
+			"dialog"			: "Get over here right now.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "|wave|I love you!",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "We have to go now, Blue.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "I can't seem to get out of this.",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "Just a little longer?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
+			"dialog"			: "Sure...",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "You know, my sister really likes ladies with blue hair.",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"dialog"			: "Oh, does she really?|!||L|You know, we... have blue hair.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_normal"],
+			"dialog"			: "What are you talking about over here?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
+			"dialog"			: "Nothing!",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "Let's go, Greeny.",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "Bye, you two.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "Sleep well, Calorie.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "I dig that righteous hair of yours!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "We keep our hair like this by sleeping terribly!",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+			"dialog"			: "You always help us cool off.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "We will fall asleep so easily now.",
+		},
+	],
+
+}

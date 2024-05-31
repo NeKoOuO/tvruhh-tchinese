@@ -1,0 +1,3114 @@
+{
+
+	"dc_fulfilled"		: "Dream Fulfilled",
+	"dc_reward"			: "Reward",
+
+	"dream_groups" : {
+		"dreams_complete"	: "Dreams Fulfilled",
+		"main_this_monster"	: "[VAL1]'s Dreams",
+		
+		"main_unlocks"		: "Unlock New Stuff",
+		"sub_new_boss"		: "New Monsters",
+		"sub_new_power_gift": "New Power Gifts",
+		"sub_new_bonus_gift": "New Bonus Gifts",
+		"sub_new_quick_gift": "New Quick Gifts",
+		"sub_new_upgrade"	: "New Upgrade Gifts",
+		"sub_new_bounty"	: "New Bounty Gifts",
+		"sub_new_blessing"	: "New Blessing Gifts",
+		"sub_new_burden"	: "New Burden Gifts",
+		"sub_new_character"	: "New Character",
+		"sub_new_event"		: "New Events",
+		"sub_new_song"		: "New Songs",
+		"sub_new_background": "New Dreamscapes",
+		
+		"main_misc"			: "Lovely Dreams",
+		"sub_cumuative"		: "Accumulation Goals",
+		"sub_feats"			: "Lovely Feats",
+		"sub_tetrids"		: "Tetrid Totals",
+		"sub_collection"	: "Collection Ambitions",
+		
+		"main_character"	: "Heart Trials",
+		"sub_her_heart"		: "Trials of Her Heart",
+		"sub_defect"		: "Trials of Defect",
+		"sub_twin_heart"	: "Trials of Twin Heart",
+		"sub_the_devil"		: "Trials of The Devil",
+		
+		"main_story"		: "Story Dreams",
+		"sub_story_goals"	: "Story Goals",
+		"sub_story_feats"	: "Story Feats",
+		"sub_story_events"	: "Story Events",
+		"sub_monster_events": "Monster Events",
+		"sub_monster_trades": "Monster Trades",
+		
+		"main_victories"	: "Story Victories",
+		"sub_void_wins"		: "The Void Victories",
+		"sub_totaria_wins"	: "Totaria Victories",
+		"sub_blue_wins"		: "Blue Veyeral Victories",
+		
+		"main_alter"		: "Altered Dreams",
+		"sub_alter_feats"	: "Altered Feats",
+		"sub_alter_wins"	: "Altered Victories",
+		"sub_alter_medals"	: "Altered Medals",
+		
+		"main_quickplay"	: "Quickplay Dreams",
+		"sub_qp_feats"		: "Quickplay Feats",
+		"sub_qp_medals"		: "Quickplay Medals",
+		"sub_uqp_feats"		: "Ultra Feats",
+		"sub_uqp_medals"	: "Ultra Medals",
+		
+		"main_towers"		: "Tower Dreams",
+		"sub_tower_feats"	: "Tower Feats",
+		"sub_tower_wins"	: "Tower Victories",
+		"sub_tower_medals"	: "Tower Medals",
+		
+		"main_endless"		: "Endless Nightmares",
+		"sub_en_goals"		: "Endless Goals",
+		"sub_en_feats"		: "Endless Feats",
+		"sub_en_medals"		: "Endless Medals",
+		
+		"main_monsters"		: "Monster Dreams",
+		"sub_shamble"		: "Shamble Dreams",
+		"sub_guardian"		: "Guardian Dreams",
+		"sub_glyph"			: "Eyeric Glyph Dreams",
+		"sub_zaramech"		: "Zaramech Dreams",
+		"sub_glass"			: "Glass Flora Dreams",
+		"sub_veyeral"		: "Veyeral Dreams",
+		"sub_special"		: "Special Dreams",
+		"sub_shiny"			: "Shiny Dreams",
+		"sub_nova"			: "Nova Dreams",
+	},
+
+	"nothing_awaits"  	: "Fulfillment awaits",
+	"monster_awaits"  	: "A new monster awaits",
+	"gift_awaits_1"  	: "A new Simple Power Gift awaits",
+	"gift_awaits_2"  	: "A new Lovely Power Gift awaits",
+	"gift_awaits_3"  	: "A new Wonderful Power Gift awaits",
+	"bonus_awaits"  	: "A new Bonus Gift awaits",
+	"quick_awaits"  	: "A new Quick Gift awaits",
+	"upgrade_awaits"  	: "A new Upgrade Gift awaits",
+	"bounty_awaits"  	: "A new Bounty Gift awaits",
+	"blessing_awaits"  	: "A new Blessing Gift awaits",
+	"burden_awaits"  	: "A new Burden Gift awaits",
+	"event_awaits"  	: "A new story event awaits",
+	"location_awaits"  	: "A new battle dreamscape awaits",
+	"character_awaits"  : "A new character awaits",
+	"tower_awaits"  	: "A new tower awaits",
+	"song_awaits"  		: "A new song awaits",
+	"special_awaits"  	: "Something new awaits",
+	"???_awaits"  		: "??? awaits",
+
+	"no_reward"  		: "Fulfilling this dream is its own reward",
+	"early_access"  	: "A reward may be added later. It will unlock retroactively.",
+	"monster_reward"	: "A new monster can now be loved",
+	"gift_reward_1"		: "A new Simple Power Gift can now be found",
+	"gift_reward_2"		: "A new Lovely Power Gift can now be found",
+	"gift_reward_3"		: "A new Wonderful Power Gift can now be found",
+	"bonus_reward"		: "A new Bonus Gift can now be found",
+	"quick_reward"		: "A new Quick Gift can now be found",
+	"upgrade_reward"	: "A new Upgrade Gift can now be found",
+	"bounty_reward"		: "A new Bounty Gift can now be found",
+	"blessing_reward"	: "A new Blessing Gift can now be found",
+	"burden_reward"		: "A new Burden Gift can now be found",
+	"event_reward"		: "A new event is unlocked for story mode",
+	"location_reward"	: "A new battle dreamscape is unlocked",
+	"character_reward"	: "A new character's story is available",
+	"alter_reward"		: "A new altered story is available",
+	"story_reward"		: "[VAL1]'s Story",
+	"tower_reward"		: "A new tower is available in The Towers Mode",
+	"song_reward"		: "A new song can be played in the music room",
+	"song_special1"		: "Shamble Monsters can now have an alternate battle song",
+	"song_special2"		: "Guardian Monsters can now have an alternate battle song",
+	"song_special3"		: "Eyeric Glyph Monsters can now have an alternate battle song",
+	"song_special4"		: "Zaramech Monsters can now have an alternate battle song",
+	"song_special5"		: "Glass Flora Monsters can now have an alternate battle song",
+	"song_special6"		: "Veyeral Monsters can now have an alternate battle song",
+	"spec_panic_karma1"	: "Earn 1 extra karma per battle for absorbing at least 30 bullets with panic attacks",
+	"spec_panic_karma2"	: "Earn 1 extra karma per battle for absorbing at least 100 bullets with panic attacks",
+	"spec_collection"	: "You can now spend tetrids in the Collection Menu",
+	"spec_collect_bg"	: "Dreamscapes have been added to the Collection Menu",
+	"spec_collect_ev"	: "Events have been added to the Collection Menu",
+	"spec_overlevel"	: "Radiated monsters can now be overleveled beyond their limit in Story Mode!",
+	"spec_blessed"		: "Blessings and Burdens can now be found in some events in Story Mode!",
+	"spec_heavy"		: "Story Mode can now be set to Heavy Rain difficulty",
+	"spec_torrent"		: "Story Mode can now be set to Torrent Rain difficulty",
+	"spec_quickplay"	: "Quickplay Mode is now available",
+	"spec_freeplay"		: "Freeplay Mode is now available",
+	"spec_ultra_qp"		: "Ultra Quickplay Mode is now available",
+	"spec_alter"		: "Altered Story Mode is now available",
+	"spec_towers"		: "The Towers Mode is now available",
+	"spec_endless"		: "Endless Nightmare Mode is now available",
+	"spec_terror"		: "Endless Terror Mode is now available",
+	
+	"dream_is_hidden"	: "???\nThis dream is still unknown to you",
+
+	"DR_love1" : {
+		"name"    : "Love At First Shot",
+		"desc"    : "Love any monster for the first time",
+	},
+	"DR_love25" : {
+		"name"    : "Monster Admirer",
+		"desc"    : "Love 25 monsters",
+	},
+	"DR_love50" : {
+		"name"    : "Monster Hugger",
+		"desc"    : "Love 50 monsters",
+	},
+	"DR_love100" : {
+		"name"    : "Monster Lover",
+		"desc"    : "Love 100 monsters",
+	},
+	"DR_love250" : {
+		"name"    : "Nightmarephile",
+		"desc"    : "Love 250 monsters",
+	},
+	"DR_love500" : {
+		"name"    : "Teramonstrophile",
+		"desc"    : "Love 500 monsters",
+	},
+	"DR_love1000" : {
+		"name"    : "Weapon of Mass Affection",
+		"desc"    : "Love 1,000 monsters",
+	},
+	"DR_love2500" : {
+		"name"    : "Lovepocalypse",
+		"desc"    : "Love 2,500 monsters",
+	},
+	"DR_break500" : {
+		"name"    : "Let Me Love You!",
+		"desc"    : "Break a total of 500 monster parts",
+	},
+	"DR_break2500" : {
+		"name"    : "Let Yourself Be Loved!",
+		"desc"    : "Break a total of 2,500 monster parts",
+	},
+	"DR_break5000" : {
+		"name"    : "Violence in the Name of Love!",
+		"desc"    : "Break a total of 5,000 monster parts",
+	},
+	"DR_break_t4" : {
+		"name"    : "To Shreds, You Say?",
+		"desc"    : "Break a total of 10,000 monster parts",
+	},
+	"DR_break_t5" : {
+		"name"    : "Love You to Pieces!",
+		"desc"    : "Break a total of 25,000 monster parts",
+	},
+	"DR_break_t6" : {
+		"name"    : "Monster Fear Genophiler",
+		"desc"    : "Break a total of 53,601 monster parts",
+	},
+	"DR_bullets10k" : {
+		"name"    : "Ten Thousand Shots in the Air",
+		"desc"    : "Monsters rain 10,000 bullets upon you",
+	},
+	"DR_bullets100k" : {
+		"name"    : "The Rain Will Love Us All",
+		"desc"    : "Monsters rain 100,000 bullets upon you",
+	},
+	"DR_bullets1m" : {
+		"name"    : "Love is a Battlefield",
+		"desc"    : "Monsters rain 1,000,000 bullets upon you",
+	},
+	"DR_bullets5m" : {
+		"name"    : "Pour Your Misery Down On Me",
+		"desc"    : "Monsters rain 5,000,000 bullets upon you",
+	},
+	"DR_panic3000" : {
+		"name"    : "Clearing Out The Fear",
+		"desc"    : "Absorb a total of 3,000 bullets with panic attacks",
+	},
+	"DR_panic10k" : {
+		"name"    : "Sweating Bullets",
+		"desc"    : "Absorb a total of 10,000 bullets with panic attacks",
+	},
+	"DR_shambles4" : {
+		"name"    : "Shambled Paradox",
+		"desc"    : "Love Shamble monsters 8 times",
+	},
+	"DR_shambles_t2" : {
+		"name"    : "Trypophobia",
+		"desc"    : "Love Shamble monsters 48 times",
+	},
+	"DR_guardians4" : {
+		"name"    : "Her Adamant Will",
+		"desc"    : "Love Guardian monsters 8 times",
+	},
+	"DR_guardians_t2" : {
+		"name"    : "Guardian Angel",
+		"desc"    : "Love Guardian monsters 48 times",
+	},
+	"DR_glyphs4" : {
+		"name"    : "Mutual Exclusion",
+		"desc"    : "Love Eyeric Glyph monsters 8 times",
+	},
+	"DR_glyphs_t2" : {
+		"name"    : "Theoretically Beautiful",
+		"desc"    : "Love Eyeric Glyph monsters 48 times",
+	},
+	"DR_zaramechs4" : {
+		"name"    : "Defense Mechanism",
+		"desc"    : "Love Zaramech monsters 8 times",
+	},
+	"DR_zaramechs_t2" : {
+		"name"    : "Towering Anxiety",
+		"desc"    : "Love Zaramech monsters 48 times",
+	},
+	"DR_glass4" : {
+		"name"    : "My Heart Is See Through",
+		"desc"    : "Love Glass Flora monsters 8 times",
+	},
+	"DR_glass_t2" : {
+		"name"    : "Stained Glass Battle Dance",
+		"desc"    : "Love Glass Flora monsters 48 times",
+	},
+	"DR_veyerals4" : {
+		"name"    : "The Void Rains Down Upon You",
+		"desc"    : "Love Veyeral monsters 8 times",
+	},
+	"DR_veyerals_t2" : {
+		"name"    : "Alone in the Dark",
+		"desc"    : "Love Veyeral monsters 48 times",
+	},
+	"DR_specials4" : {
+		"name"    : "Fever Dream",
+		"desc"    : "Love Special monsters 4 times",
+	},
+	
+	
+	
+	
+	"DR_love_unique10" : {
+		"name"    : "Gathering Hearts",
+		"desc"    : "Love 10 unique monsters",
+	},
+	"DR_love_unique20" : {
+		"name"    : "Making Friends",
+		"desc"    : "Love 20 unique monsters",
+	},
+	"DR_love_unique30" : {
+		"name"    : "Monster Party",
+		"desc"    : "Love 30 unique monsters",
+	},
+	"DR_love_unique40" : {
+		"name"    : "Monster Ball",
+		"desc"    : "Love 40 unique monsters",
+	},
+	"DR_love_unique50" : {
+		"name"    : "Monster Festival",
+		"desc"    : "Love 50 unique monsters",
+	},
+	"DR_love_unique60" : {
+		"name"    : "Friendship Army",
+		"desc"    : "Love 60 unique monsters",
+	},
+	"DR_love_unique70" : {
+		"name"    : "Legion of Love",
+		"desc"    : "Love 70 unique monsters",
+	},
+	"DR_love_unique80" : {
+		"name"    : "Star Allies In The Void",
+		"desc"    : "Love 80 unique monsters",
+	},
+	"DR_love_unique90" : {
+		"name"    : "The Friends We Made Along the Way",
+		"desc"    : "Love 90 unique monsters",
+	},
+	"DR_love_unique100" : {
+		"name"    : "Gotta Love Em All!",
+		"desc"    : "Love 100 unique monsters",
+	},
+	"DR_FC1" : {
+		"name"    : "Full Combo!",
+		"desc"    : "Get a 100% full combo in any battle",
+	},
+	"DR_FC7" : {
+		"name"    : "Affection Sevenfold",
+		"desc"    : "Get a 100% full combo on 7 unique monsters",
+	},
+	"DR_FC21" : {
+		"name"    : "The Ace Of Hearts",
+		"desc"    : "Get a 100% full combo on 21 unique monsters",
+	},
+	"DR_FC42" : {
+		"name"    : "Love is The Answer",
+		"desc"    : "Get a 100% full combo on 42 unique monsters",
+	},
+	"DR_FC64" : {
+		"name"    : "Heart Shaped Box",
+		"desc"    : "Get a 100% full combo on 64 unique monsters",
+	},
+	"DR_FC99" : {
+		"name"    : "The Mighty Ninety-Nine",
+		"desc"    : "Get a 100% full combo on 99 unique monsters",
+	},
+	"DR_FC_level8" : {
+		"name"    : "Expert Level Affection",
+		"desc"    : "Get a 100% full combo in any level 8 battle or higher",
+	},
+	"DR_score2500" : {
+		"name"    : "Good Score",
+		"desc"    : "Score at least 2,500 motes in a single battle",
+	},
+	"DR_score5000" : {
+		"name"    : "Great Score",
+		"desc"    : "Score at least 5,000 motes in a single battle",
+	},
+	"DR_score7500" : {
+		"name"    : "Lovely Score",
+		"desc"    : "Score at least 7,500 motes in a single battle",
+	},
+	"DR_score10000" : {
+		"name"    : "Wonderful Score",
+		"desc"    : "Score at least 10,000 motes in a single battle",
+	},
+	"DR_score12345" : {
+		"name"    : "Radiant Score",
+		"desc"    : "Score at least 12,345 motes in a single battle",
+	},
+	"DR_love_same6" : {
+		"name"    : "BFF",
+		"desc"    : "Love any monster a total of 6 times",
+	},
+	"DR_panic100" : {
+		"name"    : "Panic Attack!",
+		"desc"    : "Absorb at least 100 bullets with a single panic attack",
+	},
+	"DR_perfect_level6" : {
+		"name"    : "No Need To Panic",
+		"desc"    : "Defeat a monster without taking damage or using a panic attack in any level 6 battle or higher",
+	},
+	"DR_many_hits7" : {
+		"name"    : "Indestructible Master of Love",
+		"desc"    : "Defeat any monster after taking damage at least 10 times in a single level 7 battle or higher",
+	},
+	"DR_survive5" : {
+		"name"    : "Tsundere",
+		"desc"    : "Survive for 5 minutes without defeating the monster in any level 8 battle or higher",
+	},
+	
+	
+	
+	
+	
+	
+	"DR_her_heart_trial1" : {
+		"name"    : "Her Heart: Story Lover",
+		"desc"    : "Love 32 monsters as Her Heart in Story Mode",
+	},
+	"DR_her_heart_trial2" : {
+		"name"    : "Her Heart: Karma Collector",
+		"desc"    : "Earn a total of 555 karma as Her Heart in Story Mode",
+	},
+	"DR_her_heart_trial3" : {
+		"name"    : "Her Heart: Heavy Combo Keeper",
+		"desc"    : "As Her Heart, get a 100% full combo on 3 battles in a row on at least Heavy Rain difficulty",
+	},
+	"DR_her_heart_trial4" : {
+		"name"    : "Her Heart: Quick Void",
+		"desc"    : "Defeat The Void as Her Heart in story mode with less than 8 minutes spent in battles",
+	},
+	"DR_her_heart_trial5" : {
+		"name"    : "Her Heart: Light Gifts",
+		"desc"    : "As Her Heart, receive 21 gifts of any type in a single Story run on at least Light Rain difficulty",
+	},
+	"DR_her_heart_trial6" : {
+		"name"    : "Her Heart: Quickplay Lover",
+		"desc"    : "Love 8 monsters as Her Heart in Quickplay Mode",
+	},
+	"DR_her_heart_trial7" : {
+		"name"    : "Her Heart: Heart of Gold",
+		"desc"    : "As Her Heart, earn at least a Gold Medal in any level 7 Quickplay battle or higher",
+	},
+	"DR_her_heart_trial8" : {
+		"name"    : "Her Heart: Nightmare Lover",
+		"desc"    : "Love 32 monsters as Her Heart in Endless Nightmare",
+	},
+	"DR_her_heart_trial9" : {
+		"name"    : "Her Heart: Nightmare Gifts",
+		"desc"    : "As Her Heart, receive 25 gifts of any type in a single run of Endless Nightmare",
+	},
+	"DR_her_heart_trial10" : {
+		"name"    : "Her Heart: Quick Nightmares",
+		"desc"    : "Clear 2 cycles in Endless Nightmare as Her Heart with less than 12 minutes spent in battles",
+	},
+	"DR_alt_heart_trial1" : {
+		"name"    : "Alter Heart: Three Days",
+		"desc"    : "As Alter Heart, clear 3 days of Altered Story",
+	},
+	"DR_alt_heart_trial2" : {
+		"name"    : "Alter Heart: Bouquet",
+		"desc"    : "Earn 33 Rose Medals as Alter Heart in Altered Story",
+	},
+	"DR_alt_heart_trial3" : {
+		"name"    : "Alter Heart: Mote Extractor",
+		"desc"    : "Extract 200,000 total motes as Alter Heart in Altered Story",
+	},
+	"DR_alt_heart_trial4" : {
+		"name"    : "Alter Heart: Radiance",
+		"desc"    : "As Alter Heart, earn a Radiant Medal in any level 9 Quickplay battle or higher",
+	},
+	"DR_alt_heart_trial5" : {
+		"name"    : "Alter Heart: Nightmare Lover",
+		"desc"    : "Love 36 monsters as Alter Heart in Endless Nightmare",
+	},
+	"DR_alt_heart_trial6" : {
+		"name"    : "Alter Heart: Combo Nightmare",
+		"desc"    : "As Alter Heart, get a 100% full combo on any 8 battles in a single run of Endless Nightmare",
+	},
+	
+	"DR_defect_trial1" : {
+		"name"    : "Defect: Flawless Five",
+		"desc"    : "As Defect, do not take damage or use panic attacks for 5 battles in a row in Story Mode",
+	},
+	"DR_defect_trial2" : {
+		"name"    : "Defect: Mote Extractor",
+		"desc"    : "Extract 150,000 total motes from monsters as Defect in Story Mode",
+	},
+	"DR_defect_trial3" : {
+		"name"    : "Defect: Light Combo Keeper",
+		"desc"    : "As Defect, get a 100% full combo on 4 battles in a row on at least Light Rain difficulty",
+	},
+	"DR_defect_trial4" : {
+		"name"    : "Defect: Torrent of Motes",
+		"desc"    : "Score at least 50,000 motes as Defect in a single Story run on Torrent Rain difficulty",
+	},
+	"DR_defect_trial5" : {
+		"name"    : "Defect: Heavy Gifts",
+		"desc"    : "As Defect, receive 18 gifts of any type in a single Story run on at least Heavy Rain difficulty",
+	},
+	"DR_defect_trial6" : {
+		"name"    : "Defect: Silver Heart",
+		"desc"    : "As Defect, without equipping any gifts, earn at least a Silver Medal in any level 6 Quickplay battle or higher",
+	},
+	"DR_defect_trial7" : {
+		"name"    : "Defect: Super Quick",
+		"desc"    : "As Defect, defeat any monster in less than 15 seconds in a Quickplay battle",
+	},
+	"DR_defect_trial8" : {
+		"name"    : "Defect: Karma Collector",
+		"desc"    : "Earn a total of 777 karma as Defect in Endless Nightmare",
+	},
+	"DR_defect_trial9" : {
+		"name"    : "Defect: Overlover",
+		"desc"    : "Defeat any overleveled monster as Defect in Endless Nightmare",
+	},
+	"DR_defect_trial10" : {
+		"name"    : "Defect: Terror Triplet",
+		"desc"    : "As Defect, get a 100% full combo on 3 battles in a row in Endless Terror",
+	},
+	"DR_alt_defect_trial1" : {
+		"name"    : "Alter Defect: Three Days",
+		"desc"    : "As Alter Defect, clear 3 days of Altered Story",
+	},
+	"DR_alt_defect_trial2" : {
+		"name"    : "Alter Defect: Bloodstones",
+		"desc"    : "Earn 6 Crimson Medals as Alter Defect in Altered Story",
+	},
+	"DR_alt_defect_trial3" : {
+		"name"    : "Alter Defect: Perfect Helper",
+		"desc"    : "Have 8 Blue Veyeral helpers surrounding Alter Defect at once in Altered Story",
+	},
+	"DR_alt_defect_trial4" : {
+		"name"    : "Alter Defect: Double Radiance",
+		"desc"    : "As Alter Defect, earn exactly 2 Radiant Medals in a single Ultra Quickplay battle",
+	},
+	"DR_alt_defect_trial5" : {
+		"name"    : "Alter Defect: Nightmare Challenger",
+		"desc"    : "As Alter Defect, pass 7 challenges in a single run of Endless Nightmare",
+	},
+	"DR_alt_defect_trial6" : {
+		"name"    : "Alter Defect: Perfect Nightmare",
+		"desc"    : "Have 8 Blue Veyeral helpers surrounding Alter Defect at once in Endless Nightmare",
+	},
+	
+	"DR_twin_heart_trial1" : {
+		"name"    : "Twin Heart: Story Lover",
+		"desc"    : "Love 45 monsters as Twin Heart in Story Mode",
+	},
+	"DR_twin_heart_trial2" : {
+		"name"    : "Twin Heart: Light Karma",
+		"desc"    : "As Twin Heart, have at least 90 karma at once in Story Mode on at least Light Rain difficulty",
+	},
+	"DR_twin_heart_trial3" : {
+		"name"    : "Twin Heart: Full Combos",
+		"desc"    : "As Twin Heart, get a 100% full combo in 25 battles in Story Mode",
+	},
+	"DR_twin_heart_trial4" : {
+		"name"    : "Twin Heart: Heavy Void",
+		"desc"    : "Defeat The Void as Twin Heart in story mode with less than 6 minutes spent in battles on at least Heavy Rain difficulty",
+	},
+	"DR_twin_heart_trial5" : {
+		"name"    : "Twin Heart: Torrent of Gifts",
+		"desc"    : "As Twin Heart, receive 14 gifts of any type in a single Story run on Torrent Rain difficulty",
+	},
+	"DR_twin_heart_trial6" : {
+		"name"    : "Twin Heart: High Score",
+		"desc"    : "Score at least 6,000 motes as Twin Heart in a single Quickplay battle",
+	},
+	"DR_twin_heart_trial7" : {
+		"name"    : "Twin Heart: Radiant Focus",
+		"desc"    : "As Twin Heart, stay in focus for an entire battle and earn a Radiant Medal in any level 5 Quickplay battle or higher",
+	},
+	"DR_twin_heart_trial8" : {
+		"name"    : "Twin Heart: Mote Extractor",
+		"desc"    : "Extract 220,000 total motes as Twin Heart in Endless Nightmare",
+	},
+	"DR_twin_heart_trial9" : {
+		"name"    : "Twin Heart: Combo Nightmare",
+		"desc"    : "As Twin Heart, get a 100% full combo on any 7 battles in a single run of Endless Nightmare",
+	},
+	"DR_twin_heart_trial10" : {
+		"name"    : "Twin Heart: Escalating Terror",
+		"desc"    : "As Twin Heart, Defeat any level 9 monster before the end of the first cycle in Endless Terror",
+	},
+	"DR_alt_twin_trial1" : {
+		"name"    : "Alter Twin: Three Days",
+		"desc"    : "As Alter Twin, clear 3 days of Altered Story",
+	},
+	"DR_alt_twin_trial2" : {
+		"name"    : "Alter Twin: Heavy Rain",
+		"desc"    : "As Alter Twin, clear a run of Altered Story on at least Heavy Rain difficulty",
+	},
+	"DR_alt_twin_trial3" : {
+		"name"    : "Alter Twin: Friend Chain",
+		"desc"    : "As Alter Twin, start a battle with a chain of at least 12 helpers in Altered Story",
+	},
+	"DR_alt_twin_trial4" : {
+		"name"    : "Alter Twin: Quickplay Lover",
+		"desc"    : "Love 12 monsters as Alter Twin in Quickplay Mode",
+	},
+	"DR_alt_twin_trial5" : {
+		"name"    : "Alter Twin: Karma Collector",
+		"desc"    : "Earn a total of 444 karma as Alter Twin in Endless Nightmare",
+	},
+	"DR_alt_twin_trial6" : {
+		"name"    : "Alter Twin: Quad Combo",
+		"desc"    : "As Alter Twin, get a 100% full combo on 4 battles in a row in Endless Stress",
+	},
+	
+	"DR_the_devil_trial1" : {
+		"name"    : "The Devil: Mote Extractor",
+		"desc"    : "Extract 120,000 total motes as The Devil in Story Mode",
+	},
+	"DR_the_devil_trial2" : {
+		"name"    : "The Devil: Karma Collector",
+		"desc"    : "Earn a total of 666 karma as The Devil in Story Mode",
+	},
+	"DR_the_devil_trial3" : {
+		"name"    : "The Devil: Heavy Challenger",
+		"desc"    : "As The Devil, pass 4 challenges in a single story run on at least Heavy Rain difficulty",
+	},
+	"DR_the_devil_trial4" : {
+		"name"    : "The Devil: Negative Ten",
+		"desc"    : "Defeat a level 10 or higher Totaria as The Devil in story mode",
+	},
+	"DR_the_devil_trial5" : {
+		"name"    : "The Devil: Light Gifts",
+		"desc"    : "As The Devil, receive 20 gifts of any type in a single Story run on at least Light Rain difficulty",
+	},
+	"DR_the_devil_trial6" : {
+		"name"    : "The Devil: Quickplay Lover",
+		"desc"    : "Love 15 monsters as The Devil in Quickplay Mode",
+	},
+	"DR_the_devil_trial7" : {
+		"name"    : "The Devil: Heart of Gold",
+		"desc"    : "As The Devil, earn at least a Gold Medal in any level 9 Quickplay battle or higher",
+	},
+	"DR_the_devil_trial8" : {
+		"name"    : "The Devil: Nightmare Lover",
+		"desc"    : "Love 66 monsters as The Devil in Endless Nightmare",
+	},
+	"DR_the_devil_trial9" : {
+		"name"    : "The Devil: Overlover",
+		"desc"    : "Defeat any overleveled monster as The Devil in Endless Nightmare",
+	},
+	"DR_the_devil_trial10" : {
+		"name"    : "The Devil: Nightmare Combo",
+		"desc"    : "As The Devil, get a 100% full combo on 6 battles in a row in Endless Nightmare",
+	},
+	"DR_alt_devil_trial1" : {
+		"name"    : "Alter Devil: Three Days",
+		"desc"    : "As Alter Devil, clear 3 days of Altered Story",
+	},
+	"DR_alt_devil_trial2" : {
+		"name"    : "Alter Devil: Bouquet",
+		"desc"    : "Earn 44 Rose Medals as Alter Devil in Altered Story",
+	},
+	"DR_alt_devil_trial3" : {
+		"name"    : "Alter Devil: Overlover",
+		"desc"    : "Defeat any overleveled monster as Alter Devil in Altered Story",
+	},
+	"DR_alt_devil_trial4" : {
+		"name"    : "Alter Devil: High Score",
+		"desc"    : "Score at least 7,000 motes as Alter Devil in a single Quickplay battle",
+	},
+	"DR_alt_devil_trial5" : {
+		"name"    : "Alter Devil: Escalating Stress",
+		"desc"    : "As Alter Devil, Defeat any level 9 monster before the end of the first cycle in Endless Stress",
+	},
+	"DR_alt_devil_trial6" : {
+		"name"    : "Alter Devil: Nightmare Combo",
+		"desc"    : "As Alter Devil, get a 100% full combo on 6 battles in a row in Endless Nightmare",
+	},
+	
+	
+	
+	
+	
+	"DR_tetrid_green25" : {
+		"name"    : "Tetrahedron of Shame",
+		"desc"    : "Collect a total of 64 green tetrids",
+	},
+	"DR_tetrid_red25" : {
+		"name"    : "Tetrahedron of Frustration",
+		"desc"    : "Collect a total of 64 red tetrids",
+	},
+	"DR_tetrid_yellow25" : {
+		"name"    : "Tetrahedron of Denial",
+		"desc"    : "Collect a total of 64 yellow tetrids",
+	},
+	"DR_tetrid_blue25" : {
+		"name"    : "Tetrahedron of Anxiety",
+		"desc"    : "Collect a total of 64 blue tetrids",
+	},
+	"DR_tetrid_orange25" : {
+		"name"    : "Tetrahedron of Insecurity",
+		"desc"    : "Collect a total of 64 orange tetrids",
+	},
+	"DR_tetrid_purple25" : {
+		"name"    : "Tetrahedron of Loneliness",
+		"desc"    : "Collect a total of 64 purple tetrids",
+	},
+	"DR_tetrid_radiant15" : {
+		"name"    : "Tetrahedron of Power",
+		"desc"    : "Collect a total of 16 radiant tetrids",
+	},
+	"DR_tetrid_all7" : {
+		"name"    : "Collection of Triangles",
+		"desc"    : "Collect a total of 7 tetrids of any colors",
+	},
+	"DR_tetrid_all200" : {
+		"name"    : "200 Tetrahedrons!",
+		"desc"    : "Collect a total of 200 tetrids of any colors",
+	},
+	"DR_tetrid_all400" : {
+		"name"    : "400 Tetrahedrons!",
+		"desc"    : "Collect a total of 400 tetrids of any colors",
+	},
+	"DR_tetrid_all600" : {
+		"name"    : "600 Tetrahedrons!",
+		"desc"    : "Collect a total of 600 tetrids of any colors",
+	},
+	"DR_tetrid_all900" : {
+		"name"    : "900 Tetrahedrons!",
+		"desc"    : "Collect a total of 900 tetrids of any colors",
+	},
+	"DR_tetrid_all_t5" : {
+		"name"    : "1,200 Tetrahedrons!",
+		"desc"    : "Collect a total of 1,200 tetrids of any colors",
+	},
+	"DR_tetrid_all_t6" : {
+		"name"    : "Crystallized Dyophobia",
+		"desc"    : "Collect a total of 2,020 tetrids of any colors",
+	},
+	"DR_tetrid_all_t7" : {
+		"name"    : "Crystallized Triskaphobia",
+		"desc"    : "Collect a total of 3,330 tetrids of any colors",
+	},
+	"DR_tetrid_all_t8" : {
+		"name"    : "Crystallized Tetraphobia",
+		"desc"    : "Collect a total of 4,444 tetrids of any colors",
+	},
+	
+	
+	
+	"DR_radiate_monster1" : {
+		"name"    : "Shiny Monster Cards",
+		"desc"    : "Radiate 3 monster cards",
+	},
+	"DR_radiate_monster8" : {
+		"name"    : "Glowing Starter Pack",
+		"desc"    : "Radiate 8 monster cards",
+	},
+	"DR_radiate_monster20" : {
+		"name"    : "Lovely Deck of Monsters",
+		"desc"    : "Radiate 20 monster cards",
+	},
+	"DR_radiate_monster36" : {
+		"name"    : "Wonderful Deck of Monsters",
+		"desc"    : "Radiate 36 monster cards",
+	},
+	"DR_radiate_monster52" : {
+		"name"    : "Radiant Deck of Monsters",
+		"desc"    : "Radiate 52 monster cards",
+	},
+	"DR_radiate_monster70" : {
+		"name"    : "Radiant Legion of Love",
+		"desc"    : "Radiate 70 monster cards",
+	},
+	"DR_radiate_monster99" : {
+		"name"    : "99 Shiny Hearts Floating in the Rainy Sky",
+		"desc"    : "Radiate 99 monster cards",
+	},
+	"DR_radiate_powerful11" : {
+		"name"    : "Eleven Level Elevens",
+		"desc"    : "Radiate 11 monsters that can reach level 11 or higher",
+	},
+	"DR_radiate_final3" : {
+		"name"    : "Rare Monster Cards",
+		"desc"    : "Radiate 3 monster cards that have thorns on them",
+	},
+	"DR_radiate_final7" : {
+		"name"    : "Seven Super Monster Cards",
+		"desc"    : "Radiate 7 monster cards that have thorns on them",
+	},
+	"DR_radiate_gift6" : {
+		"name"    : "A Handful of Shiny Gifts",
+		"desc"    : "Have 6 radiated Power Gift cards",
+	},
+	"DR_radiate_gift30" : {
+		"name"    : "A Pile of Sparkling Gifts",
+		"desc"    : "Have 30 radiated Power Gift cards",
+	},
+	"DR_radiate_gift70" : {
+		"name"    : "A Glistening Heap of Gifts",
+		"desc"    : "Have 70 radiated Power Gift cards",
+	},
+	"DR_radiate_gift120" : {
+		"name"    : "A Glowing Mass of Gifts",
+		"desc"    : "Have 120 radiated Power Gift cards",
+	},
+	"DR_radiate_gift180" : {
+		"name"    : "A Luminous Pile of Gifts",
+		"desc"    : "Have 180 radiated Power Gift cards",
+	},
+	"DR_radiate_gift_3star" : {
+		"name"    : "A Rare Holographic Card!",
+		"desc"    : "Radiate any (3-star) Wonderful Power Gift card",
+	},
+	"DR_radiate_bonus24" : {
+		"name"    : "Sparkling Bonus Pack",
+		"desc"    : "Have 24 radiated Bonus Gift cards",
+	},
+	"DR_radiate_bonus48" : {
+		"name"    : "Brilliant Bonus Deck",
+		"desc"    : "Have 48 radiated Bonus Gift cards",
+	},
+	"DR_radiate_quick20" : {
+		"name"    : "Shimmering Quick Gifts",
+		"desc"    : "Have 20 radiated Quick Gift cards",
+	},
+	"DR_radiate_quick50" : {
+		"name"    : "Twinkling Quick Gifts",
+		"desc"    : "Have 50 radiated Quick Gift cards",
+	},
+	"DR_radiate_bounty_t1" : {
+		"name"    : "Brighter Bounties",
+		"desc"    : "Have 10 radiated Bounty Gift cards",
+	},
+	"DR_radiate_bounty_t2" : {
+		"name"    : "Beautiful Bounties",
+		"desc"    : "Have 30 radiated Bounty Gift cards",
+	},
+	"DR_radiate_bless_t1" : {
+		"name"    : "And For This Gift, I Feel Blessed",
+		"desc"    : "Have 25 radiated Blessing Gift cards",
+	},
+	"DR_radiate_bless_t2" : {
+		"name"    : "A Little Help From My Friends",
+		"desc"    : "Have 100 radiated Blessing Gift cards",
+	},
+	"DR_radiate_burden_t1" : {
+		"name"    : "Let This Burden Drift Away",
+		"desc"    : "Have 25 radiated Burden cards",
+	},
+	"DR_radiate_burden_t2" : {
+		"name"    : "This Is My Curse!",
+		"desc"    : "Have 100 radiated Burden cards",
+	},
+	"DR_radiate_bgs_t1" : {
+		"name"    : "Mental Pictures",
+		"desc"    : "Radiate 12 Dreamscapes",
+	},
+	"DR_radiate_bgs_t2" : {
+		"name"    : "Dream Journal",
+		"desc"    : "Radiate 25 Dreamscapes",
+	},
+	"DR_radiate_events_t1" : {
+		"name"    : "Known Occurences",
+		"desc"    : "Radiate 6 Events",
+	},
+	"DR_radiate_events_t2" : {
+		"name"    : "Discovered Miracles",
+		"desc"    : "Radiate 18 Events",
+	},
+	"DR_radiate_events_t3" : {
+		"name"    : "A Series of Fortunate Events",
+		"desc"    : "Radiate 30 Events",
+	},
+	
+	
+	
+	
+	
+	
+	"DR_heartbreaks1" : {
+		"name"    : "She Will Repair It",
+		"desc"    : "Suffer a heartbreak in Story Mode",
+	},
+	"DR_heartbreaks5" : {
+		"name"    : "Defective Heart",
+		"desc"    : "Suffer 5 heartbreaks in Story Mode",
+	},
+	"DR_chapter1" : {
+		"name"    : "One Chapter Clear",
+		"desc"    : "Complete 1 Chapter in a single Story run",
+	},
+	"DR_chapter2" : {
+		"name"    : "Two Chapters Clear",
+		"desc"    : "Complete 2 Chapters in a single Story run",
+	},
+	"DR_chapter3" : {
+		"name"    : "Three Chapters Clear",
+		"desc"    : "Complete 3 Chapters in a single Story run",
+	},
+	"DR_chapter4" : {
+		"name"    : "Four Chapters Clear",
+		"desc"    : "Complete 4 Chapters in a single Story run",
+	},
+	"DR_chapter5" : {
+		"name"    : "Five Chapters Clear",
+		"desc"    : "Complete 5 Chapters in a single Story run",
+	},
+	"DR_chapter6" : {
+		"name"    : "Six Chapters Clear",
+		"desc"    : "Complete 6 Chapters in a single Story run",
+	},
+	"DR_chapter7" : {
+		"name"    : "Seven Chapters Clear",
+		"desc"    : "Complete 7 Chapters in a single Story run",
+	},
+	"DR_chapter8" : {
+		"name"    : "Eight Chapters Clear",
+		"desc"    : "Complete 8 Chapters in a single Story run",
+	},
+	"DR_chapter9" : {
+		"name"    : "Nine Chapters Clear",
+		"desc"    : "Complete 9 Chapters in a single Story run",
+	},
+	"DR_story_level4" : {
+		"name"    : "Level 4 Drizzle",
+		"desc"    : "Love a level 4 or higher monster in Story Mode",
+	},
+	"DR_story_level8" : {
+		"name"    : "Level 8 Rainstorm",
+		"desc"    : "Love a level 8 or higher monster in Story Mode",
+	},
+	"DR_story_level12" : {
+		"name"    : "Level 12 Monsoon",
+		"desc"    : "Love a level 12 or higher monster in Story Mode",
+	},
+	"DR_story_overlevel" : {
+		"name"    : "Even Further Beyond",
+		"desc"    : "Love any monster that has overleveled beyond their limit in Story Mode",
+	},
+	"DR_story_score20k" : {
+		"name"    : "20,000 Specks",
+		"desc"    : "Score at least 20,000 motes in a single Story run",
+	},
+	"DR_story_score40k" : {
+		"name"    : "40,000 Flakes",
+		"desc"    : "Score at least 40,000 motes in a single Story run",
+	},
+	"DR_story_score60k" : {
+		"name"    : "60,000 Bits",
+		"desc"    : "Score at least 60,000 motes in a single Story run",
+	},
+	"DR_story_score80k" : {
+		"name"    : "80,000 Dots",
+		"desc"    : "Score at least 80,000 motes in a single Story run",
+	},
+	"DR_story_score100k" : {
+		"name"    : "Mountain of Motes",
+		"desc"    : "Score at least 100,000 motes in a single Story run",
+	},
+	"DR_story_score120k" : {
+		"name"    : "Ocean of Motes",
+		"desc"    : "Score at least 120,000 motes in a single Story run",
+	},
+	"DR_story_score140k" : {
+		"name"    : "Planet of Motes",
+		"desc"    : "Score at least 140,000 motes in a single Story run",
+	},
+	"DR_story_score160k" : {
+		"name"    : "Star of Motes",
+		"desc"    : "Score at least 160,000 motes in a single Story run",
+	},
+	"DR_story_score180k" : {
+		"name"    : "Galaxy of Motes",
+		"desc"    : "Score at least 180,000 motes in a single Story run",
+	},
+	"DR_story_karma50" : {
+		"name"    : "RNG Persuader",
+		"desc"    : "Have at least 50 karma at once in Story Mode",
+	},
+	"DR_story_karma100" : {
+		"name"    : "RNG Dominator?",
+		"desc"    : "Have at least 100 karma at once in Story Mode",
+	},
+	"DR_story_karma150" : {
+		"name"    : "Hacked Dice",
+		"desc"    : "Have at least 150 karma at once in Story Mode",
+	},
+	"DR_story_karma200" : {
+		"name"    : "Excessively Superfluous Luck",
+		"desc"    : "Have at least 200 karma at once in Story Mode",
+	},
+	
+	
+	
+	"DR_story_gift13" : {
+		"name"    : "Lucky 13",
+		"desc"    : "Receive 13 Power Gifts in a single Story run",
+	},
+	"DR_story_3star_gift1" : {
+		"name"    : "A Wonderful Gift",
+		"desc"    : "Receive a (3-star) Wonderful Power Gift in Story Mode",
+	},
+	"DR_story_3star_gift2" : {
+		"name"    : "They Really Love Me!",
+		"desc"    : "Receive two (3-star) Wonderful Power Gifts in a single Story run",
+	},
+	"DR_story_challenge6" : {
+		"name"    : "All The Right Moves",
+		"desc"    : "Pass 6 challenges in a single Story run",
+	},
+	"DR_challenge100" : {
+		"name"    : "Playing Hard to Love",
+		"desc"    : "Pass a total of 100 challenges in Story Mode",
+	},
+	"DR_low_karma" : {
+		"name"    : "It's Almost Easy",
+		"desc"    : "Have 30 karma or less after clearing 2 full sized chapters in a Story run",
+	},
+	"DR_story_panic7" : {
+		"name"    : "Bottle It Up",
+		"desc"    : "Have at least 7 panic attacks at once in Story Mode",
+	},
+	"DR_story_panic12" : {
+		"name"    : "Calm Under Pressure",
+		"desc"    : "Have at least 12 panic attacks at once in Story Mode",
+	},
+	"DR_low_hp_win" : {
+		"name"    : "She Will Not Give Up",
+		"desc"    : "In Story Mode, start a battle with 4 health or less and win",
+	},
+	"DR_helpers4" : {
+		"name"    : "Friend Train",
+		"desc"    : "Start a battle with a chain of at least 4 helpers in Story Mode",
+	},
+	"DR_helpers9" : {
+		"name"    : "Chain of Misfits",
+		"desc"    : "Start a battle with a chain of at least 9 helpers in Story Mode",
+	},
+	"DR_story_radiant" : {
+		"name"    : "Sunglasses",
+		"desc"    : "Defeat 7 monsters that can attack with the radiant element in a single Story run",
+	},
+	"DR_story_void" : {
+		"name"    : "Void Nullifier",
+		"desc"    : "Defeat 7 monsters that can attack with the void element in a single Story run",
+	},
+	"DR_story_burn" : {
+		"name"    : "Fire Wall",
+		"desc"    : "Defeat 7 monsters that can attack with the burn element in a single Story run",
+	},
+	"DR_story_zap" : {
+		"name"    : "Lightning Rod",
+		"desc"    : "Defeat 7 monsters that can attack with the zap element in a single Story run",
+	},
+	"DR_story_toxic" : {
+		"name"    : "The Antidote",
+		"desc"    : "Defeat 7 monsters that can attack with the toxic element in a single Story run",
+	},
+	"DR_flawless3" : {
+		"name"    : "Heart Trick",
+		"desc"    : "Do not take damage or use panic attacks for 3 battles in a row in Story Mode",
+	},
+	"DR_flawless10" : {
+		"name"    : "Perfect Ten",
+		"desc"    : "Do not take damage or use panic attacks for 10 battles in a row in Story Mode",
+	},
+	"DR_flawless_heavy10" : {
+		"name"    : "God Run",
+		"desc"    : "Do not take damage or use panic attacks for 10 battles in a row on at least Heavy Rain difficulty",
+	},
+	"DR_fc_streak3" : {
+		"name"    : "Triple Deluxe",
+		"desc"    : "Get a 100% full combo on 3 battles in a row in Story Mode",
+	},
+	"DR_fc_streak7" : {
+		"name"    : "Super Septuplet",
+		"desc"    : "Get a 100% full combo on 7 battles in a row in Story Mode",
+	},
+	"DR_torrent_fc3" : {
+		"name"    : "Torrential Triplet",
+		"desc"    : "Get a 100% full combo on 3 battles in a row on Torrent Rain difficulty",
+	},
+	
+	
+	
+	
+	
+	"DR_find_events" : {
+		"name"    : "Random Encounters",
+		"desc"    : "Encounter 7 unique events of any kind",
+	},
+	"DR_monster_events" : {
+		"name"    : "All The Pretty Faces",
+		"desc"    : "Encounter 12 unique events that are hosted by monsters",
+	},
+	"DR_monster_events_t2" : {
+		"name"    : "Scary Monsters and Lovely Creeps",
+		"desc"    : "Encounter 25 unique events that are hosted by monsters",
+	},
+	"DR_leave_free_gift" : {
+		"name"    : "Lonely Gift",
+		"desc"    : "Leave the free gift behind",
+	},
+	"DR_take_free_key" : {
+		"name"    : "The Key to Love",
+		"desc"    : "Take the free heart key",
+	},
+	"DR_self_doubt_max" : {
+		"name"    : "Rest Assured",
+		"desc"    : "Cure all self doubt by lowering the difficulty 3 times in a single rest",
+	},
+	"DR_garden_motes_t1" : {
+		"name"    : "Sparkling Soil",
+		"desc"    : "Collect 2,500 radiant motes from the radiant garden",
+	},
+	"DR_garden_motes_t2" : {
+		"name"    : "Phobiasynthesis",
+		"desc"    : "Collect 10,000 radiant motes from the radiant garden",
+	},
+	"DR_garden_motes_t3" : {
+		"name"    : "What Plants Crave!",
+		"desc"    : "Collect 30,000 radiant motes from the radiant garden",
+	},
+	"DR_garden_blessing" : {
+		"name"    : "The Call of the Garden",
+		"desc"    : "Accept the radiant garden's blessing",
+	},
+	"DR_anomaly_win" : {
+		"name"    : "Secret Admirer",
+		"desc"    : "Defeat Anomaly in Story Mode",
+	},
+	"DR_nix_polyps_win" : {
+		"name"    : "Don't Forget To Breathe",
+		"desc"    : "Defeat Nix Polyps in Story Mode",
+	},
+	"DR_nova_win" : {
+		"name"    : "Boss Rush in my Boss Rush",
+		"desc"    : "Defeat Nova in Story Mode",
+	},
+	
+	
+	"DR_lulu_gift" : {
+		"name"    : "Known Unknowns",
+		"desc"    : "Accept Unit Lulu's special free gift",
+	},
+	"DR_heliola_gift" : {
+		"name"    : "Mrs. Brightside",
+		"desc"    : "Accept Heliola's special free gift",
+	},
+	"DR_synapse_first" : {
+		"name"    : "To My Future Self",
+		"desc"    : "Put any gift into the link synapse",
+	},
+	"DR_synapse_three" : {
+		"name"    : "Tomorrow is Already Loved",
+		"desc"    : "Put any (3-star) Wonderful Power Gift into the link synapse",
+	},
+	"DR_max_scrambla" : {
+		"name"    : "Fully Scrambled",
+		"desc"    : "Fully upgrade Scrambla's link synapse",
+	},
+	"DR_max_boiler" : {
+		"name"    : "Maximum Spicy!",
+		"desc"    : "Fully upgrade Boiler's link synapse",
+	},
+	"DR_double_starter" : {
+		"name"    : "Mild Paradox",
+		"desc"    : "Take 2 of the same gift out of the link synapse",
+	},
+	"DR_super_starter" : {
+		"name"    : "Self Confidence",
+		"desc"    : "Love the very first monster of a Story run with three (3-star) Wonderful Power Gifts already equipped",
+	},
+	"DR_blot_spend" : {
+		"name"    : "The Cutest Art Collector",
+		"desc"    : "Spend 45 tokens at Blot's Art Gallery",
+	},
+	"DR_blot_donate" : {
+		"name"    : "Blot's Patron",
+		"desc"    : "Donate any 5 gifts to Blot's Art Gallery",
+	},
+	"DR_blot_3star" : {
+		"name"    : "Wonderfully Generous",
+		"desc"    : "Donate a (3-star) Wonderful Power Gift to Blot's Art Gallery",
+	},
+	"DR_vitrea_gifts" : {
+		"name"    : "I Feel It, I Feel The Cosmos!",
+		"desc"    : "Capture 12 cosmic gifts with the telescopes in Vitrea's Observatory",
+	},
+	"DR_vitrea_donate" : {
+		"name"    : "Did You Know?",
+		"desc"    : "Donate 5 cosmic gifts to Vitrea's Observatory",
+	},
+	"DR_vitrea_upgrade" : {
+		"name"    : "Vitrea's Secret",
+		"desc"    : "Fully upgrade the backroom dimension in Vitrea's Observatory",
+	},
+	"DR_quiz_round1" : {
+		"name"    : "You Passed!",
+		"desc"    : "Clear the first round of Sentinel's Quiz",
+	},
+	"DR_quiz_round2" : {
+		"name"    : "Extra Credit!",
+		"desc"    : "Clear round two of Sentinel's Quiz",
+	},
+	"DR_quiz_round3" : {
+		"name"    : "A++",
+		"desc"    : "Clear the final round of Sentinel's Quiz",
+	},
+	"DR_quiz_answer_t1" : {
+		"name"    : "Void Smart",
+		"desc"    : "Answer a total of 20 questions correctly in Sentinel's Quiz",
+	},
+	"DR_quiz_answer_t2" : {
+		"name"    : "Forbidden Knowledge",
+		"desc"    : "Answer a total of 50 questions correctly in Sentinel's Quiz",
+	},
+	"DR_bonding_time1" : {
+		"name"    : "Time's Up Already?",
+		"desc"    : "Complete a Bonding Time event for the first time",
+	},
+	"DR_bonding_t1" : {
+		"name"    : "5 Bonding Time Gifts",
+		"desc"    : "Accept a total of 5 gifts from any Bonding Time events",
+	},
+	"DR_bonding_t2" : {
+		"name"    : "30 Bonding Time Gifts",
+		"desc"    : "Accept a total of 30 gifts from any Bonding Time events",
+	},
+	"DR_bonding_t3" : {
+		"name"    : "90 Bonding Time Gifts",
+		"desc"    : "Accept a total of 90 gifts from any Bonding Time events",
+	},
+	"DR_bonding_kiwi" : {
+		"name"    : "A Critical Roll!",
+		"desc"    : "Get a total of 20 critical hits or full heals in Kiwi's game",
+	},
+	"DR_bonding_split" : {
+		"name"    : "Veyeral Games",
+		"desc"    : "Win 5 of Split Veyeral's minigames",
+	},
+	"DR_bonding_voltage" : {
+		"name"    : "Can't Resist the Current",
+		"desc"    : "Fully charge or fully discharge Voltage Veyeral 4 times",
+	},
+	
+	
+	"DR_trade_t1" : {
+		"name"    : "12 Trades!",
+		"desc"    : "Accept a total of 12 traded gifts from any monsters",
+	},
+	"DR_trade_t2" : {
+		"name"    : "24 Trades!",
+		"desc"    : "Accept a total of 24 traded gifts from any monsters",
+	},
+	"DR_trade_t3" : {
+		"name"    : "48 Trades!",
+		"desc"    : "Accept a total of 48 traded gifts from any monsters",
+	},
+	"DR_calorie_take" : {
+		"name"    : "Cool Side of the Pillow",
+		"desc"    : "Accept any traded gift from Calorie",
+	},
+	"DR_lila_give" : {
+		"name"    : "Feed the Eyeball",
+		"desc"    : "Feed Lila any gift",
+	},
+	"DR_hematoren_give" : {
+		"name"    : "I Bleed It Out",
+		"desc"    : "Donate at least 10 max health to Hematoren in a single visit",
+	},
+	"DR_chemory_give" : {
+		"name"    : "A Chemical Romance",
+		"desc"    : "Give Chemory any 2 gifts",
+	},
+	"DR_hadesoh_burden" : {
+		"name"    : "Pathetic, Wasted, Soulless, Compromised",
+		"desc"    : "Take 4 burdens from Hadesoh in a single visit",
+	},
+	"DR_monovai_take" : {
+		"name"    : "Screaming for Vengeance",
+		"desc"    : "Accept any traded gift from Monovai",
+	},
+	"DR_prisma_take" : {
+		"name"    : "Double Take",
+		"desc"    : "Accept 2 traded gifts from Prisma in a single visit",
+	},
+	"DR_glacia_give" : {
+		"name"    : "The Gift of Giving",
+		"desc"    : "Give Glacia any gift",
+	},
+	"DR_frozen_give" : {
+		"name"    : "Just Warming Up",
+		"desc"    : "Give Frozen Veyeral any gift",
+	},
+	"DR_vibrant_take" : {
+		"name"    : "Vibrant Trade",
+		"desc"    : "Accept any traded gift from Vibrant Veyeral",
+	},
+	"DR_visit_t1" : {
+		"name"    : "8 Free Gifts!",
+		"desc"    : "Receive a total of 8 free gifts from any monsters",
+	},
+	"DR_visit_t2" : {
+		"name"    : "16 Free Gifts!",
+		"desc"    : "Receive a total of 16 free gifts from any monsters",
+	},
+	"DR_visit_t3" : {
+		"name"    : "32 Free Gifts!",
+		"desc"    : "Receive a total of 32 free gifts from any monsters",
+	},
+	"DR_amalga_visit" : {
+		"name"    : "Coming Undone",
+		"desc"    : "Accept 4 free gifts from Amalga",
+	},
+	"DR_roundsaw_visit" : {
+		"name"    : "Free Hug With Every Sawblade",
+		"desc"    : "Accept a free gift from Roundsaw",
+	},
+	"DR_photoxai_visit" : {
+		"name"    : "Worth a Thousand Words",
+		"desc"    : "Accept a free gift from Photoxai",
+	},
+	"DR_ombroah_visit" : {
+		"name"    : "Under My Umbrella",
+		"desc"    : "Accept a free gift from Ombroah",
+	},
+	"DR_astrayo_visit" : {
+		"name"    : "Thunderstruck",
+		"desc"    : "Accept a free gift from Astrayo",
+	},
+	"DR_null_unit_visit" : {
+		"name"    : "Saving It For a Rainy Day",
+		"desc"    : "Accept a free gift from Null Unit",
+	},
+	"DR_flip_flap_visit" : {
+		"name"    : "Pure Affection",
+		"desc"    : "Accept 2 free gifts from Flip Flap",
+	},
+	"DR_pearl_visit" : {
+		"name"    : "Polished Affect",
+		"desc"    : "Accept a free gift from Pearl",
+	},
+	"DR_burning_visit" : {
+		"name"    : "Extra Crispy",
+		"desc"    : "Accept a free gift from Burning Veyeral",
+	},
+	"DR_venom_visit" : {
+		"name"    : "Pour Some Venom On Me",
+		"desc"    : "Accept a free gift from Venom Veyeral",
+	},
+	
+	
+	
+	
+	"DR_blank_void_win" : {
+		"name"    : "Bring An Umbrella",
+		"desc"    : "Complete The Void's story path as Her Heart",
+	},
+	"DR_defect_void_win" : {
+		"name"    : "How Do You Love Disorder?",
+		"desc"    : "Complete The Void's story path as Defect",
+	},
+	"DR_twin_void_win" : {
+		"name"    : "Alone Together",
+		"desc"    : "Complete The Void's story path as Twin Heart",
+	},
+	"DR_devil_void_win" : {
+		"name"    : "Wrong Side of Heaven",
+		"desc"    : "Complete The Void's story path as The Devil",
+	},
+	"DR_void_wins2" : {
+		"name"    : "Nothing Times Two",
+		"desc"    : "Complete The Void's story path 2 times as any characters",
+	},
+	"DR_void_wins3" : {
+		"name"    : "Nothing Times Three",
+		"desc"    : "Complete The Void's story path 3 times as any characters",
+	},
+	"DR_void_wins5" : {
+		"name"    : "Nothing Times Five",
+		"desc"    : "Complete The Void's story path 5 times as any characters",
+	},
+	"DR_void_heavy" : {
+		"name"    : "The Void: Heavy",
+		"desc"    : "Complete The Void's story path as any character on the Heavy Rain difficulty",
+	},
+	"DR_void_torrent" : {
+		"name"    : "The Void: Torrent",
+		"desc"    : "Complete The Void's story path as any character on the Torrent Rain difficulty",
+	},
+	
+	"DR_blank_totaria_win" : {
+		"name"    : "Fallen Angel",
+		"desc"    : "Complete Totaria's story path as Her Heart",
+	},
+	"DR_defect_totaria_win" : {
+		"name"    : "The Infection Must Die!",
+		"desc"    : "Complete Totaria's story path as Defect",
+	},
+	"DR_twin_totaria_win" : {
+		"name"    : "Can't Pull Us Apart",
+		"desc"    : "Complete Totaria's story path as Twin Heart",
+	},
+	"DR_devil_totaria_win" : {
+		"name"    : "Righteous Side of Hell",
+		"desc"    : "Complete Totaria's story path as The Devil",
+	},
+	"DR_totaria_wins2" : {
+		"name"    : "Negative Two",
+		"desc"    : "Complete Totaria's story path 2 times as any characters",
+	},
+	"DR_totaria_wins3" : {
+		"name"    : "Negative Three",
+		"desc"    : "Complete Totaria's story path 3 times as any characters",
+	},
+	"DR_totaria_heavy" : {
+		"name"    : "Totaria: Heavy",
+		"desc"    : "Complete Totaria's story path as any character on the Heavy Rain difficulty",
+	},
+	"DR_totaria_torrent" : {
+		"name"    : "Totaria: Torrent",
+		"desc"    : "Complete Totaria's story path as any character on the Torrent Rain difficulty",
+	},
+	
+	"DR_blank_blue_win" : {
+		"name"    : "The Perfect Veyeral",
+		"desc"    : "Complete Blue Veyeral's story path as Her Heart",
+	},
+	"DR_defect_blue_win" : {
+		"name"    : "My Best Veyeral",
+		"desc"    : "Complete Blue Veyeral's story path as Defect",
+	},
+	"DR_twin_blue_win" : {
+		"name"    : "Group Hug",
+		"desc"    : "Complete Blue Veyeral's story path as Twin Heart",
+	},
+	"DR_devil_blue_win" : {
+		"name"    : "Wrathful Pride",
+		"desc"    : "Complete Blue Veyeral's story path as The Devil",
+	},
+	"DR_blue_wins2" : {
+		"name"    : "Two Perfect",
+		"desc"    : "Complete Blue Veyeral's story path 2 times as any characters",
+	},
+	"DR_blue_heavy" : {
+		"name"    : "Blue Veyeral: Heavy",
+		"desc"    : "Complete Blue Veyeral's story path as any character on the Heavy Rain difficulty",
+	},
+	"DR_blue_torrent" : {
+		"name"    : "Blue Veyeral: Torrent",
+		"desc"    : "Complete Blue Veyeral's story path as any character on the Torrent Rain difficulty",
+	},
+	
+	
+	
+	
+	
+	"DR_alter_light" : {
+		"name"    : "Unusual Drizzle",
+		"desc"    : "Complete a day of Altered Story on the Light Rain difficulty",
+	},
+	"DR_alter_heavy" : {
+		"name"    : "Peculiar Rainstorm",
+		"desc"    : "Complete a day of Altered Story on the Heavy Rain difficulty",
+	},
+	"DR_alter_torrent" : {
+		"name"    : "Extraordinary Monsoon",
+		"desc"    : "Complete a day of Altered Story on the Torrent Rain difficulty",
+	},
+	"DR_alter_wins_t1" : {
+		"name"    : "Day After Tomorrow",
+		"desc"    : "Complete a total of 3 days in Altered Story",
+	},
+	"DR_alter_wins_t2" : {
+		"name"    : "Eight Days a Week",
+		"desc"    : "Complete a total of 8 days in Altered Story",
+	},
+	"DR_alter_wins_t3" : {
+		"name"    : "Altered Fortnight",
+		"desc"    : "Complete a total of 16 days in Altered Story",
+	},
+	"DR_alter_wins_t4" : {
+		"name"    : "28 Altered Days Later",
+		"desc"    : "Complete a total of 28 days in Altered Story",
+	},
+	"DR_alter_extra" : {
+		"name"    : "Strange Flood",
+		"desc"    : "In Altered Story, have Abyss add at least 1 extra battle and then win the run",
+	},
+	"DR_alter_extra3" : {
+		"name"    : "Abnormal Deluge",
+		"desc"    : "In Altered Story, have Abyss add 3 extra battles and then win the run",
+	},
+	"DR_alter_extra_t" : {
+		"name"    : "Unimaginable Tsunami",
+		"desc"    : "In Altered Story, have Abyss add 3 extra battles and then win the run on the Torrent Rain difficulty",
+	},
+	
+	
+	
+	"DR_her_heart_alt1" : {
+		"name"    : "The Heart of a Zaraden",
+		"desc"    : "Complete a day of Altered Story as Her Heart",
+	},
+	"DR_her_heart_alt2" : {
+		"name"    : "Her Heart of Gold",
+		"desc"    : "Earn a Gold Medal or better as Her Heart in Altered Story",
+	},
+	"DR_defect_alt1" : {
+		"name"    : "The Flawed Heart",
+		"desc"    : "Complete a day of Altered Story as Defect",
+	},
+	"DR_defect_alt2" : {
+		"name"    : "Fool's Gold",
+		"desc"    : "Earn a Gold Medal or better as Defect in Altered Story",
+	},
+	"DR_twin_alt1" : {
+		"name"    : "The Heart of a Twin",
+		"desc"    : "Complete a day of Altered Story as Twin Heart",
+	},
+	"DR_twin_alt2" : {
+		"name"    : "Golden Twins",
+		"desc"    : "Earn a Gold Medal or better as Twin Heart in Altered Story",
+	},
+	"DR_devil_alt1" : {
+		"name"    : "The Heart of a Devil",
+		"desc"    : "Complete a day of Altered Story as The Devil",
+	},
+	"DR_devil_alt2" : {
+		"name"    : "Devil's Gold",
+		"desc"    : "Earn a Gold Medal or better as The Devil in Altered Story",
+	},
+	"DR_alt_heart_alt1" : {
+		"name"    : "The Painted Heart",
+		"desc"    : "Complete a day of Altered Story as Alter Heart",
+	},
+	"DR_alt_heart_alt2" : {
+		"name"    : "She's Painted Gold",
+		"desc"    : "Earn a Gold Medal or better as Alter Heart in Altered Story",
+	},
+	"DR_alt_defect_alt1" : {
+		"name"    : "The Perfect Heart",
+		"desc"    : "Complete a day of Altered Story as Alter Defect",
+	},
+	"DR_alt_defect_alt2" : {
+		"name"    : "Flawless Gold",
+		"desc"    : "Earn a Gold Medal or better as Alter Defect in Altered Story",
+	},
+	"DR_alt_twin_alt1" : {
+		"name"    : "The Beaming Heart",
+		"desc"    : "Complete a day of Altered Story as Alter Twin",
+	},
+	"DR_alt_twin_alt2" : {
+		"name"    : "Reflected in Gold",
+		"desc"    : "Earn a Gold Medal or better as Alter Twin in Altered Story",
+	},
+	"DR_alt_devil_alt1" : {
+		"name"    : "The Condemned Heart",
+		"desc"    : "Complete a day of Altered Story as Alter Devil",
+	},
+	"DR_alt_devil_alt2" : {
+		"name"    : "Scorched Gold",
+		"desc"    : "Earn a Gold Medal or better as Alter Devil in Altered Story",
+	},
+	
+	
+	
+	"DR_alter_silver_t1" : {
+		"name"    : "3 Altered Silvers",
+		"desc"    : "Earn 3 unique Silver Medals or better in Altered Story",
+	},
+	"DR_alter_silver_t2" : {
+		"name"    : "12 Altered Silvers",
+		"desc"    : "Earn 12 unique Silver Medals or better in Altered Story",
+	},
+	"DR_alter_silver_t3" : {
+		"name"    : "24 Altered Silvers",
+		"desc"    : "Earn 24 unique Silver Medals or better in Altered Story",
+	},
+	"DR_alter_radiant_t1" : {
+		"name"    : "Altered Radiance",
+		"desc"    : "Earn a Radiant Medal in Altered Story",
+	},
+	"DR_alter_radiant_t2" : {
+		"name"    : "5 Altered Radiants",
+		"desc"    : "Earn 5 unique Radiant Medals in Altered Story",
+	},
+	"DR_alter_radiant_t3" : {
+		"name"    : "15 Altered Radiants",
+		"desc"    : "Earn 15 unique Radiant Medals in Altered Story",
+	},
+	"DR_alter_rose_t1" : {
+		"name"    : "50 Altered Roses",
+		"desc"    : "Receive 50 Rose Medals from monsters in Altered Story",
+	},
+	"DR_alter_rose_t2" : {
+		"name"    : "100 Altered Roses",
+		"desc"    : "Receive 100 Rose Medals from monsters in Altered Story",
+	},
+	"DR_alter_rose_t3" : {
+		"name"    : "250 Altered Roses",
+		"desc"    : "Receive 250 Rose Medals from monsters in Altered Story",
+	},
+	"DR_alter_rose_t4" : {
+		"name"    : "500 Altered Roses",
+		"desc"    : "Receive 500 Rose Medals from monsters in Altered Story",
+	},
+	"DR_alter_crimson_t1" : {
+		"name"    : "Altered Bloodstone",
+		"desc"    : "Receive a Crimson Medal from any monster with a thorned card in Altered Story",
+	},
+	"DR_alter_crimson_t2" : {
+		"name"    : "5 Altered Bloodstones",
+		"desc"    : "Receive 5 Crimson Medals from monsters in Altered Story",
+	},
+	"DR_alter_crimson_t3" : {
+		"name"    : "20 Altered Bloodstones",
+		"desc"    : "Receive 20 Crimson Medals from monsters in Altered Story",
+	},
+	"DR_alter_crimson_t4" : {
+		"name"    : "50 Altered Bloodstones",
+		"desc"    : "Receive 50 Crimson Medals from monsters in Altered Story",
+	},
+
+
+	
+
+
+	
+	"DR_qp_love1" : {
+		"name"    : "Love Them All Over Again",
+		"desc"    : "Love any monster in Quickplay Mode",
+	},
+	"DR_qp_no_medal" : {
+		"name"    : "Love is Overpowered!",
+		"desc"    : "Defeat a monster without getting any medals in a Quickplay battle",
+	},
+	"DR_qp_none_level7" : {
+		"name"    : "Giant Lover",
+		"desc"    : "Without equipping any gifts, earn at least a Silver Medal in any level 7 Quickplay battle or higher",
+	},
+	"DR_qp_none_level10" : {
+		"name"    : "Titan Lover",
+		"desc"    : "Without equipping any gifts, earn at least a Silver Medal in any level 10 Quickplay battle or higher",
+	},
+	"DR_qp_rad_medal1" : {
+		"name"    : "A Radiant Medal!",
+		"desc"    : "Earn a Radiant Medal in any Quickplay Battle",
+	},
+	"DR_qp_rad_level5" : {
+		"name"    : "Glowing Radiance",
+		"desc"    : "Earn a Radiant Medal in any level 5 Quickplay battle or higher",
+	},
+	"DR_qp_rad_level8" : {
+		"name"    : "Burning Radiance",
+		"desc"    : "Earn a Radiant Medal in any level 8 Quickplay battle or higher",
+	},
+	"DR_qp_rad_level10" : {
+		"name"    : "Blinding Radiance",
+		"desc"    : "Earn a Radiant Medal in any level 10 Quickplay battle or higher",
+	},
+	"DR_qp_rank5" : {
+		"name"    : "Lovely Level 5",
+		"desc"    : "Reach rank 5 in Quickplay Mode",
+	},
+	"DR_qp_rank10" : {
+		"name"    : "Lovely Level 10",
+		"desc"    : "Reach rank 10 in Quickplay Mode",
+	},
+	"DR_qp_rank15" : {
+		"name"    : "Lovely Level 15",
+		"desc"    : "Reach rank 15 in Quickplay Mode",
+	},
+	"DR_qp_rank20" : {
+		"name"    : "Lovely Level 20",
+		"desc"    : "Reach rank 20 in Quickplay Mode",
+	},
+	"DR_qp_rank25" : {
+		"name"    : "Lovely Level 25",
+		"desc"    : "Reach rank 25 in Quickplay Mode",
+	},
+	"DR_qp_rank30" : {
+		"name"    : "Lovely Level 30",
+		"desc"    : "Reach rank 30 in Quickplay Mode",
+	},
+	"DR_qp_rank35" : {
+		"name"    : "Lovely Level 35",
+		"desc"    : "Reach rank 35 in Quickplay Mode",
+	},
+	"DR_qp_rank40" : {
+		"name"    : "Lovely Level 40",
+		"desc"    : "Reach rank 40 in Quickplay Mode",
+	},
+	"DR_qp_rank45" : {
+		"name"    : "Lovely Level 45",
+		"desc"    : "Reach rank 45 in Quickplay Mode",
+	},
+	"DR_qp_rank50" : {
+		"name"    : "Lovely Level 50",
+		"desc"    : "Reach rank 50 in Quickplay Mode",
+	},
+	"DR_qp_any_medal10" : {
+		"name"    : "10 Medals",
+		"desc"    : "Earn any medal in 10 unique Quickplay battles",
+	},
+	"DR_qp_any_medal40" : {
+		"name"    : "40 Medals",
+		"desc"    : "Earn any medal in 40 unique Quickplay battles",
+	},
+	"DR_qp_any_medal90" : {
+		"name"    : "90 Medals",
+		"desc"    : "Earn any medal in 90 unique Quickplay battles",
+	},
+	"DR_qp_any_medal160" : {
+		"name"    : "160 Medals",
+		"desc"    : "Earn any medal in 160 unique Quickplay battles",
+	},
+	"DR_qp_any_medal250" : {
+		"name"    : "250 Medals",
+		"desc"    : "Earn any medal in 250 unique Quickplay battles",
+	},
+	"DR_qp_any_medal360" : {
+		"name"    : "360 Medals",
+		"desc"    : "Earn any medal in 360 unique Quickplay battles",
+	},
+	"DR_qp_gold_medal10" : {
+		"name"    : "10 Gold Medals",
+		"desc"    : "Earn a Gold Medal or better in 10 unique Quickplay battles",
+	},
+	"DR_qp_gold_medal40" : {
+		"name"    : "40 Gold Medals",
+		"desc"    : "Earn a Gold Medal or better in 40 unique Quickplay battles",
+	},
+	"DR_qp_gold_medal90" : {
+		"name"    : "90 Gold Medals",
+		"desc"    : "Earn a Gold Medal or better in 90 unique Quickplay battles",
+	},
+	"DR_qp_gold_medal160" : {
+		"name"    : "160 Gold Medals",
+		"desc"    : "Earn a Gold Medal or better in 160 unique Quickplay battles",
+	},
+	"DR_qp_gold_medal250" : {
+		"name"    : "250 Gold Medals",
+		"desc"    : "Earn a Gold Medal or better in 250 unique Quickplay battles",
+	},
+	"DR_qp_gold_medal360" : {
+		"name"    : "360 Gold Medals",
+		"desc"    : "Earn a Gold Medal or better in 360 unique Quickplay battles",
+	},
+	"DR_qp_rad_medal10" : {
+		"name"    : "10 Radiant Medals!",
+		"desc"    : "Earn a Radiant Medal in 10 unique Quickplay battles",
+	},
+	"DR_qp_rad_medal40" : {
+		"name"    : "40 Radiant Medals!",
+		"desc"    : "Earn a Radiant Medal in 40 unique Quickplay battles",
+	},
+	"DR_qp_rad_medal90" : {
+		"name"    : "90 Radiant Medals!",
+		"desc"    : "Earn a Radiant Medal in 90 unique Quickplay battles",
+	},
+	"DR_qp_rad_medal160" : {
+		"name"    : "160 Radiant Medals!",
+		"desc"    : "Earn a Radiant Medal in 160 unique Quickplay battles",
+	},
+	"DR_qp_rad_medal250" : {
+		"name"    : "250 Radiant Medals!",
+		"desc"    : "Earn a Radiant Medal in 250 unique Quickplay battles",
+	},
+	"DR_qp_rad_medal360" : {
+		"name"    : "360 Radiant Medals!",
+		"desc"    : "Earn a Radiant Medal in 360 unique Quickplay battles",
+	},
+	
+	
+	
+	
+	"DR_uqp_ultra15" : {
+		"name"    : "Colossus Lover",
+		"desc"    : "Without using a panic attack, earn at least 3 Radiant Medals in any level 15 Ultra Quickplay battle or higher",
+	},
+	"DR_uqp_ultra20" : {
+		"name"    : "Leviathan Lover",
+		"desc"    : "Without using a panic attack, earn at least 2 Radiant Medals in any level 20 Ultra Quickplay battle or higher",
+	},
+	"DR_uqp_ultra30" : {
+		"name"    : "Ultimate Goddess Lover",
+		"desc"    : "Without using a panic attack, earn at least 1 Radiant Medal in any level 30 Ultra Quickplay battle or higher",
+	},
+	"DR_uqp_rank10" : {
+		"name"    : "Ultra Level 10",
+		"desc"    : "Reach rank 10 in Ultra Quickplay Mode",
+	},
+	"DR_uqp_rank20" : {
+		"name"    : "Ultra Level 20",
+		"desc"    : "Reach rank 20 in Ultra Quickplay Mode",
+	},
+	"DR_uqp_rank30" : {
+		"name"    : "Ultra Level 30",
+		"desc"    : "Reach rank 30 in Ultra Quickplay Mode",
+	},
+	"DR_uqp_rank40" : {
+		"name"    : "Ultra Level 40",
+		"desc"    : "Reach rank 40 in Ultra Quickplay Mode",
+	},
+	"DR_uqp_rank50" : {
+		"name"    : "Ultra Level 50",
+		"desc"    : "Reach rank 50 in Ultra Quickplay Mode",
+	},
+	"DR_uqp_rad3" : {
+		"name"    : "Ultra Radiance",
+		"desc"    : "Earn all 3 of any monster's Radiant Medals in Ultra Quickplay",
+	},
+	"DR_uqp_rad_t1" : {
+		"name"    : "30 Ultra Radiant Medals",
+		"desc"    : "Earn 30 Radiant Medals in Ultra Quickplay",
+	},
+	"DR_uqp_rad_t2" : {
+		"name"    : "80 Ultra Radiant Medals",
+		"desc"    : "Earn 80 Radiant Medals in Ultra Quickplay",
+	},
+	"DR_uqp_rad_t3" : {
+		"name"    : "150 Ultra Radiant Medals",
+		"desc"    : "Earn 150 Radiant Medals in Ultra Quickplay",
+	},
+	"DR_uqp_sublime_t1" : {
+		"name"    : "A Sublime Medal!",
+		"desc"    : "Earn a Sublime Medal in Ultra Quickplay",
+	},
+	"DR_uqp_sublime_t2" : {
+		"name"    : "10 Sublime Medals!",
+		"desc"    : "Earn 10 Sublime Medals in Ultra Quickplay",
+	},
+	"DR_uqp_sublime_t3" : {
+		"name"    : "25 Sublime Medals!",
+		"desc"    : "Earn 25 Sublime Medals in Ultra Quickplay",
+	},
+	"DR_uqp_sublime_t4" : {
+		"name"    : "50 Sublime Medals!",
+		"desc"    : "Earn 50 Sublime Medals in Ultra Quickplay",
+	},
+	"DR_uqp_sublime_t5" : {
+		"name"    : "100 Sublime Medals!",
+		"desc"    : "Earn 100 Sublime Medals in Ultra Quickplay",
+	},
+	"DR_uqp_sublime3" : {
+		"name"    : "Plus Ultra!",
+		"desc"    : "Earn 3 Sublime Medals in a single Ultra Quickplay battle",
+	},
+	
+	
+	
+	
+	
+	"DR_tower_love1" : {
+		"name"    : "Burdens and All",
+		"desc"    : "Love any monster in The Towers",
+	},
+	"DR_tower_level4" : {
+		"name"    : "Level 4 Pillar",
+		"desc"    : "Love a level 4 or higher monster in The Towers",
+	},
+	"DR_tower_level8" : {
+		"name"    : "Level 8 Pylon",
+		"desc"    : "Love a level 8 or higher monster in The Towers",
+	},
+	"DR_tower_level12" : {
+		"name"    : "Level 12 Monolith",
+		"desc"    : "Love a level 12 or higher monster in The Towers",
+	},
+	"DR_tower_level16" : {
+		"name"    : "Level 16 Obelisk",
+		"desc"    : "Love a level 16 or higher monster in The Towers",
+	},
+	"DR_tower_unlock1" : {
+		"name"    : "Shameful Spire",
+		"desc"    : "Love Shamra in any tower after discovering at least 8 unique Shambles",
+	},
+	"DR_tower_unlock2" : {
+		"name"    : "Frustration Fortress",
+		"desc"    : "Love Guardian Soul in any tower after discovering at least 8 unique Guardians",
+	},
+	"DR_tower_unlock3" : {
+		"name"    : "Symbolic Skyscraper",
+		"desc"    : "Love Oudenai in any tower after discovering at least 8 unique Eyeric Glyphs",
+	},
+	"DR_tower_unlock4" : {
+		"name"    : "Anxious Ascent",
+		"desc"    : "Love Default in any tower after discovering at least 8 unique Zaramechs",
+	},
+	"DR_tower_unlock5" : {
+		"name"    : "Blossoming Belfry",
+		"desc"    : "Love Echo in any tower after discovering at least 8 unique Glass Flora",
+	},
+	"DR_tower_unlock6" : {
+		"name"    : "Looming Loneliness",
+		"desc"    : "Love Forma in any tower after discovering at least 8 unique Veyerals",
+	},
+	"DR_tower_mites" : {
+		"name"    : "Citadel of Spiders",
+		"desc"    : "Have at least 15 mite helpers at once in The Towers",
+	},
+	"DR_tower_anomaly" : {
+		"name"    : "Dream Den",
+		"desc"    : "Love Anomaly in Taller Tower or Torrential Tower by keeping the level low",
+	},
+	
+	
+	
+	
+	
+	"DR_tower_r_easy" : {
+		"name"    : "Build Tall, Build Higher",
+		"desc"    : "Clear Tiny Tower as any character",
+	},
+	"DR_tower_r_hard" : {
+		"name"    : "Build Far, Build Wider",
+		"desc"    : "Clear Taller Tower as any character",
+	},
+	"DR_tower_r_expert" : {
+		"name"    : "Build, Build, Build, Build...",
+		"desc"    : "Clear Torrential Tower as any character",
+	},
+	"DR_tower_shamble" : {
+		"name"    : "Scattered Across Time and Space",
+		"desc"    : "Clear Shameful Spire as any character",
+	},
+	"DR_tower_guardian" : {
+		"name"    : "Rapture My Heart",
+		"desc"    : "Clear Frustration Fortress as any character",
+	},
+	"DR_tower_glyph" : {
+		"name"    : "Sticks and Stones",
+		"desc"    : "Clear Symbolic Skyscraper as any character",
+	},
+	"DR_tower_zaramech" : {
+		"name"    : "Marked For Deletion",
+		"desc"    : "Clear Anxious Ascent as any character",
+	},
+	"DR_tower_glass" : {
+		"name"    : "Unbreakable Starlight Bloom",
+		"desc"    : "Clear Blossoming Belfry as any character",
+	},
+	"DR_tower_veyeral" : {
+		"name"    : "Together As None",
+		"desc"    : "Clear Looming Loneliness as any character",
+	},
+	"DR_tower_her_heart1" : {
+		"name"    : "Tower of Her Love",
+		"desc"    : "Complete any tower with random monsters as Her Heart",
+	},
+	"DR_tower_her_heart2" : {
+		"name"    : "Looking to the Sky to Save Me",
+		"desc"    : "Complete any monster family tower as Her Heart",
+	},
+	"DR_tower_defect1" : {
+		"name"    : "Flawless Tower Climber",
+		"desc"    : "Complete any tower with random monsters as Defect",
+	},
+	"DR_tower_defect2" : {
+		"name"    : "Looking Cause I'm Tired of Trying",
+		"desc"    : "Complete any monster family tower as Defect",
+	},
+	"DR_tower_twin1" : {
+		"name"    : "Siblings Climb Together",
+		"desc"    : "Complete any tower with random monsters as Twin Heart",
+	},
+	"DR_tower_twin2" : {
+		"name"    : "Looking For Something To Help Me",
+		"desc"    : "Complete any monster family tower as Twin Heart",
+	},
+	"DR_tower_devil1" : {
+		"name"    : "Tenacious Tower Climber",
+		"desc"    : "Complete any tower with random monsters as The Devil",
+	},
+	"DR_tower_devil2" : {
+		"name"    : "Looking For a Complication",
+		"desc"    : "Complete any monster family tower as The Devil",
+	},
+	"DR_tower_alt_heart1" : {
+		"name"    : "Painted Tower Climber",
+		"desc"    : "Complete any tower with random monsters as Alter Heart",
+	},
+	"DR_tower_alt_heart2" : {
+		"name"    : "When I Learn To Fly",
+		"desc"    : "Complete any monster family tower as Alter Heart",
+	},
+	"DR_tower_alt_defect1" : {
+		"name"    : "Perfect Tower Climber",
+		"desc"    : "Complete any tower with random monsters as Alter Defect",
+	},
+	"DR_tower_alt_defect2" : {
+		"name"    : "I Can't Quite Make It Alone",
+		"desc"    : "Complete any monster family tower as Alter Defect",
+	},
+	"DR_tower_alt_twin1" : {
+		"name"    : "Sunshine at the Top",
+		"desc"    : "Complete any tower with random monsters as Alter Twin",
+	},
+	"DR_tower_alt_twin2" : {
+		"name"    : "Fly Along With Me",
+		"desc"    : "Complete any monster family tower as Alter Twin",
+	},
+	"DR_tower_alt_devil1" : {
+		"name"    : "Demonic Tower Climber",
+		"desc"    : "Complete any tower with random monsters as Alter Devil",
+	},
+	"DR_tower_alt_devil2" : {
+		"name"    : "Run and Tell All of The Angels",
+		"desc"    : "Complete any monster family tower as Alter Devil",
+	},
+	
+	
+	
+	
+	
+	"DR_gold_r_easy" : {
+		"name"    : "Top of Tiny Tower",
+		"desc"    : "Clear Tiny Tower with a Gold Medal or better as any character",
+	},
+	"DR_gold_r_hard" : {
+		"name"    : "Top of Taller Tower",
+		"desc"    : "Clear Taller Tower with a Gold Medal or better as any character",
+	},
+	"DR_gold_r_expert" : {
+		"name"    : "Top of Torrential Tower",
+		"desc"    : "Clear Torrential Tower with a Gold Medal or better as any character",
+	},
+	"DR_gold_shamble" : {
+		"name"    : "Top of Shameful Spire",
+		"desc"    : "Clear Shameful Spire with a Gold Medal or better as any character",
+	},
+	"DR_gold_guardian" : {
+		"name"    : "Top of Frustration Fortress",
+		"desc"    : "Clear Frustration Fortress with a Gold Medal or better as any character",
+	},
+	"DR_gold_glyph" : {
+		"name"    : "Top of Symbolic Skyscraper",
+		"desc"    : "Clear Symbolic Skyscraper with a Gold Medal or better as any character",
+	},
+	"DR_gold_zaramech" : {
+		"name"    : "Top of Anxious Ascent",
+		"desc"    : "Clear Anxious Ascent with a Gold Medal or better as any character",
+	},
+	"DR_gold_glass" : {
+		"name"    : "Top of Blossoming Belfry",
+		"desc"    : "Clear Blossoming Belfry with a Gold Medal or better as any character",
+	},
+	"DR_gold_veyeral" : {
+		"name"    : "Top of Looming Loneliness",
+		"desc"    : "Clear Looming Loneliness with a Gold Medal or better as any character",
+	},
+	"DR_tower_silver_t1" : {
+		"name"    : "5 Silver Towers",
+		"desc"    : "Earn 5 unique Silver Medals or better in The Towers",
+	},
+	"DR_tower_silver_t2" : {
+		"name"    : "15 Silver Towers",
+		"desc"    : "Earn 15 unique Silver Medals or better in The Towers",
+	},
+	"DR_tower_silver_t3" : {
+		"name"    : "30 Silver Towers",
+		"desc"    : "Earn 30 unique Silver Medals or better in The Towers",
+	},
+	"DR_tower_radiant_t1" : {
+		"name"    : "A Radiant Tower",
+		"desc"    : "Earn a Radiant Medal in The Towers",
+	},
+	"DR_tower_radiant_t2" : {
+		"name"    : "6 Radiant Towers",
+		"desc"    : "Earn 6 unique Radiant Medals in The Towers",
+	},
+	"DR_tower_radiant_t3" : {
+		"name"    : "18 Radiant Towers",
+		"desc"    : "Earn 18 unique Radiant Medals in The Towers",
+	},
+	
+	
+	
+	
+	
+	"DR_en_love1" : {
+		"name"    : "One out of Infinity",
+		"desc"    : "Love any monster in Endless Nightmare",
+	},
+	"DR_en_love7" : {
+		"name"    : "A Nightmare Cycle",
+		"desc"    : "Love 7 monsters in a single run of Endless Nightmare",
+	},
+	"DR_en_love14" : {
+		"name"    : "Two Nightmare Cycles",
+		"desc"    : "Love 14 monsters in a single run of Endless Nightmare",
+	},
+	"DR_en_love21" : {
+		"name"    : "Three Nightmare Cycles",
+		"desc"    : "Love 21 monsters in a single run of Endless Nightmare",
+	},
+	"DR_en_love28" : {
+		"name"    : "Four Nightmare Cycles",
+		"desc"    : "Love 28 monsters in a single run of Endless Nightmare",
+	},
+	"DR_en_love35" : {
+		"name"    : "All Nightmare Long",
+		"desc"    : "Love 35 monsters in a single run of Endless Nightmare",
+	},
+	"DR_en_score_30k" : {
+		"name"    : "30K Nightmare",
+		"desc"    : "Score at least 30,000 motes in a single run of Endless Nightmare",
+	},
+	"DR_en_score_60k" : {
+		"name"    : "60K Nightmare",
+		"desc"    : "Score at least 60,000 motes in a single run of Endless Nightmare",
+	},
+	"DR_en_score_90k" : {
+		"name"    : "90K Nightmare",
+		"desc"    : "Score at least 90,000 motes in a single run of Endless Nightmare",
+	},
+	"DR_en_score_120k" : {
+		"name"    : "120K Nightmare",
+		"desc"    : "Score at least 120,000 motes in a single run of Endless Nightmare",
+	},
+	"DR_en_score_150k" : {
+		"name"    : "150K Nightmare",
+		"desc"    : "Score at least 150,000 motes in a single run of Endless Nightmare",
+	},
+	"DR_en_score_200k" : {
+		"name"    : "Mountain of Nightmares",
+		"desc"    : "Score at least 200,000 motes in a single run of Endless Nightmare",
+	},
+	"DR_en_karma100" : {
+		"name"    : "A Dim Glow in the Dark",
+		"desc"    : "Earn at least 100 karma in a single run of Endless Nightmare",
+	},
+	"DR_en_karma300" : {
+		"name"    : "A Bright Light in the Dark",
+		"desc"    : "Earn at least 300 karma in a single run of Endless Nightmare",
+	},
+	"DR_en_karma500" : {
+		"name"    : "A Rainbow in the Dark",
+		"desc"    : "Earn at least 500 karma in a single run of Endless Nightmare",
+	},
+	"DR_en_level5" : {
+		"name"    : "Level 5 Scare",
+		"desc"    : "Love a level 5 or higher monster in Endless Nightmare",
+	},
+	"DR_en_level10" : {
+		"name"    : "Level 10 Fright",
+		"desc"    : "Love a level 10 or higher monster in Endless Nightmare",
+	},
+	"DR_en_level15" : {
+		"name"    : "Level 15 Terror",
+		"desc"    : "Love a level 15 or higher monster in Endless Nightmare",
+	},
+	"DR_en_level20" : {
+		"name"    : "Level 20 Abomination",
+		"desc"    : "Love a level 20 or higher monster in Endless Nightmare",
+	},
+	
+	
+	"DR_en_cycles" : {
+		"name"    : "Infinite Dreams",
+		"desc"    : "Complete a total of 20 cycles in Endless Nightmare",
+	},
+	"DR_en_hold_karma" : {
+		"name"    : "Karmic Hoarding",
+		"desc"    : "Have at least 100 karma at once in Endless Stress",
+	},
+	"DR_en_total_karma1k" : {
+		"name"    : "Karmic Bounty",
+		"desc"    : "Earn 1,000 total karma in Endless Nightmare",
+	},
+	"DR_en_total_karma10k" : {
+		"name"    : "Karmic Fortune",
+		"desc"    : "Earn 10,000 total karma in Endless Nightmare",
+	},
+	"DR_en_store5" : {
+		"name"    : "Happy Place",
+		"desc"    : "Summon Solara 5 times in a single run of Endless Nightmare",
+	},
+	"DR_en_store10" : {
+		"name"    : "Gift Shop Regular",
+		"desc"    : "Summon Solara 10 times in a single run of Endless Nightmare",
+	},
+	"DR_en_total_store100" : {
+		"name"    : "Lucky 100th Shopper!",
+		"desc"    : "Summon Solara a total of 100 times in Endless Nightmare",
+	},
+	"DR_en_spree" : {
+		"name"    : "Gift Shopping Spree",
+		"desc"    : "Buy 10 gifts in a single visit from Solara in Endless Nightmare",
+	},
+	"DR_en_buy_gifts" : {
+		"name"    : "Love Sells, But Who's Buying?",
+		"desc"    : "Buy a total of 350 gifts from Solara in Endless Nightmare",
+	},
+	"DR_en_expensive" : {
+		"name"    : "Power Creep",
+		"desc"    : "Buy a single gift that costs at least 50 karma in Endless Nightmare",
+	},
+	"DR_en_anomaly" : {
+		"name"    : "Dream On",
+		"desc"    : "Love Anomaly in Endless Nightmare by keeping the level low",
+	},
+	"DR_en_quick_love" : {
+		"name"    : "You've Been Lovestruck",
+		"desc"    : "Defeat any monster within 15 seconds in Endless Nightmare",
+	},
+	"DR_en_flawless_streak" : {
+		"name"    : "Diabolical Dozen",
+		"desc"    : "Love 12 monsters in a row without taking any damage or using any panic attacks in Endless Nightmare",
+	},
+	"DR_en_one_summon" : {
+		"name"    : "Overextended",
+		"desc"    : "Love the first 18 monsters while summoning Solara only once in Endless Stress",
+	},
+	"DR_en_terror_panic" : {
+		"name"    : "Should This Be Fight Or Flight?",
+		"desc"    : "Have at least 9 panic attacks at once in Endless Terror",
+	},
+	"DR_en_terror_gifts" : {
+		"name"    : "Terrorific Twenty",
+		"desc"    : "Receive 20 Bonus Gifts in a single run of Endless Terror",
+	},
+	"DR_en_terror_fc7" : {
+		"name"    : "Scary Septuplet",
+		"desc"    : "Defeat any 7 monsters with a 100% full combo in a single run of Endless Terror",
+	},
+	
+	
+	"DR_en_overall_bronze" : {
+		"name"    : "Overall Bronze Nightmare",
+		"desc"    : "Earn a Bronze Medal in the overall category in Endless Nightmare",
+	},
+	"DR_en_overall_silver" : {
+		"name"    : "Overall Silver Nightmare",
+		"desc"    : "Earn a Silver Medal in the overall category in Endless Nightmare",
+	},
+	"DR_en_overall_gold" : {
+		"name"    : "Overall Golden Nightmare",
+		"desc"    : "Earn a Gold Medal in the overall category in Endless Nightmare",
+	},
+	"DR_en_overall_radiant" : {
+		"name"    : "Overall Radiant Nightmare",
+		"desc"    : "Earn a Radiant Medal in the overall category in Endless Nightmare",
+	},
+	"DR_en_overall_perfect" : {
+		"name"    : "A Nightmare to Remember",
+		"desc"    : "Earn all 5 possible Radiant Medals in a single run of Endless Nightmare",
+	},
+	"DR_en_silver10" : {
+		"name"    : "10 Silver Nightmares",
+		"desc"    : "Earn 10 unique Silver Medals or better in Endless Nightmare",
+	},
+	"DR_en_silver30" : {
+		"name"    : "30 Silver Nightmares",
+		"desc"    : "Earn 30 unique Silver Medals or better in Endless Nightmare",
+	},
+	"DR_en_silver60" : {
+		"name"    : "60 Silver Nightmares",
+		"desc"    : "Earn 60 unique Silver Medals or better in Endless Nightmare",
+	},
+	"DR_en_gold5" : {
+		"name"    : "5 Golden Nightmares",
+		"desc"    : "Earn 5 unique Gold Medals or better in Endless Nightmare",
+	},
+	"DR_en_gold20" : {
+		"name"    : "20 Golden Nightmares",
+		"desc"    : "Earn 20 unique Gold Medals or better in Endless Nightmare",
+	},
+	"DR_en_gold45" : {
+		"name"    : "45 Golden Nightmares",
+		"desc"    : "Earn 45 unique Gold Medals or better in Endless Nightmare",
+	},
+	"DR_en_radiant1" : {
+		"name"    : "A Radiant Nightmare!",
+		"desc"    : "Earn any Radiant Medal in Endless Nightmare",
+	},
+	"DR_en_radiant5" : {
+		"name"    : "5 Radiant Nightmares!",
+		"desc"    : "Earn 5 unique Radiant Medals in Endless Nightmare",
+	},
+	"DR_en_radiant20" : {
+		"name"    : "20 Radiant Nightmares!",
+		"desc"    : "Earn 20 unique Radiant Medals in Endless Nightmare",
+	},
+	"DR_en_radiant45" : {
+		"name"    : "45 Radiant Nightmares!",
+		"desc"    : "Earn 45 unique Radiant Medals in Endless Nightmare",
+	},
+	
+	
+	
+	
+	"DR_scrambla1" : {
+		"name"    : "Icky Scrambles",
+		"desc"    : "Break 20 of Scrambla's maws and eyeballs across all battles",
+	},
+	"DR_scrambla2" : {
+		"name"    : "Stay Over There!",
+		"desc"    : "Defeat Scrambla without her ever going behind you (Story Mode)",
+	},
+	"DR_shy_scrambla1" : {
+		"name"    : "Finely Scrambled",
+		"desc"    : "Break at least 50 of Shy Scrambla's spawn in a single level 8 battle",
+	},
+	"DR_shy_scrambla2" : {
+		"name"    : "Perfectly Scrambled",
+		"desc"    : "Defeat Shy Scrambla with a 100% full combo (Story Mode)",
+	},
+	"DR_boiler1" : {
+		"name"    : "Hard Boiled",
+		"desc"    : "Defeat Boiler with a 100% full combo, while never letting any of her parts get behind you, and breaking at least 6 of her spawn",
+	},
+	"DR_boiler2" : {
+		"name"    : "Spicy Scrambles",
+		"desc"    : "Break 30 of Boiler's spawn across all battles (Story Mode)",
+	},
+	"DR_rage_boiler1" : {
+		"name"    : "The Most Spiciest Game",
+		"desc"    : "In a single battle with Rage Boiler, spend 15 seconds total time outside of bubbles without taking damage or using a panic",
+	},
+	"DR_rage_boiler2" : {
+		"name"    : "My Bubble!",
+		"desc"    : "Defeat Rage Boiler without ever leaving the bubble that you start in (Story Mode)",
+	},
+	"DR_knot_knott1" : {
+		"name"    : "Untying the Knot",
+		"desc"    : "Defeat Knot Knott without breaking any of her eyes in a level 4 battle or higher",
+	},
+	"DR_knot_knott2" : {
+		"name"    : "Knot Knott, Who's There?",
+		"desc"    : "Break all of Knot Knott's eyes in a single battle (Story Mode)",
+	},
+	"DR_blot1" : {
+		"name"    : "Collecting Pigments",
+		"desc"    : "Break 100 of Blot's paint orbs across all battles",
+	},
+	"DR_blot2" : {
+		"name"    : "My Masterpiece",
+		"desc"    : "Defeat Blot with a 100% full combo while breaking at least 15 of her paint orbs (Story Mode)",
+	},
+	"DR_alter_blot1" : {
+		"name"    : "Immune System",
+		"desc"    : "Defeat Alter Blot without breaking any of her paint orbs",
+	},
+	"DR_alter_blot2" : {
+		"name"    : "Down With the Sickness",
+		"desc"    : "Break 60 of Alter Blot's paint orbs across all battles (Story Mode)",
+	},
+	"DR_null_blot1" : {
+		"name"    : "Demotivated",
+		"desc"    : "Defeat Null Blot without ever achieving a combo that is higher than 10%",
+	},
+	"DR_null_blot2" : {
+		"name"    : "Feeling Inspired",
+		"desc"    : "Break at least 12 of Null Blot's paint orbs with panic attacks in a single battle (Story Mode)",
+	},
+	"DR_amalga1" : {
+		"name"    : "The Right Angle",
+		"desc"    : "Defeat Amalga with a 100% full combo while breaking all of her shell parts",
+	},
+	"DR_amalga2" : {
+		"name"    : "Messy Geometry",
+		"desc"    : "Defeat Amalga without taking damage or using a panic attack (Story Mode)",
+	},
+	"DR_calorie1" : {
+		"name"    : "Burning Calories",
+		"desc"    : "Break all of Calorie's tail segments and defeat her with a 100% full combo in a level 6 battle or higher",
+	},
+	"DR_calorie2" : {
+		"name"    : "Give Me Fuel, Give Me Fire",
+		"desc"    : "Absorb 800 of Calorie's bullets with panic attacks (Story Mode)",
+	},
+	"DR_joule1" : {
+		"name"    : "Potential Energy",
+		"desc"    : "Put a crack on all of Joule's tail segments without breaking any of them",
+	},
+	"DR_joule2" : {
+		"name"    : "Path of Least Resistance",
+		"desc"    : "Defeat Joule without breaking any of her tail segments (Story Mode)",
+	},
+	"DR_shamra1" : {
+		"name"    : "Polyp Popper",
+		"desc"    : "Pop 100 of Shamra's polyps across all battles",
+	},
+	"DR_shamra2" : {
+		"name"    : "Shamra's Birthday Hug",
+		"desc"    : "During a battle with Shamra, absorb 200 bullets with a single panic attack (Story Mode)",
+	},
+	
+	
+	
+	"DR_rendy1" : {
+		"name"    : "Rending Rendy",
+		"desc"    : "Break 16 of Rendy's leg armors across all battles",
+	},
+	"DR_rendy2" : {
+		"name"    : "Nuclear Scrambled Eggs",
+		"desc"    : "Defuse 3 of Rendy's explosive eggs in a single battle by breaking them before they explode (Story Mode)",
+	},
+	"DR_snowball1" : {
+		"name"    : "Don't Let It Go",
+		"desc"    : "Defeat Snowball without letting a single bouncing egg leave the screen while breaking at least 6 of them",
+	},
+	"DR_snowball2" : {
+		"name"    : "Egg Snipe",
+		"desc"    : "Without using a panic, break one of Snowball's launched explosive eggs in the air before it explodes (Story Mode)",
+	},
+	"DR_roundsaw1" : {
+		"name"    : "Eye Love You",
+		"desc"    : "Defeat Roundsaw without breaking any of her parts in a level 5 battle or higher",
+	},
+	"DR_roundsaw2" : {
+		"name"    : "Naked Roundsaw",
+		"desc"    : "Break all of Roundsaw's parts in a single battle (Story Mode)",
+	},
+	"DR_alter_roundsaw1" : {
+		"name"    : "Manic Wyvern",
+		"desc"    : "Defeat an overleveled Alter Roundsaw without taking damage or using a panic attack",
+	},
+	"DR_alter_roundsaw2" : {
+		"name"    : "Power Tool Lover",
+		"desc"    : "Break Alter Roundsaw's saw 3 times (Story Mode)",
+	},
+	"DR_null_roundsaw1" : {
+		"name"    : "Let Me Hug You!",
+		"desc"    : "Break all of Null Roundsaw's parts in a single level 9 battle or higher",
+	},
+	"DR_null_roundsaw2" : {
+		"name"    : "Dragon Tails",
+		"desc"    : "Defeat Null Roundsaw without breaking her saw (Story Mode)",
+	},
+	"DR_lila1" : {
+		"name"    : "Unspookable",
+		"desc"    : "Defeat Lila without taking damage or using a panic attack in a level 6 battle or higher",
+	},
+	"DR_lila2" : {
+		"name"    : "Eye Adjust To My New Sights",
+		"desc"    : "Defeat Lila while staying in focus mode for the entire battle (Story Mode)",
+	},
+	"DR_shy_lila1" : {
+		"name"    : "Eyes Where There Shouldn't Be",
+		"desc"    : "Defeat Shy Lila without defeating any purple aviocs in a level 6 battle or higher",
+	},
+	"DR_shy_lila2" : {
+		"name"    : "A Cauldron of Eyeballs",
+		"desc"    : "Defeat 300 aviocs in battles against Shy Lila (Story Mode)",
+	},
+	"DR_sandrome1" : {
+		"name"    : "Enter Sandrome",
+		"desc"    : "Defeat Sandrome with a 100% full combo while breaking at least 12 of her segments",
+	},
+	"DR_sandrome2" : {
+		"name"    : "Cactus Hunter",
+		"desc"    : "Break 100 of Sandrome's segments across all battles (Story Mode)",
+	},
+	"DR_voladrome1" : {
+		"name"    : "Iron Maiden",
+		"desc"    : "Without breaking any of Voladrome's armor, Survive for at least 3 minutes in a level 10 battle or higher",
+	},
+	"DR_voladrome2" : {
+		"name"    : "Extra Spicy Noodle",
+		"desc"    : "Break at least 10 of Voladrome's armor segments in a single battle (Story Mode)",
+	},
+	"DR_shanx1" : {
+		"name"    : "I Bet This Arm on a New Era",
+		"desc"    : "Defeat Shanx while only breaking 1 of her leaf arms and also her flower crown in a level 8 battle or higher",
+	},
+	"DR_shanx2" : {
+		"name"    : "Falling From Her Grace Again",
+		"desc"    : "Break 20 of Shanx's dropped exploding seeds (Story Mode)",
+	},
+	"DR_alter_shanx1" : {
+		"name"    : "Shanx N' Roses",
+		"desc"    : "Defeat Alter Shanx with a 100% full combo while breaking every part of her",
+	},
+	"DR_alter_shanx2" : {
+		"name"    : "Scream Aim Fire!",
+		"desc"    : "Break one of Alter Shanx's leaf arms with a panic attack (Story Mode)",
+	},
+	"DR_guardian_soul1" : {
+		"name"    : "True Guardian Soul EX",
+		"desc"    : "Defeat an overleveled Guardian Soul in a level 13 battle or higher",
+	},
+	"DR_guardian_soul2" : {
+		"name"    : "New Guardian's Birthday Hug",
+		"desc"    : "Break 48 total pieces of Guardian Soul (Story Mode)",
+	},
+	
+	
+	
+	"DR_photoxai1" : {
+		"name"    : "In a Flash",
+		"desc"    : "Defeat Photoxai in 30 seconds or less in a level 5 battle",
+	},
+	"DR_photoxai2" : {
+		"name"    : "Photo Finish",
+		"desc"    : "Break every single bit of Photoxai's color ring in a single battle (Story Mode)",
+	},
+	"DR_dendrohai1" : {
+		"name"    : "Deforestation",
+		"desc"    : "Break 100 of Dendrohai's needles across all battles",
+	},
+	"DR_dendrohai2" : {
+		"name"    : "Trees Can Be Scary...",
+		"desc"    : "During a battle with Dendrohai, absorb 150 bullets with a single panic attack (Story Mode)",
+	},
+	"DR_hematoren1" : {
+		"name"    : "Sprinkler System",
+		"desc"    : "During a level 6 battle or higher with Hematoren, only break her lower blood orb and then defeat her without taking damage",
+	},
+	"DR_hematoren2" : {
+		"name"    : "Bleeding Me",
+		"desc"    : "Break every single bit of Hematoren's rings without breaking either blood orb (Story Mode)",
+	},
+	"DR_ombroah1" : {
+		"name"    : "Black Rain",
+		"desc"    : "Ombroah rains a total of 1,000 void drops upon you",
+	},
+	"DR_ombroah2" : {
+		"name"    : "Clear Skies",
+		"desc"    : "Break every single bit of Ombroah's rings in a single battle (Story Mode)",
+	},
+	"DR_lavalin1" : {
+		"name"    : "This is The Art of Ruin",
+		"desc"    : "Defeat Lavalin with a 100% full combo without breaking any of her orbs",
+	},
+	"DR_lavalin2" : {
+		"name"    : "End Of The World",
+		"desc"    : "Break every single bit of Lavalin's rings and all of her orbs in a single battle (Story Mode)",
+	},
+	"DR_heliola1" : {
+		"name"    : "Grossly Incandescent",
+		"desc"    : "Defeat Heliola after letting her absorb 3 of her orbs as she transforms in a level 7 battle or higher",
+	},
+	"DR_heliola2" : {
+		"name"    : "All That Glitters Is Gold",
+		"desc"    : "Break 150 of Heliola's needles across all battles (Story Mode)",
+	},
+	"DR_chemory1" : {
+		"name"    : "Chemical Warfare",
+		"desc"    : "Break 30 of Chemory's orbs across all battles",
+	},
+	"DR_chemory2" : {
+		"name"    : "Poison Was the Cure",
+		"desc"    : "Defeat Chemory without breaking a single one of her orbs (Story Mode)",
+	},
+	"DR_hadesoh1" : {
+		"name"    : "Walk With Me In Hell",
+		"desc"    : "Defeat Hadesoh with a 100% full combo while breaking all 4 of her orbs",
+	},
+	"DR_hadesoh2" : {
+		"name"    : "Phoenix Down",
+		"desc"    : "Break every single bit of Hadesoh's wings in a single battle (Story Mode)",
+	},
+	"DR_chionotoh1" : {
+		"name"    : "My Tears Don't Fall, They Freeze Around Me",
+		"desc"    : "During a battle with Chionotoh, absorb 300 bullets with a single panic attack",
+	},
+	"DR_chionotoh2" : {
+		"name"    : "You're as Cold as Ice",
+		"desc"    : "Cause Chionotoh to transform without breaking any of her orbs (Story Mode)",
+	},
+	"DR_astrayo1" : {
+		"name"    : "Hit The Lights",
+		"desc"    : "Break every single bit of Astrayo's rings in a single battle",
+	},
+	"DR_astrayo2" : {
+		"name"    : "Ride The Lightning",
+		"desc"    : "Defeat Astrayo with a 100% full combo without using a panic attack (Story Mode)",
+	},
+	"DR_monovai1" : {
+		"name"    : "The Most Loneliest Day",
+		"desc"    : "Defeat Monovai without using panic attacks in a level 12 battle",
+	},
+	"DR_monovai2" : {
+		"name"    : "Raining Blood",
+		"desc"    : "Monovai rains a total of 500 blood drops upon you (Story Mode)",
+	},
+	"DR_oudenai1" : {
+		"name"    : "Focus On The Target",
+		"desc"    : "Defeat Oudenai with a 100% full combo while staying in focus mode for the entire battle",
+	},
+	"DR_oudenai2" : {
+		"name"    : "Oudenai's Birthday Hug",
+		"desc"    : "Push Oudenai out of the way with your heart as she teleports around the arena (Story Mode)",
+	},
+	
+	
+	
+	"DR_unit_lulu1" : {
+		"name"    : "Absolute Unit",
+		"desc"    : "Defeat Unit Lulu with a 100% full combo, while breaking all of her claws in a level 3 battle",
+	},
+	"DR_unit_lulu2" : {
+		"name"    : "Lulu's Lightning Love",
+		"desc"    : "Defeat Unit Lulu in 30 seconds or less (Story Mode)",
+	},
+	"DR_null_unit1" : {
+		"name"    : "Dangling Pointer",
+		"desc"    : "Defeat Null Unit, while leaving exactly one of her arms unbroken",
+	},
+	"DR_null_unit2" : {
+		"name"    : "Segmentation Fault",
+		"desc"    : "Defeat Null Unit without ever achieving a combo that is higher than 20% (Story Mode)",
+	},
+	"DR_prisma1" : {
+		"name"    : "A Cute Angle",
+		"desc"    : "Defeat Prisma without breaking any of her shell parts",
+	},
+	"DR_prisma2" : {
+		"name"    : "Simple Geometry",
+		"desc"    : "During a battle with Prisma, Do not move, take damage, or panic for 15 consecutive seconds (Story Mode)",
+	},
+	"DR_rage_prisma1" : {
+		"name"    : "Safety Circumference",
+		"desc"    : "During a level 7 battle or higher with Rage Prisma, do not panic and survive for at least 3 minutes",
+	},
+	"DR_rage_prisma2" : {
+		"name"    : "Angry Angle",
+		"desc"    : "Break 12 of Rage Prisma's shell parts across all battles (Story Mode)",
+	},
+	"DR_dual_prisma1" : {
+		"name"    : "Dual Destruction",
+		"desc"    : "Defeat Dual Prisma with a 100% full combo while breaking all 8 of their shell parts",
+	},
+	"DR_dual_prisma2" : {
+		"name"    : "Bisected Angle",
+		"desc"    : "During a battle with Dual Prisma, Break all 4 shell parts of either Prisma while leaving the other unbroken (Story Mode)",
+	},
+	"DR_syncron1" : {
+		"name"    : "Chaotic Indecision",
+		"desc"    : "Defeat Syncron without taking damage in a level 6 battle or higher",
+	},
+	"DR_syncron2" : {
+		"name"    : "Deactivation Sequence",
+		"desc"    : "Break all four of Syncron's Panic Mode beams in a level 4 battle or higher (Story Mode)",
+	},
+	"DR_alter_syncron1" : {
+		"name"    : "Panic Mode Averted",
+		"desc"    : "Defeat Alter Syncron without taking damage or using panic attacks in a level 9 battle or higher",
+	},
+	"DR_alter_syncron2" : {
+		"name"    : "One Step Closer",
+		"desc"    : "Defeat Alter Syncron while only breaking a single beam during their Panic Mode (Story Mode)",
+	},
+	"DR_flip_flap1" : {
+		"name"    : "Pure Component",
+		"desc"    : "Defeat Flip Flap without breaking more than 4 wire segments in a level 7 battle or higher",
+	},
+	"DR_flip_flap2" : {
+		"name"    : "Pure Breaker",
+		"desc"    : "Break all of Flip Flap's wire segments in a single battle (Story Mode)",
+	},
+	"DR_sentinel_4x1" : {
+		"name"    : "You Should Not Be Here",
+		"desc"    : "Make Sentinel 4X jump by trying to hide",
+	},
+	"DR_sentinel_4x2" : {
+		"name"    : "Quadraxis Annihilated",
+		"desc"    : "Break all 4 of Sentinel 4X's legs in a single battle (Story Mode)",
+	},
+	"DR_sentinel_0x1" : {
+		"name"    : "The Sum of all Zeroes",
+		"desc"    : "Defeat an overleveled Sentinel 0X",
+	},
+	"DR_sentinel_0x2" : {
+		"name"    : "Don't Make Me Come Back There!",
+		"desc"    : "Make Sentinel 0X jump backwards 4 times in a single battle (Story Mode)",
+	},
+	"DR_ventra1" : {
+		"name"    : "OK, 3, 2, 1, Blast Off!",
+		"desc"    : "Defeat Ventra with a 100% full combo after breaking all 4 of her gear wheels in a level 7 battle or higher",
+	},
+	"DR_ventra2" : {
+		"name"    : "I'll Be The Roundabout",
+		"desc"    : "Defeat Ventra without breaking any of her light cores (Story Mode)",
+	},
+	"DR_default1" : {
+		"name"    : "I'm Made of Metal, My Circuits Gleam",
+		"desc"    : "Defeat any Default holograms that have eyeballs 7 times",
+	},
+	"DR_default2" : {
+		"name"    : "Default Birthday Hug",
+		"desc"    : "Defeat Default with a panic attack (Story Mode)",
+	},
+
+
+	
+	"DR_dot1" : {
+		"name"    : "Schism of Petals",
+		"desc"    : "Defeat Dot without breaking more than 3 of her petals and without breaking any of her vines or flower buds",
+	},
+	"DR_dot2" : {
+		"name"    : "Parabola of Vines",
+		"desc"    : "Break both of Dot's vines without breaking any of her flower buds or petals (Story Mode)",
+	},
+	"DR_glacia1" : {
+		"name"    : "Fragile Flower",
+		"desc"    : "Defeat Glacia without breaking more than 4 of her petals in a level 6 battle or higher",
+	},
+	"DR_glacia2" : {
+		"name"    : "Glass Harvest",
+		"desc"    : "Break 48 of Glacia's petals across all battles (Story Mode)",
+	},
+	"DR_alter_glacia1" : {
+		"name"    : "Become So Numb",
+		"desc"    : "Defeat Alter Glacia with a 100% full combo while staying in focus mode for the entire battle",
+	},
+	"DR_alter_glacia2" : {
+		"name"    : "Frozen Mote Harvest",
+		"desc"    : "Extract 20,000 total motes from Alter Glacia (Story Mode)",
+	},
+	"DR_null_glacia1" : {
+		"name"    : "Null Harvest",
+		"desc"    : "Break 48 of Null Glacia's petals across all battles",
+	},
+	"DR_null_glacia2" : {
+		"name"    : "She Loves Me Not",
+		"desc"    : "Defeat Null Glacia, while leaving exactly one of her petals unbroken (Story Mode)",
+	},
+	"DR_vitrea1" : {
+		"name"    : "Lightning Reflex",
+		"desc"    : "Defeat Vitrea with a 100% full combo in a level 5 battle or higher",
+	},
+	"DR_vitrea2" : {
+		"name"    : "Kracked Flower",
+		"desc"    : "Break all of Vitrea's breakable petals in a single battle (Story Mode)",
+	},
+	"DR_alter_vitrea1" : {
+		"name"    : "Mowing The Glass",
+		"desc"    : "Break 4 of Alter Vitrea's thorns before her fear drops below 50%",
+	},
+	"DR_alter_vitrea2" : {
+		"name"    : "In Bloom",
+		"desc"    : "Defeat Alter Vitrea without taking damage or using panic attacks (Story Mode)",
+	},
+	"DR_rage_duet1" : {
+		"name"    : "Rage Harvest",
+		"desc"    : "During a single battle with Rage Duet, break all of the breakable petals on both monsters",
+	},
+	"DR_rage_duet2" : {
+		"name"    : "Inside the Fire",
+		"desc"    : "During a battle with Rage Duet, absorb 111 bullets with a single panic attack (Story Mode)",
+	},
+	"DR_pearl1" : {
+		"name"    : "Uneven Flow",
+		"desc"    : "Defeat Pearl with a 100% full combo in any battle of an odd numbered level",
+	},
+	"DR_pearl2" : {
+		"name"    : "Strong in the Real Way",
+		"desc"    : "Defeat Pearl after taking damage 4 times in a single battle (Story Mode)",
+	},
+	"DR_momo1" : {
+		"name"    : "Glamomorous",
+		"desc"    : "Defeat Momo without breaking any of her orange petals in a level 5 battle or higher",
+	},
+	"DR_momo2" : {
+		"name"    : "Dance of Death",
+		"desc"    : "Break 25 of Momo's murder blossoms across all battles (Story Mode)",
+	},
+	"DR_shy_momo1" : {
+		"name"    : "Petals in the Golden Wind",
+		"desc"    : "Break at least 100 of Shy Momo's golden bloom petals in a single level 7 battle or higher",
+	},
+	"DR_shy_momo2" : {
+		"name"    : "Stage Fright",
+		"desc"    : "Break all of Shy Momo's green petals in a single battle (Story Mode)",
+	},
+	"DR_kiwi1" : {
+		"name"    : "Kiwi Harvest",
+		"desc"    : "Break 120 of Kiwi's petals across all battles",
+	},
+	"DR_kiwi2" : {
+		"name"    : "Favorite Flower",
+		"desc"    : "Defeat Kiwi while only breaking petals on a single flower (Story Mode)",
+	},
+	"DR_echo1" : {
+		"name"    : "Echo Harvest",
+		"desc"    : "Break 111 of Echo's petals across all battles",
+	},
+	"DR_echo2" : {
+		"name"    : "Echo's Birthday Hug",
+		"desc"    : "Stay between Echo's petals for 3 consecutive seconds before breaking any of them (Story Mode)",
+	},
+	
+	
+	
+	"DR_split_veyeral1" : {
+		"name"    : "Division By Zero",
+		"desc"    : "Have 16 tiny Split Veyerals exist at once in a level 4 battle",
+	},
+	"DR_split_veyeral2" : {
+		"name"    : "Half Empty",
+		"desc"    : "Have exactly 2 of the largest Split Veyerals exist at once and nothing more (Story Mode)",
+	},
+	"DR_burning_veyeral1" : {
+		"name"    : "Burn It Down!",
+		"desc"    : "Defeat Burning Veyeral in 30 seconds or less",
+	},
+	"DR_burning_veyeral2" : {
+		"name"    : "Full Burn!",
+		"desc"    : "Defeat Burning Veyeral with a 100% full combo (Story Mode)",
+	},
+	"DR_voltage_veyeral1" : {
+		"name"    : "Cannot Stop The Battery!",
+		"desc"    : "Defeat Voltage Veyeral with a 100% full combo in a level 6 battle",
+	},
+	"DR_voltage_veyeral2" : {
+		"name"    : "High Voltage",
+		"desc"    : "Break 100 of Voltage Veyeral's orbs across all battles (Story Mode)",
+	},
+	"DR_venom_veyeral1" : {
+		"name"    : "Aerial Toxicity",
+		"desc"    : "Defeat Venom Veyeral without letting a single toxic rock leave the screen while breaking at least 9 of them",
+	},
+	"DR_venom_veyeral2" : {
+		"name"    : "Deep Breath",
+		"desc"    : "Defeat Venom Veyeral while staying in focus mode for the entire battle (Story Mode)",
+	},
+	"DR_frozen_veyeral1" : {
+		"name"    : "Trapped Under Ice",
+		"desc"    : "Defeat Frozen Veyeral without hitting the main Veyeral even once",
+	},
+	"DR_frozen_veyeral2" : {
+		"name"    : "100 Sub Zero",
+		"desc"    : "Break 100 of Frozen Veyeral's orbs across all battles (Story Mode)",
+	},
+	"DR_vibrant_veyeral1" : {
+		"name"    : "Color Inside the Lines",
+		"desc"    : "Defeat Vibrant Veyeral without breaking any of her projectiles or paint bombs",
+	},
+	"DR_vibrant_veyeral2" : {
+		"name"    : "Radiant Eclipse",
+		"desc"    : "Defeat Vibrant Veyeral with a 100% full combo without using panic attacks (Story Mode)",
+	},
+	"DR_veyeral_quartet1" : {
+		"name"    : "Harbingers of Love",
+		"desc"    : "Survive in Veyeral Quartet's final phase for 1 minute in a level 10 battle or higher",
+	},
+	"DR_veyeral_quartet2" : {
+		"name"    : "Light, Warmth, Spark, Chemistry",
+		"desc"    : "During a battle with Veyeral Quartet, hit all four Veyerals at the same time (Story Mode)",
+	},
+	"DR_veyeral_rain1" : {
+		"name"    : "Love You in Particular",
+		"desc"    : "Defeat Veyeral Rain while only breaking Blood Bullet Veyerals in a level 4 battle or higher",
+	},
+	"DR_veyeral_rain2" : {
+		"name"    : "Alone in the Rain",
+		"desc"    : "Love 100 total Veyerals in battles against Veyeral Rain (Story Mode)",
+	},
+	"DR_storm_veyeral1" : {
+		"name"    : "Fury of the Storm",
+		"desc"    : "Defeat an overleveled Storm Veyeral without using panic attacks",
+	},
+	"DR_storm_veyeral2" : {
+		"name"    : "Eye of the Storm",
+		"desc"    : "Make Storm Veyeral split up without breaking any Beam Veyerals (Story Mode)",
+	},
+	"DR_molten_veyeral1" : {
+		"name"    : "Lovely Solvent",
+		"desc"    : "Defeat Molten Veyeral with a 100% full combo while breaking all of her Split Veyerals",
+	},
+	"DR_molten_veyeral2" : {
+		"name"    : "When Life Gives You Oranges",
+		"desc"    : "Break 50 of Molten Veyeral's orbs across all battles (Story Mode)",
+	},
+	"DR_forma1" : {
+		"name"    : "Black Hole Sun",
+		"desc"    : "Defeat Forma without breaking any of her void globs in a level 10 battle or higher",
+	},
+	"DR_forma2" : {
+		"name"    : "Forma's Birthday Hug",
+		"desc"    : "In a single battle with Forma, break at least 7 void globs with panic attacks (Story Mode)",
+	},
+	"DR_the_void1" : {
+		"name"    : "No Time At All",
+		"desc"    : "Defeat The Void in 40 seconds or less",
+	},
+	"DR_the_void2" : {
+		"name"    : "Through the Null and the Void",
+		"desc"    : "Defeat The Void with a 100% full combo without using panic attacks (Story Mode)",
+	},
+	"DR_totaria1" : {
+		"name"    : "Far Below Nothing",
+		"desc"    : "Defeat Totaria in a level 13 battle",
+	},
+	"DR_totaria2" : {
+		"name"    : "Like It Was Nothing",
+		"desc"    : "Defeat Totaria with a 100% full combo without using panic attacks (Story Mode)",
+	},
+	"DR_blue_veyeral1" : {
+		"name"    : "Blue's Perfect Party",
+		"desc"    : "Reach Blue Veyeral's 4th phase while leading a chain of at least 8 helpers in a level 8 battle or higher",
+	},
+	"DR_blue_veyeral2" : {
+		"name"    : "Perfected Perfection",
+		"desc"    : "Defeat Blue Veyeral with a 100% full combo without using panic attacks (Story Mode)",
+	},
+	
+	
+	
+	"DR_anomaly1" : {
+		"name"    : "Are You Even Trying?",
+		"desc"    : "Defeat Anomaly without even moving",
+	},
+	"DR_anomaly2" : {
+		"name"    : "Karmic Deficiency Disorder",
+		"desc"    : "Defeat Anomaly 3 times in Story Mode",
+	},
+	"DR_stella1" : {
+		"name"    : "Here Comes the Sun",
+		"desc"    : "During a battle with Stella, do not panic and survive for at least 3 minutes",
+	},
+	"DR_stella2" : {
+		"name"    : "Bright and Stellar",
+		"desc"    : "Break 24 of Stella's solar prongs across all battles (Story Mode)",
+	},
+	"DR_celestia1" : {
+		"name"    : "Full Moon",
+		"desc"    : "Defeat Celestia with a 100% full combo without using panic attacks",
+	},
+	"DR_celestia2" : {
+		"name"    : "Celestial Shine",
+		"desc"    : "Break 24 of Celestia's lunar gems across all battles (Story Mode)",
+	},
+	"DR_unity1" : {
+		"name"    : "All For One",
+		"desc"    : "Defeat Unity with a 100% full combo while breaking all of her rocks",
+	},
+	"DR_unity2" : {
+		"name"    : "One For All",
+		"desc"    : "Defeat Unity without breaking any of her rocks (Story Mode)",
+	},
+	"DR_chroma1" : {
+		"name"    : "Attack The Light",
+		"desc"    : "Break Chroma's rainbow barrier 9 times in a single battle",
+	},
+	"DR_chroma2" : {
+		"name"    : "Ultra Vivid",
+		"desc"    : "Defeat an overleveled Chroma in Story Mode",
+	},
+	"DR_duality1" : {
+		"name"    : "Shine Brightly",
+		"desc"    : "Defeat an overleveled Duality",
+	},
+	"DR_duality2" : {
+		"name"    : "All I've Got Is Lunacy!",
+		"desc"    : "Break all of Duality's solar prongs before breaking any of their lunar gems (Story Mode)",
+	},
+	"DR_trinity1" : {
+		"name"    : "Flawless Jewelry",
+		"desc"    : "Defeat Trinity without breaking any gems on their body segments",
+	},
+	"DR_trinity2" : {
+		"name"    : "Thirty Trinity Treasures",
+		"desc"    : "Break 30 of Trinity's gems across all battles (Story Mode)",
+	},
+	"DR_nix_polyps1" : {
+		"name"    : "Hold Your Breath",
+		"desc"    : "Defeat Nix Polyps without using panic attacks in a level 10 battle or higher",
+	},
+	"DR_nix_polyps2" : {
+		"name"    : "Panic Disorder",
+		"desc"    : "Defeat Nix Polyps 3 times in Story Mode",
+	},
+	"DR_tox_polyps1" : {
+		"name"    : "Creeping Death",
+		"desc"    : "Score at least 7,500 motes in a single battle against Tox Polyps",
+	},
+	"DR_tox_polyps2" : {
+		"name"    : "Breathing Disorder",
+		"desc"    : "Defeat Tox Polyps 3 times in Story Mode",
+	},
+	
+	
+	
+	"DR_shiny_knots1" : {
+		"name"    : "Knot Knott Not Naught",
+		"desc"    : "Score at least 4,400 motes in a single battle against Shiny Knot Knott",
+	},
+	"DR_shiny_knots2" : {
+		"name"    : "Slipknott",
+		"desc"    : "In a battle with Shiny Knot Knott, reveal Knott before the fear bar drops below 75% (Story Mode)",
+	},
+	"DR_shiny_joule1" : {
+		"name"    : "Kinetic Energy",
+		"desc"    : "Score at least 4,200 motes in a single battle against Shiny Joule without using panic attacks",
+	},
+	"DR_shiny_joule2" : {
+		"name"    : "Asymptotic Vibes",
+		"desc"    : "Spend at least 99 seconds in a single battle with Shiny Joule (Story Mode)",
+	},
+	"DR_shiny_rendy1" : {
+		"name"    : "Radically Rendered Rendy Rending",
+		"desc"    : "Score at least 5,000 motes in a single battle against Shiny Rendy",
+	},
+	"DR_shiny_rendy2" : {
+		"name"    : "Scuttles and Cuddles",
+		"desc"    : "Defeat 30 aviocs in a single battle against Shiny Rendy (Story Mode)",
+	},
+	"DR_shiny_snowball1" : {
+		"name"    : "She's A Killer Queen",
+		"desc"    : "Score at least 4,400 motes in a single battle against Shiny Snowball without using panic attacks",
+	},
+	"DR_shiny_snowball2" : {
+		"name"    : "Where's Your Crown, Queen Nothing?",
+		"desc"    : "Defeat Shiny Snowball without breaking any of her leg armor, and score at least 2,800 motes (Story Mode)",
+	},
+	"DR_philolu1" : {
+		"name"    : "The Things I Do For Love",
+		"desc"    : "Score at least 4,400 motes in a single battle against Philolu without using panic attacks",
+	},
+	"DR_philolu2" : {
+		"name"    : "That's The Way You Need It!",
+		"desc"    : "Defeat Philolu with a 100% Full Combo after breaking every bit of her heart rings (Story Mode)",
+	},
+	"DR_shiny_syncron1" : {
+		"name"    : "Rage Against The Machines",
+		"desc"    : "Score at least 4,400 motes in a single battle against Shiny Syncron without using panic attacks",
+	},
+	"DR_shiny_syncron2" : {
+		"name"    : "Killswitches Engaged",
+		"desc"    : "During a battle against Shiny Syncron, have all 4 units broken at once (Story Mode)",
+	},
+	"DR_shiny_momo1" : {
+		"name"    : "Honorary Murder Blossom",
+		"desc"    : "Score at least 4,400 motes in a single battle against Shiny Momo without using panic attacks",
+	},
+	"DR_shiny_momo2" : {
+		"name"    : "Simply Flourishing!",
+		"desc"    : "Defeat Shiny Momo with a 100% Full Combo after breaking all of her petals (Story Mode)",
+	},
+	"DR_shiny_veyerals1" : {
+		"name"    : "Shine On You Crazy Veyerals",
+		"desc"    : "Score at least 4,800 motes in a single battle against Shiny Veyerals",
+	},
+	"DR_shiny_veyerals2" : {
+		"name"    : "Golden Experience",
+		"desc"    : "Defeat Shiny Veyerals with a 100% full combo in a level 6 battle or higher (Story Mode)",
+	},
+	"DR_shiny_anomaly1" : {
+		"name"    : "The Enigma at Iiry Forest",
+		"desc"    : "Score at least 6,000 motes in a single battle against Shiny Anomaly",
+	},
+	"DR_shiny_anomaly2" : {
+		"name"    : "Field of Absolute Terror",
+		"desc"    : "Unleash Shiny Anomaly's most powerful attack by breaking her rainbow barrier multiple times (Story Mode)",
+	},
+	
+	
+	
+	"DR_emerald1" : {
+		"name"    : "Emerald Splash!",
+		"desc"    : "During a battle with Emerald, absorb 300 bullets with a single panic attack",
+	},
+	"DR_emerald2" : {
+		"name"    : "Mining Shame",
+		"desc"    : "Break 40 of Emerald's rocks across all battles (Story Mode)",
+	},
+	"DR_ruby1" : {
+		"name"    : "It's Also a Gun",
+		"desc"    : "Ruby fires a total of 10,000 bullets upon you",
+	},
+	"DR_ruby2" : {
+		"name"    : "Mining Her Fury",
+		"desc"    : "Score at least 7,000 motes in a single battle against Ruby (Story Mode)",
+	},
+	"DR_topaz1" : {
+		"name"    : "Golden Experience Requiem",
+		"desc"    : "Defeat an overleveled Topaz with a 100% full combo in a level 12 battle or higher",
+	},
+	"DR_topaz2" : {
+		"name"    : "Mining Denied",
+		"desc"    : "Defeat Topaz without breaking any of her bouncing rocks (Story Mode)",
+	},
+	"DR_sapphire1" : {
+		"name"    : "Here Comes a Thought",
+		"desc"    : "Defeat Sapphire without taking damage or using a panic attack in a level 8 battle or higher",
+	},
+	"DR_sapphire2" : {
+		"name"    : "Mining Her Patience",
+		"desc"    : "Break 40 of Sapphire's rocks across all battles (Story Mode)",
+	},
+	"DR_citrine1" : {
+		"name"    : "Citrus Lump",
+		"desc"    : "Defeat Citrine before she can ever leave the screen",
+	},
+	"DR_citrine2" : {
+		"name"    : "Mining Fragments",
+		"desc"    : "Extract 30,000 total motes from Citrine (Story Mode)",
+	},
+	"DR_amethyst1" : {
+		"name"    : "No Matter What",
+		"desc"    : "Defeat Amethyst after taking damage 4 times in a single battle",
+	},
+	"DR_amethyst2" : {
+		"name"    : "Mining Nothing",
+		"desc"    : "Defeat Amethyst without breaking any of her bouncing rocks (Story Mode)",
+	},
+	"DR_nova1" : {
+		"name"    : "Taste The Rainbow",
+		"desc"    : "In a single battle against Nova, break all 6 gem clones, all of their orbitals, and 4 rocks of each color",
+	},
+	"DR_nova2" : {
+		"name"    : "Never Miss A Beat",
+		"desc"    : "Defeat Nova with a 100% Full Combo (Story Mode)",
+	},
+	
+	
+	
+	"DR_moss1" : {
+		"name"    : "Game Over",
+		"desc"    : "Defeat Moss within 50 seconds without breaking more than 3 of her vines",
+	},
+	"DR_moss2" : {
+		"name"    : "Total Eclipse of the Heart",
+		"desc"    : "Stay on the wrong side of Moss for 5 consecutive seconds (Story Mode)",
+	},
+	"DR_scarlet1" : {
+		"name"    : "I Won't See You Tonight 2",
+		"desc"    : "Reduce Scarlet's fear to 50% without collecting a single treasure bullet",
+	},
+	"DR_scarlet2" : {
+		"name"    : "Hearts Burst Into Fire",
+		"desc"    : "Defeat Scarlet with a 100% Full Combo while breaking at least 5 of her orbs (Story Mode)",
+	},
+	"DR_dandy1" : {
+		"name"    : "Let It Burn Under My Skin",
+		"desc"    : "Defeat Dandy without breaking any of her glyphs in a level 6 battle or higher",
+	},
+	"DR_dandy2" : {
+		"name"    : "Tripping on a Hole in a Paper Heart",
+		"desc"    : "Break 60 glyphs in battles with Dandy (Story Mode)",
+	},
+
+}

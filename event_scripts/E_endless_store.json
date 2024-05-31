@@ -1,0 +1,248 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+			"dialog"			: "Solara has found some gifts within the depths of this nightmare.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Solara can get them for you!",
+		}
+	],
+	
+	"came_back_intro" : [
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "Solara has found more gifts in the depths of this nightmare!",
+		}
+	],
+	
+	"shop_level"	: "Shop Level [VAL1]",
+	"dream_petals"	: "Dream Petals Radiated",
+	"list_title"	: "Solara's Gifts",
+
+	"op_store"		: "Get Gifts",
+	"op_upgrade"	: "Upgrades",
+	"op_leave"		: "Leave",
+	
+	"op_power_gifts"	: "Power Gifts",
+	"op_power_cost"		: "Power Karma Cost",
+	"op_bonus_gifts"	: "Bonus Gifts",
+	"op_bonus_cost"		: "Bonus Karma Cost",
+	"op_quick_gifts"	: "Quick Gifts",
+	"op_quick_cost"		: "Quick Karma Cost",
+	
+	"store_text"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "Solara can bring you gifts, but Solara will need some of your |C3|karma.|C0|",
+	},
+	"upgrade_text"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
+		"dialog"	: "Solara can use the power of |C3|Tetrids|C0| and |C3|Dream Petals|C0| to find more gifts!",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+		"dialog"	: "Going back to the nightmare?",
+	},
+	"leave_text"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "Solara will leave to search for more gifts.",
+	},
+	
+	"comment_no_gifts"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+		"dialog"	: "Solara can't find any more gifts right now!",
+	},
+	"comment_max_level"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
+		"dialog"	: "Solara is the most powerful |C3|Queen of Dreams|C0| that ever was!",
+	},
+	
+	
+	"comment_one"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "|wave|A simple gift.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+	},
+	"comment_two"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "|wave|A lovely gift.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+	},
+	"comment_three"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+		"dialog"	: "|wave|A very powerful gift!|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+	},
+	"comment_bonus"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
+		"dialog"	: "|wave|A bonus gift.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "|wave|A quick gift.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+	},
+	"comment_unknown"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+		"dialog"	: "Solara can't tell what it is.|L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+	},
+	"comment_limit"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+		"dialog"	: "You are holding too many quick gifts to carry this one.",
+	},
+	"comment_over"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
+		"dialog"	: "You don't have enough |C3|karma|C0| for this one!|L|Solara needs |C3|[VAL1] karma|C0| to get this.",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "You will give Solara |C3|[VAL1] karma?|C0|",
+	},
+	
+	"gift_bought" 		: [
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Solara has retrieved this gift for you!",
+		}
+	],
+	"final_gift_bought" : [
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
+			"dialog"			: "Solara has run out of gifts!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
+			"dialog"			: "Solara will need to go searching again.",
+		}
+	],
+	
+	
+	
+	"power_plural" 	: "Power Gifts",
+	"power_1" 		: "1 Power Gift",
+	"power_n" 		: "[VAL1] Power Gifts",
+	"bonus_plural" 	: "Bonus Gifts",
+	"bonus_1" 		: "1 Bonus Gift",
+	"bonus_n" 		: "[VAL1] Bonus Gifts",
+	"quick_plural" 	: "Quick Gifts",
+	"quick_1" 		: "1 Quick Gift",
+	"quick_n" 		: "[VAL1] Quick Gifts",
+	"comment_gift_zero"			: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "With some tetrid power, Solara can find |C3|[VAL1]|C0| from now on!",
+	},
+	"comment_gift_up"			: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "Solara can reach |C3|[VAL1]|C0| right now, but with some tetrid power, Solara can find another one!",
+	},
+	"comment_gift_max"			: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "Solara can reach |C3|[VAL1]|C0| every time you visit!",
+	},
+	"comment_cost_down"			: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "With some tetrid power, Solara will need |C3|1 less karma|C0| to reach any |C3|[VAL1]|C0| from now on!",
+	},
+	"comment_cost_max"			: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
+		"dialog"	: "Solara can reach |C3|[VAL1]|C0| while using as little karma as possible!",
+	},
+	"comment_upgrade_fail"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
+		"dialog"	: "Solara needs you to radiate |C3|[VAL1] Dream Petals|C0| to increase this power.",
+	},
+	"comment_upgrade_fail_1"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
+		"dialog"	: "Solara needs you to radiate at least |C3|1 Dream Petal|C0| to increase this power.",
+	},
+	
+	"first_upgrade" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|Solara is now more powerful than ever before!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "Just remember that Solara has to actually go and find the gifts first.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "|wave|Solara will have more gifts next time!",
+		}
+	],
+	"middle_upgrade" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|Solara is now more powerful than ever before!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|Nightmares are no match for Solara!",
+		}
+	],
+	"final_upgrade" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|Solara is now the most powerful |C3|Queen of Dreams|C0| that ever was!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|Sweet dreams will take over this land of nightmares!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|By the time Solara is finished, nightmares will be checking under their beds for Solara!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|Solara will make sure that you have enough gifts to survive forever!",
+		},
+	],
+	
+	"green_comment"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
+		"dialog"	: "Yellow and Blue do mix into such a lovely color.",
+	},
+	"red_comment"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
+		"dialog"	: "|shake|Ouch!|norm||L|These are very sharp!",
+	},
+	"yellow_comment"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+		"dialog"	: "|shake|Yellow!|L||wave|Solara's favorite!|L||norm||C3|These will give Solara the most power!",
+	},
+	"blue_comment"		: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
+		"dialog"	: "|shake|Ouch!|norm||L|These ones shocked Solara!",
+	},
+	"orange_comment"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_upset"],
+		"dialog"	: "Who mixed all these yellow ones with red?",
+	},
+	"purple_comment"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+		"dialog"	: "Are you sure these are Tetrids?|L|They feel like nothing to Solara.",
+	},
+	"radiant_comment"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
+		"dialog"	: "These have all the colors!|L||wave|Especially yellow!",
+	},
+	"upgrade_confirm"	: {
+		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+		"dialog"	: "You will give Solara these |C3|Tetrids?",
+	},
+	
+	
+	
+	"leaving" 	: [
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
+			"dialog"			: "Solara will now go searching for more gifts!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "|wave|Enjoy the rest of this endless nightmare!",
+		},
+	],
+
+}

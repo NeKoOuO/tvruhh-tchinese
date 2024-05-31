@@ -1,0 +1,44 @@
+{
+	"intro" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 64,
+			"text_w"			: 284,
+			"voice"				: "VOICE_default",
+			"random"			: 4,
+			"dialog_rand1"		: "|C3|She finds a lonely gift on the ground.",
+			"dialog_rand2"		: "|C3|She notices a lonely gift along her path.",
+			"dialog_rand3"		: "|C3|She comes across a gift that seemingly belongs to no one.",
+			"dialog_rand4"		: "|C3|A gift seems to be intentionally placed along her path.",
+		},
+	],
+
+	"ask_q1"		: "What does she do?",
+	"ask1_a"		: "Check the gift",
+	"ask1_b"		: "Leave the gift (+[VAL1] Karma)",
+
+	"ask_q2"		: "Will she take this gift?",
+	"ask2_a"		: "Take the gift",
+	"ask2_b"		: "Leave the gift (+[VAL1] Karma)",
+	
+	"check_gift" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She takes a closer look at the gift.",
+		},
+	],
+	"take_gift" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She chooses to take the gift.",
+		},
+	],
+	"leave_gift" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She chooses to leave the gift alone.",
+		},
+	],
+}

@@ -1,0 +1,259 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "|wave|It's you again!",
+			"dialog_rand2"		: "|wave|I found you!",
+			"dialog_rand3"		: "|wave|I was looking for you!",
+		},
+		{
+			"fast_text"			: 1,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_very_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "|shake|Yes. Yes. Yes. Yes. Yes.|L|Yes. Yes. Yes. Yes. Yes.|L|Yes. Yes. Yes.",
+			"dialog_rand2"		: "|shake|Ya. Ya. Ya. Ya. Ya. Ya.|L|Ya. Ya. Ya. Ya. Ya.|L|Ya. Ya. Ya. Ya.",
+			"dialog_rand3"		: "|shake|Ya. Ya. Ya. Ya. Ya. Ya.|L|Yes. Yes. Yes. Yes.|L||wave|Yaaaaaaaaa!",
+			"dialog_rand4"		: "|shake|Yes. Yes. Yes. Yes. Yes.|L|Ya. Ya. Ya. Ya. Ya. Ya.|L||wave|Yeeeeeeeeeeeeeee!",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
+			"dialog"			: "I got kinda scared earlier and ran off.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised"],
+			"random"			: 2,
+			"dialog_rand1"		: "But then I remembered that I had this other thing I wanted to give you.",
+			"dialog_rand2"		: "But then I found this thing on the floor and it reminded me of you.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_confused"],
+			"dialog"			: "And then I couldn't find you anymore.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
+			"dialog"			: "But then I did find you, and now here you are, and I'm here now.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_awkward"],
+			"random"			: 3,
+			"dialog_rand1"		: "And then I dunno what happened because it didn't yet.",
+			"dialog_rand2"		: "I don't know what happened next because it hasn't happened yet.",
+			"dialog_rand3"		: "And then I dunno yet. I can't see the future.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "|shake|Ya. Ya. Ya. Ya. Ya. Ya.|L||wave|Yaaaaaaaaa!",
+			"dialog_rand2"		: "|shake|Yes. Yes. Yes. Yes. Yes.|L||wave|Yeeeeeeeeeeeeeee!",
+		},
+		{
+			"fast_text"			: 0,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "Now I can give this to you!",
+			"dialog_rand2"		: "I can give you a present!",
+			"dialog_rand3"		: "I want you to have one of these!",
+		},
+	],
+	
+	"monster_gifts"	: "Astrayo's Gifts",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
+		"dialog"	: "Take it!",
+	},
+	"comment_take_stone"	: {
+		"character"	: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_very_happy"],
+		"dialog"	: "I made it just for you!",
+	},
+	"comment_take_astrayo_part"	: {
+		"character"	: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
+		"dialog"	: "How did that get here?",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
+		"dialog"	: "Ya ya ya, this one?",
+	},
+	
+	"another_gift_1" 	: [
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
+			"dialog"			: "I...  hope you like it.",
+		},
+		{
+			"fast_text"			: 1,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_sad"],
+			"dialog"			: "Oops. Oops. Oops. Oops. Oops.|L|No. No. No. No. No. No. No.|L|No. No. No. No. No. No.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_awkward"],
+			"dialog"			: "|shake|You weren't supposed to see all those!",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised_blush"],
+			"dialog"			: "I'm so embarrassed.|L|This is so embarrassing.|L|This is so embarrassing.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
+			"dialog"			: "|shake|I didn't mean to make that many!",
+		},
+		{
+			"fast_text"			: 0,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
+			"dialog"			: "Well, there's no point in hiding them anymore.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_aggressive"],
+			"dialog"			: "Now you HAVE to take one.",
+		},
+	],
+	
+	"another_gift_2" 	: [
+		{
+			"fast_text"			: 1,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_normal"],
+			"dialog"			: "Okay. Okay. Okay. Okay. Okay. Okay.",
+		},
+		{
+			"fast_text"			: 0,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
+			"dialog"			: "I also found this other stuff you might like.",
+		},
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "You should never be embarrassed for being too happy.",
+		},
+		{
+			"fast_text"			: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I- ",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_very_happy"],
+			"dialog"			: "I love you!",
+		},
+		{
+			"fast_text"			: 0,
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "So fast!",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised_blush"],
+			"dialog"			: "Sorry...",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"fast_text"			: 1,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
+			"dialog"			: "Sorry. Sorry. Sorry. Sorry.|L|Sorry. Sorry. Sorry. Sorry.",
+		},
+		{
+			"fast_text"			: 0,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
+			"dialog"			: "Sorry about all those heart stones.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused_blush"],
+			"dialog"			: "You know, when I get too excited, my claws grow super long.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised"],
+			"dialog"			: "Oh, really?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "Yeah, they get like three times longer.|L||!|It's really embarrassing.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
+			"dialog"			: "No, that's really awesome!",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"fast_text"			: 1,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
+			"dialog"			: "Sorry. Sorry. Sorry. Sorry.|L|Sorry. Sorry. Sorry. Sorry.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_awkward"],
+			"dialog"			: "I didn't mean to make so many heart stones. They just kinda happened on accident.",
+		},
+		{
+			"fast_text"			: 0,
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "Wow, you must really like my sister.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "Go give her a hug. She doesn't bite.|L||!|Not yet, anyways.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised_blush"],
+			"dialog"			: "Uhh-",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "Oh... Thanks, Astrayo.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "So, what's the deal with all the heart stones?",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_angry"],
+			"dialog"			: "I can't believe you would just ask me that!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
+			"dialog"			: "Sorry! I was just curious.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "You Glyphs make a ton of them all over the place, and then you get mad when anyone touches them.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_angry_blush"],
+			"dialog"			: "Those are only for people that I like!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "Haha, you love me!",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"fast_text"			: 1,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
+			"dialog"			: "|shake|Ya. Ya. Ya. Ya. Ya. Ya.|L|Ya. Ya. Ya. Ya. Ya.|L|Ya. Ya. Ya. Ya.",
+		},
+		{
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_aggressive"],
+			"dialog"			: "I'm going to hug you now!",
+		},
+		{
+			"fast_text"			: 0,
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_very_happy"],
+			"dialog"			: "Yay!",
+		},
+	],
+
+}

@@ -1,0 +1,218 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
+			"dialog"			: "|C3|(A Glass Flora emerges from the ground in front of her.)",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
+			"dialog"			: "|C3|(The flower wiggles excitedly while its vine extends further out of the ground.)",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
+			"dialog"			: "|C3|(When the entire vine has risen, a familiar figure bursts out of the ground.)",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Pearl has appeared before her.)",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(She holds out a few gifts.)",
+		},
+	],
+	
+	"intro_blank" : [
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
+			"dialog"			: "|C3|(A Glass Flora emerges from the ground in front of the Zaraden.)",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "|shake|Pearl!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "You scared me!",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Pearl's body quickly emerges from the ground and emits an aura of remorse.)",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(She then pulls out some gifts.)",
+		},
+	],
+	
+	"intro_twins" : [
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
+			"dialog"			: "|C3|(A Glass Flora emerges from the ground in front of the twins.)",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "Pearl!",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "You know what to do.",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
+			"dialog"			: "|C3|(The flower happily shakes and then extends out of the ground.)",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
+			"dialog"			: "|shake|Woah!",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
+			"dialog"			: "|C3|(The vine coils around the wingless Zaraden and pulls her forward.)",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Pearl bursts out of the ground holding many gifts.)",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "Y-you want me to take one of these?",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Pearl gets very close to her.)",
+		},
+	],
+	
+	"monster_gifts"	: "Pearl's Gifts",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+		"dialog"	: "|C3|(Pearl holds out several gifts as if she wants one to be chosen.)",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+		"dialog"	: "|C3|(She stares expectingly.)",
+	},
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "Hey, it's okay.|L||!|You didn't mean to scare me.",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Pearl looks as if she wants to bury herself in the ground forever.)",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
+			"dialog"			: "Oh, no you don't!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_happy"],
+			"dialog"			: "...",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Pearl's tail stares at the Veyeral.)",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "|wave|Eye see you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_happy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "You have such a pretty smile.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Pearl slowly approaches the Zaraden. Their faces are almost touching, but the Zaraden reflexively pulls away.)",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Thanks, Pearl.",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Discouraged and embarrassed, Pearl starts to pull away from the Zaraden.)",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
+			"dialog"			: "Oh.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_blush"],
+			"dialog"			: "...You are so cute, Pearl.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_happy"],
+			"dialog"			: "|C3|(Upon hearing those words, Pearl's entire body goes limp as she falls unconscious with a smile on her face.)",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "Thanks, Pearl.",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Pearl looks as if she wants something.)",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "You look like you want something.",
+		},
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Pearl looks like she wants a hug from this Zaraden.)",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "It looks like you want a hug from me, The Devil.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_happy"],
+			"dialog"			: "|C3|(That is what she wanted.)",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
+			"dialog"			: "|C3|(Pearl looks as if she wants something.)",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_happy"],
+			"dialog"			: "|C3|(A hug puts a rare smile on her face.)",
+		},
+	],
+
+}

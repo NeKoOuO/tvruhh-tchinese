@@ -1,0 +1,507 @@
+{
+	"intro_full_health" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "|wave|Hello.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "It's your best friend, Hematoren!",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "You are looking so healthy today.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|So much love juice.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surpised"],
+			"dialog"			: "I want to make a new garden, and I want to grow the flowers out of YOU.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "I just need a little bit of fluid from your love noodles.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "You can spare some, right?",
+		},
+	],
+	"intro_near_full" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "|wave|Hello.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "It's your best friend, Hematoren!",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_sad"],
+			"dialog"			: "Your heart is leaking a little bit.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surpised"],
+			"dialog"			: "Look at that drop on the ground.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "|wave|I can grow a flower there!",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "I can make a whole garden out of YOU.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "Can I borrow some of your heart juice?",
+		},
+	],
+	"intro_mid_health" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_sad"],
+			"dialog"			: "Your heart is leaking a lot.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_upset"],
+			"dialog"			: "Was that because of me?|L||!|I'm not a very good new best friend.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surpised"],
+			"dialog"			: "Look at those drops on the ground.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "|wave|I can grow flowers there!",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "If I had more love fluid from your heart-",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "I could make a whole garden out of YOU.",
+		},
+	],
+	"intro_low_health" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surpised"],
+			"dialog"			: "|shake|Your heart!",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_upset"],
+			"dialog"			: "That wasn't me, was it?|L||!|It's leaking all over.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surpised"],
+			"dialog"			: "I know!",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "I'm going to make a whole garden out of YOU!",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "I can use that love fluid you are leaking to grow so many flowers.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "It's the least I can do as your new best friend.",
+		},
+	],
+	
+	"mood_title"	: "Hematoren's Mood",
+	"monster_gifts"	: "Hematoren's Gifts",
+
+	"op_trade"			: "Hematoren's Gifts",
+	"op_donate"			: "Donate Blood",
+	"op_leave"			: "Leave",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+		"dialog"	: "I will trade you gifts for your love fluid.",
+	},
+	"comment_donate"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+		"dialog"	: "I will grow such beautiful flowers from your essence.",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_suprised"],
+		"dialog"	: "Let me know if you must go.",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_sad"],
+		"dialog"	: "I don't have anything else for you.",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_upset"],
+		"dialog"	: "I've taken enough.|L|Your internal organs will become lonely if I take any more.",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_normal"],
+		"dialog"	: "Is it time already?",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+		"dialog"	: "You can have this one.",
+	},
+	"comment_take_stone"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+		"dialog"	: "You want my heart stone?|L||wave|It's made out of me!",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surprised"],
+		"dialog"	: "You want this?|L|Maybe you can tell me what it is?",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_aggressive"],
+		"dialog"	: "Give me more love juice first.|L|Then we can talk about this one.",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_upset"],
+		"dialog"	: "This won't fit!",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+		"dialog"	: "Is this the one you want?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|Anything for my bestest friend.",
+			"dialog_rand2"		: "Remember that your best friend gave this to you.",
+			"dialog_rand3"		: "Don't worry, I didn't spill anything on it.",
+			"dialog_rand4"		: "I hope it helps you refill your love.",
+		}
+	],
+	
+	
+	
+	
+	"comment_donate_blood"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+		"dialog"	: "How much love fluid will you donate?|L|This will reduce your max health.",
+	},
+	"comment_donate_extra1"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surprised"],
+		"dialog"	: "I'll be sure to get an extra snack for you.",
+	},
+	"comment_donate_extra2"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+		"dialog"	: "You will be my best friend forever.",
+	},
+	"donate_confirm"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+		"dialog"	: "Do you want to donate this much?",
+	},
+	"comment_take_food"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+		"dialog"	: "|wave|Pick your favorite snack.",
+	},
+	"donate_default" 	: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"random"			: 4,
+			"dialog_rand1"		: "Let me hold your heart for a second.",
+			"dialog_rand2"		: "Can I touch your heart for a bit?",
+			"dialog_rand3"		: "I need to touch your heart, is that okay?",
+			"dialog_rand4"		: "I will gently hold your heart, okay?",
+		},
+	],
+	"donate_blank" 		: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "I need to hold your heart for a moment.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "I trust you Hematoren.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surprised"],
+			"dialog"			: "Your heart is so warm!",
+		},
+	],
+	"donate_defect" 	: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "I will need to touch your heart.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
+			"dialog"			: "Will this hurt?",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_aggressive"],
+			"dialog"			: "Let's find out together!",
+		},
+	],
+	"donate_twins" 		: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "I need to hold your heart.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "Is that like you'll be holding hands?",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "Yeah, I guess.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|This feels like way more than that.",
+		},
+	],
+	"donate_devil" 		: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "I'll need to hold your heart.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "I don't have to look, right?",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_aggressive"],
+			"dialog"			: "Why? You don't want to see the love fluid flowing?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
+			"dialog"			: "|shake|Just hurry up!",
+		},
+	],
+	"finished_default" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"random"			: 5,
+			"dialog_rand1"		: "|wave|All done!",
+			"dialog_rand2"		: "|wave|Thank you for your donation!",
+			"dialog_rand3"		: "|wave|Extraction successful!",
+			"dialog_rand4"		: "|wave|Love fluid extracted!",
+			"dialog_rand5"		: "|wave|Heart juiced!",
+		},
+	],
+	"finished_blank" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "|wave|All done!",
+			"dialog_rand2"		: "|wave|Heart juiced!",
+			"dialog_rand3"		: "|wave|Love fluid extracted!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "I didn't even feel anything.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "I'm just that good at juicing hearts.",
+		},
+	],
+	"finished_defect" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_pain"],
+			"dialog"			: "|shake|Ahh!",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surprised"],
+			"dialog"			: "|shake|What!",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "I thought it was going to hurt, but I didn't feel anything.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_angry"],
+			"dialog"			: "Don't scare me like that!",
+		},
+	],
+	"finished_twins" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "|wave|All done!",
+			"dialog_rand2"		: "|wave|Heart juiced!",
+			"dialog_rand3"		: "|wave|Love fluid extracted!",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "What did it feel like?",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_normal"],
+			"dialog"			: "I didn't even feel anything.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious"],
+			"dialog"			: "...",
+		},
+	],
+	"finished_devil" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
+			"dialog"			: "Just do it already!",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "I already did it.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
+			"dialog"			: "Oh...|L||!|I think I'm going to pass out.",
+		},
+	],
+	"to_free_food" 	: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "You'll need to eat something after donating that much fluid.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "Lucky for you, your best friend has you covered.",
+		},
+	],
+	"food_taken" 	: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "Your love noodles will regenerate all that fluid in no time.",
+			"dialog_rand2"		: "Your body needs this to create more love fluid.",
+			"dialog_rand3"		: "That should help you feel better.",
+		}
+	],
+
+	
+	
+	
+	
+	"leave_no_donation" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_sad"],
+			"dialog"			: "Oh, it's okay if you can't spare any right now.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_aggressive"],
+			"dialog"			: "Your heart can't help but leak all over the place anyways.",
+		},
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "It will take me a few days to make your garden.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_sad"],
+			"dialog"			: "Oh, What's wrong?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"			: "Oh... It's nothing.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "I can't wait to see it.|L||!||wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|I can't wait to show you.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
+			"dialog"			: "Can you make flowers out of Blue too?",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "Let's see.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "I don't have a heart I'm afraid.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surprised"],
+			"dialog"			: "Your fluid is too cold.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "Imagine the flowers that could be made from me.|L||!|The world isn't ready for such beauty.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "Try making flowers out of Greeny's blood next time.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
+			"dialog"			: "You don't want her to touch your heart anymore?",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_upset"],
+			"dialog"			: "You don't want me to touch your heart anymore?",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Wait!|norm| I do!",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "You can really grow flowers with my blood?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "That's one of the most metal things I've ever heard!",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "Are you okay?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
+			"dialog"			: "I'm fine.|L||!|My legs just feel wobbly.|L||!|And my vision is blurry.",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Oh that's normal.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "I will grow a beautiful garden out of you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "I can't wait to show you.",
+		},
+	],
+
+}

@@ -1,0 +1,329 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+			"dialog"			: "It's so nice to see you again!|L||!|I was just looking for you.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+			"dialog"			: "Umm... Can you help me with something?",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused_blush"],
+			"dialog"			: "I need a gift for someone.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_normal"],
+			"dialog"			: "She likes stars and stuff from outer space.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+			"dialog"			: "She absolutely |wave|loves|norm| |C3|cosmic|C0| gifts.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_sad"],
+			"dialog"			: "But I haven't been able to find any.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+			"dialog"			: "Do you have anything like that?",
+		},
+	],
+	
+	"mood_title"	: "Glacia's Mood",
+	"monster_gifts"	: "Glacia's Gifts",
+	"player_gifts"	: "[NAME]'s Active Gifts",
+
+	"op_trade"			: "Glacia's Gifts",
+	"op_give_active"	: "Give Active Gifts",
+	"op_leave"			: "Leave",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+		"dialog"	: "These gifts are for helping me.",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_normal"],
+		"dialog"	: "I need some |C3|cosmic|C0| gifts.",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+		"dialog"	: "Let me know if you have to go.",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_sad"],
+		"dialog"	: "I have nothing left to give you.",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+		"dialog"	: "That's enough gifts for now, thanks!",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_normal"],
+		"dialog"	: "Do you need to go now?",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+		"dialog"	: "I want to give this to you!",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+		"dialog"	: "Whatever that is, you can have it!",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_sad"],
+		"dialog"	: "I'm not ready to give that up yet.",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_upset"],
+		"dialog"	: "You wouldn't be able to carry that.",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_normal"],
+		"dialog"	: "Do you want this one?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_very_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|Oh, I just love giving gifts.",
+			"dialog_rand2"		: "You deserve every gift you get.",
+			"dialog_rand3"		: "|wave|That feeling when you give someone exactly what they wanted.",
+			"dialog_rand4"		: "I love to see you happy.",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_normal"],
+		"dialog"	: "Well, if you want to give that to me-",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked"],
+		"dialog"	: "Oh! She would love this!",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_very_happy"],
+		"dialog"	: "I know she really likes that one!",
+	},
+	"comment_give_TAG_vitrea_part"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+		"dialog"	: "|shake|Can I have that, please?!",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+		"dialog"	: "That would sadly vanish before I could even give it to her.",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content_blush"],
+		"dialog"	: "...Oh, I'm just thinking about |wave|something.|norm||L|Did you want to show me anything?",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_upset"],
+		"dialog"	: "...Oh it's nothing, I was just thinking about stuff.|L|Did you want to show me anything?",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+		"dialog"	: "I don't think I need this anymore.",
+	},
+	"comment_give_petal"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_sad"],
+		"dialog"	: "There is no way she would want that.",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_sad"],
+		"dialog"	: "I wouldn't feel right taking this one from you.",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+		"dialog"	: "Can I really have this?",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "Thank you so much, it means a lot.",
+			"dialog_rand2"		: "|wave|Doesn't giving gifts make you so happy?",
+			"dialog_rand3"		: "This is so kind of you.",
+			"dialog_rand4"		: "What did I do to deserve your kindness?",
+		}
+	],
+	"special_given" 		: [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "|shake|Yes!",
+			"dialog_rand2"		: "Just what I was looking for!",
+			"dialog_rand3"		: "I can't even believe it!",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy_blush"],
+			"random"			: 3,
+			"dialog_rand1"		: "She is going to love this!",
+			"dialog_rand2"		: "This will make her so happy!",
+			"dialog_rand3"		: "I can already see the look on her face!",
+		}
+	],
+	"favorite_given" 		: [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+			"dialog"			: "This is part of her favorite constellation.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content"],
+			"dialog"			: "I can't wait to see her face when I give this to her!",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content_blush"],
+			"dialog"			: "Then she's going to talk about it for hours.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy_blush"],
+			"dialog"			: "And I'll forget to pay attention, because I'm looking at the stars in her eyes...",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Forget you heard any of that!",
+		},
+	],
+	"TAG_vitrea_part_given" 	: [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content_blush"],
+			"dialog"			: "It still smells like her.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+			"dialog"			: "Oh! I said that out loud.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused_blush"],
+			"dialog"			: "|shake|Please don't tell anyone how weird I am.",
+		},
+	],
+
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious3"],
+			"dialog"			: "You wanted a gift for Vitrea, right?",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Is it that obvious?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "You are enough for her without any gifts.|L||!|You know that, right?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "We just like to see you smile.|L||!||wave|I love you!|L||!|Vitrea does too.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content_blush"],
+			"dialog"			: "Thanks, I love you too.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "Tell Vitrea I said hi.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|What?|L||!|Who said anything about Vitrea?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "Oh, is it a secret?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "Your presence is already the perfect gift to her.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "|wave|I should know, my presence is the perfect gift to anyone.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "Are these supposed to be for Vitrea?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "She will swoon for anything that YOU give her.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_angry"],
+			"dialog"			: "Greeny! Don't assume things.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused_blush"],
+			"dialog"			: "How did you guess?",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
+			"dialog"			: "How DID you guess?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "Oh Sunshine, I just have intuition for these things.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "So, Vitrea, eh?",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|What are you talking about?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "You can't keep any secrets from me, The Devil.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "I can figure out your crush just by lookin at ya.",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy_blush"],
+			"dialog"			: "You are too powerful.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "This, I know.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_very_happy"],
+			"dialog"			: "Thank you for helping me.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content"],
+			"dialog"			: "I love you too.",
+		},
+	],
+
+}

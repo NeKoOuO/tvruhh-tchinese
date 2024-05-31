@@ -1,0 +1,297 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "|shake|I... So cold.",
+			"dialog_rand2"		: "|shake|I'm   f-f-freezing.",
+			"dialog_rand3"		: "|shake|Are you c-c-cold too?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "|shake|I haven't felt warmth in a long time.",
+			"dialog_rand2"		: "|shake|I'm not used to feeling any warmth.",
+			"dialog_rand3"		: "|shake|Feeling warmth is so new to me.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Do you have anything to |C3|warm|C0| me up?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Even if it's not that warm, it will still feel warm coming from you.",
+		},
+	],
+	
+	"intro_devil" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+			"dialog"			: "|shake|I'm so cold.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Oh, you are so very warm...",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
+			"dialog"			: "Woah there!|L||!||shake|You're freezing!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+			"dialog"			: "|shake|Oh... I'm sorry.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "It's alright!|L||!|I'll take the cold from you.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Do you have anything else to |C3|warm|C0| me up?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Anything will feel warm coming from you.",
+		},
+	],
+	
+	"mood_title"	: "Frozen's Mood",
+	"monster_gifts"	: "Frozen's Gifts",
+	"player_gifts"	: "[NAME]'s Active Gifts",
+	"player_quicks"	: "[NAME]'s Quick Gifts",
+
+	"op_trade"			: "Frozen's Gifts",
+	"op_give_active"	: "Give Active Gifts",
+	"op_give_quick"		: "Give Quick Gifts",
+	"op_leave"			: "Leave",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+		"dialog"	: "They might be a little cold, but I have some gifts for you!",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
+		"dialog"	: "Please warm me up.",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
+		"dialog"	: "You have any warm juice?",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+		"dialog"	: "Just seeing you is warmth.",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+		"dialog"	: "I'm all out of gifts.",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+		"dialog"	: "I'm feeling warm enough now, thanks!",
+	},
+	"comment_give_empty"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+		"dialog"	: "You don't have any of these.",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
+		"dialog"	: "Is it time to go?",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+		"dialog"	: "You can have this!",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_angry"],
+		"dialog"	: "You can have this... thing.|L|The cold must be affecting my memory.",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+		"dialog"	: "This one is stuck to my frozen body.|L|A little more warmth, and you can have it.",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
+		"dialog"	: "You can't even hold this.",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
+		"dialog"	: "Do you want this one?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|It feels warmer with you already.",
+			"dialog_rand2"		: "Just brush off those ice flakes.",
+			"dialog_rand3"		: "It's not too cold, right?",
+			"dialog_rand4"		: "I hope it warms you like you warmed me.",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
+		"dialog"	: "Even this feels warm because you have it.",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+		"dialog"	: "This would warm me up a lot.",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+		"dialog"	: "I would cherish this warmth!",
+	},
+	"comment_give_TAG_boiler_part"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+		"dialog"	: "Now that's some |shake|spicy|norm| warmth!",
+	},
+	"comment_give_dislike"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+		"dialog"	: "This is way too cold for me right now.",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+		"dialog"	: "Not exactly warm, but I'll take it.",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+		"dialog"	: "This feeling might warm me up a little.",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+		"dialog"	: "|shake|Why am I suddenly s-s-so c-c-cold?",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+		"dialog"	: "I think I already have that.",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_angry"],
+		"dialog"	: "This is too important to you!",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+		"dialog"	: "Can I have this?",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|I feel so warm.",
+			"dialog_rand2"		: "I can still feel your warmth on it.",
+			"dialog_rand3"		: "This feels so nice.",
+			"dialog_rand4"		: "You are so kind to me.",
+		}
+	],
+	"favorite_given" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Do I really deserve this much warmth and kindness?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+			"dialog"			: "You make a very persuasive argument.",
+		}
+	],
+
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious3"],
+			"dialog"			: "I have another trick that a little robot taught me.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+			"dialog"			: "This   is    so    warm!",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+			"dialog"			: "How do you stay so warm?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "Oh me? Why it's my darling, Defect, of course.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "|shake|What?|!||L|Let's go, Blue.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "See? She gets so warm when you compliment her.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad"],
+			"dialog"			: "Aren't you going to give her a little hug?|!||L|She looks so cold.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Sorry!",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "And a little kiss?",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
+			"dialog"			: "Shush, Greeny!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+			"dialog"			: "So warm.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "I have to leave now.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
+			"dialog"			: "...Just a little longer.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "I better not be here another hour.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Your visit has warmed me up so much.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
+			"dialog"			: "I may never feel cold again.",
+		},
+	],
+
+}

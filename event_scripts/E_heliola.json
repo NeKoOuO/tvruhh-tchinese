@@ -1,0 +1,146 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_surprised"],
+			"dialog"			: "Oh yeah-",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_confused"],
+			"dialog"			: "You are looking for more monsters, right?",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_sparkle1"],
+			"random"			: 4,
+			"dialog_rand1"		: "Then I have something just for you!",
+			"dialog_rand2"		: "Then this will brighten up your day!",
+			"dialog_rand3"		: "Then let me shine some light on this cloudy day!",
+			"dialog_rand4"		: "I made you something that could help with that!",
+		},
+	],
+	
+	"monster_gifts"	: "Heliola's Gifts",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_happy"],
+		"dialog"	: "No one can resist the lure of my light!",
+	},
+	"comment_take_bonus"	: {
+		"character"	: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_normal"],
+		"dialog"	: "Oh, you want this instead?",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_sparkle2"],
+		"dialog"	: "You really want it?",
+	},
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_confused"],
+			"dialog"			: "But be careful, stardust.",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_awkward"],
+			"dialog"			: "Sometimes it draws a big crowd.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "Don't worry.|L||wave|That's exactly what I want!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_starstruck"],
+			"dialog"			: "I want to be like you.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "This might not make much of a difference with me around.",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_sparkle1"],
+			"dialog"			: "How do you handle your popularity so well, stardust?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "One can't \"handle\" the existence of gravity.|!||L|One must simply accept its inevitability.",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_starstruck"],
+			"dialog"			: "I see.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "I just hide behind her.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "You made this     for me?",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_sparkle2"],
+			"dialog"			: "I made it just for you, |wave|Sunshine!",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_content_blush"],
+			"dialog"			: "I can't wait to see you again!|L||!||wave|Bye, Sunshine!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised_blush"],
+			"dialog"			: "|shake|Oh, uh-      |L||norm|Bye.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious"],
+			"dialog"			: "This might be too easy.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "I know it can be scary being the center of attention-",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "But I can tell you were made for the spotlight!",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_starstruck"],
+			"dialog"			: "You really think so, stardust?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "You're starting to like the attention, aren't you?",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_awkward"],
+			"dialog"			: "A little bit.",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_content_blush"],
+			"dialog"			: "Okay fine, |wave|I like it.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_normal"],
+			"dialog"			: "I hope this can make your day a little brighter.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_happy"],
+			"dialog"			: "|wave|I can't wait to see you again!",
+		},
+	],
+
+}

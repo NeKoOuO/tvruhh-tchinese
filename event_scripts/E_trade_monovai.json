@@ -1,0 +1,351 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "Zaraden-",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "Your actions have brought so much joy to me today.",
+			"dialog_rand2"		: "Seeing you here brings me great delight.",
+			"dialog_rand3"		: "Due to your actions, I can no longer feel loneliness.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "Thanks to you, I now know that I do not have to live in darkness.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"random"			: 3,
+			"dialog_rand1"		: "You must now accept the consequences of this!",
+			"dialog_rand2"		: "There will be repercussions for this!",
+			"dialog_rand3"		: "How do you plan on taking responsibility for this?",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "You see, it's very dark in this rain, and the night is approaching.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "I um... |shake|It's hard to see anything!",
+			"dialog_rand2"		: "|shake|It's not that I'm scared, but-",
+			"dialog_rand3"		: "|shake|I won't be able to see anything!",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "I'll need something that emits |C3|radiant|C0| light.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "If you were to give me such a gift, I would be forced to retaliate.",
+		},
+	],
+	
+	"mood_title"	: "Monovai's Mood",
+	"monster_gifts"	: "Monovai's Gifts",
+	"player_gifts"	: "[NAME]'s Active Gifts",
+	"player_quicks"	: "[NAME]'s Quick Gifts",
+
+	"op_trade"			: "Monovai's Gifts",
+	"op_give_active"	: "Give Active Gifts",
+	"op_give_quick"		: "Give Quick Gifts",
+	"op_leave"			: "Leave",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "These gifts are the result of your actions.",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "I need a source of |C3|radiant|C0| light.",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "Even temporary lights will do.",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+		"dialog"	: "Leaving will have consequences.",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "Thanks to you, I no longer have any gifts to give you.",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "We have enough light now.|L|This is your fault.",
+	},
+	"comment_give_empty"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+		"dialog"	: "You don't have any of these.",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "Are you prepared to leave?",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "My gift to you.",
+	},
+	"comment_take_stone"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+		"dialog"	: "I trust my heart stones with you.|L|This is a great responsibility.",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "It's too dark to see this one, but you can have it.",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+		"dialog"	: "I can't let you have this... yet.",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+		"dialog"	: "You cannot carry this, so I am forced to keep it here.",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "Will you accept this gift?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "Well well well.|L||!|If it isn't the consequences of your own actions.",
+			"dialog_rand2"		: "How does this payback feel?",
+			"dialog_rand3"		: "|shake|Now you know how it feels to be given something you want.",
+			"dialog_rand4"		: "You have shown me love, and now I have my retribution.",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "Even in the dark, this will remind me of you.",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "This radiates plenty of light.",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "This is exactly what I need to fight off the darkness of night.|L|I must have it.",
+	},
+	"comment_give_TAG_monovai_part"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "You would dare return this part of me?",
+	},
+	"comment_give_I_void_glyph"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "You would dare to give me a drawing in my own likeness?",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "This will remind me of you, while it lasts.",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "A fleeting moment of happiness.",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+		"dialog"	: "There are consequences for looking at me like that.",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+		"dialog"	: "I do not need this.",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+		"dialog"	: "Taking this from you would leave me with an impossible debt.",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "Do you want to give this to me?",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "You have given me something that I wanted.",
+			"dialog_rand2"		: "You have made me so happy with this gift.",
+			"dialog_rand3"		: "You have shown me kindness beyond anything I've ever known.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "Your kindness will not go unpunished.",
+			"dialog_rand2"		: "I will have my revenge for this.",
+			"dialog_rand3"		: "Are you prepared for the consequences?",
+			"dialog_rand4"		: "You have forced me to retaliate.",
+		}
+	],
+	"special_given" 		: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "This light will help me see at night.",
+			"dialog_rand2"		: "The light is even brighter coming from you.",
+			"dialog_rand3"		: "I won't be scared-|L||!||shake|I mean, I will be able to see in the dark.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"random"			: 3,
+			"dialog_rand1"		: "You will be held responsible for this.",
+			"dialog_rand2"		: "I will remember this.",
+			"dialog_rand3"		: "You will receive retribution for this.",
+		}
+	],
+	"TAG_monovai_part_given" 		: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "This is a very dangerous part of me, and you have just returned it to where it belongs.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "You must understand that there will be consequences for this.",
+		}
+	],
+	"I_void_glyph_given" 		: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "You have some nerve giving me this lovely work of art.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "It captures my figure so well.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "My retribution will be swift and merciless.",
+		}
+	],
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "I'm scared of the dark too.|L||!|You don't have to hide it from me.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "You dare make me comfortable expressing my vulnerabilities?",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "I sentence you to this inescapable embrace.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "I will now sentence each of you to one embrace from me.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "|wave|Simply perfect.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "Aww, thank you, Monovai.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "I will have retribution for your compliments.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_normal"],
+			"dialog"			: "It was nice to see you, Monovai.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "Your visit has filled me with so much love, but it is now time to cast my judgement upon you.",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "I sentence you to-",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "A kiss on the cheek!",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "A kiss on the cheek.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Oh, okay!",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "You dare give me a free embrace?|L||!|You will pay for this.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "I'll get you back for this!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "You have now accrued an impossible debt to me.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "Get in line!",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "I will.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "Your visit has made me feel less alone.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "|shake|You will pay for this.",
+		},
+	],
+
+}

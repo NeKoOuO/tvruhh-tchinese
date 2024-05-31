@@ -1,0 +1,149 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has been collecting more data on monster fear.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Accept the data This Unit has compiled into the |C3|Fear Sense|C0| gift.",
+		},
+	],
+	
+	"monster_gifts"	: "Unit Lulu's Gifts",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+		"dialog"	: "This Unit wishes to provide as much data as possible.",
+	},
+	"comment_take_bonus"	: {
+		"character"	: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+		"dialog"	: "This Unit also has a bonus gift if you would prefer that instead.",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+		"dialog"	: "Will you accept this?",
+	},
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "It looks like your fear is at zero right now.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "That is correct.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "But it should be less than that.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "...Activating cooling fans.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"random"			: 4,
+			"dialog_rand1"		: "This Unit has exhausted all cooling fans.",
+			"dialog_rand2"		: "This Unit will now burst into flames.",
+			"dialog_rand3"		: "This Unit will become a burn elemental.",
+			"dialog_rand4"		: "This Unit has achieved a new record temperature.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "Hey Blue, are you scared right now?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "Not at all, my dear.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
+			"dialog"			: "Then why is this number so high when I look at you?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "You are holding it upside down.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "Oh I see.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
+			"dialog"			: "You got a device that can tell if someone is attracted to you?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "It is within the realm of possibility for This Unit to create such a device.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Oh that's okay!|norm||L|You don't need to trouble yourself with that.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "You're right, Sunshine.|!||L|That would be cheating.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "Finally, I can see exactly how hard my punches are hitting!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "You mean that metaphorically, correct?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "No. I, The Devil, only speak literally!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit must insist against harming the monsters.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "No, I meant like |wave|metaphorically|norm| literal.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has exhausted too much memory on your nonsense.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "...",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit hopes that this will help you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"random"			: 4,
+			"dialog_rand1"		: "This Unit has exhausted all cooling fans.",
+			"dialog_rand2"		: "This Unit will now burst into flames.",
+			"dialog_rand3"		: "This Unit will become a burn elemental.",
+			"dialog_rand4"		: "This Unit has achieved a new record temperature.",
+		},
+	],
+
+}

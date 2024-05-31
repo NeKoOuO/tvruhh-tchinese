@@ -1,0 +1,65 @@
+{
+	"color_green"	: "green",
+	"color_red"		: "red",
+	"color_yellow"	: "yellow",
+	"color_blue"	: "blue",
+	"color_orange"	: "orange",
+	"color_purple"	: "purple",
+	
+	"intro" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 64,
+			"text_w"			: 284,
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She feels one of her [VAL1] tetrids moving.",
+		},
+		{
+			"dialog"			: "|C3|The tetrid wants to lead her somewhere.",
+		},
+	],
+	
+	"ask_q1"		: "What does she do?",
+	"ask1_a"		: "Set it free (-1 Tetrid)",
+	"ask1_b"		: "Keep it",
+
+	"ask_q2"		: "Will she take the key?",
+	"ask2_a"		: "Take the key",
+	"ask2_b"		: "Leave the key (+[VAL1] Karma)",
+	
+	"free_tetrid" : [
+		{
+			"voice"				: "VOICE_default",
+			"random"			: 4,
+			"dialog_rand1"		: "|C3|She sets the tetrid free and it rolls itself behind a tree.",
+			"dialog_rand2"		: "|C3|The tetrid flies out of her hand and lands in a nearby bush.",
+			"dialog_rand3"		: "|C3|The tetrid jumps out of her heart and bounces into a nearby pond.",
+			"dialog_rand4"		: "|C3|She lets tetrid go and it rolls itself into a hollow log.",
+		},
+		{
+			"dialog"			: "|C3|There, she finds a Heart Key, but the tetrid is gone.",
+		},
+	],
+	"keep_tetrid" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She keeps the tetrid safe inside her heart.",
+		},
+	],
+	
+	"take_key" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She chooses to take the key.",
+		},
+	],
+	"leave_key" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She chooses to leave the key alone.",
+		},
+	],
+	
+}

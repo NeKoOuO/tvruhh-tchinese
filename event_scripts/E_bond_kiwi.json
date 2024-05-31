@@ -1,0 +1,769 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+			"dialog"			: "Umm, Miss Zaraden lady?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "My little sisters were wondering...|L|Can you come play in our dungeon?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "We are going to play |C3|Kiwi's Dungeon of Demise and Doom.",
+		},
+	],
+	"intro_twins" : [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+			"dialog"			: "Umm, Miss Zaraden twins?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "My little sisters wanted to ask...|L|You both wanna play in our dungeon?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "We wanna play |C3|Kiwi's Dungeon of Demise and Doom|C0| with you.",
+		},
+	],
+	
+	"monster_mood"		: "Kiwi's Mood",
+	"monster_stuff"		: "Kiwi's [VAL1]",
+	
+	"op_dungeon"	: "Enter the dungeon",
+	"op_sleep"		: "Take a nap",
+	"op_talk"		: "Talk to Kiwi first",
+	"op_start_game"	: "Start the game",
+	
+	"comment_before_game"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+		"dialog"	: "Come play with us!",
+	},
+	
+	"to_dungeon" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "|wave|This is our dungeon.",
+		},
+	],
+	"talk_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "Your home is so |wave|cute!",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "Thank you, Miss Zaraden.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "Is this the game?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "Is that supposed to be   me?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Ya, we drawed these.",
+		},
+		{
+			"character"			: ["VOICE_default", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "|C3|(I'm trying so hard not to cry.)",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "You are going to be the |C3|Artist|C0| class, okee?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Artists start with |C3|a lot of Health|C0| Points.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+			"dialog"			: "Oh, did that make you sad?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
+			"dialog"			: "What?   No.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+			"dialog"			: "Then why are you crying?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry2"],
+			"dialog"			: "Oh, sorry.|L||!|Sometimes grown ups just cry a lot when they are really happy.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "That's weird and funny.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
+			"dialog"			: "Kiwi, you are so talented!",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "My little sisters drawed some of them too.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "They are saying you should be the crying class instead.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
+			"dialog"			: "Well, I AM     very good at it!",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "But today you will be the |C3|Artist|C0| class, okee?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "No more tears.|!||L|I'm ready to play now.",
+		},
+	],
+	"talk_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "So, what is this game?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "Okee, so like, you are going to be the |C3|Sorcerer|C0| class.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
+			"dialog"			: "And then you beat up the bad girls.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Sorcerers can also |C3|heal after every battle.|C0|",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "Okay, but-",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "What's a sorcerer?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "A sorcerer uses magic spells to fight by pondering her magic orb.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],
+			"dialog"			: "A more round and smooth orb is more powerful!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "Well, there is no better orb for the job then.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "I assure you, my radius is identical all the way around.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "And what is your radius?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "Darling, you should know by now that it is an irrational number.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "Because nothing rational could possibly explain this amount of perfection.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+			"dialog"			: "I dunno what a fashionable number is.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
+			"dialog"			: "I don't either.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_aggressive"],
+			"dialog"			: "Wait, did you say I have to fight something?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "Ya, but it's just for pretend.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "No violence in front of the child.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "Oh! Okay then.",
+		},
+	],
+	"talk_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_normal"],
+			"dialog"			: "How do we play?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "Okee, you are going to be the |C3|Knight|C0| class.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "You will be one of the Sunlight Knights.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_happy"],
+			"dialog"			: "That sounds fun!",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "What's a knight though?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "So like, a knight has a sword or a cutter to fight, and they start with |C3|2 defense|C0| points.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "They go save princesses when they are in trouble.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "And then they get to |wave|kiss da princesses!",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised_blush"],
+			"dialog"			: "Oh!",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "Is that so?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "|wave|Hahahahaha!",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_content"],
+			"dialog"			: "Kiwi, you are all our new little sisters now.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],
+			"dialog"			: "|wave|Ok, Big Sister.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "You get to be the |C3|Jester|C0| class.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "Jesters wear funny hats.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
+			"dialog"			: "I always wanted to wear a hat!",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Also, you can heal knights with your funny jokes that also |C3|hurt the bad girls.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious2"],
+			"dialog"			: "Her jokes should also hurt me too.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad"],
+			"dialog"			: "You love my jokes.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "My little sisters are saying that our new big sisters are funny.",
+		},
+	],
+	"talk_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "This place looks downright sinister.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "Now this     is an evil lair!",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Thank you, Miss Zaraden.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
+			"dialog"			: "Is that what I think it is?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Ya, we drawed these.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad"],
+			"dialog"			: "That's me with a Limited Edition Malevolent Gates Signature Guitar.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad"],
+			"dialog"			: "Kiwi,    how do you even know what this is?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "You shared your brain to us, you 'member?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "We know all your favorite stuff now.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "Oh yeah, that did happen, huh?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "You are gunna be the |C3|Metalhead|C0| class.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
+			"dialog"			: "Metalheads can |C3|attack everyone at the same time|C0| without a power up.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "|shake|That is so righteous!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "I'm ready for a classic game of Dungeon of Demise and Doom.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "|shake|Kiwi's|norm|     Dungeon of Demise and Doom.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "Right on!",
+		},
+	],
+	
+	
+	"to_first_round" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "Okee, let's start da game!",
+		},
+		{
+			"play_music"		: "kiwi_music",
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+			"dialog"			: "The story begins when |C3|[VAL1]|C0| and |C3|[VAL2]|C0| find a spooky dungeon.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
+			"dialog"			: "Then, they hear a scream.|L||!||shake|\"Help me! I'm trapped in the dungeon!\"",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_angry"],
+			"dialog"			: "It was |C3|The Princess,|C0| and you have to save her!",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+			"dialog"			: "So they go into the dungeon, and then-",
+		},
+	],
+	"to_next_round" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"random"			: 9,
+			"dialog_rand1"		: "Then you go down a long hallway.",
+			"dialog_rand2"		: "You check the door on da left, but it's locked!|L||!|So you go right instead.",
+			"dialog_rand3"		: "You go into the hole in the wall where they came from.",
+			"dialog_rand4"		: "|C3|[VAL2]|C0| shares a snack she brought, and then you go into the next room.",
+			"dialog_rand5"		: "You hear a strange noise in the next room, so you go check it out.",
+			"dialog_rand6"		: "The only way to go is a trap door on da floor.|!| So you jump in.",
+			"dialog_rand7"		: "You find a ladder that goes up to another room.|!| So you climb up.",
+			"dialog_rand8"		: "It looks like there is nowhere else ta go.|!| Then you accidentally press a button that opens the door!",
+			"dialog_rand9"		: "It's getting darker, but |C3|[VAL2]|C0| finds a torch to light the way.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+			"random"			: 9,
+			"dialog_rand1"		: "You see a shiny object in the corner, but suddenly-",
+			"dialog_rand2"		: "You hear noises that get closer, and then-",
+			"dialog_rand3"		: "|C3|[VAL1]|C0| doesn't see anything, but |C3|[VAL2]|C0| tells her to turn around, and then-",
+			"dialog_rand4"		: "The room is very dark, but you see something coming out from da dark.",
+			"dialog_rand5"		: "You go into the next room, but something is waiting here for you.",
+			"dialog_rand6"		: "There is something shiny on a table, but before you can get it-",
+			"dialog_rand7"		: "It was a trap!",
+			"dialog_rand8"		: "You feel like something was following you, so you turn around.",
+			"dialog_rand9"		: "The next room is empty, so you let your guard down.|!| Then suddenly-",
+		},
+	],
+	
+	"battle_mix1"		: "You are attacked by a buncha bad girls!",
+	"battle_mix2"		: "Bad girls jump out and attack!",
+	"battle_mites"		: "A buncha mites attack!",
+	"battle_aviocs"		: "There's a swarm of aviocs!",
+	"battle_stones"		: "You run into some angry heart stones!",
+	"battle_dancers"	: "You are attacked by some dangerous dancers!",
+	"battle_nuggets"	: "A swarm of Zombie Nuggets attack!",
+	"battle_slimes"		: "You are surrounded by a buncha slimes!",
+	"start_battle" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
+			"dialog"			: "[VAL3]",
+		},
+	],
+	"start_battle_zombie" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
+			"dialog"			: "They run into a |C3|Mob Zombie|C0| with her mob of |C3|Zombie Nuggets!|C0|",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Watch out! |C3|Zombie Nuggets|C0| are weak, but they let the next enemy have a turn too!",
+		},
+	],
+	"start_battle_ooze" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "\"All da cuties who stand before |C3|Madam Ooze|C0| will never want to leave us!\"",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Watch out! |C3|Paint Slimes|C0| are weak, but they let the next enemy have a turn too!",
+		},
+	],
+	"start_battle_dancer" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "You are distracted by a |C3|Cosmic Dancer|C0| and her |wave|sparkly dance moves.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
+			"dialog"			: "Her |C3|Murder Blossoms|C0| wanna dance battle to the death!",
+		},
+	],
+	"start_battle_shepherd" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
+			"dialog"			: "|shake|\"Dang it! I will freakin burn you to death with my heckin fire powers!\"",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
+			"dialog"			: "The |C3|Shepherd of Fire|C0| is here to fight you!",
+		},
+	],
+	"start_battle_vampire" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
+			"dialog"			: "The |C3|Vampire Queen|C0| appeared before them.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "She likes to take your HP by giving you kisses.",
+		},
+	],
+	"start_battle_spirit" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
+			"dialog"			: "\"Who is making all this noise in da dungeon? I will have revenge for this!\"",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
+			"dialog"			: "It was a |C3|Spirit of Vengeance!|C0||L||!|She is very scary.",
+		},
+	],
+	
+	"comment_turn_main"		: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+		"dialog"	: "|C3|[VAL1]|C0| can attack the bad girls.",
+	},
+	"comment_turn_support"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+		"dialog"	: "|C3|[VAL2]|C0| can heal |C3|[VAL1]|C0| or make her even stronger.",
+	},
+	"comment_turn_target"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
+		"dialog"	: "Now you choose something to hit!",
+	},
+	"comment_turn_action"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+		"dialog"	: "Let's see wha happens.",
+	},
+	"comment_action_hit"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+		"dialog"	: "|wave|You did something!",
+	},
+	"comment_action_crit"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+		"dialog"	: "|shake|Critical hit!",
+	},
+	"comment_action_miss"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
+		"dialog"	: "|shake|Miss!",
+	},
+	"comment_nothing"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+		"dialog"	: "",
+	},
+	"comment_win"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+		"dialog"	: "|wave|You win da battle!",
+	},
+	"comment_lose"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_angry"],
+		"dialog"	: "|shake|Run Away!",
+	},
+	
+	"you_win" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"random"			: 8,
+			"dialog_rand1"		: "Now you get da loot!",
+			"dialog_rand2"		: "And then you found some treasure!",
+			"dialog_rand3"		: "You see some shiny stuff on the floor.",
+			"dialog_rand4"		: "The bad girls dropped some stuff.",
+			"dialog_rand5"		: "Then you walk into the next room and find a box of loot!",
+			"dialog_rand6"		: "Then you find some loot around in the next room.",
+			"dialog_rand7"		: "And also, there was a treasure box in here!",
+			"dialog_rand8"		: "The bad girls were guarding da treasure box.",
+		},
+	],
+	"you_win_but_times_up" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "And so the heroes made it this far into the dungeon.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+			"dialog"			: "But what traps and tricks wait for them up ahead?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "Find out next time     in     |shake||C3|Kiwi's Dungeon of Demise and Doom!",
+		},
+	],
+	"you_lose" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Don't worry, you ran away in time.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "|C3|[VAL1]|C0| and |C3|[VAL2]|C0| went back to town for the night.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],
+			"dialog"			: "They were feeling better after a good night sleep.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
+			"dialog"			: "They went back to the dungeon in da morning!",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+			"dialog"			: "They made their way back to the same spot, but then-",
+		},
+	],
+	"you_timed_out" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
+			"dialog"			: "|C3|[VAL2]|C0| remembered that it was bed time and they had to get out of there!",
+		},
+	],
+	"comment_choose_rewards"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+		"dialog"	: "|C3|Choose [VAL1] cards|C0| you want to keep.|L|The rest go in da |wave|trash pile.",
+	},
+	
+	
+	
+	"times_up" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Okee, the game is over for today!",
+		},
+	],
+	"times_up_defect" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Okee, we will continue from here next time!",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_aggressive2"],
+			"dialog"			: "|shake|Wait!",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_aggressive2"],
+			"dialog"			: "|shake|But I'm not done killing yet!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "It's just for pretend, my Defect.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused_blush"],
+			"dialog"			: "Sorry, I got carried away there.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "|wave|That just means you really like our game.",
+		},
+	],
+	"to_gift" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "It's time for da real prizes!",
+		},
+	],
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+		"dialog"	: "You can have anything.",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
+		"dialog"	: "I dunno what that is.",
+	},
+	"gift_confirm"		: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+		"dialog"	: "This one?",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
+		"dialog"	: "You don't want any?",
+	},
+	"to_another_gift" 		: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "That one is from my little sister.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "You want more?",
+		}
+	],
+	"to_last_gift" 		: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],
+			"dialog"			: "That one was mine.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
+			"dialog"			: "You can have ONE more, okee?",
+		}
+	],
+	"to_the_end" 		: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Yay! It made you happy!",
+		},
+	],
+	
+	
+	
+	"to_sleep_blank"	: "bonding_common_text",
+	"to_sleep_defect"	: "bonding_common_text",
+	"to_sleep_twins"	: "bonding_common_text",
+	"to_sleep_devil"	: "bonding_common_text",
+	"sleep_response" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Well okee, but you still have to come in.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],
+			"dialog"			: "And we get to curl up next to you.",
+		},
+	],
+	
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you, Kiwi!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!|norm||L||!|Hey, can we call you Big Sister?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "Kiwi,     I'm going to cry again!",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "...",
+		},
+	],
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Wow, your claws are so long!",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
+			"dialog"			: "|shake|What?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "No they're not.",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "You can't hide secrets from us!",
+		},
+	],
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Don't worry. We can save the princess next time!",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "You hear that, Sunshine?",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "You will get that kiss eventually, Big Sister!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "Why are all my sisters like this?",
+		},
+	],
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "You saw that part where I was all-",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
+			"dialog"			: "|wave||C3|Weedly weedly weedly|L|Needle leedle needle leedle|L|Wah wah WAHHHHHHHHH!",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "Ya! Ya! I like that.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "Oh yeah? I just wrote it. No big deal.",
+		},
+	],
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "Thanks for playing with us!",
+		},
+	],
+
+}

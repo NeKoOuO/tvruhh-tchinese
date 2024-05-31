@@ -1,0 +1,92 @@
+{
+	"intro" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 80,
+			"text_w"			: 284,
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She finds a garden filled with radiant flowers.",
+		},
+		{
+			"dialog"			: "|C3|Her tetrids are drawn to the flowers.",
+		},
+	],
+	
+	"op_radiate"	: "Radiate Tetrids",
+	"op_extract"	: "Extract Tetrids",
+	"op_gifts"		: "Garden Gifts",
+	"op_upgrade"	: "Upgrades",
+	"op_leave"		: "Leave",
+	
+	"text_radiate"	: "The garden can convert up to [VAL1] of each tetrid into radiant motes",
+	"ask_radiate"	: "Convert these tetrids into radiant motes?",
+	
+	"text_extract"	: "The garden can extract motes of any color from a single radiant tetrid",
+	"ask_extract"	: "Extract these motes from a radiant tetrid?",
+	
+	"list_title"	: "Choose one gift",
+	"gift_cost"		: "Cost",
+	"ask_buy"		: "Trade these tetrids for this gift?",
+	
+	"garden_level"		: "Garden Level [VAL1]",
+	"rainbow_petals"	: "Rainbow Petals Radiated",
+	
+	"op_garden_radiate"	: "Radiate Rate",
+	"op_garden_extract"	: "Extract Rate",
+	"op_garden_bonus"	: "Garden Gifts",
+	"op_garden_overpay"	: "Overfeeding",
+	
+	"current_radiate_rate"  : "The garden can convert each set of tetrids into [VAL1] radiant motes",
+	"upgrade_radiate_rate"  : "Upgrade the garden to increase this to [VAL1] radiant motes per set of tetrids",
+	"current_extract_rate"  : "The garden can convert a radiant tetrid into [VAL1] motes of another color",
+	"upgrade_extract_rate"  : "Upgrade the garden to increase this to [VAL1] motes per radiant tetrid",
+	"none_garden_gifts" 	: "Upgrade the garden with the ability to create a gift using tetrids",
+	"first_garden_gifts" 	: "The garden can create a gift with tetrids",
+	"current_garden_gifts"  : "The garden has a choice of [VAL1] gifts available per visit",
+	"upgrade_garden_gifts"  : "Upgrade the garden to have a choice of [VAL1] gifts available per visit",
+	"overpay_inactive" 		: "Upgrade the garden to accept overpayment for gifts to fill the garden blessing.",
+	"overpay_active" 		: "The garden will accept overpayment for gifts to fill the garden blessing.",
+	"upgrade_fail_one"  	: "You must have a radiated Rainbow Petal to upgrade this!",
+	"upgrade_fail"    		: "You must radiate [VAL1] Rainbow Petals to upgrade this!",
+	
+	"upgrade_normal" 	  : "The garden needs [VAL1] tetrids for this upgrade",
+	"upgrade_radiant_one" : "The garden needs 1 radiant tetrid for this upgrade",
+	"upgrade_radiant" 	  : "The garden needs [VAL1] radiant tetrids for this upgrade",
+	"ask_upgrade"		  : "Upgrade the garden with these tetrids?",
+	
+	"bless_title"	: "Garden Blessing",
+	"ask_blessing"	: "Will she accept the garden's blessing?",
+	"op_accept"		: "Accept the blessing",
+	
+	"gift_received" : [
+		{
+			"dialog"			: "|C3|She receives a gift from the garden.",
+		},
+	],
+	
+	"upgrade_complete" : [
+		{
+			"dialog"			: "|C3|The power of the garden grows.",
+		},
+	],
+	
+	"ask_for_blessing" : [
+		{
+			"dialog"			: "|C3|The garden has another blessing to give.",
+		},
+	],
+	
+	"accept_blessing" : [
+		{
+			"dialog"			: "|C3|She accepts the garden's blessing.",
+		},
+	],
+	
+	"leaving" : [
+		{
+			"dialog"			: "|C3|She leaves the garden.",
+		},
+	],
+}

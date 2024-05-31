@@ -1,0 +1,179 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "Hi, Zaraden!",
+			"dialog_rand2"		: "I'm so happy to see you!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Can you guess what time it is?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_angry"],
+			"dialog"			: "|shake|It's time for burning!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "But you already knew that.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "I have some gifts for you!",
+			"dialog_rand2"		: "I brought you some gifts.",
+			"dialog_rand3"		: "I found some gifts for you.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
+			"random"			: 2,
+			"dialog_rand1"		: "They    might be a little burnt.",
+			"dialog_rand2"		: "Just ignore the burn marks.",
+		},
+	],
+	
+	"monster_gifts"	: "Burning Veyeral's Gifts",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+		"dialog"	: "Choose any one you want.",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+		"dialog"	: "Is this what you want?",
+	},
+	
+	"another_gift_1" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
+			"dialog"			: "I hope that one wasn't too burnt.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "But you seem to like it extra crispy.",
+			"dialog_rand2"		: "But I know you like it hot and spicy.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Can you guess what time it is now?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|It's bonus gift time.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
+			"random"			: 4,
+			"dialog_rand1"		: "And     also time for smouldering.",
+			"dialog_rand2"		: "And     also time for scorching.",
+			"dialog_rand3"		: "Also    time for burning.",
+			"dialog_rand4"		: "Also    time for sizzling.",
+		},
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "I think it's time for more fire.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "No need to go that far!|L||!||shake|Have some self control!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
+			"dialog"			: "...I love you, too.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+			"dialog"			: "How do you glow so brightly without any fire?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "Oh that's just my radiant perfection.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "And how does your friend do it?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "Oh, me?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "The principle is essentially the same.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "My sister was just telling me about how she likes to be engulfed in flames.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
+			"dialog"			: "|shake|What?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Just in time to try my new hugging technique!|L||!|I call it The Blazing Inferno.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_pain"],
+			"dialog"			: "Oh no!",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "This is actually really nice.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "Two gifts for the price of none?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "I'm gunna have to hug you twice as hard for this!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Careful!|L||!|There IS such a thing as too much burning.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "A little burning immolation never hurt anyone.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Enjoy those charred gifts.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|I love your fire.",
+		},
+	],
+
+}

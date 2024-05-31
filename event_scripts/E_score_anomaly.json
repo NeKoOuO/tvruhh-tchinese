@@ -1,0 +1,347 @@
+{
+
+	"anomaly_intro" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "silence",
+			"bg_image"			: "spr_scene_raining_cave",
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I've been watching you.|!||L|Studying your actions.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "Well,    I am not able to see you.|!||L|Assuming you even have a form to perceive.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "Ah, so you are wingless as well.|!||L|Or    not?",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "The concept of wingless is foreign to you.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "Although the label does seem to apply.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I am aware that our communication is acutely limited.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "You are looking into this universe from afar, and from an unusual axis.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "A thread was formed by a Zaraden and someone of your kind.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "Ah, I see many threads now.|!||L|There are so many of you.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "Simple awareness can form these threads.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "You are wondering what I am?",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I suppose an approximate answer is what many of you would call a god.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I am curious about these Zaraden and monsters, the same as you are.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "And just like you, the scope of my interaction in their world is limited.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "You could say that I ensure karma has an effect on their waking world.",
+		},
+		{
+			"play_music"		: "scene_music_b",
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "They love so much.|!||L|They will receive love in return.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "They are so lucky to have you.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I hope that you understand that.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "The one who holds The Heart was presented with a rare opportunity.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "She found time to sleep for herself.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I can grant her a lovely dream right now, if you'd like.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "It would be a nice break from the constant nightmares she must endure.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "But, I will let you decide if there is time for such a thing today.",
+		},
+	],
+
+	"intro" : [
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "She is taking a much needed nap right now.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "She is lucky to have found the time for this.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I can present her with a lovely dream, if you'd like.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "It would be a nice break from the constant nightmares she must endure.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "But, I will let you decide if there is time for such a thing today.",
+		},
+	],
+	
+	"monster_gifts"	: "Anomaly's Gifts",
+	
+	"op_start"		: "Give her a dream",
+	"op_leave"		: "Not today",
+	
+	"comment_start"		: {
+		"character"	: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+		"dialog"	: "To dream?",
+	},
+	"comment_leave"		: {
+		"character"	: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+		"dialog"	: "Or not to dream?",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+		"dialog"	: "Not to dream?",
+	},
+	
+	"start_battle" 	: [
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "Very well.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I trust that you know what to do then.",
+		},
+	],
+	
+	"no_battle" 	: [
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I see.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "You must want this day to end quickly.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "Then I can only wish you luck.",
+		},
+	],
+	
+	"return_intro" : [
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "You have truly grown a special bond with her.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "With your help, she has taken |C3|[VAL1] motes|C0| out of me.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"random"			: 4,
+			"dialog_rand1"		: "You are an extraordinary partner to her.",
+			"dialog_rand2"		: "You are a phenomenal partner to her.",
+			"dialog_rand3"		: "You are an exceptional partner to her.",
+			"dialog_rand4"		: "You are a marvelous partner to her.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I will leave your choice of gifts next to her.",
+		},
+	],
+	
+	
+	"comment_take_first"	: {
+		"character"	: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+		"dialog"	: "Choose any of these.",
+	},
+	"comment_take_another"	: {
+		"character"	: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+		"dialog"	: "Choose another gift.",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+		"dialog"	: "Is this your choice?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"random"			: 4,
+			"dialog_rand1"		: "Such a powerful bond you have.",
+			"dialog_rand2"		: "I know she means a lot to you.",
+			"dialog_rand3"		: "You have grown so attached to her.",
+			"dialog_rand4"		: "Transdimensional bonds like yours are so rare.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "You may choose another gift.",
+			"dialog_rand2"		: "I offer you another gift.",
+			"dialog_rand3"		: "I will give you another gift.",
+		}
+	],
+	
+	
+	"leave_blank" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious2"],
+			"dialog"			: "What a lovely dream that was.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "Oh! Where did this come from?|!||L|Is this for me?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "Is anyone there?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "Umm... I    love you.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"			: "Just in case     anyone needs to    hear it.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_serious2"],
+			"dialog"			: "I don't deserve this.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "Wake up darling.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "|wave|It seems my beloved fans have left an offering for us.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "This is for us?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
+			"dialog"			: "Blue, you are so popular!",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_serious2"],
+			"dialog"			: "Please don't leave.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_serious2"],
+			"dialog"			: "I'm not going anywhere, Sunshine.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "Did you say something?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
+			"dialog"			: "About what?",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Who left this gift on me?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
+			"dialog"			: "I unno. I was asleep.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "But all is going according to plan.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "I'm so good at breakin stuff.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "This dream was fun.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "Oh! Who left this here?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "It's clearly another offering for me,    The Devil.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "I wish you good luck.",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+	],
+
+}

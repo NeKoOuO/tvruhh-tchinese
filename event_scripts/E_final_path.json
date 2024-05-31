@@ -1,0 +1,44 @@
+{
+	"intro" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 64,
+			"text_w"			: 284,
+			"voice"				: "VOICE_default",
+			"random"			: 3,
+			"dialog_rand1"		: "|C3|The end of another day is near.",
+			"dialog_rand2"		: "|C3|The sun has set on yet another day.",
+			"dialog_rand3"		: "|C3|Another day is almost behind her.",
+		},
+		{
+			"random"			: 3,
+			"dialog_rand1"		: "|C3|The rain was endless once again.",
+			"dialog_rand2"		: "|C3|Once again, the rain was ceaseless.",
+			"dialog_rand3"		: "|C3|The darkness of the rain grows with the night.",
+		},
+		{
+			"random"			: 3,
+			"dialog_rand1"		: "|C3|The time has come to choose a path.",
+			"dialog_rand2"		: "|C3|She must choose a final path.",
+			"dialog_rand3"		: "|C3|What path will she take today?",
+		}
+	],
+	
+	"???_name"	: "???",
+	"???_path"	: "The Unknown",
+	
+	"1_battle"	: "1 Battle",
+	"x_battles"	: "[VAL1] Battles",
+	
+	"max_warning"	: "[VAL1] must be radiated to reach level [VAL2]",
+	
+	"chosen" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She sets off on her chosen path.",
+		},
+	],
+
+}

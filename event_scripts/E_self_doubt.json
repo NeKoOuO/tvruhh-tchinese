@@ -1,0 +1,156 @@
+{
+	"intro" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 64,
+			"text_w"			: 284,
+			"voice"				: "VOICE_default",
+			"random"			: 3,
+			"dialog_rand1"		: "|C3|Self doubt starts to creep through her mind.",
+			"dialog_rand2"		: "|C3|She begins to have doubts about her abilities.",
+			"dialog_rand3"		: "|C3|She starts to feel a little tired.",
+		},
+		{
+			"random"			: 3,
+			"dialog_rand1"		: "|C3|She knows that the path ahead can only get more difficult.",
+			"dialog_rand2"		: "|C3|She knows that the battles ahead can only get tougher.",
+			"dialog_rand3"		: "|C3|She knows that the monsters can only get more powerful.",
+		},
+		{
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|The monsters are already level [VAL1]",
+		},
+		{
+			"dialog"			: "|C2||shake|They can only get worse!",
+		},
+		{
+			"random"			: 4,
+			"dialog_rand1"		: "|C2||shake|She should just give up!",
+			"dialog_rand2"		: "|C2||shake|She should really stop trying!",
+			"dialog_rand3"		: "|C2||shake|Why does she even try?",
+			"dialog_rand4"		: "|C2||shake|Why won't she just give up?",
+			
+		},
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She stops to take a short rest.",
+		},
+	],
+	
+	"intro_short_a" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 64,
+			"text_w"			: 284,
+			"voice"				: "VOICE_default",
+			"random"			: 6,
+			"dialog_rand1"		: "|C3|Self doubt starts to creep through her mind.",
+			"dialog_rand2"		: "|C3|She begins to have doubts about her abilities.",
+			"dialog_rand3"		: "|C3|She starts to feel a little tired.",
+			"dialog_rand4"		: "|C3|She knows that the path ahead can only get more difficult.",
+			"dialog_rand5"		: "|C3|She knows that the battles ahead can only get tougher.",
+			"dialog_rand6"		: "|C3|She knows that the monsters can only get more powerful.",
+		},
+		{
+			"dialog"			: "|C3|She stops to take a short rest.",
+		},
+	],
+	
+	"intro_short_b" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 64,
+			"text_w"			: 284,
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|The monsters are already level [VAL1]",
+		},
+		{
+			"random"			: 7,
+			"dialog_rand1"		: "|C2||shake|She should just give up!",
+			"dialog_rand2"		: "|C2||shake|She should really stop trying!",
+			"dialog_rand3"		: "|C2||shake|Why does she even try?",
+			"dialog_rand4"		: "|C2||shake|Why won't she just give up?",
+			"dialog_rand5"		: "|C2||shake|They can only get worse!",
+			"dialog_rand6"		: "|C2||shake|Just give up already!",
+			"dialog_rand7"		: "|C3||shake|She won't last another battle!",
+		},
+	],
+
+	"ask_q1"		: "How does she feel?",
+	"ask1_a"		: "I can do this!",
+	"ask1_b"		: "I should rest a little more",
+	
+	"ask_q2"		: "How does she feel now?",
+	"ask2_a"		: "I think I'm ready",
+	"ask2_b"		: "I still need more time",
+	
+	"ask_q3"		: "Does she need more time?",
+	"ask3_a"		: "I am ready now",
+	"ask3_b"		: "Just a little more",
+	
+	"info_first_a"	: "Monsters stay at level [VAL1]\n+[VAL2] Karma",
+	"info_first_b"	: "Monster power will be reduced to level [VAL1]",
+	"info_a"		: "Monsters stay at level [VAL1]",
+	"info_b"		: "Monster power will be reduced to level [VAL1]\n-[VAL2] Karma",
+	
+	"keep_level" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She quickly shakes off all feelings of self doubt.",
+		},
+		{
+			"dialog"			: "|C3|She continues onward with full confidence in her ability.",
+		},
+	],
+	
+	"leave_lower" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She sets out again with confidence in her ability.",
+		},
+	],
+	
+	"min_level_reached" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|The power of the monsters is reduced, but it can't be lowered any further.",
+		},
+		{
+			"dialog"			: "|C3|After resting for a while, she leaves with renewed confidence in her ability.",
+		},
+	],
+	
+	"lower_level_1" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She rests for a little while longer.",
+		},
+		{
+			"dialog"			: "|C3|The power of the monsters is slightly reduced.",
+		},
+	],
+	
+	"lower_level_2" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|She continues to rest for a while.",
+		},
+		{
+			"dialog"			: "|C3|The power of the monsters is reduced again.",
+		},
+	],
+	
+	"lower_level_3" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|After a long rest, she leaves with renewed confidence in her ability.",
+		},
+	],
+
+}

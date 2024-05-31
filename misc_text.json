@@ -1,0 +1,1440 @@
+{
+
+	"mode_story"		: "故事模式",
+	"mode_quickplay"	: "快速挑战",
+	"mode_ultra_qp"		: "极限快速挑战",
+	"mode_freeplay"		: "自由模式",
+	"mode_endless"		: "无尽梦魇",
+	"mode_tower"		: "高塔",
+
+	"mist_rain"			: "雾雨",
+	"light_rain"		: "细雨",
+	"heavy_rain"		: "大雨",
+	"torrent_rain"		: "暴雨",
+	"alter_rain"		: "异相 [VAL1]",
+	"endless_stress"	: "无尽压力",
+	"endless_terror"	: "无尽恐惧",
+	
+	"Xstat_XATK"		: "攻击速度: [VAL1]",
+	"Xstat_XDMG"		: "攻击伤害: [VAL1]",
+	"Xstat_XDEF"		: "怪物恐惧: [VAL1]",
+	
+	"radiant_element"	: "光耀",
+	"void_element"		: "虚空",
+	"burn_element"		: "燃烧",
+	"zap_element"		: "电击",
+	"toxic_element"		: "毒素",
+
+	"chapter_card"		: "章节 [VAL1]",
+	"special_card"		: "特殊章节",
+	"extra_card"		: "额外章节",
+	"final_card"		: "最终章节",
+	"event_card"		: "事件",
+	"choose_card"		: "选择",
+	"cycle_card"		: "循环 [VAL1]",
+	"stage_card"		: "关卡 [VAL1]",
+	"bounty_card"		: "这个赏金礼物是为你准备的",
+	
+	"level_tag"			: "等级 [VAL1]",
+	"abbrev_level"		: "Lv [VAL1]",
+	"very_long_time"	: "[VAL1] 分钟",
+	"abbrev_num_k"		: "[VAL1]K",
+	"abbrev_num_m"		: "[VAL1]M",
+	
+	"green_tet"			: "绿",
+	"red_tet"			: "红",
+	"yellow_tet"		: "黄",
+	"blue_tet"			: "蓝",
+	"orange_tet"		: "橙",
+	"purple_tet"		: "紫",
+	"radiant_tet"		: "光耀",
+	
+	"tutorial_charge"  	: " - 蓄力",
+	"tutorial_focus"	: " - 专注",
+	"tutorial_panic"	: " - 恐慌",
+	
+	"challenge_cards" : {
+		"challenge"		: "挑战",
+		"pass"			: "通过",
+		"failed"		: "失败",
+		"free_pass"		: "不要心碎",
+		"no_hit"		: "不要受到一次伤害",
+		"one_hit"		: "不要受到两次伤害",
+		"two_hit"		: "不要受到三次伤害",
+		"no_panic"		: "不要使用任何恐慌攻击",
+		"absorb_shots"	: "使用恐慌攻击吸收[VAL1]子弹",
+		"get_combo"		: "连击超过怪物[VAL1]%的生命值",
+		"full_combo"	: "取得100%连击！",
+		"break_part"	: "破坏一个含有魔尘的部位",
+		"break_parts"	: "破坏[VAL1]个含有魔尘的部位",
+		"copper_score"	: "得分至少为[VAL1]魔尘\n(青铜分数)",
+		"bronze_score"	: "得分至少为[VAL1]魔尘\n(黄铜分数)",
+		"silver_score"	: "得分至少为[VAL1]魔尘\n(白银分数)",
+		"gold_score"	: "得分至少为[VAL1]魔尘\n(黄金分数)",
+		"radiant_score"	: "得分至少为[VAL1]魔尘\n(光耀分数)",
+		"panic_warn"	: "不要恐慌",
+	},
+	
+	"xstat_cards" : {
+		"power_up"		: "这个怪物有着被增强的力量",
+		"power_down"	: "这个怪物有着被削弱的力量",
+		"lv_change"		: "Lv [VAL1] > [VAL2]",
+		"xatk"			: "攻击速度\n[VAL1]",
+		"xdmg"			: "攻击伤害\n[VAL1]",
+		"xdef"			: "怪物恐惧\n[VAL1]",
+	},
+	
+	
+	
+	"TT_r_easy"		: "小型高塔",
+	"TT_r_hard"		: "更高的塔",
+	"TT_r_expert"	: "暴雨高塔",
+	"TT_shamble"	: "羞愧尖塔",
+	"TT_guardian"	: "沮丧要塞",
+	"TT_glyph"		: "象征高楼",
+	"TT_zaramech"	: "焦虑攀升",
+	"TT_glass"		: "绽放钟楼",
+	"TT_veyeral"	: "迫近孤独",
+	
+	
+	
+	"scene_groups" : {
+		"scenes_viewed"		: "解锁的场景",
+		"tutorial_scenes"	: "教学场景",
+		"blank_scenes"		: "她的心场景",
+		"defect_scenes"		: "缺陷场景",
+		"extra_scenes"		: "额外故事场景",
+		"qp_scenes"			: "快速挑战场景",
+	},
+
+
+
+	
+	"SC_blank_tut_love_a" : {
+		"name"		: "如何去爱A",
+		"desc"		: "一位小小的机器人想要教她爱的基础。",
+	},
+	"SC_blank_tut_love_b" : {
+		"name"		: "如何去爱B",
+		"desc"		: "一场去爱小机器人的测试战斗。",
+	},
+	"SC_blank_tut_gifts" : {
+		"name"		: "力量礼物",
+		"desc"		: "小机器人解释力量礼物的机制。",
+	},
+	"SC_blank_tut_karma" : {
+		"name"		: "怪物因果",
+		"desc"		: "小机器人解释因果的机制。",
+	},
+	"SC_blank_tut_bonus" : {
+		"name"		: "额外礼物",
+		"desc"		: "小机器人解释额外礼物的机制。",
+	},
+	"SC_blank_tut_quick" : {
+		"name"		: "快速礼物",
+		"desc"		: "小机器人解释快速礼物的机制。",
+	},
+	"SC_blank_tut_challenge" : {
+		"name"		: "怪物挑战",
+		"desc"		: "小机器人解释怪物礼物挑战的机制。",
+	},
+	"SC_blank_tut_bounty" : {
+		"name"		: "赏金礼物",
+		"desc"		: "小机器人解释赏金礼物的机制。",
+	},
+	"SC_blank_tut_tetrids" : {
+		"name"		: "点亮卡牌",
+		"desc"		: "小机器人将她早早唤醒以解释如何点亮礼物与怪物。",
+	},
+	"SC_blank_tut_quick_rad" : {
+		"name"		: "点亮快速礼物",
+		"desc"		: "小机器人解释点亮快速礼物的特殊效果。",
+	},
+	"SC_blank_tut_score" : {
+		"name"		: "获取高分",
+		"desc"		: "一位小机器人教她如何提取魔尘。",
+	},
+	"SC_blank_tut_dreams" : {
+		"name"		: "满足梦境",
+		"desc"		: "一位小机器人教她如何满足她自己的梦境以及怪物们的梦境。",
+	},
+	"SC_blank_tut_shy" : {
+		"name"		: "羞涩战斗",
+		"desc"		: "小机器人解释羞涩战斗中独特的连击机制。",
+	},
+	"SC_blank_tut_shiny" : {
+		"name"		: "闪亮战斗",
+		"desc"		: "小机器人解释闪亮战斗的独特机制。",
+	},
+	
+	
+	
+	
+	
+	"SC_blank_intro1" : {
+		"name"		: "Intro 1",
+		"desc"		: "This is the story of a Zaraden woman.",
+	},
+	"SC_blank_intro2" : {
+		"name"		: "Intro 2",
+		"desc"		: "The Zaraden wakes up in her cave the next day.",
+	},
+	"SC_blank_intro3" : {
+		"name"		: "Intro 3",
+		"desc"		: "The Zaraden wakes up and it still rains outside.",
+	},
+	"SC_blank_intro4" : {
+		"name"		: "Intro 4",
+		"desc"		: "The Zaraden wakes up again. She is disappointed that it is still raining outside.",
+	},
+	"SC_blank_heartbreak" : {
+		"name"		: "Heartbreak",
+		"desc"		: "You saw Her Heart break.",
+	},
+	"SC_blank_bot_a" : {
+		"name"		: "Little Robot 1",
+		"desc"		: "The little robot is surprised that the Zaraden remembers her.",
+	},
+	"SC_blank_bot_b" : {
+		"name"		: "Little Robot 2",
+		"desc"		: "The Zaraden is worried about the constant rain, but the little robot gives her hope.",
+	},
+	"SC_blank_bot_c" : {
+		"name"		: "Little Robot 3",
+		"desc"		: "The little robot consoles the Zaraden as the constant rain begins to take a toll on her.",
+	},
+	"SC_blank_scrambla" : {
+		"name"		: "Meet Scrambla",
+		"desc"		: "Scrambla explains how her powers can help the Zaraden.",
+	},
+	"SC_blank_boiler" : {
+		"name"		: "Meet Boiler",
+		"desc"		: "Boiler explains how her powers can help the Zaraden.",
+	},
+	"SC_blank_blot" : {
+		"name"		: "Meet Blot",
+		"desc"		: "Blot takes the Zaraden to her art gallery.",
+	},
+	"SC_blank_sentinel" : {
+		"name"		: "Meet Sentinel",
+		"desc"		: "Sentinel 4X wants to play a game with her.",
+	},
+	"SC_blank_vitrea" : {
+		"name"		: "Meet Vitrea",
+		"desc"		: "Vitrea takes the Zaraden to her observatory.",
+	},
+	"SC_blank_void_a" : {
+		"name"		: "Meet The Void 1",
+		"desc"		: "The Zaraden meets The Void for the first time?",
+	},
+	"SC_blank_void_b" : {
+		"name"		: "Meet The Void 2",
+		"desc"		: "The Zaraden meets The Void again after defeating her once.",
+	},
+	"SC_blank_void_end1" : {
+		"name"		: "Void Ending",
+		"desc"		: "She loved The Void.",
+	},
+	"SC_blank_totaria_a" : {
+		"name"		: "Meet Totaria",
+		"desc"		: "The Zaraden meets Totaria for the first time.",
+	},
+	"SC_blank_totaria_end1" : {
+		"name"		: "Totaria Ending",
+		"desc"		: "She loved Totaria?",
+	},
+	
+	
+	"SC_defect_intro1" : {
+		"name"		: "Intro 1",
+		"desc"		: "This is the story of a defective Zaraden woman.",
+	},
+	"SC_defect_heartbreak" : {
+		"name"		: "Heartbreak",
+		"desc"		: "You saw Defect's heart break.",
+	},
+	"SC_defect_tut1" : {
+		"name"		: "Defective Love?",
+		"desc"		: "A little robot teaches Defect about the elements of love.",
+	},
+	"SC_defect_tut2" : {
+		"name"		: "Beautiful Veyeral",
+		"desc"		: "The most beautiful Veyeral joins Defect and gives her the gift of Adamant Will.",
+	},
+	"SC_defect_scrambla" : {
+		"name"		: "Meet Scrambla",
+		"desc"		: "Scrambla explains her link synapse powers to Defect.",
+	},
+	"SC_defect_boiler" : {
+		"name"		: "Meet Boiler",
+		"desc"		: "Boiler explains her link synapse powers to Defect.",
+	},
+	"SC_defect_blot" : {
+		"name"		: "Meet Blot",
+		"desc"		: "Blot takes Defect to her art gallery.",
+	},
+	"SC_defect_sentinel" : {
+		"name"		: "Meet Sentinel",
+		"desc"		: "Sentinel 4X learns to love Blue Veyeral.",
+	},
+	"SC_defect_vitrea" : {
+		"name"		: "Meet Vitrea",
+		"desc"		: "Vitrea takes Defect to her observatory.",
+	},
+	"SC_defect_void_end_1a" : {
+		"name"		: "Void Ending A",
+		"desc"		: "Defect loved The Void?",
+	},
+	"SC_defect_void_end_1b" : {
+		"name"		: "Void Ending B",
+		"desc"		: "Defect battles against the most powerful void.",
+	},
+	"SC_defect_void_end_1c" : {
+		"name"		: "Void Ending C",
+		"desc"		: "But she did not love herself.",
+	},
+	"SC_defect_totaria_end1" : {
+		"name"		: "Totaria",
+		"desc"		: "Defect loved Totaria.",
+	},
+	
+	
+	"SC_mysterious_intro" : {
+		"name"		: "Mysterious Message",
+		"desc"		: "A message sent from a device that communicates through dreams.",
+	},
+	"SC_scrambla_intro" : {
+		"name"		: "Dream of Scrambla",
+		"desc"		: "Scrambla talks to you through a dream. She wants to help you.",
+	},
+	"SC_scrambla_max_synapse" : {
+		"name"		: "Fully Powered Scrambla",
+		"desc"		: "Scrambla has a confession to make when her link synapse is fully powered.",
+	},
+	"SC_boiler_intro" : {
+		"name"		: "Dream of Boiler",
+		"desc"		: "Boiler talks to you through a dream. She wants to help you.",
+	},
+	"SC_boiler_max_synapse" : {
+		"name"		: "Fully Powered Boiler",
+		"desc"		: "Boiler has a confession to make when her link synapse is fully powered.",
+	},
+	"SC_blot_intro" : {
+		"name"		: "Dream of Blot",
+		"desc"		: "Blot talks to you through a dream. She wants you to visit her art gallery.",
+	},
+	"SC_vitrea_intro" : {
+		"name"		: "Dream of Vitrea",
+		"desc"		: "With the help of Amalga, Vitrea talks to you through a dream. She wants you to visit her observatory.",
+	},
+	"SC_vitrea_upgrade1" : {
+		"name"		: "Vitrea's Backrooms",
+		"desc"		: "Vitrea explains where she keeps your gift donations.",
+	},
+	"SC_vitrea_upgrade2" : {
+		"name"		: "Vitrea's Secret",
+		"desc"		: "You discover the secret that Vitrea has hidden in Amalga's backroom dimension.",
+	},
+	"SC_sentinel_intro" : {
+		"name"		: "Dream of Sentinel",
+		"desc"		: "Sentinel 4X sends you a friend request through a dream.",
+	},
+	"SC_anomaly_intro" : {
+		"name"		: "Anomalous Message",
+		"desc"		: "For you.\nLove, Anomaly.",
+	},
+	"SC_extra_void_end1" : {
+		"name"		: "Extra Void Ending 1",
+		"desc"		: "A mysterious voice taunts you after defeating The Void a second time.",
+	},
+	"SC_extra_void_end2" : {
+		"name"		: "Extra Void Ending 2",
+		"desc"		: "A mysterious voice taunts you after defeating The Void a fifth time.",
+	},
+	"SC_credits1" : {
+		"name"		: "Credits A",
+		"desc"		: "Simple ending credits",
+		"credit"	: "Created by\nAngel Polanco",
+	},
+	
+	
+	"SC_quickplay_intro" : {
+		"name"		: "Quickplay Intro",
+		"desc"		: "The little robot tells her about quickplay.",
+	},
+
+	
+	
+
+
+	"music_groups" : {
+		"songs_unlocked"	: "Songs Unlocked",
+		"group_all"			: "All Music",
+		"group_menu"		: "Menu Music",
+		"group_scene"		: "Scene Music",
+		"group_common"		: "Common Battle Themes",
+		"group_rare"		: "Rare Battle Themes",
+		"group_unique"		: "Unique Battle Themes",
+	},
+	"SG_title" : {
+		"name"		: "Blank Melody",
+		"desc"		: "Main menu theme",
+	},
+	"SG_scene_a" : {
+		"name"		: "Subterranean Pulse",
+		"desc"		: "Prologue scene music",
+	},
+	"SG_shamble_battle" : {
+		"name"		: "Shambled Paradox",
+		"desc"		: "Shamble monster battle theme",
+	},
+	"SG_guardian_battle" : {
+		"name"		: "Her Adamant Will",
+		"desc"		: "Guardian monster battle theme",
+	},
+	"SG_glyph_battle" : {
+		"name"		: "Mutual Exclusion",
+		"desc"		: "Eyeric Glyph monster battle theme",
+	},
+	"SG_zaramech_battle" : {
+		"name"		: "Defense Mechanism",
+		"desc"		: "Zaramech monster battle theme",
+	},
+	"SG_glass_battle" : {
+		"name"		: "My Heart Is See Through",
+		"desc"		: "Glass Flora monster battle theme",
+	},
+	"SG_veyeral_battle" : {
+		"name"		: "The Void Rains Down Upon You",
+		"desc"		: "Veyeral monster battle theme",
+	},
+	"SG_nightmare_a" : {
+		"name"		: "Distant Observer",
+		"desc"		: "Nightmare selection theme\nEarly monsters",
+	},
+	"SG_nightmare_b" : {
+		"name"		: "Warning Signs",
+		"desc"		: "Nightmare selection theme\nStronger monsters",
+	},
+	"SG_nightmare_c" : {
+		"name"		: "Nihility",
+		"desc"		: "Nightmare selection theme\nFinale monsters",
+	},
+	"SG_nightmare_d" : {
+		"name"		: "Spread Your Wings",
+		"desc"		: "Nightmare selection theme\nAscending towers",
+	},
+	"SG_nightmare_e" : {
+		"name"		: "How Far We've Come",
+		"desc"		: "Nightmare selection theme\nTop of the towers",
+	},
+	"SG_shamble_battle_2" : {
+		"name"		: "Trypophobia",
+		"desc"		: "Alternate Shamble monster battle theme",
+	},
+	"SG_guardian_battle_2" : {
+		"name"		: "Guardian Angel",
+		"desc"		: "Alternate Guardian monster battle theme",
+	},
+	"SG_glyph_battle_2" : {
+		"name"		: "Theoretically Beautiful",
+		"desc"		: "Alternate Eyeric Glyph monster battle theme",
+	},
+	"SG_zaramech_battle_2" : {
+		"name"		: "Towering Anxiety",
+		"desc"		: "Alternate Zaramech monster battle theme",
+	},
+	"SG_glass_battle_2" : {
+		"name"		: "Stained Glass Battle Dance",
+		"desc"		: "Alternate Glass Flora monster battle theme",
+	},
+	"SG_veyeral_battle_2" : {
+		"name"		: "Alone in the Dark",
+		"desc"		: "Alternate Veyeral monster battle theme",
+	},
+	"SG_game_over" : {
+		"name"		: "Willpower",
+		"desc"		: "Heartbreak scene music",
+	},
+	"SG_dreaming_scene" : {
+		"name"		: "A Strange Place",
+		"desc"		: "Dreaming scene music",
+	},
+	"SG_special_battle" : {
+		"name"		: "Fever Dream",
+		"desc"		: "Special monster battle theme",
+	},
+	"SG_spawn_battle" : {
+		"name"		: "Monster Birthday",
+		"desc"		: "Newborn monster battle theme",
+	},
+	"SG_creepy_scene" : {
+		"name"		: "Uneasy Feeling",
+		"desc"		: "Unsettling scene music",
+	},
+	"SG_panic_battle" : {
+		"name"		: "Impending Doom",
+		"desc"		: "Panicked battle theme",
+	},
+	"SG_mystery_scene" : {
+		"name"		: "Lonely Respite",
+		"desc"		: "Curious scene music",
+	},
+	"SG_anomaly_battle" : {
+		"name"		: "Long Distance",
+		"desc"		: "Anomaly battle theme",
+	},
+	"SG_anomaly_battle_b" : {
+		"name"		: "Light Years Apart",
+		"desc"		: "Shiny Anomaly battle theme",
+	},
+	"SG_garden_battle" : {
+		"name"		: "Lucid Dissonance",
+		"desc"		: "Nova battle theme",
+	},
+	"SG_tutorbot_battle" : {
+		"name"		: "Anxious Protocol",
+		"desc"		: "Unit Lulu battle theme",
+	},
+	"SG_shamble_battle_3" : {
+		"name"		: "Scattered Across Time and Space",
+		"desc"		: "Climactic Shamble monster battle theme",
+	},
+	"SG_guardian_battle_3" : {
+		"name"		: "Rapture My Heart",
+		"desc"		: "Climactic Guardian monster battle theme",
+	},
+	"SG_glyph_battle_3" : {
+		"name"		: "Sticks and Stones",
+		"desc"		: "Climactic Eyeric Glyph monster battle theme",
+	},
+	"SG_zaramech_battle_3" : {
+		"name"		: "Marked For Deletion",
+		"desc"		: "Climactic Zaramech monster battle theme",
+	},
+	"SG_glass_battle_3" : {
+		"name"		: "Unbreakable Starlight Bloom",
+		"desc"		: "Climactic Glass Flora monster battle theme",
+	},
+	"SG_veyeral_battle_3" : {
+		"name"		: "Together As None",
+		"desc"		: "Climactic Veyeral monster battle theme",
+	},
+	"SG_shamble_battle_4" : {
+		"name"		: "Shambled Dream Medley",
+		"desc"		: "Medley of Shamble monster themes",
+	},
+	"SG_guardian_battle_4" : {
+		"name"		: "Guardian Dream Medley",
+		"desc"		: "Medley of Guardian monster themes",
+	},
+	"SG_glyph_battle_4" : {
+		"name"		: "Symbolic Dream Medley",
+		"desc"		: "Medley of Eyeric Glyph monster themes",
+	},
+	"SG_zaramech_battle_4" : {
+		"name"		: "Mechanical Dream Medley",
+		"desc"		: "Medley of Zaramech monster themes",
+	},
+	"SG_glass_battle_4" : {
+		"name"		: "Fragile Dream Medley",
+		"desc"		: "Medley of Glass Flora monster themes",
+	},
+	"SG_veyeral_battle_4" : {
+		"name"		: "Void Dream Medley",
+		"desc"		: "Medley of Veyeral monster themes",
+	},
+	"SG_special_battle_b" : {
+		"name"		: "Lucid Dream Medley",
+		"desc"		: "Medley of Special monster themes",
+	},
+	"SG_green_scene" : {
+		"name"		: "Transdimensional Sibling",
+		"desc"		: "\"Green\" theme",
+	},
+	"SG_red_scene" : {
+		"name"		: "Touched Her Soul",
+		"desc"		: "\"Red\" theme",
+	},
+	"SG_yellow_scene" : {
+		"name"		: "Happy Place",
+		"desc"		: "\"Yellow\" theme",
+	},
+	"SG_tutorbot_scene" : {
+		"name"		: "Arrhythmia",
+		"desc"		: "\"Blue\" theme",
+	},
+	"SG_orange_scene" : {
+		"name"		: "Handle With Care",
+		"desc"		: "\"Orange\" theme",
+	},
+	"SG_purple_scene" : {
+		"name"		: "Alone Together",
+		"desc"		: "\"Purple\" theme",
+	},
+	"SG_quiz" : {
+		"name"		: "Pop Quiz, But You're Naked",
+		"desc"		: "Sentinel's Quiz theme",
+	},
+	"SG_kiwi" : {
+		"name"		: "Dungeon of Glass",
+		"desc"		: "Theme for Kiwi's Dungeon of Demise and Doom",
+	},
+	"SG_defect_scene" : {
+		"name"		: "Little Imperfection",
+		"desc"		: "Defect's theme",
+	},
+	"SG_void_battle" : {
+		"name"		: "Absolute Zero",
+		"desc"		: "The Void battle theme",
+	},
+	"SG_totaria_battle1" : {
+		"name"		: "Less Than Zero",
+		"desc"		: "Totaria battle theme A",
+	},
+	"SG_totaria_battle2" : {
+		"name"		: "Negative Matter",
+		"desc"		: "Totaria battle theme B",
+	},
+	"SG_scene_b" : {
+		"name"		: "An End",
+		"desc"		: "Heartfelt scene music",
+	},
+	"SG_blue_veyeral_battle" : {
+		"name"		: "Me, Myself, and Eye",
+		"desc"		: "Blue Veyeral's battle theme",
+	},
+	
+	
+	
+	"bg_groups" : {
+		"group_can_radiate"	: "Can Be Radiated",
+		"group_all"			: "All Dreamscapes",
+		"found_all"			: "Dreamscapes Found",
+		"rad_all"			: "Dreamscapes Radiated",
+		"group_day"			: "Morning Dreamscapes",
+		"found_day"			: "Morning Dreamscapes Found",
+		"rad_day"			: "Morning Dreamscapes\nRadiated",
+		"group_sunset"		: "Evening Dreamscapes",
+		"found_sunset"		: "Evening Dreamscapes Found",
+		"rad_sunset"		: "Evening Dreamscapes\nRadiated",
+		"group_night"		: "Night Dreamscapes",
+		"found_night"		: "Night Dreamscapes Found",
+		"rad_night"			: "Night Dreamscapes\nRadiated",
+		"group_other"		: "Exotic Dreamscapes",
+		"found_other"		: "Exotic Dreamscapes Found",
+		"rad_other"			: "Exotic Dreamscapes\nRadiated",
+		"group_special"		: "Special Dreamscapes",
+		"found_special"		: "Special Dreamscapes Found",
+		"rad_special"		: "Special Dreamscapes\nRadiated",
+		"group_alter"		: "Altered Dreamscapes",
+		"found_alter"		: "Altered Dreamscapes Found",
+		"rad_alter"			: "Altered Dreamscapes\nRadiated",
+	},
+	"bg_info" : {
+		"unlock_explain"	: "This Dreamscape will not appear until a certain dream is fulfilled",
+		"reveal_explain"	: "Love any monster in this Dreamscape while in Story Mode",
+		"radiate_explain"	: "Radiate this Dreamscape to view it here and discover a memory about it",
+		"find_common"		: "This Dreamscape can be found in a normal chapter of Story Mode",
+		"find_special"		: "This Dreamscape can only be found in special chapters of Story Mode",
+		"find_alter"		: "This Dreamscape can only be found in special chapters of Altered Story Mode",
+		"find_spoiler"		: "???\nThis Dreamscape cannot be discovered yet",
+	},
+	"S_clouds_day" : {
+		"name"		: "Among the Petals",
+		"memory"	: "I can share my dreams with them! Have I always been able to do this?|L||L|It feels like I'm flying! I haven't felt this much joy in a long time.",
+	},
+	"S_clouds_sunset" : {
+		"name"		: "Above the Clouds",
+		"memory"	: "The experience is stressful for all of us. Their attacks don't cause me any pain. They just make me sad.|L||L|Do they hate me for doing this? They SAY that they love me, but I feel guilty sometimes.",
+	},
+	"S_clouds_night" : {
+		"name"		: "In My Dreams",
+		"memory"	: "Why do they look like this? In my dreams, some of them look the same, but some of them look very different.|L||L|I wonder what I look like to them...",
+	},
+	"S_ocean_day" : {
+		"name"		: "Calm Reflection",
+		"memory"	: "I heard a tree branch snap. A huge mite fell from above and almost landed on me. It was a Guardian monster!|L|I thought this was the end.|L|She was going to kill me.|L|I was so scared.|L||L|She ran away from me as fast as she could. Was she afraid of me?",
+	},
+	"S_ocean_sunset" : {
+		"name"		: "Vitreous Ocean",
+		"memory"	: "The Vitreous Ocean is the body of water that surrounds Retina. This ocean extends out to touch all four of the other continents.|L|Many of the islands found in this ocean are made of vitreous rocks. Some are so clear that they look like holes in the water.",
+	},
+	"S_ocean_night" : {
+		"name"		: "Radiating Symmetry",
+		"memory"	: "I want her to see the ocean. Describing it to her is not enough. She needs to see it with her own eyes. I can fly her there one day. I will fly her to so many places.|L||L|I... wish it was that simple.",
+	},
+	"S_forest_day" : {
+		"name"		: "Above My Home",
+		"memory"	: "I never would have imagined how pretty my home is from above. The forest is so much bigger than I thought. Even as high as she took me, there were trees as far as I could see in every direction!",
+	},
+	"S_forest_sunset" : {
+		"name"		: "Iiry Forest",
+		"memory"	: "To the residents of the Towers of Iiry, this forest is known as The Pit.|L||L|It is a beautiful violet forest that covers most of the Iiry continent, but this beauty is tainted by the fact that countless wingless have been left there to die...",
+	},
+	"S_forest_night" : {
+		"name"		: "Distant Towers",
+		"memory"	: "Never go near the towers! Monsters are bad, but Zaraden are worse! They WILL hurt you!|L||L|Please, promise me you will never go near them.",
+	},
+	"S_cave_day" : {
+		"name"		: "Hiding Place",
+		"memory"	: "Before I met her, she would just sleep outside at night. She could handle the cold and the rain like they were nothing. She wasn't even afraid of those monsters that were lurking around. I knew they were dangerous, and I didn't want them to find her while she slept. I wanted her to be safe, so I helped her search for a place she could call home.",
+	},
+	"S_cave_sunset" : {
+		"name"		: "Iiry Caverns",
+		"memory"	: "The Iiry Caverns are a massive system of caves that run all throughout the Iiry Mountains. Several colonies of mites and meerstalks live within these caverns. They may have been dug out by Guardian monsters attempting to reach Guardian Zones deep inside the mountains.",
+	},
+	"S_cave_night" : {
+		"name"		: "A Special Place",
+		"memory"	: "We found a cozy little cave tangled beneath the roots of a massive tree. Inside, there were two glowing flowers that matched the colors of our hair. The entrance was raised, so it wouldn't flood when it rained. She was really happy with it!|L||L|I wish I could just take her with me. She deserves so much better than this!",
+	},
+	"S_woods_day" : {
+		"name"		: "Hopeful Woods",
+		"memory"	: "Her skin was pink,|L|Her hair was blue,|L|Her six wonderful wings.|L|My heart was beating so fast.|L|My face was feeling so warm.|L|Why is she all I can think about?",
+	},
+	"S_woods_sunset" : {
+		"name"		: "Fall Breeze",
+		"memory"	: "She is so mean to herself.|L|She smiles at my compliments.|L|Whenever I ask,|L|She is always okay,|L|But I saw her bloody nails,|L|She is so mean to herself.",
+	},
+	"S_woods_night" : {
+		"name"		: "Solitude",
+		"memory"	: "She promised me that I would never be alone again, but... she hasn't been here to see me in a long time.|L||L|I deserve this...",
+	},
+	"S_glow_tunnel" : {
+		"name"		: "Behind the Waterfall",
+		"memory"	: "Always check behind the waterfall. You never know what you might find back there.",
+	},
+	"S_lava_tunnel" : {
+		"name"		: "Excessive Warmth",
+		"memory"	: "I need warmth.|L|I'm so cold.|L|I need more warmth.|L|I'm still so cold.|L|Give me your warmth.|L|Now we are both cold.|L|It's still not enough|L|Will it ever be enough?",
+	},
+	"S_cold_tunnel" : {
+		"name"		: "Core of the Numb",
+		"memory"	: "I haven't seen Vitrea since the last time I broke one of my petals. I just don't want to be seen. It's so embarrassing.|L||L|It grew back just fine, but she hasn't come looking for me. I know I told her not to. I told her I would find her when I'm ready. But it's been such a long time. Maybe she doesn't want to see me anymore. I wouldn't blame her.",
+	},
+	"S_canvas_day" : {
+		"name"		: "Painted Peaks",
+		"memory"	: "I'm starting to forget what daytime is supposed to look like. I'll have to keep painting it so I won't lose what little memories I have left.|L||L|Wait! There weren't any stars, right? Well, there was one big one. I can still see a bright spot through the clouds sometimes.",
+	},
+	"S_canvas_sunset" : {
+		"name"		: "Sunset Seascape",
+		"memory"	: "There is supposed to be so much water that you can't even see any land on the other side. It must be so beautiful. I wish I could fly over it.|L||L|I'm so tired. I'll just rest here for a little while. I'll imagine what the ocean looks like again.",
+	},
+	"S_canvas_night" : {
+		"name"		: "Midnight Mural",
+		"memory"	: "I told her not to go. It's too dangerous to fly through the clouds. It's so dark, especially at night. And what if there was lightning?|L||L|She just made that face at me and took off into the sky. She just had to make sure the stars were still up there on the other side.",
+	},
+	
+	"S_darkness" : {
+		"name"		: "The Darkness",
+		"memory"	: "Blue told me that Veyerals don't dream. Well, she says they might, but everything is dark and they can't see anything.|L||L|I can only see red when I'm awake, but my dreams have all the colors now! I never knew how beautiful blue was.",
+	},
+	"S_super_space" : {
+		"name"		: "So Far Away",
+		"memory"	: "I want to take it back.|L|I left her all alone.|L|I want to see her again,|L|But, she's so far away.",
+	},
+	"S_monster_home" : {
+		"name"		: "Monster's Home",
+		"memory"	: "I know those monsters are just as lonely and scared as I am. I don't want us to be lonely anymore. I don't want us to feel afraid anymore. We can be friends.|L||L|I'll start with that cute little robot I saw. There's something different about her.",
+	},
+	"S_music_void" : {
+		"name"		: "Let There Be Sound",
+		"memory"	: "That pale girl has been living down here for so long. She's almost 50 years old! How hardcore do you have to be to live here for that long? Ever since she was just a kid? She is clearly made of something else.|L||L|I've got another idea for a song.",
+	},
+	"S_canvas_special" : {
+		"name"		: "Cursed Canvas",
+		"memory"	: "A long time ago, I found an image painted on the side of a rock. It was kinda Zaraden shaped. Whoever painted it left a single bowl of paint on the ground. I took some with my fingers and smeared a heart shape near it.|L||L|The next day, I went back to find that someone had painted so many lovely hearts all over the rock. They left so many colors of paint this time.|L|It was my turn again.",
+	},
+	
+	"S_true_panic" : {
+		"name"		: "True Panic",
+		"memory"	: "Take a deep breath|L|Exhale slowly|L|Inhale slowly|L|Exhale slowly|L|Nothing is actually happening to you. You will be okay.",
+	},
+	"S_wonderful_gift" : {
+		"name"		: "Gift From Beyond",
+		"memory"	: "I know you are there.|L|I see so many of you helping every instance of these Zaraden. Is it because you don't have wings either?|L|I want to help them too. They are so sweet and deserve so much.|L|You are sweet too. I hope you love yourself the same way.",
+	},
+	"S_garden_blessing" : {
+		"name"		: "The Garden's Blessing",
+		"memory"	: "These flowers can absorb motes of all colors and turn them radiant, but they aren't very efficient.|L|Agh! I have to figure out a better way to do this!|L||L|They want to go with the other plan. I don't like the idea of creating a monster. We shouldn't be doing this.",
+	},
+	"S_golden_void" : {
+		"name"		: "The Heart of a Monster",
+		"memory"	: "It's not often I get to observe a monster taking on a Zaranoid form. I've seen it with Shambles who seem to be able to take many shapes. I've seen Glyphs that project out a body almost like a hologram, but they appear to be solid. I suspect the Glass Flora all have a form like this, but I've only caught glimpses of them.|L||L|They all have one thing in common, a scar on their chest.",
+	},
+	"S_nowhere" : {
+		"name"		: "Nowhere",
+		"memory"	: "I've been left here all alone for nearly my whole life.|L|Why go on at all.|L|What am I living for?|L||shake|Why do you go on?|L|Just give up!|L|HahAhaAHahaHha",
+	},
+	
+	"S_alter_nowhere" : {
+		"name"		: "Altered Nowhere",
+		"memory"	: "No! I don't want to die.|L|I'm so scared.|L|Why does she want to kill us?|L||shake|Why? Why? Why? WHY?!",
+	},
+	"S_alter_iteria" : {
+		"name"		: "Altered Iteria",
+		"memory"	: "I'll take them down myself!|L|I'll burn them all down!|L||shake|Look what they did to me!|norm||L||L|They want a devil?|L|I'll show them a devil!",
+	},
+	"S_alter_pit" : {
+		"name"		: "Altered Pit",
+		"memory"	: "",
+	},
+	"S_alter_dream" : {
+		"name"		: "Altered Dream",
+		"memory"	: "After so much work, I've done it! I can talk to the creature from my dreams! We still can't understand each other, and I still can't make out her real shape, but this is a huge step. I know she can hear me. She reacted to the words I said... or rather, thought out loud.",
+	},
+	"S_alter_towers" : {
+		"name"		: "Altered Towers",
+		"memory"	: "I'll climb up there if I have to. I'll go up there and find her myself!|L||L|Why would she do this to me?|L||shake|HahAhaAHahaHha|L|Why? Why? Why? WHY?!",
+	},
+	"S_alter_sentaria" : {
+		"name"		: "Altered Sentaria",
+		"memory"	: "She told me a story about a wingless Zaraden that used to live up in a lone tower. They let her live there because she was a brilliant scientist. She even made herself some fake wings that let her fly!|L||L|She just disappeared one day...|L|No one could find her.|L|I wish I could have met her.",
+	},
+	
+	
+	
+	
+	
+	"event_groups" : {
+		"group_can_radiate"	: "Can Be Radiated",
+		"group_all"			: "All Events",
+		"found_all"			: "Events Discovered",
+		"rad_all"			: "Events Radiated",
+		"group_common"		: "Common Events",
+		"found_common"		: "Common Events\nDiscovered",
+		"rad_common"		: "Common Events\nRadiated",
+		"group_free"		: "Free Gift Events",
+		"found_free"		: "Free Gift\nEvents Discovered",
+		"rad_free"			: "Free Gift\nEvents Radiated",
+		"group_trade"		: "Trading Events",
+		"found_trade"		: "Trading Events\nDiscovered",
+		"rad_trade"			: "Trading Events\nRadiated",
+		"group_bonding"		: "Bonding Time Events",
+		"found_bonding"		: "Bonding Time\nEvents Discovered",
+		"rad_bonding"		: "Bonding Time\nEvents Radiated",
+		"group_treasure"	: "Treasure Events",
+		"found_treasure"	: "Treasure Events\nDiscovered",
+		"rad_treasure"		: "Treasure Events\nRadiated",
+		"group_special"		: "Special Events",
+		"found_special"		: "Special Events\nDiscovered",
+		"rad_special"		: "Special Events\nRadiated",
+	},
+	"event_info" : {
+		"encounter_rules"	: "Encounter Rules",
+		"records"			: "Event Records",
+	
+		"unlock_explain"	: "This event will not be encountered until a certain dream is fulfilled",
+		"reveal_explain"	: "Encounter this event once to reveal it here",
+		"radiate_explain"	: "Radiate this event to reveal more info about it and details on how to encounter it",
+		"hint_common"		: "This event can appear after any chapter",
+		"hint_monster"		: "Show love to [VAL1] during a Story run",
+		"hint_monster_multi": "Show love to any form of [VAL1] during a Story run",
+		"hint_chance"		: "This event has a chance to appear after showing love to [VAL1] during a Story run",
+		"hint_chance_multi"	: "This event has a chance to appear after showing love to any form of [VAL1] during a Story run",
+		
+		"rule_karma"		: "|C3|Karma|C0| will increase the chance.",
+		"rule_any_stage"	: "This event can appear after any battle.",
+		"rule_any_chapter"	: "This event can appear after any chapter.",
+		"rule_full_chapter"	: "This event can only appear after a chapter with 3 battles.",
+		"rule_monster"		: "This event will occur immediately after |C3|[VAL1]|C0| is loved.",
+		"rule_monster_multi": "This event will occur immediately after any form of |C3|[VAL1]|C0| is loved.",
+		"rule_token_shop"	: "|C3|Only 1 Token Shop Event|C0| can be encountered per run. This event will not occur if you already encountered another one.",
+		"rule_skip_one"		: "When any form of |C3|[VAL1]|C0| is shown love, this event will occur after the next battle.",
+		"rule_come_back"	: "If [VAL1] is given tetrids, she will return at the end of a successful run.",
+		"rule_visit"		: "This event has a chance to occur between any chapters after |C3|[VAL1]|C0| is loved.",
+		"rule_visit_multi"	: "This event has a chance to occur between any chapters after any form of |C3|[VAL1]|C0| is loved.",
+		"rule_free1"		: "|C3|Only 1 Free Gift Event|C0| can be encountered per run. These all follow the rules of the |C3|\"No One's Gift\"|C0| event.",
+		"rule_free2"		: "Each event of this type has an equal chance of being chosen.",
+		"rule_trade1"		: "|C3|Only 1 Trading Event|C0| can be encountered per run, and |C3|karma|C0| will increase the chances.",
+		"rule_trade2"		: "Holding any of |C3|[VAL1]'s|C0| preferred gifts will increase the chances that this event is chosen.",
+		"rule_treasure1"	: "|C3|Only 1 Treasure Event|C0| can be encountered per run, and they are more likely to occur near the end of the run.",
+		"rule_treasure2"	: "A Treasure Event encounter is guaranteed if the run is |C3|at least 7 chapters|C0| long.",
+		"rule_bonding1"		: "This event has a chance to occur after |C3|[VAL1]|C0| is loved.",
+		"rule_bonding1_x"	: "This event has a chance to occur after any form of |C3|[VAL1]|C0| is loved.",
+		"rule_bonding2"		: "|C3|Bonding Time Events|C0| can appear after the first or second stage of any chapter with 3 battles, starting in chapter 2.",
+		"rule_bonding3"		: "|C3|2 different Bonding Time Events|C0| can appear per run, but the second one must appear after 3 full sized chapters are cleared.",
+	},
+	"E_self_doubt" : {
+		"name"		: "Self Doubt",
+		"hint"		: "[hint_common]",
+		"details"	: "The monsters are getting more and more powerful. Is this too much for me already? Am I good enough for this? These negative thoughts will get in the way later. The monsters can sense it. We are sharing dreams after all.|L||L|I'll just rest for a little while. If I rest longer, I can |C3|reduce monster power by up to 3 levels.|C0|",
+		"rule1"		: "[rule_any_stage]",
+		"rule2"		: "Raising the base monster power to a very high level for the current stage will increase the chances. This chance is further raised at the end of any chapter.",
+		"rule3"		: "Taking several hits in a single battle will increase the chance of an encounter after that battle.",
+	},
+	"E_free_heart_key" : {
+		"name"		: "A Key to Love",
+		"hint"		: "[hint_common]",
+		"details"	: "One of my tetrids pulled me over to a |C3|Heart Key|C0| on the ground. Should I take it?|L||L|It is a rare and |C3|Wonderful Power Gift!|C0| But I have noticed that for every 3-star gift I have, I am |C3|less likely to find another one|C0| later.",
+		"rule1"		: "This event can appear after any chapter, but only before the start of the third full sized chapter.",
+		"rule2"		: "[rule_karma]",
+		"rule3"		: "The chance is greatly increased for each gift challenge you fail.",
+		"rule4"		: "You must not already have the |C3|Heart Key|C0| gift.",
+		"rule5"		: "You must have at least one tetrid of any base color.",
+	},
+	"E_convert_tetrids" : {
+		"name"		: "Radiant Garden",
+		"hint"		: "[hint_common]",
+		"details"	: "I found a beautiful garden filled with radiant flowers. The flowers can change the colors of my tetrids!|L||L|If I give the garden enough tetrids, it will attract a |C3|Special Monster.|C0|",
+		"rule1"		: "[rule_any_chapter]",
+		"rule2"		: "The chance is very high that this event will occur during any run.",
+		"rule3"		: "The chance of encountering this event earlier in the day is greatly increased on heavier rain difficulties.",
+		"rule4"		: "You must have at least one of each base color tetrid.",
+	},
+	"E_lulu" : {
+		"name"		: "Lulu's Gift",
+		"hint"		: "[hint_monster]",
+		"B_key"		: "B_unit_lulu",
+		"details"	: "After a practice battle with the Little Robot, she will give me her |C3|Fear Sense|C0| gift. This thing can tell me exactly how much fear a monster has. I don't really know what that means, but the battles always end exactly when that number gets to zero!|L||L|She must have spent so much time studying the monsters. Even during all those days that I can't remember.",
+		"rule1"		: "[rule_monster]",
+		"rule2"		: "You must not already have the |C3|Fear Sense|C0| gift.",
+	},
+	"E_heliola" : {
+		"name"		: "Heliocentric Model",
+		"hint"		: "[hint_monster]",
+		"B_key"		: "B_heliola",
+		"details"	: "Heliola decided that she didn't want to hide herself from everyone anymore. It will take her some time to get over her fear of attention, but the world will be a better place when she can share her light freely.|L||L|She made a |C3|Sun Stone|C0| for me today. It uses her own light to attract more monsters. It also helps me feel energized, especially now that I'm starting to forget what the sun feels like...",
+		"rule1"		: "[rule_monster]",
+		"rule2"		: "You must not already have the |C3|Sun Stone|C0| gift.",
+	},
+	"E_scrambla" : {
+		"name"		: "Scrambla's Gift",
+		"hint"		: "[hint_monster_multi]",
+		"B_key"		: "B_scrambla",
+		"details"	: "That absolute sweetheart, Scrambla found a way to help me. She can open a |C3|Link Synapse|C0| and put some of my gifts inside. I won't have those gifts anymore today, but they will be waiting for me tomorrow!|L||L|I wonder where my gifts normally go at night?",
+		"rule1"		: "[rule_skip_one]",
+		"rule2"		: "[rule_come_back]",
+	},
+	"E_boiler" : {
+		"name"		: "Boiler's Gift",
+		"hint"		: "[hint_monster_multi]",
+		"B_key"		: "B_boiler",
+		"details"	: "The spiciest Shamble around, Boiler found a way to help me. She can open a |C3|Link Synapse|C0| and send my gifts straight to my home, but tomorrow in the future!|L||L|Her synapse seems to share the same exit point as her sister, Scrambla's.",
+		"rule1"		: "[rule_skip_one]",
+		"rule2"		: "[rule_come_back]",
+	},
+	"E_blot" : {
+		"name"		: "Blot's Art Gallery",
+		"hint"		: "[hint_monster_multi]",
+		"B_key"		: "B_blot",
+		"details"	: "Blot invited me to her art gallery today. She asked me for gift donations with a special interest in |C3|artistic|C0| gifts.|L||L|She proudly talked about all the beautiful art that she found while I tried my best to hide the welling tears in my eyes. She doesn't know that I painted most of them. It's been a long time since I've felt this flavor of happiness.",
+		"rule1"		: "[rule_monster_multi]",
+		"rule2"		: "[rule_token_shop]",
+	},
+	"E_vitrea" : {
+		"name"		: "Vitrea's Observatory",
+		"hint"		: "[hint_monster_multi]",
+		"B_key"		: "B_vitrea",
+		"details"	: "Vitrea invited me to her observatory today. She asked me for gift donations with a special interest in |C3|cosmic|C0| gifts.|L||L|Her telescopes are amazing! They can blast small holes in the clouds to let the stars shine through. They can also be used to capture the image of stars as a gift.|L||L|Unfortunately we can't use them to blast all the clouds away.",
+		"rule1"		: "[rule_monster_multi]",
+		"rule2"		: "[rule_token_shop]",
+	},
+	"E_sentinel_quiz" : {
+		"name"		: "Sentinel's Quiz",
+		"hint"		: "[hint_monster_multi]",
+		"B_key"		: "B_sentinel_4x",
+		"details"	: "Sentinel 4X gave me another quiz today. She was so happy every time I got a correct answer. She gets so excited, I was afraid her head was really going to explode this time.|L||L|As I learn more, she comes up with new questions to ask. I don't know how she does that. It's like she can tell exactly what I know just by looking at me. I think she wants to make sure I don't lose my memories again.",
+		"rule1"		: "This event will occur a random number of battles after any form of |C3|Sentinel 4X|C0| is loved.",
+		"rule2"		: "She can return anywhere from 1 to 5 battles later.",
+		"rule3"		: "She will not return until at least 4 monsters have been loved in the run.",
+		"rule4"		: "If the next battle is the final battle, she will start the quiz immediately.",
+	},
+	"E_free_gift" : {
+		"name"		: "No One's Gift",
+		"hint"		: "[hint_common]",
+		"details"	: "I stumbled upon a lonely gift that seemingly belonged to no one. Should I take it next time? What if it belongs to someone? What if they wanted to give it to me, but were too scared?",
+		"rule1"		: "[rule_any_chapter]",
+		"rule2"		: "[rule_karma]",
+		"rule3"		: "Having a low amount of active |C3|Power Gifts|C0| for the current stage will greatly increase the chance.",
+		"rule4"		: "This event will be replaced by any other |C3|Free Gift Event|C0| that has their conditions met.",
+	},
+	"E_visit_amalga" : {
+		"name"		: "Amalga's Hospitality",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_amalga",
+		"details"	: "Amalga was so worried about me, that she gave me |C3|4 Bonus Gifts|C0| today.|L||L|She's a sweetheart, but she doesn't take care of herself. She was literally falling apart when I saw her. I don't know how to convince her that she matters just as much as anyone else.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_free1]",
+		"rule3"		: "[rule_free2]",
+	},
+	"E_visit_roundsaw" : {
+		"name"		: "Wrath of Roundsaw",
+		"hint"		: "[hint_chance_multi]",
+		"B_key"		: "B_roundsaw",
+		"details"	: "Roundsaw wants to help me boost my loving power! She gave me a choice of |C3|Passive Boost Gifts|C0| or a |C3|Bonus Gift.|C0||L||L|I think she just wanted me to give her a stronger hug. She even took her sawblade off so I could really get in there! I always thought it was a part of her body.",
+		"rule1"		: "[rule_visit_multi]",
+		"rule2"		: "[rule_free1]",
+		"rule3"		: "[rule_free2]",
+	},
+	"E_visit_photoxai" : {
+		"name"		: "Photo Shy Photoxai",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_photoxai",
+		"details"	: "I ran into Photoxai again today. She can take photographs by making her glyph flash a bright light!|L||L|She likes to take photos of random gifts that I have with me. These photos work just like |C3|duplicate gifts,|C0| and she lets me take one of them!|L||L|If I have any room for a Quick Gift, she will also give me one of her |C3|photo gifts.|C0|",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_free1]",
+		"rule3"		: "[rule_free2]",
+	},
+	"E_visit_ombroah" : {
+		"name"		: "Ombroah's Umbrella",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_ombroah",
+		"details"	: "I found Ombroah's home and she invited me under her umbrella. She wanted to give me a gift. She let me choose from |C3|water and rain gifts|C0| or some of her very own |C3|heart stones.|C0||L||L|She's so sweet. She let me sleep next to her for a while. I felt so safe.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_free1]",
+		"rule3"		: "[rule_free2]",
+	},
+	"E_visit_astrayo" : {
+		"name"		: "Flash Before My Eyes",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_astrayo",
+		"details"	: "Astrayo came looking for me today. She had a few [ZAP] and |C3|mechanical|C0| gifts for me!|L||L|She was so excited a lot of her |C3|spark stones|C0| were flying all over the place. They seem to appear out of air around her. I wanted to ask her where they come from, but she looked too embarrassed to talk about it.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_free1]",
+		"rule3"		: "[rule_free2]",
+	},
+	"E_visit_null_unit" : {
+		"name"		: "Null Scrap Pile",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_null_unit",
+		"details"	: "I found Null Unit on a mountain of scrap metal where she seems to live. She showed me a random pile of |C3|12 quick gifts|C0| and let me have any one I wanted.|L||L|If I have at least |C3|4 empty quick slots|C0| when I visit her, she'll give me an |C3|extra quick gift|C0| from another pile.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_free1]",
+		"rule3"		: "[rule_free2]",
+	},
+	"E_visit_flip_flap" : {
+		"name"		: "Flipping and Flapping",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_flip_flap",
+		"details"	: "The Flip Flap robots each gave me a gift today.|L|Flip let me choose a |C3|Split Unit|C0| or a [RADIANT] gift.|L|Flap let me choose an |C3|Inverted Unit|C0| or a [VOID] gift.|L||L|They also sang a little song for me.|wave||L|Flip Flap.|L|Flip Flap.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_free1]",
+		"rule3"		: "[rule_free2]",
+	},
+	"E_visit_pearl" : {
+		"name"		: "Smiles for Pearl",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_pearl",
+		"details"	: "It's so hard for me to read Pearl's expression. It doesn't help that she can't talk either.|L||L|She likes to randomly pop out of the ground with a bunch of |C3|cosmic gifts|C0| from outer space. I think she wants me to know how much she misses the stars.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_free1]",
+		"rule3"		: "[rule_free2]",
+	},
+	"E_visit_burning" : {
+		"name"		: "Time for Burning",
+		"hint"		: "[hint_chance_multi]",
+		"B_key"		: "B_burning_veyeral",
+		"details"	: "Burning Veyeral gave me two gifts today! She let me choose a [BURN] gift and then she let me choose a |C3|Bonus Gift.|C0||L||L|That's 3 free gifts if you count one of the warmest hugs possible!",
+		"rule1"		: "[rule_visit_multi]",
+		"rule2"		: "[rule_free1]",
+		"rule3"		: "[rule_free2]",
+	},
+	"E_visit_venom" : {
+		"name"		: "Time for Detox",
+		"hint"		: "[hint_chance_multi]",
+		"B_key"		: "B_venom_veyeral",
+		"details"	: "Venom Veyeral had [TOXIC] and |C3|panic|C0| gifts for me today. She was going to throw them away, but she asked me if I wanted to take them instead.|L||L|I can tell that she didn't want them to go to waste even though she didn't want them anymore. She indirectly helped several other monsters feel loved today!",
+		"rule1"		: "[rule_visit_multi]",
+		"rule2"		: "[rule_free1]",
+		"rule3"		: "[rule_free2]",
+	},
+	"E_trade_calorie" : {
+		"name"		: "Calorie's Desire",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_calorie",
+		"details"	: "Calorie is having trouble sleeping because she is too hot! She is looking for [VOID] gifts to cool off, but she'll accept anything that isn't a [BURN] gift.|L||L|She also loves it if I have some of |C3|her favorite candy!|C0||L||L|She has 7 gifts to trade, and most of them are on fire.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_trade1]",
+		"rule3"		: "[rule_trade2]",
+	},
+	"E_trade_lila" : {
+		"name"		: "Lila Wants a Snack",
+		"hint"		: "[hint_chance_multi]",
+		"B_key"		: "B_lila",
+		"details"	: "Lila wants:|L||C3|1 food active gift|L|1 food quick gift|C0||L||L|She won't take any other gifts, but she will happily eat tetrids if I don't have any food... or even if I do.|L||L|Lila has a pile of 10 random gifts she is willing to trade.",
+		"rule1"		: "[rule_visit_multi]",
+		"rule2"		: "[rule_trade1]",
+		"rule3"		: "[rule_trade2]",
+	},
+	"E_trade_hematoren" : {
+		"name"		: "Blood Drive",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_hematoren",
+		"details"	: "Hematoren wants to create a garden out of my blood, so I let her have some. It didn't hurt, but I did feel a little weak after. She gave me some food and I felt better.|L||L|She has 9 gifts to trade, including some heart stones that she made.|L||L|It's a special feeling knowing that a part of me can create life like that. I wish she wouldn't forget about it tomorrow.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_trade1]",
+		"rule3"		: "Having a |C3|higher max health|C0| or being at |C3|low health|C0| will increase the chances that this event is chosen.",
+		"rule4"		: "You must have at least |C3|10 max health|C0| for this event to be chosen.",
+	},
+	"E_trade_chemory" : {
+		"name"		: "Scent of Chemory",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_chemory",
+		"details"	: "Chemory was looking for gifts that she could turn into perfume. She mostly wanted [TOXIC] gifts, but she takes anything that isn't a [ZAP] gift since those disrupt her ability.|L||L|She has 8 gifts to trade, and she usually has a few gifts with a lovely fragrance.|L||L|I think she focuses on transforming [TOXIC] gifts because they remind her of herself.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_trade1]",
+		"rule3"		: "[rule_trade2]",
+	},
+	"E_trade_hadesoh" : {
+		"name"		: "Walk With Us In Hell",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_hadesoh",
+		"details"	: "Ever since I've been in the towers, every monster's blessings and burdens have appeared to me. Some monsters can see them too.|L||L|Hadesoh has been gathering everyone's burdens onto herself, but that's way too much for one monster! I've decided to take on a few of them myself, but she insisted that I also take something from her pile of 14 gifts.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_trade1]",
+		"rule3"		: "The chances of this event being chosen is increased if the |C3|Trading Event|C0| is encountered later in the run.",
+	},
+	"E_trade_monovai" : {
+		"name"		: "Monovai's Revenge",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_monovai",
+		"details"	: "As nightfall approaches, Monovai is worried that she won't be able to see anything. She is looking for [RADIANT] gifts to light up the night, but she'll accept any gifts.|L||L|She has 8 gifts to trade, usually including some very carefully crafted heart stones.|L||L|She might be afraid of the dark... Maybe a |C3|Nightlight|C0| will help?",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_trade1]",
+		"rule3"		: "[rule_trade2]",
+	},
+	"E_trade_prisma" : {
+		"name"		: "Prisma's Duplicator",
+		"hint"		: "[hint_chance_multi]",
+		"B_key"		: "B_prisma",
+		"details"	: "Prisma has a device that can make copies of gifts! It needs a lot of power to work, so she needs to use other gifts as energy for it. Any [ZAP] or |C3|mechanical|C0| gifts will create even more energy.|L||L|She can make one copy of every gift that I have with me, but I must be careful about what gifts I choose. Some gift effects can't really be doubled.",
+		"rule1"		: "[rule_visit_multi]",
+		"rule2"		: "[rule_trade1]",
+		"rule3"		: "[rule_trade2]",
+	},
+	"E_trade_glacia" : {
+		"name"		: "Glacia's Secret",
+		"hint"		: "[hint_chance_multi]",
+		"B_key"		: "B_glacia",
+		"details"	: "Glacia is looking for |C3|cosmic|C0| gifts to give to her friend.|L||L|She has 6 gifts that she is willing to trade. Many of these will affect any active shot types that my heart can fire.|L||L|She will accept any gifts that aren't quick gifts, as those might disappear before she can give them to Vitrea... I mean \"her friend\" that no one knows, and who she is totally not in love with.",
+		"rule1"		: "[rule_visit_multi]",
+		"rule2"		: "[rule_trade1]",
+		"rule3"		: "[rule_trade2]",
+	},
+	"E_trade_vibrant" : {
+		"name"		: "Vibrant Art Exchange",
+		"hint"		: "[hint_chance_multi]",
+		"B_key"		: "B_vibrant_veyeral",
+		"details"	: "Vibrant Veyeral is looking for some |C3|artistic|C0| gifts, but she will accept anything.|L||L|She is offering 7 gifts that can modify the elements of my shots.|L||L|I'll introduce her to Blot next time.",
+		"rule1"		: "[rule_visit_multi]",
+		"rule2"		: "[rule_trade1]",
+		"rule3"		: "[rule_trade2]",
+	},
+	"E_trade_frozen" : {
+		"name"		: "Frozen Veyeral Warm Up",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_frozen_veyeral",
+		"details"	: "Frozen Veyeral wants to warm up! She is looking for [BURN] gifts to speed up the process, but she'll accept anything that isn't a [VOID] gift.|L||L|She has 7 gifts to trade, but naturally, some of them will be [VOID] type.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_trade1]",
+		"rule3"		: "[rule_trade2]",
+	},
+	"E_bond_kiwi" : {
+		"name"		: "Kiwi's Playhouse",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_kiwi",
+		"details"	: "Kiwi had an amazing game set up for me! She drew all the characters herself, and they were all so cute! Well, maybe not by herself. I think the flowers on her tail are her sisters. She said they all helped with the drawings.|L||L|The game was kinda violent, but it's just a silly game. Kiwi had a huge rule book, but I think she ignored a lot of the rules. Wait! How did Kiwi learn how to read?",
+		"rule1"		: "[rule_bonding1]",
+		"rule2"		: "[rule_bonding2]",
+		"rule3"		: "[rule_bonding3]",
+	},
+	"E_bond_split" : {
+		"name"		: "Veyeral Games",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_split_veyeral",
+		"details"	: "Split Veyeral wanted to play some games with me today! They were all rolling around and changing the color of their eyeballs. I didn't really know they could do that, but I guess I have seen a few other Veyerals with different eye colors.|L||L|Hmm... Her name is Split Veyeral, but is she one Veyeral or are they a bunch of them? I'm still not sure how many there are in there.",
+		"rule1"		: "[rule_bonding1]",
+		"rule2"		: "[rule_bonding2]",
+		"rule3"		: "[rule_bonding3]",
+	},
+	"E_bond_voltage" : {
+		"name"		: "Voltage Min-Max",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_voltage_veyeral",
+		"details"	: "Voltage Veyeral will sometimes come looking for me when she feels lonely. It's always a mystery what her mood will be every day. Sometimes she wants to charge herself up in the rain, but other times she just wants to relax in a cave or under an umbrella.|L||L|She always reminds me that there are so many different paths I can take every day.",
+		"rule1"		: "[rule_bonding1_x]",
+		"rule2"		: "[rule_bonding2]",
+		"rule3"		: "[rule_bonding3]",
+	},
+	"E_score_knots" : {
+		"name"		: "Knot for Naught",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_knot_knott",
+		"details"	: "Knot asked me to help her find Knott. Knott had taken a warp synapse back to her original universe and Knot was worried that she might be in trouble. It turns out she went there to bring back a gift for me!|L||L|I pulled Knott back into this universe through Knot's dream, but I don't think that actually did anything in the waking world. The important part is that it made Knot feel better while she waited for Knott to return.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_treasure1]",
+		"rule3"		: "[rule_treasure2]",
+	},
+	"E_score_joule" : {
+		"name"		: "Work for Joule",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_joule",
+		"details"	: "Joule wants me to help her with an experiment. She is trying to send energy over to other dimensions using the motes that are stuck in her hair. I don't know exactly what that means, but all I have to do is show some more love. I'm really good at doing that!|L||L|When I do really well, I pull so many other gifts from her hair.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_treasure1]",
+		"rule3"		: "[rule_treasure2]",
+	},
+	"E_score_rendy" : {
+		"name"		: "Rendy's Buried Treasure",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_rendy",
+		"details"	: "Rendy needed my help finding her buried treasure. She told me that she couldn't remember where she buried it, but I think that was just an excuse to be around me and show off her digging skills.|L||L|I hope one day she understands that she doesn't need an excuse to do that.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_treasure1]",
+		"rule3"		: "[rule_treasure2]",
+	},
+	"E_score_snowball" : {
+		"name"		: "The Royal Treasure",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_snowball",
+		"details"	: "Snowball needed my help remembering where she buried her royal treasure. I don't think I helped very much since nothing in her dreams made any sense. She has gifts buried all over the place, so it's probably just a lucky guess every time we find anything.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_treasure1]",
+		"rule3"		: "[rule_treasure2]",
+	},
+	"E_score_philolu" : {
+		"name"		: "Any Way You Want It",
+		"hint"		: "This event has a chance to appear by loving many Eyeric Glyphs during a Story run",
+		"B_key"		: "B_philolu",
+		"details"	: "I met another monster that isn't afraid of me! It should really be no surprise that it was Philolu, the love glyph. It's also not surprising that she is so unbelievably pretty!|L||L|She actually asked ME on a date! Wow!|L||L|I made sure it was just a friendly date. She actually seemed just a tiny bit sad about it. But I just can't- No, I don't want to think about that right now.",
+		"rule1"		: "This event has a chance to occur between any chapters after showing love to any |C3|3 Eyeric Glyph Monsters.|C0|",
+		"rule2"		: "Showing love to more Eyeric Glyphs will increase the chance of encountering this event.",
+		"rule3"		: "Other Treasure Events will be prioritized until at least |C3|4 Eyeric Glyph Monsters|C0| are loved.",
+	},
+	"E_score_syncron" : {
+		"name"		: "Async Desync",
+		"hint"		: "[hint_chance_multi]",
+		"B_key"		: "B_syncron",
+		"details"	: "Syncron came back with more gifts for me today, but by the time they found me, they were in a full panic! I had to help them get out of it!|L||L|It turned out that the gifts were covered in motes that got stuck inside their exhaust ports! I feel a little guilty that they went through all that just to give me some gifts.",
+		"rule1"		: "[rule_visit_multi]",
+		"rule2"		: "[rule_treasure1]",
+		"rule3"		: "[rule_treasure2]",
+	},
+	"E_score_momo" : {
+		"name"		: "Murder Dance",
+		"hint"		: "[hint_chance_multi]",
+		"B_key"		: "B_momo",
+		"details"	: "Momo wanted to dance with me today. The dance was very intense and complicated. There were vines and blades everywhere. It was so much fun!|L||L|Some shy monsters were watching us from hiding spots in the trees. They left some gifts for us.",
+		"rule1"		: "[rule_visit_multi]",
+		"rule2"		: "[rule_treasure1]",
+		"rule3"		: "[rule_treasure2]",
+	},
+	"E_score_veyerals" : {
+		"name"		: "Veyerals Dream Again",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_veyeral_rain",
+		"details"	: "A group of Veyerals that I showed love to came back to see me. They wanted me to show them another dream. They were so grateful that they gave me even more gifts, but I was happy to do it anyways.|L||L|I didn't know that Veyerals can't dream on their own. It makes me so sad to think about it.",
+		"rule1"		: "[rule_visit]",
+		"rule2"		: "[rule_treasure1]",
+		"rule3"		: "[rule_treasure2]",
+	},
+	"E_score_anomaly" : {
+		"name"		: "Lucky Break",
+		"hint"		: "[hint_chance]",
+		"B_key"		: "B_anomaly",
+		"details"	: "I usually don't get much time to rest during the day. Even though I'm actually asleep throughout every battle, it isn't the same as resting for myself. I'm still so tired after waking up from that.|L||L|I had a rare chance to take a nap for myself. I had a dream about that strange heart again, and when I woke up, there were gifts left next to me.",
+		"rule1"		: "This event has a chance to occur between any chapters after showing love to |C3|Anomaly|C0| or loving any |C3|3 Special Monsters.|C0|",
+		"rule2"		: "This event also has a rare chance to occur by having at least |C3|150 karma.|C0| This chance increases with even more karma.",
+		"rule3"		: "Other Treasure Events are prioritized if karma is the only fulfilled requirement.",
+	},
+	"E_final_path" : {
+		"name"		: "Her Path",
+		"details"	: "How will my story end today? Will it be heartbreak, or something worse?|L||L|No! I'm not afraid anymore!",
+		"rule1"		: "This event occurs at a set point in every story run, as long as the character has more than one story path available.",
+	},
+	"E_wonderful" : {
+		"name"		: "Gift from Beyond",
+		"hint"		: "Have low karma at the end of a chapter",
+		"details"	: "Something is watching over me. I've never actually seen her, but I know she is there. My love dream power works on her just like any other monster.|L||L|Whatever she is, she gave me some of the most |C3|Wonderful Power Gifts|C0| ever given.",
+		"rule1"		: "[rule_full_chapter]",
+		"rule2"		: "This event can only be encountered by having very low amounts of karma for the current chapter.",
+		"rule3"		: "This event can be encountered multiple times in a single run as long as you are holding |C3|less than 3|C0| Wonderful Power Gifts.",
+	},
+	"E_true_panic" : {
+		"name"		: "True Panic",
+		"hint"		: "Have a lot of panics at the end of a chapter",
+		"details"	: "Holding onto so much panic has attracted polyps. They bring nothing but |C3|Panic Gifts|C0| and even more panic. It really is a self sustaining cycle.|L||L||C3|Don't forget to panic!|C0|",
+		"rule1"		: "[rule_full_chapter]",
+		"rule2"		: "[rule_karma]",
+		"rule3"		: "Holding onto many |C3|panic attacks|C0| will increase the chance.",
+		"rule4"		: "You must be holding |C3|at least 4|C0| panic attacks.",
+	},
+	"E_link_synapse" : {
+		"name"		: "Link Synapse",
+		"hint"		: "Put a gift in the Link Synapse",
+		"details"	: "A Link Synapse opened up outside of my home today. There were some gifts inside along with a note. I couldn't read it, but it was clearly from Scrambla. The thing is, I can't remember putting all of those gifts in there.|L||L|I could only take a few out before it closed. Radiating |C3|Foreign Axons|C0| will let me take more gifts out of the synapse.",
+		"rule1"		: "This event will be encountered at the start of every run as long as there are any gifts in the Link Synapse.",
+	},
+	"E_alter_your_fate" : {
+		"name"		: "Alter Your Fate",
+		"details"	: "Abyss can call over more monsters with her power. I'm not sure what she does, but I can find myself with |C3|up to 3 extra battles|C0| to deal with after meeting with her.|L||L|She seems really concerned with how many motes I can get in a single day. Maybe I can break this cycle by simply showing love to as many monsters as possible in a single day? If only it was that easy.",
+		"rule1"		: "This event occurs at a set point in every altered story run.",
+		"rule2"		: "|C4|This event will NOT occur if any gifts are taken out of the Link Synapse at the start of the run.",
+	},
+	"E_endless_store" : {
+		"name"		: "Solara's Gift Shop",
+		"details"	: "Solara wants to help me survive during my nightmares. She can use her power to reach deep into my mind and pull gifts out of my memories. It takes her more karma to do this after each gift is pulled out.|L||L|Solara's chances of pulling higher rank gifts are increased by the amount of times I summon her, and the amount of battles I survive.",
+		"rule1"		: "Solara can be summoned at the end of any battle in |C3|Endless Stress|C0| at the cost of some karma.",
+		"rule2"		: "The karma cost will increase by 1 every time she is summoned.",
+	},
+	
+	
+	
+	
+	
+	
+	"C_her_heart" : {
+		"name"		: "她的心",
+		"desc"		: "一位年轻扎拉登族女性的心",
+	},
+	"C_defect" : {
+		"name"		: "缺陷",
+		"desc"		: "这颗心看起来不太对",
+		"unlock"	: "在故事模式中承受5次心碎",
+	},
+	"C_twin_heart" : {
+		"name"		: "双子之心",
+		"desc"		: "两位扎拉登姐妹的心",
+		"unlock"	: "在快速挑战中达到等级15",
+	},
+	"C_the_devil" : {
+		"name"		: "恶魔",
+		"desc"		: "这颗心看起来渴望战斗",
+		"unlock"	: "总共收集400棱晶",
+	},
+	"C_alter_heart" : {
+		"name"		: "异相之心",
+		"desc"		: "健忘的艺术家的心",
+	},
+	"C_alter_defect" : {
+		"name"		: "异相缺陷",
+		"desc"		: "这颗心被一个维目尔占据",
+	},
+	"C_alter_twin" : {
+		"name"		: "异相双子",
+		"desc"		: "这颗心如繁星闪耀",
+	},
+	"C_alter_devil" : {
+		"name"		: "异相恶魔",
+		"desc"		: "一位受谴责的扎拉登的心",
+	},
+	
+	
+	
+	"foolish_names" : {
+		"B_burning_veyeral"		: "Numero Uno!",
+		"B_roundsaw"			: "Pizza Cutter",
+		"B_syncron"				: "Synchron",
+		"B_glacia"				: "Vitrea's Future Wife",
+		"B_split_veyeral"		: "Envy",
+		"B_blot"				: "Pride",
+		"B_voltage_veyeral"		: "Kracko Jr.",
+		"B_the_void"			: "[Missing No.]",
+		"B_hadesoh"				: "Crosshair",
+		"B_scrambla"			: "Lust",
+		"B_boiler"				: "Wrath",
+		"B_sentinel_4x"			: "Mettaton 4X",
+		"B_sandrome"			: "Cactus Noodle",
+		"B_vitrea"				: "Kracko",
+		"B_ombroah"				: "Ombroche",
+		"B_monovai"				: "Eula",
+		"B_prisma"				: "Ramiel",
+		"B_amalga"				: "Gluttony",
+		"B_molten_veyeral"		: "Soup Veyeral",
+		"B_nix_polyps"			: "Nyx Prime",
+		"B_null_roundsaw"		: "Edgy Noodle",
+		"B_null_glacia"			: "Goth Glacia",
+		"B_anomaly"				: "I'm in your walls",
+		"B_shy_scrambla"		: "Da Scrimbler",
+		"B_hematoren"			: "Tomato Juice",
+		"B_rage_prisma"			: "Boiler",
+		"B_totaria"				: "Void Termina",
+		"B_lila"				: "Turanga",
+		"B_tox_polyps"			: "Super Greed",
+		"B_momo"				: "The Killers",
+		"B_dual_prisma"			: "Israfel",
+		"B_veyeral_rain"		: "November Rain",
+		"B_unit_lulu"			: "Skipped The Tutorial",
+		"B_sentinel_0x"			: "Australian 4X",
+		"B_rage_boiler"			: "Spicy Lady",
+		"B_shamra"				: "Baby Multiplexus",
+		"B_oudenai"				: "Baby Alphabet",
+		"B_blue_veyeral"		: "Gooey",
+		"B_rendy"				: "Randy",
+		"B_chroma"				: "Chroma Prime",
+		"B_echo"				: "Baby Papercut",
+		"B_snowball"			: "Deadly Queen",
+		"B_rage_duet"			: "Now Kiss",
+		"B_trinity"				: "Trinity Prime",
+		"B_venom_veyeral"		: "Smelly Veyeral",
+		"B_photoxai"			: "Photoxkctkshai",
+		"B_kiwi"				: "Mango",
+		"B_knot_knott"			: "Not Nott",
+		"B_duality"				: "Equinox",
+		"B_stella"				: "Mrs. Bright",
+		"B_celestia"			: "Mrs. Shine",
+		"B_unity"				: "Biblically Accurate Tetrid",
+		"B_shy_lila"			: "Ahhhhh!",
+		"B_chemory"				: "The Nibbler",
+		"B_astrayo"				: "Yayayayayayaya",
+		"B_alter_blot"			: "Sloth",
+		"B_alter_roundsaw"		: "Power Tool",
+		"B_alter_glacia"		: "Mrs. Flosty",
+		"B_alter_syncron"		: "Stinkron",
+		"B_frozen_veyeral"		: "Ice Cream Veyeral",
+		"B_joule"				: "Static Shock",
+		"B_dot"					: "Spot",
+		"B_pearl"				: "Resting Cute Face",
+		"B_calorie"				: "Spicy Insomniac",
+		"B_flip_flap"			: "Uexküll",
+		"B_null_unit"			: "Not Unit Lulu",
+		"B_nova"				: "Nova Prime",
+		"B_emerald"				: "Just a Rock (Green)",
+		"B_ruby"				: "Just a Rock (Red)",
+		"B_topaz"				: "Just a Rock (Yellow)",
+		"B_sapphire"			: "Just a Rock (Blue)",
+		"B_citrine"				: "Citrine Prime?",
+		"B_amethyst"			: "Just a Rock (Purple)",
+		"B_forma"				: "Baby Void",
+		"B_default"				: "Loading . . .",
+		"B_lavalin"				: "End of Za World",
+		"B_heliola"				: "Pop Star",
+		"B_vibrant_veyeral"		: "Blot",
+		"B_alter_vitrea"		: "Gremlin Mode",
+		"B_null_blot"			: "Goth Blot",
+		"B_voladrome"			: "Iron Maiden",
+		"B_shy_momo"			: "The Star of The Show",
+		"B_dendrohai"			: "Dandori Issue",
+		"B_veyeral_quartet"		: "Da Beatles",
+		"B_shiny_joule"			: "Perfect Hair Forever",
+		"B_shiny_momo"			: "Momomo-mo Mo-momo",
+		"B_shiny_veyerals"		: "Golden Experience",
+		"B_storm_veyeral"		: "Super Envy",
+		"B_shiny_rendy"			: "Randy (Gold Edition)",
+		"B_shiny_snowball"		: "Fischl",
+		"B_shiny_anomaly"		: "I've escaped from the game",
+		"B_chionotoh"			: "Mrs. Freeze",
+		"B_philolu"				: "Dating Sim",
+		"B_ventra"				: "Nova",
+		"B_guardian_soul"		: "Baby Torture Labyrinth",
+		"B_shiny_knots"			: "Maidenless Knot",
+		"B_shiny_syncron"		: "In Sync",
+		"B_shanx"				: "Cractus",
+		"B_alter_shanx"			: "Luffy",
+		"B_moss"				: "Turn Around",
+		"B_scarlet"				: "Hot Sauce Enjoyer",
+		"B_dandy"				: "Asdfhqwefhjkasvnawerhu",
+	},
+	
+	
+	
+	"dialog_error_catch" 	: [
+		{
+			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "|C3|[Missing Dialog Script Error]",
+		},
+	],
+	
+}
+

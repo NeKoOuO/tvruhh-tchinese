@@ -1,0 +1,208 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "|wave|Listen to our lovely music.",
+			"dialog_rand2"		: "|wave|Hear our lovely song.",
+			"dialog_rand3"		: "|wave|These Units must sing our song.",
+		},
+		{
+			"fast_text"			: 1,
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
+			"dialog"			: "|wave|Flip Flap.          ",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"dialog"			: "|wave|Flip Flap.          ",
+		},
+		{
+			"fast_text"			: 0,
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "Your |C3|[Pure Love]|C0| has affected These Units.",
+			"dialog_rand2"		: "Your love has overtaken the |C3|[Pure Fear]|C0| in These Units.",
+			"dialog_rand3"		: "|C3|[Pure Love]|C0| is now what holds These Units together.",
+		},
+		{
+			"fast_text"			: 1,
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"dialog"			: "|wave|Flip Flap.          ",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
+			"dialog"			: "|wave|Flip Flap.          ",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_normal"],
+			"dialog"			: "|wave|These Units-          ",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_normal"],
+			"dialog"			: "|wave|Have a gift-          ",
+		},
+		{
+			"fast_text"			: 0,
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"dialog"			: "|wave|Just for you.",
+		},
+	],
+	
+	"title_flip"	: "Flip's Gifts",
+	"title_flap"	: "Flap's Gifts",
+	
+	"comment_take_flip"	: {
+		"character"	: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_normal"],
+		"dialog"	: "This Unit will assure that |C3|[Pure Positivity]|C0| comes to you.",
+	},
+	"take_confirm_flip"		: {
+		"character"	: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_normal"],
+		"dialog"	: "Are you positive?",
+	},
+	"comment_take_flap"	: {
+		"character"	: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_normal"],
+		"dialog"	: "This Unit will keep the |C3|[Pure Negativity]|C0| away from you.",
+	},
+	"take_confirm_flap"		: {
+		"character"	: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_normal"],
+		"dialog"	: "Are you positive?",
+	},
+	
+	"next_to_flap" 	: [
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"dialog"			: "This Unit has given a gift to you,|!||L|but we are not done yet.",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
+			"dialog"			: "|wave|You must take a gift from This Unit as well.",
+		},
+	],
+	"next_to_flip" 	: [
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
+			"dialog"			: "You have accepted a gift from This Unit,|!||L|but we are not done yet.",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"dialog"			: "|wave|This Unit is positive you will love her gift as well.",
+		},
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "Thank you!|L||!|Your song was so lovely, too.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_blush"],
+			"dialog"			: "|C3|[Pure Warmth]|C0| detected.",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_blush"],
+			"dialog"			: "Flipping open all available flapping ports.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"dialog"			: "|wave|These Units must sing praise-",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
+			"dialog"			: "|wave|To the being of |C3|[Pure Void]|C0| and perfection.",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_blush"],
+			"dialog"			: "Sorry for trying to |shake|kill|norm| you.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
+			"dialog"			: "Oh, she just takes that like a compliment.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "But really, who hasn't tried to kill me at least once?",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"dialog"			: "|wave|Flip Flap.",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
+			"dialog"			: "|wave|Flip Flap.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|Flip Flap,|L|Flip Flap.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_despair"],
+			"dialog"			: "Oh no!",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "She's going to be singing that all day.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|Flip Flap,|L|Flip Flap.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "I could use your singing in one of my songs!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
+			"dialog"			: "It would go great in my new song, called-",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"random"			: 3,
+			"dialog_rand1"		: "\"Defense Mechanism\"",
+			"dialog_rand2"		: "\"Towering Anxiety\"",
+			"dialog_rand3"		: "\"Marked for Deletion\"",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "It's like that song we heard in our dream battle, remember?",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"dialog"			: "|wave|These Units would love-",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
+			"dialog"			: "|wave|To sing a song for you.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"dialog"			: "|wave|Flip Flap.",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
+			"dialog"			: "|wave|Flip Flap.",
+		},
+		{
+			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
+			"dialog"			: "These Units hope that our gifts are useful to you.",
+		},
+	],
+
+}

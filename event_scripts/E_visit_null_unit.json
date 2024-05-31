@@ -1,0 +1,169 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "Oh hey... You like, found me.",
+			"dialog_rand2"		: "You found like, my scrap pile.",
+			"dialog_rand3"		: "I'm like, so happy to see you   and stuff.",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "You want like,   a thing    or whatever?",
+			"dialog_rand2"		: "Are you looking for like,  stuff   or whatever?",
+			"dialog_rand3"		: "You want like,  stuff   and junk?",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "I got all this junk I don't know what to do with.",
+		},
+	],
+	
+	"monster_gifts"	: "Null Unit's Gifts",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+		"dialog"	: "Yeah, you can totally have that.",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+		"dialog"	: "I don't like, even know what that is or how it got here.",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+		"dialog"	: "You can't like, carry that one.|L|So, you never want to use your stuff either, huh?",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+		"dialog"	: "You taking that?",
+	},
+	
+	"another_gift_1" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "Wow. You can totally carry a bunch of stuff right now.",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "You can take another one from this pile, or whatever.",
+		},
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "Can you like, just hold me for a little while?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "Of course I can.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "I love you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "You cry really easily, you know that?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],
+			"dialog"			: "Yeah, I know.",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "Can I like, hold your |C3|voidling|C0|   or whatever?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_upset"],
+			"dialog"			: "You're not going to try to kill her, are you?",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "What? No way!",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "I don't get why the older machines are always like, freaking out about these little ladies and junk.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Surely you must understand now.",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "Yeah, I would like, totally kill for you right now.",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_upset"],
+			"dialog"			: "Sunshine, go hug her.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|Me?|norm|",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "What if she doesn't like that?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "|wave|Just trust me.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "Aww. That's like, so sweet of you and stuff.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_blush"],
+			"dialog"			: "|shake|Oh, you know how I am.",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "Can I get, like a warm embrace from you or whatever?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "Are you really prepared for a hug from me, The Devil?",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "Like probably, I dunno.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "I warned you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_blush"],
+			"dialog"			: "Woah! That's like, totally not what I expected.",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "Can I get like, a hug before you go    or whatever?",
+		},
+		{
+			"scene_flash"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_blush"],
+			"dialog"			: "I like, totally needed that right now.",
+		},
+	],
+
+}
