@@ -1,0 +1,73 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_tutorial_common",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "|wave|Little Robot!|norm|   One of the monsters loves me now!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "She even gave me something.",
+		},
+		{
+			"show_tutorial"		: "example_power_card",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This object appears to be a |C3|Power Gift.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "It seems that this monster wanted to help you love the next one.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "This gift can help me?",
+		},
+		{
+			"show_tutorial"		: "small_power_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now explain |C3|Power Gifts.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Monsters will give you |C3|Power Gifts|C0| when they are loved.",
+		},
+		{
+			"show_tutorial"		: "example_power_card",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The effects of |C3|Power Gifts|C0| will automatically activate when you receive them.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "My heart does feel stronger already.",
+		},
+		{
+			"show_tutorial"		: "small_power_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The stars on a |C3|Power Gift|C0| denote its rank.|L||!|Gifts with a higher rank will have more powerful effects.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Accept the gifts that each monster gives you and use their effects to love more monsters.",
+		},
+		{
+			"show_tutorial"		: "none",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "|wave|Thank you, Little Robot!|norm||L||!|I will do that!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "I should probably test it first, just to be sure that it works.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"			: "This Unit is experiencing a sudden rise in temperature.|L||!|Your power has grown indeed.",
+		}
+	]
+}

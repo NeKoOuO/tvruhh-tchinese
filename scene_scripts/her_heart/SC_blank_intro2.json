@@ -1,0 +1,215 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 320,
+			"text_y"			: 180,
+			"text_w"			: 480,
+			"play_music"		: "dreaming_scene_music",
+			"bg_image"			: "spr_scene_dreaming",
+			"voice"				: "VOICE_static",
+			"dialog"			: "Please try to remember",
+		},
+		{
+			"dialog"			: "No matter how hard it gets",
+		},
+		{
+			"dialog"			: "When you just want to give up",
+		},
+		{
+			"dialog"			: "Just remember",
+		},
+		{
+			"dialog"			: "Somebody always loves you.",
+		},
+		{
+			"dialog"			: "Ignore the voices that say otherwise!",
+		},
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 156,
+			"text_y"			: 80,
+			"text_w"			: 276,
+			"play_music"		: "scene_music_a",
+			"bg_image"			: "spr_blank_intro_wake_up1",
+			"voice"				: "VOICE_blank",
+			"dialog"			: "What was that!?",
+		},
+		{
+			"dialog"			: "What just happened!?",
+		},
+		{
+			"dialog"			: "How did I get here?",
+		},
+		{
+			"transition_type"	: 1,
+			"bg_image"			: "spr_blank_intro_wake_up2",
+			"dialog"			: "Was that just a dream?",
+		},
+		{
+			"dialog"			: "But it felt so real.",
+		},
+		{
+			"dialog"			: "And now I'm here again...|L||L|All alone.",
+		},
+		{
+			"dialog"			: ". . .",
+		},
+		{
+			"dialog"			: "I should check outside.",
+		},
+		{
+			"transition_type"	: 0,
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 144,
+			"text_y"			: 224,
+			"text_w"			: 256,
+			"bg_image"			: "spr_blank_intro_raining",
+			"dialog"			: "It's raining again today.",
+		},
+		{
+			"dialog"			: "How long has it been raining?",
+		},
+		{
+			"dialog"			: "I can't seem to remember,     but it feels like a very long time.",
+		},
+		{
+			"dialog"			: "Hopefully it gets better today.",
+		},
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_scene_raining_cave",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "|wave|Hello, Little Robot!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Hello young Zaraden.|L||!|This Unit is programmed to provide inform-",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "You told me that yesterday.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Update:|C0| The young Zaraden has remembered This Unit.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|Of course I remember you!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "How could I forget this little robot?|L|You helped me so much yesterday!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit was under the assumption that the young Zaraden would not remember her again.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "Again?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Correct.     |L|This Unit has met this young Zaraden many times before yesterday.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This is the first time the Zaraden has remembered This Unit.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "|shake|What?!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "That's not good.|L|How can I be forgetting so much every day?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has no information on this phenomenon.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "Well I remember you now!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
+			"dialog"			: "And I promise I'll remember you tomorrow!|L||!||shake|I'll remember you every day!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit is detecting an unnecessarily aggressive tone from that promise.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
+			"dialog"			: "Oh sorry,    I got a little carried away there.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
+			"dialog"			: "It's just... How could I forget someone I love?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This loss of memory is not within the control of the young Zaraden.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The monsters have likely forgotten the events of previous days as well.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The monsters will have forgotten what love is.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "Then I have to show them love again!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Use your abilities to make the monsters love you.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
+			"dialog"			: "How about I just show them what love is and they can decide that for themselves?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Error:|C0| This Unit cannot compute the difference.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "It's okay.     |L|I'm sure you will figure it out someday.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "Hey Little Robot, are you feeling cold?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit runs at maximum efficiency in a cold enviro-",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"			: "This Unit understands what the young Zaraden has done there.",
+		}
+	]
+}

@@ -1,0 +1,71 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "dreaming_scene_music",
+			"bg_image"			: "spr_scene_dreaming",
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "I'm your good friend, Hadesoh!",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+			"dialog"			: "Welcome to |C3|The |shake||nu||ze||nah||norm| Towers!|C0|",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_normal"],
+			"dialog"			: "Well, they still need a little more work, but they are almost done.",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_angry"],
+			"dialog"			: "What did you expect? You've seen the |shake||nu||ze||nah||norm| credits.",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_surprised"],
+			"dialog"			: "|shake|There's only one name on it!",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_normal"],
+			"dialog"			: "...Anyways, I'm here to explain a little bit about the towers for now.",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_normal"],
+			"dialog"			: "You're going to find 2 new types of gifts here.",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "|C3|Blessings|C0| do good stuff for you, but they only last a few battles.",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+			"dialog"			: "|C3|Burdens|C0| also only last a few battles, but they do |shake||nu||ze||nah||norm| that messes you up instead!",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "Monsters will always give you both |C3|Blessings and Burdens|C0| at the same time, so choose your poison carefully.",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_normal"],
+			"dialog"			: "But here's the most important part of the towers, so listen up.",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_normal"],
+			"dialog"			: "Monsters only level up here if you get really good scores.",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+			"dialog"			: "Keep getting full combos and you'll be fighting me at level 20 in no time!",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_sad"],
+			"dialog"			: "But if monsters do end up out of your league, then consider ruining your combo more often or something.",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_angry"],
+			"dialog"			: "Or don't! I ain't your |shake||nu||ze||nah||norm| parent or guardian.",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "|wave|Anyways, have fun.",
+		},
+	]
+}

@@ -1,0 +1,232 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_scene_raining_outside",
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
+			"dialog"			: "|C3|Reboot initiated    .    .    .",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "Sentinel, are you okay?",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
+			"dialog"			: "|C3|.    .    .",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
+			"dialog"			: "This Unit is feeling okay now.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "That's good to hear.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "Clearly, gazing upon me was too much for her vision sensors to handle.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "Give her another moment to process my beauty.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
+			"dialog"			: "|C3|.    .    .",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
+			"dialog"			: "Sentinel?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
+			"dialog"			: "|shake|Sentinel?|norm||L||!|I'm getting a little worried!",
+		},
+		{
+			"play_music"		: "silence",
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
+			"dialog"			: "|C3|Voidling Detected",
+		},
+		{
+			"play_music"		: "creepy_scene_music",
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
+			"dialog"			: "This Unit will now initiate combat mode.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
+			"dialog"			: "What are you doing?",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
+			"dialog"			: "The |C3|Voidling|C0| must be eradicated.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_upset"],
+			"dialog"			: "Are you talking about Blue?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "It's much worse than I imagined.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "I've completely fried her circuits with my sheer elegance.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
+			"dialog"			: "This void creature will be cleansed from this world.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_angry"],
+			"dialog"			: "Why are you trying to hurt Blue?|L||!|I won't let you do this!",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
+			"dialog"			: "Step aside, This Unit must perform her duty and destroy the |C3|Voidling.|C0|",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
+			"dialog"			: "Don't do this, Sentinel.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_upset"],
+			"dialog"			: "Why do you defend the |C3|Voidling?|C0|",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_upset"],
+			"dialog"			: "They are too dangerous to be allowed to exist.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
+			"dialog"			: "She would never hurt anyone!",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
+			"dialog"			: "They are a risk that This Unit is not programmed to accept.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry2"],
+			"dialog"			: "Please, I don't want to fight anymore.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
+			"dialog"			: "|shake|They must all be destroyed.",
+		},
+		{
+			"play_music"		: "silence",
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry3"],
+			"dialog"			: "|shake|She's my friend and I love her!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "Defect...",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry1"],
+			"dialog"			: "If you hurt her, then you hurt me too.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
+			"dialog"			: "This Unit does not want to hurt you.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry1"],
+			"dialog"			: "Turn your weapons off, Sentinel.|L||!|You don't need them anymore.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
+			"dialog"			: "This Unit will accept this request.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
+			"dialog"			: "You have already been added to the folder, |C3|Loved Ones.|C0|",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
+			"dialog"			: "The voidling known as Blue, appears to be in your |C3|Loved Ones|C0| folder.",
+		},
+		{
+			"play_music"		: "tutorbot_scene_music",
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
+			"dialog"			: "It is possible to add Blue to the |C3|Loved Ones|C0| folder of This Unit.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content_cry"],
+			"dialog"			: "Thank you, Sentinel.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy_cry1"],
+			"dialog"			: "I love you, too.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
+			"dialog"			: "This Unit has plenty of room on her Heart Drive.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
+			"dialog"			: "Blue is also the favorite color of This Unit.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "What a marvelous coincidence!|L||!|Blue just so happens to be my favorite color as well.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
+			"dialog"			: "You are not angry at This Unit?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "Now, why would I be angry at you?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "It's only natural that you two would fight over me.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "There was nothing that any of us could have done to prevent it.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "I'd fight for you anytime, Blue.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_confused"],
+			"dialog"			: "Oh... This Unit also had a request for you.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "What is it, Sentinel?",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_confused"],
+			"dialog"			: "This Unit would like to play a game with you.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
+			"dialog"			: "It is a simple game.|L||!|This Unit will ask questions and you will answer them.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
+			"dialog"			: "Of course I'll play!",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
+			"dialog"			: "This Unit will come back to find you after she prepares the questions.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "I can't wait!",
+		},
+	]
+}

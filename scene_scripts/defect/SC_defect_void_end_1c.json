@@ -1,0 +1,91 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 320,
+			"text_y"			: 280,
+			"text_w"			: 580,
+			"play_music"		: "silence",
+			"bg_image"			: "spr_defect_end1_1",
+			"voice"				: "VOICE_defect",
+			"dialog"			: "I was given the power to love.",
+		},
+		{
+			"dialog"			: "It was a beautiful feeling.",
+		},
+		{
+			"dialog"			: "For a moment, I was happy.",
+		},
+		{
+			"dialog"			: "But I don't deserve that power.",
+		},
+		{
+			"dialog"			: "I don't deserve that love.",
+		},
+		{
+			"dialog"			: "I  don't   deserve    any    love.",
+		},
+		{
+			"dialog"			: "I    don't...",
+		},
+		{
+			"dialog"			: "...",
+		},
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "silence",
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "May I ask,       why do you take these Zaraden away?",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "I don't take anything that isn't given to me.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "They all chose to find me.    They all chose to become nothing.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "They all want to be here.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "Hmm.     Well, as your most beautiful spawn, I regret to inform you that I cannot allow you to take this girl away.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Do as you wish.    I will not stop you.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_cry"],
+			"dialog"			: "It does not matter what you do.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile_cry"],
+			"dialog"			: "She will be back tomorrow.|L||!|And the next day.|L||!|And the day after that.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry_cry"],
+			"dialog"			: "You cannot stop her.",
+		},
+		{
+			"bg_image"			: "spr_defect_end1_2",
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
+			"dialog"			: "We'll see about that.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
+			"dialog"			: "I will help her fix this.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
+			"dialog"			: "As many times as it takes!",
+		}
+	]
+}

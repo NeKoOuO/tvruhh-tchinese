@@ -1,0 +1,108 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_scene_raining_cave",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "\\E(2)Hello there, Little Robot.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Hello, young Zaraden.|L||!|This Unit is programmed to provide information to anyone who might need it.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "Okay!      What do you have for me?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now teach this Zaraden how to love the monsters.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "\\E(2)That is perfect!\\E(0)     I was just wondering about how to do that.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "In order to teach this Zaraden how to love the monsters, This Unit will now emulate an unloved monster.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "To accomplish this, |C3|fear|C0| must be installed onto This Unit.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now run |C3|Existential_Dread.prog|C0|",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "That doesn't sound very good.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Installing       .       .       .|L||!|Complete.|C0|",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "Are you okay?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has just installed 2,700 units of |C3|fear|C0| onto her system.",
+		},
+		{
+			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
+			"dialog"			: "|C2|Moving Happiness.prog to the Trash Folder. |!||L|Deleting the Trash Folder.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "Don't do that!",
+		},
+		{
+			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
+			"dialog"			: "|C2|Nobody loves me, but it doesn't matter because the universe is an uncaring void.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "|shake|Why would you say that?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit would like to apologize.|!||L|That was a minor side effect of having |C3|fear|C0| installed onto This Unit.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Please ignore any |C3|fear|C0| induced speech errors that may occur in the future.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "Okay...   If you say so.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Use your abilities to remove the |C3|fear|C0| that has been installed onto This Unit.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "How do I do that?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Step One:|C0| Close your eyes and think of something lovely.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "\\E(2)Easy!      What's next?",
+		},
+		{
+			"play_music"		: "silence",
+			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
+			"dialog"			: "|C3|Step Two: |C2||shake|I will feel better after hurting you!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_power"],
+			"dialog"			: "...",
+		},
+	]
+}

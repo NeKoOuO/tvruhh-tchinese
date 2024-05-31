@@ -1,0 +1,51 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "dreaming_scene_music",
+			"bg_image"			: "spr_scene_dreaming",
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "Hello there.|L||!|Welcome to |C3|Altered Story|C0| mode.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "You must be wondering who I am?",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "I'm just a friendly Abyss.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
+			"dialog"			: "You won't know much about me until the end of Early Access.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "But for now, I'm here to explain |C3|Altered Story|C0| to you.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "It's almost the same as regular story, but it can be much longer than you are used to.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "|shake|And I can make it much more difficult for you.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
+			"dialog"			: "If you want a really high score, that is.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "Every monster has a |C3|Rose Heart Medal|C0| to give to each Zaraden.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
+			"dialog"			: "Please, go and gather those up for me.",
+		},
+		{
+			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
+			"dialog"			: "May fate roll in your favor.",
+		},
+	]
+}

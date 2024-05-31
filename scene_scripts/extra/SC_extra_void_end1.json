@@ -1,0 +1,53 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 320,
+			"text_y"			: 180,
+			"text_w"			: 580,
+			"play_music"		: "silence",
+			"bg_image"			: "spr_nothing",
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|HAAhahAhaHahaHaAhahaHahAahaHaA",
+		},
+		{
+			"play_music"		: "nightmare_music_c",
+			"dialog"			: "|C2||shake|What is this sentimental nonsense?",
+		},
+		{
+			"dialog"			: "|C2||shake|The Void is not something that can be defeated.",
+		},
+		{
+			"dialog"			: "|C2||shake|Nothing matters in this world.",
+		},
+		{
+			"dialog"			: "|C2||shake|Nothing matters at all!",
+		},
+		{
+			"dialog"			: "|C2||shake|Everything you do is meaningless.",
+		},
+		{
+			"dialog"			: "|C2||shake|Everything will die.",
+		},
+		{
+			"dialog"			: "|C2||shake|Giving up is the only true peace.",
+		},
+		{
+			"dialog"			: "|C2||shake|HahAHAhaHahaaHAHahaHahAahAHaha",
+		},
+		{
+			"dialog"			: "|C2||shake|How long can she keep this up?",
+		},
+		{
+			"dialog"			: "|C2||shake|Why doesn't she just give up?",
+		},
+		{
+			"dialog"			: "|C2||shake|I   will   make   her   find   peace.",
+		},
+		{
+			"play_music"		: "silence",
+			"dialog"			: "|C2||shake|HahAHAhaHahaaHAHahaHahAahAHaha hahAHAhaHahAaHAHahaHahAahAHahA",
+		}
+	]
+}

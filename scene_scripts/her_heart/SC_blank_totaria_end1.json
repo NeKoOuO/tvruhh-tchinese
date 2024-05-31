@@ -1,0 +1,75 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 156,
+			"text_y"			: 80,
+			"text_w"			: 276,
+			"play_music"		: "silence",
+			"bg_image"			: "spr_blank_totaria_end1_1",
+			"voice"				: "VOICE_totaria",
+			"dialog"			: "|C2|She still thinks that I can be loved.",
+		},
+		{
+			"dialog"			: "|C2|I am not like the others.",
+		},
+		{
+			"dialog"			: "|C2|This power does not work on me.",
+		},
+		{
+			"dialog"			: "|C2|I will harvest her heart now while she is dreaming.",
+		},
+		{
+			"transition_type"	: 1,
+			"bg_image"			: "spr_blank_totaria_end1_2",
+			"dialog"			: "|C2||shake|AaaAaAhHH!",
+		},
+		{
+			"dialog"			: "|C2|What is this power?",
+		},
+		{
+			"bg_image"			: "spr_blank_totaria_end1_3",
+			"dialog"			: "|C2||shake|Love can't do this!",
+		},
+		{
+			"dialog"			: "|C2|This is something otherworldly!",
+		},
+		{
+			"dialog"			: "|C2|I think this heart could really be used to fix them.",
+		},
+		{
+			"dialog"			: "|C2|I need to take it!",
+		},
+		{
+			"bg_image"			: "spr_blank_totaria_end1_4",
+			"dialog"			: "|C2||shake|AaAAaaHhH!",
+		},
+		{
+			"dialog"			: "|C2||shake|I can't even touch it!",
+		},
+		{
+			"bg_image"			: "spr_blank_totaria_end1_5",
+			"dialog"			: "|C2|This is impossible.",
+		},
+		{
+			"dialog"			: "|C2|. . .",
+		},
+		{
+			"dialog"			: "|C2|The rain is slowing down.",
+		},
+		{
+			"dialog"			: "|C2|So it will be resetting any moment now.",
+		},
+		{
+			"bg_image"			: "spr_blank_totaria_end1_6",
+			"dialog"			: "|C2|It seems that I am out of time.",
+		},
+		{
+			"dialog"			: "|C2|But I know that she will come back.",
+		},
+		{
+			"dialog"			: "|C2|She always does.",
+		}
+	]
+}

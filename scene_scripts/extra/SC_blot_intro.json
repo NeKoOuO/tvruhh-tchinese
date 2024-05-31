@@ -1,0 +1,71 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "dreaming_scene_music",
+			"bg_image"			: "spr_scene_dreaming",
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+			"dialog"			: "Um... hello there.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "We are Blot!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+			"dialog"			: "Sorry for splashing all that paint on you.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+			"dialog"			: "We didn't mean it.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+			"dialog"			: "Although...",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Those colors were gorgeous on you, cutie!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "Of course, you were already so cute without it.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+			"dialog"			: "Well, anyways...",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "We want you to see our |C3|art gallery!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "It would mean so much to us if you came to visit, cutie.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+			"dialog"			: "We'll probably be in one of our moods again when you see us.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+			"dialog"			: "Sorry about that.|L||!|Thanks for being there for us all those other times.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "We hope our |C3|art gallery|C0| can help us both feel better.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "We will also give you the most colorful hug you've ever known!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|See you soon, cutie!",
+		},
+	]
+}

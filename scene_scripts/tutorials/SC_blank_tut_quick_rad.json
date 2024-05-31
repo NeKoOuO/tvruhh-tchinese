@@ -1,0 +1,58 @@
+{
+	"script"	: [
+		{
+			"use_textbox"	: 1,
+			"play_music"	: "tutorbot_scene_music",
+			"bg_image"		: "spr_tutorial_common",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit has more information about |C3|radiating Quick Gifts.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
+			"dialog"		: "I'm listening.|L||!|I'm just resting my eyes.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit will now explain |C3|radiating Quick Gifts.",
+		},
+		{
+			"show_tutorial"	: "known_quick",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Like other gift types, information about |C3|Radiated Quick Gifts|C0| will no longer appear as |C3|???|C0|",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "However, |C3|Radiated Quick Gifts|C0| also have an extra special property.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Radiated Quick Gifts|C0| will remain with you across multiple days until you choose to activate them.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "They will even remain with you through heartbreak.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "You can choose to save them as long as you want.",
+		},
+		{
+			"show_tutorial"	: "none",
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
+			"dialog"		: "...",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit will let the Zaraden sleep for now.|L||!|This information can be given to her at a later time.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
+			"dialog"		: "...hug.",
+		},
+		{
+			"love_hearts"	: 1,
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"		: "This Unit cannot escape this embrace.",
+		},
+	]
+}

@@ -1,0 +1,176 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "silence",
+			"bg_image"			: "spr_scene_raining_outside",
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+			"dialog"			: "We're sorry.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+			"dialog"			: "We were so scared.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious"],
+			"dialog"			: "Just tell me one thing.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious2"],
+			"dialog"			: "How are you-",
+		},
+		{
+			"play_music"		: "green_scene_music",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|shake|Allowed to be so pretty?",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
+			"dialog"			: "We-",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
+			"dialog"			: "Oh!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "Cutie!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "We could just melt into a puddle of paint right about now!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "There's no time for that.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "I have to go see your art gallery right now!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "Oh yeah!|!||L|It's not that far from here, cutie.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "Did you make all the art in there?",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+			"dialog"			: "We painted some of them, but we also find a lot of paintings crumpled up on the floor for some reason.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "You like painting too, right cutie?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
+			"dialog"			: "Umm... Yeah I do.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "We absolutely have room for some of your art, cutie!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
+			"dialog"			: "...",
+		},
+		{
+			"play_music"		: "silence",
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+			"dialog"			: "What's wrong, cutie?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
+			"dialog"			: "It's just...|!||L|You keep calling me cutie and-",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+			"dialog"			: "Oh!|!||L|We're so sorry, cute-|!||L|Oops.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+			"dialog"			: "You don't like it?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "It's not that, I just-",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"			: "You really think I'm cute?",
+		},
+		{
+			"play_music"		: "scene_music_b",
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
+			"dialog"			: "Cutie...",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
+			"dialog"			: "You just spent the last few minutes showing us that love is worth accepting.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+			"dialog"			: "Even if it was the most terrifying thing we had ever done.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
+			"dialog"			: "We literally saw what the inside of your soul looks like.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
+			"dialog"			: "Did you know it was the most beautiful sight we had ever seen?",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_angry"],
+			"dialog"			: "You are WAY more than just cute!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+			"dialog"			: "So please let us love you too, okay cutie?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
+			"dialog"			: "You can call me cutie.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Cutie!",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "Look! We are almost there.",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "We are so excited to show you-",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],
+			"dialog"			: "Hey, Blot.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "We love you, cutie!",
+		},
+	]
+}

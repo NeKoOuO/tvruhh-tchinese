@@ -1,0 +1,213 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 320,
+			"text_y"			: 180,
+			"text_w"			: 480,
+			"play_music"		: "dreaming_scene_music",
+			"bg_image"			: "spr_scene_dreaming",
+			"voice"				: "VOICE_static",
+			"dialog"			: "Please don't give up!",
+		},
+		{
+			"dialog"			: "It's going to get so much harder, but I know you can do this!",
+		},
+		{
+			"dialog"			: "Please,     just don't give up.",
+		},
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 156,
+			"text_y"			: 80,
+			"text_w"			: 276,
+			"play_music"		: "scene_music_a",
+			"bg_image"			: "spr_blank_intro_wake_up1",
+			"voice"				: "VOICE_blank",
+			"dialog"			: "I won't!",
+		},
+		{
+			"transition_type"	: 1,
+			"bg_image"			: "spr_blank_intro_wake_up2",
+			"dialog"			: ". . .",
+		},
+		{
+			"dialog"			: "It's still dark outside.",
+		},
+		{
+			"transition_type"	: 0,
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 144,
+			"text_y"			: 224,
+			"text_w"			: 256,
+			"play_music"		: "silence",
+			"bg_image"			: "spr_blank_intro_raining",
+			"dialog"			: "It's raining again.",
+		},
+		{
+			"dialog"			: "Little Robot was wrong.",
+		},
+		{
+			"dialog"			: ". . .",
+		},
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_scene_raining_cave",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry2"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has located the young Zaraden.|L|She was not at the usual location.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit was about to activate panic mode.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry2"],
+			"dialog"			: "It's still raining today.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
+			"dialog"			: "You said it would stop.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Update:|C0| This Unit had calculated the correct probability of rain. However, she also discovered an anomaly.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Approximately 4 hours into the day cycle, This Unit calculated a sudden jump from 0.01% to 100% probability of rain.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Current atmospheric readings indicate a 0.01% chance of rain tomorrow.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Hypothesis:|C0| The rain is being manipulated by an unknown force.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry2"],
+			"dialog"			: "So the rain was going to stop,   but then something made it keep going?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
+			"dialog"			: "And this is happening every single day?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "That is the working hypothesis of This Unit.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_despair_cry"],
+			"dialog"			: "Then it's hopeless?|L||!|The rain will never end?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
+			"dialog"			: "Why even go out there again?|L|They're just going to forget about me tomorrow.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This rain may be related to the memory loss of the monsters.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
+			"dialog"			: "It doesn't matter.|L||!|We can't do anything about it.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has met this young Zaraden on over 140 different days. She has given up exactly 0 times in all of those days.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
+			"dialog"			: "But I couldn't remember-",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The young Zaraden has overcome the memory loss. It is possible that the monsters can overcome as well.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "It is possible that the young Zaraden can still help the monsters.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This young Zaraden now has the advantage of retaining knowledge from previous attempts.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit believes that we can find the source of this rain.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],
+			"dialog"			: "We can do this.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
+			"dialog"			: "I wonder how I was suddenly able to keep my memory.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has no data on this phenomenon.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "However, This Unit did note that the heart of the young Zaraden was radiating more light than on any previous day.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "That glow has persisted through every following day.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "It does feel warmer.|L|Even more than before the rain.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "Little Robot-",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "You taught me how to use my love powers every single day even though you knew I would forget?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "That is correct.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "You are the best!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "I can't give up on the monsters either!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit is relieved that the Zaraden is feeling better.",
+		}
+	]
+}

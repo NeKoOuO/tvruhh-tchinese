@@ -1,0 +1,63 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "creepy_scene_music",
+			"bg_image"			: "spr_scene_darkness",
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Have you come here to give me your heart?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "No. I actually need my heart right now, but |wave|I've come here to share my love with you!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "I'm feeling a little cold.    |L|Is it getting colder?    |L|You want a hug to warm up?",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Ah yes, the one who tries to love me.|L||!|You've come back once again.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "I see your heart is glowing more brightly than ever before.|L||!|That will not matter.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "Have we met before?",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Why do you resist?|L||!|I know you are in pain.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "I'm actually feeling extraordinarily okay right now!",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Look at your wings.|L||!|You cannot fly.|L||!|You must feel worthless.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Simply give me your heart, and the loneliness will end.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "All the other monsters seem to prefer love over whatever they were feeling before.|L||!|Maybe we can try that first?",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
+			"dialog"			: "Zaraden girl,   I am incapable of love.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
+			"dialog"			: "|shake|I am nothing!|L||!|I feel    nothing!|L||!|I AM THE VOID!",
+		}
+	]
+}

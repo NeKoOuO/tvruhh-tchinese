@@ -1,0 +1,175 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 320,
+			"text_y"			: 180,
+			"text_w"			: 480,
+			"play_music"		: "dreaming_scene_music",
+			"bg_image"			: "spr_scene_dreaming",
+			"voice"				: "VOICE_static",
+			"dialog"			: "Remember!",
+		},
+		{
+			"dialog"			: "Somebody always loves you.",
+		},
+		{
+			"dialog"			: "Please don't give up.",
+		},
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 156,
+			"text_y"			: 80,
+			"text_w"			: 276,
+			"play_music"		: "scene_music_a",
+			"bg_image"			: "spr_blank_intro_wake_up1",
+			"voice"				: "VOICE_blank",
+			"dialog"			: "I won't give up!",
+		},
+		{
+			"dialog"			: ". . .",
+		},
+		{
+			"dialog"			: "That dream again?",
+		},
+		{
+			"transition_type"	: 1,
+			"bg_image"			: "spr_blank_intro_wake_up2",
+			"dialog"			: "No.    That was not a dream.",
+		},
+		{
+			"dialog"			: "I can remember the past few days now.",
+		},
+		{
+			"dialog"			: "But the monsters will have forgotten about me.",
+		},
+		{
+			"dialog"			: ". . .",
+		},
+		{
+			"dialog"			: "I'll go check outside.",
+		},
+		{
+			"transition_type"	: 0,
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 144,
+			"text_y"			: 224,
+			"text_w"			: 256,
+			"bg_image"			: "spr_blank_intro_raining",
+			"dialog"			: "It's raining again.",
+		},
+		{
+			"dialog"			: "This is not natural.",
+		},
+		{
+			"dialog"			: "It has been raining for much too long.",
+		},
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_scene_raining_cave",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"			: "Hello, Little Robot.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Hello young Zaraden.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has detected an unusual expression from the young Zaraden.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"			: "I don't feel so good.|L||!|I love the rain, but this is just too much.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"			: "It feels like it will never end.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "And I don't do so well when the thunder starts.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Astraphobia is quite common among Zaraden.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Hold both of your antennae with your hands after seeing a lightning bolt.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This will dampen the perceived volume of the following thunder.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "Thanks, Little Robot.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "Do you know how long ago this rain started?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now search her memory to determine the amount of days that have passed since the rain began.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Searching       .       .       .|C0|",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Complete:|C0| 148 days.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "|shake|A hundred and forty what!?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "A hundred     and     forty-eight        days.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has determined, by your expression, that 148 consecutive days of rain is an unusually long amount of time.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "I thought it would be 10 days or something.|L|148 days is just impossible!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
+			"dialog"			: "That is so much time, and I don't remember most of it.|L||!|It's a little scary.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Update:|C0| Through the use of atmospheric readings, This Unit has calculated a 0.01% chance of rain by tomorrow morning.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
+			"dialog"			: "So the rain will stop tomorrow?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The probability of rain occuring tomorrow is nearly zero.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
+			"dialog"			: "That is so good to hear.|L||!|Thank you for doing that for me.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry2"],
+			"dialog"			: "|wave|I love you, Little Robot!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit is feeling immense joy.",
+		}
+	]
+}

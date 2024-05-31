@@ -1,0 +1,158 @@
+{
+	"script" : [
+		{
+			"use_textbox"	: 1,
+			"play_music"	: "tutorbot_scene_music",
+			"bg_image"		: "spr_tutorial_common",
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"		: "|wave|Little Robot.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"		: "I've met so many new monsters!",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"		: "They've given me gifts that I've never seen before.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "It appears that this Zaraden has been |C3|fulfilling her dreams.|C0|",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"		: "Yeah! I guess so.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"		: "I've never really had friends like all of you before.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"		: "Except...",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
+			"dialog"		: "Uhh, nevermind.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit now requires several backup storage devices for all the love this Zaraden has shown her.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"		: "|wave|You're welcome.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "As This Unit has stated before, the dreams of this Zaraden are very powerful.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Suggestion:|C0| Continue to affect the world by |C3|fulfilling your dreams.|C0|",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"		: "That's     a strange way to put it.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "That was not a metaphorical statement.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"		: "What?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Question:|C0| Has this Zaraden noticed all of the new monsters and gifts that have appeared?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Many of these are new to This Unit.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"		: "So we've never seen them?|!||L|Not even when I couldn't remember anything?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "That is correct.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Whether conscious or not, the heart of this Zaraden has a |C3|list of dreams|C0| that she wishes to fulfill.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Fulfilling dreams|C0| is attracting new monsters and changing the behaviors of others.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"		: "How is that even possible?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit does not have any explanation for this phenomenon.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "It is possible that |C3|fulfilling dreams|C0| can lead to a solution for the endless rain.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"		: "So, I'll just do whatever my heart desires?",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"		: "Sounds like a great plan to me!",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "All of the monsters have their own |C3|dreams to fulfill|C0| as well.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Monsters that this Zaraden has loved before will have shared their dreams with you.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"		: "|wave|I can help them with their dreams too.",
+		},
+		{
+			"show_tutorial"	: "monster_dreams",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "These icons will appear next to monsters that have any |C3|unfulfilled dreams.|C0|",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Suggestion:|C0| Use the |C3|Check Heart|C0| option to view the |C3|Dream List.|C0|",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "You can check the dreams of each monster before you battle them.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Simply knowing their dreams is a vital step to fulfilling them.",
+		},
+		{
+			"show_tutorial"	: "none",
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"		: "Can you guess what my dream is right now?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Looking at the trends in past data, it is almost certainly to interrupt This Unit with-",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"		: "|wave|I love you.",
+		},
+		{
+			"love_hearts"	: 1,
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"		: "This Unit dreams of an infinite storage device.",
+		}
+	]
+}

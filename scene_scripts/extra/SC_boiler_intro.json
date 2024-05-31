@@ -1,0 +1,71 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "dreaming_scene_music",
+			"bg_image"			: "spr_scene_dreaming",
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "Oh,   uh,   hello.|L||!|Dis is a Zaraden dream, yis?",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "We are Boiler.",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "We look a little different now, yis?",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "We are sorry about dis thing with fire.|L||!|...And trying to burn you with it.",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "We were just scared.",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "But we want to help you now.",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+			"dialog"			: "We can share with you our powerful |C3|link synapse.",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "You just have to...   love us?    Again?       Yis?",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "Our |C3|link synapse|C0| is a portal to another time.|L||!|We set dis time to be every single morning.",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "You can give us your gifts and we will put dem in our |C3|link synapse.|C0|",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "You can pick up dis gifts at the start of any day.",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "You can have spicy powers before dis first battle!",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "You can also choose to leave dis gifts in our |C3|link synapse.|C0|",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "You can save dis gifts until you have an |C3|ultra spicy gift combo!",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "But,  uh...   actually, be very careful with fire, yis?",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "We want to see you safe, okee?",
+		}
+	]
+}

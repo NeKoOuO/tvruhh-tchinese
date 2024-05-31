@@ -1,0 +1,132 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "creepy_scene_music",
+			"bg_image"			: "spr_scene_darkness",
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Zaraden girl, you came back to see me again?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "Yes I did!",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
+			"dialog"			: "It seems that your attempts at showing me love have had an effect on me after all.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|That is wonderful.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "I have only ever taken hearts that were given to me.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "No one would want to give me their heart unless they were in constant, unbearable pain.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "That means every single heart that I have is either empty or broken.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "You see, I was not meant to experience love.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "I was meant to take the pain away from others.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious"],
+			"dialog"			: "Because you love them?",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
+			"dialog"			: "I suppose you could say that.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "I can feel that you are in constant pain, and yet    you radiate more love than I have ever felt before.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "How can this be?|L||!|You have completely changed my understanding of Zaraden emotion.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
+			"dialog"			: "I have come to realize that every single heart has pain in it.",
+		},
+		{
+			"play_music"		: "nightmare_music_c",
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
+			"dialog"			: "|C2||shake|So I will have to take them all myself!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "I don't like this!",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
+			"dialog"			: "|C2|What's wrong?|L||!|Don't you want to share your love with all the hearts that The Void has taken?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
+			"dialog"			: "Not like that!",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
+			"dialog"			: "|C2|Then how about sharing it with the ones that I have taken?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
+			"dialog"			: "What?",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_normal"],
+			"dialog"			: "|C2|Zaraden have done such horrible things to each other in the past.",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_normal"],
+			"dialog"			: "|C2|And they continue to do so even now.",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
+			"dialog"			: "|C2|They live high up in their towers while wingless like you struggle to survive down here!",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
+			"dialog"			: "|C2|Look at what they did to you!|L||!||shake|They left you here to die!",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
+			"dialog"			: "|C2|You are angry about this.|L|I can feel it!",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
+			"dialog"			: "|C2|You want to hurt them like they hurt you!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_despair_cry"],
+			"dialog"			: "Who are you?! Where did The Void go?",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
+			"dialog"			: "|C2|My hearts aren't just broken, they are furious!|L||!|They want vengeance!",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
+			"dialog"			: "|C2||shake|I am less than nothing!|L||!|I feel    hatred!|L||!|I AM TOTARIA!",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
+			"dialog"			: "|C2||shake|HahAahaHaAhahAhaHAhaAhahHahaHAhAhaA",
+		}
+	]
+}

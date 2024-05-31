@@ -1,0 +1,68 @@
+{
+	"script"	: [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 320,
+			"text_y"			: 180,
+			"text_w"			: 580,
+			"play_music"		: "silence",
+			"bg_image"			: "spr_nothing",
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|Why?|!| Why?|!| Why?!|!| WHY?!",
+		},
+		{
+			"play_music"		: "nightmare_music_c",
+			"dialog"			: "|C2||shake|Why doesn't she just give up?",
+		},
+		{
+			"dialog"			: "|C2||shake|Why can't I make her STOP?!",
+		},
+		{
+			"dialog"			: "|C2||shake|Why does she continue trying?!",
+		},
+		{
+			"dialog"			: "|C2||shake|I do not understand!",
+		},
+		{
+			"dialog"			: "|C2||shake|She is in CONSTANT     PAIN!",
+		},
+		{
+			"dialog"			: "|C2||shake|...",
+		},
+		{
+			"dialog"			: "|C2||shake|This is your fault, isn't it?",
+		},
+		{
+			"dialog"			: "|C2||shake|You did this to her!",
+		},
+		{
+			"dialog"			: "|C2||shake|You make her persist when she should have given up long ago!",
+		},
+		{
+			"dialog"			: "|C2||shake|Do you know what you have done?!",
+		},
+		{
+			"dialog"			: "|C2||shake|Do you realize what she is?",
+		},
+		{
+			"dialog"			: "|C2||shake|SHE CAN      NOT      FLY!",
+		},
+		{
+			"dialog"			: "|C2||shake|This world has deemed her WORTHLESS!",
+		},
+		{
+			"dialog"			: "|C2||shake|But YOU      think she is worth something?",
+		},
+		{
+			"dialog"			: "|C2||shake|You have only prolonged her suffering.",
+		},
+		{
+			"dialog"			: "|C2||shake|Who is the REAL MONSTER here?!",
+		},
+		{
+			"play_music"		: "silence",
+			"dialog"			: "|C2||shake|HahAHAhaHahaaHAHahaHahAahAHaha hahAHAhaHahAaHAHahaHahAahAHahA",
+		}
+	]
+}

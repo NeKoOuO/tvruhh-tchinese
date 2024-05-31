@@ -1,0 +1,84 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "creepy_scene_music",
+			"bg_image"			: "spr_scene_darkness",
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Have you come here to give me your heart?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "Do you remember me?",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
+			"dialog"			: "So you have your memory now?|L||!|Now you know that I cannot be loved.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "Why does everyone forget every day?",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "So many Zaraden have given me their hearts since the rain began.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Unsurprisingly, no matter how many I get, they never fill me up.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
+			"dialog"			: "I am The Void after all.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
+			"dialog"			: "I don't know why that is happening, but I am glad that you have your memory now.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
+			"dialog"			: "Now you can see how pointless it is to try!",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
+			"dialog"			: "Why go on feeling anything when all you can feel is pain and loneliness!",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
+			"dialog"			: "Don't try to love me!|L||!|I can't be loved!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
+			"dialog"			: "Don't talk like that!|L||!|I can help you feel loved.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
+			"dialog"			: "Everyone deserves to feel loved!",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_cry"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile_cry"],
+			"dialog"			: "Zaraden girl, you came to find me again even though you don't want to give me your heart?",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry_cry"],
+			"dialog"			: "That is a lie!",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry_cry"],
+			"dialog"			: "You know that I can end your pain!|L||!|That is why you are here!|L||!|You are lying to yourself!",
+		},
+		{
+			"play_music"		: "silence",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious2"],
+			"dialog"			: "We are both liars.",
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_scene_raining_outside",
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now prepare questions for you.|L||!|This will take an undetermined amount of time.",
+		},
+		{
+			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
+			"dialog"			: "This Unit may detonate from excitement.|L|Remember her fondly when she explodes.",
+		},
+	]
+}

@@ -1,0 +1,181 @@
+{
+	"script"	: [
+		{
+			"use_textbox"	: 1,
+			"play_music"	: "silence",
+			"bg_image"		: "spr_tutorial_common",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Wake up, young Zaraden.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
+			"dialog"		: "...",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "...",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit has acquired new information for you.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
+			"dialog"		: "Trees... can be scary...",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"		: "|shake|Huh!     |norm|I'm awake!",
+		},
+		{
+			"play_music"	: "tutorbot_scene_music",
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"		: "Oh sorry.      Little Robot?|!||L|What are you doing here so early?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit has acquired new information for you.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"		: "Okay, what is it?",
+		},
+		{
+			"show_tutorial"	: "all_tetrids",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit will now explain |C3|tetrids.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "All unloved monsters are currently suffering from an affliction known as |C3|fear.|C0|",
+		},
+		{
+			"show_tutorial"	: "all_motes",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Tetrid motes|C0| are formed when |C3|fear|C0| is crystallized within a monster.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"		: "Is that what those |C3|shiny little flakes|C0| that fall off of the monsters are called?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "That is correct.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "The heart of this Zaraden has the ability to extract those |C3|motes|C0| from a monster.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Each type of monster will drop a certain color of |C3|tetrid motes|C0| when they are loved.",
+		},
+		{
+			"show_tutorial"	: "purple_motes",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Example:|C0| Monsters of the |C3|Veyeral|C0| type will always have |C3|purple motes.",
+		},
+		{
+			"show_tutorial"	: "all_tetrids_and_motes",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "The heart will automatically refine these |C3|motes|C0| into powerful |C3|tetrids|C0| of the same color.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"		: "|wave|That is wonderful.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"		: "But,    what do I do with those?",
+		},
+		{
+			"show_tutorial"	: "none",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit will now explain how to |C3|radiate gifts and monsters.",
+		},
+		{
+			"show_tutorial"	: "unknown_cards",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "When you love a new monster or receive a new gift, they will be added to the |C3|Collection Menu.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "At this point, you will still forget that particular gift or monster every time you wake up.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
+			"dialog"		: "I am...     having trouble...     remembering... things.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "If you have enough of the correct |C3|tetrids,|C0| then you can |C3|radiate a card in the Collection menu.",
+		},
+		{
+			"show_tutorial"	: "known_cards",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Information about a gift or monster will no longer appear as |C3|???|C0| after it has been radiated.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "The resulting flash should burn the memory of that object into your brain permanently.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
+			"dialog"		: "Shiny.     Burn.     Got it.",
+		},
+		{
+			"show_tutorial"	: "none",
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
+			"dialog"		: "...",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "The radiation flash should also fully wake the young Zaraden.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"		: "|shake|I'm awake!",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"		: "Hey Little Robot,     where are you getting this advice from?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit has always had this information in her memory.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit is programmed to dispense information at the optimal time.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
+			"dialog"		: "And you chose to wake me up and tell me now?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"		: "That is correct.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"		: "|wave|Thank you.|norm||!||L|I like waking up early.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"		: "This Unit was afraid that she had upset you.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"		: "Of course not.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"		: "|wave|I love you.",
+		},
+		{
+			"love_hearts"	: 1,
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"		: "This Unit will now collapse into flames.",
+		}
+	]
+}

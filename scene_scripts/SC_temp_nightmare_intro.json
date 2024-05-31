@@ -1,0 +1,39 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "dreaming_scene_music",
+			"bg_image"			: "spr_scene_dreaming",
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "So you've made it this far?",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|This makes Solara very happy!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
+			"dialog"			: "You may have noticed there are still missing things.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
+			"dialog"			: "The stories that aren't there.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
+			"dialog"			: "You don't even know Solara.",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
+			"dialog"			: "But the stories are coming!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
+			"dialog"			: "They are being finished now!|L||!|You will finally know Solara!",
+		},
+		{
+			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|Anyways,|norm| Solara wishes you happy times in the Endless Nightmare!",
+		},
+	]
+}

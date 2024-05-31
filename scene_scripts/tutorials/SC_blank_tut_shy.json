@@ -1,0 +1,80 @@
+{
+	"script" : [
+		{
+			"use_textbox"	: 1,
+			"play_music"	: "tutorbot_scene_music",
+			"bg_image"		: "spr_tutorial_common",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit must interrupt your current dream sequence with important information.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit will now explain the unique rules of a |C3|shy battle.|C0|",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "During a |C3|shy battle,|C0| the monster will send out many small minions to attack you.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "If the |C3|shy monster|C0| is absent at the start of the battle, you must lure her out by showing love to her minions first.",
+		},
+		{
+			"show_tutorial"	: "combo_bar6",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Shy monsters will always hold the |C3|love combo|C0| by turning it green.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Inflicting continuous love is not necessary to hold the combo while it is green.",
+		},
+		{
+			"show_tutorial"	: "combo_bar7",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Instead, a green combo will only drop if a |C3|minion escapes without receiving love.|C0|",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Shy monster minions will often attempt to |C3|escape the arena|C0| as they attack.",
+		},
+		{
+			"show_tutorial"	: "combo_bar8",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "To achieve a |C3|full combo,|C0| you must not allow any minions to escape.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Suggestion:|C0| Never let any minions escape.",
+		},
+		{
+			"show_tutorial"	: "none",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "As a reminder, |C3|charged attacks|C0| are very effective at inflicting high amounts of love in a quick burst.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Breaking parts and loving minions will also |C3|refill a portion of charge energy.|C0|",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Suggestion:|C0| Use many charged attacks during shy battles to ensure that no one escapes from your love.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "That is all the information on |C3|shy battles|C0| that This Unit has for you.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit wishes you good luck in this |C3|shy battle.|C0|",
+		},
+		{
+			"love_hearts"	: 1,
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"		: "This Unit is experiencing a sudden rise in temperature.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"		: "This Unit had a 0% chance of escape.",
+		}
+	]
+}

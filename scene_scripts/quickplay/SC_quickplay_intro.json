@@ -1,0 +1,82 @@
+{
+	"script" : [
+		{
+			"use_textbox"	: 1,
+			"play_music"	: "tutorbot_scene_music",
+			"bg_image"		: "spr_tutorial_common",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Young Zaraden,     it seems that some of the monsters have prepared a game for you.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"		: "A game?    What kind of game?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "It is called |C3|Quickplay.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"		: "|wave|That sounds like fun!|norm| How do I play?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit will now explain |C3|Quickplay.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "In |C3|Quickplay,|C0| you can love any monster whenever you want.|!| Provided you have |C3|radiated|C0| their card.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "You can also use any |C3|radiated Power Gifts|C0| to help you love them.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Get high scores from the monsters to earn |C3|medals|C0| and |C3|level up.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "As you |C3|level up,|C0| you will be able to |C3|equip more Power Gifts|C0| for each battle.",
+		},
+		{
+			"play_music"	: "silence",
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
+			"dialog"		: ".  .  .",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit is detecting an error in your expression.",
+		},
+		{
+			"play_music"	: "scene_music_b",
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
+			"dialog"		: "They want me to love them all over again?",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Error resolved.    |L|Tears of joy detected.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry2"],
+			"dialog"		: "Hey, Little Robot-",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
+			"dialog"		: "|wave|I love you.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Suggestion:|C0| Give This Unit a hug.",
+		},
+		{
+			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
+			"dialog"		: "You got it.",
+		},
+		{
+			"love_hearts"	: 1,
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"		: "Hugging complete.",
+		},
+	]
+}

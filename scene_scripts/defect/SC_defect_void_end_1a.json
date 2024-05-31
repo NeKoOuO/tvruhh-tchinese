@@ -1,0 +1,96 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "silence",
+			"bg_image"			: "spr_scene_darkness",
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Why do you resist?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Everything is alright.|L||!|You are not alone anymore.|L||!|I am here for you.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Come here,      be nothing with me.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "...I uh-",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "You have come all this way.|L||!|Do you wish to become nothing?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_pain"],
+			"dialog"			: "|shake|No!",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
+			"dialog"			: "No,      I don't want that.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "Then    why are you here?",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "I    don't know.",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
+			"dialog"			: "You are in pain.    I know this.|L||!|That is the only reason anyone would look for me.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry1"],
+			"dialog"			: "Maybe a little,    but that's not why...",
+		},
+		{
+			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
+			"dialog"			: "|shake|You are alone.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry2"],
+			"dialog"			: "...",
+		},
+		{
+			"play_music"		: "nightmare_music_c",
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
+			"dialog"			: "|C2||shake|Nobody loves you!",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry3"],
+			"dialog"			: "That's not true!    |shake|Stop it!",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
+			"dialog"			: "|C2||shake|It is true!",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
+			"dialog"			: "|C2||shake|You are a monster!",
+		},
+		{
+			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
+			"dialog"			: "|C2||shake|You were left here to DIE!",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry3"],
+			"dialog"			: "|shake|Stop it! Stop it! Stop it!",
+		},
+		{
+			"character"			: ["VOICE_red", "CHAR_totaria_right", "MOOD_smile"],
+			"dialog"			: "|C2||shake|HahAahaHaAhahAhaHAhaAhahHahaHAhAhaA",
+		}
+	]
+}

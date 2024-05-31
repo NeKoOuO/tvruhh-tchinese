@@ -1,0 +1,97 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 144,
+			"text_y"			: 80,
+			"text_w"			: 256,
+			"play_music"		: "scene_music_a",
+			"bg_image"			: "spr_defect_intro1_1",
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|This is the story of a young Zaraden woman.",
+		},
+		{
+			"dialog"			: "|C1|She lived in a cave far away from anyone.",
+		},
+		{
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|Zaraden are supposed to have wings.",
+		},
+		{
+			"dialog"			: "|C2||shake|Her wings are defective!",
+		},
+		{
+			"dialog"			: "|C2||shake|Her eyes are defective!",
+		},
+		{
+			"dialog"			: "|C2||shake|Her heart?     |L|DEFECTIVE!",
+		},
+		{
+			"dialog"			: "|C2||shake|No!     This thing is a monster in disguise.",
+		},
+		{
+			"bg_image"			: "spr_defect_intro1_2",
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|She had lived in the cave for far too long.",
+		},
+		{
+			"dialog"			: "|C1|The monsters became too much for her.",
+		},
+		{
+			"dialog"			: "|C1|Her heart was torn to pieces.",
+		},
+		{
+			"bg_image"			: "spr_defect_intro1_3",
+			"dialog"			: "|C1|The Void had come to take her.",
+		},
+		{
+			"dialog"			: "|C1|She had given up.",
+		},
+		{
+			"dialog"			: "|C1|She was ready to surrender.",
+		},
+		{
+			"bg_image"			: "spr_defect_intro1_4",
+			"dialog"			: "|C1|But then she saw something miraculous.",
+		},
+		{
+			"dialog"			: "|C1|A wave of radiant light pulsated throughout The Void.",
+		},
+		{
+			"dialog"			: "|C1|The Void disintegrated right before her.",
+		},
+		{
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|That fool rejected the ultimate gift.",
+		},
+		{
+			"bg_image"			: "spr_defect_intro1_5",
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|She had experienced a new feeling.",
+		},
+		{
+			"dialog"			: "|C1|It was unlike anything she had ever felt before.",
+		},
+		{
+			"dialog"			: "|C1|Her heart began to repair itself.",
+		},
+		{
+			"dialog"			: "|C1||wave|It was love!",
+		},
+		{
+			"dialog"			: "|C1|But it was too much for her alone.",
+		},
+		{
+			"dialog"			: "|C1||wave|She just had to share it with all the monsters.",
+		},
+		{
+			"play_music"		: "silence",
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|Why would they want her defective love?",
+		},
+		{
+			"dialog"			: "|C2||shake|HAAhahAhaHaha HAahAhahaHAha haHAhaHaHaha hahAahaHaAhaa",
+		}
+	]
+}

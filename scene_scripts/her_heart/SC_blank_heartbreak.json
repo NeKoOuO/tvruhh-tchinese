@@ -1,0 +1,32 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 154,
+			"text_y"			: 96,
+			"text_w"			: 272,
+			"play_music"		: "game_over_music",
+			"bg_image"			: "spr_blank_heartbreak",
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|Her heart was broken.",
+		},
+		{
+			"dialog"			: "|C1|But it was not the first time.",
+		},
+		{
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|There are so many cracks on it.",
+		},
+		{
+			"dialog"			: "|C2||shake|Nobody could love such an ugly heart.",
+		},
+		{
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|But she would repair it again.",
+		},
+		{
+			"dialog"			: "|C1|She always did.",
+		}
+	]
+}

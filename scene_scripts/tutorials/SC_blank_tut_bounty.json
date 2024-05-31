@@ -1,0 +1,85 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_tutorial_common",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has just discovered a new rare type of gift.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "They have rare ones for me now?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now explain |C3|Bounty Gifts.",
+		},
+		{
+			"show_tutorial"		: "small_bounty_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Monsters will now rarely have |C3|Bounty Gifts|C0| for you.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Having more |C3|karma|C0| will increase the chance of finding them.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Unlike all other gift types, |C3|Bounty Gifts|C0| are actually received before the battle starts.",
+		},
+		{
+			"show_tutorial"		: "example_bounty_card",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The effects of a |C3|Bounty Gift|C0| will only apply to that battle.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Bounty Gifts|C0| will always increase the amount of motes you extract.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "I can get a better score with this!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "That is correct.",
+		},
+		{
+			"show_tutorial"		: "small_red_bounty_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "There is also a second type of |C3|Bounty Gift.|C0|",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Burdened Bounty Gifts|C0| will also increase your score.",
+		},
+		{
+			"show_tutorial"		: "example_red_bounty_card",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "However, they will also provide you with a negative burden effect.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This burden effect will still only apply for a single battle.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Be extra careful when choosing a monster with a |C3|Burdened Bounty Gift.|C0|",
+		},
+		{
+			"show_tutorial"		: "none",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "I'm already taking on their burdens.|L|What is the harm in taking one more?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"			: "This Unit is burdened with extreme temperature malfunctions.",
+		}
+	]
+}

@@ -1,0 +1,76 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_tutorial_common",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has detected a new type of |C3|gift.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "A new type of |C3|gift?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now explain |C3|Bonus Gifts.",
+		},
+		{
+			"show_tutorial"		: "small_bonus_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Some monsters will have extra |C3|Bonus Gifts|C0| to give you in addition to their |C3|Power Gifts.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Having more |C3|karma|C0| will increase the chance of receiving |C3|Bonus Gifts|C0| from monsters.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Like Power Gifts, |C3|Bonus Gifts|C0| will automatically take effect when you receive them.",
+		},
+		{
+			"show_tutorial"		: "example_bonus_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "However, |C3|Bonus Gifts|C0| have much simpler or exhaustible effects when compared to Power Gifts.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Bonus Gifts|C0| can also be received multiple times.",
+		},
+		{
+			"show_tutorial"		: "gift_preview_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "There will be a |C3|preview|C0| of each monster's |C3|gifts|C0| when selecting one to love.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Carefully examine the |C3|gifts|C0| that each monster will give you when choosing which one to love.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "Choose them for their gifts?",
+		},
+		{
+			"show_tutorial"		: "none",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has determined, by your expression, that this phrasing was insensitive.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This has been noted for future reference.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "It's okay, Little Robot.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"			: "At this rate, This Unit will have to install a new cooling fan.",
+		}
+	]
+}

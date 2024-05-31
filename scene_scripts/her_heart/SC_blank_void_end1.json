@@ -1,0 +1,117 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 320,
+			"text_y"			: 180,
+			"text_w"			: 580,
+			"play_music"		: "silence",
+			"bg_image"			: "spr_nothing",
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|There was no warmth.",
+		},
+		{
+			"dialog"			: "|C1|There was no love.",
+		},
+		{
+			"dialog"			: "|C1|There was nothing.",
+		},
+		{
+			"dialog"			: "|C1|The Void had come for her once again.",
+		},
+		{
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|She should have surrendered to The Void.",
+		},
+		{
+			"dialog"			: "|C2||shake|There would be no more pain.",
+		},
+		{
+			"dialog"			: "|C2||shake|No more existence as such a horrid creature.",
+		},
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 154,
+			"text_y"			: 80,
+			"text_w"			: 272,
+			"play_music"		: "scene_music_b",
+			"bg_image"			: "spr_blank_end1_1",
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|But she refused.",
+		},
+		{
+			"dialog"			: "|C1|She had gained so much love.",
+		},
+		{
+			"dialog"			: "|C1|Her heart began to glow.",
+		},
+		{
+			"bg_image"			: "spr_blank_end1_2",
+			"dialog"			: "|C1|All the love could not be contained.",
+		},
+		{
+			"dialog"			: "|C1|Her heart grew brighter.",
+		},
+		{
+			"dialog"			: "|C1|The darkness was being pushed away.",
+		},
+		{
+			"bg_image"			: "spr_blank_end1_3",
+			"dialog"			: "|C1|Love erupted brilliantly from her heart.",
+		},
+		{
+			"dialog"			: "|C1|The entirety of The Void was illuminated.",
+		},
+		{
+			"dialog"			: "|C1|The Void was completely filled with love.",
+		},
+		{
+			"dialog"			: "|C1|A filled void can not exist.",
+		},
+		{
+			"dialog"			: "|C1|It was completely erased away.",
+		},
+		{
+			"bg_image"			: "spr_blank_end1_4",
+			"dialog"			: "|C1|She could finally go outside again.",
+		},
+		{
+			"dialog"			: "|C1|She could feel the grass again.",
+		},
+		{
+			"dialog"			: "|C1|She could see the flowers again.",
+		},
+		{
+			"dialog"			: "|C1||wave|She could feel loved again.",
+		},
+		{
+			"bg_image"			: "spr_blank_end1_5",
+			"dialog"			: "|C1|But it was only temporary.",
+		},
+		{
+			"dialog"			: "|C1|The monsters would forget her by morning.",
+		},
+		{
+			"dialog"			: "|C1|They always did.",
+		},
+		{
+			"bg_image"			: "spr_blank_end1_6",
+			"dialog"			: "|C1|The Void would come back for her.",
+		},
+		{
+			"dialog"			: "|C1|It always did.",
+		},
+		{
+			"bg_image"			: "spr_blank_end1_7",
+			"dialog"			: "|C1|But she would continue trying.",
+		},
+		{
+			"dialog"			: "|C1|She would not give up.",
+		},
+		{
+			"dialog"			: "|C1|She will find a way out.",
+		}
+	]
+}

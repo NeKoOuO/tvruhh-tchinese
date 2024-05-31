@@ -1,0 +1,109 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_tutorial_common",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "Little Robot!    The monsters |wave|really love me!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "I feel so loved right now.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit is feeling immense joy for the young Zaraden.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit has also acquired new information for you.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "Okay!    I'm listening.",
+		},
+		{
+			"show_tutorial"		: "karma_ring",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now explain |C3|karma.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Monsters will give you |C3|karma|C0| when they are loved.",
+		},
+		{
+			"show_tutorial"		: "karma_power_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Having |C3|karma|C0| increases the chance of receiving |C3|higher rank gifts|C0| from monsters.",
+		},
+		{
+			"show_tutorial"		: "four_monster_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Having |C3|karma|C0| also increases the chance of having up to four monsters to choose from.",
+		},
+		{
+			"show_tutorial"		: "monster_preview_karma",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Loving |C3|higher level monsters|C0| will often result in more |C3|karma.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Always choose the highest level monster in order to |C3|maximize karma.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "That    might be a little too hard to do.",
+		},
+		{
+			"show_tutorial"		: "none",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Update:|C0| It occurs to This Unit that you may not have fully developed your skill yet.",
+		},
+		{
+			"show_tutorial"		: "karma_power_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "It is true that loving stronger monsters will result in more |C3|karma|C0| and thus |C3|better gifts.",
+		},
+		{
+			"show_tutorial"		: "higher_level_monsters",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "However, loving stronger monsters will also lead to |C3|higher level monsters|C0| in future stages.",
+		},
+		{
+			"show_tutorial"		: "lower_level_monsters",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Likewise, loving weaker monsters will lead to |C3|lower level monsters|C0| in future stages.",
+		},
+		{
+			"show_tutorial"		: "none",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Ignore the previous suggestion.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Revised Suggestion:|C0| Always choose your battles carefully.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "So I have control over how tough the battles get?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Precisely.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "There is only one thing I have to say about that.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"			: "This Unit is beginning to detect a pattern.",
+		}
+	]
+}

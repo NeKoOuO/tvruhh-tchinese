@@ -1,0 +1,101 @@
+{
+	"script" : [
+		{
+			"use_textbox"	: 1,
+			"play_music"	: "tutorbot_scene_music",
+			"bg_image"		: "spr_tutorial_common",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit must interrupt your current dream sequence with important information.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit will now explain the unique rules of a |C3|shiny battle.|C0|",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Shiny battles|C0| are always fought against a monster that already loves you.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Because of that, your attacks will not reduce the |C3|fear|C0| of this monster.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Instead, your mere presence will drain the monster's |C3|fear|C0| over time.",
+		},
+		{
+			"show_tutorial"	: "love_bar_partial",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Your attacks will fill the monster's |C3|love bar|C0| during a shiny battle.",
+		},
+		{
+			"show_tutorial"	: "love_bar_full",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "When the |C3|love bar|C0| is full, the monster will attack you.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit has sensed that you are wondering why you would want the monster to attack you?",
+		},
+		{
+			"show_tutorial"	: "none",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "That is because monsters will attack you with |C3|treasure bullets|C0| during a shiny battle.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Treasure bullets|C0| do not harm you and they also contain |C3|motes|C0| within them.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "|C3|Suggestion:|C0| Extract these motes by colliding your heart into as many |C3|treasure bullets|C0| as possible.",
+		},
+		{
+			"show_tutorial"	: "love_bar_full",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "The monster's |C3|fear|C0| will also stop draining for the duration of the attack.",
+		},
+		{
+			"show_tutorial"	: "love_bar_full",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This will extend the battle and give you more time to collect motes.",
+		},
+		{
+			"show_tutorial"	: "love_bar_empty",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "Once the monster's attack ends, the |C3|love bar|C0| will empty and her |C3|fear|C0| will resume draining.",
+		},
+		{
+			"show_tutorial"	: "love_bar_partial",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "The |C3|love bar|C0| will require more love to fill it after every subsequent attack.",
+		},
+		{
+			"show_tutorial"	: "combo_bar6",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "One final thing to note is that |C3|shiny monsters|C0| will hold your combo the same as any |C3|shy monster|C0| would.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "That is, your combo will only drop if a |C3|minion with motes inside|C0| escapes from the arena.",
+		},
+		{
+			"show_tutorial"	: "none",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "That is all the information on |C3|shiny battles|C0| that This Unit has for you.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "This Unit wishes you good luck in this |C3|shiny battle.|C0|",
+		},
+		{
+			"love_hearts"	: 1,
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"		: "This Unit is experiencing a sudden rise in temperature.",
+		},
+		{
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"		: "Is nowhere safe from the boundless love of that Zaraden?",
+		}
+	]
+}

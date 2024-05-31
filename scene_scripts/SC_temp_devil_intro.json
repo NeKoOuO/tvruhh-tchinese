@@ -1,0 +1,43 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "scene_music_a",
+			"bg_image"			: "spr_scene_dreaming",
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious"],
+			"dialog"			: "So you want to hear my story?|L||!|The Story of The Devil?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "Well, I can't tell it to you yet.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "You see, a lot of story pieces have been moved around before.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
+			"dialog"			: "I don't want to tell you things if they are just going to be changed later.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
+			"dialog"			: "The whole game is getting close though.|L||!|The stories will be added last.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "I know I've said that for so long now, but look at me now!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
+			"dialog"			: "Anyways, I don't have patience like you do.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "I want to get in there and knock the fear outta those monsters already!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "And you're gunna help me do that!|L||!|Right now!",
+		}
+	]
+}

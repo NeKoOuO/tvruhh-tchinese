@@ -1,0 +1,89 @@
+{
+	"script" : [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "tutorbot_scene_music",
+			"bg_image"			: "spr_tutorial_common",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "|wave|Little Robot!|norm||L||!|You are just the robot that I wanted to see.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Hold on to that thought.|L||!|This Unit has detected another new type of |C3|gift.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "Another type of |C3|gift?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "They really spoil me too much.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now explain |C3|Quick Gifts.",
+		},
+		{
+			"show_tutorial"		: "small_quick_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Some monsters will now have |C3|Quick Gifts|C0| for you.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Having more |C3|karma|C0| will also increase the chance of finding them.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Unlike the other gift types, |C3|Quick Gifts|C0| do not take effect automatically.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Instead, |C3|Quick Gifts|C0| must be activated before starting a battle.",
+		},
+		{
+			"show_tutorial"		: "example_quick_card1",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The effects of a |C3|Quick Gift|C0| will wear off after the number of battles denoted on the gift.",
+		},
+		{
+			"show_tutorial"		: "example_quick_card2",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Many of them will only last a single battle.",
+		},
+		{
+			"show_tutorial"		: "small_quick_cards",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "You can only hold and activate a limited amount of |C3|Quick Gifts.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Monsters will not have any |C3|Quick Gifts|C0| for you if you are already holding too many.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Do not forget to use any |C3|Quick Gifts|C0| that you receive.",
+		},
+		{
+			"show_tutorial"		: "none",
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "Thank you Little Robot!|L||!|I'll be sure to use them.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "On to other matters, why did this Zaraden want to see This Unit?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "Oh, I have something very important to tell you.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"			: "This Unit is experiencing a sudden rise in temperature.|L||!|All cooling fans are failing.",
+		}
+	]
+}

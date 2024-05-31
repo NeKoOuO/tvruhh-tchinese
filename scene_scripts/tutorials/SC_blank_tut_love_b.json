@@ -1,0 +1,404 @@
+{
+	
+	"focus_hold"	: "|C3|Hold |B2||C0| to activate |C3|focus.|C0|",
+	"focus_press"	: "|C3|Press |B2||C0| to toggle |C3|focus.|C0|",
+	
+	"charge_hold"	: "|C3|Hold |B1||C0| to charge up concentrated bursts of love.",
+	"charge_press"	: "|C3|Press |B1||C0| to charge up concentrated bursts of love.",
+
+
+	"script_1" : [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "What is this?|!||L|Where am I?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "Am I...",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "|wave|Flying?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The dreams of this young Zaraden are very powerful.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The Zaraden is sharing her dream with This Unit.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This is the ideal situation for showing love to monsters.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now explain how to love the monsters.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "When encountering a monster, love bullets will automatically fire from your heart.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "You mean metaphorically?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "No.     These words are literal.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "...Oh!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Use these love bullets to make the monsters love you.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "That     makes sense...     I guess.",
+		},
+	],
+	
+	"script_2" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Fear|C0| has been reduced by 10%",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "Hey, this is easier than I thought!",
+		},
+		{
+			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
+			"dialog"			: "|C2|This is the part where I hurt you!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "Please don't.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The monsters will try to attack your heart.|L||!|However, they can only hurt you if they hit |C3|the core of your heart.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|The core of your heart|C0| is the small circle at the center of your heart.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "Are you saying that my heart     has a |shake|Heart?!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Precisely.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "That makes about as much sense as any of this.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "To ensure a safe learning environment, This Unit will set her projectile power as low as possible.",
+		},
+		{
+			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
+			"dialog"			: "|C2|Initiating the hurt bullets!",
+		},
+	],
+	
+	"script_3" : [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_aggressive"],
+			"dialog"			: "Did you see that?|L||!|My heart can handle this!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The heart of the Zaraden has other abilities as well.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "What else can it do?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now explain |C3|focus.|C0|",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "[VAL1]",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Being in |C3|Focus|C0| will slow down the movement speed of your heart.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This allows for more precise movement to carefully dodge between attacks.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now become immune to love until your heart learns how to use |C3|focus.|C0|",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Be in |C3|focus|C0| while dodging at least 6 of the following attacks.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "That's a pretty specific suggestion.",
+		},
+	],
+	
+	"script_4" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Fear|C0| has been reduced by 30%",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "Alright, what's next?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now explain |C3|charged attacks.|C0|",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "[VAL2]",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Charged shots|C0| will inflict a large amount of love, but they require |C3|energy|C0| to use efficiently.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Charged shots|C0| can still be fired without |C3|energy,|C0| but they will be significantly less powerful.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Fortunately, your heart will regenerate |C3|energy|C0| automatically, as long as you are not charging.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now become immune to all love that is not delivered through an |C3|energized charged shot.|C0|",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| If you run out of |C3|energy,|C0| stop charging and wait for it to regenerate.",
+		},
+	],
+	
+	
+	"script_5" : [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave||C3|Charged shots|C0| are so pretty.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Charged shots|C0| are also very effective against breakable obstacles.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Concentrated bursts of love can easily destroy small and breakable components of a monster.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Breaking such components will also |C3|refill some energy|C0| instantly.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "So, I can chain endless |wave||C3|Charged shots|C0||norm| as long as I keep breaking stuff?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "That is correct.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "To demonstrate, This Unit will now become immune to love while releasing breakable obstacles.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Break at least 6 of the following obstacles using |C3|charged attacks.|C0|",
+		},
+		
+	],
+	
+	"script_6" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Only 40% of the initial |C3|fear|C0| remains in This Unit.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The heart of the Zaraden has one more ability to learn.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now explain |C3|panic attacks.|C0|",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "I don't like the sound of that.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Press |B3||C0| to unleash a |C3|panic attack.|C0|",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Panic attacks|C0| will nullify any attack that they touch.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Panic attacks|C0| can also be used to inflict massive love upon a monster.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "Those sound a lot better than the panic attacks that I was thinking of.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "However, |C3|panic attacks|C0| are very limited and will not regenerate on their own.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The amount of remaining panics is displayed at the top, below your health bar.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "To ensure a stress-free learning environment, This Unit will return any |C3|panic attacks|C0| that are used during this part of the battle.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "That doesn't sound very stress-free.",
+		},
+		{
+			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
+			"dialog"			: "|C2|Don't worry!|!||L|I'll make sure that your panic is infinite for this part!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now become immune to love until your heart learns how to use |C3|panic attacks.|C0|",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Use a |C3|panic attack|C0| to nullify all of these bullets.",
+		},
+	],
+	
+	"script_7" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Only 30% of |C3|fear|C0| remains.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit will now begin your final lesson.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "There are certain monsters that can use |C3|full arena attacks.|C0|",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "This Unit is now electrifying all of the air in this arena.",
+		},
+		{
+			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
+			"dialog"			: "|C2|There is no escape from this pain!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "Oh no!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "Contrary to that previous statement, there is indeed an escape from this pain.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "As long as your heart remains within a |C3|yellow safety bubble,|C0| it will not be affected by a |C3|full arena attack.|C0|",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "It is also possible to leave a |C3|safety bubble|C0| and still remain unharmed for a short time.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Only leave |C3|safety bubbles|C0| when it is absolutely necessary. When doing so, quickly enter a new one.",
+		},
+	],
+	
+	"script_8" : [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "Little Robot, |shake|NO!",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
+			"dialog"			: "|shake|What have I done?",
+		},
+		{
+			"play_music"		: "tutorbot_scene_music",
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The young Zaraden has shown love to This Unit.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "You are okay?",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "There is no trace of |C3|fear|C0| remaining within This Unit.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "|wave|You are okay!",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The young Zaraden has learned to use all of her lovely abilities.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "The Zaraden will be returning from this dream state momentarily.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "|wave|Thank you, Little Robot.|norm||!| I didn't realize love could be so powerful.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|Suggestion:|C0| Use these abilities to make the monsters love you.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "That sounds a little strange,    but I think I get what you mean.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "Now I have something to tell YOU.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"			: "This Unit is experiencing a sudden rise in temperature.",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"dialog"			: "This Unit predicts a high probability of success with the monsters.",
+		}
+
+	],
+	
+	
+}

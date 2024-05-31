@@ -1,0 +1,47 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 320,
+			"text_y"			: 180,
+			"text_w"			: 580,
+			"play_music"		: "silence",
+			"bg_image"			: "spr_nothing",
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|Her story does not end here.",
+		},
+		{
+			"dialog"			: "|C1|There is still much more to come.",
+		},
+		{
+			"dialog"			: "|C1|I'm afraid that I must break through this four dimensional wall that separates us.",
+		},
+		{
+			"dialog"			: "|C1|I must tell you that this scene is still unfinished.",
+		},
+		{
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|They couldn't even finish this in time?",
+		},
+		{
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|No, it is alright.",
+		},
+		{
+			"dialog"			: "|C1|This is in early access for a reason.",
+		},
+		{
+			"dialog"			: "|C1|I hope you have been enjoying yourself so far.",
+		},
+		{
+			"dialog"			: "|C1|This scene will be replaced with the true story soon.",
+		},
+		{
+			"dialog"			: "|C1|Thank you for showing these monsters what it means to love.",
+		},
+		{
+			"dialog"			: "|C1|I hope you will continue to do so.",
+		}
+	]
+}

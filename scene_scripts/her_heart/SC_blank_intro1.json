@@ -1,0 +1,80 @@
+{
+	"script" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 80,
+			"text_w"			: 284,
+			"play_music"		: "scene_music_a",
+			"bg_image"			: "spr_blank_intro1_1",
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|This is the story of a young Zaraden woman.",
+		},
+		{
+			"dialog"			: "|C1|She lived in a cave far away from anyone.",
+		},
+		{
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|She was so pale and ugly.",
+		},
+		{
+			"dialog"			: "|C2||shake|Nobody loved her.",
+		},
+		{
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|She was all alone.",
+		},
+		{
+			"bg_image"			: "spr_blank_intro1_2",
+			"dialog"			: "|C1|Except for the monsters.",
+		},
+		{
+			"dialog"			: "|C1|She could not leave her cave for long.",
+		},
+		{
+			"dialog"			: "|C1|The monsters would find her.",
+		},
+		{
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|She deserved to live in that hole.",
+		},
+		{
+			"bg_image"			: "spr_blank_intro1_3",
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|She could not escape.",
+		},
+		{
+			"dialog"			: "|C1|She just wanted to fly away, but...",
+		},
+		{
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|Her deformed wings were useless.",
+		},
+		{
+			"dialog"			: "|C2||shake|She should have just given up.",
+		},
+		{
+			"bg_image"			: "spr_blank_intro1_4",
+			"voice"				: "VOICE_blue",
+			"dialog"			: "|C1|But she would not give up.",
+		},
+		{
+			"dialog"			: "|C1|She had found the ultimate power.",
+		},
+		{
+			"text_x"			: 144,
+			"text_w"			: 256,
+			"bg_image"			: "spr_blank_intro1_5",
+			"dialog"			: "|C1||wave|She could love those monsters.",
+		},
+		{
+			"dialog"			: "|C1||wave|She could help them understand love too!",
+		},
+		{
+			"play_music"		: "silence",
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|HAAhahAhaHaha HAahAhahaHAha haHAhaHaHaha hahAahaHaAhaa",
+		}
+	]
+}
