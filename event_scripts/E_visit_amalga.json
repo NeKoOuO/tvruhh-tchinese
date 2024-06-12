@@ -3,8 +3,8 @@
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "|wave|Oh, Zaraden.",
-			"dialog_rand2"		: "|wave|We welcome the Zaraden.",
+			"dialog_rand1"		: "|wave|哦，扎拉登。",
+			"dialog_rand2"		: "|wave|我们欢迎这位扎拉登。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
@@ -12,7 +12,7 @@
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "You are doing okay, right?",
+			"dialog"			: "你没问题的，是吧？",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],

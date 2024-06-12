@@ -7,86 +7,86 @@
 			"text_y"			: 80,
 			"text_w"			: 284,
 			"voice"				: "VOICE_default",
-			"dialog"			: "|C3|She finds a garden filled with radiant flowers.",
+			"dialog"			: "|C3| 她发现了一个充满着光耀花朵的花园。",
 		},
 		{
-			"dialog"			: "|C3|Her tetrids are drawn to the flowers.",
+			"dialog"			: "|C3|她的棱晶被吸引向了这些花朵。",
 		},
 	],
 	
-	"op_radiate"	: "Radiate Tetrids",
-	"op_extract"	: "Extract Tetrids",
-	"op_gifts"		: "Garden Gifts",
-	"op_upgrade"	: "Upgrades",
-	"op_leave"		: "Leave",
+	"op_radiate"	: "点亮棱晶",
+	"op_extract"	: "提取棱晶",
+	"op_gifts"		: "花园礼物",
+	"op_upgrade"	: "升级",
+	"op_leave"		: "离开",
 	
-	"text_radiate"	: "The garden can convert up to [VAL1] of each tetrid into radiant motes",
-	"ask_radiate"	: "Convert these tetrids into radiant motes?",
+	"text_radiate"	: "花园能够将最多[VAL1]个每种棱晶转化为光耀魔尘",
+	"ask_radiate"	: "将这些棱晶转化为光耀魔尘？",
 	
-	"text_extract"	: "The garden can extract motes of any color from a single radiant tetrid",
-	"ask_extract"	: "Extract these motes from a radiant tetrid?",
+	"text_extract"	: "花园可以从一个光耀棱晶中提取任意颜色的魔尘",
+	"ask_extract"	: "从一个光耀棱晶中提取这些魔尘？",
 	
-	"list_title"	: "Choose one gift",
-	"gift_cost"		: "Cost",
-	"ask_buy"		: "Trade these tetrids for this gift?",
+	"list_title"	: "选择一个礼物",
+	"gift_cost"		: "花费",
+	"ask_buy"		: "使用这些棱晶交换这个礼物？",
 	
-	"garden_level"		: "Garden Level [VAL1]",
-	"rainbow_petals"	: "Rainbow Petals Radiated",
+	"garden_level"		: "花园等级[VAL1]",
+	"rainbow_petals"	: "点亮的彩虹花瓣",
 	
-	"op_garden_radiate"	: "Radiate Rate",
-	"op_garden_extract"	: "Extract Rate",
-	"op_garden_bonus"	: "Garden Gifts",
-	"op_garden_overpay"	: "Overfeeding",
+	"op_garden_radiate"	: "点亮比率",
+	"op_garden_extract"	: "提取比率",
+	"op_garden_bonus"	: "花园礼物",
+	"op_garden_overpay"	: "过度滋养",
 	
-	"current_radiate_rate"  : "The garden can convert each set of tetrids into [VAL1] radiant motes",
-	"upgrade_radiate_rate"  : "Upgrade the garden to increase this to [VAL1] radiant motes per set of tetrids",
-	"current_extract_rate"  : "The garden can convert a radiant tetrid into [VAL1] motes of another color",
-	"upgrade_extract_rate"  : "Upgrade the garden to increase this to [VAL1] motes per radiant tetrid",
-	"none_garden_gifts" 	: "Upgrade the garden with the ability to create a gift using tetrids",
-	"first_garden_gifts" 	: "The garden can create a gift with tetrids",
-	"current_garden_gifts"  : "The garden has a choice of [VAL1] gifts available per visit",
-	"upgrade_garden_gifts"  : "Upgrade the garden to have a choice of [VAL1] gifts available per visit",
-	"overpay_inactive" 		: "Upgrade the garden to accept overpayment for gifts to fill the garden blessing.",
-	"overpay_active" 		: "The garden will accept overpayment for gifts to fill the garden blessing.",
-	"upgrade_fail_one"  	: "You must have a radiated Rainbow Petal to upgrade this!",
-	"upgrade_fail"    		: "You must radiate [VAL1] Rainbow Petals to upgrade this!",
+	"current_radiate_rate"  : "花园可以将每批棱晶转化为[VAL1]光耀魔尘",
+	"upgrade_radiate_rate"  : "升级花园以将此增加为每批棱晶[VAL1]光耀魔尘",
+	"current_extract_rate"  : "花园可以将一个光耀棱晶转化为[VAL1]其他颜色魔尘",
+	"upgrade_extract_rate"  : "升级花园以将此增加为每个光耀棱晶棱晶[VAL1]魔尘",
+	"none_garden_gifts" 	: "升级花园以获得使用棱晶创造一个礼物的能力",
+	"first_garden_gifts" 	: "花园可以使用棱晶创造一个礼物",
+	"current_garden_gifts"  : "每次来访时花园有着[VAL1]个礼物可供选择",
+	"upgrade_garden_gifts"  : "升级花园以使得每次来访时花园有着[VAL1]个礼物可选",
+	"overpay_inactive" 		: "升级以使得花园能够在交换礼物时接受额外的棱晶以填充花园祝福进度。",
+	"overpay_active" 		: "花园能够在交换礼物时接受额外的棱晶以填充花园祝福进度。",
+	"upgrade_fail_one"  	: "你必须拥有1个点亮的彩虹花瓣才能升级！",
+	"upgrade_fail"    		: "你必须点亮[VAL1]个彩虹花瓣才能升级！",
 	
-	"upgrade_normal" 	  : "The garden needs [VAL1] tetrids for this upgrade",
-	"upgrade_radiant_one" : "The garden needs 1 radiant tetrid for this upgrade",
-	"upgrade_radiant" 	  : "The garden needs [VAL1] radiant tetrids for this upgrade",
-	"ask_upgrade"		  : "Upgrade the garden with these tetrids?",
+	"upgrade_normal" 	  : "花园需要[VAL1]个棱晶以完成此次升级",
+	"upgrade_radiant_one" : "花园需要1个光耀棱晶以完成此次升级",
+	"upgrade_radiant" 	  : "花园需要[VAL1]个光耀棱晶以完成此次升级",
+	"ask_upgrade"		  : "使用这些棱晶升级花园？",
 	
-	"bless_title"	: "Garden Blessing",
-	"ask_blessing"	: "Will she accept the garden's blessing?",
-	"op_accept"		: "Accept the blessing",
+	"bless_title"	: "花园祝福",
+	"ask_blessing"	: "她会接受花园的祝福吗？",
+	"op_accept"		: "接受祝福",
 	
 	"gift_received" : [
 		{
-			"dialog"			: "|C3|She receives a gift from the garden.",
+			"dialog"			: "|C3|她从花园里得到了一个礼物。",
 		},
 	],
 	
 	"upgrade_complete" : [
 		{
-			"dialog"			: "|C3|The power of the garden grows.",
+			"dialog"			: "|C3|花园的力量增长了。",
 		},
 	],
 	
 	"ask_for_blessing" : [
 		{
-			"dialog"			: "|C3|The garden has another blessing to give.",
+			"dialog"			: "|C3|花园想要给予另一个祝福。",
 		},
 	],
 	
 	"accept_blessing" : [
 		{
-			"dialog"			: "|C3|She accepts the garden's blessing.",
+			"dialog"			: "|C3|她接受了花园的祝福。",
 		},
 	],
 	
 	"leaving" : [
 		{
-			"dialog"			: "|C3|She leaves the garden.",
+			"dialog"			: "|C3|她离开了花园。",
 		},
 	],
 }

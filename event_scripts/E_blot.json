@@ -445,23 +445,23 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "Before we go, my sister really wanted you to paint her.",
+			"dialog"			: "在你们离开之前，我的姐姐真的很想你画一下她。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "Oh really, cutie?",
+			"dialog"			: "真的吗，小可爱？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "I... guess so.",
+			"dialog"			: "我…猜是吧。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|You are going to look so cute!",
+			"dialog"			: "|wave|你会变得超级可爱的！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "She is!",
+			"dialog"			: "她确实！",
 		}
 	],
 	
@@ -469,39 +469,39 @@
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
 			"random"			: 4,
-			"dialog_rand1"		: "I liked all the dark ones with the eyeballs.",
-			"dialog_rand2"		: "Some of those pieces were |shake|so metal!",
-			"dialog_rand3"		: "Did you see the one with the indescribable horror on it?",
-			"dialog_rand4"		: "I like the ones that look like my nightmares.",
+			"dialog_rand1"		: "我喜欢那个带眼球的黑暗画作。",
+			"dialog_rand2"		: "这里面有些作品|shake|太金属了！",
+			"dialog_rand3"		: "你看到那幅了吗，上面有着无可名状的恐怖的那个？",
+			"dialog_rand4"		: "我喜欢那些看起来像我的梦魇的。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_aggressive"],
 			"random"			: 4,
-			"dialog_rand1"		: "Yeah, and all the ones with those cute hearts!",
-			"dialog_rand2"		: "And how about that cute one with the pretty lady?",
-			"dialog_rand3"		: "Right? And the ones with all those colorful flowers!",
-			"dialog_rand4"		: "Did you see the one with the cute girl on it?",
+			"dialog_rand1"		: "对呀，还有那些带着可爱红心的！",
+			"dialog_rand2"		: "那幅有着美丽女士的画作如何呢？",
+			"dialog_rand3"		: "对吧？而且还有那些带着五彩缤纷花朵的画作！",
+			"dialog_rand4"		: "你看到那幅有着可爱女孩的画作了吗？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
-			"dialog"			: "Exactly!   You really get me.",
+			"dialog"			: "当然了！   你真的懂我。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-			"dialog"			: "|wave|We love you, cutie!",
+			"dialog"			: "|wave|我们爱你，小可爱！",
 		}
 	],
 	
 	"leave_default" 	: [
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-			"dialog"			: "We hope you visit us again soon.",
+			"dialog"			: "我们希望你能够再次来访。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "We love you, cutie!",
+			"dialog"			: "我们爱你，小可爱！",
 		},
 	],
 
