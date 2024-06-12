@@ -377,231 +377,231 @@
 		"group_unique"		: "Unique Battle Themes",
 	},
 	"SG_title" : {
-		"name"		: "Blank Melody",
+		"name"		: "空白旋律",
 		"desc"		: "Main menu theme",
 	},
 	"SG_scene_a" : {
-		"name"		: "Subterranean Pulse",
+		"name"		: "地下脉动",
 		"desc"		: "Prologue scene music",
 	},
 	"SG_shamble_battle" : {
-		"name"		: "Shambled Paradox",
+		"name"		: "蹒跚悖论",
 		"desc"		: "Shamble monster battle theme",
 	},
 	"SG_guardian_battle" : {
-		"name"		: "Her Adamant Will",
+		"name"		: "她的不屈意志",
 		"desc"		: "Guardian monster battle theme",
 	},
 	"SG_glyph_battle" : {
-		"name"		: "Mutual Exclusion",
+		"name"		: "共有排斥",
 		"desc"		: "Eyeric Glyph monster battle theme",
 	},
 	"SG_zaramech_battle" : {
-		"name"		: "Defense Mechanism",
+		"name"		: "防御机制",
 		"desc"		: "Zaramech monster battle theme",
 	},
 	"SG_glass_battle" : {
-		"name"		: "My Heart Is See Through",
+		"name"		: "我的心是透明的",
 		"desc"		: "Glass Flora monster battle theme",
 	},
 	"SG_veyeral_battle" : {
-		"name"		: "The Void Rains Down Upon You",
+		"name"		: "虚空之雨倾泻于你",
 		"desc"		: "Veyeral monster battle theme",
 	},
 	"SG_nightmare_a" : {
-		"name"		: "Distant Observer",
+		"name"		: "遥远观测者",
 		"desc"		: "Nightmare selection theme\nEarly monsters",
 	},
 	"SG_nightmare_b" : {
-		"name"		: "Warning Signs",
+		"name"		: "警告标志",
 		"desc"		: "Nightmare selection theme\nStronger monsters",
 	},
 	"SG_nightmare_c" : {
-		"name"		: "Nihility",
+		"name"		: "虚无",
 		"desc"		: "Nightmare selection theme\nFinale monsters",
 	},
 	"SG_nightmare_d" : {
-		"name"		: "Spread Your Wings",
+		"name"		: "张开你的翅膀",
 		"desc"		: "Nightmare selection theme\nAscending towers",
 	},
 	"SG_nightmare_e" : {
-		"name"		: "How Far We've Come",
+		"name"		: "我们走了多远",
 		"desc"		: "Nightmare selection theme\nTop of the towers",
 	},
 	"SG_shamble_battle_2" : {
-		"name"		: "Trypophobia",
+		"name"		: "密集恐惧症",
 		"desc"		: "Alternate Shamble monster battle theme",
 	},
 	"SG_guardian_battle_2" : {
-		"name"		: "Guardian Angel",
+		"name"		: "守护天使",
 		"desc"		: "Alternate Guardian monster battle theme",
 	},
 	"SG_glyph_battle_2" : {
-		"name"		: "Theoretically Beautiful",
+		"name"		: "理论之美",
 		"desc"		: "Alternate Eyeric Glyph monster battle theme",
 	},
 	"SG_zaramech_battle_2" : {
-		"name"		: "Towering Anxiety",
+		"name"		: "焦虑屹立",
 		"desc"		: "Alternate Zaramech monster battle theme",
 	},
 	"SG_glass_battle_2" : {
-		"name"		: "Stained Glass Battle Dance",
+		"name"		: "染色玻璃的战斗之舞",
 		"desc"		: "Alternate Glass Flora monster battle theme",
 	},
 	"SG_veyeral_battle_2" : {
-		"name"		: "Alone in the Dark",
+		"name"		: "暗中独行",
 		"desc"		: "Alternate Veyeral monster battle theme",
 	},
 	"SG_game_over" : {
-		"name"		: "Willpower",
+		"name"		: "意志力",
 		"desc"		: "Heartbreak scene music",
 	},
 	"SG_dreaming_scene" : {
-		"name"		: "A Strange Place",
+		"name"		: "一个奇怪的地方",
 		"desc"		: "Dreaming scene music",
 	},
 	"SG_special_battle" : {
-		"name"		: "Fever Dream",
+		"name"		: "狂热梦境",
 		"desc"		: "Special monster battle theme",
 	},
 	"SG_spawn_battle" : {
-		"name"		: "Monster Birthday",
+		"name"		: "怪物的生日",
 		"desc"		: "Newborn monster battle theme",
 	},
 	"SG_creepy_scene" : {
-		"name"		: "Uneasy Feeling",
+		"name"		: "不安感",
 		"desc"		: "Unsettling scene music",
 	},
 	"SG_panic_battle" : {
-		"name"		: "Impending Doom",
+		"name"		: "迫近毁灭",
 		"desc"		: "Panicked battle theme",
 	},
 	"SG_mystery_scene" : {
-		"name"		: "Lonely Respite",
+		"name"		: "孤独暂息",
 		"desc"		: "Curious scene music",
 	},
 	"SG_anomaly_battle" : {
-		"name"		: "Long Distance",
+		"name"		: "遥远距离",
 		"desc"		: "Anomaly battle theme",
 	},
 	"SG_anomaly_battle_b" : {
-		"name"		: "Light Years Apart",
+		"name"		: "光年之外",
 		"desc"		: "Shiny Anomaly battle theme",
 	},
 	"SG_garden_battle" : {
-		"name"		: "Lucid Dissonance",
+		"name"		: "清醒不谐",
 		"desc"		: "Nova battle theme",
 	},
 	"SG_tutorbot_battle" : {
-		"name"		: "Anxious Protocol",
+		"name"		: "焦虑协议",
 		"desc"		: "Unit Lulu battle theme",
 	},
 	"SG_shamble_battle_3" : {
-		"name"		: "Scattered Across Time and Space",
+		"name"		: "分散于时空之中",
 		"desc"		: "Climactic Shamble monster battle theme",
 	},
 	"SG_guardian_battle_3" : {
-		"name"		: "Rapture My Heart",
+		"name"		: "心如刀歌",
 		"desc"		: "Climactic Guardian monster battle theme",
 	},
 	"SG_glyph_battle_3" : {
-		"name"		: "Sticks and Stones",
+		"name"		: "无惧恶言",
 		"desc"		: "Climactic Eyeric Glyph monster battle theme",
 	},
 	"SG_zaramech_battle_3" : {
-		"name"		: "Marked For Deletion",
+		"name"		: "标记删除",
 		"desc"		: "Climactic Zaramech monster battle theme",
 	},
 	"SG_glass_battle_3" : {
-		"name"		: "Unbreakable Starlight Bloom",
+		"name"		: "无坚不摧的星光之花",
 		"desc"		: "Climactic Glass Flora monster battle theme",
 	},
 	"SG_veyeral_battle_3" : {
-		"name"		: "Together As None",
+		"name"		: "合为空无",
 		"desc"		: "Climactic Veyeral monster battle theme",
 	},
 	"SG_shamble_battle_4" : {
-		"name"		: "Shambled Dream Medley",
+		"name"		: "蹒跚之梦混编",
 		"desc"		: "Medley of Shamble monster themes",
 	},
 	"SG_guardian_battle_4" : {
-		"name"		: "Guardian Dream Medley",
+		"name"		: "守护者之梦混编",
 		"desc"		: "Medley of Guardian monster themes",
 	},
 	"SG_glyph_battle_4" : {
-		"name"		: "Symbolic Dream Medley",
+		"name"		: "符号之梦混编",
 		"desc"		: "Medley of Eyeric Glyph monster themes",
 	},
 	"SG_zaramech_battle_4" : {
-		"name"		: "Mechanical Dream Medley",
+		"name"		: "机械之梦混编",
 		"desc"		: "Medley of Zaramech monster themes",
 	},
 	"SG_glass_battle_4" : {
-		"name"		: "Fragile Dream Medley",
+		"name"		: "易碎之梦混编",
 		"desc"		: "Medley of Glass Flora monster themes",
 	},
 	"SG_veyeral_battle_4" : {
-		"name"		: "Void Dream Medley",
+		"name"		: "虚空之梦混编",
 		"desc"		: "Medley of Veyeral monster themes",
 	},
 	"SG_special_battle_b" : {
-		"name"		: "Lucid Dream Medley",
+		"name"		: "清醒之梦混编",
 		"desc"		: "Medley of Special monster themes",
 	},
 	"SG_green_scene" : {
-		"name"		: "Transdimensional Sibling",
+		"name"		: "跨纬度姐妹",
 		"desc"		: "\"Green\" theme",
 	},
 	"SG_red_scene" : {
-		"name"		: "Touched Her Soul",
+		"name"		: "触碰她的灵魂",
 		"desc"		: "\"Red\" theme",
 	},
 	"SG_yellow_scene" : {
-		"name"		: "Happy Place",
+		"name"		: "安乐之所",
 		"desc"		: "\"Yellow\" theme",
 	},
 	"SG_tutorbot_scene" : {
-		"name"		: "Arrhythmia",
+		"name"		: "心律失常",
 		"desc"		: "\"Blue\" theme",
 	},
 	"SG_orange_scene" : {
-		"name"		: "Handle With Care",
+		"name"		: "小心轻放",
 		"desc"		: "\"Orange\" theme",
 	},
 	"SG_purple_scene" : {
-		"name"		: "Alone Together",
+		"name"		: "独自同行",
 		"desc"		: "\"Purple\" theme",
 	},
 	"SG_quiz" : {
-		"name"		: "Pop Quiz, But You're Naked",
+		"name"		: "竞答比赛，但你没穿衣服",
 		"desc"		: "Sentinel's Quiz theme",
 	},
 	"SG_kiwi" : {
-		"name"		: "Dungeon of Glass",
+		"name"		: "玻璃与地下城",
 		"desc"		: "Theme for Kiwi's Dungeon of Demise and Doom",
 	},
 	"SG_defect_scene" : {
-		"name"		: "Little Imperfection",
+		"name"		: "小小的不完美",
 		"desc"		: "Defect's theme",
 	},
 	"SG_void_battle" : {
-		"name"		: "Absolute Zero",
+		"name"		: "绝对零点",
 		"desc"		: "The Void battle theme",
 	},
 	"SG_totaria_battle1" : {
-		"name"		: "Less Than Zero",
+		"name"		: "更低于零",
 		"desc"		: "Totaria battle theme A",
 	},
 	"SG_totaria_battle2" : {
-		"name"		: "Negative Matter",
+		"name"		: "负向物质",
 		"desc"		: "Totaria battle theme B",
 	},
 	"SG_scene_b" : {
-		"name"		: "An End",
+		"name"		: "一个结局",
 		"desc"		: "Heartfelt scene music",
 	},
 	"SG_blue_veyeral_battle" : {
-		"name"		: "Me, Myself, and Eye",
+		"name"		: "我，我自己，和眼睛",
 		"desc"		: "Blue Veyeral's battle theme",
 	},
 	
