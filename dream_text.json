@@ -143,75 +143,75 @@
 
 	"DR_love1" : {
 		"name"    : "一击钟情",
-		"desc"    : "Love any monster for the first time",
+		"desc"    : "第一次去爱任何怪物",
 	},
 	"DR_love25" : {
 		"name"    : "怪物倾慕者",
-		"desc"    : "Love 25 monsters",
+		"desc"    : "爱了25只怪物",
 	},
 	"DR_love50" : {
 		"name"    : "怪物拥抱者",
-		"desc"    : "Love 50 monsters",
+		"desc"    : "爱了50只怪物",
 	},
 	"DR_love100" : {
 		"name"    : "怪物爱人",
-		"desc"    : "Love 100 monsters",
+		"desc"    : "爱了100只怪物",
 	},
 	"DR_love250" : {
 		"name"    : "梦魇发烧友",
-		"desc"    : "Love 250 monsters",
+		"desc"    : "爱了250只怪物",
 	},
 	"DR_love500" : {
 		"name"    : "超级怪物发烧友",
-		"desc"    : "Love 500 monsters",
+		"desc"    : "爱了500只怪物",
 	},
 	"DR_love1000" : {
 		"name"    : "万顷之爱",
-		"desc"    : "Love 1,000 monsters",
+		"desc"    : "爱了1000只怪物",
 	},
 	"DR_love2500" : {
 		"name"    : "爱之末世",
-		"desc"    : "Love 2,500 monsters",
+		"desc"    : "爱了2500只怪物",
 	},
 	"DR_break500" : {
 		"name"    : "让我爱你！",
-		"desc"    : "Break a total of 500 monster parts",
+		"desc"    : "总共破坏500怪物部位",
 	},
 	"DR_break2500" : {
 		"name"    : "让你自己被爱！",
-		"desc"    : "Break a total of 2,500 monster parts",
+		"desc"    : "总共破坏2500怪物部位",
 	},
 	"DR_break5000" : {
 		"name"    : "以爱之名的暴力！",
-		"desc"    : "Break a total of 5,000 monster parts",
+		"desc"    : "总共破坏5000怪物部位",
 	},
 	"DR_break_t4" : {
 		"name"    : "撕成碎片了，你说？",
-		"desc"    : "Break a total of 10,000 monster parts",
+		"desc"    : "总共破坏1000怪物部位",
 	},
 	"DR_break_t5" : {
 		"name"    : "至碎不渝",
-		"desc"    : "Break a total of 25,000 monster parts",
+		"desc"    : "总共破坏25000怪物部位",
 	},
 	"DR_break_t6" : {
 		"name"    : "怪物恐惧灭绝发烧友",
-		"desc"    : "Break a total of 53,601 monster parts",
+		"desc"    : "总共破坏53601怪物部位",
 	},
 	"DR_bullets10k" : {
 		"name"    : "空中的万千子弹",
-		"desc"    : "Monsters rain 10,000 bullets upon you",
+		"desc"    : "怪物们10000颗子弹的雨落向了你",
 	},
 	"DR_bullets100k" : {
 		"name"    : "山雨欲来，我们都将被爱",
-		"desc"    : "Monsters rain 100,000 bullets upon you",
+		"desc"    : "怪物们100000颗子弹的雨落向了你",
 	},
 	"DR_bullets1m" : {
 		"name"    : "爱情就是残酷战场",
-		"desc"    : "Monsters rain 1,000,000 bullets upon you",
+		"desc"    : "怪物们1000000颗子弹的雨落向了你",
 	},
 	"DR_bullets5m" : {
 		"name"    : "把你的悲伤倾泻给我",
-		"desc"    : "Monsters rain 5,000,000 bullets upon you",
+		"desc"    : "怪物们5000000颗子弹的雨落向了你",
 	},
 	"DR_panic3000" : {
 		"name"    : "清除恐惧",
@@ -909,78 +909,78 @@
 		"desc"    : "Love a level 12 or higher monster in Story Mode",
 	},
 	"DR_story_overlevel" : {
-		"name"    : "Even Further Beyond",
+		"name"    : "更远超越",
 		"desc"    : "Love any monster that has overleveled beyond their limit in Story Mode",
 	},
 	"DR_story_score20k" : {
-		"name"    : "20,000 Specks",
+		"name"    : "20,000斑点",
 		"desc"    : "Score at least 20,000 motes in a single Story run",
 	},
 	"DR_story_score40k" : {
-		"name"    : "40,000 Flakes",
+		"name"    : "40,000雪片",
 		"desc"    : "Score at least 40,000 motes in a single Story run",
 	},
 	"DR_story_score60k" : {
-		"name"    : "60,000 Bits",
+		"name"    : "60,000碎片",
 		"desc"    : "Score at least 60,000 motes in a single Story run",
 	},
 	"DR_story_score80k" : {
-		"name"    : "80,000 Dots",
+		"name"    : "80,000小点",
 		"desc"    : "Score at least 80,000 motes in a single Story run",
 	},
 	"DR_story_score100k" : {
-		"name"    : "Mountain of Motes",
+		"name"    : "魔尘之山",
 		"desc"    : "Score at least 100,000 motes in a single Story run",
 	},
 	"DR_story_score120k" : {
-		"name"    : "Ocean of Motes",
+		"name"    : "魔尘之洋",
 		"desc"    : "Score at least 120,000 motes in a single Story run",
 	},
 	"DR_story_score140k" : {
-		"name"    : "Planet of Motes",
+		"name"    : "魔尘星球",
 		"desc"    : "Score at least 140,000 motes in a single Story run",
 	},
 	"DR_story_score160k" : {
-		"name"    : "Star of Motes",
+		"name"    : "魔尘之星",
 		"desc"    : "Score at least 160,000 motes in a single Story run",
 	},
 	"DR_story_score180k" : {
-		"name"    : "Galaxy of Motes",
+		"name"    : "魔尘星系",
 		"desc"    : "Score at least 180,000 motes in a single Story run",
 	},
 	"DR_story_karma50" : {
-		"name"    : "RNG Persuader",
+		"name"    : "随机数说服者",
 		"desc"    : "Have at least 50 karma at once in Story Mode",
 	},
 	"DR_story_karma100" : {
-		"name"    : "RNG Dominator?",
+		"name"    : "随机数掌控者?",
 		"desc"    : "Have at least 100 karma at once in Story Mode",
 	},
 	"DR_story_karma150" : {
-		"name"    : "Hacked Dice",
+		"name"    : "灌铅骰子",
 		"desc"    : "Have at least 150 karma at once in Story Mode",
 	},
 	"DR_story_karma200" : {
-		"name"    : "Excessively Superfluous Luck",
+		"name"    : "过度过剩的运气",
 		"desc"    : "Have at least 200 karma at once in Story Mode",
 	},
 	
 	
 	
 	"DR_story_gift13" : {
-		"name"    : "Lucky 13",
+		"name"    : "幸运13",
 		"desc"    : "Receive 13 Power Gifts in a single Story run",
 	},
 	"DR_story_3star_gift1" : {
-		"name"    : "A Wonderful Gift",
+		"name"    : "奇妙的礼物",
 		"desc"    : "Receive a (3-star) Wonderful Power Gift in Story Mode",
 	},
 	"DR_story_3star_gift2" : {
-		"name"    : "They Really Love Me!",
+		"name"    : "大众情人！",
 		"desc"    : "Receive two (3-star) Wonderful Power Gifts in a single Story run",
 	},
 	"DR_story_challenge6" : {
-		"name"    : "All The Right Moves",
+		"name"    : "一切的左右逢源",
 		"desc"    : "Pass 6 challenges in a single Story run",
 	},
 	"DR_challenge100" : {
@@ -988,71 +988,71 @@
 		"desc"    : "Pass a total of 100 challenges in Story Mode",
 	},
 	"DR_low_karma" : {
-		"name"    : "It's Almost Easy",
+		"name"    : "这几乎如此容易",
 		"desc"    : "Have 30 karma or less after clearing 2 full sized chapters in a Story run",
 	},
 	"DR_story_panic7" : {
-		"name"    : "Bottle It Up",
+		"name"    : "克制在心",
 		"desc"    : "Have at least 7 panic attacks at once in Story Mode",
 	},
 	"DR_story_panic12" : {
-		"name"    : "Calm Under Pressure",
+		"name"    : "宁静于压力之下",
 		"desc"    : "Have at least 12 panic attacks at once in Story Mode",
 	},
 	"DR_low_hp_win" : {
-		"name"    : "She Will Not Give Up",
+		"name"    : "她不会放弃",
 		"desc"    : "In Story Mode, start a battle with 4 health or less and win",
 	},
 	"DR_helpers4" : {
-		"name"    : "Friend Train",
+		"name"    : "盟友列车",
 		"desc"    : "Start a battle with a chain of at least 4 helpers in Story Mode",
 	},
 	"DR_helpers9" : {
-		"name"    : "Chain of Misfits",
+		"name"    : "不合之链",
 		"desc"    : "Start a battle with a chain of at least 9 helpers in Story Mode",
 	},
 	"DR_story_radiant" : {
-		"name"    : "Sunglasses",
+		"name"    : "太阳镜",
 		"desc"    : "Defeat 7 monsters that can attack with the radiant element in a single Story run",
 	},
 	"DR_story_void" : {
-		"name"    : "Void Nullifier",
+		"name"    : "虚空无效器",
 		"desc"    : "Defeat 7 monsters that can attack with the void element in a single Story run",
 	},
 	"DR_story_burn" : {
-		"name"    : "Fire Wall",
+		"name"    : "防火墙",
 		"desc"    : "Defeat 7 monsters that can attack with the burn element in a single Story run",
 	},
 	"DR_story_zap" : {
-		"name"    : "Lightning Rod",
+		"name"    : "避雷针",
 		"desc"    : "Defeat 7 monsters that can attack with the zap element in a single Story run",
 	},
 	"DR_story_toxic" : {
-		"name"    : "The Antidote",
+		"name"    : "解药",
 		"desc"    : "Defeat 7 monsters that can attack with the toxic element in a single Story run",
 	},
 	"DR_flawless3" : {
-		"name"    : "Heart Trick",
+		"name"    : "心计",
 		"desc"    : "Do not take damage or use panic attacks for 3 battles in a row in Story Mode",
 	},
 	"DR_flawless10" : {
-		"name"    : "Perfect Ten",
+		"name"    : "完美之十",
 		"desc"    : "Do not take damage or use panic attacks for 10 battles in a row in Story Mode",
 	},
 	"DR_flawless_heavy10" : {
-		"name"    : "God Run",
+		"name"    : "有如神助",
 		"desc"    : "Do not take damage or use panic attacks for 10 battles in a row on at least大雨 difficulty",
 	},
 	"DR_fc_streak3" : {
-		"name"    : "Triple Deluxe",
+		"name"    : "三倍豪华",
 		"desc"    : "Get a 100% full combo on 3 battles in a row in Story Mode",
 	},
 	"DR_fc_streak7" : {
-		"name"    : "Super Septuplet",
+		"name"    : "超级七联体",
 		"desc"    : "Get a 100% full combo on 7 battles in a row in Story Mode",
 	},
 	"DR_torrent_fc3" : {
-		"name"    : "Torrential Triplet",
+		"name"    : "暴雨三连",
 		"desc"    : "Get a 100% full combo on 3 battles in a row on Torrent Rain difficulty",
 	},
 	
@@ -1061,11 +1061,11 @@
 	
 	
 	"DR_find_events" : {
-		"name"    : "Random Encounters",
+		"name"    : "随机遭遇",
 		"desc"    : "Encounter 7 unique events of any kind",
 	},
 	"DR_monster_events" : {
-		"name"    : "All The Pretty Faces",
+		"name"    : "不同的美丽面庞",
 		"desc"    : "Encounter 12 unique events that are hosted by monsters",
 	},
 	"DR_monster_events_t2" : {
@@ -1073,39 +1073,39 @@
 		"desc"    : "Encounter 25 unique events that are hosted by monsters",
 	},
 	"DR_leave_free_gift" : {
-		"name"    : "Lonely Gift",
+		"name"    : "孤独的礼物",
 		"desc"    : "Leave the free gift behind",
 	},
 	"DR_take_free_key" : {
-		"name"    : "The Key to Love",
+		"name"    : "通往爱的钥匙",
 		"desc"    : "Take the free heart key",
 	},
 	"DR_self_doubt_max" : {
-		"name"    : "Rest Assured",
+		"name"    : "放心休息",
 		"desc"    : "Cure all self doubt by lowering the difficulty 3 times in a single rest",
 	},
 	"DR_garden_motes_t1" : {
-		"name"    : "Sparkling Soil",
+		"name"    : "亮晶晶的土壤",
 		"desc"    : "Collect 2,500 radiant motes from the radiant garden",
 	},
 	"DR_garden_motes_t2" : {
-		"name"    : "Phobiasynthesis",
+		"name"    : "恐惧症光合作用",
 		"desc"    : "Collect 10,000 radiant motes from the radiant garden",
 	},
 	"DR_garden_motes_t3" : {
-		"name"    : "What Plants Crave!",
+		"name"    : "植物渴望什么！",
 		"desc"    : "Collect 30,000 radiant motes from the radiant garden",
 	},
 	"DR_garden_blessing" : {
-		"name"    : "The Call of the Garden",
+		"name"    : "花园的呼唤",
 		"desc"    : "Accept the radiant garden's blessing",
 	},
 	"DR_anomaly_win" : {
-		"name"    : "Secret Admirer",
+		"name"    : "秘密仰慕者",
 		"desc"    : "Defeat Anomaly in Story Mode",
 	},
 	"DR_nix_polyps_win" : {
-		"name"    : "Don't Forget To Breathe",
+		"name"    : "别忘记呼吸",
 		"desc"    : "Defeat Nix Polyps in Story Mode",
 	},
 	"DR_nova_win" : {

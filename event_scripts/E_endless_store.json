@@ -2,234 +2,234 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-			"dialog"			: "Solara has found some gifts within the depths of this nightmare.",
+			"dialog"			: "索拉纳在这梦魇的深处找到了一些礼物。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|Solara can get them for you!",
+			"dialog"			: "|wave|索拉纳可以把它们带给你！",
 		}
 	],
 	
 	"came_back_intro" : [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "Solara has found more gifts in the depths of this nightmare!",
+			"dialog"			: "索拉纳在这梦魇的深处找到了更多的礼物！",
 		}
 	],
 	
-	"shop_level"	: "Shop Level [VAL1]",
-	"dream_petals"	: "Dream Petals Radiated",
-	"list_title"	: "Solara's Gifts",
+	"shop_level"	: "商店等级[VAL1]",
+	"dream_petals"	: "点亮的梦境花瓣",
+	"list_title"	: "索拉纳的礼物",
 
-	"op_store"		: "Get Gifts",
-	"op_upgrade"	: "Upgrades",
-	"op_leave"		: "Leave",
+	"op_store"		: "获取礼物",
+	"op_upgrade"	: "升级",
+	"op_leave"		: "离开",
 	
-	"op_power_gifts"	: "Power Gifts",
-	"op_power_cost"		: "Power Karma Cost",
-	"op_bonus_gifts"	: "Bonus Gifts",
-	"op_bonus_cost"		: "Bonus Karma Cost",
-	"op_quick_gifts"	: "Quick Gifts",
-	"op_quick_cost"		: "Quick Karma Cost",
+	"op_power_gifts"	: "力量礼物",
+	"op_power_cost"		: "力量因果价格",
+	"op_bonus_gifts"	: "额外礼物",
+	"op_bonus_cost"		: "额外因果价格",
+	"op_quick_gifts"	: "快速礼物",
+	"op_quick_cost"		: "快速因果价格",
 	
 	"store_text"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "Solara can bring you gifts, but Solara will need some of your |C3|karma.|C0|",
+		"dialog"	: "索拉纳可以为你带来礼物，但索拉纳会需要你的一些|C3|因果。|C0|",
 	},
 	"upgrade_text"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-		"dialog"	: "Solara can use the power of |C3|Tetrids|C0| and |C3|Dream Petals|C0| to find more gifts!",
+		"dialog"	: "索拉纳可以使用|C3|棱晶|C0|和|C3|梦境花瓣|C0|的力量找到更多礼物！",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "Going back to the nightmare?",
+		"dialog"	: "要回到梦魇之中吗？",
 	},
 	"leave_text"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "Solara will leave to search for more gifts.",
+		"dialog"	: "索拉纳会离开去寻找更多礼物。",
 	},
 	
 	"comment_no_gifts"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "Solara can't find any more gifts right now!",
+		"dialog"	: "索拉纳现在找不到更多礼物了！",
 	},
 	"comment_max_level"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-		"dialog"	: "Solara is the most powerful |C3|Queen of Dreams|C0| that ever was!",
+		"dialog"	: "索拉纳是历史上最强大的|C3|梦境女王|C0|！",
 	},
 	
 	
 	"comment_one"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "|wave|A simple gift.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+		"dialog"	: "|wave|一个简单的礼物。|norm||L|索拉纳会需要|C3|[VAL1]因果|C0|才能拿到这个。",
 	},
 	"comment_two"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "|wave|A lovely gift.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+		"dialog"	: "|wave|一个可爱的礼物。|norm||L|索拉纳会需要|C3|[VAL1]因果|C0|才能拿到这个。",
 	},
 	"comment_three"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-		"dialog"	: "|wave|A very powerful gift!|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+		"dialog"	: "|wave|一个非常强大的礼物！|norm||L|索拉纳会需要|C3|[VAL1]因果|C0|才能拿到这个。",
 	},
 	"comment_bonus"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-		"dialog"	: "|wave|A bonus gift.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+		"dialog"	: "|wave|一个额外礼物。|norm||L|索拉纳会需要|C3|[VAL1]因果|C0|才能拿到这个。",
 	},
 	"comment_quick"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "|wave|A quick gift.|norm||L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+		"dialog"	: "|wave|一个快速礼物。|norm||L|索拉纳会需要|C3|[VAL1]因果|C0|才能拿到这个。",
 	},
 	"comment_unknown"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "Solara can't tell what it is.|L|Solara will need |C3|[VAL1] karma|C0| to get this.",
+		"dialog"	: "索拉纳分辨不出这是什么|L|索拉纳会需要|C3|[VAL1]因果|C0|才能拿到这个。",
 	},
 	"comment_limit"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "You are holding too many quick gifts to carry this one.",
+		"dialog"	: "你携带了太多的快速礼物，带不走这个。",
 	},
 	"comment_over"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
-		"dialog"	: "You don't have enough |C3|karma|C0| for this one!|L|Solara needs |C3|[VAL1] karma|C0| to get this.",
+		"dialog"	: "你没有足够的|C3|因果|C0|以获得这个！|L|索拉纳会需要|C3|[VAL1]因果|C0|才能拿到这个。",
 	},
 	"buy_confirm"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "You will give Solara |C3|[VAL1] karma?|C0|",
+		"dialog"	: "你会给索拉纳|C3|[VAL1]因果?|C0|",
 	},
 	
 	"gift_bought" 		: [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|Solara has retrieved this gift for you!",
+			"dialog"			: "|wave|索拉纳为你取得了这个礼物！",
 		}
 	],
 	"final_gift_bought" : [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
-			"dialog"			: "Solara has run out of gifts!",
+			"dialog"			: "索拉纳没有礼物了！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-			"dialog"			: "Solara will need to go searching again.",
+			"dialog"			: "索拉纳会继续去搜寻礼物。",
 		}
 	],
 	
 	
 	
-	"power_plural" 	: "Power Gifts",
-	"power_1" 		: "1 Power Gift",
-	"power_n" 		: "[VAL1] Power Gifts",
-	"bonus_plural" 	: "Bonus Gifts",
-	"bonus_1" 		: "1 Bonus Gift",
-	"bonus_n" 		: "[VAL1] Bonus Gifts",
-	"quick_plural" 	: "Quick Gifts",
-	"quick_1" 		: "1 Quick Gift",
-	"quick_n" 		: "[VAL1] Quick Gifts",
+	"power_plural" 	: "力量礼物",
+	"power_1" 		: "1个力量礼物",
+	"power_n" 		: "[VAL1]个力量礼物",
+	"bonus_plural" 	: "额外礼物",
+	"bonus_1" 		: "1个额外礼物",
+	"bonus_n" 		: "[VAL1]个额外礼物",
+	"quick_plural" 	: "快速礼物",
+	"quick_1" 		: "1个快速礼物",
+	"quick_n" 		: "[VAL1]个快速礼物",
 	"comment_gift_zero"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "With some tetrid power, Solara can find |C3|[VAL1]|C0| from now on!",
+		"dialog"	: "有着一些棱晶的力量，索拉纳从现在起可以找到|C3|[VAL1]|C0|了！",
 	},
 	"comment_gift_up"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "Solara can reach |C3|[VAL1]|C0| right now, but with some tetrid power, Solara can find another one!",
+		"dialog"	: "索拉纳现在可以拿到|C3|[VAL1]|C0|，但有着棱晶的力量，索拉纳可以再找到一个！",
 	},
 	"comment_gift_max"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "Solara can reach |C3|[VAL1]|C0| every time you visit!",
+		"dialog"	: "你每次来访时索拉纳可以拿到|C3|[VAL1]|C0|！",
 	},
 	"comment_cost_down"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "With some tetrid power, Solara will need |C3|1 less karma|C0| to reach any |C3|[VAL1]|C0| from now on!",
+		"dialog"	: "有着棱晶的力量，索拉纳从现在起花费|C3|1个更少的因果|C0|就能够得到任何|C3|[VAL1]|C0|！",
 	},
 	"comment_cost_max"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "Solara can reach |C3|[VAL1]|C0| while using as little karma as possible!",
+		"dialog"	: "索拉纳能够使用尽可能少的因果得到|C3|[VAL1]|C0|！",
 	},
 	"comment_upgrade_fail"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
-		"dialog"	: "Solara needs you to radiate |C3|[VAL1] Dream Petals|C0| to increase this power.",
+		"dialog"	: "索拉纳需要你点亮|C3|[VAL1]个梦境花瓣|C0|来增强这个力量。",
 	},
 	"comment_upgrade_fail_1"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
-		"dialog"	: "Solara needs you to radiate at least |C3|1 Dream Petal|C0| to increase this power.",
+		"dialog"	: "索拉纳需要你点亮至少|C3|1个梦境花瓣|C0|来增强这个力量。",
 	},
 	
 	"first_upgrade" 		: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|Solara is now more powerful than ever before!",
+			"dialog"			: "|shake|索拉纳现在比以前更加强大了！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-			"dialog"			: "Just remember that Solara has to actually go and find the gifts first.",
+			"dialog"			: "只要记得索拉纳需要先去实际找到那些礼物。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "|wave|Solara will have more gifts next time!",
+			"dialog"			: "|wave|索拉纳下次会有更多礼物的！",
 		}
 	],
 	"middle_upgrade" 		: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|Solara is now more powerful than ever before!",
+			"dialog"			: "|shake|索拉纳现在比以前更加强大！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|Nightmares are no match for Solara!",
+			"dialog"			: "|shake|梦魇在索拉纳的面前不值一提！",
 		}
 	],
 	"final_upgrade" 		: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|Solara is now the most powerful |C3|Queen of Dreams|C0| that ever was!",
+			"dialog"			: "|shake|索拉纳是历史上最强大的|C3|梦境女王|C0|！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|Sweet dreams will take over this land of nightmares!",
+			"dialog"			: "|shake|甜美的梦境将会占领梦魇的地域！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|By the time Solara is finished, nightmares will be checking under their beds for Solara!",
+			"dialog"			: "|shake|当索拉纳完成之时，梦魇甚至会惊恐地检查床底寻找索拉纳！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|Solara will make sure that you have enough gifts to survive forever!",
+			"dialog"			: "|shake|索拉纳会保证你有足够的礼物以永远生存下去！",
 		},
 	],
 	
 	"green_comment"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-		"dialog"	: "Yellow and Blue do mix into such a lovely color.",
+		"dialog"	: "黄色和蓝色确实能够混合成如此可爱的颜色。",
 	},
 	"red_comment"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
-		"dialog"	: "|shake|Ouch!|norm||L|These are very sharp!",
+		"dialog"	: "|shake|哎呦！|norm||L|这些好尖利！",
 	},
 	"yellow_comment"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-		"dialog"	: "|shake|Yellow!|L||wave|Solara's favorite!|L||norm||C3|These will give Solara the most power!",
+		"dialog"	: "|shake|黄色！|L||wave|这是索拉纳最喜欢的！|L||norm||C3|这些能够给索拉纳最多的力量！",
 	},
 	"blue_comment"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
-		"dialog"	: "|shake|Ouch!|norm||L|These ones shocked Solara!",
+		"dialog"	: "|shake|哎呦！|norm||L|这些把索拉纳电到了！",
 	},
 	"orange_comment"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_upset"],
-		"dialog"	: "Who mixed all these yellow ones with red?",
+		"dialog"	: "谁把黄色的和红色的混合在一起了？",
 	},
 	"purple_comment"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "Are you sure these are Tetrids?|L|They feel like nothing to Solara.",
+		"dialog"	: "你确定这些是棱晶吗？|L|索拉纳感觉好像什么都没有。",
 	},
 	"radiant_comment"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-		"dialog"	: "These have all the colors!|L||wave|Especially yellow!",
+		"dialog"	: "这些有着所有的颜色！|L||wave|尤其是黄色！",
 	},
 	"upgrade_confirm"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "You will give Solara these |C3|Tetrids?",
+		"dialog"	: "你会给索拉纳这些|C3|棱晶吗？",
 	},
 	
 	
@@ -237,11 +237,11 @@
 	"leaving" 	: [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-			"dialog"			: "Solara will now go searching for more gifts!",
+			"dialog"			: "索拉纳现在会去找更多的礼物！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "|wave|Enjoy the rest of this endless nightmare!",
+			"dialog"			: "|wave|享受剩下的无尽的梦魇！",
 		},
 	],
 

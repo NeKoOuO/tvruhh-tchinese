@@ -8,37 +8,37 @@
 			"text_w"			: 284,
 			"voice"				: "VOICE_default",
 			"random"			: 4,
-			"dialog_rand1"		: "|C3|She finds a lonely gift on the ground.",
-			"dialog_rand2"		: "|C3|She notices a lonely gift along her path.",
-			"dialog_rand3"		: "|C3|She comes across a gift that seemingly belongs to no one.",
-			"dialog_rand4"		: "|C3|A gift seems to be intentionally placed along her path.",
+			"dialog_rand1"		: "|C3|她在地上发现了一个孤独的礼物。",
+			"dialog_rand2"		: "|C3|她在路边注意到了一个孤独的礼物。",
+			"dialog_rand3"		: "|C3|她遇到了一个好像不属于任何人的礼物。",
+			"dialog_rand4"		: "|C3|一个礼物看起来好像是被故意放在了她的必经之路上。",
 		},
 	],
 
-	"ask_q1"		: "What does she do?",
-	"ask1_a"		: "Check the gift",
-	"ask1_b"		: "Leave the gift (+[VAL1] Karma)",
+	"ask_q1"		: "她要做什么？",
+	"ask1_a"		: "查看礼物",
+	"ask1_b"		: "留下礼物(+[VAL1]因果)",
 
-	"ask_q2"		: "Will she take this gift?",
-	"ask2_a"		: "Take the gift",
-	"ask2_b"		: "Leave the gift (+[VAL1] Karma)",
+	"ask_q2"		: "她会带走礼物吗？",
+	"ask2_a"		: "带走礼物",
+	"ask2_b"		: "留下礼物(+[VAL1]因果)",
 	
 	"check_gift" : [
 		{
 			"voice"				: "VOICE_default",
-			"dialog"			: "|C3|She takes a closer look at the gift.",
+			"dialog"			: "|C3|她仔细看了看那礼物。",
 		},
 	],
 	"take_gift" : [
 		{
 			"voice"				: "VOICE_default",
-			"dialog"			: "|C3|She chooses to take the gift.",
+			"dialog"			: "|C3|她选择带走礼物。",
 		},
 	],
 	"leave_gift" : [
 		{
 			"voice"				: "VOICE_default",
-			"dialog"			: "|C3|She chooses to leave the gift alone.",
+			"dialog"			: "|C3|她选择留下礼物。",
 		},
 	],
 }

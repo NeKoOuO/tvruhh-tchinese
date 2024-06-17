@@ -8,36 +8,36 @@
 			"text_w"			: 284,
 			"voice"				: "VOICE_default",
 			"random"			: 3,
-			"dialog_rand1"		: "|C3|The end of another day is near.",
-			"dialog_rand2"		: "|C3|The sun has set on yet another day.",
-			"dialog_rand3"		: "|C3|Another day is almost behind her.",
+			"dialog_rand1"		: "|C3|另一日的结末将近。",
+			"dialog_rand2"		: "|C3|另一日的太阳即将升起。",
+			"dialog_rand3"		: "|C3|她即将度过另一日。",
 		},
 		{
 			"random"			: 3,
-			"dialog_rand1"		: "|C3|The rain was endless once again.",
-			"dialog_rand2"		: "|C3|Once again, the rain was ceaseless.",
-			"dialog_rand3"		: "|C3|The darkness of the rain grows with the night.",
+			"dialog_rand1"		: "|C3|大雨再一次无穷无尽。",
+			"dialog_rand2"		: "|C3|又一次，大雨似乎永不停歇。",
+			"dialog_rand3"		: "|C3|大雨的暗随着夜色增长。",
 		},
 		{
 			"random"			: 3,
-			"dialog_rand1"		: "|C3|The time has come to choose a path.",
-			"dialog_rand2"		: "|C3|She must choose a final path.",
-			"dialog_rand3"		: "|C3|What path will she take today?",
+			"dialog_rand1"		: "|C3|选择道路的时候到了。",
+			"dialog_rand2"		: "|C3|她必须选择一条最终的道路。",
+			"dialog_rand3"		: "|C3|她今天会选择什么样的道路呢？",
 		}
 	],
 	
-	"???_name"	: "???",
-	"???_path"	: "The Unknown",
+	"???_name"	: "？？？",
+	"???_path"	: "未知",
 	
-	"1_battle"	: "1 Battle",
-	"x_battles"	: "[VAL1] Battles",
+	"1_battle"	: "1场战斗",
+	"x_battles"	: "[VAL1]场战斗",
 	
-	"max_warning"	: "[VAL1] must be radiated to reach level [VAL2]",
+	"max_warning"	: "[VAL1]必须被点亮以到达等级[VAL2]",
 	
 	"chosen" : [
 		{
 			"voice"				: "VOICE_default",
-			"dialog"			: "|C3|She sets off on her chosen path.",
+			"dialog"			: "|C3|她踏上了自己选择的道路。",
 		},
 	],
 
