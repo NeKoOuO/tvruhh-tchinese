@@ -9,67 +9,67 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_blank_intro1_1",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|This is the story of a young Zaraden woman.",
+			"dialog"			: "|C1|这是一位年幼扎拉登女性的故事。",
 		},
 		{
-			"dialog"			: "|C1|She lived in a cave far away from anyone.",
+			"dialog"			: "|C1|她住在一个远离其他人的洞窟里。",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|She was so pale and ugly.",
+			"dialog"			: "|C2||shake|她如此苍白与丑陋。",
 		},
 		{
-			"dialog"			: "|C2||shake|Nobody loved her.",
+			"dialog"			: "|C2||shake|没有人爱她。",
 		},
 		{
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|She was all alone.",
+			"dialog"			: "|C1|她独自一人。",
 		},
 		{
 			"bg_image"			: "spr_blank_intro1_2",
-			"dialog"			: "|C1|Except for the monsters.",
+			"dialog"			: "|C1|除了怪物们。",
 		},
 		{
-			"dialog"			: "|C1|She could not leave her cave for long.",
+			"dialog"			: "|C1|她无法离开她的洞窟太久。",
 		},
 		{
-			"dialog"			: "|C1|The monsters would find her.",
+			"dialog"			: "|C1|怪物们会找到她的。",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|She deserved to live in that hole.",
+			"dialog"			: "|C2||shake|她只配住在那个洞里。",
 		},
 		{
 			"bg_image"			: "spr_blank_intro1_3",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|She could not escape.",
+			"dialog"			: "|C1|她无法逃离。",
 		},
 		{
-			"dialog"			: "|C1|She just wanted to fly away, but...",
+			"dialog"			: "|C1|她只想要飞走，但是...",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|Her deformed wings were useless.",
+			"dialog"			: "|C2||shake|她畸形的翅膀一无是处。",
 		},
 		{
-			"dialog"			: "|C2||shake|She should have just given up.",
+			"dialog"			: "|C2||shake|她就应该早点放弃。",
 		},
 		{
 			"bg_image"			: "spr_blank_intro1_4",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|But she would not give up.",
+			"dialog"			: "|C1|但是她不会放弃。",
 		},
 		{
-			"dialog"			: "|C1|She had found the ultimate power.",
+			"dialog"			: "|C1|她已经找到了最终极的力量。",
 		},
 		{
 			"text_x"			: 144,
 			"text_w"			: 256,
 			"bg_image"			: "spr_blank_intro1_5",
-			"dialog"			: "|C1||wave|She could love those monsters.",
+			"dialog"			: "|C1||wave|她可以去爱那些怪物们。",
 		},
 		{
-			"dialog"			: "|C1||wave|She could help them understand love too!",
+			"dialog"			: "|C1||wave|她也可以帮助她们去理解爱！",
 		},
 		{
 			"play_music"		: "silence",

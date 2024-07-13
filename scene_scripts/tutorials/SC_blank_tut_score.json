@@ -5,202 +5,202 @@
 			"play_music"	: "tutorbot_scene_music",
 			"bg_image"		: "spr_tutorial_common",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit has another set of information for the young Zaraden.",
+			"dialog"		: "本单元为年幼的扎拉登准备了另一批信息。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit will now explain how to extract |C3|tetrid motes|C0| from monsters as efficiently as possible.",
+			"dialog"		: "本单元现将解释如何从怪物那里最有效地提取|C3|棱晶魔尘|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Otherwise referred to as |C3|earning a high score.|C0|",
+			"dialog"		: "又被称之为|C3|获得高分|C0|。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"		: "|wave|Oh, that sounds fun!",
+			"dialog"		: "|wave|哦，这听起来还挺有趣的！",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "There are three important factors to consider when earning a high score.",
+			"dialog"		: "当想要获取高分时有三个重要的因素需要考虑。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|First Factor:|C0| The simplest way to extract |C3|motes|C0| from a monster is by breaking off pieces of the monster.",
+			"dialog"		: "|C3|第一个因素:|C0|从怪物那里提取|C3|魔尘|C0|最简单的方法时破坏怪物的部位。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Your love is powerful enough to break parts of monster's |C3|weapons|C0| and |C3|armor.",
+			"dialog"		: "你的爱足够强大，能够破坏怪物的|C3|武器|C0|与|C3|装甲|C0|的部件。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Not every monster has breakable parts, but many of them do.",
+			"dialog"		: "并非所有的怪物都有可破坏的部件，但许多怪物都会有。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Suggestion:|C0| Look for breakable parts on each monster and break them.",
+			"dialog"		: "|C3|建议:|C0|寻找怪物身上可破坏的部位并破坏它们。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"		: "I think the monsters built up such defenses because they are afraid of love.",
+			"dialog"		: "我认为怪物构筑起了如此的防御是因为她们恐惧着爱。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"		: "They     don't think they deserve any.",
+			"dialog"		: "她们     不觉得自己配得上任何的爱。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_aggressive"],
-			"dialog"		: "I'll show them that they do!",
+			"dialog"		: "我会让她们意识到这种想法是错的！",
 		},
 		
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Second Factor:|C0| holding a |C3|love combo|C0| on a monster will prime |C3|motes|C0| for extraction.",
+			"dialog"		: "|C3|第二个因素:|C0|在怪物身上保持|C3|爱之连击|C0|能够处理|C3|魔尘|C0|使之尚待提取。",
 		},
 		{
 			"show_tutorial"	: "combo_bar1",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "The current |C3|love combo|C0| will be displayed as the white portion of the monster's |C3|fear bar.|C0|",
+			"dialog"		: "当前的|C3|爱之连击|C0|会在怪物的|C3|恐惧条|C0|上以白色部分表示。",
 		},
 		{
 			"show_tutorial"	: "combo_bar2",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "A |C3|love combo|C0| will grow as long as love is continuously inflicted upon the monster.",
+			"dialog"		: "只要爱被不间断的施加于怪物，|C3|爱之连击|C0|就能够不断增长。",
 		},
 		{
 			"show_tutorial"	: "combo_bar3",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "If no love is inflicted for too long,  or   if your heart takes damage, then the monster will feel rejected and |C3|end the combo.",
+			"dialog"		: "如果太久没有爱施加于怪物身上，或者   假如你的心受到了伤害，那么怪物就会感到被拒绝并|C3|结束连击。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "All primed |C3|motes|C0| are extracted the moment a |C3|love combo|C0| ends.",
+			"dialog"		: "所有处理好的|C3|魔尘|C0|将在|C3|爱之连击|C0|结束时被提取。",
 		},
 		{
 			"show_tutorial"	: "combo_bar4",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "If a |C3|love combo|C0| is held for the entire battle, then it will become a |C3|full combo.|C0|",
+			"dialog"		: "假如|C3|爱之连击|C0|在整场战斗中都能够被保持，则会变为|C3|全连击|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "A |C3|full combo|C0| will extract the optimal amount of |C3|motes|C0| that are possible via combo extractions.",
+			"dialog"		: "|C3|全连击|C0|能够提取连击可获得的最大量的|C3|魔尘|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Suggestion:|C0| Always get a |C3|full combo.|C0|",
+			"dialog"		: "|C3|建议:|C0|总是达成|C3|全连击|C0|。",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious2"],
-			"dialog"		: "You make it sound so    easy.",
+			"dialog"		: "你让这件事听起来    如此简单。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"		: "|shake|Hey wait!",
+			"dialog"		: "|shake|嘿等一下！",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "Sometimes a monster will fly somewhere that my heart can't reach.|!||L|I can't possibly keep a combo if that happens.",
+			"dialog"		: "有时候怪物会飞到我的心够不到的地方。|!||L|这种事情发生时我就不能够维持连击了。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This is not a problem.",
+			"dialog"		: "这并不会成为问题。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit has observed that, under certain conditions, monsters will hold the |C3|love combo|C0| by themselves.",
+			"dialog"		: "本单元观察到，在特定条件下，怪物们会自己维持|C3|爱之连击|C0|。",
 		},
 		{
 			"show_tutorial"	: "combo_bar5",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "During this time, the |C3|love combo|C0| will turn yellow on the monster's |C3|fear bar.|C0|",
+			"dialog"		: "在这种情况下，怪物|C3|恐惧条|C0|上显示的|C3|爱之连击|C0|将会变为黄色。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Monsters will always hold the combo if they fly out of sight.",
+			"dialog"		: "当怪物飞出视线之外时，她们总会保持连击。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Some monsters will also hold the combo during certain attacks, or if they simply feel like it.",
+			"dialog"		: "有时怪物们会在特定的攻击时保持连击，或她们单纯想的时候也会。",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "Why would they help me like that?",
+			"dialog"		: "为什么她们会像这样帮助我？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Perhaps the monsters do not wish to be rude.",
+			"dialog"		: "可能怪物们不想显得太粗鲁。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "|wave|They try to kill me so politely.",
+			"dialog"		: "|wave|她们想要非常礼貌地杀了我。",
 		},
 		
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Third Factor:|C0| All extractions of any method will contain extra motes if you have an |C3|extraction bonus.|C0|",
+			"dialog"		: "|C3|第三个因素:|C0|当你拥有|C3|提取奖励|C0|时，所有提取方式都能够获得额外的魔尘。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "You will begin every battle with a |C3|25% extraction bonus.|C0|",
+			"dialog"		: "每场战斗开始时，你会带有|C3|25%的提取奖励|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This means that every single extraction will contain |C3|25% extra motes|C0| until your heart takes damage.",
+			"dialog"		: "这意味着每次提取都包含|C3|25%的额外魔尘|C0|直至你的心受到伤害。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "If your heart takes damage once, then the bonus will be reduced to a |C3|10% extraction bonus.|C0|",
+			"dialog"		: "如果你的心受到了一次伤害，那么该奖励会降低为|C3|10%的提取奖励|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "If your heart takes damage a second time, you will lose the |C3|extraction bonus|C0| for the rest of the battle.",
+			"dialog"		: "如果你的心受到了第二次伤害，那么你在本场战斗中剩下的时间将会失去|C3|提取奖励|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "If a |C3|love combo|C0| is ended by taking damage, then the previous bonus will still apply to that extraction.",
+			"dialog"		: "如果|C3|爱之连击|C0|由于受到伤害被结束，那么受伤前的提取奖励仍会适用于该连击提取。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "I didn't realize there was so much math involved in love.",
+			"dialog"		: "我从未意识到爱之中包含了许多的数学知识。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "The important thing is that you avoid getting hit.",
+			"dialog"		: "重要的事情是你需要避免被击中。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Suggestion:|C0| Do not get hit.",
+			"dialog"		: "|C3|建议:|C0|不要受击。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "...Thanks, Little Robot.|!||L|I'll try not to get hurt.",
+			"dialog"		: "...谢谢，小机器人。|!||L|我会试着不受伤的。",
 		},
 		
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Always remember the three factors for earning a high score.",
+			"dialog"		: "请谨记获得高分的三个因素。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Break all the monster parts.|L||!|Hold a full combo.|L||!|Don't get hit.",
+			"dialog"		: "|C3|破坏所有怪物部位。|L||!|维持全连击。|L||!|不要受击。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"		: "|wave|Thank you Little Robot.|!||L||norm|I'll try to keep this in mind.",
+			"dialog"		: "|wave|谢谢你小机器人。|!||L||norm|我会试着记在心里的。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"		: "And you must remember this.",
+			"dialog"		: "而你必须记住这一点。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "|wave|I love you.",
+			"dialog"		: "|wave|我爱你。",
 		},
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "This Unit is running out of storage space for all this love.",
+			"dialog"		: "本单元的存储空间即将不足以储存如此多的爱。",
 		}
 		
 		

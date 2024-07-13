@@ -9,10 +9,10 @@
 			"play_music"		: "game_over_music",
 			"bg_image"			: "spr_blank_heartbreak",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|She would repair it again.",
+			"dialog"			: "|C1|她会再修好这颗心的。",
 		},
 		{
-			"dialog"			: "|C1|She always did.",
+			"dialog"			: "|C1|她一直如此。",
 		}
 	]
 }

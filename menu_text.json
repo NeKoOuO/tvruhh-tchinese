@@ -11,6 +11,7 @@
 	"UI_start_battle" 	: "开始战斗",
 	"UI_options"      	: "选项",
 	"UI_details"      	: "详情",
+	"UI_scroll"      	: "滚动",
 	"UI_view"      		: "查看",
 	"UI_hide"    		: "躲藏",
 	"UI_radiate"      	: "点亮",
@@ -861,7 +862,7 @@
 		"loved"				: "爱过",
 		"found"				: "发现",
 		"radiated"			: "点亮",
-		"dreams_clear"		: "满足的梦境",
+		"dreams_clear"		: "实现的梦境",
 		"songs_found"		: "解锁的音乐",
 		"scenes_found"		: "解锁的场景",
 		

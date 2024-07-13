@@ -9,22 +9,22 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"voice"				: "VOICE_static",
-			"dialog"			: "Please try to remember",
+			"dialog"			: "请试着想起",
 		},
 		{
-			"dialog"			: "No matter how hard it gets",
+			"dialog"			: "无论变得多么困难",
 		},
 		{
-			"dialog"			: "When you just want to give up",
+			"dialog"			: "当你想要放弃的时候",
 		},
 		{
-			"dialog"			: "Just remember",
+			"dialog"			: "只要记得",
 		},
 		{
-			"dialog"			: "Somebody always loves you.",
+			"dialog"			: "有人一直爱着你。",
 		},
 		{
-			"dialog"			: "Ignore the voices that say otherwise!",
+			"dialog"			: "请无视否决这一点的声音！",
 		},
 		{
 			"center_text_x"		: 1,

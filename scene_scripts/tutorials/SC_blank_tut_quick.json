@@ -5,85 +5,85 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "|wave|Little Robot!|norm||L||!|You are just the robot that I wanted to see.",
+			"dialog"			: "|wave|小机器人！|norm||L||!|你就是我一直想见的那个机器人。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Hold on to that thought.|L||!|This Unit has detected another new type of |C3|gift.",
+			"dialog"			: "请暂缓该想法。|L||!|本单元侦测到另一种新类型的|C3|礼物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "Another type of |C3|gift?",
+			"dialog"			: "另一种类型的|C3|礼物？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "They really spoil me too much.",
+			"dialog"			: "她们真的太溺爱我了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit will now explain |C3|Quick Gifts.",
+			"dialog"			: "本单元现将解释|C3|快速礼物。",
 		},
 		{
 			"show_tutorial"		: "small_quick_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Some monsters will now have |C3|Quick Gifts|C0| for you.",
+			"dialog"			: "有些怪物现在会有着|C3|快速礼物|C0|给你。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Having more |C3|karma|C0| will also increase the chance of finding them.",
+			"dialog"			: "拥有更多的|C3|因果|C0|同样能够增加找到它们的几率。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Unlike the other gift types, |C3|Quick Gifts|C0| do not take effect automatically.",
+			"dialog"			: "与其他礼物类型不同，|C3|快速礼物|C0|的效果不会自动生效。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Instead, |C3|Quick Gifts|C0| must be activated before starting a battle.",
+			"dialog"			: "相对的，|C3|快速礼物|C0|必须在开始战斗前激活。",
 		},
 		{
 			"show_tutorial"		: "example_quick_card1",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "The effects of a |C3|Quick Gift|C0| will wear off after the number of battles denoted on the gift.",
+			"dialog"			: "|C3|快速礼物|C0|的效果将会在礼物上显示的战斗场数后失效。",
 		},
 		{
 			"show_tutorial"		: "example_quick_card2",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Many of them will only last a single battle.",
+			"dialog"			: "其中许多仅会持续一场战斗。",
 		},
 		{
 			"show_tutorial"		: "small_quick_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "You can only hold and activate a limited amount of |C3|Quick Gifts.",
+			"dialog"			: "你仅能够持有并激活有限的|C3|快速礼物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Monsters will not have any |C3|Quick Gifts|C0| for you if you are already holding too many.",
+			"dialog"			: "如果你已经持有过多的话，怪物们将不会有任何|C3|快速礼物|C0|给你。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Do not forget to use any |C3|Quick Gifts|C0| that you receive.",
+			"dialog"			: "|C3|建议:|C0|不要忘记使用你收到的任何|C3|快速礼物|C0|。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "Thank you Little Robot!|L||!|I'll be sure to use them.",
+			"dialog"			: "谢谢你小机器人！|L||!|我一定会使用它们的。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "On to other matters, why did this Zaraden want to see This Unit?",
+			"dialog"			: "关于其他事情，为什么这位扎拉登想要见到本单元呢？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "Oh, I have something very important to tell you.",
+			"dialog"			: "哦，我有非常重要的事情要告诉你。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you.",
+			"dialog"			: "|wave|我爱你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "This Unit is experiencing a sudden rise in temperature.|L||!|All cooling fans are failing.",
+			"dialog"			: "本单元正感受到温度突然上升。|L||!|所有冷却风扇故障。",
 		}
 	]
 }

@@ -5,97 +5,97 @@
 			"play_music"	: "tutorbot_scene_music",
 			"bg_image"		: "spr_tutorial_common",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit must interrupt your current dream sequence with important information.",
+			"dialog"		: "本单元有重要的信息，必须打断你现在的梦境程序。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit will now explain the unique rules of a |C3|shiny battle.|C0|",
+			"dialog"		: "本单元现将解释|C3|闪亮战斗|C0|的独特规则。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Shiny battles|C0| are always fought against a monster that already loves you.",
+			"dialog"		: "|C3|闪亮战斗|C0|总会对战一位你已经爱过的怪物。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Because of that, your attacks will not reduce the |C3|fear|C0| of this monster.",
+			"dialog"		: "正因如此，你的攻击将无法减少该怪物的|C3|恐惧|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Instead, your mere presence will drain the monster's |C3|fear|C0| over time.",
+			"dialog"		: "相对应的，你的存在就能够使怪物的|C3|恐惧|C0|随时间消失。",
 		},
 		{
 			"show_tutorial"	: "love_bar_partial",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Your attacks will fill the monster's |C3|love bar|C0| during a shiny battle.",
+			"dialog"		: "在闪亮战斗中，你的攻击能够填充怪物的|C3|爱之量表|C0|。",
 		},
 		{
 			"show_tutorial"	: "love_bar_full",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "When the |C3|love bar|C0| is full, the monster will attack you.",
+			"dialog"		: "当|C3|爱之量表|C0|已满时，怪物就会攻击你。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit has sensed that you are wondering why you would want the monster to attack you?",
+			"dialog"		: "本单元感知到了你的疑惑，为什么你会想要怪物攻击你？",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "That is because monsters will attack you with |C3|treasure bullets|C0| during a shiny battle.",
+			"dialog"		: "这是因为在闪亮战斗中，怪物们会使用|C3|宝物子弹|C0|攻击你。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Treasure bullets|C0| do not harm you and they also contain |C3|motes|C0| within them.",
+			"dialog"		: "|C3|宝物子弹|C0|不会伤害你，并且其中还含有|C3|魔尘|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Suggestion:|C0| Extract these motes by colliding your heart into as many |C3|treasure bullets|C0| as possible.",
-		},
-		{
-			"show_tutorial"	: "love_bar_full",
-			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "The monster's |C3|fear|C0| will also stop draining for the duration of the attack.",
+			"dialog"		: "|C3|建议:|C0|让你的心接触到尽可能多的|C3|宝物子弹|C0|以提取这些魔尘。",
 		},
 		{
 			"show_tutorial"	: "love_bar_full",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This will extend the battle and give you more time to collect motes.",
+			"dialog"		: "在怪物进行这段攻击时，|C3|恐惧|C0|也会停止流逝。",
+		},
+		{
+			"show_tutorial"	: "love_bar_full",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "这将会延长战斗，从而让你能够有更多时间收集魔尘。",
 		},
 		{
 			"show_tutorial"	: "love_bar_empty",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Once the monster's attack ends, the |C3|love bar|C0| will empty and her |C3|fear|C0| will resume draining.",
+			"dialog"		: "当怪物的攻击结束时，|C3|爱之量表|C0|会被清空，而|C3|恐惧|C0|也会继续开始流逝。",
 		},
 		{
 			"show_tutorial"	: "love_bar_partial",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "The |C3|love bar|C0| will require more love to fill it after every subsequent attack.",
+			"dialog"		: "每进行一次攻击，|C3|爱之量表|C0|都会需要更多的爱才能够填满。",
 		},
 		{
 			"show_tutorial"	: "combo_bar6",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "One final thing to note is that |C3|shiny monsters|C0| will hold your combo the same as any |C3|shy monster|C0| would.",
+			"dialog"		: "最后还有一件需要注意的事情，|C3|闪亮怪物|C0|会和|C3|羞涩怪物|C0|有着一样的连击维持机制。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "That is, your combo will only drop if a |C3|minion with motes inside|C0| escapes from the arena.",
+			"dialog"		: "也就是说，仅当|C3|带有魔尘的小怪|C0|离开战斗区域时你的连击才会结束。",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "That is all the information on |C3|shiny battles|C0| that This Unit has for you.",
+			"dialog"		: "这些就是关于|C3|闪亮战斗|C0|本单元为你准备的全部信息。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit wishes you good luck in this |C3|shiny battle.|C0|",
+			"dialog"		: "在这场|C3|闪亮战斗|C0|中，本单元将祝你好运。",
 		},
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "This Unit is experiencing a sudden rise in temperature.",
+			"dialog"		: "本单元感觉到温度突然上升。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "Is nowhere safe from the boundless love of that Zaraden?",
+			"dialog"		: "这位扎拉登无边无际的爱是否无法逃离？",
 		}
 	]
 }

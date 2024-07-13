@@ -1,10 +1,10 @@
 {
 
-	"dc_fulfilled"		: "梦境满足",
+	"dc_fulfilled"		: "梦境实现",
 	"dc_reward"			: "奖励",
 
 	"dream_groups" : {
-		"dreams_complete"	: "满足的梦境",
+		"dreams_complete"	: "实现的梦境",
 		"main_this_monster"	: "[VAL1]的梦境",
 		
 		"main_unlocks"		: "解锁新内容",
@@ -78,7 +78,7 @@
 		"sub_nova"			: "超新星梦境",
 	},
 
-	"nothing_awaits"  	: "满足等待着你",
+	"nothing_awaits"  	: "实现等待着你",
 	"monster_awaits"  	: "一个新的怪物等待着你",
 	"gift_awaits_1"  	: "一个新的简单力量礼物等待着你",
 	"gift_awaits_2"  	: "一个新的可爱力量礼物等待着你",
@@ -97,7 +97,7 @@
 	"special_awaits"  	: "某样新的东西等待着你",
 	"???_awaits"  		: "??? 等待着你",
 
-	"no_reward"  		: "梦境的满足即为它的奖励",
+	"no_reward"  		: "梦境的实现即为它的奖励",
 	"early_access"  	: "后续可能会增加奖励，其将会追溯解锁。",
 	"monster_reward"	: "一个新的怪物可以被爱",
 	"gift_reward_1"		: "一个新的简单力量礼物可以被找到",
@@ -3110,5 +3110,22 @@
 		"name"    : "Tripping on a Hole in a Paper Heart",
 		"desc"    : "Break 60 glyphs in battles with Dandy (Story Mode)",
 	},
+
+	"DR_indigo1" : {
+
+		"name"    : "Restless Heart Syndrome",
+
+		"desc"    : "Fully destroy 5 of Indigo's clones in a single level 6 battle or higher",
+
+	},
+
+	"DR_indigo2" : {
+
+		"name"    : "Leave How I Arrived, So Alive",
+
+		"desc"    : "Defeat Indigo without fully destroying any of her clones (Story Mode)",
+
+	},
+
 
 }

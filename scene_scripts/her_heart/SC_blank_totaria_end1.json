@@ -9,16 +9,16 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_blank_totaria_end1_1",
 			"voice"				: "VOICE_totaria",
-			"dialog"			: "|C2|She still thinks that I can be loved.",
+			"dialog"			: "|C2|她仍旧认为我能够被爱。",
 		},
 		{
-			"dialog"			: "|C2|I am not like the others.",
+			"dialog"			: "|C2|我与其他人不一样。",
 		},
 		{
-			"dialog"			: "|C2|This power does not work on me.",
+			"dialog"			: "|C2|这种力量对我无效。",
 		},
 		{
-			"dialog"			: "|C2|I will harvest her heart now while she is dreaming.",
+			"dialog"			: "|C2|当她仍在梦中时，我会收获她的心。",
 		},
 		{
 			"transition_type"	: 1,
@@ -26,50 +26,50 @@
 			"dialog"			: "|C2||shake|AaaAaAhHH!",
 		},
 		{
-			"dialog"			: "|C2|What is this power?",
+			"dialog"			: "|C2|这是什么力量？",
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_3",
-			"dialog"			: "|C2||shake|Love can't do this!",
+			"dialog"			: "|C2||shake|爱可无法做到这一切！",
 		},
 		{
-			"dialog"			: "|C2|This is something otherworldly!",
+			"dialog"			: "|C2|这是某种异界的东西！",
 		},
 		{
-			"dialog"			: "|C2|I think this heart could really be used to fix them.",
+			"dialog"			: "|C2|我觉得这颗心绝对能够用来修复她们。",
 		},
 		{
-			"dialog"			: "|C2|I need to take it!",
+			"dialog"			: "|C2|我必须要带走它！",
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_4",
 			"dialog"			: "|C2||shake|AaAAaaHhH!",
 		},
 		{
-			"dialog"			: "|C2||shake|I can't even touch it!",
+			"dialog"			: "|C2||shake|我甚至都无法触碰它！",
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_5",
-			"dialog"			: "|C2|This is impossible.",
+			"dialog"			: "|C2|这不可能。",
 		},
 		{
 			"dialog"			: "|C2|. . .",
 		},
 		{
-			"dialog"			: "|C2|The rain is slowing down.",
+			"dialog"			: "|C2|雨正在逐渐停息。",
 		},
 		{
-			"dialog"			: "|C2|So it will be resetting any moment now.",
+			"dialog"			: "|C2|那么随时都可能重置了。",
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_6",
-			"dialog"			: "|C2|It seems that I am out of time.",
+			"dialog"			: "|C2|看起来我的时间所剩无几。",
 		},
 		{
-			"dialog"			: "|C2|But I know that she will come back.",
+			"dialog"			: "|C2|但我知道她会回来的。",
 		},
 		{
-			"dialog"			: "|C2|She always does.",
+			"dialog"			: "|C2|她一直会的。",
 		}
 	]
 }

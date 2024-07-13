@@ -5,105 +5,105 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "Little Robot!    The monsters |wave|really love me!",
+			"dialog"			: "小机器人！    怪物们|wave|真的很爱我！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "I feel so loved right now.",
+			"dialog"			: "我感觉到了如此多的爱。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit is feeling immense joy for the young Zaraden.",
+			"dialog"			: "本单元从这位扎拉登身上感受到了巨大的喜悦。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has also acquired new information for you.",
+			"dialog"			: "本单元也为你收集到了新的信息。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "Okay!    I'm listening.",
+			"dialog"			: "好的！    我在听。",
 		},
 		{
 			"show_tutorial"		: "karma_ring",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit will now explain |C3|karma.",
+			"dialog"			: "本单元现将解释|C3|因果。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Monsters will give you |C3|karma|C0| when they are loved.",
+			"dialog"			: "当怪物们感到被爱时，她们会给你|C3|因果|C0|。",
 		},
 		{
 			"show_tutorial"		: "karma_power_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Having |C3|karma|C0| increases the chance of receiving |C3|higher rank gifts|C0| from monsters.",
+			"dialog"			: "拥有|C3|因果|C0|能够增加你从怪物那里收到|C3|更高阶级礼物|C0|的概率。",
 		},
 		{
 			"show_tutorial"		: "four_monster_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Having |C3|karma|C0| also increases the chance of having up to four monsters to choose from.",
+			"dialog"			: "拥有|C3|因果|C0|同样有几率能够增加怪物选项到至多四个。",
 		},
 		{
 			"show_tutorial"		: "monster_preview_karma",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Loving |C3|higher level monsters|C0| will often result in more |C3|karma.",
+			"dialog"			: "去爱|C3|更高等级的怪物|C0|一般能够得到更多的|C3|因果|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Always choose the highest level monster in order to |C3|maximize karma.",
+			"dialog"			: "|C3|建议：|C0|永远选择最高等级的怪物以|C3|最大化因果获取|C0|。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "That    might be a little too hard to do.",
+			"dialog"			: "这    可能对我来说有一些难。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Update:|C0| It occurs to This Unit that you may not have fully developed your skill yet.",
+			"dialog"			: "|C3|更新：|C0|本单元意识到你尚未完全开发出你的技术。",
 		},
 		{
 			"show_tutorial"		: "karma_power_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "It is true that loving stronger monsters will result in more |C3|karma|C0| and thus |C3|better gifts.",
+			"dialog"			: "确实去爱更强的怪物能够获取更多的|C3|因果|C0|并得到|C3|更好的礼物|C0|。",
 		},
 		{
 			"show_tutorial"		: "higher_level_monsters",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "However, loving stronger monsters will also lead to |C3|higher level monsters|C0| in future stages.",
+			"dialog"			: "但是，爱更强的怪物也会导致未来关卡出现|C3|更高等级的怪物|C0|。",
 		},
 		{
 			"show_tutorial"		: "lower_level_monsters",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Likewise, loving weaker monsters will lead to |C3|lower level monsters|C0| in future stages.",
+			"dialog"			: "同理，爱更弱小的怪物会导致未来关卡出现|C3|较低等级的怪物|C0|。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Ignore the previous suggestion.",
+			"dialog"			: "|C3|建议：|C0|无视前述建议。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Revised Suggestion:|C0| Always choose your battles carefully.",
+			"dialog"			: "|C3|修改后建议：|C0|请始终谨慎选择你的战斗。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "So I have control over how tough the battles get?",
+			"dialog"			: "所以我能够控制战斗有多艰难？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Precisely.",
+			"dialog"			: "没错。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "There is only one thing I have to say about that.",
+			"dialog"			: "对此我只有一件事想要说。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you.",
+			"dialog"			: "|wave|我爱你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "This Unit is beginning to detect a pattern.",
+			"dialog"			: "本单元已检测到一种固定行为模式。",
 		}
 	]
 }

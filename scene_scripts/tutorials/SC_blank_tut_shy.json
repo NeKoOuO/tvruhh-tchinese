@@ -5,76 +5,76 @@
 			"play_music"	: "tutorbot_scene_music",
 			"bg_image"		: "spr_tutorial_common",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit must interrupt your current dream sequence with important information.",
+			"dialog"		: "本单元有重要的信息，必须打断你现在的梦境程序。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit will now explain the unique rules of a |C3|shy battle.|C0|",
+			"dialog"		: "本单元现将解释|C3|羞涩战斗|C0|的独特规则。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "During a |C3|shy battle,|C0| the monster will send out many small minions to attack you.",
+			"dialog"		: "在|C3|羞涩战斗|C0|中，怪物们会派出许多小型怪物攻击你。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "If the |C3|shy monster|C0| is absent at the start of the battle, you must lure her out by showing love to her minions first.",
+			"dialog"		: "如果|C3|羞涩怪物|C0|没有在战斗开始时出现，那么你需要先向她的小怪展示爱从而引诱她现身。",
 		},
 		{
 			"show_tutorial"	: "combo_bar6",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Shy monsters will always hold the |C3|love combo|C0| by turning it green.",
+			"dialog"		: "羞涩怪物会一直维持|C3|爱之连击|C0|并将其变为绿色的。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Inflicting continuous love is not necessary to hold the combo while it is green.",
+			"dialog"		: "当变为绿色时，不断施加连续的爱对维持连击而言并非必要。",
 		},
 		{
 			"show_tutorial"	: "combo_bar7",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Instead, a green combo will only drop if a |C3|minion escapes without receiving love.|C0|",
+			"dialog"		: "相对应的，仅当|C3|带有魔尘的小怪|C0|离开战斗区域时，绿色连击才会结束。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Shy monster minions will often attempt to |C3|escape the arena|C0| as they attack.",
+			"dialog"		: "羞涩怪物的小怪在攻击时经常会尝试|C3|离开战斗区域|C0|。",
 		},
 		{
 			"show_tutorial"	: "combo_bar8",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "To achieve a |C3|full combo,|C0| you must not allow any minions to escape.",
+			"dialog"		: "为了达成|C3|全连击|C0|，你必须阻止所有小怪逃离。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Suggestion:|C0| Never let any minions escape.",
+			"dialog"		: "|C3|建议:|C0|别让任何一只小怪逃离。",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "As a reminder, |C3|charged attacks|C0| are very effective at inflicting high amounts of love in a quick burst.",
+			"dialog"		: "作为提醒，|C3|蓄力攻击|C0|对于快速施加大量的爱非常有效。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Breaking parts and loving minions will also |C3|refill a portion of charge energy.|C0|",
+			"dialog"		: "破坏部位与爱小型怪物同样能够|C3|回复一部分能量|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Suggestion:|C0| Use many charged attacks during shy battles to ensure that no one escapes from your love.",
+			"dialog"		: "|C3|建议:|C0|在羞涩战斗中使用许多蓄力攻击以确保无人能够逃离你的爱。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "That is all the information on |C3|shy battles|C0| that This Unit has for you.",
+			"dialog"		: "这些就是关于|C3|羞涩战斗|C0|本单元为你准备的全部信息。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit wishes you good luck in this |C3|shy battle.|C0|",
+			"dialog"		: "在这场|C3|羞涩战斗|C0|中，本单元将祝你好运。",
 		},
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "This Unit is experiencing a sudden rise in temperature.",
+			"dialog"		: "本单元感觉到温度突然上升。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "This Unit had a 0% chance of escape.",
+			"dialog"		: "本单元有0%的逃离概率。",
 		}
 	]
 }

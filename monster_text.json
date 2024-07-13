@@ -9,8 +9,8 @@
 	"special"		: "特殊",
 	"unknown"		: "未知",
 	
-	"shiny_battle"	: "Shiny Battle",
-	"???_before"	: "Fear the unknown",
+	"shiny_battle"	: "闪亮战斗",
+	"???_before"	: "面对未知",
 	
 	"my_notes"		: "My Notes",
 	"fear_title"	: "Monster Fear",
@@ -185,7 +185,7 @@
 	},
 	
 	"B_scrambla" : {
-		"name"    : "爬爬",
+		"name"    : "蛋花",
 		"eyeric"  : "|lin||shi||la| (Linshila)",
 		"before"  : "Don't look at us!",
 		"after"   : "We love dis embrace!",
@@ -315,7 +315,7 @@
 	},
 	
 	"B_shy_scrambla" : {
-		"name"    : "羞涩爬爬",
+		"name"    : "羞涩蛋花",
 		"eyeric"  : "|lin||shi||la||-||ze||ai||li| (Linshila Zeali)",
 		"before"  : "Don't look for us!",
 		"after"   : "We love your embrace!",
@@ -1059,12 +1059,17 @@
 	},
 	
 	"B_indigo" : {
-		"name"    : "Indigo",
+		"name"    : "靛蓝",
 		"eyeric"  : "|ah||oh||den| (Aoden)",
-		"before"  : "",
-		"after"   : "",
-		"notes"   : "",
-		"tips"    : "",
+		"before"  : "Feeling compromised, and so dezaranized",
+
+		"after"   : "I am not anxious anymore",
+
+		"notes"   : "I found this heart in a blue tube. There was also a heart shaped metal shell inside. She needs this shell to live, but she didn't want to use it anymore. I'm glad I convinced her to keep it on for now at least.|L||L|I wonder if someone was helping her, or... Of course! What else would this machine be for?",
+
+		"tips"    : "She will create a rainbow barrier that reduces damage by 75% while she fires her treasure barrages. Her clones are still fragile during this time, but damage transferred to the main heart is reduced. You might be able to break an extra one!",
+
+		"to_find" : "to_find_heart",
 	},
 	
 	"B_amber" : {
@@ -1074,6 +1079,7 @@
 		"after"   : "",
 		"notes"   : "",
 		"tips"    : "",
+		"to_find" : "to_find_heart",
 	},
 	
 	"B_violet" : {
@@ -1083,6 +1089,7 @@
 		"after"   : "",
 		"notes"   : "",
 		"tips"    : "",
+		"to_find" : "to_find_heart",
 	},
 
 }

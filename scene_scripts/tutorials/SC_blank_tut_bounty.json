@@ -5,81 +5,81 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has just discovered a new rare type of gift.",
+			"dialog"			: "本单元刚刚发现一种新的稀有类型礼物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "They have rare ones for me now?",
+			"dialog"			: "礼物现在都有稀有的了吗？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit will now explain |C3|Bounty Gifts.",
+			"dialog"			: "本单元将解释|C3|奖励礼物。",
 		},
 		{
 			"show_tutorial"		: "small_bounty_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Monsters will now rarely have |C3|Bounty Gifts|C0| for you.",
+			"dialog"			: "怪物现在在少数情况下为你准备了|C3|奖励礼物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Having more |C3|karma|C0| will increase the chance of finding them.",
+			"dialog"			: "拥有更多的|C3|因果|C0|将会提高你找到它们的几率。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Unlike all other gift types, |C3|Bounty Gifts|C0| are actually received before the battle starts.",
+			"dialog"			: "与其他礼物不同的是，|C3|奖励礼物|C0|将会在战斗开始前收下。",
 		},
 		{
 			"show_tutorial"		: "example_bounty_card",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "The effects of a |C3|Bounty Gift|C0| will only apply to that battle.",
+			"dialog"			: "|C3|奖励礼物|C0|的效果将仅适用于该场战斗。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Bounty Gifts|C0| will always increase the amount of motes you extract.",
+			"dialog"			: "|C3|奖励礼物|C0|总会增加你所提取的魔尘。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "I can get a better score with this!",
+			"dialog"			: "有了这个，我能够取得更高的分数！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "That is correct.",
+			"dialog"			: "确实如此。",
 		},
 		{
 			"show_tutorial"		: "small_red_bounty_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "There is also a second type of |C3|Bounty Gift.|C0|",
+			"dialog"			: "同样存在着第二种类型的|C3|奖励礼物。|C0|",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Burdened Bounty Gifts|C0| will also increase your score.",
+			"dialog"			: "|C3|负担奖励礼物|C0|同样会增加你的分数。",
 		},
 		{
 			"show_tutorial"		: "example_red_bounty_card",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "However, they will also provide you with a negative burden effect.",
+			"dialog"			: "但是，它们也会向你施加一种负面效果。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This burden effect will still only apply for a single battle.",
+			"dialog"			: "该负担效果仍只会施加于单次战斗。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Be extra careful when choosing a monster with a |C3|Burdened Bounty Gift.|C0|",
+			"dialog"			: "|C3|建议：|C0|在选择带有|C3|负担奖励礼物|C0|的怪物的时候需要额外注意。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "I'm already taking on their burdens.|L|What is the harm in taking one more?",
+			"dialog"			: "我已经在承受她们的负担了。|L|再承受一个也无妨？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you.",
+			"dialog"			: "|wave|我爱你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "This Unit is burdened with extreme temperature malfunctions.",
+			"dialog"			: "本单元的极端温度故障导致了严重负担。",
 		}
 	]
 }

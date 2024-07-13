@@ -5,47 +5,47 @@
 			"play_music"		: "creepy_scene_music",
 			"bg_image"			: "spr_scene_darkness",
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Have you come here to give me your heart?",
+			"dialog"			: "你来到这里是为了给我你的心吗？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "No. I actually need my heart right now, but |wave|I've come here to share my love with you!",
+			"dialog"			: "不。事实上我现在需要我的心，但|wave|我是来和你分享我的爱的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "I'm feeling a little cold.    |L|Is it getting colder?    |L|You want a hug to warm up?",
+			"dialog"			: "我现在觉得有点冷了。    |L|天气是在变冷吗？    |L|你需要一个拥抱暖和一下吗？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Ah yes, the one who tries to love me.|L||!|You've come back once again.",
+			"dialog"			: "啊，当然，你是想要爱我的那个。|L||!|你又回来了。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "I see your heart is glowing more brightly than ever before.|L||!|That will not matter.",
+			"dialog"			: "我看到你的心相较从前更加闪耀。|L||!|但这无所谓。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "Have we met before?",
+			"dialog"			: "我们之前有见过吗？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Why do you resist?|L||!|I know you are in pain.",
+			"dialog"			: "你为何抵抗？|L||!|你明知你身处痛苦之中。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "I'm actually feeling extraordinarily okay right now!",
+			"dialog"			: "我其实现在正感觉非常不错！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Look at your wings.|L||!|You cannot fly.|L||!|You must feel worthless.",
+			"dialog"			: "看看你的翅膀。|L||!|你无法飞翔。|L||!|你一定感到一无是处。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Simply give me your heart, and the loneliness will end.",
+			"dialog"			: "把你的心给我，这种孤独就能结束。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "All the other monsters seem to prefer love over whatever they were feeling before.|L||!|Maybe we can try that first?",
+			"dialog"			: "所有其他怪物都会倾向于选择爱，相较于她们之前的感受。|L||!|或许我们可以先试一试？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
@@ -53,11 +53,11 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "Zaraden girl,   I am incapable of love.",
+			"dialog"			: "扎拉登女孩，我无法感受到爱。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
-			"dialog"			: "|shake|I am nothing!|L||!|I feel    nothing!|L||!|I AM THE VOID!",
+			"dialog"			: "|shake|我什么都不是！|L||!|我什么都    感觉不到！|L||!|我就是虚空！",
 		}
 	]
 }

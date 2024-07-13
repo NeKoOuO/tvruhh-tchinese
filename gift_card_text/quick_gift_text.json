@@ -33,7 +33,7 @@
 	"Q_water_glyph" : {
 		"name"    : "水之符文",
 		"memory"  : "|C3||ah||teh||la| (Attela) |C0|Rain Drop|L||C3||ah||tra| (Ahtra) |C0|Rain|L||C3||ah||tra||rah| (Ahtrara) |C0|Heavy Rain|L||C3||ah||tra||-||rah||lin| (Ahtra Ralin) |C0|Torrent|L||C3||ah||xai| (Axai) |C0|Darkness",
-		"card"    : "每场战斗后获得[VAL1]备用生命",
+		"card"    : "每场战斗后|L|获得[VAL1]备用生命",
 	},
 	"Q_blood_glyph" : {
 		"name"    : "鲜血符文",
@@ -77,27 +77,27 @@
 	"Q_glow_tonic" : {
 		"name"    : "发光药水",
 		"memory"  : "You drank the glowing one?|L|Good luck sleeping tonight. If your glowing skin doesn't keep you awake, then it will be the fact that you keep attracting the glow mites.",
-		"card"    : "所有基础攻击变为光耀伤害",
+		"card"    : "所有基础攻击|L|变为光耀伤害",
 	},
 	"Q_cold_tonic" : {
 		"name"    : "寒冷药水",
 		"memory"  : "Brain freeze?|L|Try frostbite on the back of your eyeballs!",
-		"card"    : "所有基础攻击变为虚空伤害",
+		"card"    : "所有基础攻击|L|变为虚空伤害",
 	},
 	"Q_warm_tonic" : {
 		"name"    : "温暖药水",
 		"memory"  : "This will make you feel warm even in the middle of a blizzard.|L||L|Wait! That's the one with magma in it!",
-		"card"    : "所有基础攻击变为燃烧伤害",
+		"card"    : "所有基础攻击|L|变为燃烧伤害",
 	},
 	"Q_spark_tonic" : {
 		"name"    : "电弧药水",
 		"memory"  : "How many Zaraden does it take to become a lightbulb?|L||L|Seriously, don't drink that. You will die.",
-		"card"    : "所有基础攻击变为电击伤害",
+		"card"    : "所有基础攻击|L|变为电击伤害",
 	},
 	"Q_bitter_tonic" : {
 		"name"    : "苦味药水",
 		"memory"  : "I put a bunch of random nonsense into that one. I don't know what it would do to you, but I poured it on a plant once.|L|It yelled at me.",
-		"card"    : "所有基础攻击变为毒素伤害",
+		"card"    : "所有基础攻击|L|变为毒素伤害",
 	},
 	"Q_glow_ichor" : {
 		"name"    : "发光灵液",
@@ -132,22 +132,22 @@
 	"Q_staples" : {
 		"name"    : "订书针",
 		"memory"  : "Do whatever it takes to hold it together!|L||L|I always knew you could do it!",
-		"card"    : "以1点生命承受[VAL1]次致命攻击",
+		"card"    : "以1点生命|L|承受[VAL1]次致命攻击",
 	},
 	"Q_warp_synapse" : {
 		"name"    : "传送突触",
 		"memory"  : "Warp synapses are the simplest type of synapse since they can only be used to move objects between 2 points in physical space. They usually work in both directions, but they can also be one way. Both Shambles and Zaramechs have been observed manipulating them, seemingly without an external source of power. We can create warp synapses with our own technology, but they require such extreme amounts of power to maintain.",
-		"card"    : "你能够通过屏幕的边缘传送到另一端",
+		"card"    : "你能够穿过屏幕边缘|L|并传送到另一端",
 	},
 	"Q_loop" : {
 		"name"    : "循环",
 		"memory"  : "Do you ever wish you could go back in time and do something differently?|L||L|Yeah, neither do I.",
-		"card"    : "你的子弹能够通过屏幕的边缘传送到另一端",
+		"card"    : "你的子弹能够传送回|L|屏幕的另一端",
 	},
 	"Q_armor_heart" : {
 		"name"    : "盔甲之心",
 		"memory"  : "I'll always protect my sister! She needs me to be there! No monsters are going to get to her while I'm around!",
-		"card"    : "阻挡每场战斗的第一次受击",
+		"card"    : "阻挡每场战斗的|L|第一次受击",
 	},
 	"Q_soul_heart" : {
 		"name"    : "灵魂之心",
@@ -171,72 +171,72 @@
 	"Q_single_polyp" : {
 		"name"    : "单个恐瘤",
 		"memory"  : "It suddenly gets harder to breathe. My breathing gets faster and faster. Deeper and deeper. Anything to keep that precious air from leaving me.",
-		"card"    : "在战斗中生成一个恐慌",
+		"card"    : "在战斗中|L|生成一个恐慌",
 	},
 	"Q_double_polyp" : {
 		"name"    : "双重恐瘤",
 		"memory"  : "My breathing gets faster, but it's no use. My throat has closed completely, I imagine.|L|My vision narrows as I look for any sort of escape. But there is nowhere to escape to.",
-		"card"    : "在战斗中生成[VAL1]个恐慌",
+		"card"    : "在战斗中|L|生成[VAL1]个恐慌",
 	},
 	"Q_triple_polyp" : {
 		"name"    : "三重恐瘤",
 		"memory"  : "Imagine a bubble surrounding you. All the air in it just for you. Take a deep breath, even if you think it's the last one you can possibly take.|L|Exhale slowly.|L|Do not worry. The bubble will not let you down.|L||L|Breath returns to you.",
-		"card"    : "在战斗中生成[VAL1]个恐慌",
+		"card"    : "在战斗中|L|生成[VAL1]个恐慌",
 	},
 	"Q_nightmare" : {
 		"name"    : "梦魇",
 		"memory"  : "I had that nightmare again. The one where she finally figures out that I am a wingless. Then she hurts me like the other Zaraden.|L||L|She can clearly see that I'm wingless. Why does she come to see me so often? When is she going to hurt me?",
-		"card"    : "下三次战斗后各获得一个恐慌",
+		"card"    : "下三次战斗后|L|各获得一个恐慌",
 	},
 	"Q_chaos_glyph" : {
 		"name"    : "混沌符文",
 		"memory"  : "|C3||xai||lin| (Xailin) |C0|Flashing|L||C3||rah||lin| (Rahlin) |C0|Disaster|L||C3||lin||ze| (Linze) |C0|Illness|L||C3||li||lin| (Leelin) |C0|Violent|L||C3||nu||lin| (Nulin) |C0|Calm",
-		"card"    : "下三次战斗后各获得随机奖励效果",
+		"card"    : "下三次战斗后|L|各获得随机奖励效果",
 	},
 	"Q_chrome_heart" : {
 		"name"    : "铬之心",
 		"memory"  : "When I see my reflection,|L|I hear a voice.|L|It knows how to destroy me.|L|It sounds just like me,|L|But that isn't me.",
-		"card"    : "1个铬之心以保护你的连击",
+		"card"    : "1个铬之心|L|以保护你的连击",
 	},
 	"Q_chrome_duo" : {
 		"name"    : "双重铬心",
 		"memory"  : "That's not me.|L|Is that me?|L|I can't recognize myself.|L|I've become someone else.|L|I was me,|L|But now she's gone.",
-		"card"    : "[VAL1]个铬之心以保护你的连击",
+		"card"    : "[VAL1]个铬之心|L|以保护你的连击",
 	},
 	"Q_chrome_trio" : {
 		"name"    : "三重铬心",
 		"memory"  : "You think you're the one in control anymore? Take a look at your reflection!|L||shake|HahAhaHaAhaHAahaAhaHA",
-		"card"    : "[VAL1]个铬之心以保护你的连击",
+		"card"    : "[VAL1]个铬之心|L|以保护你的连击",
 	},
 	"Q_inspire1" : {
 		"name"    : "灵感",
 		"memory"  : "I want to be able to look up at the stars again. I want to paint the night sky again. The stars inspire me. Especially now that I know more about them. They are so much bigger and farther away than I ever knew was possible.",
-		"card"    : "下三次战斗后总伤害各+[VAL1]%",
+		"card"    : "下三次战斗后|L|总伤害各+[VAL1]%",
 	},
 	"Q_inspire2" : {
 		"name"    : "额外灵感",
 		"memory"  : "I want to see more of Eyeris. She told me there is a place with so many mountains that go on as far as you can see. The sunset radiates such lovely colors upon them.|L||L|Without actually seeing it, I can only paint my best guess.",
-		"card"    : "下三次战斗后总伤害各+[VAL1]%",
+		"card"    : "下三次战斗后|L|总伤害各+[VAL1]%",
 	},
 	"Q_inspire3" : {
 		"name"    : "超级灵感",
 		"memory"  : "I had to paint this as fast as I could, so that I'll never forget. This was my view when she took me into the sky!",
-		"card"    : "下三次战斗后总伤害各+[VAL1]%",
+		"card"    : "下三次战斗后|L|总伤害各+[VAL1]%",
 	},
 	"Q_hearten1" : {
 		"name"    : "激励",
 		"memory"  : "I'm painting more than ever! She loves all of it. I need to have a new one ready for the next time she visits.|L||L|I've never had someone else look at my art. At least, not since I was a child.",
-		"card"    : "下两次战斗后最大生命各+[VAL1]",
+		"card"    : "下两次战斗后|L|最大生命各+[VAL1]",
 	},
 	"Q_hearten2" : {
 		"name"    : "双重激励",
 		"memory"  : "I want to see the snow covered mountains. She said it's so much colder than anything I've ever felt before. It would actually hurt my skin to be there without heavy clothing.|L||L|I don't think I've ever seen clothes before. It's rare for anyone to wear them in this climate.",
-		"card"    : "下四次战斗后最大生命各+[VAL1]",
+		"card"    : "下四次战斗后|L|最大生命各+[VAL1]",
 	},
 	"Q_hearten3" : {
 		"name"    : "超级激励",
 		"memory"  : "I'm going to climb that tower. I'll do it at night, so no one will see me. I need to see her again.|L||L|No! She obviously never wants to see me again...|L|But she promised...|L|She's hurt me so much.|L|I love her.",
-		"card"    : "下三次战斗后最大生命各+[VAL1]",
+		"card"    : "下三次战斗后|L|最大生命各+[VAL1]",
 	},
 	
 	
@@ -299,12 +299,12 @@
 	"Q_candle" : {
 		"name"    : "蜡烛",
 		"memory"  : "I can always tell when they are around. They look at me from just out of sight. They stare at me from the shadows. They even follow me sometimes. It can be scary, but why do they hide from me? Are they afraid of me?",
-		"card"    : "揭示[VAL1]个额外怪物选择",
+		"card"    : "揭示[VAL1]个|L|额外怪物选择",
 	},
 	"Q_nightlight" : {
 		"name"    : "夜光",
 		"memory"  : "I caught one of those eyeballed flowers looking right at me. In the moment, I felt the courage to stare back at her. I could sense a longing in that eye. She began to move toward me while passing by a nightlight mushroom. I thought I could see a Zaraden's arm in the light.|L||L|But I just HAD to sneeze at that moment. By the time my eyes opened again, she was gone.",
-		"card"    : "三场战斗揭示[VAL1]个额外怪物选择",
+		"card"    : "在接下来的三场战斗|L|揭示[VAL1]个|L|额外怪物选择",
 	},
 	"Q_broken_key" : {
 		"name"    : "破损钥匙",
@@ -314,7 +314,7 @@
 	"Q_broken_lock" : {
 		"name"    : "破损的锁",
 		"memory"  : "That's okay, I don't think I really need this anymore. There was never a reason to put a lock on it in the first place.",
-		"card"    : "三场战斗所有挑战变得简单",
+		"card"    : "在接下来的三场战斗|L|所有挑战变得简单",
 	},
 	"Q_rest" : {
 		"name"    : "休憩",
@@ -324,32 +324,32 @@
 	"Q_nap" : {
 		"name"    : "小睡",
 		"memory"  : "It was hard to sleep that night. It was so cold and I wasn't used to it yet. But when I woke up, there were a few strange rocks around me. They were carved in the shape of hearts. They were really warm. It felt really nice. Who left those around me?",
-		"card"    : "将基础等级降低[VAL1]并重掷怪物",
+		"card"    : "将基础等级降低[VAL1]|L|并重掷怪物",
 	},
 	"Q_snooze" : {
 		"name"    : "打盹",
 		"memory"  : "I had that nightmare again. The one where I wake up and she is gone. I look all over for her, but I slowly realize that she finally flew away without me.|L||L|I don't know what I would do without her.",
-		"card"    : "将基础等级降低[VAL1]并重掷怪物",
+		"card"    : "将基础等级降低[VAL1]|L|并重掷怪物",
 	},
 	"Q_green_photo" : {
 		"name"    : "绿色相片",
 		"memory"  : "Wow wow, she's so pretty!|L|I got that green lady with the purple hair. Look at that cute face! She was very mad at me, hehehe, but she was no match for the speed of light.|L||L|Don't tell the others, but she's my favorite.|L|I want to touch her face with my face. Why do I want to do that? I don't know!|L|I wish I could talk to her.",
-		"card"    : "降低所有怪物的攻击速度",
+		"card"    : "降低所有怪物的|L|攻击速度",
 	},
 	"Q_red_photo" : {
 		"name"    : "红色相片",
 		"memory"  : "I got that hot lava noodle! I got her just as she came out of the lava, but she got scared and didn't come back out again. Am I really that scary?|L||L|Where should I hide this one? I hope Joule finds it, hehehe.",
-		"card"    : "降低所有怪物的攻击伤害",
+		"card"    : "降低所有怪物的|L|攻击伤害",
 	},
 	"Q_blue_photo" : {
 		"name"    : "蓝色相片",
 		"memory"  : "I got that sad robot lady. The crack on her face makes her look sad. I see her walking around the same place almost every day. She gets really mad at me if I try to move into her walking area.|L||L|I took the photo from just outside of her perimeter. She didn't even react at all. She only stared at me. I stared back for a little bit, but then I got scared and ran away.",
-		"card"    : "降低所有怪物的恐惧值",
+		"card"    : "降低所有怪物的|L|恐惧值",
 	},
 	"Q_dark_photo" : {
 		"name"    : "暗色相片",
 		"memory"  : "Wow wow, I finally got the invisible lady!|L|She is so hard to see, I wasn't even sure if she was real. All of her photos would come out blank.|L||L|This time, I tried sending some extra ultraviolet beams at her. She lit up blue and I finally got the photo! It was so cold around her, like she was made of ice or something.|L|Hmm, she looks so familiar.",
-		"card"    : "极大降低所有怪物的力量",
+		"card"    : "极大降低|L|所有怪物的力量",
 	},
 	"Q_emerald_luck" : {
 		"name"    : "绿宝石之运",
@@ -374,12 +374,12 @@
 	"Q_citrine_fortune" : {
 		"name"    : "橙宝石幸运",
 		"memory"  : "You could lose anything and everything at any moment. All it takes is one accident. You lose a wing and down to The Pit you go. It should terrify you.",
-		"card"    : "重掷一切并揭示[VAL1]个额外怪物",
+		"card"    : "重掷一切|L|并揭示[VAL1]个额外怪物",
 	},
 	"Q_amethyst_fate" : {
 		"name"    : "紫宝石宿命",
 		"memory"  : "It is nobody's fate to be alone. Please don't try so hard to be alone. We know it hurts you so much. Ask us to help you.",
-		"card"    : "+[VAL1]因果|L|以更好运气重掷所有礼物",
+		"card"    : "+[VAL1]因果|L|以更好运气|L|重掷所有礼物",
 	},
 	
 }

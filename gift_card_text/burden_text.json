@@ -3,7 +3,7 @@
 	"BDN_messy_artist" : {
 		"name"	  : "杂乱艺术家",
 		"memory"  : "It's okay if you don't know what you are doing yet. We all have to start by learning first.",
-		"card"    : "全元素的分散心心射击",
+		"card"    : "全元素的|L|分散心心射击",
 	},
 	"BDN_forgetful" : {
 		"name"	  : "健忘",
@@ -18,7 +18,7 @@
 	"BDN_irreparable" : {
 		"name"	  : "无法修复",
 		"memory"  : "I can fix this.|L|I can fix this.|L|I can fix this.|L|No matter how many times it takes!|L||L|Why is it getting harder?",
-		"card"    : "生命缓慢流失，但连击会使你回复",
+		"card"    : "生命缓慢流失，|L|但连击会使你回复",
 	},
 	"BDN_personal_space" : {
 		"name"	  : "个人空间",
@@ -28,29 +28,54 @@
 	"BDN_dissociation" : {
 		"name"	  : "解离",
 		"memory"  : "Nope.",
-		"card"    : "无法发射任何基础子弹|L|1交叉双子",
+		"card"    : "无法发射|L|任何基础子弹|L|1个交叉双子",
 	},
 	"BDN_clipped" : {
 		"name"	  : "剪断",
 		"memory"  : "You know what they say, \"An eye for an eye is a good trade and you should always seek vengeance.\" Ha! I couldn't get her wing, but at least MY eye can still see.",
-		"card"    : "[VAL1]燃烧生命|L|（战斗后燃烧[VAL4]点更多）",
+		"card"    : "[VAL1]点燃烧生命|L|（战斗后燃烧|L|[VAL4]点更多）",
 	},
 	"BDN_cycle_of_pain" : {
 		"name"	  : "苦痛循环",
 		"memory"  : "I'll make them all pay for this! I don't know how, but I'm going to get back up there with an army of these monsters.",
-		"card"    : "在所有射击类型间循环",
+		"card"    : "在所有射击类型间|L|循环",
 	},
 	
 	
 	
 	
+	"BDN_glowing_scar" : {
+		"name"	  : "发光伤痕",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "光耀防御-[VAL1]|L|[VAL2]点光耀生命",
+	},
+	"BDN_frostbite_scar" : {
+		"name"	  : "霜噬伤痕",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "虚空防御-[VAL1]|L|[VAL2]点流血生命",
+	},
+	"BDN_singed_scar" : {
+		"name"	  : "焦燃伤痕",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "燃烧防御-[VAL1]|L|[VAL2] 点燃烧生命",
+	},
+	"BDN_overload_scar" : {
+		"name"	  : "过载伤痕",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "电击防御-[VAL1]|L|过载[VAL2]点生命",
+	},
+	"BDN_poison_scar" : {
+		"name"	  : "毒素伤痕",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "毒素防御-[VAL1]|L|[VAL2]点毒素生命",
+	},
 	"BDN_scrambla" : {
 		"memory"  : "We will chase you and you will run. Just like all da others. Everyone run away.|L||L|Everyone always runs away.",
 		"card"    : "移动速度-[VAL1]%",
 	},
 	"BDN_shy_scrambla" : {
 		"memory"  : "Don't look for us. We don't want to be seen. We are ugly!",
-		"card"    : "获得[VAL1]个负担帮手，触碰她们会受伤！",
+		"card"    : "获得[VAL1]个负担帮手，|L|触碰她们会受伤！",
 	},
 	"BDN_boiler" : {
 		"memory"  : "Stay away from us or we will burn you! Please, dis one can't burn another.|L||L|We are so tired of burning.",
@@ -82,7 +107,7 @@
 	},
 	"BDN_amalga" : {
 		"memory"  : "Are you going to hurt us too? Are you going to take more from us? We won't let you! No one can take any more from us!",
-		"card"    : "无法看到你自己的生命",
+		"card"    : "无法看到|L|你自己的生命",
 	},
 	"BDN_calorie" : {
 		"memory"  : "We are so tired and can't focus on anything. We can only burn, but we don't want to burn her. We must keep her away from us.",
@@ -98,11 +123,11 @@
 	},
 	"BDN_emerald" : {
 		"memory"  : "So this is the feeling of shame? It is a powerful social tool for correcting harmful behavior, but it has been used incorrectly on you. You can't correct your wings, and the ones who made you feel this way should be feeling shame instead.",
-		"card"    : "[VAL1]个创伤之心|L|（受击减少1点最大生命）",
+		"card"    : "[VAL1]个创伤之心|L|（受击减少1点|L|最大生命）",
 	},
 	"BDN_shamra" : {
 		"memory"  : "What are we?|L|We? Why did I say it like that? Why did we say it like what? Why are there so many of me? Us. We are so afraid.",
-		"card"    : "[VAL1]个创伤之心|L|（受击减少1点最大生命）",
+		"card"    : "[VAL1]个创伤之心|L|（受击减少1点|L|最大生命）",
 	},
 	
 	
@@ -142,11 +167,11 @@
 	},
 	"BDN_shy_lila" : {
 		"memory"  : "|shake|Ahhh!|norm||L|Bye.",
-		"card"    : "获得[VAL1]个负担帮手，碰到她们会受伤！",
+		"card"    : "获得[VAL1]个负担帮手，|L|碰到她们会受伤！",
 	},
 	"BDN_sandrome" : {
 		"memory"  : "You must go away.|L|There is no reason for a Zaraden to come to me.|L|I can only take space.|L|I can only stab! Stab!",
-		"card"    : "[VAL1]个会阻挡你的子弹的阻碍帮手！",
+		"card"    : "[VAL1]个阻挡你的子弹的|L|阻碍帮手！",
 	},
 	"BDN_voladrome" : {
 		"memory"  : "There is no reason for a Zaraden to come to lava. I will make traps to scare Zaraden away.|L||L|Maybe these are too dangerous? No, LAVA is too dangerous!",
@@ -174,23 +199,23 @@
 	
 	"BDN_photoxai" : {
 		"memory"  : "No no! You should stay away from me. I will blind you! I can only admire you from far away. I refuse to hurt your pretty eyes.",
-		"card"    : "[VAL1]个阻挡你的子弹的负片石",
+		"card"    : "[VAL1]个阻挡你的子弹的|L|负片石",
 	},
 	"BDN_dendrohai" : {
 		"memory"  : "I am a waste of time. You should spend that time doing something more efficient. Anything else is better than spending time with me! I can only waste your time.",
-		"card"    : "[VAL1]个创伤之心|L|（受击减少1点最大生命）",
+		"card"    : "[VAL1]个创伤之心|L|（受击减少1点|L|最大生命）",
 	},
 	"BDN_hematoren" : {
 		"memory"  : "I am your worst nightmare! I can drain all your life away! I can do it so quickly and it will hurt!|L||L|Why are you still coming towards me?",
-		"card"    : "[VAL1]个流血之心|L|失去连击时流血[VAL2]生命",
+		"card"    : "[VAL1]个流血之心|L|失去连击时|L|流血[VAL3]生命",
 	},
 	"BDN_ombroah" : {
 		"memory"  : "This is all my fault. I am the reason it never stops raining. Just leave me alone here to rot. I deserve it.",
-		"card"    : "创造一个能阻挡你的子弹的帮手",
+		"card"    : "创造一个|L|阻挡你的子弹的帮手",
 	},
 	"BDN_lavalin" : {
 		"memory"  : "It's not safe to be near me. Please, stay away from me. Don't make me move! I don't know what will happen, but it's never good.",
-		"card"    : "每场战斗后随机负担效果",
+		"card"    : "每场战斗后|L|随机负担效果",
 	},
 	"BDN_heliola" : {
 		"memory"  : "Didn't they ever tell you not to look directly at the sun? All of you are always looking at me! Get away from me. I can only hurt you.",
@@ -202,7 +227,7 @@
 	},
 	"BDN_hadesoh" : {
 		"memory"  : "So, are you here to take your anger out on me? Admit it! You just want to hurt me. It will feel so good, won't it? Well then, bring it on!",
-		"card"    : "获得4个具有独特负担的帮手",
+		"card"    : "获得4个具有|L|独特负担的帮手",
 	},
 	"BDN_chionotoh" : {
 		"memory"  : "The sharp icicles weren't enough to scare her away. She is still coming this way. Well, there's nothing left to do except cry. My tears hurt so much as they freeze to my face. Maybe she won't try to hurt me if I'm already hurt.",
@@ -210,11 +235,11 @@
 	},
 	"BDN_astrayo" : {
 		"memory"  : "No!|L|No. No. No. No. No. No. No. No.|L|No. No. No. No. Nope.|L|Those heart stones are not for you!|L|No, I don't know why they came out. No, I don't know why they keep appearing when you get closer. Just don't touch them!",
-		"card"    : "无法蓄力，但是基础子弹变大",
+		"card"    : "无法蓄力，|L|但是基础子弹变大",
 	},
 	"BDN_monovai" : {
 		"memory"  : "I am made to be alone forever. If you come any closer, then I will not be alone. The consequences of this are severe and unknowable. If you proceed, I will be forced to seek retribution.",
-		"card"    : "获得[VAL1]个没有作用的填充帮手",
+		"card"    : "获得[VAL1]个没有作用的|L|填充帮手",
 	},
 	"BDN_philolu" : {
 		"memory"  : "Ouch! Rejected!|L|This does not feel so good. She's so sweet and cute too! I really wasn't expecting that. It seems that her heart still belongs to someone else. I never had a shot.|L||L|It's okay! Our friendly date will be fun anyways. Sigh...",
@@ -234,11 +259,11 @@
 	
 	"BDN_unit_lulu" : {
 		"memory"  : "//Wingless Zaraden is approaching|L|//Initiating Tutorial Mode|L|Attempt 147|L|Loading: How_To_Love_A.tut|L|Loading: Existential_Dread.prog|L||L|Randomized Lutekna Quote:|L|//Never stop trying, Lulu. Make those monsters love someone!",
-		"card"    : "你的生命与怪物恐惧不再可见",
+		"card"    : "你的生命与怪物恐惧|L|不再可见",
 	},
 	"BDN_null_unit" : {
 		"memory"  : "//This action will delete files|L|//Are you sure?|L|//Yeah, just do it.|L|[Deleting Files]|L|Error: Permission Denied|L|//Ugh. Come on.|L||L|//This will initiate a full shutdown|L|//Are you sure?|L|//Yeah, I guess.|L|[Shutting Down]|L|Error: Permission Denied",
-		"card"    : "所有礼物与怪物变为未知",
+		"card"    : "所有礼物与怪物|L|变为未知",
 	},
 	"BDN_prisma" : {
 		"memory"  : "//Prisma must open shell to determine threat level|L|[Open Shell]|L|//Zaraden sighted|L|[Close Shell]|L|Fear Rating: 4,175|L||L|//Prisma will hold still and keep shell closed",
@@ -254,11 +279,11 @@
 	},
 	"BDN_syncron" : {
 		"memory"  : "[Distress signal received]|L|Sender: Syncron-02|L|//Intruder detected|L|//Potential tower zone-0232|L|[Activating distress signal]|L|//Syncron-01 will activate Panic Mode in:|L|//30|L|//29|L|//28",
-		"card"    : "每场战斗30秒后自动恐慌",
+		"card"    : "每场战斗30秒后|L|自动恐慌",
 	},
 	"BDN_alter_syncron" : {
 		"memory"  : "//Wingless Zaraden detected|L|[Distress signal received]|L|Sender: Syncron-02|L|//Activate the flamethrower|L||L|[Message received]|L|Sender: Syncron-02|L|//Suggestion: Let her love you|L|//Syncron-02 must be compromised|L|[Activating Panic Mode]",
-		"card"    : "自动恐慌，但会迟延一步",
+		"card"    : "自动恐慌，|L|但会迟延一步",
 	},
 	"BDN_shiny_syncron" : {
 		"memory"  : "//Motes detected in exhaust port-03|L|//Clog detected in port-03|L|[Activating distress signal]|L|//Reply received from Syncron-01|L|//What is wrong?|L|//Clog detected in port-04|L|//Clog detected in port-05|L|[Activating Panic Mode]",
@@ -266,7 +291,7 @@
 	},
 	"BDN_flip_flap" : {
 		"memory"  : "[Pure Affection Detected]|L|Fear Rating: 5,724|L|//These Units must activate full defense|L|//This Unit agrees|L|//Armor at 100%|L|//Wire at 50%|L|//This must be enough or there is no hope",
-		"card"    : "获得[VAL1]个没有作用的填充帮手",
+		"card"    : "获得[VAL1]个没有作用的|L|填充帮手",
 	},
 	"BDN_sentinel_4x" : {
 		"memory"  : "//Intruder detected|L|//Potential tower zone-0673|L|[Activate Power Claw]|L|[Activate Cleansing Claw]|L|//You may not proceed",
@@ -274,7 +299,7 @@
 	},
 	"BDN_sentinel_0x" : {
 		"memory"  : "//Wingless Zaraden detected|L|Threat level: --------|L|Error: Boundless value|L|[Activate Positive Claw]|L|[Activate Negative Claw]|L|//Marked for deletion",
-		"card"    : "所有挑战更难且有更多挑战",
+		"card"    : "所有挑战更难|L|且有更多挑战",
 	},
 	"BDN_ventra" : {
 		"memory"  : "//Zaraden--- sighted|L|Error: Legs unresponsive|L|Error: Left Weapon disconnected|L|Right Weapon -----------|L|Error: -----|L|//---- Zaraden threat 999999|L|//This Unit--- gives up",
@@ -282,11 +307,11 @@
 	},
 	"BDN_sapphire" : {
 		"memory"  : "So this is the feeling of anxiety? This feeling is meant to protect you. It makes you take a cautious approach to unknown danger. It seems the world has given you far too many reasons to feel this way.",
-		"card"    : "[VAL1]个压力之心|L|（失去所有生命然后回复回来）",
+		"card"    : "[VAL1]个压力之心|L|（失去所有生命|L|然后缓慢回复）",
 	},
 	"BDN_default" : {
 		"memory"  : "[Loading form models]|L|//Scramble //Knot|L|//Avioc //Meerstalk|L|//Worm_1 //Worm_2|L|//Glyph_Li_1 //Glyph_Li_2|L|//Glyph_Kah //Glyph_Ze|L|//Flower_1 //Flower_2|L|//Thorns_1 //Thorns_2|L|//Orb //Angel|L|//What should I be?",
-		"card"    : "[VAL1]个压力之心|L|（失去所有生命然后回复回来）",
+		"card"    : "[VAL1]个压力之心|L|（失去所有生命|L|然后缓慢回复）",
 	},
 	
 	
@@ -298,7 +323,7 @@
 	},
 	"BDN_glacia" : {
 		"memory"  : "My petals are all cracked. If she comes any closer I'll have to move. That will break me.",
-		"card"    : "1个压力之心|L|（失去所有生命然后回复回来）",
+		"card"    : "1个压力之心|L|（失去所有生命|L|然后缓慢回复）",
 	},
 	"BDN_alter_glacia" : {
 		"memory"  : "I want to be alone!|L|(No I don't)|L|Stay away from me!|L|(Please, come closer. I'm so cold.)",
@@ -306,7 +331,7 @@
 	},
 	"BDN_null_glacia" : {
 		"memory"  : "I don't want to move.|L|Just come here and shatter me.|L||L|I'm already broken anyways.",
-		"card"    : "将你所有的生命变为后备生命",
+		"card"    : "将你所有的生命|L|变为后备生命",
 	},
 	"BDN_vitrea" : {
 		"memory"  : "That Zaraden is coming over here? No, I won't fall for this trick. She wants to break me. Well, I won't let her.",
@@ -342,11 +367,11 @@
 	},
 	"BDN_citrine" : {
 		"memory"  : "So this is the feeling of insecurity? As if you are not enough. As if you could lose everything at any moment. It causes you to grab anything dear to you, and grip it tightly. You have not been convinced that you are always enough, no matter how many times you hear it. Is that why you share love with others so easily? So they don't feel like you do?",
-		"card"    : "[VAL1]个流血之心|L|（受击会流血4点生命）",
+		"card"    : "[VAL1]个流血之心|L|（受击会|L|流血4点生命）",
 	},
 	"BDN_echo" : {
 		"memory"  : "Who are you? Are you safe or are you dangerous? Who are you? Are you the one who will hurt me? Who are you? Are you the one who will break me? Who are you?",
-		"card"    : "[VAL1]个流血之心|L|（受击会流血4点生命）",
+		"card"    : "[VAL1]个流血之心|L|（受击会|L|流血4点生命）",
 	},
 	
 	
@@ -374,15 +399,15 @@
 	},
 	"BDN_vibrant_veyeral" : {
 		"memory"  : "You are lacking in color. You can join me in dullness. No amount of color can fix you.",
-		"card"    : "无法使用任何蓄力攻击|L|全防御-[VAL2]",
+		"card"    : "无法使用|L|任何蓄力攻击|L|全防御-[VAL2]",
 	},
 	"BDN_veyeral_quartet" : {
 		"memory"  : "No matter what she says to us, we know we are still nothing. We will make sure she joins us together as nothing.",
-		"card"    : "[VAL1]个阻挡你的子弹的负片石",
+		"card"    : "[VAL1]个阻挡你的子弹的|L|负片石",
 	},
 	"BDN_veyeral_rain" : {
 		"memory"  : "She is vulnerable. There is nowhere for her to shelter. She will join us as nothing.",
-		"card"    : "能够穿过屏幕的重力子弹",
+		"card"    : "能够穿过屏幕的|L|重力子弹",
 	},
 	"BDN_shiny_veyerals" : {
 		"memory"  : "Sleeping is terrifying for us. There is only vulnerability and darkness. But we could see our dreams with her. We are safe with her.",
@@ -398,11 +423,11 @@
 	},
 	"BDN_amethyst" : {
 		"memory"  : "So this is the feeling of loneliness? The purpose of this feeling is to let you know when to seek companionship and comfort from another. But if there is no one else around, this becomes a deadly poison. You are not made to feel this for very long.",
-		"card"    : "成为恐慌的一团糟|L|+[VAL4]恐慌",
+		"card"    : "成为恐慌的一团糟|L|+[VAL1]恐慌",
 	},
 	"BDN_forma" : {
 		"memory"  : "Why am I? Why am I here? Why am I this? I am made for something. Why was I made? I was made to fill a void, but I can't leave my container. I was made to be alone.",
-		"card"    : "成为恐慌的一团糟|L|+[VAL4]恐慌",
+		"card"    : "成为恐慌的一团糟|L|+[VAL1]恐慌",
 	},
 	"BDN_the_void" : {
 		"memory"  : "Just as you said, the pale one has come here to give me her heart.|L|\"She is dangerous. She has been here many times before. She is very powerful.\"|L|So, does she not want to give it to me? I can't take anything that isn't given to me.|L|\"She wants to give it to you! She's just very stubborn about it!\"",
@@ -410,11 +435,11 @@
 	},
 	"BDN_totaria" : {
 		"memory"  : "I'm taking over now! I'm going to take her heart!|L|\"You don't know what you are doing. You're going to ruin it like the others.\"|L|I need it! I need to fix the hearts we've taken. I need to fix my beloved! And it's the only way I can keep her from |shake|killing me!|norm|",
-		"card"    : "无法看到你自己的生命|L|燃烧防御-[VAL2]",
+		"card"    : "无法看到自己的生命|L|燃烧防御-[VAL2]",
 	},
 	"BDN_blue_veyeral" : {
 		"memory"  : "Anything less than perfection is unacceptable. Without perfection, you are nothing. Without perfection, I am nothing.",
-		"card"    : "失去连击时流血[VAL1]生命",
+		"card"    : "失去连击时|L|流血[VAL1]生命",
 	},
 	
 	
@@ -426,11 +451,11 @@
 	},
 	"BDN_shiny_anomaly" : {
 		"memory"  : "There is only so much I can do to bend the rules. I can only hope this was more of a blessing than a burden this time.",
-		"card"    : "无法恐慌，但每场战斗会获得1个",
+		"card"    : "无法恐慌，|L|但每场战斗会获得1个",
 	},
 	"BDN_stella" : {
 		"memory"  : "They've taken the sunlight from you. Make them burn for this. Sunburn upon them all.",
-		"card"    : "每场战斗后[VAL1]点燃烧生命",
+		"card"    : "每场战斗后|L|[VAL1]点燃烧生命",
 	},
 	"BDN_celestia" : {
 		"memory"  : "They've taken the moonlight from you. Take it back from them. Cold night upon them all.",
@@ -450,11 +475,11 @@
 	},
 	"BDN_trinity" : {
 		"memory"  : "Zaraden girl, you are so devoid of color. Let us share our fear with you. You will know every color of fear.",
-		"card"    : "每场战斗后[VAL1]个随机负担效果",
+		"card"    : "每场战斗后|L|[VAL1]个随机负担效果",
 	},
 	"BDN_nix_polyps" : {
 		"memory"  : "Please help us.|L|Please love us.|L|We need you.|L|We are scared.|L|Please!|L|I need your help.|L|I don't know how to help us.",
-		"card"    : "每30秒以及受击后恐慌一次",
+		"card"    : "每30秒以及受击后|L|恐慌一次",
 	},
 	"BDN_tox_polyps" : {
 		"memory"  : "She can help us.|L|She will help us.|L|Stick to her.|L|Bond with her love.|L|We need it more than her.",

@@ -3,17 +3,17 @@
 	"BNT_mote_petal" : {
 		"name"    : "魔尘花瓣",
 		"memory"  : "This must come from a very pretty flower. Oh, I can remember this now! That must be a good sign.",
-		"card"    : "这场战斗中获得[VAL1]%额外魔尘",
+		"card"    : "这场战斗中|L|获得[VAL1]%额外魔尘",
 	},
 	"BNT_mote_flower" : {
 		"name"    : "魔尘之花",
 		"memory"  : "It was a very pretty flower! And now I'll always remember it. I have to remember it.",
-		"card"    : "这场战斗中获得[VAL1]%额外魔尘",
+		"card"    : "这场战斗中|L|获得[VAL1]%额外魔尘",
 	},
 	"BNT_mote_garden" : {
 		"name"    : "魔尘花园",
 		"memory"  : "Such a beautiful garden. Have I really been seeing this every day? I can remember it now, but what if I forget it again?",
-		"card"    : "这场战斗中获得[VAL1]%额外魔尘",
+		"card"    : "这场战斗中|L|获得[VAL1]%额外魔尘",
 	},
 	"BNT_green_mote" : {
 		"name"    : "绿色魔尘",
@@ -78,7 +78,7 @@
 	"BNT_prism_flake" : {
 		"name"    : "棱镜之尘",
 		"memory"  : "Motes usually come in six flavors. All Zaraden can produce all six types. They shed microscopic amounts of them though their skin at all times. Those monsters though... They are on another level entirely.|L|They are fascinating!",
-		"card"    : "魔尘分数+[VAL1]%|L|[VAL2]% of motes are radiant",
+		"card"    : "魔尘分数+[VAL1]%|L|[VAL2]%魔尘为光耀",
 	},
 	"BNT_prism_shard" : {
 		"name"    : "棱镜碎片",
@@ -93,7 +93,7 @@
 	"BNT_stardust" : {
 		"name"    : "星尘",
 		"memory"  : "My body is so soft and squishy.|L|So fragile.|L||L|Can you believe we are made of the same material as the stars?",
-		"card"    : "全连击给予光耀魔尘且+[VAL1]%分数",
+		"card"    : "全连击给予光耀魔尘|L|且+[VAL1]%分数",
 	},
 	
 	
@@ -134,12 +134,12 @@
 	"BNT_shameful_ore" : {
 		"name"    : "羞愧矿石",
 		"memory"  : "These feel very sticky to me. In fact, if they were in their natural shape, green tetrids would actually hurt me. They feel so sticky that letting them go feels like it pulls my skin off with it!|L||L|Don't ask me how I know.",
-		"card"    : "[VAL1]创伤之心|L|魔尘分数+[VAL2]%",
+		"card"    : "[VAL1]创伤之心|L|魔尘分数+[VAL3]%",
 	},
 	"BNT_enraged_ore" : {
 		"name"    : "愤怒矿石",
 		"memory"  : "Red ones feel warm to me too. The thing is, they aren't actually warm at all. These are just rocks that trick you into feeling something!|L||L|But that's also the dangerous part. What if this felt like sticking your hand into fire? Your body's reaction could damage the nerves in your hand.",
-		"card"    : "失去连击流血[VAL1]生命|L|魔尘分数+[VAL3]%",
+		"card"    : "失去连击将|L|流血[VAL1]生命|L|魔尘分数+[VAL3]%",
 	},
 	"BNT_denial_ore" : {
 		"name"    : "否认矿石",
@@ -149,17 +149,17 @@
 	"BNT_anxious_ore" : {
 		"name"    : "焦虑矿石",
 		"memory"  : "I was not so fortunate with blue. This round one gives my whole arm tingles, but a full blue tetrid feels like I'm being electrocuted!",
-		"card"    : "1个压力之心|L|魔尘分数+[VAL2]%",
+		"card"    : "1个压力之心|L|魔尘分数+[VAL3]%",
 	},
 	"BNT_fragile_ore" : {
 		"name"    : "脆弱矿石",
 		"memory"  : "Now it's my turn to be the lucky one! This one tastes like sour fruit to me! It's closer to the artificial flavor like in those sour candies I gave you, so I love it even more!",
-		"card"    : "[VAL1]个流血之心|L|魔尘分数+[VAL2]%",
+		"card"    : "[VAL1]个流血之心|L|魔尘分数+[VAL4]%",
 	},
 	"BNT_lonely_ore" : {
 		"name"    : "孤独矿石",
 		"memory"  : "For me, the purple one always had a strange smell that I could never figure out. I really like the smell, but I don't know-|L|Wait...|L||L|There is no way! I can't believe this! It's been a mystery for so long!|L||L|It smells just like YOU! How is this even possible?",
-		"card"    : "迟延恐慌且流血|L|魔尘分数+[VAL3]%",
+		"card"    : "迟延恐慌且流血|L|魔尘分数+[VAL4]%",
 	},
 	"BNT_paranoid" : {
 		"name"    : "偏执",

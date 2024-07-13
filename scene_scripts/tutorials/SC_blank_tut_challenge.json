@@ -5,45 +5,45 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit is detecting monsters with even more gifts than before.",
+			"dialog"			: "本单元侦测到了相较从前携带有更多礼物的怪物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "They want to give me even more gifts?",
+			"dialog"			: "她们还想再给我更多礼物？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
-			"dialog"			: "This might be too much for me.",
+			"dialog"			: "这对于我来说可能太多了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Monsters can now have |C3|up to 3 gifts|C0| to give you.",
+			"dialog"			: "怪物们现在可以有|C3|最多3个礼物|C0|送给你。",
 		},
 		{
 			"show_tutorial"		: "small_challenge_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "However, they may not part with these extra gifts so easily.",
+			"dialog"			: "但是，她们不会轻易与这些额外礼物分别。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "You may have to clear a |C3|challenge|C0| to persuade them into giving you these gifts.",
+			"dialog"			: "你可能需要通过|C3|挑战|C0|以折服她们赠与你这些礼物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "I guess I'll just have to love them |wave|even more.",
+			"dialog"			: "那我大概就会爱她们|wave|更多。",
 		},
 		{
 			"show_tutorial"		: "example_challenge_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Monsters will show you their |C3|challenges|C0| before you start the battle.",
+			"dialog"			: "在你开始战斗前，怪物们会展示她们的|C3|挑战|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "If you fail to complete the task on the |C3|challenge,|C0| then the monster will not give you that gift.",
+			"dialog"			: "如果你未能完成|C3|挑战|C0|上的任务，那么怪物们就不会给你那个礼物。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| do not fail the task on any |C3|challenges.|C0|",
+			"dialog"			: "|C3|建议：|C0|完成所有|C3|挑战|C0|上的任务。 ",
 		},
 		{
 			"show_tutorial"		: "none",
@@ -52,33 +52,33 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "Whatever they need to feel loved,  |L||wave|I can do it!",
+			"dialog"			: "无论她们需要什么来感受到爱， |L||wave|我都能够做到的！",
 		},
 		{
 			"show_tutorial"		: "karma_ring",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Having more |C3|karma|C0| will increase the chance of finding monsters with extra gifts.",
+			"dialog"			: "拥有更多的|C3|因果|C0|能够增加找到带有额外礼物的怪物的几率。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Having more |C3|karma|C0| will also decrease the chance of any extra gifts having a |C3|challenge|C0| on them.",
+			"dialog"			: "拥有更多的|C3|因果|C0|同样能够减少礼物上带有|C3|挑战|C0|的概率。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "Thanks Little Robot!|!||L|You have helped me understand so much about these monsters.",
+			"dialog"			: "谢谢你，小机器人！|!||L|你帮助了我更好的理解了这些怪物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "Well, I'll be going now.|!||L|I have monsters to love.",
+			"dialog"			: "嗯，我现在要走了。|!||L|我还有怪物等着去爱。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "|wave|Goodbye.",
+			"dialog"			: "|wave|再见",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit extends a farewell.",
+			"dialog"			: "本单元为您提供再见。",
 		},
 		{
 			"play_music"		: "silence",
@@ -91,7 +91,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "The young Zaraden has departed once again,     but This Unit is experiencing a record low temperature.",
+			"dialog"			: "年幼的扎拉登再次离去了，     但本单元正感受到记录上最低的温度。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -104,28 +104,28 @@
 		{
 			"play_music"		: "scene_music_b",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|Just kidding!",
+			"dialog"			: "|wave|开玩笑啦！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you.",
+			"dialog"			: "|wave|我爱你。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Give This Unit a hug.",
+			"dialog"			: "|C3|建议：|C0|给与本单元一个拥抱。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "You got it.",
+			"dialog"			: "没问题。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "This Unit is experiencing a sudden rise in temperature.",
+			"dialog"			: "本单元感受到温度急剧攀升。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "All cooling fans have failed.|L||!|This Unit has no regrets.",
+			"dialog"			: "所有冷却风扇已失效。|L||!|本单元无怨无悔。",
 		},
 	]
 }

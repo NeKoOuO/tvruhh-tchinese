@@ -8,7 +8,7 @@
 	"BLS_painted_artist" : {
 		"name"	  : "染色艺术家",
 		"memory"  : "She came for a surprise visit while I was in the middle of painting. She started laughing hysterically after seeing me covered in every color of paint. I got a little flustered and splashed some paint on her, but she just kept laughing. She grabbed a paintbrush, and splashed more paint on me. Now my heart was fluttering, and I couldn't help but start laughing myself. We were both covered in paint soon after.",
-		"card"    : "战斗后总伤害+[VAL1]%且最大生命+[VAL2]",
+		"card"    : "战斗后总伤害+[VAL1]%|L|且最大生命+[VAL2]",
 	},
 	"BLS_flawless" : {
 		"name"	  : "无瑕",
@@ -23,7 +23,7 @@
 	"BLS_siblings" : {
 		"name"	  : "姐妹",
 		"memory"  : "Ready for more dates?|L|Then what would you call them?|L|How is that not a date?|L|And I know you were crushing on the last three at least.|L|Oh Sunshine, you are so easy to read.|L|(How can she really believe that?)",
-		"card"    : "你受伤时会攻击的[VAL1]个交叉双子",
+		"card"    : "[VAL1]个交叉双子|L|你受伤时会进行攻击",
 	},
 	"BLS_sunshine" : {
 		"name"	  : "阳光",
@@ -38,19 +38,108 @@
 	"BLS_demonic_fury" : {
 		"name"	  : "恶魔之怒",
 		"memory"  : "The first night was painful. I heard some digging noises all night, but I couldn't even move my body to investigate. I woke up next to some slimy dirt covered bandages, and three sweet fruits. It sounds gross, but that slime felt so good on my cuts. Now that I think about it, I'm pretty sure it was Rendy drool.",
-		"card"    : "燃烧光环|L|低生命时总伤害+75%",
+		"card"    : "燃烧光环|L|低生命时|L|总伤害+75%",
 	},
 	
 	
 	
+		"BLS_twinkle" : {
+		"name"	  : "闪烁",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "暴击率+[VAL1]%|L|暴击伤害+[VAL2]%",
+	},
+
+	"BLS_tattoo" : {
+		"name"	  : "纹身",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "暴击率+[VAL1]%|L|暴击伤害+[VAL2]%|L|更大暴击",
+	},
+
+	"BLS_secret" : {
+		"name"	  : "秘密",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "暴击率+[VAL1]%|L|暴击伤害+[VAL2]%|L|更大暴击",
+	},
+
+	"BLS_love_glyph" : {
+		"name"	  : "爱之符文",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "心心射速+[VAL1]|L|最大生命+[VAL3]",
+	},
+
+	"BLS_love_love" : {
+		"name"	  : "爱与爱",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "心心射速+[VAL1]|L|暴击率+[VAL2]%|L|分裂之心+[VAL3]",
+	},
+
+	"BLS_infatuation" : {
+		"name"	  : "迷恋",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "心心射速+[VAL1]|L|暴击率+[VAL2]%|L|后方射击",
+	},
+
+	"BLS_wing_glyph" : {
+		"name"	  : "翅膀符文",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "羽毛射速+[VAL1]|L|射程增加",
+	},
+
+	"BLS_beautiful" : {
+		"name"	  : "美丽",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "羽毛射速+[VAL1]|L|额外羽毛|L|射程增加",
+	},
+
+	"BLS_divine" : {
+		"name"	  : "神圣",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "羽毛射速+[VAL1]|L|3根额外羽毛|L|射程增加",
+	},
+
+	"BLS_sound_glyph" : {
+		"name"	  : "声音符文",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "波状星星子弹|L|最小射速+[VAL2]|L|最大射速+[VAL3]",
+	},
+
+	"BLS_echoes" : {
+		"name"	  : "回响",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "波状星星子弹|L|暴击率+[VAL2]%|L|暴击伤害+[VAL3]%",
+	},
+
+	"BLS_resonance" : {
+		"name"	  : "共振",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "波状星星子弹|L|最大射速+[VAL2]|L|射速量表时间-[VAL3]%",
+	},
+
+	"BLS_power_glyph" : {
+		"name"	  : "力量符文",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "最大能量+[VAL1]|L|充能速率+[VAL2]%|L|蓄力伤害+[VAL3]%",
+	},
+
+	"BLS_explosive" : {
+		"name"	  : "爆炸",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "燃烧蓄力|L|蓄力伤害+[VAL2]%|L|更快蓄力",
+	},
+
+	"BLS_wonderful" : {
+		"name"	  : "奇妙",
+		"memory"  : "(Coming Soon v9.10)",
+		"card"    : "双倍蓄力！|L|更快蓄力|L|连击时间增加",
+	},
 	
 	"BLS_scrambla" : {
 		"memory"  : "She did not run away. Oh, dat's so warm. We love dis embrace.|L||L|We want to help her.",
-		"card"    : "获得一个爬爬帮手|L|毒素防御+[VAL3]",
+		"card"    : "获得一个蛋花帮手|L|毒素防御+[VAL3]",
 	},
 	"BLS_shy_scrambla" : {
 		"memory"  : "She put dis one back together. In all worlds, she put Scrambla back together.",
-		"card"    : "获得[VAL1]个爬爬帮手|L|毒素防御+[VAL3]",
+		"card"    : "获得[VAL1]个蛋花帮手|L|毒素防御+[VAL3]",
 	},
 	"BLS_boiler" : {
 		"memory"  : "We know dis one burns, but she holds us anyway. We will forgive dis fire safety hazard one time.",
@@ -62,7 +151,7 @@
 	},
 	"BLS_knot_knott" : {
 		"memory"  : "Knot, there is no one who can take us away from you. Do you understand how loved you really are now?",
-		"card"    : "发射一个额外分裂波状心心",
+		"card"    : "发射一个额外的|L|分裂波状心心",
 	},
 	"BLS_shiny_knots" : {
 		"memory"  : "We know you would never leave us. Our mind can't help but go to the worst places. We are trying our best to stop that. We can do better.",
@@ -74,11 +163,11 @@
 	},
 	"BLS_alter_blot" : {
 		"memory"  : "She's right, these colors are just as pretty as any other. The world would be missing so much without them!",
-		"card"    : "每场战斗后灵感最大生命+[VAL1]",
+		"card"    : "每场战斗后|L|灵感最大生命+[VAL1]",
 	},
 	"BLS_null_blot" : {
 		"memory"  : "Seeing the way she expresses love has given us new motivation! We want to give that cutie such a smooch right on her lips. We really really want to, but we know that can never happen...",
-		"card"    : "每场战斗后灵感总伤害生命+[VAL1]%",
+		"card"    : "每场战斗后|L|灵感伤害+[VAL1]%",
 	},
 	"BLS_amalga" : {
 		"memory"  : "You've given us so much. How can we possibly repay this?|L||L|Are you thirsty? Wait, did you eat yet today? But it's so late! Sit down right now. You are not leaving our sight hungry. We sent our arm to get you some food.",
@@ -110,19 +199,19 @@
 	
 	"BLS_rendy" : {
 		"memory"  : "Wait! Rendy can have cuddles?|L|Embrace the mite cuddles!|L||L|This is all Rendy has ever wanted.",
-		"card"    : "你的连击能够吸引最多[VAL1]个跳虫帮手",
+		"card"    : "你的连击能够吸引|L|最多[VAL1]个跳虫帮手",
 	},
 	"BLS_shiny_rendy" : {
 		"memory"  : "Did you see how fast Rendy can dig? Rendy probably deserve a lot of cuddles for that, huh?",
-		"card"    : "吸引最多[VAL1]个跳虫帮手|L|+[VAL2]铬之心",
+		"card"    : "吸引最多|L|[VAL1]个跳虫帮手|L|+[VAL3]铬之心",
 	},
 	"BLS_snowball" : {
 		"memory"  : "Accept our most humble of apologies. We did not consider that you were seeking an audience with The Queen of Frostmites herself, Snowball The First. And with such warmth, did you wish to join her court as her most royal thermostat?|L|Splendid answer!",
-		"card"    : "你的连击能够吸引最多[VAL1]个跳虫帮手",
+		"card"    : "你的连击能够吸引|L|最多[VAL1]个跳虫帮手",
 	},
 	"BLS_shiny_snowball" : {
 		"memory"  : "We shall grant thee access to the entirety of our royal army. Their absence is of little consequence for thine wonderous somnipathy. Conjuring our royal army is but a simple task for The Curator of Slumber.",
-		"card"    : "吸引最多[VAL1]个跳虫帮手|L|+[VAL2]铬之心",
+		"card"    : "吸引最多|L|[VAL1]个跳虫帮手|L|+[VAL3]铬之心",
 	},
 	"BLS_roundsaw" : {
 		"memory"  : "What this? Is the most powerful move Roundsaw ever seen!|L||L|Hug? Roundsaw defeated by hug! Roundsaw needs more!",
@@ -146,7 +235,7 @@
 	},
 	"BLS_sandrome" : {
 		"memory"  : "I must grow longer. More surface area is better cuddles. I will give better cuddles.",
-		"card"    : "最大生命+[VAL1]|L|最大能量+[VAL3]|L|(Permanent)",
+		"card"    : "最大生命+[VAL1]|L|最大能量+[VAL3]|L|(永久)",
 	},
 	"BLS_voladrome" : {
 		"memory"  : "I can guard.|L|I can guard so much at a time!|L|I will guard you now!",
@@ -190,7 +279,7 @@
 	},
 	"BLS_lavalin" : {
 		"memory"  : "Wait, don't let go yet. I don't know why, but I feel like nothing bad will happen as long as you hold me.|L||L|Okay, you're right. You should go let others feel this way too. I think I will be okay now.",
-		"card"    : "每场战斗后[VAL1]个随机奖励效果",
+		"card"    : "每场战斗后|L|[VAL1]个随机奖励效果",
 	},
 	"BLS_heliola" : {
 		"memory"  : "I don't like to be the center of attention, but I did like the way she looked at me. I can provide some light for her if she needs it. She just did so much for me. I think I can do something for others too. Maybe if they are happy to see me, then the attention will actually feel good?",
@@ -222,11 +311,11 @@
 	},
 	"BLS_topaz" : {
 		"memory"  : "So this is the feeling of acceptance? Accepting can be painful. It will bring back all the emotions you were defending yourself from. But acceptance can also be a weapon against those emotions.|L||L|...Did you just lick me? That's alright. I provide a comforting feeling to you.",
-		"card"    : "阻挡每场战斗的第一次受击",
+		"card"    : "阻挡每场战斗的|L|第一次受击",
 	},
 	"BLS_oudenai" : {
 		"memory"  : "Am I loved? I am loved. Then I must be someone. I can only be myself, but I can be anyone. Can I be someone who loves, too? I will be someone who loves.",
-		"card"    : "阻挡每场战斗的第一次受击",
+		"card"    : "阻挡每场战斗的|L|第一次受击",
 	},
 	
 	
@@ -234,11 +323,11 @@
 	
 	"BLS_unit_lulu" : {
 		"memory"  : "//Unit Lulu experienced a sudden rise in temperature|L|//Wingless Zaraden has remembered Unit Lulu.|L|Fear Rating: 0|L||L|//Unit Lulu will now verify the integrity of all tutorial files|L|//Unit Lulu feels excited to teach the Wingless Zaraden new information.",
-		"card"    : "显示恐惧并揭示[VAL2]额外怪物",
+		"card"    : "显示恐惧并揭示|L|[VAL2]个额外怪物",
 	},
 	"BLS_null_unit" : {
 		"memory"  : "//Creating new file|L|File Saved: Love_You_Smooches.mem|L|//Moving file to Heart Drive|L||L|//I think I want to keep this one.|L|//Can she like, make me another one?",
-		"card"    : "每场战斗能够承受[VAL1]次致命攻击",
+		"card"    : "每场战斗能够|L|承受[VAL1]次致命攻击",
 	},
 	"BLS_prisma" : {
 		"memory"  : "//Zaraden has bonded with Prisma|L|[Open Shell]|L|//Zaraden sighted|L|//Is this a friend?|L|//Prisma does not have any data on how to friend|L|//Prisma will complete Prisma-02 today and gather more data",
@@ -254,7 +343,7 @@
 	},
 	"BLS_syncron" : {
 		"memory"  : "[Message sent]|L|[3 Messages received]|L|//Syncron-01: This Unit loves her|L|//Syncron-02: This Unit loves her|L|//Syncron-03: This Unit loves her|L|//These Units are all in agreement then",
-		"card"    : "造成伤害或破坏部位以吸引[VAL1]个帮手",
+		"card"    : "造成伤害或破坏部位|L|以吸引[VAL1]个帮手",
 	},
 	"BLS_alter_syncron" : {
 		"memory"  : "[2 Messages received]|L|Sender: Syncron-01|L|//This Unit should have accepted your suggestion sooner|L|//This Unit will try not to activate panic mode as easily in the future",
@@ -266,11 +355,11 @@
 	},
 	"BLS_flip_flap" : {
 		"memory"  : "[Pure Affection Received]|L|//This Unit must sing|L|//This Unit agrees|L|//This Unit will flip|L|//This Unit will flap|L|//These Units will share our song",
-		"card"    : "造成伤害或破坏部位以吸引[VAL1]个帮手",
+		"card"    : "造成伤害或破坏部位|L|以吸引[VAL1]个帮手",
 	},
 	"BLS_sentinel_4x" : {
 		"memory"  : "[Heart Drive Unlocked]|L|//Scanning Zaraden|L|//Hair Color: Pink|L|//Skin Color: -1|L|//Wing Type: Feather|L|(Class A chitin mutation)|L|//Power Level: Boundless|L|//This Unit has so many questions for her|L|//This Unit might detonate from excitement",
-		"card"    : "无垠|L|你的子弹能够传送回[VAL2]次",
+		"card"    : "无垠|L|你的子弹|L|能够传送回[VAL2]次",
 	},
 	"BLS_sentinel_0x" : {
 		"memory"  : "[Heart Drive Unlocked]|L|//Access Folder: Loved Ones|L|//3 files found|L|Wingless_Zaraden.mem|L|Waterfall.mem|L|Yona.mem",
@@ -278,15 +367,15 @@
 	},
 	"BLS_ventra" : {
 		"memory"  : "Error: Voice microphone disconnected|L|//Move arm--- gently|L|//This Unit thanks---- Zaraden|L|//She understands",
-		"card"    : "通过挑战以获得[VAL2]%伤害",
+		"card"    : "通过挑战|L|以获得[VAL2]%伤害",
 	},
 	"BLS_sapphire" : {
 		"memory"  : "So this is the feeling of calm? A feeling not defined by what it is, but what it isn't. It is a still and neutral feeling, but often felt positively after an attack by negative emotions has ended.|L||L|Ah, so the minty scent you perceive of me has a calming effect on you.",
-		"card"    : "低生命时总伤害+75%",
+		"card"    : "低生命时|L|总伤害+75%",
 	},
 	"BLS_default" : {
 		"memory"  : "//What should I be?|L|//Can I be anything?|L|//Can I be loved?|L|//I have just been loved.|L|//I can be anything I want.|L|//I can choose my form later.",
-		"card"    : "低生命时总伤害+75%",
+		"card"    : "低生命时|L|总伤害+75%",
 	},
 	
 	
@@ -298,7 +387,7 @@
 	},
 	"BLS_glacia" : {
 		"memory"  : "I'm going to reflect her. I'm going to say \"I love you\" all the time.|L||L|Okay, maybe next time. How is this so easy for her?",
-		"card"    : "总伤害+20%直至受伤两次|L|+1玻璃之心",
+		"card"    : "总伤害+20%|L|直至受伤两次|L|+1玻璃之心",
 	},
 	"BLS_alter_glacia" : {
 		"memory"  : "She is so warm. My petals are defrosting. The stars on them are shining so brightly. I can imagine the compliments Vitrea would give me right now.|L||L|Ahh! I'm blushing so much right now. I think I'm going to melt!",
@@ -330,7 +419,7 @@
 	},
 	"BLS_shy_momo" : {
 		"memory"  : "I think I'm ready to perform this one on stage! Would you like to perform it with me?",
-		"card"    : "星星子弹变为各种元素！|L|最大射速+[VAL2]",
+		"card"    : "星星子弹|L|变为各种元素！|L|最大射速+[VAL2]",
 	},
 	"BLS_shiny_momo" : {
 		"memory"  : "I'm positively blooming! Everything went perfectly! I can't believe you made no mistakes. You are incredible!|L||L|How did you even know all the moves? I just made it up today.",
@@ -354,7 +443,7 @@
 	
 	"BLS_split_veyeral" : {
 		"memory"  : "You could have ignored some of us, but you didn't. You really made sure not to miss a single one of us. We feel so loved right now.",
-		"card"    : "分裂之心+[VAL1]|L|心心伤害+[VAL3]|L|虚空防御+[VAL4]",
+		"card"    : "分裂之心+[VAL1]|L|心心伤害+[VAL2]|L|虚空防御+[VAL3]",
 	},
 	"BLS_burning_veyeral" : {
 		"memory"  : "Okay, alright, you got me. I just wanted to show you my fire. It's time for burning!",
@@ -374,11 +463,11 @@
 	},
 	"BLS_vibrant_veyeral" : {
 		"memory"  : "Oh... uh, so you really did mean it? You actually think I'm pretty. I-I know you mean it now. I could actually see it with my own eye.|L||L|Well, I think you're um... beautiful.",
-		"card"    : "每场战斗灵感伤害+[VAL1]%|L|光耀防御 +[VAL2]",
+		"card"    : "每场战斗|L|灵感伤害+[VAL1]%|L|光耀防御 +[VAL2]",
 	},
 	"BLS_veyeral_quartet" : {
 		"memory"  : "Alone together? More like, come together, right now, over us.",
-		"card"    : "心形子弹变为各种元素！|L|心心射速+[VAL2]",
+		"card"    : "心形子弹|L|变为各种元素！|L|心心射速+[VAL2]",
 	},
 	"BLS_veyeral_rain" : {
 		"memory"  : "Did the rest of you see that?|L|Did the rest of you feel that?|L|So that's what a dream is like? Thank you so much, miss lovely Zaraden.",
@@ -410,7 +499,7 @@
 	},
 	"BLS_totaria" : {
 		"memory"  : "So that's why you won't give up. There's someone else there...",
-		"card"    : "总伤害+[VAL1]%每点防御单元|L|（最小+15%）",
+		"card"    : "总伤害+[VAL1]%|L|每点防御单元|L|（最小+15%）",
 	},
 	"BLS_blue_veyeral" : {
 		"memory"  : "You need help holding your combo? Well, you've come to the right Veyeral! I'll simply make sure your combo stays perfect. An easy task for me. It just comes naturally, really.",
@@ -422,11 +511,11 @@
 	
 	"BLS_anomaly" : {
 		"memory"  : "I can try to fix the cracks on her heart, but I can only do so much. I'm nowhere near perfect after all.|L||L|Did you understand my humor? That little blue one is fascinating.",
-		"card"    : "每场战斗后回复[VAL1]生命且|L|+[VAL2]因果",
+		"card"    : "每场战斗后|L|回复[VAL1]生命且|L|+[VAL2]因果",
 	},
 	"BLS_shiny_anomaly" : {
 		"memory"  : "Although I cannot directly help her in battle, I can manipulate the flow of karma in her favor.",
-		"card"    : "获得更多因果，礼物，及简单挑战",
+		"card"    : "获得更多|L|因果，礼物，及|L|简单挑战",
 	},
 	"BLS_stella" : {
 		"memory"  : "You leave a shining trail of stars wherever you go. Did you know that?",
@@ -442,7 +531,7 @@
 	},
 	"BLS_chroma" : {
 		"memory"  : "I was blinded by my own fear. I could not see your true colors. There are so many colors beyond the spectrum that you can see. You should love your colors!",
-		"card"    : "羽毛子弹变为各种元素！|L|羽毛射速+[VAL2]",
+		"card"    : "羽毛子弹|L|变为各种元素！|L|羽毛射速+[VAL2]",
 	},
 	"BLS_duality" : {
 		"memory"  : "Your dreams have shown us something. Just like the day and the night, we too belong together. We always did.",
@@ -454,15 +543,15 @@
 	},
 	"BLS_nix_polyps" : {
 		"memory"  : "I am sorry. It was too much to ask that you save us all. There must be another way.",
-		"card"    : "+[VAL1]恐慌之瘤|L|每场战斗获得一个恐慌",
+		"card"    : "+[VAL1]恐慌之瘤|L|每场战斗|L|获得一个恐慌",
 	},
 	"BLS_tox_polyps" : {
 		"memory"  : "I am sorry. We don't want to save ourselves by hurting you. There must be another way.",
-		"card"    : "向身后发射会传送回来的心心",
+		"card"    : "向身后发射|L|会传送回来的心心",
 	},
 	"BLS_nova" : {
 		"memory"  : "Pride, content, acceptance, calm, confidence, belonging.|L|These are all wonderful feelings.|L|The Zaraden left you here. They did not care what happened to you, but we did. All of us did. You were never really alone. We've always been here. Just too afraid to let ourselves be known.",
-		"card"    : "每场战斗保护你的连击一次",
+		"card"    : "每场战斗|L|保护你的连击一次",
 	},
 	
 }

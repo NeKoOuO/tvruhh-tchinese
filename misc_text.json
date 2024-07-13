@@ -33,7 +33,7 @@
 	"choose_card"		: "选择",
 	"cycle_card"		: "循环 [VAL1]",
 	"stage_card"		: "关卡 [VAL1]",
-	"bounty_card"		: "这个赏金礼物是为你准备的",
+	"bounty_card"		: "这个奖励礼物是为你准备的",
 	
 	"level_tag"			: "等级 [VAL1]",
 	"abbrev_level"		: "Lv [VAL1]",
@@ -354,7 +354,7 @@
 	"SC_credits1" : {
 		"name"		: "Credits A",
 		"desc"		: "Simple ending credits",
-		"credit"	: "Created by\nAngel Polanco",
+		"credit"	: "创作者               中文本地化\nAngel Polanco          赤銅·Syakudo",
 	},
 	
 	
@@ -641,134 +641,134 @@
 		"find_spoiler"		: "???\nThis Dreamscape cannot be discovered yet",
 	},
 	"S_clouds_day" : {
-		"name"		: "Among the Petals",
+		"name"		: "花瓣之间",
 		"memory"	: "I can share my dreams with them! Have I always been able to do this?|L||L|It feels like I'm flying! I haven't felt this much joy in a long time.",
 	},
 	"S_clouds_sunset" : {
-		"name"		: "Above the Clouds",
+		"name"		: "云端之上",
 		"memory"	: "The experience is stressful for all of us. Their attacks don't cause me any pain. They just make me sad.|L||L|Do they hate me for doing this? They SAY that they love me, but I feel guilty sometimes.",
 	},
 	"S_clouds_night" : {
-		"name"		: "In My Dreams",
+		"name"		: "入我梦中",
 		"memory"	: "Why do they look like this? In my dreams, some of them look the same, but some of them look very different.|L||L|I wonder what I look like to them...",
 	},
 	"S_ocean_day" : {
-		"name"		: "Calm Reflection",
+		"name"		: "静寂映像",
 		"memory"	: "I heard a tree branch snap. A huge mite fell from above and almost landed on me. It was a Guardian monster!|L|I thought this was the end.|L|She was going to kill me.|L|I was so scared.|L||L|She ran away from me as fast as she could. Was she afraid of me?",
 	},
 	"S_ocean_sunset" : {
-		"name"		: "Vitreous Ocean",
+		"name"		: "琉璃之洋",
 		"memory"	: "The Vitreous Ocean is the body of water that surrounds Retina. This ocean extends out to touch all four of the other continents.|L|Many of the islands found in this ocean are made of vitreous rocks. Some are so clear that they look like holes in the water.",
 	},
 	"S_ocean_night" : {
-		"name"		: "Radiating Symmetry",
+		"name"		: "闪耀对称",
 		"memory"	: "I want her to see the ocean. Describing it to her is not enough. She needs to see it with her own eyes. I can fly her there one day. I will fly her to so many places.|L||L|I... wish it was that simple.",
 	},
 	"S_forest_day" : {
-		"name"		: "Above My Home",
+		"name"		: "家园之上",
 		"memory"	: "I never would have imagined how pretty my home is from above. The forest is so much bigger than I thought. Even as high as she took me, there were trees as far as I could see in every direction!",
 	},
 	"S_forest_sunset" : {
-		"name"		: "Iiry Forest",
+		"name"		: "鸢尾森林",
 		"memory"	: "To the residents of the Towers of Iiry, this forest is known as The Pit.|L||L|It is a beautiful violet forest that covers most of the Iiry continent, but this beauty is tainted by the fact that countless wingless have been left there to die...",
 	},
 	"S_forest_night" : {
-		"name"		: "Distant Towers",
+		"name"		: "遥远高塔",
 		"memory"	: "Never go near the towers! Monsters are bad, but Zaraden are worse! They WILL hurt you!|L||L|Please, promise me you will never go near them.",
 	},
 	"S_cave_day" : {
-		"name"		: "Hiding Place",
+		"name"		: "躲藏之处",
 		"memory"	: "Before I met her, she would just sleep outside at night. She could handle the cold and the rain like they were nothing. She wasn't even afraid of those monsters that were lurking around. I knew they were dangerous, and I didn't want them to find her while she slept. I wanted her to be safe, so I helped her search for a place she could call home.",
 	},
 	"S_cave_sunset" : {
-		"name"		: "Iiry Caverns",
+		"name"		: "鸢尾洞窟",
 		"memory"	: "The Iiry Caverns are a massive system of caves that run all throughout the Iiry Mountains. Several colonies of mites and meerstalks live within these caverns. They may have been dug out by Guardian monsters attempting to reach Guardian Zones deep inside the mountains.",
 	},
 	"S_cave_night" : {
-		"name"		: "A Special Place",
+		"name"		: "特别的地方",
 		"memory"	: "We found a cozy little cave tangled beneath the roots of a massive tree. Inside, there were two glowing flowers that matched the colors of our hair. The entrance was raised, so it wouldn't flood when it rained. She was really happy with it!|L||L|I wish I could just take her with me. She deserves so much better than this!",
 	},
 	"S_woods_day" : {
-		"name"		: "Hopeful Woods",
+		"name"		: "希望林地",
 		"memory"	: "Her skin was pink,|L|Her hair was blue,|L|Her six wonderful wings.|L|My heart was beating so fast.|L|My face was feeling so warm.|L|Why is she all I can think about?",
 	},
 	"S_woods_sunset" : {
-		"name"		: "Fall Breeze",
+		"name"		: "秋绪微风",
 		"memory"	: "She is so mean to herself.|L|She smiles at my compliments.|L|Whenever I ask,|L|She is always okay,|L|But I saw her bloody nails,|L|She is so mean to herself.",
 	},
 	"S_woods_night" : {
-		"name"		: "Solitude",
+		"name"		: "孤寂",
 		"memory"	: "She promised me that I would never be alone again, but... she hasn't been here to see me in a long time.|L||L|I deserve this...",
 	},
 	"S_glow_tunnel" : {
-		"name"		: "Behind the Waterfall",
+		"name"		: "瀑布之后",
 		"memory"	: "Always check behind the waterfall. You never know what you might find back there.",
 	},
 	"S_lava_tunnel" : {
-		"name"		: "Excessive Warmth",
+		"name"		: "过度温暖",
 		"memory"	: "I need warmth.|L|I'm so cold.|L|I need more warmth.|L|I'm still so cold.|L|Give me your warmth.|L|Now we are both cold.|L|It's still not enough|L|Will it ever be enough?",
 	},
 	"S_cold_tunnel" : {
-		"name"		: "Core of the Numb",
+		"name"		: "麻木核心",
 		"memory"	: "I haven't seen Vitrea since the last time I broke one of my petals. I just don't want to be seen. It's so embarrassing.|L||L|It grew back just fine, but she hasn't come looking for me. I know I told her not to. I told her I would find her when I'm ready. But it's been such a long time. Maybe she doesn't want to see me anymore. I wouldn't blame her.",
 	},
 	"S_canvas_day" : {
-		"name"		: "Painted Peaks",
+		"name"		: "染色高山",
 		"memory"	: "I'm starting to forget what daytime is supposed to look like. I'll have to keep painting it so I won't lose what little memories I have left.|L||L|Wait! There weren't any stars, right? Well, there was one big one. I can still see a bright spot through the clouds sometimes.",
 	},
 	"S_canvas_sunset" : {
-		"name"		: "Sunset Seascape",
+		"name"		: "日落海景",
 		"memory"	: "There is supposed to be so much water that you can't even see any land on the other side. It must be so beautiful. I wish I could fly over it.|L||L|I'm so tired. I'll just rest here for a little while. I'll imagine what the ocean looks like again.",
 	},
 	"S_canvas_night" : {
-		"name"		: "Midnight Mural",
+		"name"		: "午夜壁画",
 		"memory"	: "I told her not to go. It's too dangerous to fly through the clouds. It's so dark, especially at night. And what if there was lightning?|L||L|She just made that face at me and took off into the sky. She just had to make sure the stars were still up there on the other side.",
 	},
 	
 	"S_darkness" : {
-		"name"		: "The Darkness",
+		"name"		: "黑暗",
 		"memory"	: "Blue told me that Veyerals don't dream. Well, she says they might, but everything is dark and they can't see anything.|L||L|I can only see red when I'm awake, but my dreams have all the colors now! I never knew how beautiful blue was.",
 	},
 	"S_super_space" : {
-		"name"		: "So Far Away",
+		"name"		: "如此遥远",
 		"memory"	: "I want to take it back.|L|I left her all alone.|L|I want to see her again,|L|But, she's so far away.",
 	},
 	"S_monster_home" : {
-		"name"		: "Monster's Home",
+		"name"		: "怪物的家",
 		"memory"	: "I know those monsters are just as lonely and scared as I am. I don't want us to be lonely anymore. I don't want us to feel afraid anymore. We can be friends.|L||L|I'll start with that cute little robot I saw. There's something different about her.",
 	},
 	"S_music_void" : {
-		"name"		: "Let There Be Sound",
+		"name"		: "愿此处获得声音",
 		"memory"	: "That pale girl has been living down here for so long. She's almost 50 years old! How hardcore do you have to be to live here for that long? Ever since she was just a kid? She is clearly made of something else.|L||L|I've got another idea for a song.",
 	},
 	"S_canvas_special" : {
-		"name"		: "Cursed Canvas",
+		"name"		: "诅咒画布",
 		"memory"	: "A long time ago, I found an image painted on the side of a rock. It was kinda Zaraden shaped. Whoever painted it left a single bowl of paint on the ground. I took some with my fingers and smeared a heart shape near it.|L||L|The next day, I went back to find that someone had painted so many lovely hearts all over the rock. They left so many colors of paint this time.|L|It was my turn again.",
 	},
 	
 	"S_true_panic" : {
-		"name"		: "True Panic",
+		"name"		: "真正恐慌",
 		"memory"	: "Take a deep breath|L|Exhale slowly|L|Inhale slowly|L|Exhale slowly|L|Nothing is actually happening to you. You will be okay.",
 	},
 	"S_wonderful_gift" : {
-		"name"		: "Gift From Beyond",
+		"name"		: "来自彼方的礼物",
 		"memory"	: "I know you are there.|L|I see so many of you helping every instance of these Zaraden. Is it because you don't have wings either?|L|I want to help them too. They are so sweet and deserve so much.|L|You are sweet too. I hope you love yourself the same way.",
 	},
 	"S_garden_blessing" : {
-		"name"		: "The Garden's Blessing",
+		"name"		: "花园的祝福",
 		"memory"	: "These flowers can absorb motes of all colors and turn them radiant, but they aren't very efficient.|L|Agh! I have to figure out a better way to do this!|L||L|They want to go with the other plan. I don't like the idea of creating a monster. We shouldn't be doing this.",
 	},
 	"S_golden_void" : {
-		"name"		: "The Heart of a Monster",
+		"name"		: "怪物的心",
 		"memory"	: "It's not often I get to observe a monster taking on a Zaranoid form. I've seen it with Shambles who seem to be able to take many shapes. I've seen Glyphs that project out a body almost like a hologram, but they appear to be solid. I suspect the Glass Flora all have a form like this, but I've only caught glimpses of them.|L||L|They all have one thing in common, a scar on their chest.",
 	},
 	"S_nowhere" : {
-		"name"		: "Nowhere",
+		"name"		: "无处",
 		"memory"	: "I've been left here all alone for nearly my whole life.|L|Why go on at all.|L|What am I living for?|L||shake|Why do you go on?|L|Just give up!|L|HahAhaAHahaHha",
 	},
 	
 	"S_alter_nowhere" : {
-		"name"		: "Altered Nowhere",
+		"name"		: "异相无处",
 		"memory"	: "No! I don't want to die.|L|I'm so scared.|L|Why does she want to kill us?|L||shake|Why? Why? Why? WHY?!",
 	},
 	"S_alter_iteria" : {
@@ -780,11 +780,11 @@
 		"memory"	: "",
 	},
 	"S_alter_dream" : {
-		"name"		: "Altered Dream",
+		"name"		: "异相梦境",
 		"memory"	: "After so much work, I've done it! I can talk to the creature from my dreams! We still can't understand each other, and I still can't make out her real shape, but this is a huge step. I know she can hear me. She reacted to the words I said... or rather, thought out loud.",
 	},
 	"S_alter_towers" : {
-		"name"		: "Altered Towers",
+		"name"		: "异相高塔",
 		"memory"	: "I'll climb up there if I have to. I'll go up there and find her myself!|L||L|Why would she do this to me?|L||shake|HahAhaAHahaHha|L|Why? Why? Why? WHY?!",
 	},
 	"S_alter_sentaria" : {
@@ -856,7 +856,7 @@
 		"rule_bonding3"		: "|C3|2 different Bonding Time Events|C0| can appear per run, but the second one must appear after 3 full sized chapters are cleared.",
 	},
 	"E_self_doubt" : {
-		"name"		: "Self Doubt",
+		"name"		: "自我怀疑",
 		"hint"		: "[hint_common]",
 		"details"	: "The monsters are getting more and more powerful. Is this too much for me already? Am I good enough for this? These negative thoughts will get in the way later. The monsters can sense it. We are sharing dreams after all.|L||L|I'll just rest for a little while. If I rest longer, I can |C3|reduce monster power by up to 3 levels.|C0|",
 		"rule1"		: "[rule_any_stage]",
@@ -864,7 +864,7 @@
 		"rule3"		: "Taking several hits in a single battle will increase the chance of an encounter after that battle.",
 	},
 	"E_free_heart_key" : {
-		"name"		: "A Key to Love",
+		"name"		: "通往爱的钥匙",
 		"hint"		: "[hint_common]",
 		"details"	: "One of my tetrids pulled me over to a |C3|Heart Key|C0| on the ground. Should I take it?|L||L|It is a rare and |C3|Wonderful Power Gift!|C0| But I have noticed that for every 3-star gift I have, I am |C3|less likely to find another one|C0| later.",
 		"rule1"		: "This event can appear after any chapter, but only before the start of the third full sized chapter.",
@@ -874,7 +874,7 @@
 		"rule5"		: "You must have at least one tetrid of any base color.",
 	},
 	"E_convert_tetrids" : {
-		"name"		: "Radiant Garden",
+		"name"		: "光耀花园",
 		"hint"		: "[hint_common]",
 		"details"	: "I found a beautiful garden filled with radiant flowers. The flowers can change the colors of my tetrids!|L||L|If I give the garden enough tetrids, it will attract a |C3|Special Monster.|C0|",
 		"rule1"		: "[rule_any_chapter]",
@@ -883,7 +883,7 @@
 		"rule4"		: "You must have at least one of each base color tetrid.",
 	},
 	"E_lulu" : {
-		"name"		: "Lulu's Gift",
+		"name"		: "露露的礼物",
 		"hint"		: "[hint_monster]",
 		"B_key"		: "B_unit_lulu",
 		"details"	: "After a practice battle with the Little Robot, she will give me her |C3|Fear Sense|C0| gift. This thing can tell me exactly how much fear a monster has. I don't really know what that means, but the battles always end exactly when that number gets to zero!|L||L|She must have spent so much time studying the monsters. Even during all those days that I can't remember.",
@@ -891,7 +891,7 @@
 		"rule2"		: "You must not already have the |C3|Fear Sense|C0| gift.",
 	},
 	"E_heliola" : {
-		"name"		: "Heliocentric Model",
+		"name"		: "日心说",
 		"hint"		: "[hint_monster]",
 		"B_key"		: "B_heliola",
 		"details"	: "Heliola decided that she didn't want to hide herself from everyone anymore. It will take her some time to get over her fear of attention, but the world will be a better place when she can share her light freely.|L||L|She made a |C3|Sun Stone|C0| for me today. It uses her own light to attract more monsters. It also helps me feel energized, especially now that I'm starting to forget what the sun feels like...",
@@ -899,7 +899,7 @@
 		"rule2"		: "You must not already have the |C3|Sun Stone|C0| gift.",
 	},
 	"E_scrambla" : {
-		"name"		: "Scrambla's Gift",
+		"name"		: "蛋花的礼物",
 		"hint"		: "[hint_monster_multi]",
 		"B_key"		: "B_scrambla",
 		"details"	: "That absolute sweetheart, Scrambla found a way to help me. She can open a |C3|Link Synapse|C0| and put some of my gifts inside. I won't have those gifts anymore today, but they will be waiting for me tomorrow!|L||L|I wonder where my gifts normally go at night?",
@@ -907,7 +907,7 @@
 		"rule2"		: "[rule_come_back]",
 	},
 	"E_boiler" : {
-		"name"		: "Boiler's Gift",
+		"name"		: "锅炉的礼物",
 		"hint"		: "[hint_monster_multi]",
 		"B_key"		: "B_boiler",
 		"details"	: "The spiciest Shamble around, Boiler found a way to help me. She can open a |C3|Link Synapse|C0| and send my gifts straight to my home, but tomorrow in the future!|L||L|Her synapse seems to share the same exit point as her sister, Scrambla's.",
@@ -915,7 +915,7 @@
 		"rule2"		: "[rule_come_back]",
 	},
 	"E_blot" : {
-		"name"		: "Blot's Art Gallery",
+		"name"		: "墨点的艺术展览馆",
 		"hint"		: "[hint_monster_multi]",
 		"B_key"		: "B_blot",
 		"details"	: "Blot invited me to her art gallery today. She asked me for gift donations with a special interest in |C3|artistic|C0| gifts.|L||L|She proudly talked about all the beautiful art that she found while I tried my best to hide the welling tears in my eyes. She doesn't know that I painted most of them. It's been a long time since I've felt this flavor of happiness.",
@@ -923,7 +923,7 @@
 		"rule2"		: "[rule_token_shop]",
 	},
 	"E_vitrea" : {
-		"name"		: "Vitrea's Observatory",
+		"name"		: "琉璃的天文观测所",
 		"hint"		: "[hint_monster_multi]",
 		"B_key"		: "B_vitrea",
 		"details"	: "Vitrea invited me to her observatory today. She asked me for gift donations with a special interest in |C3|cosmic|C0| gifts.|L||L|Her telescopes are amazing! They can blast small holes in the clouds to let the stars shine through. They can also be used to capture the image of stars as a gift.|L||L|Unfortunately we can't use them to blast all the clouds away.",
@@ -931,7 +931,7 @@
 		"rule2"		: "[rule_token_shop]",
 	},
 	"E_sentinel_quiz" : {
-		"name"		: "Sentinel's Quiz",
+		"name"		: "哨卫的问答游戏",
 		"hint"		: "[hint_monster_multi]",
 		"B_key"		: "B_sentinel_4x",
 		"details"	: "Sentinel 4X gave me another quiz today. She was so happy every time I got a correct answer. She gets so excited, I was afraid her head was really going to explode this time.|L||L|As I learn more, she comes up with new questions to ask. I don't know how she does that. It's like she can tell exactly what I know just by looking at me. I think she wants to make sure I don't lose my memories again.",
@@ -941,7 +941,7 @@
 		"rule4"		: "If the next battle is the final battle, she will start the quiz immediately.",
 	},
 	"E_free_gift" : {
-		"name"		: "No One's Gift",
+		"name"		: "无人的礼物",
 		"hint"		: "[hint_common]",
 		"details"	: "I stumbled upon a lonely gift that seemingly belonged to no one. Should I take it next time? What if it belongs to someone? What if they wanted to give it to me, but were too scared?",
 		"rule1"		: "[rule_any_chapter]",
@@ -950,7 +950,7 @@
 		"rule4"		: "This event will be replaced by any other |C3|Free Gift Event|C0| that has their conditions met.",
 	},
 	"E_visit_amalga" : {
-		"name"		: "Amalga's Hospitality",
+		"name"		: "阿玛加的好客",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_amalga",
 		"details"	: "Amalga was so worried about me, that she gave me |C3|4 Bonus Gifts|C0| today.|L||L|She's a sweetheart, but she doesn't take care of herself. She was literally falling apart when I saw her. I don't know how to convince her that she matters just as much as anyone else.",
@@ -959,7 +959,7 @@
 		"rule3"		: "[rule_free2]",
 	},
 	"E_visit_roundsaw" : {
-		"name"		: "Wrath of Roundsaw",
+		"name"		: "圆锯的怒火",
 		"hint"		: "[hint_chance_multi]",
 		"B_key"		: "B_roundsaw",
 		"details"	: "Roundsaw wants to help me boost my loving power! She gave me a choice of |C3|Passive Boost Gifts|C0| or a |C3|Bonus Gift.|C0||L||L|I think she just wanted me to give her a stronger hug. She even took her sawblade off so I could really get in there! I always thought it was a part of her body.",
@@ -968,7 +968,7 @@
 		"rule3"		: "[rule_free2]",
 	},
 	"E_visit_photoxai" : {
-		"name"		: "Photo Shy Photoxai",
+		"name"		: "羞涩的光影之楔",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_photoxai",
 		"details"	: "I ran into Photoxai again today. She can take photographs by making her glyph flash a bright light!|L||L|She likes to take photos of random gifts that I have with me. These photos work just like |C3|duplicate gifts,|C0| and she lets me take one of them!|L||L|If I have any room for a Quick Gift, she will also give me one of her |C3|photo gifts.|C0|",
@@ -977,7 +977,7 @@
 		"rule3"		: "[rule_free2]",
 	},
 	"E_visit_ombroah" : {
-		"name"		: "Ombroah's Umbrella",
+		"name"		: "雨布罗阿的伞",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_ombroah",
 		"details"	: "I found Ombroah's home and she invited me under her umbrella. She wanted to give me a gift. She let me choose from |C3|water and rain gifts|C0| or some of her very own |C3|heart stones.|C0||L||L|She's so sweet. She let me sleep next to her for a while. I felt so safe.",
@@ -986,7 +986,7 @@
 		"rule3"		: "[rule_free2]",
 	},
 	"E_visit_astrayo" : {
-		"name"		: "Flash Before My Eyes",
+		"name"		: "于我眼前闪烁",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_astrayo",
 		"details"	: "Astrayo came looking for me today. She had a few [ZAP] and |C3|mechanical|C0| gifts for me!|L||L|She was so excited a lot of her |C3|spark stones|C0| were flying all over the place. They seem to appear out of air around her. I wanted to ask her where they come from, but she looked too embarrassed to talk about it.",
@@ -995,7 +995,7 @@
 		"rule3"		: "[rule_free2]",
 	},
 	"E_visit_null_unit" : {
-		"name"		: "Null Scrap Pile",
+		"name"		: "空无的废料堆",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_null_unit",
 		"details"	: "I found Null Unit on a mountain of scrap metal where she seems to live. She showed me a random pile of |C3|12 quick gifts|C0| and let me have any one I wanted.|L||L|If I have at least |C3|4 empty quick slots|C0| when I visit her, she'll give me an |C3|extra quick gift|C0| from another pile.",
@@ -1004,7 +1004,7 @@
 		"rule3"		: "[rule_free2]",
 	},
 	"E_visit_flip_flap" : {
-		"name"		: "Flipping and Flapping",
+		"name"		: "噼里与啪啦",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_flip_flap",
 		"details"	: "The Flip Flap robots each gave me a gift today.|L|Flip let me choose a |C3|Split Unit|C0| or a [RADIANT] gift.|L|Flap let me choose an |C3|Inverted Unit|C0| or a [VOID] gift.|L||L|They also sang a little song for me.|wave||L|Flip Flap.|L|Flip Flap.",
@@ -1013,7 +1013,7 @@
 		"rule3"		: "[rule_free2]",
 	},
 	"E_visit_pearl" : {
-		"name"		: "Smiles for Pearl",
+		"name"		: "给珍珠的微笑",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_pearl",
 		"details"	: "It's so hard for me to read Pearl's expression. It doesn't help that she can't talk either.|L||L|She likes to randomly pop out of the ground with a bunch of |C3|cosmic gifts|C0| from outer space. I think she wants me to know how much she misses the stars.",
@@ -1022,7 +1022,7 @@
 		"rule3"		: "[rule_free2]",
 	},
 	"E_visit_burning" : {
-		"name"		: "Time for Burning",
+		"name"		: "燃烧时间",
 		"hint"		: "[hint_chance_multi]",
 		"B_key"		: "B_burning_veyeral",
 		"details"	: "Burning Veyeral gave me two gifts today! She let me choose a [BURN] gift and then she let me choose a |C3|Bonus Gift.|C0||L||L|That's 3 free gifts if you count one of the warmest hugs possible!",
@@ -1031,7 +1031,7 @@
 		"rule3"		: "[rule_free2]",
 	},
 	"E_visit_venom" : {
-		"name"		: "Time for Detox",
+		"name"		: "去毒时间",
 		"hint"		: "[hint_chance_multi]",
 		"B_key"		: "B_venom_veyeral",
 		"details"	: "Venom Veyeral had [TOXIC] and |C3|panic|C0| gifts for me today. She was going to throw them away, but she asked me if I wanted to take them instead.|L||L|I can tell that she didn't want them to go to waste even though she didn't want them anymore. She indirectly helped several other monsters feel loved today!",
@@ -1040,7 +1040,7 @@
 		"rule3"		: "[rule_free2]",
 	},
 	"E_trade_calorie" : {
-		"name"		: "Calorie's Desire",
+		"name"		: "卡洛里的欲望",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_calorie",
 		"details"	: "Calorie is having trouble sleeping because she is too hot! She is looking for [VOID] gifts to cool off, but she'll accept anything that isn't a [BURN] gift.|L||L|She also loves it if I have some of |C3|her favorite candy!|C0||L||L|She has 7 gifts to trade, and most of them are on fire.",
@@ -1049,7 +1049,7 @@
 		"rule3"		: "[rule_trade2]",
 	},
 	"E_trade_lila" : {
-		"name"		: "Lila Wants a Snack",
+		"name"		: "莱拉想要零食",
 		"hint"		: "[hint_chance_multi]",
 		"B_key"		: "B_lila",
 		"details"	: "Lila wants:|L||C3|1 food active gift|L|1 food quick gift|C0||L||L|She won't take any other gifts, but she will happily eat tetrids if I don't have any food... or even if I do.|L||L|Lila has a pile of 10 random gifts she is willing to trade.",
@@ -1058,7 +1058,7 @@
 		"rule3"		: "[rule_trade2]",
 	},
 	"E_trade_hematoren" : {
-		"name"		: "Blood Drive",
+		"name"		: "血液之欲",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_hematoren",
 		"details"	: "Hematoren wants to create a garden out of my blood, so I let her have some. It didn't hurt, but I did feel a little weak after. She gave me some food and I felt better.|L||L|She has 9 gifts to trade, including some heart stones that she made.|L||L|It's a special feeling knowing that a part of me can create life like that. I wish she wouldn't forget about it tomorrow.",
@@ -1068,7 +1068,7 @@
 		"rule4"		: "You must have at least |C3|10 max health|C0| for this event to be chosen.",
 	},
 	"E_trade_chemory" : {
-		"name"		: "Scent of Chemory",
+		"name"		: "切莫里的芳香",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_chemory",
 		"details"	: "Chemory was looking for gifts that she could turn into perfume. She mostly wanted [TOXIC] gifts, but she takes anything that isn't a [ZAP] gift since those disrupt her ability.|L||L|She has 8 gifts to trade, and she usually has a few gifts with a lovely fragrance.|L||L|I think she focuses on transforming [TOXIC] gifts because they remind her of herself.",
@@ -1077,7 +1077,7 @@
 		"rule3"		: "[rule_trade2]",
 	},
 	"E_trade_hadesoh" : {
-		"name"		: "Walk With Us In Hell",
+		"name"		: "一同于地狱漫步",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_hadesoh",
 		"details"	: "Ever since I've been in the towers, every monster's blessings and burdens have appeared to me. Some monsters can see them too.|L||L|Hadesoh has been gathering everyone's burdens onto herself, but that's way too much for one monster! I've decided to take on a few of them myself, but she insisted that I also take something from her pile of 14 gifts.",
@@ -1086,7 +1086,7 @@
 		"rule3"		: "The chances of this event being chosen is increased if the |C3|Trading Event|C0| is encountered later in the run.",
 	},
 	"E_trade_monovai" : {
-		"name"		: "Monovai's Revenge",
+		"name"		: "寞诺唯的报复",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_monovai",
 		"details"	: "As nightfall approaches, Monovai is worried that she won't be able to see anything. She is looking for [RADIANT] gifts to light up the night, but she'll accept any gifts.|L||L|She has 8 gifts to trade, usually including some very carefully crafted heart stones.|L||L|She might be afraid of the dark... Maybe a |C3|Nightlight|C0| will help?",
@@ -1095,7 +1095,7 @@
 		"rule3"		: "[rule_trade2]",
 	},
 	"E_trade_prisma" : {
-		"name"		: "Prisma's Duplicator",
+		"name"		: "棱镜的复制机",
 		"hint"		: "[hint_chance_multi]",
 		"B_key"		: "B_prisma",
 		"details"	: "Prisma has a device that can make copies of gifts! It needs a lot of power to work, so she needs to use other gifts as energy for it. Any [ZAP] or |C3|mechanical|C0| gifts will create even more energy.|L||L|She can make one copy of every gift that I have with me, but I must be careful about what gifts I choose. Some gift effects can't really be doubled.",
@@ -1104,7 +1104,7 @@
 		"rule3"		: "[rule_trade2]",
 	},
 	"E_trade_glacia" : {
-		"name"		: "Glacia's Secret",
+		"name"		: "星川的秘密",
 		"hint"		: "[hint_chance_multi]",
 		"B_key"		: "B_glacia",
 		"details"	: "Glacia is looking for |C3|cosmic|C0| gifts to give to her friend.|L||L|She has 6 gifts that she is willing to trade. Many of these will affect any active shot types that my heart can fire.|L||L|She will accept any gifts that aren't quick gifts, as those might disappear before she can give them to Vitrea... I mean \"her friend\" that no one knows, and who she is totally not in love with.",
@@ -1113,7 +1113,7 @@
 		"rule3"		: "[rule_trade2]",
 	},
 	"E_trade_vibrant" : {
-		"name"		: "Vibrant Art Exchange",
+		"name"		: "活力艺术展",
 		"hint"		: "[hint_chance_multi]",
 		"B_key"		: "B_vibrant_veyeral",
 		"details"	: "Vibrant Veyeral is looking for some |C3|artistic|C0| gifts, but she will accept anything.|L||L|She is offering 7 gifts that can modify the elements of my shots.|L||L|I'll introduce her to Blot next time.",
@@ -1122,7 +1122,7 @@
 		"rule3"		: "[rule_trade2]",
 	},
 	"E_trade_frozen" : {
-		"name"		: "Frozen Veyeral Warm Up",
+		"name"		: "冰封维目尔的热身",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_frozen_veyeral",
 		"details"	: "Frozen Veyeral wants to warm up! She is looking for [BURN] gifts to speed up the process, but she'll accept anything that isn't a [VOID] gift.|L||L|She has 7 gifts to trade, but naturally, some of them will be [VOID] type.",
@@ -1131,7 +1131,7 @@
 		"rule3"		: "[rule_trade2]",
 	},
 	"E_bond_kiwi" : {
-		"name"		: "Kiwi's Playhouse",
+		"name"		: "几维的游戏屋",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_kiwi",
 		"details"	: "Kiwi had an amazing game set up for me! She drew all the characters herself, and they were all so cute! Well, maybe not by herself. I think the flowers on her tail are her sisters. She said they all helped with the drawings.|L||L|The game was kinda violent, but it's just a silly game. Kiwi had a huge rule book, but I think she ignored a lot of the rules. Wait! How did Kiwi learn how to read?",
@@ -1140,7 +1140,7 @@
 		"rule3"		: "[rule_bonding3]",
 	},
 	"E_bond_split" : {
-		"name"		: "Veyeral Games",
+		"name"		: "维目尔游戏",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_split_veyeral",
 		"details"	: "Split Veyeral wanted to play some games with me today! They were all rolling around and changing the color of their eyeballs. I didn't really know they could do that, but I guess I have seen a few other Veyerals with different eye colors.|L||L|Hmm... Her name is Split Veyeral, but is she one Veyeral or are they a bunch of them? I'm still not sure how many there are in there.",
@@ -1149,7 +1149,7 @@
 		"rule3"		: "[rule_bonding3]",
 	},
 	"E_bond_voltage" : {
-		"name"		: "Voltage Min-Max",
+		"name"		: "高压的极小极大",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_voltage_veyeral",
 		"details"	: "Voltage Veyeral will sometimes come looking for me when she feels lonely. It's always a mystery what her mood will be every day. Sometimes she wants to charge herself up in the rain, but other times she just wants to relax in a cave or under an umbrella.|L||L|She always reminds me that there are so many different paths I can take every day.",
@@ -1158,7 +1158,7 @@
 		"rule3"		: "[rule_bonding3]",
 	},
 	"E_score_knots" : {
-		"name"		: "Knot for Naught",
+		"name"		: "结草衔环",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_knot_knott",
 		"details"	: "Knot asked me to help her find Knott. Knott had taken a warp synapse back to her original universe and Knot was worried that she might be in trouble. It turns out she went there to bring back a gift for me!|L||L|I pulled Knott back into this universe through Knot's dream, but I don't think that actually did anything in the waking world. The important part is that it made Knot feel better while she waited for Knott to return.",
@@ -1167,7 +1167,7 @@
 		"rule3"		: "[rule_treasure2]",
 	},
 	"E_score_joule" : {
-		"name"		: "Work for Joule",
+		"name"		: "焦耳的工作",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_joule",
 		"details"	: "Joule wants me to help her with an experiment. She is trying to send energy over to other dimensions using the motes that are stuck in her hair. I don't know exactly what that means, but all I have to do is show some more love. I'm really good at doing that!|L||L|When I do really well, I pull so many other gifts from her hair.",
@@ -1176,7 +1176,7 @@
 		"rule3"		: "[rule_treasure2]",
 	},
 	"E_score_rendy" : {
-		"name"		: "Rendy's Buried Treasure",
+		"name"		: "兰迪埋藏的宝物",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_rendy",
 		"details"	: "Rendy needed my help finding her buried treasure. She told me that she couldn't remember where she buried it, but I think that was just an excuse to be around me and show off her digging skills.|L||L|I hope one day she understands that she doesn't need an excuse to do that.",
@@ -1185,7 +1185,7 @@
 		"rule3"		: "[rule_treasure2]",
 	},
 	"E_score_snowball" : {
-		"name"		: "The Royal Treasure",
+		"name"		: "皇家宝物",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_snowball",
 		"details"	: "Snowball needed my help remembering where she buried her royal treasure. I don't think I helped very much since nothing in her dreams made any sense. She has gifts buried all over the place, so it's probably just a lucky guess every time we find anything.",
@@ -1194,7 +1194,7 @@
 		"rule3"		: "[rule_treasure2]",
 	},
 	"E_score_philolu" : {
-		"name"		: "Any Way You Want It",
+		"name"		: "如你之愿",
 		"hint"		: "This event has a chance to appear by loving many Eyeric Glyphs during a Story run",
 		"B_key"		: "B_philolu",
 		"details"	: "I met another monster that isn't afraid of me! It should really be no surprise that it was Philolu, the love glyph. It's also not surprising that she is so unbelievably pretty!|L||L|She actually asked ME on a date! Wow!|L||L|I made sure it was just a friendly date. She actually seemed just a tiny bit sad about it. But I just can't- No, I don't want to think about that right now.",
@@ -1203,7 +1203,7 @@
 		"rule3"		: "Other Treasure Events will be prioritized until at least |C3|4 Eyeric Glyph Monsters|C0| are loved.",
 	},
 	"E_score_syncron" : {
-		"name"		: "Async Desync",
+		"name"		: "异步同步",
 		"hint"		: "[hint_chance_multi]",
 		"B_key"		: "B_syncron",
 		"details"	: "Syncron came back with more gifts for me today, but by the time they found me, they were in a full panic! I had to help them get out of it!|L||L|It turned out that the gifts were covered in motes that got stuck inside their exhaust ports! I feel a little guilty that they went through all that just to give me some gifts.",
@@ -1212,7 +1212,7 @@
 		"rule3"		: "[rule_treasure2]",
 	},
 	"E_score_momo" : {
-		"name"		: "Murder Dance",
+		"name"		: "谋杀之舞",
 		"hint"		: "[hint_chance_multi]",
 		"B_key"		: "B_momo",
 		"details"	: "Momo wanted to dance with me today. The dance was very intense and complicated. There were vines and blades everywhere. It was so much fun!|L||L|Some shy monsters were watching us from hiding spots in the trees. They left some gifts for us.",
@@ -1221,7 +1221,7 @@
 		"rule3"		: "[rule_treasure2]",
 	},
 	"E_score_veyerals" : {
-		"name"		: "Veyerals Dream Again",
+		"name"		: "维目尔再次入梦",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_veyeral_rain",
 		"details"	: "A group of Veyerals that I showed love to came back to see me. They wanted me to show them another dream. They were so grateful that they gave me even more gifts, but I was happy to do it anyways.|L||L|I didn't know that Veyerals can't dream on their own. It makes me so sad to think about it.",
@@ -1230,7 +1230,7 @@
 		"rule3"		: "[rule_treasure2]",
 	},
 	"E_score_anomaly" : {
-		"name"		: "Lucky Break",
+		"name"		: "幸运小憩",
 		"hint"		: "[hint_chance]",
 		"B_key"		: "B_anomaly",
 		"details"	: "I usually don't get much time to rest during the day. Even though I'm actually asleep throughout every battle, it isn't the same as resting for myself. I'm still so tired after waking up from that.|L||L|I had a rare chance to take a nap for myself. I had a dream about that strange heart again, and when I woke up, there were gifts left next to me.",
@@ -1239,12 +1239,12 @@
 		"rule3"		: "Other Treasure Events are prioritized if karma is the only fulfilled requirement.",
 	},
 	"E_final_path" : {
-		"name"		: "Her Path",
+		"name"		: "她的道路",
 		"details"	: "How will my story end today? Will it be heartbreak, or something worse?|L||L|No! I'm not afraid anymore!",
 		"rule1"		: "This event occurs at a set point in every story run, as long as the character has more than one story path available.",
 	},
 	"E_wonderful" : {
-		"name"		: "Gift from Beyond",
+		"name"		: "来自彼方的礼物",
 		"hint"		: "Have low karma at the end of a chapter",
 		"details"	: "Something is watching over me. I've never actually seen her, but I know she is there. My love dream power works on her just like any other monster.|L||L|Whatever she is, she gave me some of the most |C3|Wonderful Power Gifts|C0| ever given.",
 		"rule1"		: "[rule_full_chapter]",
@@ -1252,7 +1252,7 @@
 		"rule3"		: "This event can be encountered multiple times in a single run as long as you are holding |C3|less than 3|C0| Wonderful Power Gifts.",
 	},
 	"E_true_panic" : {
-		"name"		: "True Panic",
+		"name"		: "真正恐慌",
 		"hint"		: "Have a lot of panics at the end of a chapter",
 		"details"	: "Holding onto so much panic has attracted polyps. They bring nothing but |C3|Panic Gifts|C0| and even more panic. It really is a self sustaining cycle.|L||L||C3|Don't forget to panic!|C0|",
 		"rule1"		: "[rule_full_chapter]",
@@ -1261,19 +1261,19 @@
 		"rule4"		: "You must be holding |C3|at least 4|C0| panic attacks.",
 	},
 	"E_link_synapse" : {
-		"name"		: "Link Synapse",
+		"name"		: "连接突触",
 		"hint"		: "Put a gift in the Link Synapse",
 		"details"	: "A Link Synapse opened up outside of my home today. There were some gifts inside along with a note. I couldn't read it, but it was clearly from Scrambla. The thing is, I can't remember putting all of those gifts in there.|L||L|I could only take a few out before it closed. Radiating |C3|Foreign Axons|C0| will let me take more gifts out of the synapse.",
 		"rule1"		: "This event will be encountered at the start of every run as long as there are any gifts in the Link Synapse.",
 	},
 	"E_alter_your_fate" : {
-		"name"		: "Alter Your Fate",
+		"name"		: "改变你的命运",
 		"details"	: "Abyss can call over more monsters with her power. I'm not sure what she does, but I can find myself with |C3|up to 3 extra battles|C0| to deal with after meeting with her.|L||L|She seems really concerned with how many motes I can get in a single day. Maybe I can break this cycle by simply showing love to as many monsters as possible in a single day? If only it was that easy.",
 		"rule1"		: "This event occurs at a set point in every altered story run.",
 		"rule2"		: "|C4|This event will NOT occur if any gifts are taken out of the Link Synapse at the start of the run.",
 	},
 	"E_endless_store" : {
-		"name"		: "Solara's Gift Shop",
+		"name"		: "索拉纳的礼品店",
 		"details"	: "Solara wants to help me survive during my nightmares. She can use her power to reach deep into my mind and pull gifts out of my memories. It takes her more karma to do this after each gift is pulled out.|L||L|Solara's chances of pulling higher rank gifts are increased by the amount of times I summon her, and the amount of battles I survive.",
 		"rule1"		: "Solara can be summoned at the end of any battle in |C3|Endless Stress|C0| at the cost of some karma.",
 		"rule2"		: "The karma cost will increase by 1 every time she is summoned.",
@@ -1286,7 +1286,7 @@
 	
 	"C_her_heart" : {
 		"name"		: "她的心",
-		"desc"		: "一位年轻扎拉登族女性的心",
+		"desc"		: "一位\n年幼扎拉登\n女性的心",
 	},
 	"C_defect" : {
 		"name"		: "缺陷",
@@ -1300,7 +1300,7 @@
 	},
 	"C_the_devil" : {
 		"name"		: "恶魔",
-		"desc"		: "这颗心看起来渴望战斗",
+		"desc"		: "这颗心看起来\n渴望战斗",
 		"unlock"	: "总共收集400棱晶",
 	},
 	"C_alter_heart" : {
@@ -1309,15 +1309,15 @@
 	},
 	"C_alter_defect" : {
 		"name"		: "异相缺陷",
-		"desc"		: "这颗心被一个维目尔占据",
+		"desc"		: "这颗心\n被一个维目尔占据",
 	},
 	"C_alter_twin" : {
 		"name"		: "异相双子",
-		"desc"		: "这颗心如繁星闪耀",
+		"desc"		: "这颗心如繁星般闪耀",
 	},
 	"C_alter_devil" : {
 		"name"		: "异相恶魔",
-		"desc"		: "一位受谴责的扎拉登的心",
+		"desc"		: "一位\n受谴责的\n扎拉登的心",
 	},
 	
 	
@@ -1425,6 +1425,7 @@
 		"B_moss"				: "Turn Around",
 		"B_scarlet"				: "Hot Sauce Enjoyer",
 		"B_dandy"				: "Asdfhqwefhjkasvnawerhu",
+		"B_indigo"				: "Which One Do I Shoot?!",
 	},
 	
 	

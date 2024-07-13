@@ -5,69 +5,69 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|Little Robot!|norm|   One of the monsters loves me now!",
+			"dialog"			: "|wave|小机器人！|norm|   其中一个怪物现在爱我了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "She even gave me something.",
+			"dialog"			: "她甚至给了我什么东西。",
 		},
 		{
 			"show_tutorial"		: "example_power_card",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This object appears to be a |C3|Power Gift.",
+			"dialog"			: "该物件确认为一个|C3|力量礼物。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "It seems that this monster wanted to help you love the next one.",
+			"dialog"			: "看起来这位怪物想要帮助你去爱下一位。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "This gift can help me?",
+			"dialog"			: "这个礼物可以帮助我？",
 		},
 		{
 			"show_tutorial"		: "small_power_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit will now explain |C3|Power Gifts.",
+			"dialog"			: "本单元现将解释|C3|力量礼物。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Monsters will give you |C3|Power Gifts|C0| when they are loved.",
+			"dialog"			: "当怪物们感到被爱时，她们会给你|C3|力量礼物|C0|。",
 		},
 		{
 			"show_tutorial"		: "example_power_card",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "The effects of |C3|Power Gifts|C0| will automatically activate when you receive them.",
+			"dialog"			: "|C3|力量礼物|C0|的效果在你收下时会自动激活。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "My heart does feel stronger already.",
+			"dialog"			: "我的心确实已经感觉到变强了。",
 		},
 		{
 			"show_tutorial"		: "small_power_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "The stars on a |C3|Power Gift|C0| denote its rank.|L||!|Gifts with a higher rank will have more powerful effects.",
+			"dialog"			: "|C3|力量礼物|C0|上的星星数量决定了其阶级。|L||!|高阶级的礼物具有更加强大的效果。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Accept the gifts that each monster gives you and use their effects to love more monsters.",
+			"dialog"			: "|C3|建议：|C0|接受每个怪物给予你的礼物并使用其效果去爱更多怪物。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|Thank you, Little Robot!|norm||L||!|I will do that!",
+			"dialog"			: "|wave|谢谢你，小机器人！|norm||L||!|我会这样做的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "I should probably test it first, just to be sure that it works.",
+			"dialog"			: "我说不定需要先测试一下，为了确定它已经生效了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you.",
+			"dialog"			: "|wave|我爱你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "This Unit is experiencing a sudden rise in temperature.|L||!|Your power has grown indeed.",
+			"dialog"			: "本单元感觉到温度急剧上升。|L||!|你的力量确实已经增长了。",
 		}
 	]
 }

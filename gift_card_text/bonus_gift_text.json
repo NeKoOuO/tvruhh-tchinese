@@ -105,7 +105,31 @@
 		"memory"  : "When you flip |teh| it becomes |yo|, so this reads \"small battery\" any way you hold it.|L||L|I'm so good at words!",
 		"card"    : "最大能量+[VAL1]",
 	},
-	
+	"BNS_one_mite" : {
+		"name"    : "一只跳虫",
+		"memory"  : "Mites are the most diverse family of animals on Eyeris. Having four legs is their main unifying feature, but otherwise they come in so many shapes and sizes. We probably haven't discovered most species of mites yet.",
+		"card"    : "吸引一个额外跳虫帮手",
+	},
+	"BNS_two_mites" : {
+		"name"    : "两只跳虫",
+		"memory"  : "Mites come in a variety of body shapes with different amounts of eyes and antennae. Some have wings, while others can jump over the height of a tree. Most species can spin webs to build their nests, but some are content with a hole in the ground.",
+		"card"    : "吸引[VAL1]个额外跳虫帮手",
+	},
+	"BNS_three_mites" : {
+		"name"    : "三只跳虫",
+		"memory"  : "While some species of mites prefer to be alone, most of them live together in large colonies. Mite colonies are often made up of several different species working together. The queens of each colony are much larger than the rest, but rare sightings of mites even larger than a Zaraden are speculated to be Guardians.",
+		"card"    : "吸引[VAL1]个额外跳虫帮手",
+	},
+	"BNS_magnetic" : {
+		"name"    : "磁力",
+		"memory"  : "I was drawn to her by some force, and now I can't stop thinking about her. Was it really as simple as being at the right place at the right time?",
+		"card"    : "吸引一个额外的磁力石",
+	},
+	"BNS_attraction" : {
+		"name"    : "吸引",
+		"memory"  : "It's like my sister can read my mind. She's always right about how I'm feeling. I'm glad she is here with me now, but I'm still so lonely in another way. I know she is trying to help, and I know her constant jokes about flirting with all those monsters are actually serious.|L||L|Why am I so afraid to try?",
+		"card"    : "吸引[VAL1]个额外的磁力石",
+	},
 	
 	
 	
@@ -127,32 +151,32 @@
 	"BNS_vial_a" : {
 		"name"    : "小型药剂",
 		"memory"  : "Take a little sip and you will start to feel better.",
-		"card"    : "+[VAL1]备用生命以在战斗中缓慢恢复",
+		"card"    : "+[VAL1]备用生命|L|以在战斗中缓慢恢复",
 	},
 	"BNS_vial_b" : {
 		"name"    : "半满药剂",
 		"memory"  : "I put in nanomachines that will repair your heart from the inside.",
-		"card"    : "+[VAL1]备用生命以在战斗中缓慢恢复",
+		"card"    : "+[VAL1]备用生命|L|以在战斗中缓慢恢复",
 	},
 	"BNS_vial_c" : {
 		"name"    : "全满药剂",
 		"memory"  : "I lied. It's only some of that zesty drink. Placebo can be very powerful!",
-		"card"    : "+[VAL1]备用生命以在战斗中缓慢恢复",
+		"card"    : "+[VAL1]备用生命|L|以在战斗中缓慢恢复",
 	},
 	"BNS_glass_a" : {
 		"name"    : "玻璃之心",
 		"memory"  : "Glacia accidentally tore one of her petals. It turned to glass and shattered. I know they always grow back, but she looked so heartbroken.",
-		"card"    : "下次受击伤害减半",
+		"card"    : "下次受击|L|伤害减半",
 	},
 	"BNS_glass_b" : {
 		"name"    : "二重玻璃",
 		"memory"  : "I think the Glass Flora can generate glass with sharp edges, but they never do. They always throw smooth glass pebbles at me when they are afraid. I don't think they ever intend to hurt anyone.",
-		"card"    : "后续[VAL1]次受击伤害减半",
+		"card"    : "后续[VAL1]次受击|L|伤害减半",
 	},
 	"BNS_glass_c" : {
 		"name"    : "三重玻璃",
 		"memory"  : "Kiwi has started sculpting glass hearts and giving them to anyone that will take them. They must have gotten the idea from the Glyphs.",
-		"card"    : "后续[VAL1]次受击伤害减半",
+		"card"    : "后续[VAL1]次受击|L|伤害减半",
 	},
 	"BNS_life_blood" : {
 		"name"    : "生命之血",

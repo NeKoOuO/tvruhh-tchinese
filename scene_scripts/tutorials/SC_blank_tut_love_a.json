@@ -5,100 +5,100 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "\\E(2)Hello there, Little Robot.",
+			"dialog"			: "|wave|你好，小机器人。 ",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Hello, young Zaraden.|L||!|This Unit is programmed to provide information to anyone who might need it.",
+			"dialog"			: "你好，年幼的扎拉登。|L||!|本单元的程序能够为任何需要的人提供信息。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "Okay!      What do you have for me?",
+			"dialog"			: "好的！      你有什么要告诉我的吗？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit will now teach this Zaraden how to love the monsters.",
+			"dialog"			: "本单元现在将指导这位扎拉登如何去爱怪物们。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "\\E(2)That is perfect!\\E(0)     I was just wondering about how to do that.",
+			"dialog"			: "|wave|这太完美了！|norm|     我刚还在想怎么做呢。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "In order to teach this Zaraden how to love the monsters, This Unit will now emulate an unloved monster.",
+			"dialog"			: "为了指导这位扎拉登如何去爱怪物们，本单元现在将模拟一位尚未被爱的怪物。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "To accomplish this, |C3|fear|C0| must be installed onto This Unit.",
+			"dialog"			: "为了达成这一目标，|C3|恐惧|C0|将被安装到本单元上。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit will now run |C3|Existential_Dread.prog|C0|",
+			"dialog"			: "本单元现在即将运行|C3|存在主义恐惧.prog|C0|",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "That doesn't sound very good.",
+			"dialog"			: "这听上去可不妙。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Installing       .       .       .|L||!|Complete.|C0|",
+			"dialog"			: "|C3|正在安装       .       .       .|L||!|安装完成。|C0|",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "Are you okay?",
+			"dialog"			: "你没事吗？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has just installed 2,700 units of |C3|fear|C0| onto her system.",
+			"dialog"			: "本单元刚刚在她的系统上安装了2700单位的|C3|恐惧|C0|。",
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C2|Moving Happiness.prog to the Trash Folder. |!||L|Deleting the Trash Folder.",
+			"dialog"			: "|C2|正在将快乐.prog移动至回收站。|!||L|正在清空回收站。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "Don't do that!",
+			"dialog"			: "别这样做！",
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C2|Nobody loves me, but it doesn't matter because the universe is an uncaring void.",
+			"dialog"			: "|C2|没有人爱我，但无所谓，这个宇宙就是漠不关心的虚空。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|Why would you say that?",
+			"dialog"			: "|shake|你为什么这样说？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit would like to apologize.|!||L|That was a minor side effect of having |C3|fear|C0| installed onto This Unit.",
+			"dialog"			: "本单元想要为此道歉。|!||L|这是本单元上所安装|C3|恐惧|C0|带来的小型副作用。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Please ignore any |C3|fear|C0| induced speech errors that may occur in the future.",
+			"dialog"			: "请无视一切未来可能出现的|C3|恐惧|C0|主导言论。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "Okay...   If you say so.",
+			"dialog"			: "好的...   既然你这样说了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Use your abilities to remove the |C3|fear|C0| that has been installed onto This Unit.",
+			"dialog"			: "|C3|建议：|C0|使用你的能力移除本单元上所安装的|C3|恐惧|C0|。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "How do I do that?",
+			"dialog"			: "我要怎么做？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Step One:|C0| Close your eyes and think of something lovely.",
+			"dialog"			: "|C3|第一步:|C0|闭上眼睛，想象一些美妙的事物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "\\E(2)Easy!      What's next?",
+			"dialog"			: "|wave|这个很简单！      下一步呢？",
 		},
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C3|Step Two: |C2||shake|I will feel better after hurting you!",
+			"dialog"			: "|C3|第二步:|C2||shake|我在伤害你之后就感觉好多了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_power"],

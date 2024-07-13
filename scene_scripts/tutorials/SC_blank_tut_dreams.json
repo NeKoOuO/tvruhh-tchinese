@@ -5,154 +5,154 @@
 			"play_music"	: "tutorbot_scene_music",
 			"bg_image"		: "spr_tutorial_common",
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"		: "|wave|Little Robot.",
+			"dialog"		: "|wave|小机器人。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "I've met so many new monsters!",
+			"dialog"		: "我见到了好多新怪物！",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"		: "They've given me gifts that I've never seen before.",
+			"dialog"		: "她们给了我从未见过的礼物。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "It appears that this Zaraden has been |C3|fulfilling her dreams.|C0|",
+			"dialog"		: "看起来这位扎拉登已经在|C3|实现她的梦境。|C0|",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "Yeah! I guess so.",
+			"dialog"		: "是呀！大概吧。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "I've never really had friends like all of you before.",
+			"dialog"		: "我以前从未有过像你们这样的朋友。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
-			"dialog"		: "Except...",
+			"dialog"		: "除了...",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
-			"dialog"		: "Uhh, nevermind.",
+			"dialog"		: "呃，无所谓了。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit now requires several backup storage devices for all the love this Zaraden has shown her.",
+			"dialog"		: "本单元需要许多备用储存设备以存储这位扎拉登为她展示的爱。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "|wave|You're welcome.",
+			"dialog"		: "|wave|不用谢哦。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "As This Unit has stated before, the dreams of this Zaraden are very powerful.",
+			"dialog"		: "如本单元之前所述，这位扎拉登的梦境非常强大。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Suggestion:|C0| Continue to affect the world by |C3|fulfilling your dreams.|C0|",
+			"dialog"		: "|C3|建议：|C0|继续通过|C3|实现你的梦境|C0|来影响世界。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "That's     a strange way to put it.",
+			"dialog"		: "你这样     说还挺奇怪的。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "That was not a metaphorical statement.",
+			"dialog"		: "这并非是比喻上的叙述。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"		: "What?",
+			"dialog"		: "什么？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Question:|C0| Has this Zaraden noticed all of the new monsters and gifts that have appeared?",
+			"dialog"		: "|C3|问题：|C0|这位扎拉登注意到了所有出现的新怪物与新礼物吗？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Many of these are new to This Unit.",
+			"dialog"		: "其中有许多对本单元而言都是从未见过的。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"		: "So we've never seen them?|!||L|Not even when I couldn't remember anything?",
+			"dialog"		: "所以我们从未见过那些？|!||L|甚至在我记不得一切的时候也是吗？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "That is correct.",
+			"dialog"		: "确实如此。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Whether conscious or not, the heart of this Zaraden has a |C3|list of dreams|C0| that she wishes to fulfill.",
+			"dialog"		: "无论是否有意识到，这位扎拉登的心中有着她想要实现的|C3|一系列梦境|C0|",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Fulfilling dreams|C0| is attracting new monsters and changing the behaviors of others.",
+			"dialog"		: "|C3|实现梦境|C0|正在吸引新的怪物并改变其他怪物的行为模式。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"		: "How is that even possible?",
+			"dialog"		: "这怎么可能呢？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit does not have any explanation for this phenomenon.",
+			"dialog"		: "本单元对该现象没有任何可能解释。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "It is possible that |C3|fulfilling dreams|C0| can lead to a solution for the endless rain.",
+			"dialog"		: "有可能|C3|实现梦境|C0|能够指引我们找到无尽的雨的解决方案。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"		: "So, I'll just do whatever my heart desires?",
+			"dialog"		: "所以，我就只需要做我的心中想要做的事情？",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "Sounds like a great plan to me!",
+			"dialog"		: "听起来对我来说像是个不错的计划！",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "All of the monsters have their own |C3|dreams to fulfill|C0| as well.",
+			"dialog"		: "所有的怪物也有着她们自己的|C3|梦境等待实现|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Monsters that this Zaraden has loved before will have shared their dreams with you.",
+			"dialog"		: "这位扎拉登所爱过的怪物会与你分享她们的梦境。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"		: "|wave|I can help them with their dreams too.",
+			"dialog"		: "|wave|我也可以帮助实现她们的梦境。",
 		},
 		{
 			"show_tutorial"	: "monster_dreams",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "These icons will appear next to monsters that have any |C3|unfulfilled dreams.|C0|",
+			"dialog"		: "当怪物有着|C3|未实现的梦境|C0|时，这些标志会出现在怪物旁边。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Suggestion:|C0| Use the |C3|Check Heart|C0| option to view the |C3|Dream List.|C0|",
+			"dialog"		: "|C3|建议：|C0|使用|C3|检视你的心|C0|选项以查看|C3|梦境列表。|C0|",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "You can check the dreams of each monster before you battle them.",
+			"dialog"		: "你与她们战斗前也可以查看每一位怪物的梦境。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Simply knowing their dreams is a vital step to fulfilling them.",
+			"dialog"		: "单纯了解她们的梦境也对于实现梦境至关重要。",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"		: "Can you guess what my dream is right now?",
+			"dialog"		: "你能够猜到我现在的梦是什么吗？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Looking at the trends in past data, it is almost certainly to interrupt This Unit with-",
+			"dialog"		: "通过过往数据分析，大概率能够确定是打断本单元—",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "|wave|I love you.",
+			"dialog"		: "|wave|我爱你。",
 		},
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "This Unit dreams of an infinite storage device.",
+			"dialog"		: "本单元梦想着拥有无尽储存空间的设备。",
 		}
 	]
 }

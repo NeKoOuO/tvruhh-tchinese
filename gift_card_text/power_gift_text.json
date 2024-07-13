@@ -2,7 +2,7 @@
 	
 	"I_lovely_hearts" : {
 		"name"    : "美丽的心",
-		"memory"  : "If we could see love, what would it look like? I imagine hundreds of hearts flowing from one Zaraden to another. It would form an endless web of hearts flowing between everyone. But I have to wonder... would I be linked to it?",
+		"memory"  : "如果我们能够看到爱，那会是什么样的呢？我想象着成百上千的爱心从一个扎拉登那里飞向另一个。这会在所有人之间交织成无尽的爱心之网。但我仍会遐想...我会被连接在上面吗？",
 		"card"    : "心形子弹！",
 	},
 	"I_tiny_wings" : {
@@ -13,7 +13,7 @@
 	"I_starry_night" : {
 		"name"    : "繁星之夜",
 		"memory"  : "The stars fly higher than any Zaraden could ever reach. I can't fly like other Zaraden, but... why did they leave me down here?",
-		"card"    : "星星子弹！|L|不要移动以提高射速",
+		"card"    : "星星子弹！|L|保持不动以提高射速",
 	},
 	
 	
@@ -47,32 +47,32 @@
 	"I_glass_fang" : {
 		"name"    : "玻璃尖牙",
 		"memory"  : "Ouch!|L|Did I just step on a Glass Flora thorn?|L||L|Hmm... This looks more like a tooth!",
-		"card"    : "暴击率+[VAL1]%|L|+1玻璃的心心",
+		"card"    : "暴击率+[VAL1]%|L|+1玻璃之心",
 	},
 	"I_star_flower" : {
 		"name"    : "星之花",
-		"memory"  : "Do you want to look at the stars with me?|L||L|Excellent! I'll sneak my way back down here later tonight! I just saw a place with a perfect view.|L||L|I have a book with all the ancient constellations in it. Let's see how many we can find!",
-		"card"    : "光耀防御+[VAL1]|L|总伤害+[VAL2]%每点光耀防御",
+		"memory"  : "你想和我一起看星星吗？|L||L|太棒了！今晚迟些时候我会再溜回来的！我刚刚看到一个景色绝佳的地方。|L||L|我有一本书，里面有着所有古老的星座。我们看看能找到多少吧！",
+		"card"    : "光耀防御+[VAL1]|L|总伤害+[VAL2]%|L|每点光耀防御",
 	},
 	"I_crescent" : {
 		"name"    : "新月",
 		"memory"  : "The crescent shape and void have been synonymous ever since this constellation was named. See how the gap in the crescent has no stars shining through it? It's the largest area with no stars in the whole sky. It's unnerving to think about how much empty space that is.",
-		"card"    : "虚空防御+[VAL1]|L|总伤害+[VAL2]%每点虚空防御",
+		"card"    : "虚空防御+[VAL1]|L|总伤害+[VAL2]%|L|每点虚空防御",
 	},
 	"I_magma_worm" : {
 		"name"    : "熔岩虫",
 		"memory"  : "As the legend goes, a giant magma worm would flail violently deep inside of Mount Retina. This would cause all the earthquakes in the days leading up to an eruption of the volcano.|L||L|It hasn't erupted for over a hundred years, but I remember my mother told me that when she was little, she heard the same blast twice from right here! The sound went around the whole planet twice!",
-		"card"    : "燃烧防御+[VAL1]|L|总伤害+[VAL2]%每点燃烧防御",
+		"card"    : "燃烧防御+[VAL1]|L|总伤害+[VAL2]%|L|每点燃烧防御",
 	},
 	"I_sky_guardian" : {
 		"name"    : "天空守卫",
 		"memory"  : "That one was supposedly the source of lightning during a storm. Rayo the Sky Guardian would hide in the clouds and shoot lightning from her tail. The thunder was the sound of her wings flapping, so you would hate her!|L||L|Hehehe, I know you could never hate anything.",
-		"card"    : "电击防御+[VAL1]|L|总伤害+[VAL2]%每点电击防御",
+		"card"    : "电击防御+[VAL1]|L|总伤害+[VAL2]%|L|每点电击防御",
 	},
 	"I_hydra_plant" : {
 		"name"    : "蛇头兰",
 		"memory"  : "This one was said to be a massive hydra plant that lived on the Hyren continent. She was able to extend her body hundreds of liradra into the sky, but that's probably exaggerated. She is supposedly the mother of all the hydra plants in the world today.|L||L|If you think the trees are tall here, you should see the ones on Hyren!|L|Hmm, maybe her height was accurate.",
-		"card"    : "毒素防御+[VAL1]|L|总伤害+[VAL2]%每点毒素防御",
+		"card"    : "毒素防御+[VAL1]|L|总伤害+[VAL2]%|L|每点毒素防御",
 	},
 	"I_self_glyph" : {
 		"name"    : "自我符文",
@@ -95,14 +95,14 @@
 		"card"    : "强力暴击子弹|L|暴击率+[VAL4]%",
 	},
 	"I_saw_bloom" : {
-		"name"    : "锯的华",
+		"name"    : "锯之华",
 		"memory"  : "Meerstalks are segmented reptiles that live all throughout The Pit. They are normally docile creatures, but not the Guardian meerstalk. She uses this rare and dangerous flower as a weapon and she has quite the temper. Her name is Roundsaw for a reason.",
 		"card"    : "总伤害+[VAL1]%",
 	},
 	"I_determination" : {
 		"name"    : "决心",
 		"memory"  : "I've heard that if you just YELL as loud as possible for as long as possible, then you will get stronger. Through sheer willpower alone, you can do absolutely anything! You can even change the COLOR of your HAIR!",
-		"card"    : "总伤害+[VAL1]%每点防御单元|L|（最小+25%）",
+		"card"    : "总伤害+[VAL1]%|L|每点防御单元|L|（最小+25%）",
 	},
 	
 	
@@ -111,7 +111,7 @@
 	"I_painting" : {
 		"name"    : "画作",
 		"memory"  : "I saw that quirky wingless girl again. She loves to paint things, so I asked her if she would make a painting of me.|L|...I'm really glad I met her when I did.|L||L|Oh no! How am I going to explain where I got this? I don't want to hide it!",
-		"card"    : "每场战斗可承受一次致命攻击",
+		"card"    : "每场战斗可承受一次|L|致命攻击",
 	},
 	"I_nothing" : {
 		"name"    : "无",
@@ -131,7 +131,7 @@
 	"I_plant_glyph" : {
 		"name"    : "植物符文",
 		"memory"  : "|C3||hai||ah| (Hiya) |C0|Drink|L||C3||hai||dra| (Hydra) |C0|Rise|L||C3||hai||ren| (Hyren) |C0|Flower|L||C3||hai||ral| (Hyral) |C0|Spread|L||C3||ze||hai| (Zehai) |C0|Measure",
-		"card"    : "毒素光环|L|需在战斗中经过一段时间",
+		"card"    : "毒素光环|L|需在战斗中经过一段|L|时间",
 	},
 	"I_spark_thorns" : {
 		"name"    : "电弧棘刺",
@@ -141,7 +141,7 @@
 	"I_glass_petal" : {
 		"name"    : "玻璃花瓣",
 		"memory"  : "I found such a lovely flower petal on the ground. I picked it up thinking that it would be soft and smooth, but it had a sharp crack on it. I dropped it after it cut my finger and it shattered on the ground. Every piece had lost its beautiful color.",
-		"card"    : "总伤害+20%直至受伤|L|（每场战斗重置）",
+		"card"    : "总伤害+20%|L|直至受伤|L|（每场战斗重置）",
 	},
 	"I_the_world" : {
 		"name"    : "世界",
@@ -151,12 +151,12 @@
 	"I_boundless" : {
 		"name"    : "无垠",
 		"memory"  : "If there are really an infinite number of universes, then everything that you have ever imagined must actually exist somewhere among them!|L||L|I'd sure hate to live there.",
-		"card"    : "你可以穿过屏幕边缘并传送到另一端",
+		"card"    : "你可以穿过屏幕边缘|L|并传送到另一端",
 	},
 	"I_link_synapse" : {
 		"name"    : "连接突触",
 		"memory"  : "Link Synapses are relatively weak. They only work in one direction and they are confined to a single timeline thread. Still, a Shamble with this power can send objects to any point in time and space causing duplicate instances to exist. Some Shambles can even decide, retroactively, that they never actually sent an object through the synapse. That instance of the object is erased from existence, but the original will always remain.",
-		"card"    : "你的子弹会传送回屏幕的另一端",
+		"card"    : "你的子弹能够传送回|L|屏幕的另一端",
 	},
 	"I_little_sister" : {
 		"name"    : "妹妹",
@@ -166,37 +166,37 @@
 	"I_revita_heart" : {
 		"name"    : "轮回之心",
 		"memory"  : "You've been through so much pain, but now look at all that you've gained!",
-		"card"    : "受伤时回复并获得临时力量",
+		"card"    : "受伤时回复|L|并获得临时力量",
 	},
 	"I_denial" : {
 		"name"    : "否认",
 		"memory"  : "Those glyphy girls are just words. They can't possibly hurt me! I mean, how could they? Just a bunch of silly words.",
-		"card"    : "阻挡每场战斗的第一次受击",
+		"card"    : "阻挡每场战斗的|L|第一次受击",
 	},
 	"I_anxiety" : {
 		"name"    : "焦虑",
 		"memory"  : "I don't know why these machines were built. Their programming is incredibly difficult to decipher. All I know for sure is that they were left down here after the towers were built so long ago.",
-		"card"    : "你生命较低时总伤害+75%",
+		"card"    : "生命较低时|L|总伤害+75%",
 	},
 	"I_insecurity" : {
 		"name"    : "不安",
 		"memory"  : "Those flowers are so fragile. For every chip or crack they endure, they become even easier to break the next time.|L||L|It's nothing a little love and care can't fix.",
-		"card"    : "受到伤害后总伤害+25%|L|（每场战斗重置）",
+		"card"    : "受到伤害后|L|总伤害+25%|L|（每场战斗重置）",
 	},
 	"I_loneliness" : {
 		"name"    : "孤独",
 		"memory"  : "They knew I was alone. I still remember all those eyes staring at me. They knew I was defective!",
-		"card"    : "受到伤害后发散虚空光环",
+		"card"    : "受到伤害后|L|发散虚空光环",
 	},
 	"I_big_sister" : {
 		"name"    : "姐姐",
 		"memory"  : "I have not seen the starry sisters in a long time. I haven't even seen any stars in a long time. I miss them so much.",
-		"card"    : "生命与连击护盾会再生",
+		"card"    : "生命与连击护盾|L|能够再生",
 	},
 	"I_self_portrait" : {
 		"name"    : "自画像",
 		"memory"  : "Her pale body is like a blank canvas. We want to slather her with paint. We just want to envelop her entire being with our colors.|L||L|That cutie makes us feel so beautiful. We just want to return the favor.",
-		"card"    : "每场战斗可承受[VAL1]次致命攻击！|L|总伤害+[VAL3]%",
+		"card"    : "每场战斗可承受|L|[VAL1]次致命攻击！|L|总伤害+[VAL3]%",
 	},
 	"I_second_form" : {
 		"name"    : "第二形态",
@@ -210,7 +210,7 @@
 	"I_zesty_drink" : {
 		"name"    : "美味饮料",
 		"memory"  : "I love this drink! I don't know what it is, but it makes me feel like I could really fly all on my own!",
-		"card"    : "每场战斗后回复[VAL1]生命",
+		"card"    : "每场战斗后|L|回复[VAL1]生命",
 	},
 	"I_lucky_flower" : {
 		"name"    : "幸运花朵",
@@ -220,12 +220,12 @@
 	"I_super_zesty" : {
 		"name"    : "超能饮料",
 		"memory"  : "Of all the things I miss from my life up there, I think I miss this drink the most. It makes me feel like I could rip out the heart of my enemies, hold their still beating heart in front of their own eyes, and then just give it all the love and attention that it deserves!|L|Yeah! It's pretty good.",
-		"card"    : "每场战斗后回复[VAL1]生命|L|总伤害+[VAL3]%",
+		"card"    : "每场战斗后|L|回复[VAL1]生命|L|总伤害+[VAL3]%",
 	},
 	"I_blue_zest" : {
 		"name"    : "蓝色饮料",
 		"memory"  : "One of the best things I've ever tasted! If blue had a flavor, this would be it.",
-		"card"    : "每场战斗后获得[VAL1]后备生命",
+		"card"    : "每场战斗后|L|获得[VAL1]后备生命",
 	},
 	"I_twin_flowers" : {
 		"name"    : "双生花",
@@ -235,42 +235,42 @@
 	"I_dread" : {
 		"name"    : "恐惧",
 		"memory"  : "I know that feeling will be back,|L|I never know when it will be,|L|It strikes so suddenly,|L|It cannot be controlled,|L|I dread it every moment.|L||L|The monster no one else can see,|L|Until I show it to them.",
-		"card"    : "每场战斗后获得一个恐慌",
+		"card"    : "每场战斗后|L|获得一个恐慌",
 	},
 	"I_drip_paint" : {
 		"name"    : "滴落涂鸦",
 		"memory"  : "And this one, I painted with my own blood.|L||L|Just kidding!|L|...Or am I?|L||L|Nah, it's actually your blood.|L||L|(She's laughing at my jokes!)",
-		"card"    : "每场战斗后最大生命+[VAL1]",
+		"card"    : "每场战斗后|L|最大生命+[VAL1]",
 	},
 	"I_color_glyph" : {
 		"name"    : "色彩符文",
 		"memory"  : "|C3||den| (Den)|C0||L|My favorite glyph. It means colors and I love colors. Just attach any glyphs and you get a different color. I wonder if words change the way we see colors or if colors change the way that we think of words.",
-		"card"    : "每场战斗后总伤害+[VAL1]%",
+		"card"    : "每场战斗后|L|总伤害+[VAL1]%",
 	},
 	"I_masterpiece" : {
 		"name"    : "杰作",
 		"memory"  : "Chaos is flawless.|L|There is no way to find a flaw in chaos, so go ahead and embrace it!",
-		"card"    : "每场战斗后随机奖励效果",
+		"card"    : "每场战斗后|L|获得随机奖励效果",
 	},
 	"I_shame" : {
 		"name"    : "羞愧",
 		"memory"  : "We're not real. We're a liar!",
-		"card"    : "受到伤害后最大生命+2|L|（每场战斗一次）",
+		"card"    : "受到伤害后|L|最大生命+2|L|（每场战斗一次）",
 	},
 	"I_frustration" : {
 		"name"    : "沮丧",
 		"memory"  : "I'm really starting to like those Guardians. They want to evolve beyond the limits of their own kind, so they become huge monsters ready to fight anything in their way! Ha, they are tough like me!",
-		"card"    : "每次受到伤害时力量增长",
+		"card"    : "每次受到伤害时|L|力量增长",
 	},
 	"I_heart_key" : {
 		"name"    : "心型钥匙",
 		"memory"  : "I want to tell you things. I want to give you things. But it is so difficult for me to be sincere.|L|It's terrifying to feel so vulnerable, so I lock up my true feelings and throw away the key.",
-		"card"    : "所有挑战更简单且给予额外力量",
+		"card"    : "所有挑战更简单|L|且给予额外力量",
 	},
 	"I_adamant_will" : {
 		"name"    : "不屈意志",
 		"memory"  : "You think it's that easy to break me? I'll use whatever makeshift parts needed to put myself back together! You can't stop me!",
-		"card"    : "每场战斗后回复[VAL1]生命",
+		"card"    : "每场战斗后|L|回复[VAL1]生命",
 	},
 	
 	
@@ -312,7 +312,7 @@
 		"card"    : "光耀防御+[VAL1]|L|最大生命+[VAL2]",
 	},
 	"I_dark_art" : {
-		"name"    : "黑暗画作",
+		"name"    : "黑色画作",
 		"memory"  : "|C3||nu| (Nu) |xai| (Xai)|C0||L|That's darkness.",
 		"card"    : "虚空防御+[VAL1]|L|最大生命+[VAL2]",
 	},
@@ -334,17 +334,17 @@
 	"I_glass_glyph" : {
 		"name"    : "玻璃符文",
 		"memory"  : "|C3||li||den| (Liden) |C0|Clear|L||C3||li||hai| (Lihai) |C0|Glass Flora|L||C3||ze||ai||li| (Zeali) |C0|Shy|L||C3||rah||li| (Rahli) |C0|Danger|L|",
-		"card"    : "生命未满开始战斗时获得玻璃的心心",
+		"card"    : "生命未满开始战斗时|L|获得玻璃之心",
 	},
 	"I_metal_glyph" : {
 		"name"    : "金属符文",
 		"memory"  : "|C3||kah| (Kah)|C0||L|Oh yes, bring on the metal!|L||C3||sin||kah||-||sin||lin| (Synkah Synlin)|C0||L|That's heavy metal music, baby!|L|Oh yeah, I'll teach you more words.|L||C3||kah||yo||ren| (kayoren) |C0|Wire|L||C3||sin||la||kah| (Sinlakah) |C0|Drum|L||C3||ah||soh||kah| (Ahsokah) |C0|Engine",
-		"card"    : "全连击时获得一层护盾|L|全防御+[VAL2]",
+		"card"    : "全连击时|L|获得一层护盾|L|全防御+[VAL2]",
 	},
 	"I_body_glyph" : {
 		"name"    : "身体符文",
 		"memory"  : "This one has so many uses. Attach it to other glyphs to get feelings, emotions, or verbs.|L||C3||soh||ze| (Sohze) |C0|Anger|L||C3||ze||soh| (Zeesoh) |C0|To burn|L||C3||xai||ze| (Xaize) |C0|Joy|L||C3||ze||xai| (Zexai) |C0|To lighten|L||C3||ze||lu| (Zeelu) |C0|Fall in love|L||C3||ze||ris| (Zeris) |C0|To fly",
-		"card"    : "可残存1生命承受[VAL1]次致命伤害|L|最大生命+[VAL3]",
+		"card"    : "可残存1生命|L|承受[VAL1]次致命伤害|L|最大生命+[VAL3]",
 	},
 	"I_transfusion" : {
 		"name"    : "输血",
@@ -448,7 +448,7 @@
 	"I_entropy" : {
 		"name"    : "熵",
 		"memory"  : "Nothing terrifies me more than the fact that the whole universe is tending towards an endless expanse of stillness. All matter frozen at the same temperature.|L|But then I remember that something caused this universe to exist right now. It could happen again.",
-		"card"    : "没有恐慌时会再生一个恐慌",
+		"card"    : "没有恐慌时|L|会生成一个恐慌",
 	},
 	"I_phobia" : {
 		"name"    : "恐惧症",
@@ -487,7 +487,7 @@
 	"I_sun_stone" : {
 		"name"    : "日之石",
 		"memory"  : "Why are you all looking at me? What do you want from me? Did I do something wrong?!|L||L|You expect too much from me...|L|Stop looking at me!",
-		"card"    : "充能速率+[VAL1]%|L|揭示一个额外怪物选择",
+		"card"    : "充能速率+[VAL1]%|L|揭示一个|L|额外怪物选择",
 	},
 	"I_sweet_fruit" : {
 		"name"    : "甜味果实",
@@ -532,17 +532,17 @@
 	"I_love_signal" : {
 		"name"    : "爱的信标",
 		"memory"  : "This signal confirms it! There is life beyond this universe. They are right here! They are right next to us, and yet so far away!|L||L|Those Shambles might never know how much they've truly helped me.",
-		"card"    : "蓄力射击吸引基础子弹",
+		"card"    : "蓄力射击|L|吸引基础子弹",
 	},
 	"I_puncture" : {
 		"name"    : "针孔",
 		"memory"  : "When you love someone, it's like they poked a tiny hole in your heart and now all the love is leaking out. Sometimes, it can be embarrassing, but do you really want to patch it up?",
-		"card"    : "蓄力时以一半射速发射基础子弹",
+		"card"    : "蓄力时以一半射速|L|发射基础子弹",
 	},
 	"I_paint_brush" : {
 		"name"    : "笔刷",
 		"memory"  : "Zaraden come in every possible combination of colors. Most Zaraden are drawn to things of their own two colors. Everything from their favorite food to their love partner will have at least one of their colors. My hair is pink, but I was born with the rarest skin color, NONE. I get to love all colors equally. Lucky me!",
-		"card"    : "蓄力更久以使用暴击蓄力！|L|连击时间增加",
+		"card"    : "蓄力更久|L|以使用暴击蓄力！|L|连击时间增加",
 	},
 	"I_heartbeat" : {
 		"name"    : "心跳",
@@ -621,7 +621,7 @@
 	"I_cracked_heart" : {
 		"name"    : "碎裂的心",
 		"memory"  : "I wonder who this one belonged to.|L|It's so cold now. It must have been here for a very long time.|L||L|It's too late to help her now...",
-		"card"    : "分裂心心+[VAL1]|L|心心伤害+[VAL3]",
+		"card"    : "分裂心心+[VAL1]|L|心心伤害+[VAL2]",
 	},
 	"I_acute_shot" : {
 		"name"    : "敏锐射击",
@@ -631,12 +631,12 @@
 	"I_pressure" : {
 		"name"    : "压力",
 		"memory"  : "Ah! Remembering even the simplest things is so difficult when I'm under pressure!",
-		"card"    : "专注时心心射速+[VAL1]%",
+		"card"    : "专注时|L|心心射速+[VAL1]%",
 	},
 	"I_ripple_effect" : {
 		"name"    : "涟漪效应",
 		"memory"  : "I overheard yet another Zaraden talking about the same dream. An odd zaranoid creature was talking to her. It was impossible to make out the details of its form and it spoke with random noises. This has to be the same being that I saw. It's connecting with random Zaraden through their dreams, but not in the same way that any known monster would.|L||L|This is very exciting!",
-		"card"    : "分裂心心+[VAL1]|L|心心伤害+[VAL3]|L|暴击率+[VAL4]%",
+		"card"    : "分裂心心+[VAL1]|L|心心伤害+[VAL3]|L|暴击率+[VAL3]%",
 	},
 	"I_love_mite" : {
 		"name"    : "爱的跳虫",
@@ -661,7 +661,7 @@
 	"I_rhythm" : {
 		"name"    : "节奏",
 		"memory"  : "Isn't it strange that sound waves bouncing off of your antennae in very specific patterns can make you cry?|L||L|Hey, don't look at me like that! I know music has made you cry a bunch of times.",
-		"card"    : "心心暴击率及伤害+[VAL1]%",
+		"card"    : "心心暴击率|L|及暴击伤害+[VAL1]%",
 	},
 	
 	
@@ -680,17 +680,17 @@
 	"I_heat_coil" : {
 		"name"    : "加热线圈",
 		"memory"  : "[Open Shell]|L|//Prisma has received affection|L|Donated by: Wingless Zaraden|L|Fear Rating: 0|L||L|//Prisma is vulnerable|L|//Temperature Warning!|L|Fear Rating: 761|L||L|//Temperature Warning!|L|//Temperature Warning!|L|[Close Shell]",
-		"card"    : "（仅专注）|L|燃烧之心|L|心心的射速+[VAL2]%",
+		"card"    : "（仅专注）|L|燃烧之心|L|心心射速+[VAL2]%",
 	},
 	"I_circuitry" : {
 		"name"    : "电路",
 		"memory"  : "[Distress signal received]|L|Sender: Syncron-03|L|//Intruder detected|L|//Potential tower zone-5169|L|//One unidentified Zaraden|L||L|[Activating distress signal]|L|//Reply received from Syncron-01|L|//Reply received from Syncron-04|L|[Activating Panic Mode]|L|//Do not let her enter",
-		"card"    : "（仅专注）|L|电击之心|L|心心的伤害+[VAL2]%",
+		"card"    : "（仅专注）|L|电击之心|L|心心伤害+[VAL2]%",
 	},
 	"I_chemical_light" : {
 		"name"    : "化学灯",
 		"memory"  : "//Heart Drive access is locked|L|//Sentinel Model 4X requires a password|L|Enter Password: |ai||lu||ai||L|//Incorrect password|L|Enter Password: |ai||lu||ai||L|//Incorrect password|L|Enter Password: |ai||lu||ai||L|//.............Error|L||L|//Password Accepted|L|[Heart Drive Unlocked]",
-		"card"    : "（仅专注）|L|毒素之心|L|Split Hearts +[VAL2]",
+		"card"    : "（仅专注）|L|毒素之心|L|分裂之心+[VAL2]",
 	},
 	"I_love" : {
 		"name"    : "爱",
@@ -705,7 +705,7 @@
 	"I_passion" : {
 		"name"    : "热情",
 		"memory"  : "Sometimes, I just don't know when to stop. My heart is on fire and I never want it to go out!",
-		"card"    : "燃烧之心|L|心心伤害+[VAL2]|L|心心的射速+[VAL3]",
+		"card"    : "燃烧之心|L|心心伤害+[VAL2]|L|心心射速+[VAL3]",
 	},
 	"I_elation" : {
 		"name"    : "欢欣",
@@ -720,7 +720,7 @@
 	"I_everything" : {
 		"name"    : "一切",
 		"memory"  : "The Void says that she cannot feel love, but I saw all of those hearts inside her. She has so many hearts. I know they can feel love. Every heart can feel loved.",
-		"card"    : "心形子弹变为各种元素！|L|心心射速+[VAL2]",
+		"card"    : "心形子弹|L|变为各种元素！|L|心心射速+[VAL2]",
 	},
 	
 	
@@ -789,7 +789,7 @@
 	"I_neo_world" : {
 		"name"    : "新世界",
 		"memory"  : "That zaranoid creature from my dreams was trying to talk to me, but I couldn't understand a word it was saying. All Zaraden largely speak the same language now, but this doesn't sound like any of the dead languages we used in the past. It seems like this language is from another world entirely.|L||L|I'm so excited! I can hardly sleep!|L|...Which is making this a bit more difficult.",
-		"card"    : "暴击羽毛有着三倍射程|L|暴击率+[VAL2]%",
+		"card"    : "暴击羽毛|L|有着三倍射程|L|暴击率+[VAL2]%",
 	},
 	"I_real_wing" : {
 		"name"    : "真正羽翼",
@@ -853,7 +853,7 @@
 	"I_spectrum" : {
 		"name"    : "光谱",
 		"memory"  : "The arrangement of light cells in the eyes of each Zaraden is slightly varied. That means that we all perceive color a little bit differently. If we could switch eyes, how much different would the world look?",
-		"card"    : "羽毛子弹变为各种元素！|L|羽毛射速+[VAL2]",
+		"card"    : "羽毛子弹|L|变为各种元素！|L|羽毛射速+[VAL2]",
 	},
 	
 	
@@ -877,7 +877,7 @@
 	"I_star_mite" : {
 		"name"    : "星的跳虫",
 		"memory"  : "Sometimes I'll see a tree full of star mites. The little spots glow like stars all over the tree. It reminds me of the night sky. At least how it used to be... before the rain.",
-		"card"    : "星星射速条时间-[VAL1]%",
+		"card"    : "星星射速条|L|时间-[VAL1]%",
 	},
 	"I_violence" : {
 		"name"    : "暴力",
@@ -887,12 +887,12 @@
 	"I_star_shower" : {
 		"name"    : "流星雨",
 		"memory"  : "Don't worry, those are just little pebbles falling from space. If a real star fell down to Eyeris, we would all be vaporized instantly.",
-		"card"    : "最小及最大星星射速+[VAL1]",
+		"card"    : "最小及最大|L|星星射速+[VAL1]",
 	},
 	"I_spectral_bloom" : {
 		"name"    : "星界之花",
 		"memory"  : "These beautiful flowers can actually grow shiny pebbles inside them!",
-		"card"    : "光耀防御+[VAL1]|L|星星射速条时间-[VAL2]%",
+		"card"    : "光耀防御+[VAL1]|L|星星射速条|L|时间-[VAL2]%",
 	},
 	"I_night_bloom" : {
 		"name"    : "暗夜之花",
@@ -932,12 +932,12 @@
 	"I_rock_star" : {
 		"name"    : "摇滚之星",
 		"memory"  : "I'm going to crumble those towers with nothing but the power of this righteous metal. Monsters are a better audience anyways!",
-		"card"    : "星星射速条下降更慢|L|星星伤害+[VAL2]",
+		"card"    : "星星射速条|L|下降更慢|L|星星伤害+[VAL2]",
 	},
 	"I_crying_effect" : {
 		"name"    : "啜泣效应",
 		"memory"  : "Every time I stop and think to myself, I start crying again. It just won't stop. What is wrong with me?",
-		"card"    : "专注时星星伤害+[VAL1]%|L|+[VAL3]恐慌",
+		"card"    : "专注时|L|星星伤害+[VAL1]%|L|+[VAL3]恐慌",
 	},
 	"I_star_glyph" : {
 		"name"    : "星星符文",
@@ -1004,9 +1004,9 @@
 		"card"    : "毒素之星|L|星星伤害+[VAL2]|L|星星散射-[VAL3]%",
 	},
 	"I_wrath_of_pride" : {
-		"name"    : "自傲之怒",
+		"name"    : "骄傲怒火",
 		"memory"  : "They took my friend away from me all those years ago. They lied to me about her!|L||L|I don't care what I'm supposed to be. I don't care what they call me! If loving my wingless friend makes me The Devil, then so be it!",
-		"card"    : "星星子弹变为各种元素！|L|最大射速+[VAL2]",
+		"card"    : "星星子弹|L|变为各种元素！|L|最大射速+[VAL2]",
 	},
 	
 	
@@ -1040,22 +1040,27 @@
 	"I_split_unit" : {
 		"name"    : "分裂单元",
 		"memory"  : "It's been another day of searching The Pit. I found another small deactivated Zaramech unit down there. I've decided to bring this one back with me.",
-		"card"    : "发射双电击子弹的帮手",
+		"card"    : "发射双重|L|电击子弹的帮手",
 	},
 	"I_inverted_unit" : {
 		"name"    : "反转单元",
 		"memory"  : "I've been tinkering with those deactivated Zaramechs I found in The Pit. I'm getting closer to figuring out how to activate them.",
-		"card"    : "向后发射电击子弹的帮手",
+		"card"    : "向后发射|L|电击子弹的帮手",
 	},
 	"I_blank_photo" : {
 		"name"    : "空白照片",
 		"memory"  : "I found an unusual heart stone hidden under a particularly large mushroom. This stone was completely transparent. I'd never seen any like it before, but after what happened last time, I didn't dare to touch it.|L||L|I can't help but wonder if communicating with those Glyphs is possible.",
-		"card"    : "你的第一发蓄力射击会创造一个帮手",
+		"card"    : "你的第一发蓄力射击|L|会创造一个帮手",
 	},
+	"I_mite_den" : {
+		"name"    : "跳虫巢穴",
+		"memory"  : "I used to be so afraid of mites. They can jump so high, move so fast, and I will freak out when they try to land on me. My sister loves them though. She wouldn't mind having a hundred mites crawling all over her.|L||L|I still get startled by them sometimes, but I have learned to love them too!",
+		"card"    : "你的连击最多可以吸引|L|[VAL2]个 跳虫帮手",
+	},	
 	"I_petrichor" : {
 		"name"    : "芳香",
 		"memory"  : "Something about the rain gets all of these monsters worked up. Even the smell of rain causes monster activity to rise.",
-		"card"    : "所有帮手的射速+[VAL1]%",
+		"card"    : "所有帮手的|L|射速+[VAL1]%",
 	},
 	"I_blue_hug" : {
 		"name"    : "蓝色拥抱",
@@ -1065,17 +1070,17 @@
 	"I_all_stone" : {
 		"name"    : "全能石",
 		"memory"  : "I saw two Glyphs fighting each other. Fire and ice blasts were flying across the sky. It looked as though the fire one was winning.|L|Then something amazing happened! They both formed a body! A Zaraden-like body! I didn't know they could do that! The Fire Glyph created the most beautiful stone that I had ever seen. She made it out of nothing but air and then she gave it to the Ice Glyph. They both looked so happy.",
-		"card"    : "随连击变强的全元素帮手",
+		"card"    : "随连击变强的|L|全元素帮手",
 	},
 	"I_broken_heart" : {
 		"name"    : "破碎的心",
 		"memory"  : "I trust you with this. Please help me put it back together.",
-		"card"    : "这个帮手会在战斗中变强",
+		"card"    : "这个帮手|L|会在战斗中变强",
 	},
 	"I_cross_twin" : {
 		"name"    : "交叉双子",
 		"memory"  : "It's really simple. I'll explain it again.|L||L|Her mother is my father and my mother is her father. We were born on the same day.|L||L|We are cross twins.",
-		"card"    : "在你受伤或恐慌后会攻击的帮手",
+		"card"    : "在你受伤或恐慌后|L|会攻击的帮手",
 	},
 	"I_flip_flapped" : {
 		"name"    : "噼啪啦",
@@ -1083,14 +1088,14 @@
 		"card"    : "分裂单元|L|反转单元|L|帮手伤害+[VAL5]%",
 	},
 	"I_scrambla_maw" : {
-		"name"    : "爬爬的嘴",
+		"name"    : "蛋花之口",
 		"memory"  : "Hello space alien!|L|You can read our memories here so we remembered to remember to say dis.|L||L|We love you!",
-		"card"    : "破坏部位可以增强这个帮手",
+		"card"    : "破坏部位|L|可以增强这个帮手",
 	},
 	"I_boiler_maw" : {
-		"name"    : "锅炉的嘴",
+		"name"    : "锅炉之口",
 		"memory"  : "Dis spicy will help you, yis?|L|If anything hurts you, we will apply extra spice to dis situation!",
-		"card"    : "受到伤害可以增强这个帮手",
+		"card"    : "受到伤害|L|可以增强这个帮手",
 	},
 	"I_captured_stars" : {
 		"name"    : "星星摄影",
@@ -1100,7 +1105,7 @@
 	"I_misfit_heart" : {
 		"name"    : "不合之心",
 		"memory"  : "So many broken hearts out there don't belong.|L|If we all come together,|L|We can be each other's missing pieces.",
-		"card"    : "恐慌或受到伤害来获得环绕帮手",
+		"card"    : "恐慌或受到伤害|L|来获得环绕帮手",
 	},
 	"I_umbrella" : {
 		"name"    : "雨伞",
@@ -1112,10 +1117,15 @@
 		"memory"  : "The image is seared into my memory forever. A Zaraden with perfectly healthy wings down here on the ground. I called out to her, but I knew there would be no response. I knew she let herself fall.|L||L|I wish I could somehow be there to catch her. I wish I could be there to catch them all. No one deserves to be down here.",
 		"card"    : "临时安全泡泡",
 	},
+	"I_mite_cuddle" : {
+		"name"    : "跳虫拥抱",
+		"memory"  : "|wave|Who's a good girl?|L|Who's my little orb?|L|Who's a squishy little orb?|L|Why are you so cute?!|L|Mwah Mwah Mwah",
+		"card"    : "吸引最多|L|[VAL2]个跳虫帮手|L|帮手伤害+[VAL4]%",
+	},	
 	"I_magnetic_charm" : {
 		"name"    : "磁力护符",
 		"memory"  : "I know what my sister wants more than anything else, but the problem is she wouldn't recognize flirting if it was a physical object being thrown at her.|L||L|No, that's not it. She's just convinced herself that it can't possibly happen to her.",
-		"card"    : "造成伤害或破坏部位以吸引[VAL1]个帮手",
+		"card"    : "造成伤害或破坏部位|L|以吸引[VAL1]个帮手",
 	},
 	"I_everyone" : {
 		"name"    : "大家",
@@ -1125,12 +1135,12 @@
 	"I_bracelet" : {
 		"name"    : "手镯",
 		"memory"  : "It's such a cute band to wear around your leg. Although I'm not sure I could get used to having something like this constantly touching my skin.",
-		"card"    : "帮手会环绕在你身边|L|[VAL3]光耀帮手",
+		"card"    : "帮手会环绕在你身边|L|[VAL3]个光耀帮手",
 	},
 	"I_despair" : {
 		"name"    : "绝望",
 		"memory"  : "I only used to feel one thing, but that moment changed me forever. Who knew that one single moment could have such an impact.",
-		"card"    : "[VAL2]蓝色帮手|L|全连击会给你更多！",
+		"card"    : "[VAL2]个蓝色帮手|L|全连击会给你更多！",
 	},
 	"I_friend_spiral" : {
 		"name"    : "友谊螺旋",
