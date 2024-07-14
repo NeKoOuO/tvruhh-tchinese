@@ -5,31 +5,31 @@
 			"play_music"		: "creepy_scene_music",
 			"bg_image"			: "spr_scene_darkness",
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Have you come here to give me your heart?",
+			"dialog"			: "你是来给我你的心的吗？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "Do you remember me?",
+			"dialog"			: "你记得我吗？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "So you have your memory now?|L||!|Now you know that I cannot be loved.",
+			"dialog"			: "所以现在你也有记忆了？|L||!|现在你知道了我无法被爱。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "Why does everyone forget every day?",
+			"dialog"			: "为什么每个人每天都会忘记？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "So many Zaraden have given me their hearts since the rain began.",
+			"dialog"			: "自从大雨开始倾泻而下，许多扎拉登都把心给予了我。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Unsurprisingly, no matter how many I get, they never fill me up.",
+			"dialog"			: "意料之内的是，无论得到了多少，她们永远无法将我填满。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "I am The Void after all.",
+			"dialog"			: "毕竟我即是虚空。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
@@ -37,27 +37,27 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "I don't know why that is happening, but I am glad that you have your memory now.",
+			"dialog"			: "我不知道为什么，但我很高兴你能保有记忆。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
-			"dialog"			: "Now you can see how pointless it is to try!",
+			"dialog"			: "现在你就能够意识到继续尝试有多么无意义！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
-			"dialog"			: "Why go on feeling anything when all you can feel is pain and loneliness!",
+			"dialog"			: "当你所能感受到的只有痛苦与孤独时，为什么还要去感受呢！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
-			"dialog"			: "Don't try to love me!|L||!|I can't be loved!",
+			"dialog"			: "不要试着爱我！|L||!|我无法被爱！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
-			"dialog"			: "Don't talk like that!|L||!|I can help you feel loved.",
+			"dialog"			: "别这样说！|L||!|我可以帮助你感觉到被爱。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
-			"dialog"			: "Everyone deserves to feel loved!",
+			"dialog"			: "每个人都值得感受到爱！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_cry"],
@@ -65,20 +65,20 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile_cry"],
-			"dialog"			: "Zaraden girl, you came to find me again even though you don't want to give me your heart?",
+			"dialog"			: "扎拉登女孩，即使你不想给我你的心，你还是来找我了？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry_cry"],
-			"dialog"			: "That is a lie!",
+			"dialog"			: "你在说谎！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry_cry"],
-			"dialog"			: "You know that I can end your pain!|L||!|That is why you are here!|L||!|You are lying to yourself!",
+			"dialog"			: "你知道我能够结束你的痛苦！|L||!|所以你才会在这里！|L||!|你正在对自己说谎！",
 		},
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious2"],
-			"dialog"			: "We are both liars.",
+			"dialog"			: "我们都是骗子。",
 		}
 	]
 }

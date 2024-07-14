@@ -35,30 +35,30 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_blank_intro_wake_up1",
 			"voice"				: "VOICE_blank",
-			"dialog"			: "What was that!?",
+			"dialog"			: "刚刚是什么！？",
 		},
 		{
-			"dialog"			: "What just happened!?",
+			"dialog"			: "刚刚发生了什么！？",
 		},
 		{
-			"dialog"			: "How did I get here?",
+			"dialog"			: "我怎么到这里的？",
 		},
 		{
 			"transition_type"	: 1,
 			"bg_image"			: "spr_blank_intro_wake_up2",
-			"dialog"			: "Was that just a dream?",
+			"dialog"			: "刚刚只是梦吗？",
 		},
 		{
-			"dialog"			: "But it felt so real.",
+			"dialog"			: "但它感觉太真实了。",
 		},
 		{
-			"dialog"			: "And now I'm here again...|L||L|All alone.",
+			"dialog"			: "而现在我又在这里了...|L||L|独自一人。",
 		},
 		{
 			"dialog"			: ". . .",
 		},
 		{
-			"dialog"			: "I should check outside.",
+			"dialog"			: "我应该看看外面。",
 		},
 		{
 			"transition_type"	: 0,
@@ -68,71 +68,71 @@
 			"text_y"			: 224,
 			"text_w"			: 256,
 			"bg_image"			: "spr_blank_intro_raining",
-			"dialog"			: "It's raining again today.",
+			"dialog"			: "今天也在下雨。",
 		},
 		{
-			"dialog"			: "How long has it been raining?",
+			"dialog"			: "这场雨已经持续多久了？",
 		},
 		{
-			"dialog"			: "I can't seem to remember,     but it feels like a very long time.",
+			"dialog"			: "我记不得了，     但感觉像是很长很长一段时间。",
 		},
 		{
-			"dialog"			: "Hopefully it gets better today.",
+			"dialog"			: "希望明天会好点。",
 		},
 		{
 			"use_textbox"		: 1,
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|Hello, Little Robot!",
+			"dialog"			: "|wave|你好，小机器人！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Hello young Zaraden.|L||!|This Unit is programmed to provide inform-",
+			"dialog"			: "你好，年幼的扎拉登。|L||!|本单元的程序能够—",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "You told me that yesterday.",
+			"dialog"			: "你昨天跟我说过了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Update:|C0| The young Zaraden has remembered This Unit.",
+			"dialog"			: "|C3|更新:|C0|年幼的扎拉登记得本单元。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|Of course I remember you!",
+			"dialog"			: "|wave|我当然记得你！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "How could I forget this little robot?|L|You helped me so much yesterday!",
+			"dialog"			: "我怎么会忘记这个小机器人？|L|你昨天帮了我这么多！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit was under the assumption that the young Zaraden would not remember her again.",
+			"dialog"			: "本单元刚刚假定年幼的扎拉登会再次忘记她。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "Again?",
+			"dialog"			: "再次？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Correct.     |L|This Unit has met this young Zaraden many times before yesterday.",
+			"dialog"			: "正确。     |L|于昨天之前，本单元已经与年幼的扎拉登相遇了许多次。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This is the first time the Zaraden has remembered This Unit.",
+			"dialog"			: "这是第一次这位扎拉登仍记得本单元。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|What?!",
+			"dialog"			: "|shake|什么？！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "That's not good.|L|How can I be forgetting so much every day?",
+			"dialog"			: "这可不好。|L|我怎么每天能够忘记这么多事情？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has no information on this phenomenon.",
+			"dialog"			: "本单元没有关于该现象的任何信息。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
@@ -140,27 +140,27 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "Well I remember you now!",
+			"dialog"			: "嗯，我现在记得你了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
-			"dialog"			: "And I promise I'll remember you tomorrow!|L||!||shake|I'll remember you every day!",
+			"dialog"			: "而且我保证我明天还会记得你！|L||!||shake|我每天都会记得你！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit is detecting an unnecessarily aggressive tone from that promise.",
+			"dialog"			: "本单元从该保证中侦测到了不必要的激烈语气。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
-			"dialog"			: "Oh sorry,    I got a little carried away there.",
+			"dialog"			: "哦抱歉，    我刚刚有点不由自主了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
-			"dialog"			: "It's just... How could I forget someone I love?",
+			"dialog"			: "只是... 我怎么会忘记我爱的人？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This loss of memory is not within the control of the young Zaraden.",
+			"dialog"			: "这种记忆缺失并非在年幼扎拉登的控制之内。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
@@ -168,48 +168,48 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "The monsters have likely forgotten the events of previous days as well.",
+			"dialog"			: "怪物们大概率也忘记了之前所发生的事件。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "The monsters will have forgotten what love is.",
+			"dialog"			: "怪物们会忘记爱是什么。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "Then I have to show them love again!",
+			"dialog"			: "那么我就必须要再次向她们展示爱！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Use your abilities to make the monsters love you.",
+			"dialog"			: "|C3|建议:|C0|使用你的能力让怪物们爱你。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
-			"dialog"			: "How about I just show them what love is and they can decide that for themselves?",
+			"dialog"			: "或者我为她们展示爱是什么，然后让她们自己决定？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Error:|C0| This Unit cannot compute the difference.",
+			"dialog"			: "|C3|错误:|C0|本单元无法计算出区别。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "It's okay.     |L|I'm sure you will figure it out someday.",
+			"dialog"			: "没事的。     |L|我相信有一天你会搞明白的。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "Hey Little Robot, are you feeling cold?",
+			"dialog"			: "嘿小机器人，你觉得冷吗？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit runs at maximum efficiency in a cold enviro-",
+			"dialog"			: "本单元在寒冷环境下能够以最佳效率—",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "This Unit understands what the young Zaraden has done there.",
+			"dialog"			: "本单元理解了年幼的扎拉登所做的事情。",
 		}
 	]
 }

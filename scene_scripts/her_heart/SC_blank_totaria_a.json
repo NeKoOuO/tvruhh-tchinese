@@ -5,19 +5,19 @@
 			"play_music"		: "creepy_scene_music",
 			"bg_image"			: "spr_scene_darkness",
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Zaraden girl, you came back to see me again?",
+			"dialog"			: "扎拉登女孩，你又来看我了吗？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "Yes I did!",
+			"dialog"			: "我来了！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "It seems that your attempts at showing me love have had an effect on me after all.",
+			"dialog"			: "看起来你尝试为我展示的爱最终还是有点效果。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|That is wonderful.",
+			"dialog"			: "|wave|这太好了。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
@@ -25,104 +25,104 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "I have only ever taken hearts that were given to me.",
+			"dialog"			: "我现在只会收下被送给我的心了。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "No one would want to give me their heart unless they were in constant, unbearable pain.",
+			"dialog"			: "没有人会愿意主动把心给我，除非她们的心处于持续的，无法忍受的痛苦之中。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "That means every single heart that I have is either empty or broken.",
+			"dialog"			: "这意味着我拥有的每一颗心要么空洞，要么破碎。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "You see, I was not meant to experience love.",
+			"dialog"			: "你看，我本就不应该体验到爱。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "I was meant to take the pain away from others.",
+			"dialog"			: "我应该将痛苦从他人处剥离。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious"],
-			"dialog"			: "Because you love them?",
+			"dialog"			: "因为你爱她们？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "I suppose you could say that.",
+			"dialog"			: "我觉得你确实可以这样说。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "I can feel that you are in constant pain, and yet    you radiate more love than I have ever felt before.",
+			"dialog"			: "我能感受到你正处于持续的痛苦之中，但是    你所闪耀出的爱比我曾感受到的更加充盈。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "How can this be?|L||!|You have completely changed my understanding of Zaraden emotion.",
+			"dialog"			: "这怎么可能呢？|L||!|你已经完全改变了我对于扎拉登情绪的理解。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "I have come to realize that every single heart has pain in it.",
+			"dialog"			: "我已经意识到了每一颗心的内部都存在着痛苦。",
 		},
 		{
 			"play_music"		: "nightmare_music_c",
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
-			"dialog"			: "|C2||shake|So I will have to take them all myself!",
+			"dialog"			: "|C2||shake|所以我会亲自把它们全部夺走！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "I don't like this!",
+			"dialog"			: "我不喜欢这样！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
-			"dialog"			: "|C2|What's wrong?|L||!|Don't you want to share your love with all the hearts that The Void has taken?",
+			"dialog"			: "|C2|有什么问题吗？|L||!|你不想向虚空所夺走的那些心分享你的爱吗？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
-			"dialog"			: "Not like that!",
+			"dialog"			: "不是这样的！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
-			"dialog"			: "|C2|Then how about sharing it with the ones that I have taken?",
+			"dialog"			: "|C2|那向我带走的那些心分享呢？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
-			"dialog"			: "What?",
+			"dialog"			: "什么？",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_normal"],
-			"dialog"			: "|C2|Zaraden have done such horrible things to each other in the past.",
+			"dialog"			: "|C2|扎拉登们过去对彼此做过这么可怖的事情。",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_normal"],
-			"dialog"			: "|C2|And they continue to do so even now.",
+			"dialog"			: "|C2|而现在她们也会继续这样做。",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2|They live high up in their towers while wingless like you struggle to survive down here!",
+			"dialog"			: "|C2|她们居住于自己的高塔之上，而像你这样的无翼者只能够在下面挣扎求生！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2|Look at what they did to you!|L||!||shake|They left you here to die!",
+			"dialog"			: "|C2|看看她们对你做了什么！|L||!||shake|她们把你留在这里等死！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2|You are angry about this.|L|I can feel it!",
+			"dialog"			: "|C2|你对此感到愤怒。|L|我能够感觉到！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2|You want to hurt them like they hurt you!",
+			"dialog"			: "|C2|你想要像她们伤害你一样去伤害她们！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_despair_cry"],
-			"dialog"			: "Who are you?! Where did The Void go?",
+			"dialog"			: "你是谁？！虚空去哪里了？",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2|My hearts aren't just broken, they are furious!|L||!|They want vengeance!",
+			"dialog"			: "|C2|我的心并非破碎，它们很生气！|L||!|它们想要复仇！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2||shake|I am less than nothing!|L||!|I feel    hatred!|L||!|I AM TOTARIA!",
+			"dialog"			: "|C2||shake|我比空无更少！|L||!|我感到了    憎恨！|L||!|我是托塔莉娅！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
