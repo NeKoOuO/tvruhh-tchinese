@@ -62,11 +62,11 @@
 		"one_hit"		: "不要受到两次伤害",
 		"two_hit"		: "不要受到三次伤害",
 		"no_panic"		: "不要使用任何恐慌攻击",
-		"absorb_shots"	: "使用恐慌攻击吸收[VAL1]子弹",
-		"get_combo"		: "连击超过怪物[VAL1]%的生命值",
+		"absorb_shots"	: "使用恐慌攻击\n吸收[VAL1]子弹",
+		"get_combo"		: "连击超过\n怪物[VAL1]%的生命值",
 		"full_combo"	: "取得100%连击！",
-		"break_part"	: "破坏一个含有魔尘的部位",
-		"break_parts"	: "破坏[VAL1]个含有魔尘的部位",
+		"break_part"	: "破坏一个\n含有魔尘的部位",
+		"break_parts"	: "破坏[VAL1]个\n含有魔尘的部位",
 		"copper_score"	: "得分至少为[VAL1]魔尘\n(青铜分数)",
 		"bronze_score"	: "得分至少为[VAL1]魔尘\n(黄铜分数)",
 		"silver_score"	: "得分至少为[VAL1]魔尘\n(白银分数)",
@@ -76,8 +76,8 @@
 	},
 	
 	"xstat_cards" : {
-		"power_up"		: "这个怪物有着被增强的力量",
-		"power_down"	: "这个怪物有着被削弱的力量",
+		"power_up"		: "这个怪物有着\n被增强的力量",
+		"power_down"	: "这个怪物有着\n被削弱的力量",
 		"lv_change"		: "Lv [VAL1] > [VAL2]",
 		"xatk"			: "攻击速度\n[VAL1]",
 		"xdmg"			: "攻击伤害\n[VAL1]",
@@ -139,8 +139,8 @@
 		"desc"		: "小机器人解释怪物礼物挑战的机制。",
 	},
 	"SC_blank_tut_bounty" : {
-		"name"		: "赏金礼物",
-		"desc"		: "小机器人解释赏金礼物的机制。",
+		"name"		: "奖励礼物",
+		"desc"		: "小机器人解释奖励礼物的机制。",
 	},
 	"SC_blank_tut_tetrids" : {
 		"name"		: "点亮卡牌",
@@ -354,7 +354,7 @@
 	"SC_credits1" : {
 		"name"		: "Credits A",
 		"desc"		: "Simple ending credits",
-		"credit"	: "创作者               中文本地化\nAngel Polanco          赤銅·Syakudo",
+		"credit"	: "创作者                  中文本地化\nAngel Polanco          赤銅·Syakudo",
 	},
 	
 	
@@ -1286,17 +1286,17 @@
 	
 	"C_her_heart" : {
 		"name"		: "她的心",
-		"desc"		: "一位\n年幼扎拉登\n女性的心",
+		"desc"		: "一位扎拉登女孩的心",
 	},
 	"C_defect" : {
 		"name"		: "缺陷",
 		"desc"		: "这颗心看起来不太对",
-		"unlock"	: "在故事模式中承受5次心碎",
+		"unlock"	: "在故事模式中\n承受5次心碎",
 	},
 	"C_twin_heart" : {
 		"name"		: "双子之心",
 		"desc"		: "两位扎拉登姐妹的心",
-		"unlock"	: "在快速挑战中达到等级15",
+		"unlock"	: "在快速挑战中\n达到等级15",
 	},
 	"C_the_devil" : {
 		"name"		: "恶魔",
@@ -1317,7 +1317,7 @@
 	},
 	"C_alter_devil" : {
 		"name"		: "异相恶魔",
-		"desc"		: "一位\n受谴责的\n扎拉登的心",
+		"desc"		: "一位受谴责的\n扎拉登的心",
 	},
 	
 	
