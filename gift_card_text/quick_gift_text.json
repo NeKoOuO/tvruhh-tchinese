@@ -68,7 +68,7 @@
 	"Q_lovestruck" : {
 		"name"    : "爱之惊雷",
 		"memory"  : "It's only sound.|L|It can't hurt you.|L|It's only sound.|L|It can't hurt you.|L|It's only sound.|L|It can't hurt you.|L||L||shake|Ahhhh!",
-		"card"    : "巨型恐慌|L|恐慌伤害+[VAL2]|L|+[VAL4]恐慌之瘤",
+		"card"    : "巨型恐慌|L|恐慌伤害+[VAL2]|L|+[VAL4]狂热恐慌",
 	},
 	
 	
@@ -186,12 +186,12 @@
 	"Q_nightmare" : {
 		"name"    : "梦魇",
 		"memory"  : "I had that nightmare again. The one where she finally figures out that I am a wingless. Then she hurts me like the other Zaraden.|L||L|She can clearly see that I'm wingless. Why does she come to see me so often? When is she going to hurt me?",
-		"card"    : "下三次战斗后|L|各获得一个恐慌",
+		"card"    : "每次战斗后|L|获得一个恐慌",
 	},
 	"Q_chaos_glyph" : {
 		"name"    : "混沌符文",
 		"memory"  : "|C3||xai||lin| (Xailin) |C0|Flashing|L||C3||rah||lin| (Rahlin) |C0|Disaster|L||C3||lin||ze| (Linze) |C0|Illness|L||C3||li||lin| (Leelin) |C0|Violent|L||C3||nu||lin| (Nulin) |C0|Calm",
-		"card"    : "下三次战斗后|L|各获得随机奖励效果",
+		"card"    : "每次战斗后|L|获得随机奖励效果",
 	},
 	"Q_chrome_heart" : {
 		"name"    : "铬之心",
@@ -211,57 +211,37 @@
 	"Q_inspire1" : {
 		"name"    : "灵感",
 		"memory"  : "I want to be able to look up at the stars again. I want to paint the night sky again. The stars inspire me. Especially now that I know more about them. They are so much bigger and farther away than I ever knew was possible.",
-		"card"    : "下三次战斗后|L|总伤害各+[VAL1]%",
+		"card"    : "每次战斗后|L|总伤害+[VAL1]%",
 	},
 	"Q_inspire2" : {
 		"name"    : "额外灵感",
 		"memory"  : "I want to see more of Eyeris. She told me there is a place with so many mountains that go on as far as you can see. The sunset radiates such lovely colors upon them.|L||L|Without actually seeing it, I can only paint my best guess.",
-		"card"    : "下三次战斗后|L|总伤害各+[VAL1]%",
+		"card"    : "每次战斗后|L|总伤害+[VAL1]%",
 	},
 	"Q_inspire3" : {
 		"name"    : "超级灵感",
 		"memory"  : "I had to paint this as fast as I could, so that I'll never forget. This was my view when she took me into the sky!",
-		"card"    : "下三次战斗后|L|总伤害各+[VAL1]%",
+		"card"    : "每次战斗后|L|总伤害+[VAL1]%",
 	},
 	"Q_hearten1" : {
 		"name"    : "激励",
 		"memory"  : "I'm painting more than ever! She loves all of it. I need to have a new one ready for the next time she visits.|L||L|I've never had someone else look at my art. At least, not since I was a child.",
-		"card"    : "下两次战斗后|L|最大生命各+[VAL1]",
+		"card"    : "每次战斗后|L|最大生命+[VAL1]",
 	},
 	"Q_hearten2" : {
 		"name"    : "双重激励",
 		"memory"  : "I want to see the snow covered mountains. She said it's so much colder than anything I've ever felt before. It would actually hurt my skin to be there without heavy clothing.|L||L|I don't think I've ever seen clothes before. It's rare for anyone to wear them in this climate.",
-		"card"    : "下四次战斗后|L|最大生命各+[VAL1]",
+		"card"    : "每次战斗后|L|最大生命+[VAL1]",
 	},
 	"Q_hearten3" : {
 		"name"    : "超级激励",
 		"memory"  : "I'm going to climb that tower. I'll do it at night, so no one will see me. I need to see her again.|L||L|No! She obviously never wants to see me again...|L|But she promised...|L|She's hurt me so much.|L|I love her.",
-		"card"    : "下三次战斗后|L|最大生命各+[VAL1]",
+		"card"    : "每次战斗后|L|最大生命+[VAL1]",
 	},
 	
 	
 	
-	
-	"Q_dual_stones" : {
-		"name"    : "二重石",
-		"memory"  : "I had never seen a Glyph monster project her zaranoid form. She appeared to be a stone elemental Glyph. She held her hands out and printed a stone heart out of nothing but air!|L||L|I tried to sneak away, but I tripped and fell over something. It was another stone heart...",
-		"card"    : "[VAL1]个随机帮手石",
-	},
-	"Q_triple_stones" : {
-		"name"    : "三重石",
-		"memory"  : "Boulders were crashing down all around me as I ran. Trees were falling over. My holowings would not activate. I knew that I was in trouble.|L||L|I turned around and pleaded,|L|\"I didn't mean to touch it, I'm sorry!\"",
-		"card"    : "[VAL1]个随机帮手石",
-	},
-	"Q_pile_of_stones" : {
-		"name"    : "成堆之石",
-		"memory"  : "I was so scared, but that's when I noticed her eyes were pouring like faucets. Was she crying?|L|She came closer to me. She grabbed my hand and placed a stone heart in it. Then she put one finger on my chest right where my heart is. Her eyes were still pouring, but she had a slight smile on her face. Before I could react, there was a flash. She was gone.",
-		"card"    : "[VAL1]个随机帮手石",
-	},
-	"Q_security" : {
-		"name"    : "安全感",
-		"memory"  : "These friends will always have your back.",
-		"card"    : "3个向后射击的帮手",
-	},
+
 	"Q_heart_shard" : {
 		"name"    : "心之碎片",
 		"memory"  : "I loved every day that she came down to see me.",
@@ -292,7 +272,26 @@
 		"memory"  : "What if I could climb a tower all on my own? What would they think of me up there? I wish I could go visit her instead.",
 		"card"    : "临时全元素帮手",
 	},
-	
+	"Q_dual_stones" : {
+		"name"    : "二重石",
+		"memory"  : "I had never seen a Glyph monster project her zaranoid form. She appeared to be a stone elemental Glyph. She held her hands out and printed a stone heart out of nothing but air!|L||L|I tried to sneak away, but I tripped and fell over something. It was another stone heart...",
+		"card"    : "[VAL1]个随机帮手石",
+	},
+	"Q_triple_stones" : {
+		"name"    : "三重石",
+		"memory"  : "Boulders were crashing down all around me as I ran. Trees were falling over. My holowings would not activate. I knew that I was in trouble.|L||L|I turned around and pleaded,|L|\"I didn't mean to touch it, I'm sorry!\"",
+		"card"    : "[VAL1]个随机帮手石",
+	},
+	"Q_pile_of_stones" : {
+		"name"    : "成堆之石",
+		"memory"  : "I was so scared, but that's when I noticed her eyes were pouring like faucets. Was she crying?|L|She came closer to me. She grabbed my hand and placed a stone heart in it. Then she put one finger on my chest right where my heart is. Her eyes were still pouring, but she had a slight smile on her face. Before I could react, there was a flash. She was gone.",
+		"card"    : "[VAL1]个随机帮手石",
+	},
+	"Q_security" : {
+		"name"    : "安全感",
+		"memory"  : "These friends will always have your back.",
+		"card"    : "3个向后射击的帮手|L|所有帮手的子弹都会传送回来",
+	},
 	
 	
 	
@@ -309,12 +308,12 @@
 	"Q_broken_key" : {
 		"name"    : "破损钥匙",
 		"memory"  : "I can't let anyone else in.|L|I just can't.|L||L|How long until they hurt me too?|L|There is no reason to try again.",
-		"card"    : "所有挑战变得简单",
+		"card"    : "所有挑战变得简单|L|且给予额外力量",
 	},
 	"Q_broken_lock" : {
 		"name"    : "破损的锁",
 		"memory"  : "That's okay, I don't think I really need this anymore. There was never a reason to put a lock on it in the first place.",
-		"card"    : "在接下来的三场战斗|L|所有挑战变得简单",
+		"card"    : "所有挑战变得简单|L|且给予额外力量",
 	},
 	"Q_rest" : {
 		"name"    : "休憩",

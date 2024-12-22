@@ -423,11 +423,11 @@
 	},
 	"BDN_amethyst" : {
 		"memory"  : "So this is the feeling of loneliness? The purpose of this feeling is to let you know when to seek companionship and comfort from another. But if there is no one else around, this becomes a deadly poison. You are not made to feel this for very long.",
-		"card"    : "成为恐慌的一团糟|L|+[VAL1]恐慌",
+		"card"    : "延迟自动恐慌|L|且让你流血|L|+[VAL1]狂热恐慌",
 	},
 	"BDN_forma" : {
 		"memory"  : "Why am I? Why am I here? Why am I this? I am made for something. Why was I made? I was made to fill a void, but I can't leave my container. I was made to be alone.",
-		"card"    : "成为恐慌的一团糟|L|+[VAL1]恐慌",
+		"card"    : "延迟自动恐慌|L|且让你流血|L|+[VAL1]狂热恐慌",
 	},
 	"BDN_the_void" : {
 		"memory"  : "Just as you said, the pale one has come here to give me her heart.|L|\"She is dangerous. She has been here many times before. She is very powerful.\"|L|So, does she not want to give it to me? I can't take anything that isn't given to me.|L|\"She wants to give it to you! She's just very stubborn about it!\"",

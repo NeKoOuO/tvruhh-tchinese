@@ -53,27 +53,27 @@
 	"BNT_red_ore" : {
 		"name"    : "红色矿石",
 		"memory"  : "The reason these were rounded is because naturally shaped tetrids can be very dangerous. They have much less power in this shape, so we can play with them and see how they affect us.|L||L|What does this one feel like? Is it warm? Yeah, that is pretty common for red.",
-		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为红色",
+		"card"    : "+[VAL1]铬之心|L|魔尘分数+[VAL3]%",
 	},
 	"BNT_yellow_ore" : {
 		"name"    : "黄色矿石",
 		"memory"  : "Okay, what does this one feel like? So, it feels just like a normal rock? That means one of your other senses is affected. Does it smell like anything? Uhh, try licking it then. Yeah, it's okay, just do it!|L||L|Sweet fruit? Lucky!",
-		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为黄色",
+		"card"    : "+1后备否决|L|魔尘分数+[VAL3]%",
 	},
 	"BNT_blue_ore" : {
 		"name"    : "蓝色矿石",
 		"memory"  : "I can't believe how lucky you've been so far! This one just smells minty to you? All of these have been pleasant for you.|L||L|Didn't you tell me that minty smells help you calm your anxiety? Huh, that is interesting considering this is the blue one.",
-		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为蓝色",
+		"card"    : "+1恐慌之瘤|L|魔尘分数+[VAL3]%",
 	},
 	"BNT_orange_ore" : {
 		"name"    : "橙色矿石",
 		"memory"  : "Finally, mild discomfort for you, hehehe!|L|That sounds like the same tingles I get from the blue one! But if it's only affecting your hand, then I bet a full tetrid wouldn't be so painful for you.|L||L|Now you're itchy? Maybe it's a little different than what I feel.",
-		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为橙色",
+		"card"    : "+[VAL1]玻璃之心|L|魔尘分数+[VAL3]%",
 	},
 	"BNT_purple_ore" : {
 		"name"    : "紫色矿石",
 		"memory"  : "Like nothing? Not even cold? Just nothing? Does it still feel like it has weight? Is there pressure if you squeeze it? I can't even begin to imagine what that feels like. I wish I could feel what you feel.",
-		"card"    : "魔尘分数+[VAL1]%|L|所有额外魔尘为紫色",
+		"card"    : "+1后备复活|L|魔尘分数+[VAL3]%",
 	},
 	"BNT_prism_flake" : {
 		"name"    : "棱镜之尘",
@@ -159,7 +159,7 @@
 	"BNT_lonely_ore" : {
 		"name"    : "孤独矿石",
 		"memory"  : "For me, the purple one always had a strange smell that I could never figure out. I really like the smell, but I don't know-|L|Wait...|L||L|There is no way! I can't believe this! It's been a mystery for so long!|L||L|It smells just like YOU! How is this even possible?",
-		"card"    : "迟延恐慌且流血|L|魔尘分数+[VAL4]%",
+		"card"    : "自动延迟恐慌|L|且让你流血|L|魔尘分数+[VAL4]%",
 	},
 	"BNT_paranoid" : {
 		"name"    : "偏执",

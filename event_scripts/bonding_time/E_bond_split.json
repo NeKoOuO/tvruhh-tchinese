@@ -1,0 +1,737 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Do you have time to play a game with us?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|Shake|Ya!|norm| We want to play!",
+		},
+	],
+	
+	"monster_mood"		: "Veyerals' Mood",
+	"monster_stuff"		: "Veyerals' [VAL1]",
+	
+	"op_game"		: "Play a game",
+	"op_next_game"	: "Play another game",
+	"op_devil"		: "Devil Deal",
+	"op_hug"		: "Hug the Veyerals",
+	"op_pet"		: "Pet the Veyerals",
+	"op_sleep"		: "Take a nap",
+	
+	"comment_first"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "You will play with us, right?",
+	},
+	"comment_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "Play another game with us.",
+	},
+	"comment_streak"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "You are on a roll!",
+	},
+	"comment_sad"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+		"dialog"	: "Did we make that last one too hard?",
+	},
+	
+	"to_minigame_first" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "We knew you would say yes!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Let's go get ready!",
+		},
+	],
+	"to_minigame_first_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Blue, come over here!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
+			"dialog"			: "It seems I'll have to be on the other side for this one, My Defect.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "That's okay. Go join them.",
+		},
+	],
+	"to_minigame" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"random"			: 4,
+			"dialog_rand1"		: "We will go set up.",
+			"dialog_rand2"		: "Let's go get ready.",
+			"dialog_rand3"		: "C'mon let's go!",
+			"dialog_rand4"		: "This will be so fun!",
+		},
+	],
+	
+	"start_swap" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "This one is called |C3|Veyeral Swap!|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Track the Veyeral with the |C3|white eye|C0| and choose the correct one after we move around.",
+		},
+	],
+	"start_blink" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "This one is called |C3|Veyeral Blink!|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Watch us open our eyes and count how many [VAL1] you see.",
+		},
+	],
+	"start_blink2" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "This one is tricky.|L|We call it |C3|Veyeral Blink!|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Try to remember all the colors you see.|L|We can ask about any of them.",
+		},
+	],
+	"start_peek" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "This one is called |C3|Veyeral Peek!|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Watch us come out of hiding and count how many [VAL1] you see.",
+		},
+	],
+	"start_peek2" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "This one is tricky.|L|We call it |C3|Veyeral Peek!|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Try to remember all the colors you see.|L|We can ask about any of them.",
+		},
+	],
+	"start_rain" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "This one is called |C3|Veyeral Rain!|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Not to be confused with uh... Veyeral Rain.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Count all the Veyerals with [VAL1] that pass by.",
+		},
+	],
+	
+	"comment_swap_choose"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "Which Veyeral has a |C3|white eye?|C0|",
+	},
+	"comment_type_count"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "How many Veyerals with [VAL1] did you see?",
+	},
+	"comment_win"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "|wave|Yay!",
+	},
+	"comment_lose"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+		"dialog"	: "|shake|Oh no!",
+	},
+	
+	"you_win" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "You got it right!",
+		},
+	],
+	"you_lose" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Sorry, that was wrong.",
+		},
+	],
+	"blue_lose" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "I know it's asking for the impossible to resist choosing me.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
+			"dialog"			: "But alas, I am simply not the correct answer in this situation.",
+		},
+	],
+	
+	"after_another_game" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "How about another game?",
+		},
+	],
+	"after_streak_3" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|Three wins in a row!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "You are so good at this.",
+		},
+	],
+	"after_streak_4" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "I can't believe you won all of our games.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "We probably have to make this harder next time.",
+		},
+	],
+	"after_first_loss" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sad"],
+			"dialog"			: "We're always making things hard for you.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "We understand if you don't want to play with us anymore.",
+		},
+	],
+	"after_no_comfort_loss" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Umm, you don't have to play with us anymore if you don't want to.",
+		},
+	],
+	
+	
+	
+	"comfort_blank" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "But why?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "Hey, I'm still having fun.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Really?",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "You don't always have to win to have fun.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "And don't think I've forgotten about any of you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Yay!",
+		},
+	],
+	"comfort_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
+			"dialog"			: "I'm the one who lost, but you are the ones feeling sad?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Maybe you won't want to play with us anymore.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
+			"dialog"			: "I lose all the time, silly.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "You don't hate me every time I win, right?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Oh, you're right!",
+		},
+	],
+	"comfort_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_content"],
+			"dialog"			: "I'm not angry just because I lost a game.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "Really?",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "Besides, my sister's not even paying attention.",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_angry"],
+			"dialog"			: "Look at how many Veyerals I have to pet!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "It's a very important job.",
+		},
+	],
+	"comfort_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
+			"dialog"			: "You just beat The Devil...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sad"],
+			"dialog"			: "We're sorry.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
+			"dialog"			: "Sorry?!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "You've just achieved the impossible!|L||!|You should be proud!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "When you put it that way-",
+		},
+	],
+	"comfort_default" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "...",
+		},
+	],
+	
+	
+	
+	"hug_blank" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "It's going to take you a while to get through all of us.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_aggressive"],
+			"dialog"			: "It's a sacrifice that I'm willing to make.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Me next!",
+		},
+	],
+	"hug_defect" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Why did you hug me?|L|You can do that any time.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "I just really love you.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|Awww.",
+		},
+	],
+	"hug_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_aggressive2"],
+			"dialog"			: "Veyeral pile on Sunshine!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Yay!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
+			"dialog"			: "|shake|Wait!",
+		},
+	],
+	"hug_devil" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "You are so warm.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "All of you, join the Veyeral pile!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Warmth!",
+		},
+	],
+	"hug_default" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "...",
+		},
+	],
+	
+	
+	
+	"pet_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "Can I pet you?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "If you don't mind the cold.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "That feels nice.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "You are so soft and squishy.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "We are the perfect material!",
+		},
+	],
+	"pet_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "I want to check something.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "That feels nice.",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "You're all colder than Blue.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "That's because I share some of my coldness with you, darling.",
+		},
+	],
+	"pet_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_surprised"],
+			"dialog"			: "Sunshine, you start on this side!|L|I'll start over here.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "That feels nice.",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_happy"],
+			"dialog"			: "Don't worry, we will pet every single one of you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Yay!",
+		},
+	],
+	"pet_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "You feel like a squishy ice cube.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "I'm not a cube.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "No, like a round cube.|L||!|What do they call those?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Snowball!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "No no, that's someone else.",
+		},
+	],
+	"pet_default" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "...",
+		},
+	],
+	
+	
+	"to_devil_deal" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "How about we do a little Devil Deal?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "That sounds fun!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "If I win this game, you have to give me your souls.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "But if I lose,     uh... what do you want?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "You have to give all of us a kiss!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
+			"dialog"			: "But    my lips will get chapped!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
+			"dialog"			: "Ugh, fine. It's a deal!",
+		},
+	],
+	"devil_deal_win" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "Ha! You all have to be in my band now!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Yay!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "But,     what is that?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "One day, The Devil shall call upon you-",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "And together, we will |shake|rock the world!|norm|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Yay, whatever that is!",
+		},
+	],
+	"devil_deal_lose" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "|C3|Mwah",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "So this is what a kiss is!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "My lips are so cold.",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad"],
+			"dialog"			: "Alright, who's next?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "My turn!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "|C3|Mwah",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "Well that took forever.",
+		},
+	],
+	
+	
+	
+	"times_up" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "We know it's time for you to go now.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sad"],
+			"dialog"			: "You can't waste the whole day here with us.",
+		},
+	],
+	"to_gift" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Oh, before you go, we have something for you!",
+		},
+	],
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "Pick anything you want.",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "Why can't I tell what this is?",
+	},
+	"gift_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "Do you want this?",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "You don't want anything?",
+	},
+	"to_another_gift" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "That's a good one.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "We want you to have another one.",
+		}
+	],
+	"to_last_gift" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "We knew you would pick that one.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Please take one more!",
+		}
+	],
+	"to_the_end" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "We hope you like it!",
+		},
+	],
+	
+	
+	
+	"to_sleep_blank"	: "bonding_time/bonding_common_text",
+	"to_sleep_defect"	: "bonding_time/bonding_common_text",
+	"to_sleep_twins"	: "bonding_time/bonding_common_text",
+	"to_sleep_devil"	: "bonding_time/bonding_common_text",
+	"sleep_response" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "You can sleep right here, okay?",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Ya, we will wake you up soon.",
+		},
+	],
+	
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "That was so much fun.",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|I love you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Thank you for playing with us!",
+		},
+	],
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "We had fun playing with you!|!||L||wave|Bye bye, Blue!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "I'm back to my perfect side.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "Welcome back.",
+		},
+	],
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "It's time for your special prize!",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Veyeral pile on Sunshine!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
+			"dialog"			: "|shake|Wait!",
+		},
+	],
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Thanks for playing with us.",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Ya, it was fun!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "Any time, little ladies.",
+		},
+	],
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "Thank you for playing with us!",
+		},
+	],
+	"error_catch"	: "bonding_time/bonding_common_text",
+
+}

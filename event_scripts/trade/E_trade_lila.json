@@ -1,0 +1,280 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+			"dialog"			: "是扎拉登... 你好。",
+		},
+		{
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+			"dialog"			: "咱饿了。",
+		},
+		{
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"dialog"			: "|wave|咱有礼物换吃的！",
+		}
+	],
+	
+	"mood_title"	: "莱拉的心情",
+	"monster_gifts"	: "莱拉的礼物",
+	"player_gifts"	: "[NAME]的现有礼物",
+	"player_quicks"	: "[NAME]的快速礼物",
+
+	"op_trade"			: "莱拉的礼物",
+	"op_give_active"	: "喂食现有礼物",
+	"op_give_quick"		: "喂食快速礼物",
+	"op_tetrids"		: "喂食棱晶",
+	"op_leave"			: "离开",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "咱用这些礼物和你交换食物。",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "你有食物给咱吗？|L|咱只要一个，拜托！",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "你有零食吗？|L|咱可以要一个，拜托！",
+	},
+	"comment_tetrid"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "咱可以吃尖尖的水果吗？",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "咱只是很高兴能看到你。",
+	},
+	
+	"comment_none"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_sad"],
+		"dialog"	: "你这里没有食物。",
+	},
+	"comment_carry"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_shocked"],
+		"dialog"	: "咱只能带的下一个。",
+	},
+	"comment_full"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "咱已经吃饱了。",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "你必须要走了吗？",
+	},
+	
+	
+	
+	
+	"comment_take"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "|wave|你可以收下它！",
+	},
+	"comment_unknown"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "咱记不清这个了，但是把它带走吧！",
+	},
+	"comment_over"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_sad"],
+		"dialog"	: "嗯... 咱想留下它。|L|对唔起。",
+	},
+	"comment_limit"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "你带不了那么多，傻傻。",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "咱要把它给你吗？",
+	},
+	
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|咱很高兴给你。",
+			"dialog_rand2"		: "|wave|你让咱很开心。",
+			"dialog_rand3"		: "咱想让你收下。",
+			"dialog_rand4"		: "你值得这种开心。",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_feed_normal"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_shocked"],
+		"dialog"	: "咱好饿...|L|咱可以吃吗？",
+	},
+	"comment_feed_favorite"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "咱...  拜托拜托!|L||shake|非常拜托!",
+	},
+	"comment_give_TAG_lila_juice"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "这闻起来像|shake|甜甜的果汁！",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "咱可以收下吗？",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "咱感觉很开心，但还是很饿。",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_shocked"],
+		"dialog"	: "|shake|好吓人。",
+	},
+	"comment_not_food"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_sad"],
+		"dialog"	: "咱吃不了这个。",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "你想要给咱吗？",
+	},
+	
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "|shake|啊呜啊呜啊呜",
+			"dialog_rand2"		: "|shake|耶! 啊呜啊呜啊呜",
+		}
+	],
+	"quick_given" 		: [
+		{
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"dialog"			: "咱会把它留到之后再吃的。",
+		}
+	],
+	
+	
+	
+	
+	
+	"green_comment"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "泥土味道，尖尖水果。",
+	},
+	"red_comment"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "热汤味道，尖尖水果。",
+	},
+	"yellow_comment"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_shocked"],
+		"dialog"	: "没有味道...",
+	},
+	"blue_comment"		: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "脆脆的，尖尖水果。",
+	},
+	"orange_comment"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "|shake|这些尝起来和甜甜水果一样！|norm||L||C3|咱最喜欢！",
+	},
+	"purple_comment"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+		"dialog"	: "雪的味道，尖尖水果。",
+	},
+	"radiant_comment"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "|shake|彩虹的所有味道！",
+	},
+	"tetrid_confirm"	: {
+		"character"	: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+		"dialog"	: "咱可以收下这些吗？",
+	},
+	
+	"tetrids_given" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"dialog"			: "尖尖水果！|L||shake|啊呜啊呜啊呜",
+		}
+	],
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"dialog"			: "咱很高兴见到你。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"dialog"			: "|wave|咱爱你！",
+		},
+		
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "|wave|Eye see you!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"dialog"			: "|wave|Eye see you!",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "发生了什么？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "哦，没什么。|L|只是眼球之间的事情。",
+		}
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "是时候让她走了。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_upset"],
+			"dialog"			: "不!|!||L|我们要把她留下来。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"dialog"			: "好耶!",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "嘿，如果有刻薄的扎拉登在你的守卫区域找你麻烦的话—",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "告诉她们|shake|恶魔|norm|会来找她们的。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"dialog"			: "好耶!|L||!|眼睛爱你!",
+		},
+	],
+	
+	"leave_default" 	: [
+		{
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_normal"],
+			"dialog"			: "谢谢你的食物!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_lila", "CHAR_lila_right", "MOOD_happy"],
+			"dialog"			: "|wave|眼睛爱你!",
+		},
+	],
+
+}

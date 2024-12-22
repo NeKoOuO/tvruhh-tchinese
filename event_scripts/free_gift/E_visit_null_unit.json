@@ -1,0 +1,169 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "哦，嘿... 你好像就是，找到我了。",
+			"dialog_rand2"		: "你似乎找到了就是，我的废料堆。",
+			"dialog_rand3"		: "我似乎就是，很高兴见到你，之类的。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "你想要就是，   某样东西    之类的？",
+			"dialog_rand2"		: "你是在找就是,  什么东西   或者其他的？",
+			"dialog_rand3"		: "你想要什么就是，  东西   和垃圾之类的？",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "我有这么多不知道该怎么办的垃圾。",
+		},
+	],
+	
+	"monster_gifts"	: "空无单元的礼物",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+		"dialog"	: "是呀，你完全可以收下它。",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+		"dialog"	: "我甚至不知道就是，那是什么或怎么到那的。",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+		"dialog"	: "你没办法就是，带的下那个了。|L|所以，你也一直不想把自己的东西用掉，是吧？",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+		"dialog"	: "你要带走那个？",
+	},
+	
+	"another_gift_1" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "哇哦。你现在完全可以带着一大堆东西了。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "你可以从这一堆里再拿一个，或者都行。",
+		},
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "你能不能就是，稍微拿住我一会？",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "当然可以。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "我爱你。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "你真的很容易哭，你知道吗？",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],
+			"dialog"			: "是呀，我知道的。",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "我能不能就是，握住你的|C3|虚空衍体|C0|   或者之类的？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_upset"],
+			"dialog"			: "你可没有试着杀了她，是吧？",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "什么？不可能！",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "我不明白为什么老机器一直会就是，被那些小女孩之类的吓坏。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "现在你一定明白了。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "是呀，我会就是，现在直接杀了你。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_upset"],
+			"dialog"			: "阳光，快去抱她。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|我？|norm|",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "万一她不喜欢那样呢？",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "|wave|相信我就好。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "哎呀。这可就是，那人太好了之类的。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_blush"],
+			"dialog"			: "|shake|哦，你知道我的。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "我能否就是，从你那里得到个温暖的拥抱？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "你真的准备好接受来自我——恶魔——的拥抱吗？",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "可能吧，我不知道。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "我警告过你了！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_blush"],
+			"dialog"			: "哇！这可跟我预料的完全不同。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
+			"dialog"			: "Can I get like, a hug before you go    or whatever?",
+		},
+		{
+			"scene_flash"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_blush"],
+			"dialog"			: "I like, totally needed that right now.",
+		},
+	],
+
+}

@@ -9,28 +9,28 @@
 			"play_music"		: "game_over_music",
 			"bg_image"			: "spr_defect_heartbreak",
 			"voice"				: "VOICE_veyeral",
-			"dialog"			: "No.      This will not do at all.",
+			"dialog"			: "不。      这完全不行。",
 		},
 		{
-			"dialog"			: "I cannot allow this.",
+			"dialog"			: "我不能让这种事发生。",
 		},
 		{
-			"dialog"			: "I will     not allow this!",
+			"dialog"			: "我不会     让这种事发生！",
 		},
 		{
-			"dialog"			: "I don't know why, but     I suddenly care very much for her.",
+			"dialog"			: "我不知道为何，但是     我突然非常在乎她。",
 		},
 		{
-			"dialog"			: "More than I've ever cared about anything else.",
+			"dialog"			: "比我曾在乎过的一切都更重要。",
 		},
 		{
-			"dialog"			: "She has been through far too much to give up now.",
+			"dialog"			: "她已经经历了这么多，现在还不能放弃。",
 		},
 		{
-			"dialog"			: "I will help her fix this.",
+			"dialog"			: "我会帮助她修复这一切。",
 		},
 		{
-			"dialog"			: "As many times as it takes!",
+			"dialog"			: "无论这会需要多少次！",
 		}
 	]
 }

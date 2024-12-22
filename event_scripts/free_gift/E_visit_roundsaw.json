@@ -1,0 +1,157 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_normal"],
+			"random"			: 4,
+			"dialog_rand1"		: "你的拥抱格外强大！",
+			"dialog_rand2"		: "你的拥抱能带来爱之末日！",
+			"dialog_rand3"		: "你是大规模爱之武器！",
+			"dialog_rand4"		: "你向圆锯展现了爱！",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_shocked"],
+			"dialog"			: "|shake|你一定想要更多力量！",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "圆锯会为你分享力量。",
+			"dialog_rand2"		: "圆锯会让你变得更强。",
+		},
+	],
+	
+	"intro_devil" : [
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "你和守护者一样强大！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "是呀，其他人经常这样说。",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_shocked"],
+			"dialog"			: "|shake|圆锯想看到你更强大的样子！",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "圆锯会让你更强大。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "你是想要重赛吗，嗯？",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_shocked"],
+			"dialog"			: "等下！圆锯有礼物给你。",
+		},
+	],
+	
+	"monster_gifts"	: "圆锯的礼物",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+		"dialog"	: "这能够让你变得更强。",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_normal"],
+		"dialog"	: "收下它吗？",
+	},
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "你把自己的锯子收起来了吗？",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_sad"],
+			"dialog"			: "圆锯现在没有锯子了。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious3"],
+			"dialog"			: "现在是我的机会。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "|shake|呼噜呼噜呼噜。",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_sad"],
+			"dialog"			: "圆锯可以拥抱吗？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "当然，圆锯。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "|shake|哇哦！",
+		},
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "你的荆棘软软的！",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "哦，我的羽毛？|!||L|它们看起来很尖利，但实际上非常柔软。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "你是我的了！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "|shake|呼噜呼噜呼噜。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "不，小绿。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_pain"],
+			"dialog"			: "|shake|但是，   我想要鳞片面条！",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "我可以再练习一下。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "快去拿你的锯子！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "耶耶耶!",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_sad"],
+			"dialog"			: "Roundsaw wants hug.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
+			"dialog"			: "|shake|Prrrrrrrrrrrr.",
+		},
+	],
+
+}

@@ -1,0 +1,508 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|欢迎来到我们的艺术馆！",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+			"dialog"			: "请随意看。",
+		}
+	],
+	
+	"gallery_level"	: "艺术馆等级[VAL1]",
+	"total_tokens"	: "获得的总墨点信物",
+	"list_title1"	: "墨点的礼物",
+	"list_title2"	: "[NAME]的礼物",
+
+	"op_gallery"	: "艺术馆",
+	"op_donate"		: "捐赠礼物",
+	"op_upgrade"	: "升级",
+	"op_leave"		: "离开",
+	
+	"op_gift_amount"	: "艺术馆大小",
+	"op_gift_limit"		: "交易上限",
+	"op_donate_limit"	: "后室大小",
+	
+	"gallery_text"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "来参观我们的艺术馆吧！|L|有些艺术品是我们自己绘制的，但其中大多数都是团成一团，被我们在地板上发现的。",
+	},
+	"donate_text"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "把你的礼物捐赠给艺术馆！|L|我们会给你|C3|墨点信物|C0|和|C3|因果。|C0|",
+	},
+	"upgrade_text"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "我们可以使用|C3|棱晶|C0|的力量改进这座艺术馆！",
+	},
+	"leave_text"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "离开的时候和我们说一声，小可爱。|L|你的信物可以保留到下次再来！",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "你现在就要离开了吗？",
+	},
+	
+	"comment_small_gallery"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "呃…现在这里还没有太多东西，但我们正在努力。 ",
+	},
+	"comment_cant_donate"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "我们的人生摇摇欲坠一团糟，而且我们现在没地方存放你的捐赠品。",
+	},
+	"comment_donate_limit"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+		"dialog"	: "今天，我们的后室维度放不下更多捐赠品了。",
+	},
+	"comment_token_limit"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "你有着许多|C3|墨点信物。|C0||L|或许你想先花掉一些，小可爱？",
+	},
+	"comment_max_level"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "因为有你在，我们的艺术馆已经完美了，小可爱！",
+	},
+	
+	
+	
+	"cost_line"		: "你可以消耗|C3|[VAL1]个墨点信物|C0|拿走它。 ",
+	"cost_line_1"	: "你可以消耗|C3|1个墨点信物|C0|拿走它。 ",
+	"cost_line_0"	: "你可以免费带走它，小可爱。",
+	"comment_free"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "|wave|你想要的话就直接拿走它吧，小可爱。",
+	},
+	"comment_unknown"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "呃…我们不记得这个了。|L|[VAL1]",
+	},
+	"comment_blop"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "带上我们的一片吧，小可爱！|L|[VAL1]",
+	},
+	"comment_painting1"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "等等，这幅不是你画的吗？|L||wave|那是你的女朋友吗？|norm||L|[VAL1]",
+	},
+	"comment_painting2"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "这幅是一个皮肤没有颜色的小可爱画的！|L||wave|我们认为这是她的女朋友。|norm||L|[VAL1]",
+	},
+	"comment_one"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "它的质朴中有着如此多的美。|L|[VAL1]",
+	},
+	"comment_two"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "如此美丽的作品|L|[VAL1]",
+	},
+	"comment_three"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "|wave|这幅几乎和你一样可爱了！|norm||L|[VAL1]",
+	},
+	"comment_bonus"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "一点点额外的东西。|L|[VAL1]",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "在它还在的时候享受吧|L|[VAL1]",
+	},
+	"comment_limit"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "我们觉得你拿不下这个了，小可爱。",
+	},
+	"comment_over"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+		"dialog"	: "抱歉小可爱，我们现在没法把它给你。|L|你需要|C3|[VAL2]个墨点信物.|C0|",
+	},
+	"comment_over_1"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+		"dialog"	: "抱歉小可爱，我们现在没法把它给你。|L|你需要|C3|1个墨点信物.",
+	},
+	"comment_closed"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "抱歉，小可爱！|L|我们今天不能让你带走更多了，但你仍可以继续看看。",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "你想要带走这个作品吗？",
+	},
+	
+	"gift_bought" 		: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|是给你的，小可爱。",
+			"dialog_rand2"		: "|wave|我们知道你会喜欢它的，小可爱。",
+			"dialog_rand3"		: "我们喜欢这幅作品的颜色！",
+			"dialog_rand4"		: "|wave|它几乎和你一样可爱。",
+		}
+	],
+	
+	
+	
+	"donate_line"	: "我们会给你|C3|[VAL1]个墨点信物|C0|和|C3|[VAL2]因果|C0|来交换它。",
+	"donate_line_1"	: "我们会给你|C3|1个墨点信物|C0|和|C3|[VAL2]因果|C0|来交换它。",
+	"comment_donate_normal"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "我们会收下这个捐赠。|L|[VAL1]",
+	},
+	"comment_donate_art"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "哦，这可是真正的艺术！|L|[VAL1]",
+	},
+	"comment_donate_special"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "哦，我们正在找那个！|L|[VAL1]",
+	},
+	"comment_donate_I_painting"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "|wave|我们爱这幅画作！|norm||L|[VAL1]",
+	},
+	"comment_donate_quick"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "看起来它粘在你身上了！|L|[VAL1]",
+	},
+	"comment_donate_blessing"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "当然，你可以捐赠纯粹的情绪！|L|[VAL1]",
+	},
+	"comment_donate_art_blessing"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "你有着艺术的点子吗，小可爱？|L|[VAL1]",
+	},
+	"comment_donate_burden"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "我们可以用这种情绪创作出非常焦虑的艺术，但我们理解你为何不想将它给我们。",
+	},
+	"comment_donate_taken": {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "你刚从艺术馆里带走它。",
+	},
+	"comment_donate_starter": {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "我们不能从你那里带走这个，小可爱。",
+	},
+	"donate_confirm"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "你想要把它捐赠给我们？",
+	},
+	
+	"gift_donated" 		: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|感谢你的捐赠，小可爱。",
+			"dialog_rand2"		: "|wave|我们太爱它了！",
+			"dialog_rand3"		: "真不敢相信，你直接就给我们了！",
+			"dialog_rand4"		: "我们会珍视这个礼物。",
+		}
+	],
+	"quick_donated" 		: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "这些消逝的太快了。|L||!||shake|我们一定要拥有它！",
+		}
+	],
+	"TAG_blot_part_donated" 		: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|你让我们真正完整了，小可爱！",
+		}
+	],
+	
+	
+	
+	"comment_upgrade_size_small"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "这个艺术馆现在只能放得下|C3|[VAL1]个礼物|C0|，但使用一些棱晶，我们就能够创造空间再放一个。",
+	},
+	"comment_upgrade_size"			: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "这个艺术馆现在只能放得下|C3|[VAL1]个礼物|C0|，但使用一些棱晶，我们就能够创造空间再放一个！",
+	},
+	"comment_upgrade_size_maxed"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "这个艺术馆现在能够放得下|C3|[VAL1]个礼物|C0|！|L||wave|它已经尽善尽美了，小可爱。",
+	},
+	
+	"comment_upgrade_limit_first"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "每次来访我们只能给你|C3|1个礼物Gift|C0|，但有一些棱晶的话我们能够与另一个相别离。",
+	},
+	"comment_upgrade_limit"			: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "每次来访我们只能给你|C3|[VAL1]个礼物Gift|C0|，但有一些棱晶的话我们能够与另一个相别离！",
+	},
+	"comment_upgrade_limit_maxed"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "每次来访我们能够给你|C3|[VAL1]个礼物Gift|C0|！|L||wave|这已经尽善尽美了，小可爱。",
+	},
+	
+	"comment_upgrade_donate_none"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "在我们能够接受任何|C3|礼物捐赠|C0|之前，我们需要一些棱晶来创造存储空间。",
+	},
+	"comment_upgrade_donate_one"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+		"dialog"	: "每次来访我们仅能够接受|C3|1次捐赠|C0|，但有一些棱晶的话我们能够腾出更多空间。",
+	},
+	"comment_upgrade_donate"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "每次来访我们仅能够接受|C3|[VAL1]次捐赠|C0|，但有一些棱晶的话我们能够腾出更多空间！",
+	},
+	"comment_upgrade_donate_maxed"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "每次来访我们能够接受|C3|[VAL1]次捐赠|C0|！|L||wave|这已经尽善尽美了，小可爱。",
+	},
+	
+	"comment_upgrade_fail"			: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
+		"dialog"	: "我们对此无能为力，直至我们得到更多的礼物捐赠。|L|我们很对不起，小可爱！",
+	},
+	
+	"upgrade_size" 			: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "我们可以用这些扩充艺术馆。",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "下次来访时我们会有更多的艺术品！",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "|wave|全都要感谢你，小可爱！",
+		}
+	],
+	"upgrade_size_final" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "我们可以用这些扩充艺术馆。",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "在此之后我们不太可能放得下更多的艺术品了！",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "没有你我们不可能达成这一切，小可爱！",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "|wave|我们爱你！",
+		}
+	],
+	"upgrade_donation_first" : [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "有了这种力量，我们可以在后室维度打开一条裂缝。",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|我们现在真的有地方来存放你的捐赠品了！",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "现在我们可以真正开始交换艺术品了！",
+		}
+	],
+	"upgrade_donation" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "有了这种力量，我们可以在后室维度中存放更多捐赠品。",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "现在你每次来访可以捐赠更多礼物了！",
+		}
+	],
+	"upgrade_limit_to_2" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "这些彩虹棱晶真美味！",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "现在你每次来访我们可以让你带走|C3|2件艺术品|C0|！",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "这样才对，小可爱。|L||!|你已经为我们的艺术馆捐献了如此多的东西。",
+		}
+	],
+	"upgrade_limit_to_3" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
+			"dialog"			: "哦，我们在流口水吗？",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "抱歉，小可爱。|L|有着这些彩虹棱晶，我们实在是忍不住。",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "现在你每次来访我们可以让你带走最多|C3|3件艺术品|C0|！",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "你给予了我们这么多。|L||!|我们希望这些艺术品也能够增强你的力量。",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "|wave|我们爱你，小可爱！",
+		}
+	],
+	
+	"green_comment"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_aggressive"],
+		"dialog"	: "别告诉其他人，但这是我们最喜欢的棱晶。|L||C3|这些能够给我们最多的力量！",
+	},
+	"red_comment"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+		"dialog"	: "这些闻起来像篝火。",
+	},
+	"yellow_comment"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "这些味道不是很好。|L|说不定我们不应该再吃这些。",
+	},
+	"blue_comment"		: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
+		"dialog"	: "|shake|这些会伤到我们的皮肤！|norm||L|真是可惜。|L|蓝色本是如此美丽的颜色。",
+	},
+	"orange_comment"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+		"dialog"	: "我们能够从里面听到微弱的歌声。|L|你能听到吗？",
+	},
+	"purple_comment"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "这些感觉好悲伤。|L|我们会给它们拥抱。",
+	},
+	"radiant_comment"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+		"dialog"	: "|shake|我们非常需要！",
+	},
+	"upgrade_confirm"	: {
+		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
+		"dialog"	: "你想要把这些给我们吗，小可爱？",
+	},
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "我在这里度过了非常美妙的时光。",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "我们很高兴你喜欢！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "哦，你太亲切了，小可爱。|L||!||wave|我们爱你！",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		}
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "希望你度过了美妙的时光。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "当然了。|L||!|我只是很抱歉其他客人将我的美丽错认为了一件艺术品。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "但我们是这里仅有的客人。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "|wave|而尽管如此，你还是无法停止看着我。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "真高兴你们在这里度过了美好的时光，小可爱们。",
+		}
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "在你们离开之前，我的姐姐真的很想你画一下她。",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "真的吗，小可爱？",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "我…猜是吧。",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|你会变得超级可爱的！",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "确实！",
+		}
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"random"			: 4,
+			"dialog_rand1"		: "我喜欢那个带眼球的黑暗画作。",
+			"dialog_rand2"		: "这里面有的作品|shake|太金属了！",
+			"dialog_rand3"		: "你看到那幅了吗，有着无可名状恐怖的那个？",
+			"dialog_rand4"		: "我喜欢那些看起来像梦魇的。",
+		},
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_aggressive"],
+			"random"			: 4,
+			"dialog_rand1"		: "对呀，还有那些带着可爱红心的！",
+			"dialog_rand2"		: "那幅有着美丽女士的画作如何呢？",
+			"dialog_rand3"		: "对吧？而且还有那些带着五彩缤纷花朵的画作！",
+			"dialog_rand4"		: "你看到那幅有着可爱女孩的画作了吗？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "当然了！   你真的懂我。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "|wave|我们爱你，小可爱！",
+		}
+	],
+	
+	"leave_default" 	: [
+		{
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
+			"dialog"			: "我们希望你能够再次来访。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
+			"dialog"			: "我们爱你，小可爱！",
+		},
+	],
+
+}

@@ -1,0 +1,286 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "本单元有件东西想给你看。",
+			"dialog_rand2"		: "本单元想要帮助你。",
+			"dialog_rand3"		: "你想要复制你的礼物吗？",
+		},
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_happy"],
+			"dialog"			: "本单元构建了一个|C3|礼物复制|C0|装置!",
+		},
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+			"dialog"			: "请允许本单元扫描你的礼物。",
+		},
+		{
+			"scene_flash"		: 1,
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+			"dialog"			: "|C3|正在扫描礼物. . .|L|完成。",
+		},
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+			"dialog"			: "本单元已经扫描完成了你所有礼物的蓝图。",
+		},
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+			"dialog"			: "但它们需要大量的能量才能生成。",
+		},
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_happy"],
+			"dialog"			: "本单元能够将所有物质转换为能量，但如果能具有|C3|导电性|C0|就更好了。",
+		},
+	],
+	
+	"mood_title"	: "棱镜的力量",
+	"monster_gifts"	: "复制礼物",
+	"player_gifts"	: "[NAME]的现有礼物",
+	"player_quicks"	: "[NAME]的快速礼物",
+
+	"op_trade"			: "复制器",
+	"op_give_active"	: "给予现有礼物",
+	"op_give_quick"		: "给予快速礼物",
+	"op_leave"			: "离开",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_happy"],
+		"dialog"	: "本单元可以用每个礼物蓝图创造一个复制品。",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+		"dialog"	: "本单元可以将礼物转变为能量。",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+		"dialog"	: "快速礼物转换得到的能量更少，但你估计也会忘记使用它们。",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+		"dialog"	: "你离开后本单元会想念你的。",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+		"dialog"	: "你的所有礼物都已经被复制了。",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+		"dialog"	: "本单元现在无法将更多礼物转化为能量了。",
+	},
+	"comment_give_empty"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+		"dialog"	: "未检测到物质。",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+		"dialog"	: "你要离开了吗？",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_happy"],
+		"dialog"	: "本单元为你复制了这个礼物！",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+		"dialog"	: "这很奇怪。|L|你对此物品的记忆无法被分析，但你应该知道它是什么。",
+	},
+	"comment_no_multi"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush3"],
+		"dialog"	: "|shake||C3|未检测到额外效果!|C0||norm||L|本单元不建议你复制该礼物，除非你丢失了本体。",
+	},
+	"comment_burden"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush2"],
+		"dialog"	: "本单元无法计算出你为何想要更多这种东西。",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+		"dialog"	: "本单元需要更多能量才可以复制这个礼物。",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+		"dialog"	: "你的空间不足以携带它。",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+		"dialog"	: "制作这个礼物吗?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush2"],
+			"random"			: 4,
+			"dialog_rand1"		: "希望这个叠加效果能够帮助你。",
+			"dialog_rand2"		: "请让我知晓组合起来的效果如何。",
+			"dialog_rand3"		: "它的效果是会加倍还是会被浪费呢?",
+			"dialog_rand4"		: "你必须测试一下这个礼物的效果是否被加倍了。",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+		"dialog"	: "你可以把任何物质放入能量转换器中。",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_happy"],
+		"dialog"	: "这能够生成一点点额外能量。",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush"],
+		"dialog"	: "这能够生成大量的能量!",
+	},
+	"comment_give_I_energy_glyph"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush3"],
+		"dialog"	: "本单元需要更加勇敢。|L||shake|这仅仅只是她的画作。|norm|",
+	},
+	"comment_give_TAG_astrayo_part"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush3"],
+		"dialog"	: "你从哪里得到的?|L||shake|她在附近吗?|norm|",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+		"dialog"	: "本单元可以将任何东西转化为能量。",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+		"dialog"	: "纯粹的情绪并非力量的最佳源泉，但也可以使用。",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush3"],
+		"dialog"	: "|C3||shake|[温度警报]",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+		"dialog"	: "将本设备已经生成的物品转化为能源并非明智之举。",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+		"dialog"	: "本单元不会把这个从你那拿走。",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_happy"],
+		"dialog"	: "把它转化为能量吗?",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush2"],
+			"random"			: 3,
+			"dialog_rand1"		: "已获取能量。",
+			"dialog_rand2"		: "已重新充能。",
+			"dialog_rand3"		: "已转化物质。",
+		}
+	],
+	"TAG_astrayo_part_given" 	: [
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush2"],
+			"dialog"			: "本单元知道它的来源。",
+		},
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush3"],
+			"dialog"			: "|shake|本单元的设计无法处理她的能量水平。",
+		},
+	],
+
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+			"dialog"			: "本单元会想念你的。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "我把这留给你的话就不会了。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "|wave|我爱你!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush"],
+			"dialog"			: "需要数小时才能使这温度冷却。",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_very_happy"],
+			"dialog"			: "要是我们制作了小蓝的复制呢？",
+		},
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
+			"dialog"			: "扫描发现其所需的能量总量超出了现有宇宙中的可用能量。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "看起来宇宙中只容得下一个完美存在。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
+			"dialog"			: "你能做一些我姐姐的复制吗？",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "她有许多女朋友，并且她需要花时间去陪她们所有人。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|你在说什么?",
+		},
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush3"],
+			"dialog"			: "复制器没办法用来这样做。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "好吧，现在为我做一位邪恶双子!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "她的破碎翅膀会在另一边。",
+			"dialog_rand2"		: "她的头发会变成紫色的",
+			"dialog_rand3"		: "她的名字会是大天使。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "然后我必须与她战斗。",
+		},
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+			"dialog"			: "本单元被吓到了。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "|wave|别担心。|norm||L||!|她是不可能打败我——恶魔的。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
+			"dialog"			: "本单元会想念你的。 ",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush"],
+			"dialog"			: "|C3|温度警报",
+		},
+	],
+
+}

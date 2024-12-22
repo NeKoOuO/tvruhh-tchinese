@@ -5,11 +5,11 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Young Zaraden, This Unit has detected unusually high levels of stress from your heartbeat.",
+			"dialog"			: "年幼的扎拉登，本单元从你的心跳中侦测出了异常高的压力等级。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit is programmed to provide assistance.|!||L|Would you like any assistance?",
+			"dialog"			: "本单元的程序能够提供帮助。|!||L|你需要任何帮助吗？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
@@ -17,39 +17,39 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit is awaiting a response.",
+			"dialog"			: "本单元正在等待答复。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "...Oh,   are you talking to me?",
+			"dialog"			: "...噢，   你是在和我说话吗？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "That is correct.",
+			"dialog"			: "正确。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "I am      looking for someone.     |L|I think.",
+			"dialog"			: "我是      正在找某个人。     |L|我觉得。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "Have you seen another Zaraden around here?",
+			"dialog"			: "你在这附近见到过另一个扎拉登吗？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has not seen another Zaraden today. However, This Unit has seen many Zaraden before.",
+			"dialog"			: "本单元今天没有见到另一个扎拉登。但是，本单元曾经见过许多扎拉登。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit may be able to assist in searching for the requested Zaraden.",
+			"dialog"			: "本单元或许能够协助你搜寻那位扎拉登。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Describe the color of the Zaraden's hair and skin.",
+			"dialog"			: "|C3|建议:|C0|描述扎拉登的发色与肤色。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "Let's see.   Her hair was...",
+			"dialog"			: "我想想。   她的头发是...",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
@@ -57,123 +57,123 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "Oh!    Her hair was...   red?",
+			"dialog"			: "哦!    她的头发是...   红色的?",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "Her skin was...    a red looking color.",
+			"dialog"			: "她的肤色是...    很像红色的颜色。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Scans have detected an abnormality in the eyes of this young Zaraden.",
+			"dialog"			: "扫描显示这位年幼扎拉登的眼睛中存在异常。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "I      can't see colors.",
+			"dialog"			: "我      看不到颜色。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit would like to apologize.   Perhaps This Unit can assist in some other way.",
+			"dialog"			: "本单元想要对此道歉。   或许本单元能够以其他方法进行协助。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "Well,   the other day, I was hiding from one of those monsters.|L||!|I thought it was going to find me.",
+			"dialog"			: "唔,   有一天，我在躲怪物们中的一个。|L||!|我还以为要被找到了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "Then my heart just started shooting a bunch of |shake|nonsense|norm| at it!",
+			"dialog"			: "然后我的心就开始朝着它射出一堆|shake|乱七八糟|norm|的东西！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "THEN she stopped trying to kill me and gave me something!",
+			"dialog"			: "然后她就不再想要杀我了，并且还给了我东西！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_very_happy"],
-			"dialog"			: "She just wanted to be around me all day after that.",
+			"dialog"			: "在那之后她只是想要整天待在我身边。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
-			"dialog"			: "But the next day she was gone...|L||!|I can't seem to remember what she gave me.",
+			"dialog"			: "但第二天她就不见了...|L||!|我也记不得她给了我什么。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "Can you explain what that was?",
+			"dialog"			: "你能解释那是什么吗？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has acquired information to assist you.",
+			"dialog"			: "本单元获取到了能够协助你的信息。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has determined that you have just experienced love.",
+			"dialog"			: "本单元认为你刚刚体验到了爱。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "So that's what that is!",
+			"dialog"			: "所以那就是爱！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "The mechanism by which the monsters and Zaraden forget each other is unknown to This Unit.",
+			"dialog"			: "怪物与扎拉登之间互相遗忘的机制于本单元仍是未知的。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "However, loving the forgetful monsters seems like a better alternative to living in fear of them.",
+			"dialog"			: "但是，相较于活在对怪物们的恐惧之中，去爱那些健忘的怪物们算是更好的替代。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Continue loving the monsters.",
+			"dialog"			: "|C3|建议:|C0|继续去爱那些怪物们。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "That's a good idea.",
+			"dialog"			: "这是个好主意。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has detected some peculiarities with your heart.",
+			"dialog"			: "本单元在你的心中侦测到了部分特殊性质。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Your love bullets are of the |C12||I12|Void element.",
+			"dialog"			: "你的爱之子弹属于|C12||I12|虚空元素。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "However, your |C3|charged attacks|C0| appear to be of the |C11||I11|Radiant element.",
+			"dialog"			: "然而，你的|C3|蓄力攻击|C0|却属于|C11||I11|光耀元素。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "All monsters have weaknesses and resistances to certain |C3|love elements.",
+			"dialog"			: "所有怪物对特定的|C3|爱之元素|C0|都有着对应的弱点与抗性。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Example:|C0| Most |C3|Veyeral|C0| monsters are resistant to |C12||I12|Void love,|C0| but they are vulnerable to |C11||I11|Radiant love.",
+			"dialog"			: "|C3|举例:|C0|大部分|C3|维目尔|C0|怪物对|C12||I12|虚空之爱|C0|存在抗性，然而她们更容易受到|C11||I11|光耀之爱|C0|的伤害。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Even without any energy, your |C3|charged shots|C0| may be more effective in this case.",
+			"dialog"			: "甚至在能量耗尽时，你的|C3|蓄力攻击|C0|在这种情况下可能会更有效。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Use the appropriate ability in order to love the monster in an efficient manner.",
+			"dialog"			: "|C3|建议：|C0|使用合适的能力更有效地去爱怪物们。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "|wave|Thank you so much, Love Robot.",
+			"dialog"			: "|wave|非常感谢你，爱的机器人。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "I was a little afraid to talk to you at first.",
+			"dialog"			: "我一开始还有点害怕和你说话。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "But now I'm glad I did.",
+			"dialog"			: "但现在我很高兴我这样做了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit is feeling immense joy for the young Zaraden.",
+			"dialog"			: "本单元为这位年幼扎拉登感到由衷的开心。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "I'll pass that feeling on to the monsters.",
+			"dialog"			: "我会将那种感觉传达给怪物们。",
 		}
 	]
 }

@@ -1,0 +1,156 @@
+{
+	"intro" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 64,
+			"text_w"			: 284,
+			"voice"				: "VOICE_default",
+			"random"			: 3,
+			"dialog_rand1"		: "|C3|自我怀疑逐渐渗入了她的意志。",
+			"dialog_rand2"		: "|C3|她开始怀疑自己的能力。",
+			"dialog_rand3"		: "|C3|她开始感觉有一些疲惫。",
+		},
+		{
+			"random"			: 3,
+			"dialog_rand1"		: "|C3|她知道前方的道路只会变得更加艰险。",
+			"dialog_rand2"		: "|C3|她知道前方的战斗只会变得更加困难。",
+			"dialog_rand3"		: "|C3|她知道怪物们只会变得更加强大。",
+		},
+		{
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|怪物们的等级已经高达[VAL1]级了",
+		},
+		{
+			"dialog"			: "|C2||shake|情况只会变得更糟！",
+		},
+		{
+			"random"			: 4,
+			"dialog_rand1"		: "|C2||shake|她就应该放弃！",
+			"dialog_rand2"		: "|C2||shake|她真的应该停止尝试！",
+			"dialog_rand3"		: "|C2||shake|她为什么还要尝试？",
+			"dialog_rand4"		: "|C2||shake|她为什么不直接放弃？",
+			
+		},
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她停下来休息了一会儿。",
+		},
+	],
+	
+	"intro_short_a" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 64,
+			"text_w"			: 284,
+			"voice"				: "VOICE_default",
+			"random"			: 6,
+			"dialog_rand1"		: "|C3|自我怀疑逐渐渗入了她的意志。",
+			"dialog_rand2"		: "|C3|她开始怀疑自己的能力。",
+			"dialog_rand3"		: "|C3|她开始感觉有一些疲惫。",
+			"dialog_rand4"		: "|C3|她知道前方的道路只会变得更加艰险。",
+			"dialog_rand5"		: "|C3|她知道前方的战斗只会变得更加困难。",
+			"dialog_rand6"		: "|C3|她知道怪物们只会变得更加强大。",
+		},
+		{
+			"dialog"			: "|C3|她停下来休息了一会儿。",
+		},
+	],
+	
+	"intro_short_b" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 64,
+			"text_w"			: 284,
+			"voice"				: "VOICE_red",
+			"dialog"			: "|C2||shake|怪物们的等级已经高达[VAL1]级了",
+		},
+		{
+			"random"			: 7,
+			"dialog_rand1"		: "|C2||shake|她就应该放弃！",
+			"dialog_rand2"		: "|C2||shake|她真的应该停止尝试！",
+			"dialog_rand3"		: "|C2||shake|她为什么还要尝试？",
+			"dialog_rand4"		: "|C2||shake|她为什么不直接放弃？",
+			"dialog_rand5"		: "|C2||shake|怪物们只会变得更糟！",
+			"dialog_rand6"		: "|C2||shake|趁早放弃吧！",
+			"dialog_rand7"		: "|C3||shake|她撑不过另一场战斗的！",
+		},
+	],
+
+	"ask_q1"		: "她感觉如何？",
+	"ask1_a"		: "我能够做到的！",
+	"ask1_b"		: "我应该稍微休息一下",
+	
+	"ask_q2"		: "她现在感觉如何？",
+	"ask2_a"		: "我觉得我准备好了",
+	"ask2_b"		: "我还需要更多时间",
+	
+	"ask_q3"		: "她还需要更多时间吗？",
+	"ask3_a"		: "我准备好了",
+	"ask3_b"		: "再多一点点",
+	
+	"info_first_a"	: "怪物的等级保持在等级[VAL1]\n+[VAL2]因果",
+	"info_first_b"	: "怪物的力量会被降低至等级[VAL1]",
+	"info_a"		: "怪物保持在[VAL1]",
+	"info_b"		: "怪物的力量会被降低至等级[VAL1]\n-[VAL2]因果",
+	
+	"keep_level" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她快速抛下了所有自我疑虑的念头。",
+		},
+		{
+			"dialog"			: "|C3|完全相信着自己的能力，她继续前进。",
+		},
+	],
+	
+	"leave_lower" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|带着对自己能力的自信，她再度出发。",
+		},
+	],
+	
+	"min_level_reached" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|怪物的力量被减少了，但不能再度降低。",
+		},
+		{
+			"dialog"			: "|C3|在休息了一会之后，她带着重拾的自信离开了。",
+		},
+	],
+	
+	"lower_level_1" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她又休息了一小会。",
+		},
+		{
+			"dialog"			: "|C3|怪物的力量被稍微减弱了。",
+		},
+	],
+	
+	"lower_level_2" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她继续休息了一会。",
+		},
+		{
+			"dialog"			: "|C3|怪物的力量再次被减弱了。",
+		},
+	],
+	
+	"lower_level_3" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|在长久的休息之后，她带着重拾的自信离开了。",
+		},
+	],
+
+}

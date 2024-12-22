@@ -1,0 +1,337 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "茉茉,茉茉,茉茉,|L|这个名字你应该知晓。",
+			"dialog_rand2"		: "她的姿态无人能及。|L|她的杀戮无人可逃。",
+			"dialog_rand3"		: "力量之花归何处？|L|坚不可摧，精准无误。",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "茉茉,茉茉,茉茉,|L|她在舞台的中央。",
+			"dialog_rand2"		: "来吧。来吧。来吧。|L|是时候了，茉茉。",
+			"dialog_rand3"		: "茉茉载歌，茉茉载舞。|L|茉茉可以杀死万物！",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_angry_blush"],
+			"random"			: 3,
+			"dialog_rand1"		: "你们够了！",
+			"dialog_rand2"		: "好了，快停下！",
+			"dialog_rand3"		: "停下！",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_surprised_blush"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_blush"],
+			"dialog"			: "抱歉，我只是有点紧张。",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "茉茉有个请求。",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_confused"],
+			"dialog"			: "呃，就是。|L|我有个新的舞蹈。",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"dialog"			: "|wave|我想要和你一起练习。",
+		},
+	],
+	
+	"monster_gifts"	: "茉茉的礼物",
+	
+	"op_start"		: "和茉茉一天舞蹈",
+	"op_leave"		: "茉茉逃跑了",
+	
+	"comment_start"		: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_normal"],
+		"dialog"	: "这次我需要你的梦境力量。",
+	},
+	"comment_leave"		: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_sad"],
+		"dialog"	: "仔细一想...",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_sad"],
+		"dialog"	: "呃，实际上...",
+	},
+	
+	"start_battle" 	: [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|太棒了！",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_aggressive"],
+			"dialog"			: "我把它叫做杀戮之舞。",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"dialog"			: "它的一部分发生在梦境世界里。",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"dialog"			: "跟随我的指示，尽量不要让自己受伤，好吗？",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "也要小心我们。|L||!|我们喜欢杀戮。|L||!|舞蹈是我们的武器。",
+		},
+	],
+	
+	"start_battle_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
+			"dialog"			: "实际上，我还是只看看吧。|!||L|你们两个继续吧。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|什么?",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_sad"],
+			"dialog"			: "哦，你确定吗?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
+			"dialog"			: "对，我的腿好累。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_angry"],
+			"dialog"			: "我才是那个需要到处走的人！",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "|wave|玩的开心，阳光!",
+		},
+	],
+	
+	"no_battle" 	: [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_surprised_blush"],
+			"dialog"			: "|shake|没事了!我还没准备好!",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "等下，你要去哪？",
+		},
+		{
+			"character"			: ["VOICE_none", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "她又跑走了。|L||!|请对她保持耐心。",
+		},
+	],
+	
+	"return_intro" : [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_very_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "|wave|盛大谢幕!",
+			"dialog_rand2"		: "|wave|我完全绽放了!",
+			"dialog_rand3"		: "|wave|那真让我心花怒放!",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "你的感觉和我一样吗？",
+			"dialog_rand2"		: "我完全被你惊艳到了。",
+			"dialog_rand3"		: "就好像你已经知道了所有的动作。",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "|wave|茉茉小姐。|norm||!||L|观众们给你留下了一些礼物。",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_surprised_blush"],
+			"dialog"			: "|shake|刚刚有观众吗?!",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "|C3|[VAL1]只小小魔尘|C0|出来看你了。|L||!|树后面还有一些怪物。",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"dialog"			: "我必须把这些和我的舞伴分享。",
+		},
+	],
+	
+	
+	"comment_take_first"	: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_normal"],
+		"dialog"	: "请带走任何你想要的东西!",
+	},
+	"comment_take_another"	: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+		"dialog"	: "带走另一个礼物吧!",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_normal"],
+		"dialog"	: "这就是你的选择吗?",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "你真的出尽了风头。",
+			"dialog_rand2"		: "我想要看到你的盛大表演。",
+			"dialog_rand3"		: "你的花朵能量无可否决。",
+			"dialog_rand4"		: "这一定能帮助你绽放。",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "你值得另一份礼物。",
+			"dialog_rand2"		: "你的动作让你得到了另一份礼物。",
+			"dialog_rand3"		: "我坚持让你再拿一份。",
+		}
+	],
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"dialog"			: "|wave|你让我心花怒放!",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "那我呢?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "我也爱你!",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "我呢?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "并且我也爱你!",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "我也想要。",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_confused"],
+			"dialog"			: "我们整天都会在这的。",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "小蓝？|!||L|她去哪里了？",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_confused"],
+			"dialog"			: "呃，快看那边。",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "|shake|该轮到我抱住她了！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
+			"dialog"			: "嗯，如果你坚持的话。",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "|shake|现在轮到我了！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "慢一点，女士们!|L||!|这里有足够的小蓝给你们所有人。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"dialog"			: "你刚刚真让我|wave|心花怒放!",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "哦真的吗?|!||L|那是什么意思?",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "意思是她喜欢你！",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_awkward"],
+			"dialog"			: "好了，再见!",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised_blush"],
+			"dialog"			: "等下!你要去哪?",
+		},
+		{
+			"character"			: ["VOICE_none", "CHAR_center", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
+			"dialog"			: "别担心。|L||!|茉茉经常会逃跑的。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
+			"dialog"			: "哇哦，那场舞蹈-",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "那些荆棘藤蔓与那些锯片-",
+		},
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_confused"],
+			"dialog"			: "太过分了吗?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "你在开玩笑吗?|L||!|下次我们再加点重金属吉他即兴吧!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "我们也需要一个鼓手。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"dialog"			: "那应该会让我心花怒放。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
+			"dialog"			: "我们很快就能够再次一起起舞了。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
+			"dialog"			: "|wave|You've got me positively blooming!",
+		},
+	],
+
+}

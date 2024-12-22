@@ -1,0 +1,525 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "我们之前试着烧伤你。|L||!|我们则样太辣了，是吖？",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+			"dialog"			: "我们可以做点什么来帮助你！",
+		}
+	],
+	
+	"came_back_intro" : [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "我们回来见你了！|L|你看起来还好！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "我们可以把你的一些礼物留到明天！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_upset"],
+			"dialog"			: "没人把你烧伤了，是吖？",
+		}
+	],
+	
+	"capacity" 		: "容量",
+	"list_title1"	: "锅炉的连接突触",
+	"list_title2"	: "[NAME]的礼物",
+
+	"op_storage"	: "礼物存储",
+	"op_upgrade"	: "扩充空间",
+	"op_hold"		: "之后再来",
+	"op_leave"		: "离开",
+	
+	"storage_text"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "我们会把你的礼物储存在我们的|C3|连接突触|C0|中，你可以明天或任何一天取出来。",
+	},
+	"upgrade_text"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "我们可以用则种|C3|棱晶|C0|来扩充我们的|C3|连接突触|C0|。",
+	},
+	"hold_text"			: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+		"dialog"	: "我们可以等下再回来。在你和辣个|C3|最终怪物|C0|战斗后，好吖？",
+	},
+	"hold_ready"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+		"dialog"	: "我们会之后回来。|L|请保重，好吖？",
+	},
+	"leave_text"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "当你要离开时记得和我们说。|L|我们会继续数我们无尽的牙齿。",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "你想要离开了吗，好吖？",
+	},
+	
+	"storage_delete"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "我们可以摧毁这个礼物来给另一个腾出空间。",
+	},
+	"delete_confirm"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+		"dialog"	: "你想要我们摧毁这个礼物，好吖?",
+	},
+	"storage_add"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+		"dialog"	: "给我们礼物，我们会储存在|C3|连接突触|C0|里。",
+	},
+	"storage_full"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_despair"],
+		"dialog"	: "我们的|C3|连接突触|C0|满了！|L|摧毁礼物是仅剩的选择！",
+	},
+	
+	"comment_starter"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+		"dialog"	: "我们没办法把则个从你那里拿走。",
+	},
+	"comment_link"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_upset"],
+		"dialog"	: "你早上把则个带走了，是吖？|L|你想要在我们的宇宙中有一个通往|shake|无尽火焰维度|norm|的洞吗！？",
+	},
+	"comment_one"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "则个礼物有一种温和辣酱的波动。",
+	},
+	"comment_two"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+		"dialog"	: "则个礼物有一种超辣辣酱的波动",
+	},
+	"comment_three"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_shocked"],
+		"dialog"	: "|shake|啊啊！|norm||L|则个有着地热等级的辣度！",
+	},
+	"comment_TAG_boiler_fav"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+		"dialog"	: "呃，我们有点点饿了。",
+	},
+	"comment_TAG_scrambla_fav"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+		"dialog"	: "别把这个给蛋花花看，好吖？|L|她会把它吃掉的。",
+	},
+	"comment_TAG_boiler_part"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+		"dialog"	: "我们给了你最辣的一块，是吖？",
+	},
+	"comment_TAG_scrambla_part"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "妹妹蛋花。|L|她还好吧，是吖？",
+	},
+	"comment_I_link_synapse"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+		"dialog"	: "我们会把则个宇宙循环成可爱的结，是吖？|L|这很安全，而且你注意不到的。",
+	},
+	"comment_duplicate"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+		"dialog"	: "你今天找到了则个的复制，是吖？|L|则些存起来应该是安全的。",
+	},
+	"comment_over"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_despair"],
+		"dialog"	: "则个礼物太辣了！|L|我们现在存不了则个。",
+	},
+	"comment_type"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_despair"],
+		"dialog"	: "则个礼物被固定在你身上了！|L|我们带不走则个。",
+	},
+	"store_confirm"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "我们应该储存则个礼物，是吖？",
+	},
+	
+	"gift_stored" 		: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "则个礼物被存好了！|L|你明天就能拿到了，好吖！",
+		}
+	],
+	"unradiated_stored" : [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "则个礼物被存好了！|L|你明天就能拿到了，好吖！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_shocked"],
+			"dialog"			: "哦不，  我们把它烧掉了！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "等下，     则个没有被点亮。|L||!|你记得则是什么，是吖？",
+		}
+	],
+	
+	"upgrade_to_2" 		: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "我们可以扩充我们的|C3|连接突触|C0|来存放最多|C3|2个力量之星|C0|的礼物！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们需要任意颜色的|C3|6个闪亮三角形|C0|。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "你可以给我们任意颜色，   但是呃，    则些|C3|红色的能给我们更多力量。|C0|",
+		}
+	],
+	"upgrade_to_3" 		: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "我们可以扩充我们的|C3|连接突触|C0|来存放最多|C3|3个力量之星|C0|的礼物！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们需要任意颜色的|C3|12个闪亮三角形|C0|。",
+		}
+	],
+	"upgrade_to_4" 		: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "我们可以扩充我们的|C3|连接突触|C0|来存放最多|C3|4个力量之星|C0|的礼物！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们需要任意颜色的|C3|24个闪亮三角形|C0|。",
+		}
+	],
+	"upgrade_to_5" 		: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "我们可以扩充我们的|C3|连接突触|C0|来存放最多|C3|5个力量之星|C0|的礼物！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们需要任意颜色的|C3|40个闪亮三角形|C0|。",
+		}
+	],
+	"upgrade_to_6" 		: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "我们可以扩充我们的|C3|连接突触|C0|来存放最多|C3|6个力量之星|C0|的礼物！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们同样还会需要|C3|7个光耀棱晶|C0|而非其他颜色。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "但是则是我们的极限了。|L||!|更多的扩张就会需要比一整颗星球那么多的棱晶还要多的能量了。",
+		}
+	],
+	
+	"green_comment"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "妹妹最喜欢则些了。|L|则些的好处是一点都不辣。",
+	},
+	"red_comment"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "你应该多给我则些，因为它们... 呃， |C3|能给我更多力量，|C0|是吖？",
+	},
+	"yellow_comment"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+		"dialog"	: "黄色是种蛮辣的颜色，但是则些一点都不辣。",
+	},
+	"blue_comment"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "蓝色的像辣味水果一样会震动，但是和则种颜色的印象一样，一点都不辣。",
+	},
+	"orange_comment"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "橙色的应该会是辣的，是吖？|L|但实际上非常甜。",
+	},
+	"purple_comment"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_shocked"],
+		"dialog"	: "则些和冰块一样辣！",
+	},
+	"radiant_comment"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+		"dialog"	: "哦哦！|L|则些好闪亮！",
+	},
+	"upgrade_confirm"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "使用则些|C3|棱晶|C0|来升级？",
+	},
+	
+	"first_upgrade" 	: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们有了升级|C3|连接突触|C0|所需的一切。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "当然，我们不需要其他东西...|L|我们已经热身足够可以开始了。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+			"dialog"			: "拥抱！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "好吖，或许则个拥抱会有用。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们的|C3|连接突触|C0|现在能够放得下1颗额外的力量之星了。",
+		}
+	],
+	"middle_upgrade" 	: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们有了升级|C3|连接突触|C0|所需的一切。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "当然，我们不需要其他东西...",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+			"dialog"			: "拥抱！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们的|C3|连接突触|C0|现在能够放得下1颗额外的力量之星了。",
+		}
+	],
+	"final_upgrade" 	: [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "green_scene_music",
+			"bg_image"			: "spr_scene_scrambla_bg",
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们有了升级|C3|连接突触|C0|所需的一切。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "当然，我们不需要其他东西...",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+			"dialog"			: "拥抱！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "我们的|C3|连接突触|C0|现在能够放得下6颗力量之星了！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们将无法再将|C3|连接突触|C0|扩充得比则更大了。",
+		},
+		{
+			"play_music"		: "scene_music_b",
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "我们    想要告诉你某件事。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "我们,   呃,   真的很喜欢你的拥抱。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "只是...|L||!|你要知道...",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_despair"],
+			"dialog"			: "我们知道我们非常烫！",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VO ICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "...哦!|L||!|...呃-|L||!|则个说出来还蛮怪的。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "我们的意思是...",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "我们知道要触碰我们很痛。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "你不应该    触碰我们。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "我们不明白你为什么要则样做。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"play_music"		: "silence",
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+			"dialog"			: "..!",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "我们知道你不会停止尝试。",
+		},
+		{
+			"play_music"		: "green_scene_music",
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "我们知道则颗心会让你|wave|完全失去理智，|norm| 是吖？",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "|wave|我们爱你！",
+		}
+	],
+	
+	"come_back" 		: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们会需要更多力量来让我们的|C3|连接突触|C0|保持开启到则一天结束。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "我们需要大约|C3|6个棱晶|C0|来保持它开启。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+			"dialog"			: "请在我们回来之前不要心碎，好吖？",
+		}
+	],
+	
+	"come_back_confirm"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "我们会使用则些|C3|棱晶，|C0|好吖？",
+	},
+	
+	"come_back_ready" 		: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "好耶！则能够让我们的|C3|连接突触|C0|开启到则一天结束。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_upset"],
+			"dialog"			: "有人想要烧伤你时会和我们说的，是吖？",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_aggressive"],
+			"dialog"			: "如果有人想要烧伤你，我们会向那个人展示这个|shake|无尽的火焰维度，|norm|好吖？！",
+		}
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "离开之前要拥抱吗？",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "哦！|L||!|我们,    呃-",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "..!|L||!|我们爱你！",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		}
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "你看起来有点，呃...   冷，是吖？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
+			"dialog"			: "你是想要一个拥抱吗，锅炉？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "她当然想要我的拥抱。|L||!|谁不会呢？",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "嗯-",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "|shake|好吖!",
+		}
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_aggressive2"],
+			"dialog"			: "我们知道你想要什么，锅炉。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_aggressive"],
+			"dialog"			: "我知道你在想什么，小绿。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_blush"],
+			"dialog"			: "我们,    呃-",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "双倍辣的拥抱！",
+		}
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "你每天都变得更辣了。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
+			"dialog"			: "哦!|L||!|我们    会试着？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "你和火山一样辣！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "那和你的辣度也无法相提并论。",
+		}
+	],
+	
+	"leave_default" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+			"dialog"			: "..!",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "我们爱你！",
+		},
+	],
+
+}

@@ -1,0 +1,465 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+			"dialog"			: "我们希望没有再给你带来麻烦。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "|wave|我们爱你，和你的拥抱！|norm||L||!|我们会帮助你，让你明天能够爱的更好！",
+		}
+	],
+	
+	"came_back_intro" : [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们回来了！|L||!|而且你也没有心碎！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "你一定有着敲棒的礼物！|L||!|我们会确保你明天能够收到！",
+		}
+	],
+	
+	"capacity" 		: "容量",
+	"list_title1"	: "蛋花的连接突触",
+	"list_title2"	: "[NAME]的礼物",
+
+	"op_storage"	: "礼物存储",
+	"op_upgrade"	: "扩充空间",
+	"op_hold"		: "之后再来",
+	"op_leave"		: "离开",
+	
+	"storage_text"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "我们会把你的礼物储存在我们的|C3|连接突触|C0|中，以便隔天再用！",
+	},
+	"upgrade_text"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "我们可以用辣些|C3|闪亮三角|C0|来扩充我们的|C3|连接突触|C0|！",
+	},
+	"hold_text"			: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "我们可以在你与|C3|最终怪物|C0|战斗后回来找你！",
+	},
+	"hold_ready"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],
+		"dialog"	: "我们会等下回来！|L|向我们保证你不会心碎！",
+	},
+	"leave_text"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "我们会拥抱并且说再见！|L|并且，我们还会继续拥抱。",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+		"dialog"	: "你要离开了吗？",
+	},
+	
+	"storage_delete"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+		"dialog"	: "我们可以删除则个礼物来给另一个腾出空间，但那个礼物就没了。",
+	},
+	"delete_confirm"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_normal"],
+		"dialog"	: "你确定想要我们删掉则个礼物？",
+	},
+	"storage_add"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "给我们礼物，我们会把它放进我们的|C3|连接突触|C0|中。",
+	},
+	"storage_full"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_despair"],
+		"dialog"	: "我们的|C3|连接突触|C0|满了！|L|我们必须要删掉礼物才能放得下更多！",
+	},
+	
+	"comment_starter"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+		"dialog"	: "则个礼物现在对你来说太重要了。",
+	},
+	"comment_link"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],
+		"dialog"	: "你早上就带走了则个！|L|收下它会引起悖论...|L|宇宙爆炸那种！",
+	},
+	"comment_one"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "辣真是个可爱的礼物！",
+	},
+	"comment_two"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "辣真是个|wave|漂亮的|norm|礼物!",
+	},
+	"comment_three"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "|wave|哦哦！|norm||L|辣真是奇妙的礼物！",
+	},
+	"comment_TAG_scrambla_fav"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],
+		"dialog"	: "|shake|我们保证不会吃掉则个！",
+	},
+	"comment_TAG_boiler_fav"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "辣是锅炉姐姐最喜欢的食物之一。",
+	},
+	"comment_TAG_scrambla_part"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "|wave|辣是我们的一部分！",
+	},
+	"comment_TAG_boiler_part"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_normal"],
+		"dialog"	: "希望姐姐锅炉没事。",
+	},
+	"comment_I_link_synapse"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "别担心，|wave|辣只是个轻度悖论！",
+	},
+	"comment_duplicate"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "哦！你今天找到了个复制品？|L|那把则些存起来也是安全的。",
+	},
+	"comment_over"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
+		"dialog"	: "则个礼物太强大了，现在放不进去。",
+	},
+	"comment_type"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
+		"dialog"	: "则个礼物的形状不对！|L|我们带不走它。",
+	},
+	"store_confirm"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "你想要我们存储则个礼物吗？",
+	},
+	
+	"gift_stored" 		: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "则个礼物被存好了！|L|明天它会在这里等你！",
+		}
+	],
+	"unradiated_stored" : [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "则个礼物被存好了！|L||!|明天它会在这里等你！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+			"dialog"			: "哦！      则个没有被点亮。|L||!|你记得则是什么吧？",
+		}
+	],
+	
+	"upgrade_to_2" 		: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们可以扩充我们的|C3|连接突触|C0|来存放最多|C3|2个力量之星|C0|的礼物！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
+			"dialog"			: "我们需要任意颜色的|C3|6个闪亮三角形|C0|。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "你可以给我们任意颜色，但则些|C3|绿色的三角形格外美味！|C0|",
+		}
+	],
+	"upgrade_to_3" 		: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们可以扩充我们的|C3|连接突触|C0|来存放最多|C3|3个力量之星|C0|的礼物！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
+			"dialog"			: "我们需要任意颜色的|C3|12个闪亮三角形|C0|。",
+		}
+	],
+	"upgrade_to_4" 		: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们可以扩充我们的|C3|连接突触|C0|来存放最多|C3|4个力量之星|C0|的礼物！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
+			"dialog"			: "我们需要任意颜色的|C3|24个闪亮三角形|C0|。",
+		}
+	],
+	"upgrade_to_5" 		: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们可以扩充我们的|C3|连接突触|C0|来存放最多|C3|5个力量之星|C0|的礼物！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
+			"dialog"			: "我们需要任意颜色的|C3|40个闪亮三角形|C0|。",
+		}
+	],
+	"upgrade_to_6" 		: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们可以扩充我们的|C3|连接突触|C0|来存放最多|C3|6个力量之星|C0|的礼物！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+			"dialog"			: "但是我们几乎要到上限了。|L||!|在则之后我们将无法再扩充我们的|C3|连接突触|C0|。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+			"dialog"			: "我们同样还会需要|C3|7个稀有的彩虹三角形！|C0|",
+		}
+	],
+	
+	"green_comment"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "绿色的格外美味！|L||C3|则些能给我更多力量！",
+	},
+	"red_comment"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "红色的很温暖，并且特别辣。|L|姐姐绝对不会明说，但|wave|她超爱辣些！",
+	},
+	"yellow_comment"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+		"dialog"	: "黄色的闻起来很棒，但没有味道。",
+	},
+	"blue_comment"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_normal"],
+		"dialog"	: "蓝色的有静静的嗡鸣声。|L|你能听到吗？",
+	},
+	"orange_comment"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "橙色的感觉格外柔软。|L|我们喜欢用脸颊去感觉它",
+	},
+	"purple_comment"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],
+		"dialog"	: "啊啊！则些好冰冷！",
+	},
+	"radiant_comment"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
+		"dialog"	: "哦！|L|则些好漂亮！",
+	},
+	"upgrade_confirm"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "用则些|C3|闪亮三角形|C0|升级吗？",
+	},
+	
+	"first_upgrade" 	: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_normal"],
+			"dialog"			: "哦对了，      我们擦点忘了...|L||!|非常重要的事情。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+			"dialog"			: "我们需要一个拥抱来，呃，为则个升级提供能量。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "对，我们需要一个拥抱来为则个升级充能。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "好耶!",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们的|C3|连接突触|C0|现在能够放得下1个额外的力量之星了！",
+		}
+	],
+	"middle_upgrade" 	: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+			"dialog"			: "我们需要一个拥抱来，呃，为则个升级提供能量。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "好耶!",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们的|C3|连接突触|C0|现在能够放得下1个额外的力量之星了！",
+		}
+	],
+	"final_upgrade" 	: [
+		{
+			"use_textbox"		: 1,
+			"play_music"		: "green_scene_music",
+			"bg_image"			: "spr_scene_scrambla_bg",
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+			"dialog"			: "我们需要一个拥抱来，呃，为则个升级提供能量。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "好耶!",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们的|C3|连接突触|C0|现在能够放得下6个力量之星的礼物了！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
+			"dialog"			: "我们将无法再将|C3|连接突触|C0|扩充得比则更大了。",
+		},
+		{
+			"play_music"		: "scene_music_b",
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
+			"dialog"			: "我们必须坦白...|L||!|我们知道我们做了糟糕的事情。|L||!|我们之前伤害过你许多次。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
+			"dialog"			: "我们由羞愧组成，我们必须承认...",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
+			"dialog"			: "我们实际上不需要任何拥抱来为则些升级充能。|L||!|我们只是真的喜欢拥抱。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_despair"],
+			"dialog"			: "我们偷走了你的拥抱！|L||!|我们不值得原谅！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"play_music"		: "silence",
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
+			"dialog"			: "..!",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+			"dialog"			: "你愿意原谅我们吗？",
+		},
+		{
+			"play_music"		: "green_scene_music",
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "|wave|扎拉登太棒了！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "|wave|我们爱你！",
+		}
+	],
+	
+	"come_back" 		: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们可以等下回来，但我们会需要力量来让我们的|C3|连接突触|C0|开启更长时间。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
+			"dialog"			: "我们需要大约|C3|6个闪亮三角形|C0|来让它保持开启。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_normal"],
+			"dialog"			: "但你必须保证在我们回来之前你不会心碎。",
+		}
+	],
+	
+	"come_back_confirm"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "给我们则些|C3|闪亮三角形？|C0|",
+	},
+	
+	"come_back_ready" 		: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "好力！则些能让我们的|C3|连接突触|C0|保持开启到则一天结束。",
+		}
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "我走之前要再拥抱一下吗？",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "|shake|好耶！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "|wave|我们爱你！",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		}
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
+			"dialog"			: "|shake|我们可以从你那得到一个拥抱吗？！",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "当然，蛋花。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "嗯，   如果你坚持的话。|L||!|毕竟我的拥抱是完美的。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
+			"dialog"			: "|shake|哦，是群体抱抱！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
+			"dialog"			: "则可真棒...",
+		}
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "爱你，蛋花！",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_content"],
+			"dialog"			: "快过来，现在。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "双子拥抱！|L||!||wave|我们爱你！",
+		}
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "之后见，蛋花。|L||!|记得保持牙齿尖利，你会的吧？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "|wave|我们爱你！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],
+			"dialog"			: "则个拥抱把你划伤了！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "别担心。|L||!|甚至都没有流血。",
+		}
+	],
+	
+	"leave_default" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "|shake|一个拥抱！好耶！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "好的再见辣。",
+		},
+	],
+
+}

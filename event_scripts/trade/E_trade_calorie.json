@@ -1,0 +1,352 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"random"			: 3,
+			"dialog_rand1"		: "我们能问你件事嘛？",
+			"dialog_rand2"		: "你那边有空嘛？",
+			"dialog_rand3"		: "嘿，有件事能请你帮忙吗？",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "就是...",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+			"random"			: 3,
+			"dialog_rand1"		: "|shake|太热了！",
+			"dialog_rand2"		: "|shake|我们感觉自己着火了！",
+			"dialog_rand3"		: "|shake|我们烧起来了！",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "我们这样可睡不着。|L||!|我们好累...",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+			"dialog"			: "你有任何|C3|寒冷|C0|的东西能给我们吗？",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"dialog"			: "任何东西我们都愿意试一下的，麻烦你了！",
+		},
+	],
+	
+	"intro_defect" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"dialog"			: "你能帮我们个忙吗？",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "我们感觉又热又累。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "哦，我有个主意。|!||L|来，拿住这个。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
+			"dialog"			: "你在做什么？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "她好冷！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "最完美的温度，不是吗？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "我看看还有没有其他|C3|寒冷|C0|的东西给你。",
+		},
+	],
+	
+	"intro_twins" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"dialog"			: "你能帮我们个忙吗？",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "我们感觉又热又累。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
+			"dialog"			: "哦不，她好烫！",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "嘿，阳光——",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "不管你想说什么，你最好别说。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "希望我们有|C3|寒冷|C0|的东西给她。",
+		},
+	],
+	
+	"mood_title"	: "卡洛里的心情",
+	"monster_gifts"	: "卡洛里的礼物",
+	"player_gifts"	: "[NAME]的现有礼物",
+	"player_quicks"	: "[NAME]的快速礼物",
+
+	"op_trade"			: "卡洛里的礼物",
+	"op_give_active"	: "给予现有礼物",
+	"op_give_quick"		: "给予快速礼物",
+	"op_leave"			: "离开",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+		"dialog"	: "我们有礼物给你。|L|小心点！它们可能很烫！",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "为了冷下来我们愿意尝试任何东西。",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_aggressive"],
+		"dialog"	: "如果你有|C3|寒冷药水|C0|，我们会永远爱你。",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+		"dialog"	: "在你离开之后，我们会打个盹。",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+		"dialog"	: "我们没有剩下的礼物了。",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+		"dialog"	: "我们已经冷到能够睡着了。",
+	},
+	"comment_give_empty"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+		"dialog"	: "哎呀，你什么都没有吗？",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "你要离开了吗？",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+		"dialog"	: "请收下这个！",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+		"dialog"	: "我们太热了，我们都看不清这是什么了！",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+		"dialog"	: "等下！虽然很怪，但这有时能帮助我们睡着。",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+		"dialog"	: "你没空间存放了。",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "你很喜欢那个，是吧？",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|我们睡着的时候会想着你的微笑。",
+			"dialog_rand2"		: "虽然有点烧焦了，但应该没事的。",
+			"dialog_rand3"		: "|wave|我们帮你把它暖好了。",
+			"dialog_rand4"		: "希望它也能帮得上你。",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "当然，我们会收下的，如果你不需要的话。",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+		"dialog"	: "这绝对能让我们冷下来！",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+		"dialog"	: "这才是完美的温度！",
+	},
+	"comment_give_TAG_calorie_food"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+		"dialog"	: "我们...真的很想吃掉它！|L|拜托了，我们能收下吗？",
+	},
+	"comment_give_Q_cold_tonic"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+		"dialog"	: "|shake|拜托了，请让我们喝了它！",
+	},
+	"comment_give_dislike"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_angry"],
+		"dialog"	: "我们不需要再升高自己的温度了！",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "对！它消失的时候会留下寒冷的虚空。",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+		"dialog"	: "一点正面情绪来帮助我们睡着。",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+		"dialog"	: "|shake|啊啊!|norm||L|抱歉，我们刚刚想起曾经做过的一个噩梦。",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+		"dialog"	: "我们不再需要它了。",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+		"dialog"	: "我们可不会把那个从你身边拿走。",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+		"dialog"	: "我们真的可以收下吗？",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "我们爱它。",
+			"dialog_rand2"		: "非常感谢你。",
+			"dialog_rand3"		: "你对我们真好。",
+		}
+	],
+	"special_given" 		: [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "终于有寒冷的感觉了。",
+			"dialog_rand2"		: "那感觉真不错。",
+			"dialog_rand3"		: "我们感觉很凉爽。",
+			"dialog_rand4"		: "终于能摆脱热量的侵袭了。",
+		}
+	],
+	"TAG_calorie_food_given" 		: [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+			"dialog"			: "|shake|太美味了。",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "我们爱它。|!||L|这一定能帮助我们睡着的。",
+		}
+	],
+
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "我希望你们能够睡一会。|!||L|我这次不会拥抱你们，好让你们能够凉快下来。",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "哦。",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_aggressive"],
+			"dialog"			: "快过来。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "|wave|我爱你!",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "我们该走了，小蓝。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "我似乎脱不开身。",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "再呆一小会？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
+			"dialog"			: "当然可以...",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "说起来，我的姐姐真的很喜欢蓝色头发的女士。",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"dialog"			: "哦，真的吗？|!||L|要知道，我们...就有蓝发。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_normal"],
+			"dialog"			: "你们在那边聊什么呢？",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
+			"dialog"			: "没什么!",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "我们走啦，小绿。",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "再见，你们俩。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "祝你好梦，卡洛里。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "我喜欢你正义的头发！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "我们糟糕的睡相才有这样的发型！",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+			"dialog"			: "你总是帮助我们冷下来。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "我们现在更容易睡着了。",
+		},
+	],
+
+}

@@ -5,7 +5,7 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_scene_darkness",
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Why do you resist?",
+			"dialog"			: "你为何抵抗？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
@@ -13,11 +13,11 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Everything is alright.|L||!|You are not alone anymore.|L||!|I am here for you.",
+			"dialog"			: "一切都没事了。|L||!|你并非独自一人。|L||!|我在这里，和你一起。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Come here,      be nothing with me.",
+			"dialog"			: "来吧,      和我一起成为虚无。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
@@ -25,39 +25,39 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "...I uh-",
+			"dialog"			: "...我-",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "You have come all this way.|L||!|Do you wish to become nothing?",
+			"dialog"			: "你已经走了这么长的路。|L||!|你想要化为空无吗？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_pain"],
-			"dialog"			: "|shake|No!",
+			"dialog"			: "|shake|不！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
-			"dialog"			: "No,      I don't want that.",
+			"dialog"			: "不,      我不想要那样。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Then    why are you here?",
+			"dialog"			: "那么    你为什么在这里？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "I    don't know.",
+			"dialog"			: "我    不知道。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "You are in pain.    I know this.|L||!|That is the only reason anyone would look for me.",
+			"dialog"			: "你身处痛苦之中。    我知道的。|L||!|所有人来找我都只有这个原因。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry1"],
-			"dialog"			: "Maybe a little,    but that's not why...",
+			"dialog"			: "或许有一点,    但这并非我的理由...",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "|shake|You are alone.",
+			"dialog"			: "|shake|你很孤独。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry2"],
@@ -66,27 +66,27 @@
 		{
 			"play_music"		: "nightmare_music_c",
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
-			"dialog"			: "|C2||shake|Nobody loves you!",
+			"dialog"			: "|C2||shake|没人爱你！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry3"],
-			"dialog"			: "That's not true!    |shake|Stop it!",
+			"dialog"			: "不是这样的！    |shake|停下！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
-			"dialog"			: "|C2||shake|It is true!",
+			"dialog"			: "|C2||shake|就是这样！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2||shake|You are a monster!",
+			"dialog"			: "|C2||shake|你是个怪物！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2||shake|You were left here to DIE!",
+			"dialog"			: "|C2||shake|你被留在这里去死！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry3"],
-			"dialog"			: "|shake|Stop it! Stop it! Stop it!",
+			"dialog"			: "|shake|停下! 停下! 停下!",
 		},
 		{
 			"character"			: ["VOICE_red", "CHAR_totaria_right", "MOOD_smile"],

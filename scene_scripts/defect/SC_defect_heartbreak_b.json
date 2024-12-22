@@ -9,10 +9,10 @@
 			"play_music"		: "game_over_music",
 			"bg_image"			: "spr_defect_heartbreak",
 			"voice"				: "VOICE_veyeral",
-			"dialog"			: "I will help her fix this.",
+			"dialog"			: "我会帮助她修复这一切。",
 		},
 		{
-			"dialog"			: "As many times as it takes!",
+			"dialog"			: "无论这会需要多少次！",
 		}
 	]
 }

@@ -9,25 +9,25 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_defect_end1_1",
 			"voice"				: "VOICE_defect",
-			"dialog"			: "I was given the power to love.",
+			"dialog"			: "我被赐予了爱的力量。",
 		},
 		{
-			"dialog"			: "It was a beautiful feeling.",
+			"dialog"			: "这是一种极为美妙的感觉。",
 		},
 		{
-			"dialog"			: "For a moment, I was happy.",
+			"dialog"			: "有那么一刻，我感到很开心。",
 		},
 		{
-			"dialog"			: "But I don't deserve that power.",
+			"dialog"			: "但我不配得到那种力量。",
 		},
 		{
-			"dialog"			: "I don't deserve that love.",
+			"dialog"			: "我不配得到那种爱。",
 		},
 		{
-			"dialog"			: "I  don't   deserve    any    love.",
+			"dialog"			: "我  不配   得到    任何    爱。",
 		},
 		{
-			"dialog"			: "I    don't...",
+			"dialog"			: "我...",
 		},
 		{
 			"dialog"			: "...",
@@ -36,23 +36,23 @@
 			"use_textbox"		: 1,
 			"play_music"		: "silence",
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "May I ask,       why do you take these Zaraden away?",
+			"dialog"			: "我能否问一下，       你为何要收下那些扎拉登？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "I don't take anything that isn't given to me.",
+			"dialog"			: "我不会收下任何没有被给我的东西。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "They all chose to find me.    They all chose to become nothing.",
+			"dialog"			: "她们全部选择了找到我。    她们全部选择成为空无。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "They all want to be here.",
+			"dialog"			: "她们全都想要在这里。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "Hmm.     Well, as your most beautiful spawn, I regret to inform you that I cannot allow you to take this girl away.",
+			"dialog"			: "唔。     作为你最美丽的衍体，我非常抱歉的通知你，我不会允许你带走这个女孩。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
@@ -60,32 +60,32 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "Do as you wish.    I will not stop you.",
+			"dialog"			: "你想做什么就做吧。    我不会阻止你的。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_cry"],
-			"dialog"			: "It does not matter what you do.",
+			"dialog"			: "你做什么都无所谓。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile_cry"],
-			"dialog"			: "She will be back tomorrow.|L||!|And the next day.|L||!|And the day after that.",
+			"dialog"			: "她明天就会回来的。|L||!|后天也是。|L||!|再后一天也是。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry_cry"],
-			"dialog"			: "You cannot stop her.",
+			"dialog"			: "你无法阻止她。",
 		},
 		{
 			"bg_image"			: "spr_defect_end1_2",
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
-			"dialog"			: "We'll see about that.",
+			"dialog"			: "我们走着瞧吧。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
-			"dialog"			: "I will help her fix this.",
+			"dialog"			: "我会帮助她修复这一切。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
-			"dialog"			: "As many times as it takes!",
+			"dialog"			: "无论这会需要多少次！",
 		}
 	]
 }

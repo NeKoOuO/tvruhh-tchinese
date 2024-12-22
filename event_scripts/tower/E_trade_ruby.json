@@ -1,0 +1,64 @@
+{
+
+	"intro"	: "tower/tower_common_text",
+	"intro_devil" : [
+		{
+			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+			"dialog"			: "该球体与这位扎拉登之间感觉到强烈的共鸣。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "对，其他人一直说恶魔非常容易共鸣。",
+		},
+		{
+			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+			"dialog"			: "其他人有这么说吗?",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "当然会的，在我跟她们说有个球能在脑子里和我说话之后!",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "\"|wave|哦哦,|norm|恶魔如此容易共鸣，我们永远无法理解她的奥妙。\"",
+		},
+		{
+			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+			"dialog"			: "或许你可以向她们展示该球体为你制作的礼物。",
+		},
+	],
+	
+	"mood_title"	: "红宝石的力量",
+	"monster_gifts"	: "红宝石的礼物",
+	"player_gifts"	: "[NAME]的现有礼物",
+
+	"gift_taken"	: "tower/tower_common_text",
+	"gift_given"	: "tower/tower_common_text",
+	"stats_given"	: "tower/tower_common_text",
+	
+	"comment_give_TAG_m_guardian"	: {
+		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+		"dialog"	: "该球体和|C3|守护者|C0|怪物家族的材料有着亲和性。",
+	},
+	"comment_give_TAG_BURN"	: {
+		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+		"dialog"	: "该球体对于|C3|燃烧|C0|的材料有着亲和性。",
+	},
+	"comment_give_TAG_mite"	: {
+		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+		"dialog"	: "该球体对于这个世界中|C3|跳虫|C0|相关的材料有着亲和性。",
+	},
+	"comment_give_TAG_danger"	: {
+		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+		"dialog"	: "该球体对于|C3|尖利与危险|C0|的材料有着亲和性。",
+	},
+	"comment_give_FAV_ruby_part"	: {
+		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+		"dialog"	: "该球体对于她自己的部件有着极强的亲和性。",
+	},
+	
+	
+	
+	"leave_default"	: "tower/tower_common_text",
+
+}

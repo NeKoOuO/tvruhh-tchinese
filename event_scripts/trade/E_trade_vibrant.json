@@ -1,0 +1,277 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "|shake|哦... 呃，你好。",
+			"dialog_rand2"		: "你记得我，   对吧？",
+			"dialog_rand3"		: "|shake|你—你好，    我...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "希望你没事。",
+			"dialog_rand2"		: "|shake|我不想打扰你。",
+			"dialog_rand3"		: "|shake|如果我可以的话，我想要...   帮助你。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+			"dialog"			: "我拥有的礼物可以改变你的|C3|美妙元素。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+			"dialog"			: "你有的任何东西都可以交易，但我会更想要|C3|艺术的|C0|礼物。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "如—如果你觉得可以的话。",
+			"dialog_rand2"		: "呃，     我来给你看看我有什么吧。",
+			"dialog_rand3"		: "这样没问题吗？",
+		},
+	],
+	
+	"mood_title"	: "明艳的情绪",
+	"monster_gifts"	: "明艳的礼物",
+	"player_gifts"	: "[NAME]的现有礼物",
+	"player_quicks"	: "[NAME]的快速礼物",
+
+	"op_trade"			: "明艳的礼物",
+	"op_give_active"	: "给予现有礼物",
+	"op_give_quick"		: "给予快速礼物",
+	"op_leave"			: "离开",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+		"dialog"	: "我有能够交易的礼物!",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+		"dialog"	: "如果你有的话，我想要一些美丽的|C3|艺术礼物。|C0|",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+		"dialog"	: "我可以看看你尚未使用的|C3|快速礼物|C0|吗？",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+		"dialog"	: "如果你要离开的话...",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+		"dialog"	: "我没有更多礼物能给你了，对不起。",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+		"dialog"	: "呃，实际上我现在不需要更多礼物了。",
+	},
+	"comment_give_empty"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+		"dialog"	: "你这里没有任何礼物。",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+		"dialog"	: "你已经要走了吗？",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+		"dialog"	: "你可以收下这个！",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_angry"],
+		"dialog"	: "啊啊，我为什么记不得这是什么了？|L|你应该收下它。",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+		"dialog"	: "我呃... 实际上想留下这个。|L|如果你没问题的话。",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+		"dialog"	: "我觉得你没空间放得下这个了。",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+		"dialog"	: "你想要这个礼物吗？",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|我很高兴能帮忙。",
+			"dialog_rand2"		: "看这让你多开心。",
+			"dialog_rand3"		: "我让你开心起来了吗？",
+			"dialog_rand4"		: "很高兴能够帮助你。",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+		"dialog"	: "如果你不想要的话，我会收下它。",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+		"dialog"	: "|wave|这幅画好漂亮。",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+		"dialog"	: "呃，我永远不可能跟你要这个的。",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+		"dialog"	: "我会在它还在的时候欣赏它。",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+		"dialog"	: "|wave|这感觉真不错。",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+		"dialog"	: "|C3|(刚刚眼神接触太多了吗？)",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+		"dialog"	: "对不起，我现在不需要这个。",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_angry"],
+		"dialog"	: "我没办法把这个从你身边拿走！",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+		"dialog"	: "你想让我收下这个吗？",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "我爱它，谢谢你。",
+			"dialog_rand2"		: "你对我太好了。",
+			"dialog_rand3"		: "|wave|你让我超级开心。",
+			"dialog_rand4"		: "真不敢相信你就把它给我了。",
+		}
+	],
+	"favorite_given" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+			"dialog"			: "你为什么要把这个给我呢？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+			"dialog"			: "它是如此美丽。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+			"dialog"			: "我究竟   做了什么-",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+			"dialog"			: "才配得上如此的幸福？",
+		},
+	],
+
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "你让我的今天更加明亮了。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+			"dialog"			: "|shake|我...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+			"dialog"			: "快停下！你对我太好了！",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+			"dialog"			: "|shake|呃，再见。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "啊，怎么了吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "别含羞，你想要一个完美的拥抱，来自维目尔中最闪耀的那位。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|好耶!",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|你太美了！|!||L||norm|她很漂亮吧，阳光？",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "是呀。你如此的... 闪耀。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+			"dialog"			: "不!|wave|我不相信你!|L||!|我会为此拥抱你的。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_content"],
+			"dialog"			: "哎呀,你真可爱。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
+			"dialog"			: "你知道吗，你看上去像一件美丽的艺术品。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+			"dialog"			: "快停下! |wave|我不要听！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "看起来你的确听到了。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
+			"dialog"			: "谢谢你拜访我！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_sad"],
+			"dialog"			: "呃，我爱你。",
+		},
+	],
+
+}
