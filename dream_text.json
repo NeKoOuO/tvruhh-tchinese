@@ -38,7 +38,9 @@
 		"sub_story_feats"	: "故事功绩",
 		"sub_story_events"	: "故事事件",
 		"sub_monster_events": "怪物事件",
+		"sub_monster_gifts" : "怪物礼物",
 		"sub_monster_trades": "怪物交易",
+		"sub_monster_bonds" : "怪物羁绊",
 		
 		"main_victories"	: "故事胜利",
 		"sub_void_wins"		: "虚空胜利",
@@ -58,6 +60,7 @@
 		
 		"main_towers"		: "高塔梦境",
 		"sub_tower_feats"	: "高塔功绩",
+		"sub_tower_events"	: "高塔事件",
 		"sub_tower_wins"	: "高塔胜利",
 		"sub_tower_medals"	: "高塔徽章",
 		
@@ -73,9 +76,11 @@
 		"sub_zaramech"		: "扎拉机械梦境",
 		"sub_glass"			: "玻璃植物梦境",
 		"sub_veyeral"		: "维目尔梦境",
-		"sub_special"		: "特别梦境",
+		"sub_special"		: "特别怪物梦境",
 		"sub_shiny"			: "闪亮梦境",
 		"sub_nova"			: "超新星梦境",
+		"sub_fallen_hearts"	: "陨落之心梦境",
+		"sub_newborn"		: "新生梦境",
 	},
 
 	"nothing_awaits"  	: "实现等待着你",
@@ -110,6 +115,7 @@
 	"blessing_reward"	: "一个新的祝福礼物可以被找到",
 	"burden_reward"		: "一个新的负担礼物可以被找到",
 	"event_reward"		: "一个新的事件在故事模式中解锁",
+	"event_reward_t"	: "A new event is unlocked for tower mode",
 	"location_reward"	: "一个新的梦域被解锁",
 	"character_reward"	: "一个新角色的故事现已可用",
 	"alter_reward"		: "一个新的异相故事现已可用",
@@ -122,8 +128,7 @@
 	"song_special4"		: "扎拉机械怪物有了一首不同的战斗乐曲",
 	"song_special5"		: "玻璃植物怪物有了一首不同的战斗乐曲",
 	"song_special6"		: "维目尔怪物有了一首不同的战斗乐曲",
-	"spec_panic_karma1"	: "每场战斗使用恐慌攻击吸收至少30个子弹可以额外获得一个因果",
-	"spec_panic_karma2"	: "每场战斗使用恐慌攻击吸收至少100个子弹可以额外获得一个因果",
+	"spec_panic_karma"	: "每场战斗使用恐慌攻击吸收至少[VAL1]个子弹可以额外获得一个因果",
 	"spec_collection"	: "你现在可以在收藏菜单中花费棱晶",
 	"spec_collect_bg"	: "梦域被增加进了收藏菜单",
 	"spec_collect_ev"	: "事件被增加进了收藏菜单",
@@ -147,31 +152,31 @@
 	},
 	"DR_love25" : {
 		"name"    : "怪物倾慕者",
-		"desc"    : "爱了25只怪物",
+		"desc"    : "爱过25只怪物",
 	},
 	"DR_love50" : {
 		"name"    : "怪物拥抱者",
-		"desc"    : "爱了50只怪物",
+		"desc"    : "爱过50只怪物",
 	},
 	"DR_love100" : {
 		"name"    : "怪物爱人",
-		"desc"    : "爱了100只怪物",
+		"desc"    : "爱过100只怪物",
 	},
 	"DR_love250" : {
 		"name"    : "梦魇发烧友",
-		"desc"    : "爱了250只怪物",
+		"desc"    : "爱过250只怪物",
 	},
 	"DR_love500" : {
 		"name"    : "超级怪物发烧友",
-		"desc"    : "爱了500只怪物",
+		"desc"    : "爱过500只怪物",
 	},
 	"DR_love1000" : {
 		"name"    : "万顷之爱",
-		"desc"    : "爱了1000只怪物",
+		"desc"    : "爱过1000只怪物",
 	},
 	"DR_love2500" : {
 		"name"    : "爱之末世",
-		"desc"    : "爱了2500只怪物",
+		"desc"    : "爱过2500只怪物",
 	},
 	"DR_break500" : {
 		"name"    : "让我爱你！",
@@ -215,63 +220,63 @@
 	},
 	"DR_panic3000" : {
 		"name"    : "清除恐惧",
-		"desc"    : "Absorb a total of 3,000 bullets with panic attacks",
+		"desc"    : "使用恐慌攻击共吸收3000颗子弹",
 	},
 	"DR_panic10k" : {
 		"name"    : "弹如雨下",
-		"desc"    : "Absorb a total of 10,000 bullets with panic attacks",
+		"desc"    : "使用恐慌攻击共吸收10000颗子弹",
 	},
 	"DR_shambles4" : {
 		"name"    : "蹒跚悖论",
-		"desc"    : "Love Shamble monsters 8 times",
+		"desc"    : "爱过晃晃怪物们8次",
 	},
 	"DR_shambles_t2" : {
 		"name"    : "密集恐惧症",
-		"desc"    : "Love Shamble monsters 48 times",
+		"desc"    : "爱过晃晃怪物们48次",
 	},
 	"DR_guardians4" : {
 		"name"    : "她的不屈意志",
-		"desc"    : "Love Guardian monsters 8 times",
+		"desc"    : "爱过守护者怪物们8次",
 	},
 	"DR_guardians_t2" : {
 		"name"    : "守护天使",
-		"desc"    : "Love Guardian monsters 48 times",
+		"desc"    : "爱过守护者怪物们48次",
 	},
 	"DR_glyphs4" : {
 		"name"    : "共有排斥",
-		"desc"    : "Love Eyeric Glyph monsters 8 times",
+		"desc"    : "爱过眼睛符文怪物们8次",
 	},
 	"DR_glyphs_t2" : {
 		"name"    : "理论之美",
-		"desc"    : "Love Eyeric Glyph monsters 48 times",
+		"desc"    : "爱过眼睛符文怪物们48次",
 	},
 	"DR_zaramechs4" : {
 		"name"    : "防御机制",
-		"desc"    : "Love Zaramech monsters 8 times",
+		"desc"    : "爱过扎拉机械怪物们8次",
 	},
 	"DR_zaramechs_t2" : {
 		"name"    : "焦虑屹立",
-		"desc"    : "Love Zaramech monsters 48 times",
+		"desc"    : "爱过扎拉机械怪物们48次",
 	},
 	"DR_glass4" : {
 		"name"    : "我的心是透明的",
-		"desc"    : "Love Glass Flora monsters 8 times",
+		"desc"    : "爱过玻璃植物怪物们8次",
 	},
 	"DR_glass_t2" : {
 		"name"    : "染色玻璃的战斗之舞",
-		"desc"    : "Love Glass Flora monsters 48 times",
+		"desc"    : "爱过玻璃植物怪物们48次",
 	},
 	"DR_veyerals4" : {
 		"name"    : "虚空之雨倾泻于你",
-		"desc"    : "Love Veyeral monsters 8 times",
+		"desc"    : "爱过维目尔怪物们8次",
 	},
 	"DR_veyerals_t2" : {
 		"name"    : "暗中独行",
-		"desc"    : "Love Veyeral monsters 48 times",
+		"desc"    : "爱过维目尔怪物们48次",
 	},
 	"DR_specials4" : {
 		"name"    : "狂热梦境",
-		"desc"    : "Love Special monsters 4 times",
+		"desc"    : "爱过特殊怪物们4次",
 	},
 	
 	
@@ -279,111 +284,111 @@
 	
 	"DR_love_unique10" : {
 		"name"    : "聚集之心",
-		"desc"    : "Love 10 unique monsters",
+		"desc"    : "爱过10只不同的怪物",
 	},
 	"DR_love_unique20" : {
 		"name"    : "结识朋友",
-		"desc"    : "Love 20 unique monsters",
+		"desc"    : "爱过20只不同的怪物",
 	},
 	"DR_love_unique30" : {
 		"name"    : "怪物派对",
-		"desc"    : "Love 30 unique monsters",
+		"desc"    : "爱过30只不同的怪物",
 	},
 	"DR_love_unique40" : {
 		"name"    : "怪物舞会",
-		"desc"    : "Love 40 unique monsters",
+		"desc"    : "爱过40只不同的怪物",
 	},
 	"DR_love_unique50" : {
 		"name"    : "怪物节日",
-		"desc"    : "Love 50 unique monsters",
+		"desc"    : "爱过50只不同的怪物",
 	},
 	"DR_love_unique60" : {
 		"name"    : "友谊军队",
-		"desc"    : "Love 60 unique monsters",
+		"desc"    : "爱过60只不同的怪物",
 	},
 	"DR_love_unique70" : {
 		"name"    : "爱之军团",
-		"desc"    : "Love 70 unique monsters",
+		"desc"    : "爱过70只不同的怪物",
 	},
 	"DR_love_unique80" : {
 		"name"    : "虚空中的新星同盟",
-		"desc"    : "Love 80 unique monsters",
+		"desc"    : "爱过80只不同的怪物",
 	},
 	"DR_love_unique90" : {
 		"name"    : "一路上交到的朋友",
-		"desc"    : "Love 90 unique monsters",
+		"desc"    : "爱过90只不同的怪物",
 	},
 	"DR_love_unique100" : {
 		"name"    : "爱到妖怪们了！",
-		"desc"    : "Love 100 unique monsters",
+		"desc"    : "爱过100只不同的怪物",
 	},
 	"DR_FC1" : {
 		"name"    : "全连击！",
-		"desc"    : "Get a 100% full combo in any battle",
+		"desc"    : "在任何战斗中获得100%连击",
 	},
 	"DR_FC7" : {
 		"name"    : "七倍爱恋",
-		"desc"    : "Get a 100% full combo on 7 unique monsters",
+		"desc"    : "在7只不同的怪物上获得100%连击",
 	},
 	"DR_FC21" : {
 		"name"    : "红心A",
-		"desc"    : "Get a 100% full combo on 21 unique monsters",
+		"desc"    : "在21只不同的怪物上获得100%连击",
 	},
 	"DR_FC42" : {
 		"name"    : "爱即为答案",
-		"desc"    : "Get a 100% full combo on 42 unique monsters",
+		"desc"    : "在42只不同的怪物上获得100%连击",
 	},
 	"DR_FC64" : {
 		"name"    : "心形盒子",
-		"desc"    : "Get a 100% full combo on 64 unique monsters",
+		"desc"    : "在64只不同的怪物上获得100%连击",
 	},
 	"DR_FC99" : {
 		"name"    : "非凡九十九",
-		"desc"    : "Get a 100% full combo on 99 unique monsters",
+		"desc"    : "在99只不同的怪物上获得100%连击",
 	},
 	"DR_FC_level8" : {
 		"name"    : "专家级喜爱",
-		"desc"    : "Get a 100% full combo in any level 8 battle or higher",
+		"desc"    : "在任意等级8或以上的战斗中获得100%连击",
 	},
 	"DR_score2500" : {
 		"name"    : "很好的分数",
-		"desc"    : "Score at least 2,500 motes in a single battle",
+		"desc"    : "在一场战斗中获得至少2500分数",
 	},
 	"DR_score5000" : {
 		"name"    : "很棒的分数",
-		"desc"    : "Score at least 5,000 motes in a single battle",
+		"desc"    : "在一场战斗中获得至少5000分数",
 	},
 	"DR_score7500" : {
 		"name"    : "可爱的分数",
-		"desc"    : "Score at least 7,500 motes in a single battle",
+		"desc"    : "在一场战斗中获得至少7500分数",
 	},
 	"DR_score10000" : {
 		"name"    : "奇妙的分数",
-		"desc"    : "Score at least 10,000 motes in a single battle",
+		"desc"    : "在一场战斗中获得至少10000分数",
 	},
 	"DR_score12345" : {
 		"name"    : "光耀分数",
-		"desc"    : "Score at least 12,345 motes in a single battle",
+		"desc"    : "在一场战斗中获得至少12345分数",
 	},
 	"DR_love_same6" : {
 		"name"    : "一辈子的好朋友",
-		"desc"    : "Love any monster a total of 6 times",
+		"desc"    : "爱过任何怪物6次",
 	},
 	"DR_panic100" : {
 		"name"    : "恐慌攻击！",
-		"desc"    : "Absorb at least 100 bullets with a single panic attack",
+		"desc"    : "使用单个恐慌攻击吸收至少100颗子弹",
 	},
 	"DR_perfect_level6" : {
 		"name"    : "无需恐慌",
-		"desc"    : "Defeat a monster without taking damage or using a panic attack in any level 6 battle or higher",
+		"desc"    : "在任何等级6或以上的战斗中，击败怪物并不受到伤害且不使用恐慌攻击",
 	},
 	"DR_many_hits7" : {
 		"name"    : "坚不可摧的爱之大师",
-		"desc"    : "Defeat any monster after taking damage at least 10 times in a single level 7 battle or higher",
+		"desc"    : "在一场等级7或以上的战斗中，在至少受到10次伤害后击败怪物",
 	},
 	"DR_survive5" : {
 		"name"    : "傲娇",
-		"desc"    : "Survive for 5 minutes without defeating the monster in any level 8 battle or higher",
+		"desc"    : "在任何等级8或以上的战斗中，在不击败怪物的情况下存活5分钟",
 	},
 	
 	
@@ -393,262 +398,262 @@
 	
 	"DR_her_heart_trial1" : {
 		"name"    : "她的心:故事爱者",
-		"desc"    : "Love 32 monsters as 她的心 in Story Mode",
+		"desc"    : "作为她的心，在故事模式中爱过32只怪物",
 	},
 	"DR_her_heart_trial2" : {
 		"name"    : "她的心:因果收集",
-		"desc"    : "Earn a total of 555 karma as 她的心 in Story Mode",
+		"desc"    : "作为她的心，在故事模式中收集总共555因果",
 	},
 	"DR_her_heart_trial3" : {
 		"name"    : "她的心:大雨连击",
-		"desc"    : "As 她的心, get a 100% full combo on 3 battles in a row on at least大雨 difficulty",
+		"desc"    : "作为她的心，在至少大雨难度下连续三场战斗中获得100%连击",
 	},
 	"DR_her_heart_trial4" : {
 		"name"    : "她的心:快速虚空",
-		"desc"    : "Defeat The Void as 她的心 in story mode with less than 8 minutes spent in battles",
+		"desc"    : "作为她的心在故事模式中击败虚空，且在所有战斗中花费的总时间不超过8分钟",
 	},
 	"DR_her_heart_trial5" : {
 		"name"    : "她的心:细雨礼物",
-		"desc"    : "As 她的心, receive 21 gifts of any type in a single Story run on at least Light Rain difficulty",
+		"desc"    : "作为她的心，在故事模式中至少细雨难度下单局游戏获得21个任意类型的礼物",
 	},
 	"DR_her_heart_trial6" : {
 		"name"    : "她的心:快速挑战爱者",
-		"desc"    : "Love 8 monsters as 她的心 in Quickplay Mode",
+		"desc"    : "作为她的心，在快速挑战中爱过8只怪物",
 	},
 	"DR_her_heart_trial7" : {
 		"name"    : "她的心:金色的心",
-		"desc"    : "As 她的心, earn at least a Gold Medal in any level 7 Quickplay battle or higher",
+		"desc"    : "作为她的心，在任意等级7或以上快速挑战战斗中至少获得黄金徽章",
 	},
 	"DR_her_heart_trial8" : {
 		"name"    : "她的心:梦魇爱者",
-		"desc"    : "Love 32 monsters as 她的心 in Endless Nightmare",
+		"desc"    : "作为她的心，在无尽梦魇中爱过32只怪物",
 	},
 	"DR_her_heart_trial9" : {
 		"name"    : "她的心:梦魇礼物",
-		"desc"    : "As 她的心, receive 25 gifts of any type in a single run of Endless Nightmare",
+		"desc"    : "作为她的心，在无尽梦魇的单局游戏中获得25个任意类型的礼物",
 	},
 	"DR_her_heart_trial10" : {
 		"name"    : "她的心:快速梦魇",
-		"desc"    : "Clear 2 cycles in Endless Nightmare as 她的心 with less than 12 minutes spent in battles",
+		"desc"    : "作为她的心，在无尽梦魇中通过2个轮次且在所有战斗中花费的总时间不超过12分钟",
 	},
 	"DR_alt_heart_trial1" : {
 		"name"    : "异相之心:三天",
-		"desc"    : "As 异相之心, clear 3 days of Altered Story",
+		"desc"    : "作为异相之心，完成3天的异相故事",
 	},
 	"DR_alt_heart_trial2" : {
 		"name"    : "异相之心:花束",
-		"desc"    : "Earn 33 Rose Medals as 异相之心 in Altered Story",
+		"desc"    : "作为异相之心，在异相故事中获得33个玫瑰徽章",
 	},
 	"DR_alt_heart_trial3" : {
 		"name"    : "异相之心:魔尘提取",
-		"desc"    : "Extract 200,000 total motes as 异相之心 in Altered Story",
+		"desc"    : "作为异相之心，在异相故事中总共提取200000魔尘",
 	},
 	"DR_alt_heart_trial4" : {
 		"name"    : "异相之心:辉光",
-		"desc"    : "As 异相之心, earn a Radiant Medal in any level 9 Quickplay battle or higher",
+		"desc"    : "作为异相之心，在任意等级9或以上快速挑战战斗中获得光耀徽章",
 	},
 	"DR_alt_heart_trial5" : {
 		"name"    : "异相之心:梦魇爱者",
-		"desc"    : "Love 36 monsters as 异相之心 in Endless Nightmare",
+		"desc"    : "作为异相之心，在无尽梦魇中爱过36只怪物",
 	},
 	"DR_alt_heart_trial6" : {
 		"name"    : "异相之心:连击梦魇",
-		"desc"    : "As 异相之心, get a 100% full combo on any 8 battles in a single run of Endless Nightmare",
+		"desc"    : "作为异相之心，在无尽梦魇的单局游戏中任意8场战斗获得100%连击",
 	},
 	
 	"DR_defect_trial1" : {
 		"name"    : "缺陷:无瑕之五",
-		"desc"    : "As 缺陷, do not take damage or use panic attacks for 5 battles in a row in Story Mode",
+		"desc"    : "作为缺陷，在故事模式中连续5场战斗未受到伤害且未使用恐慌攻击",
 	},
 	"DR_defect_trial2" : {
 		"name"    : "缺陷:魔尘提取",
-		"desc"    : "Extract 150,000 total motes from monsters as 缺陷 in Story Mode",
+		"desc"    : "作为缺陷，在故事模式中从怪物处提取总共150000魔尘",
 	},
 	"DR_defect_trial3" : {
 		"name"    : "缺陷:细雨连击保持",
-		"desc"    : "As 缺陷, get a 100% full combo on 4 battles in a row on at least Light Rain difficulty",
+		"desc"    : "作为缺陷，在至少细雨难度下连续四场战斗获得100%连击",
 	},
 	"DR_defect_trial4" : {
 		"name"    : "缺陷:魔尘暴雨",
-		"desc"    : "Score at least 50,000 motes as 缺陷 in a single Story run on Torrent Rain difficulty",
+		"desc"    : "作为缺陷，在暴雨难度下单局游戏获得至少50000魔尘",
 	},
 	"DR_defect_trial5" : {
 		"name"    : "缺陷:大雨礼物",
-		"desc"    : "As 缺陷, receive 18 gifts of any type in a single Story run on at least大雨 difficulty",
+		"desc"    : "作为缺陷，在故事模式中至少大雨难度下单局游戏获得18个任意类型的礼物",
 	},
 	"DR_defect_trial6" : {
 		"name"    : "缺陷:银色的心",
-		"desc"    : "As 缺陷, without equipping any gifts, earn at least a Silver Medal in any level 6 Quickplay battle or higher",
+		"desc"    : "作为缺陷，不装备任何礼物的情况下在等级6或以上的快速挑战战斗中获得至少白银徽章",
 	},
 	"DR_defect_trial7" : {
 		"name"    : "缺陷:极速",
-		"desc"    : "As 缺陷, defeat any monster in less than 15 seconds in a Quickplay battle",
+		"desc"    : "作为缺陷，在快速挑战中15秒内击败任何怪物",
 	},
 	"DR_defect_trial8" : {
 		"name"    : "缺陷:因果收集者",
-		"desc"    : "Earn a total of 777 karma as 缺陷 in Endless Nightmare",
+		"desc"    : "作为缺陷，在无尽梦魇中总共获得777因果",
 	},
 	"DR_defect_trial9" : {
 		"name"    : "缺陷:超越爱者",
-		"desc"    : "Defeat any overleveled monster as 缺陷 in Endless Nightmare",
+		"desc"    : "作为缺陷，在无尽梦魇中击败任意等级超越的怪物",
 	},
 	"DR_defect_trial10" : {
 		"name"    : "缺陷:三连恐惧",
-		"desc"    : "As 缺陷, get a 100% full combo on 3 battles in a row in Endless Terror",
+		"desc"    : "作为缺陷，在无尽恐慌中连续3场战斗获得100%连击",
 	},
 	"DR_alt_defect_trial1" : {
 		"name"    : "异相缺陷:三天",
-		"desc"    : "As 异相缺陷, clear 3 days of Altered Story",
+		"desc"    : "作为异相缺陷，完成3天的异相故事",
 	},
 	"DR_alt_defect_trial2" : {
 		"name"    : "异相缺陷:血之石",
-		"desc"    : "Earn 6 Crimson Medals as 异相缺陷 in Altered Story",
+		"desc"    : "作为异相缺陷，在异相故事中获得6个朱红徽章",
 	},
 	"DR_alt_defect_trial3" : {
 		"name"    : "异相缺陷:完美帮手",
-		"desc"    : "Have 8 Blue Veyeral helpers surrounding 异相缺陷 at once in Altered Story",
+		"desc"    : "在异相故事中，作为异相缺陷在开始战斗时让至少8个蓝色维目尔帮手同时围绕你",
 	},
 	"DR_alt_defect_trial4" : {
 		"name"    : "异相缺陷:双倍辉光",
-		"desc"    : "As 异相缺陷, earn exactly 2 Radiant Medals in a single Ultra Quickplay battle",
+		"desc"    : "作为异相缺陷, 在单场极限快速挑战战斗中获得正好2个光耀徽章",
 	},
 	"DR_alt_defect_trial5" : {
 		"name"    : "异相缺陷:梦魇挑战",
-		"desc"    : "As 异相缺陷, pass 7 challenges in a single run of Endless Nightmare",
+		"desc"    : "作为异相缺陷，在无尽梦魇的单局游戏中通过7个挑战",
 	},
 	"DR_alt_defect_trial6" : {
 		"name"    : "异相缺陷:完美梦魇",
-		"desc"    : "Have 8 Blue Veyeral helpers surrounding 异相缺陷 at once in Endless Nightmare",
+		"desc"    : "在无尽梦魇中，作为异相缺陷在开始战斗时让至少8个蓝色维目尔帮手同时围绕你",
 	},
 	
 	"DR_twin_heart_trial1" : {
 		"name"    : "双子之心:故事爱人",
-		"desc"    : "Love 45 monsters as 双子之心 in Story Mode",
+		"desc"    : "作为双子之心，在故事模式中爱过45只怪物",
 	},
 	"DR_twin_heart_trial2" : {
 		"name"    : "双子之心:细雨因果",
-		"desc"    : "As 双子之心, have at least 90 karma at once in Story Mode on at least Light Rain difficulty",
+		"desc"    : "作为双子之心，在故事模式中至少细雨难度下拥有至少90因果",
 	},
 	"DR_twin_heart_trial3" : {
 		"name"    : "双子之心:全连击",
-		"desc"    : "As 双子之心, get a 100% full combo in 25 battles in Story Mode",
+		"desc"    : "作为双子之心，在故事模式中总共25场战斗获得100%连击",
 	},
 	"DR_twin_heart_trial4" : {
 		"name"    : "双子之心:大雨虚空",
-		"desc"    : "Defeat The Void as 双子之心 in story mode with less than 6 minutes spent in battles on at least大雨 difficulty",
+		"desc"    : "作为双子之心在故事模式中至少大雨难度下击败虚空，且在所有战斗中花费的总时间不超过6分钟",
 	},
 	"DR_twin_heart_trial5" : {
 		"name"    : "双子之心:礼物暴雨",
-		"desc"    : "As 双子之心, receive 14 gifts of any type in a single Story run on Torrent Rain difficulty",
+		"desc"    : "作为双子之心，在故事模式中至少暴雨难度下单局游戏获得14个任意类型的礼物",
 	},
 	"DR_twin_heart_trial6" : {
 		"name"    : "双子之心:高分",
-		"desc"    : "Score at least 6,000 motes as 双子之心 in a single Quickplay battle",
+		"desc"    : "作为双子之心在单场快速挑战战斗中获得至少6000魔尘",
 	},
 	"DR_twin_heart_trial7" : {
 		"name"    : "双子之心:闪耀专注",
-		"desc"    : "As 双子之心, stay in focus for an entire battle and earn a Radiant Medal in any level 5 Quickplay battle or higher",
+		"desc"    : "作为双子之心，在任何等级5或以上的快速挑战战斗中全程保持专注并获得光耀徽章",
 	},
 	"DR_twin_heart_trial8" : {
 		"name"    : "双子之心:魔尘提取",
-		"desc"    : "Extract 220,000 total motes as 双子之心 in Endless Nightmare",
+		"desc"    : "作为双子之心，在无尽梦魇中总共提取22000魔尘",
 	},
 	"DR_twin_heart_trial9" : {
 		"name"    : "双子之心:连击梦魇",
-		"desc"    : "As 双子之心, get a 100% full combo on any 7 battles in a single run of Endless Nightmare",
+		"desc"    : "作为双子之心，在无尽梦魇的单局游戏中任意7场战斗获得100%连击",
 	},
 	"DR_twin_heart_trial10" : {
 		"name"    : "双子之心:跃升恐惧",
-		"desc"    : "As 双子之心, Defeat any level 9 monster before the end of the first cycle in Endless Terror",
+		"desc"    : "作为双子之心，在无尽恐慌第一个轮次结束前击败任何等级9的怪物",
 	},
 	"DR_alt_twin_trial1" : {
 		"name"    : "异相双子:三天",
-		"desc"    : "As 异相双子, clear 3 days of Altered Story",
+		"desc"    : "作为异相双子，完成3天的异相故事",
 	},
 	"DR_alt_twin_trial2" : {
 		"name"    : "异相双子:大雨",
-		"desc"    : "As 异相双子, clear a run of Altered Story on at least大雨 difficulty",
+		"desc"    : "作为异相双子，在至少大雨难度下完成一局异相故事",
 	},
 	"DR_alt_twin_trial3" : {
 		"name"    : "异相双子:友谊链接",
-		"desc"    : "As 异相双子, start a battle with a chain of at least 12 helpers in Altered Story",
+		"desc"    : "作为异相双子，在异相故事中帮手链拥有至少12个帮手并开始战斗",
 	},
 	"DR_alt_twin_trial4" : {
 		"name"    : "异相双子:快速挑战爱者",
-		"desc"    : "Love 12 monsters as 异相双子 in Quickplay Mode",
+		"desc"    : "作为异相双子，在快速挑战模式中爱过12只怪物",
 	},
 	"DR_alt_twin_trial5" : {
 		"name"    : "异相双子:因果收集者",
-		"desc"    : "Earn a total of 444 karma as 异相双子 in Endless Nightmare",
+		"desc"    : "作为异相双子，在无尽梦魇中总共获得444因果",
 	},
 	"DR_alt_twin_trial6" : {
 		"name"    : "异相双子:四重连击",
-		"desc"    : "As 异相双子, get a 100% full combo on 4 battles in a row in Endless Stress",
+		"desc"    : "作为异相双子，在无尽恐慌中连续4场战斗获得100%连击",
 	},
 	
 	"DR_the_devil_trial1" : {
 		"name"    : "恶魔:魔尘提取",
-		"desc"    : "Extract 120,000 total motes as 恶魔 in Story Mode",
+		"desc"    : "作为恶魔，在故事模式中总共提取120000魔尘",
 	},
 	"DR_the_devil_trial2" : {
 		"name"    : "恶魔:因果收集者",
-		"desc"    : "Earn a total of 666 karma as 恶魔 in Story Mode",
+		"desc"    : "作为恶魔，在故事模式中总共获取666因果",
 	},
 	"DR_the_devil_trial3" : {
 		"name"    : "恶魔:大雨挑战",
-		"desc"    : "As 恶魔, pass 4 challenges in a single story run on at least大雨 difficulty",
+		"desc"    : "作为恶魔，在故事模式中至少大雨难度下单局游戏通过4个挑战",
 	},
 	"DR_the_devil_trial4" : {
 		"name"    : "恶魔:零下十",
-		"desc"    : "Defeat a level 10 or higher Totaria as 恶魔 in story mode",
+		"desc"    : "作为恶魔，在故事模式中击败等级10或以上的托塔莉娅",
 	},
 	"DR_the_devil_trial5" : {
 		"name"    : "恶魔:细雨礼物",
-		"desc"    : "As 恶魔, receive 20 gifts of any type in a single Story run on at least Light Rain difficulty",
+		"desc"    : "作为恶魔,在故事模式中至少细雨难度下单局游戏获得20个任意类型的礼物",
 	},
 	"DR_the_devil_trial6" : {
 		"name"    : "恶魔:快速挑战爱者",
-		"desc"    : "Love 15 monsters as 恶魔 in Quickplay Mode",
+		"desc"    : "作为恶魔，在快速挑战中爱过15只怪物",
 	},
 	"DR_the_devil_trial7" : {
 		"name"    : "恶魔:金色的心",
-		"desc"    : "As 恶魔, earn at least a Gold Medal in any level 9 Quickplay battle or higher",
+		"desc"    : "作为恶魔，在任意等级9或以上快速挑战战斗中至少获得黄金徽章",
 	},
 	"DR_the_devil_trial8" : {
 		"name"    : "恶魔:梦魇爱者",
-		"desc"    : "Love 66 monsters as 恶魔 in Endless Nightmare",
+		"desc"    : "作为恶魔，在无尽梦魇中爱过66只怪物",
 	},
 	"DR_the_devil_trial9" : {
 		"name"    : "恶魔:超越爱者",
-		"desc"    : "Defeat any overleveled monster as 恶魔 in Endless Nightmare",
+		"desc"    : "作为恶魔，在无尽梦魇中击败任意等级超越的怪物",
 	},
 	"DR_the_devil_trial10" : {
 		"name"    : "恶魔:梦魇连击",
-		"desc"    : "As 恶魔, get a 100% full combo on 6 battles in a row in Endless Nightmare",
+		"desc"    : "作为恶魔，在无尽梦魇中连续6场战斗获得100%连击",
 	},
 	"DR_alt_devil_trial1" : {
 		"name"    : "异相恶魔:三天",
-		"desc"    : "As 异相恶魔, clear 3 days of Altered Story",
+		"desc"    : "作为异相恶魔，完成3天的异相故事",
 	},
 	"DR_alt_devil_trial2" : {
 		"name"    : "异相恶魔:花束",
-		"desc"    : "Earn 44 Rose Medals as 异相恶魔 in Altered Story",
+		"desc"    : "作为异相恶魔，在异相故事中获得44个玫瑰徽章",
 	},
 	"DR_alt_devil_trial3" : {
 		"name"    : "异相恶魔:超越爱者",
-		"desc"    : "Defeat any overleveled monster as 异相恶魔 in Altered Story",
+		"desc"    : "作为异相恶魔，在异相故事中击败任何等级超越的怪物",
 	},
 	"DR_alt_devil_trial4" : {
 		"name"    : "异相恶魔:高分",
-		"desc"    : "Score at least 7,000 motes as 异相恶魔 in a single Quickplay battle",
+		"desc"    : "作为异相恶魔，在单场快速挑战战斗中获得至少7000魔尘",
 	},
 	"DR_alt_devil_trial5" : {
 		"name"    : "异相恶魔:跃升压力",
-		"desc"    : "As 异相恶魔, Defeat any level 9 monster before the end of the first cycle in Endless Stress",
+		"desc"    : "作为异相恶魔，在无尽恐慌第一个轮次结束前击败任何等级9的怪物",
 	},
 	"DR_alt_devil_trial6" : {
 		"name"    : "异相恶魔:梦魇连击",
-		"desc"    : "As 异相恶魔, get a 100% full combo on 6 battles in a row in Endless Nightmare",
+		"desc"    : "作为异相恶魔，在无尽梦魇中连续6场战斗获得100%连击",
 	},
 	
 	
@@ -657,194 +662,198 @@
 	
 	"DR_tetrid_green25" : {
 		"name"    : "羞愧四面体",
-		"desc"    : "Collect a total of 64 green tetrids",
+		"desc"    : "总共收集64个绿色棱晶",
 	},
 	"DR_tetrid_red25" : {
 		"name"    : "沮丧四面体",
-		"desc"    : "Collect a total of 64 red tetrids",
+		"desc"    : "总共收集64个红色棱晶",
 	},
 	"DR_tetrid_yellow25" : {
 		"name"    : "否认四面体",
-		"desc"    : "Collect a total of 64 yellow tetrids",
+		"desc"    : "总共收集64个黄色棱晶",
 	},
 	"DR_tetrid_blue25" : {
 		"name"    : "焦虑四面体",
-		"desc"    : "Collect a total of 64 blue tetrids",
+		"desc"    : "总共收集64个蓝色棱晶",
 	},
 	"DR_tetrid_orange25" : {
 		"name"    : "不安四面体",
-		"desc"    : "Collect a total of 64 orange tetrids",
+		"desc"    : "总共收集64个橙色棱晶",
 	},
 	"DR_tetrid_purple25" : {
 		"name"    : "孤独四面体",
-		"desc"    : "Collect a total of 64 purple tetrids",
+		"desc"    : "总共收集64个紫色棱晶",
 	},
 	"DR_tetrid_radiant15" : {
 		"name"    : "力量四面体",
-		"desc"    : "Collect a total of 16 radiant tetrids",
+		"desc"    : "总共收集16个光耀棱晶",
 	},
 	"DR_tetrid_all7" : {
 		"name"    : "三角收藏",
-		"desc"    : "Collect a total of 7 tetrids of any colors",
+		"desc"    : "总共收集7个任意颜色的棱晶",
 	},
 	"DR_tetrid_all200" : {
 		"name"    : "200四面体！",
-		"desc"    : "Collect a total of 200 tetrids of any colors",
+		"desc"    : "总共收集200个任意颜色的棱晶",
 	},
 	"DR_tetrid_all400" : {
 		"name"    : "400四面体！",
-		"desc"    : "Collect a total of 400 tetrids of any colors",
+		"desc"    : "总共收集400个任意颜色的棱晶",
 	},
 	"DR_tetrid_all600" : {
 		"name"    : "600四面体！",
-		"desc"    : "Collect a total of 600 tetrids of any colors",
+		"desc"    : "总共收集600个任意颜色的棱晶",
 	},
 	"DR_tetrid_all900" : {
 		"name"    : "900四面体！",
-		"desc"    : "Collect a total of 900 tetrids of any colors",
+		"desc"    : "总共收集900个任意颜色的棱晶",
 	},
 	"DR_tetrid_all_t5" : {
 		"name"    : "1,200四面体！",
-		"desc"    : "Collect a total of 1,200 tetrids of any colors",
+		"desc"    : "总共收集1200个任意颜色的棱晶",
 	},
 	"DR_tetrid_all_t6" : {
 		"name"    : "结晶化的二之恐惧",
-		"desc"    : "Collect a total of 2,020 tetrids of any colors",
+		"desc"    : "总共收集2020个任意颜色的棱晶",
 	},
 	"DR_tetrid_all_t7" : {
 		"name"    : "结晶化的三之恐惧",
-		"desc"    : "Collect a total of 3,330 tetrids of any colors",
+		"desc"    : "总共收集3330个任意颜色的棱晶",
 	},
 	"DR_tetrid_all_t8" : {
 		"name"    : "结晶化的四之恐惧",
-		"desc"    : "Collect a total of 4,444 tetrids of any colors",
+		"desc"    : "总共收集4444个任意颜色的棱晶",
 	},
 	
 	
 	
 	"DR_radiate_monster1" : {
 		"name"    : "闪亮怪物卡",
-		"desc"    : "Radiate 3 monster cards",
+		"desc"    : "点亮3张怪物卡",
 	},
 	"DR_radiate_monster8" : {
 		"name"    : "发光初始卡组",
-		"desc"    : "Radiate 8 monster cards",
+		"desc"    : "点亮8张怪物卡",
 	},
 	"DR_radiate_monster20" : {
 		"name"    : "可爱的怪物卡组",
-		"desc"    : "Radiate 20 monster cards",
+		"desc"    : "点亮20张怪物卡",
 	},
 	"DR_radiate_monster36" : {
 		"name"    : "奇妙的怪物卡组",
-		"desc"    : "Radiate 36 monster cards",
+		"desc"    : "点亮36张怪物卡",
 	},
 	"DR_radiate_monster52" : {
 		"name"    : "闪耀的怪物卡组",
-		"desc"    : "Radiate 52 monster cards",
+		"desc"    : "点亮52张怪物卡",
 	},
 	"DR_radiate_monster70" : {
 		"name"    : "闪耀的爱之军团",
-		"desc"    : "Radiate 70 monster cards",
+		"desc"    : "点亮70张怪物卡",
 	},
 	"DR_radiate_monster99" : {
 		"name"    : "99颗闪亮的心飘在落雨的天空中",
-		"desc"    : "Radiate 99 monster cards",
+		"desc"    : "点亮99张怪物卡",
 	},
 	"DR_radiate_powerful11" : {
 		"name"    : "11等级11",
-		"desc"    : "Radiate 11 monsters that can reach level 11 or higher",
+		"desc"    : "点亮11张能够达到11或更高等级的怪物卡",
+	},
+	"DR_radiate_hearts" : {
+		"name"    : "Waking The Fallen Hearts",
+		"desc"    : "点亮任意四张陨落之心怪物卡",
 	},
 	"DR_radiate_final3" : {
 		"name"    : "稀有怪物卡",
-		"desc"    : "Radiate 3 monster cards that have thorns on them",
+		"desc"    : "点亮3张带有荆棘的怪物卡",
 	},
 	"DR_radiate_final7" : {
 		"name"    : "7张超级怪物卡",
-		"desc"    : "Radiate 7 monster cards that have thorns on them",
+		"desc"    : "点亮7张带有荆棘的怪物卡",
 	},
 	"DR_radiate_gift6" : {
 		"name"    : "一手的闪亮礼物",
-		"desc"    : "Have 6 radiated Power Gift cards",
+		"desc"    : "拥有6张点亮的力量礼物卡",
 	},
 	"DR_radiate_gift30" : {
 		"name"    : "一堆亮晶晶的礼物",
-		"desc"    : "Have 30 radiated Power Gift cards",
+		"desc"    : "拥有30张点亮的力量礼物卡",
 	},
 	"DR_radiate_gift70" : {
 		"name"    : "一垛闪闪发光的礼物",
-		"desc"    : "Have 70 radiated Power Gift cards",
+		"desc"    : "拥有70张点亮的力量礼物卡",
 	},
 	"DR_radiate_gift120" : {
 		"name"    : "一大团发亮的礼物",
-		"desc"    : "Have 120 radiated Power Gift cards",
+		"desc"    : "拥有120张点亮的力量礼物卡",
 	},
 	"DR_radiate_gift180" : {
 		"name"    : "一堆明亮的礼物",
-		"desc"    : "Have 180 radiated Power Gift cards",
+		"desc"    : "拥有180张点亮的力量礼物卡",
 	},
 	"DR_radiate_gift_3star" : {
 		"name"    : "一张稀有的全息卡片！",
-		"desc"    : "Radiate any (3-star) Wonderful Power Gift card",
+		"desc"    : "点亮任何（3星）奇妙力量礼物卡",
 	},
 	"DR_radiate_bonus24" : {
 		"name"    : "闪亮的额外补充包",
-		"desc"    : "Have 24 radiated Bonus Gift cards",
+		"desc"    : "拥有24张点亮的额外礼物卡",
 	},
 	"DR_radiate_bonus48" : {
 		"name"    : "灿烂的额外卡组",
-		"desc"    : "Have 48 radiated Bonus Gift cards",
+		"desc"    : "拥有48张点亮的额外礼物卡",
 	},
 	"DR_radiate_quick20" : {
 		"name"    : "微微发亮的快速礼物",
-		"desc"    : "Have 20 radiated Quick Gift cards",
+		"desc"    : "拥有20张点亮的快速礼物卡",
 	},
 	"DR_radiate_quick50" : {
 		"name"    : "一闪一闪的快速礼物",
-		"desc"    : "Have 50 radiated Quick Gift cards",
+		"desc"    : "拥有50张点亮的快速礼物卡",
 	},
 	"DR_radiate_bounty_t1" : {
 		"name"    : "明亮的奖励",
-		"desc"    : "Have 10 radiated Bounty Gift cards",
+		"desc"    : "拥有10张点亮的奖励礼物卡",
 	},
 	"DR_radiate_bounty_t2" : {
 		"name"    : "美丽的奖励",
-		"desc"    : "Have 30 radiated Bounty Gift cards",
+		"desc"    : "拥有30张点亮的奖励礼物卡",
 	},
 	"DR_radiate_bless_t1" : {
 		"name"    : "但我还是觉得这礼物已经为我上了祝福",
-		"desc"    : "Have 25 radiated Blessing Gift cards",
+		"desc"    : "拥有25张点亮的祝福礼物卡",
 	},
 	"DR_radiate_bless_t2" : {
 		"name"    : "有了朋友们的一点帮助",
-		"desc"    : "Have 100 radiated Blessing Gift cards",
+		"desc"    : "拥有100张点亮的祝福礼物卡",
 	},
 	"DR_radiate_burden_t1" : {
 		"name"    : "让这负担随风而逝",
-		"desc"    : "Have 25 radiated Burden cards",
+		"desc"    : "拥有25张点亮的负担礼物卡",
 	},
 	"DR_radiate_burden_t2" : {
 		"name"    : "这是我的诅咒！",
-		"desc"    : "Have 100 radiated Burden cards",
+		"desc"    : "拥有100张点亮的负担礼物卡",
 	},
 	"DR_radiate_bgs_t1" : {
 		"name"    : "精神相片",
-		"desc"    : "Radiate 12 Dreamscapes",
+		"desc"    : "点亮12个梦域",
 	},
 	"DR_radiate_bgs_t2" : {
 		"name"    : "梦的日记",
-		"desc"    : "Radiate 25 Dreamscapes",
+		"desc"    : "点亮25个梦域",
 	},
 	"DR_radiate_events_t1" : {
 		"name"    : "已知的存在",
-		"desc"    : "Radiate 6 Events",
+		"desc"    : "点亮6个事件",
 	},
 	"DR_radiate_events_t2" : {
 		"name"    : "发现的奇迹",
-		"desc"    : "Radiate 18 Events",
+		"desc"    : "点亮18个事件",
 	},
 	"DR_radiate_events_t3" : {
-		"name"    : "幸运历险",
-		"desc"    : "Radiate 30 Events",
+		"name"    : "幸运的历险",
+		"desc"    : "点亮33个事件",
 	},
 	
 	
@@ -854,206 +863,206 @@
 	
 	"DR_heartbreaks1" : {
 		"name"    : "她会修复它",
-		"desc"    : "Suffer a heartbreak in Story Mode",
+		"desc"    : "在故事模式中承受一次心碎",
 	},
 	"DR_heartbreaks5" : {
 		"name"    : "缺陷的心",
-		"desc"    : "Suffer 5 heartbreaks in Story Mode",
+		"desc"    : "在故事模式中承受5次心碎",
 	},
 	"DR_chapter1" : {
 		"name"    : "一章通关",
-		"desc"    : "Complete 1 Chapter in a single Story run",
+		"desc"    : "在单局故事模式中完成1个章节",
 	},
 	"DR_chapter2" : {
 		"name"    : "两章通关",
-		"desc"    : "Complete 2 Chapters in a single Story run",
+		"desc"    : "在单局故事模式中完成2个章节",
 	},
 	"DR_chapter3" : {
 		"name"    : "三章通关",
-		"desc"    : "Complete 3 Chapters in a single Story run",
+		"desc"    : "在单局故事模式中完成3个章节",
 	},
 	"DR_chapter4" : {
 		"name"    : "四章通关",
-		"desc"    : "Complete 4 Chapters in a single Story run",
+		"desc"    : "在单局故事模式中完成4个章节",
 	},
 	"DR_chapter5" : {
 		"name"    : "五章通关",
-		"desc"    : "Complete 5 Chapters in a single Story run",
+		"desc"    : "在单局故事模式中完成5个章节",
 	},
 	"DR_chapter6" : {
 		"name"    : "六章通关",
-		"desc"    : "Complete 6 Chapters in a single Story run",
+		"desc"    : "在单局故事模式中完成6个章节",
 	},
 	"DR_chapter7" : {
 		"name"    : "七章通关",
-		"desc"    : "Complete 7 Chapters in a single Story run",
+		"desc"    : "在单局故事模式中完成7个章节",
 	},
 	"DR_chapter8" : {
 		"name"    : "八章通关",
-		"desc"    : "Complete 8 Chapters in a single Story run",
+		"desc"    : "在单局故事模式中完成8个章节",
 	},
 	"DR_chapter9" : {
 		"name"    : "九章通关",
-		"desc"    : "Complete 9 Chapters in a single Story run",
+		"desc"    : "在单局故事模式中完成9个章节",
 	},
 	"DR_story_level4" : {
 		"name"    : "等级4细雨",
-		"desc"    : "Love a level 4 or higher monster in Story Mode",
+		"desc"    : "在故事模式中爱过一只等级4或以上的怪物",
 	},
 	"DR_story_level8" : {
 		"name"    : "等级8暴雨",
-		"desc"    : "Love a level 8 or higher monster in Story Mode",
+		"desc"    : "在故事模式中爱过一只等级8或以上的怪物",
 	},
 	"DR_story_level12" : {
 		"name"    : "等级12季风",
-		"desc"    : "Love a level 12 or higher monster in Story Mode",
+		"desc"    : "在故事模式中爱过一只等级12或以上的怪物",
 	},
 	"DR_story_overlevel" : {
 		"name"    : "更远超越",
-		"desc"    : "Love any monster that has overleveled beyond their limit in Story Mode",
+		"desc"    : "在故事模式中爱过任何等级超过上限的怪物",
 	},
 	"DR_story_score20k" : {
 		"name"    : "20,000斑点",
-		"desc"    : "Score at least 20,000 motes in a single Story run",
+		"desc"    : "在单局故事模式中获得至少20000魔尘",
 	},
 	"DR_story_score40k" : {
 		"name"    : "40,000雪片",
-		"desc"    : "Score at least 40,000 motes in a single Story run",
+		"desc"    : "在单局故事模式中获得至少40000魔尘",
 	},
 	"DR_story_score60k" : {
 		"name"    : "60,000碎片",
-		"desc"    : "Score at least 60,000 motes in a single Story run",
+		"desc"    : "在单局故事模式中获得至少60000魔尘",
 	},
 	"DR_story_score80k" : {
 		"name"    : "80,000小点",
-		"desc"    : "Score at least 80,000 motes in a single Story run",
+		"desc"    : "在单局故事模式中获得至少80000魔尘",
 	},
 	"DR_story_score100k" : {
 		"name"    : "魔尘之山",
-		"desc"    : "Score at least 100,000 motes in a single Story run",
+		"desc"    : "在单局故事模式中获得至少100000魔尘",
 	},
 	"DR_story_score120k" : {
 		"name"    : "魔尘之洋",
-		"desc"    : "Score at least 120,000 motes in a single Story run",
+		"desc"    : "在单局故事模式中获得至少120000魔尘",
 	},
 	"DR_story_score140k" : {
 		"name"    : "魔尘星球",
-		"desc"    : "Score at least 140,000 motes in a single Story run",
+		"desc"    : "在单局故事模式中获得至少140000魔尘",
 	},
 	"DR_story_score160k" : {
 		"name"    : "魔尘之星",
-		"desc"    : "Score at least 160,000 motes in a single Story run",
+		"desc"    : "在单局故事模式中获得至少160000魔尘",
 	},
 	"DR_story_score180k" : {
 		"name"    : "魔尘星系",
-		"desc"    : "Score at least 180,000 motes in a single Story run",
+		"desc"    : "在单局故事模式中获得至少180000魔尘",
 	},
 	"DR_story_karma50" : {
 		"name"    : "随机数说服者",
-		"desc"    : "Have at least 50 karma at once in Story Mode",
+		"desc"    : "在故事模式中至少同时拥有50因果",
 	},
 	"DR_story_karma100" : {
 		"name"    : "随机数掌控者?",
-		"desc"    : "Have at least 100 karma at once in Story Mode",
+		"desc"    : "在故事模式中至少同时拥有100因果",
 	},
 	"DR_story_karma150" : {
 		"name"    : "灌铅骰子",
-		"desc"    : "Have at least 150 karma at once in Story Mode",
+		"desc"    : "在故事模式中至少同时拥有150因果",
 	},
 	"DR_story_karma200" : {
 		"name"    : "过度过剩的运气",
-		"desc"    : "Have at least 200 karma at once in Story Mode",
+		"desc"    : "在故事模式中至少同时拥有200因果",
 	},
 	
 	
 	
 	"DR_story_gift13" : {
 		"name"    : "幸运13",
-		"desc"    : "Receive 13 Power Gifts in a single Story run",
+		"desc"    : "在单局故事模式中收到13个力量礼物",
 	},
 	"DR_story_3star_gift1" : {
 		"name"    : "奇妙的礼物",
-		"desc"    : "Receive a (3-star) Wonderful Power Gift in Story Mode",
+		"desc"    : "在故事模式中收到一个（3星）奇妙力量礼物",
 	},
 	"DR_story_3star_gift2" : {
 		"name"    : "大众情人！",
-		"desc"    : "Receive two (3-star) Wonderful Power Gifts in a single Story run",
+		"desc"    : "在单局故事模式中收到两个（3星）奇妙力量礼物",
 	},
 	"DR_story_challenge6" : {
 		"name"    : "一切的左右逢源",
-		"desc"    : "Pass 6 challenges in a single Story run",
+		"desc"    : "在单局故事模式中通过6个挑战",
 	},
 	"DR_challenge100" : {
 		"name"    : "Playing Hard to Love",
-		"desc"    : "Pass a total of 100 challenges in Story Mode",
+		"desc"    : "在故事模式中总共通过100个挑战",
 	},
 	"DR_low_karma" : {
 		"name"    : "这几乎如此容易",
-		"desc"    : "Have 30 karma or less after clearing 2 full sized chapters in a Story run",
+		"desc"    : "在单局故事模式中通关两个完整章节后拥有不大于30的因果",
 	},
 	"DR_story_panic7" : {
 		"name"    : "克制在心",
-		"desc"    : "Have at least 7 panic attacks at once in Story Mode",
+		"desc"    : "在故事模式中至少同时拥有7个恐慌攻击",
 	},
 	"DR_story_panic12" : {
 		"name"    : "宁静于压力之下",
-		"desc"    : "Have at least 12 panic attacks at once in Story Mode",
+		"desc"    : "在故事模式中至少同时拥有12个恐慌攻击",
 	},
 	"DR_low_hp_win" : {
 		"name"    : "她不会放弃",
-		"desc"    : "In Story Mode, start a battle with 4 health or less and win",
+		"desc"    : "在故事模式中，生命值小于等于4点时开始战斗并获胜",
 	},
 	"DR_helpers4" : {
 		"name"    : "盟友列车",
-		"desc"    : "Start a battle with a chain of at least 4 helpers in Story Mode",
+		"desc"    : "在故事模式中，开始战斗时帮手链中有至少4个帮手",
 	},
 	"DR_helpers9" : {
 		"name"    : "不合之链",
-		"desc"    : "Start a battle with a chain of at least 9 helpers in Story Mode",
+		"desc"    : "在故事模式中，开始战斗时帮手链中有至少9个帮手",
 	},
 	"DR_story_radiant" : {
 		"name"    : "太阳镜",
-		"desc"    : "Defeat 7 monsters that can attack with the radiant element in a single Story run",
+		"desc"    : "在单局故事模式中击败7个可使用光耀属性攻击的怪物",
 	},
 	"DR_story_void" : {
 		"name"    : "虚空无效器",
-		"desc"    : "Defeat 7 monsters that can attack with the void element in a single Story run",
+		"desc"    : "在单局故事模式中击败7个可使用虚空属性攻击的怪物",
 	},
 	"DR_story_burn" : {
 		"name"    : "防火墙",
-		"desc"    : "Defeat 7 monsters that can attack with the burn element in a single Story run",
+		"desc"    : "在单局故事模式中击败7个可使用燃烧属性攻击的怪物",
 	},
 	"DR_story_zap" : {
 		"name"    : "避雷针",
-		"desc"    : "Defeat 7 monsters that can attack with the zap element in a single Story run",
+		"desc"    : "在单局故事模式中击败7个可使用电击属性攻击的怪物",
 	},
 	"DR_story_toxic" : {
 		"name"    : "解药",
-		"desc"    : "Defeat 7 monsters that can attack with the toxic element in a single Story run",
+		"desc"    : "在单局故事模式中击败7个可使用毒素属性攻击的怪物",
 	},
 	"DR_flawless3" : {
 		"name"    : "心计",
-		"desc"    : "Do not take damage or use panic attacks for 3 battles in a row in Story Mode",
+		"desc"    : "在故事模式中连续3场战斗未受到伤害或使用恐慌攻击",
 	},
 	"DR_flawless10" : {
 		"name"    : "完美之十",
-		"desc"    : "Do not take damage or use panic attacks for 10 battles in a row in Story Mode",
+		"desc"    : "在故事模式中连续10场战斗未受到伤害或使用恐慌攻击",
 	},
 	"DR_flawless_heavy10" : {
 		"name"    : "有如神助",
-		"desc"    : "Do not take damage or use panic attacks for 10 battles in a row on at least大雨 difficulty",
+		"desc"    : "在至少大雨难度下连续10场战斗未受到伤害或使用恐慌攻击",
 	},
 	"DR_fc_streak3" : {
 		"name"    : "三倍豪华",
-		"desc"    : "Get a 100% full combo on 3 battles in a row in Story Mode",
+		"desc"    : "在故事模式中连续3场战斗获得100%连击",
 	},
 	"DR_fc_streak7" : {
 		"name"    : "超级七联体",
-		"desc"    : "Get a 100% full combo on 7 battles in a row in Story Mode",
+		"desc"    : "在故事模式中连续7场战斗获得100%连击",
 	},
 	"DR_torrent_fc3" : {
 		"name"    : "暴雨三连",
-		"desc"    : "Get a 100% full combo on 3 battles in a row on Torrent Rain difficulty",
+		"desc"    : "在暴雨难度下连续3场战斗获得100%连击",
 	},
 	
 	
@@ -1062,267 +1071,279 @@
 	
 	"DR_find_events" : {
 		"name"    : "随机遭遇",
-		"desc"    : "Encounter 7 unique events of any kind",
+		"desc"    : "遭遇7个不同的任意种类事件",
 	},
 	"DR_monster_events" : {
 		"name"    : "不同的美丽面庞",
-		"desc"    : "Encounter 12 unique events that are hosted by monsters",
+		"desc"    : "遭遇12个不同的怪物主导事件",
 	},
 	"DR_monster_events_t2" : {
 		"name"    : "Scary Monsters and Lovely Creeps",
-		"desc"    : "Encounter 25 unique events that are hosted by monsters",
+		"desc"    : "遭遇25个不同的怪物主导事件",
 	},
 	"DR_leave_free_gift" : {
 		"name"    : "孤独的礼物",
-		"desc"    : "Leave the free gift behind",
+		"desc"    : "留下免费礼物",
 	},
 	"DR_take_free_key" : {
 		"name"    : "通往爱的钥匙",
-		"desc"    : "Take the free heart key",
+		"desc"    : "带走免费的心型钥匙",
 	},
 	"DR_self_doubt_max" : {
 		"name"    : "放心休息",
-		"desc"    : "Cure all self doubt by lowering the difficulty 3 times in a single rest",
+		"desc"    : "在单次休息中降低难度3次以治愈所有的自我怀疑",
 	},
 	"DR_garden_motes_t1" : {
 		"name"    : "亮晶晶的土壤",
-		"desc"    : "Collect 2,500 radiant motes from the radiant garden",
+		"desc"    : "从光耀花园处收集2500光耀魔尘",
 	},
 	"DR_garden_motes_t2" : {
 		"name"    : "恐惧症光合作用",
-		"desc"    : "Collect 10,000 radiant motes from the radiant garden",
+		"desc"    : "从光耀花园处收集10000光耀魔尘",
 	},
 	"DR_garden_motes_t3" : {
 		"name"    : "植物渴望什么！",
-		"desc"    : "Collect 30,000 radiant motes from the radiant garden",
+		"desc"    : "从光耀花园处收集30000光耀魔尘",
 	},
 	"DR_garden_blessing" : {
 		"name"    : "花园的呼唤",
-		"desc"    : "Accept the radiant garden's blessing",
+		"desc"    : "接受光耀花园的祝福",
 	},
 	"DR_anomaly_win" : {
 		"name"    : "秘密仰慕者",
-		"desc"    : "Defeat Anomaly in Story Mode",
+		"desc"    : "在故事模式中击败异常",
 	},
 	"DR_nix_polyps_win" : {
 		"name"    : "别忘记呼吸",
-		"desc"    : "Defeat Nix Polyps in Story Mode",
+		"desc"    : "在故事模式中击败倪克斯之瘤",
 	},
 	"DR_nova_win" : {
 		"name"    : "Boss Rush in my Boss Rush",
-		"desc"    : "Defeat Nova in Story Mode",
+		"desc"    : "在故事模式中击败超新星",
 	},
 	
 	
 	"DR_lulu_gift" : {
 		"name"    : "Known Unknowns",
-		"desc"    : "Accept Unit Lulu's special free gift",
+		"desc"    : "接受单元露露的特别免费礼物",
 	},
 	"DR_heliola_gift" : {
 		"name"    : "Mrs. Brightside",
-		"desc"    : "Accept Heliola's special free gift",
+		"desc"    : "接受赫日欧拉的特别免费礼物",
 	},
 	"DR_synapse_first" : {
 		"name"    : "To My Future Self",
-		"desc"    : "Put any gift into the link synapse",
+		"desc"    : "将任意礼物放入连接突触",
 	},
 	"DR_synapse_three" : {
 		"name"    : "Tomorrow is Already Loved",
-		"desc"    : "Put any (3-star) Wonderful Power Gift into the link synapse",
+		"desc"    : "将任意（3星）奇妙力量礼物放入连接突触",
 	},
 	"DR_max_scrambla" : {
 		"name"    : "Fully Scrambled",
-		"desc"    : "Fully upgrade Scrambla's link synapse",
+		"desc"    : "完全升级蛋花的连接突触",
 	},
 	"DR_max_boiler" : {
 		"name"    : "Maximum Spicy!",
-		"desc"    : "Fully upgrade Boiler's link synapse",
+		"desc"    : "完全升级锅炉的连接突触",
 	},
 	"DR_double_starter" : {
 		"name"    : "Mild Paradox",
-		"desc"    : "Take 2 of the same gift out of the link synapse",
+		"desc"    : "将两个同样的礼物从连接突触中取出",
 	},
 	"DR_super_starter" : {
 		"name"    : "Self Confidence",
-		"desc"    : "Love the very first monster of a Story run with three (3-star) Wonderful Power Gifts already equipped",
+		"desc"    : "在故事模式中已经装备3个（3星）奇妙力量礼物的情况下击败第一只怪物",
 	},
 	"DR_blot_spend" : {
 		"name"    : "The Cutest Art Collector",
-		"desc"    : "Spend 45 tokens at Blot's Art Gallery",
+		"desc"    : "在墨点的艺术馆花费45代币",
 	},
 	"DR_blot_donate" : {
 		"name"    : "Blot's Patron",
-		"desc"    : "Donate any 5 gifts to Blot's Art Gallery",
+		"desc"    : "向墨点的艺术馆捐赠任意5个礼物",
 	},
 	"DR_blot_3star" : {
 		"name"    : "Wonderfully Generous",
-		"desc"    : "Donate a (3-star) Wonderful Power Gift to Blot's Art Gallery",
+		"desc"    : "向墨点的艺术馆捐赠1个（3星）奇妙力量礼物",
 	},
 	"DR_vitrea_gifts" : {
 		"name"    : "I Feel It, I Feel The Cosmos!",
-		"desc"    : "Capture 12 cosmic gifts with the telescopes in Vitrea's Observatory",
+		"desc"    : "在琉璃的天文观测所中使用天文望远镜捕捉12个宇宙礼物",
 	},
 	"DR_vitrea_donate" : {
 		"name"    : "Did You Know?",
-		"desc"    : "Donate 5 cosmic gifts to Vitrea's Observatory",
+		"desc"    : "向琉璃的天文观测所捐赠5个宇宙礼物",
 	},
 	"DR_vitrea_upgrade" : {
 		"name"    : "Vitrea's Secret",
-		"desc"    : "Fully upgrade the backroom dimension in Vitrea's Observatory",
+		"desc"    : "完全升级琉璃的天文观测所中的里屋维度",
 	},
 	"DR_quiz_round1" : {
 		"name"    : "You Passed!",
-		"desc"    : "Clear the first round of Sentinel's Quiz",
+		"desc"    : "通过哨卫问答的第一轮",
 	},
 	"DR_quiz_round2" : {
 		"name"    : "Extra Credit!",
-		"desc"    : "Clear round two of Sentinel's Quiz",
+		"desc"    : "通过哨卫问答的第二轮",
 	},
 	"DR_quiz_round3" : {
 		"name"    : "A++",
-		"desc"    : "Clear the final round of Sentinel's Quiz",
+		"desc"    : "通过哨卫问答的最终轮",
 	},
 	"DR_quiz_answer_t1" : {
 		"name"    : "Void Smart",
-		"desc"    : "Answer a total of 20 questions correctly in Sentinel's Quiz",
+		"desc"    : "在哨卫问答中总共正确回答20个问题",
 	},
 	"DR_quiz_answer_t2" : {
 		"name"    : "Forbidden Knowledge",
-		"desc"    : "Answer a total of 50 questions correctly in Sentinel's Quiz",
+		"desc"    : "在哨卫问答中总共正确回答50个问题",
 	},
-	"DR_bonding_time1" : {
-		"name"    : "Time's Up Already?",
-		"desc"    : "Complete a Bonding Time event for the first time",
-	},
-	"DR_bonding_t1" : {
-		"name"    : "5 Bonding Time Gifts",
-		"desc"    : "Accept a total of 5 gifts from any Bonding Time events",
-	},
-	"DR_bonding_t2" : {
-		"name"    : "30 Bonding Time Gifts",
-		"desc"    : "Accept a total of 30 gifts from any Bonding Time events",
-	},
-	"DR_bonding_t3" : {
-		"name"    : "90 Bonding Time Gifts",
-		"desc"    : "Accept a total of 90 gifts from any Bonding Time events",
-	},
-	"DR_bonding_kiwi" : {
-		"name"    : "A Critical Roll!",
-		"desc"    : "Get a total of 20 critical hits or full heals in Kiwi's game",
-	},
-	"DR_bonding_split" : {
-		"name"    : "Veyeral Games",
-		"desc"    : "Win 5 of Split Veyeral's minigames",
-	},
-	"DR_bonding_voltage" : {
-		"name"    : "Can't Resist the Current",
-		"desc"    : "Fully charge or fully discharge Voltage Veyeral 4 times",
-	},
-	
+
 	
 	"DR_trade_t1" : {
 		"name"    : "12 Trades!",
-		"desc"    : "Accept a total of 12 traded gifts from any monsters",
+		"desc"    : "从任意怪物手中总共收下12个交易得来的礼物",
 	},
 	"DR_trade_t2" : {
 		"name"    : "24 Trades!",
-		"desc"    : "Accept a total of 24 traded gifts from any monsters",
+		"desc"    : "从任意怪物手中总共收下24个交易得来的礼物",
 	},
 	"DR_trade_t3" : {
 		"name"    : "48 Trades!",
-		"desc"    : "Accept a total of 48 traded gifts from any monsters",
+		"desc"    : "从任意怪物手中总共收下48个交易得来的礼物",
 	},
 	"DR_calorie_take" : {
 		"name"    : "Cool Side of the Pillow",
-		"desc"    : "Accept any traded gift from Calorie",
+		"desc"    : "从卡洛里处收下任何交易得来的礼物",
 	},
 	"DR_lila_give" : {
 		"name"    : "Feed the Eyeball",
-		"desc"    : "Feed Lila any gift",
+		"desc"    : "给莱拉喂任意礼物",
 	},
 	"DR_hematoren_give" : {
 		"name"    : "I Bleed It Out",
-		"desc"    : "Donate at least 10 max health to Hematoren in a single visit",
+		"desc"    : "在单次拜访中向血玛托壬捐献至少10点最大生命值",
 	},
 	"DR_chemory_give" : {
 		"name"    : "A Chemical Romance",
-		"desc"    : "Give Chemory any 2 gifts",
+		"desc"    : "给予切莫里任意2个礼物",
 	},
 	"DR_hadesoh_burden" : {
 		"name"    : "Pathetic, Wasted, Soulless, Compromised",
-		"desc"    : "Take 4 burdens from Hadesoh in a single visit",
+		"desc"    : "在单次拜访中从炼狱之梭处收下4个负担",
 	},
 	"DR_monovai_take" : {
 		"name"    : "Screaming for Vengeance",
-		"desc"    : "Accept any traded gift from Monovai",
+		"desc"    : "从寞诺唯处收下任何交易得来的礼物",
 	},
 	"DR_prisma_take" : {
 		"name"    : "Double Take",
-		"desc"    : "Accept 2 traded gifts from Prisma in a single visit",
+		"desc"    : "在单次拜访中从棱镜处收下2个交易得来的礼物",
 	},
 	"DR_glacia_give" : {
 		"name"    : "The Gift of Giving",
-		"desc"    : "Give Glacia any gift",
+		"desc"    : "给予星川任意礼物",
 	},
 	"DR_frozen_give" : {
 		"name"    : "Just Warming Up",
-		"desc"    : "Give Frozen Veyeral any gift",
+		"desc"    : "给予冰封维目尔任意礼物",
 	},
 	"DR_vibrant_take" : {
 		"name"    : "Vibrant Trade",
-		"desc"    : "Accept any traded gift from Vibrant Veyeral",
+		"desc"    : "从活力维目尔处收下任意交易得来的礼物",
 	},
+	
+	
 	"DR_visit_t1" : {
 		"name"    : "8 Free Gifts!",
-		"desc"    : "Receive a total of 8 free gifts from any monsters",
+		"desc"    : "从任意怪物手中总共收下8个免费礼物",
 	},
 	"DR_visit_t2" : {
 		"name"    : "16 Free Gifts!",
-		"desc"    : "Receive a total of 16 free gifts from any monsters",
+		"desc"    : "从任意怪物手中总共收下16个免费礼物",
 	},
 	"DR_visit_t3" : {
 		"name"    : "32 Free Gifts!",
-		"desc"    : "Receive a total of 32 free gifts from any monsters",
+		"desc"    : "从任意怪物手中总共收下32个免费礼物",
 	},
 	"DR_amalga_visit" : {
 		"name"    : "Coming Undone",
-		"desc"    : "Accept 4 free gifts from Amalga",
+		"desc"    : "从阿玛加手中收下4个免费礼物",
 	},
 	"DR_roundsaw_visit" : {
 		"name"    : "Free Hug With Every Sawblade",
-		"desc"    : "Accept a free gift from Roundsaw",
+		"desc"    : "从圆锯手中收下1个免费礼物",
 	},
 	"DR_photoxai_visit" : {
 		"name"    : "Worth a Thousand Words",
-		"desc"    : "Accept a free gift from Photoxai",
+		"desc"    : "从光影之楔手中收下1个免费礼物",
 	},
 	"DR_ombroah_visit" : {
 		"name"    : "Under My Umbrella",
-		"desc"    : "Accept a free gift from Ombroah",
+		"desc"    : "从雨布罗阿手中收下1个免费礼物",
 	},
 	"DR_astrayo_visit" : {
 		"name"    : "Thunderstruck",
-		"desc"    : "Accept a free gift from Astrayo",
+		"desc"    : "从雷斯塔尤手中收下1个免费礼物",
 	},
 	"DR_null_unit_visit" : {
 		"name"    : "Saving It For a Rainy Day",
-		"desc"    : "Accept a free gift from Null Unit",
+		"desc"    : "从空无单元手中收下1个免费礼物",
 	},
 	"DR_flip_flap_visit" : {
 		"name"    : "Pure Affection",
-		"desc"    : "Accept 2 free gifts from Flip Flap",
+		"desc"    : "从噼里啪啦手中收下2个免费礼物",
 	},
 	"DR_pearl_visit" : {
 		"name"    : "Polished Affect",
-		"desc"    : "Accept a free gift from Pearl",
+		"desc"    : "从珍珠手中收下1个免费礼物",
 	},
 	"DR_burning_visit" : {
 		"name"    : "Extra Crispy",
-		"desc"    : "Accept a free gift from Burning Veyeral",
+		"desc"    : "从燃烧维目尔手中收下1个免费礼物",
 	},
 	"DR_venom_visit" : {
 		"name"    : "Pour Some Venom On Me",
-		"desc"    : "Accept a free gift from Venom Veyeral",
+		"desc"    : "从剧毒维目尔手中收下1个免费礼物",
+	},
+	
+	
+	"DR_bonding_time1" : {
+		"name"    : "Time's Up Already?",
+		"desc"    : "第一次完成羁绊时间事件",
+	},
+	"DR_bonding_t1" : {
+		"name"    : "5 Bonding Time Gifts",
+		"desc"    : "从任意羁绊时间事件中总共接受5个礼物",
+	},
+	"DR_bonding_t2" : {
+		"name"    : "15 Bonding Time Gifts",
+		"desc"    : "从任意羁绊时间事件中总共接受15个礼物",
+	},
+	"DR_bonding_t3" : {
+		"name"    : "40 Bonding Time Gifts",
+		"desc"    : "从任意羁绊时间事件中总共接受40个礼物",
+	},
+	"DR_bonding_t4" : {
+		"name"    : "90 Bonding Time Gifts",
+		"desc"    : "从任意羁绊时间事件中总共接受90个礼物",
+	},
+	"DR_bonding_dot" : {
+		"name"    : "I Know The Pieces Fit",
+		"desc"    : "Get a 90% rating or higher on 4 of Dot's hugs in a single visit",
+	},
+	"DR_bonding_kiwi" : {
+		"name"    : "A Critical Roll!",
+		"desc"    : "在几维的游戏中达成20次暴击或全回复",
+	},
+	"DR_bonding_split" : {
+		"name"    : "Veyeral Games",
+		"desc"    : "赢下5次分裂维目尔的小游戏",
+	},
+	"DR_bonding_voltage" : {
+		"name"    : "Can't Resist the Current",
+		"desc"    : "将高压维目尔完全充电或放电4次",
 	},
 	
 	
@@ -1330,101 +1351,101 @@
 	
 	"DR_blank_void_win" : {
 		"name"    : "Bring An Umbrella",
-		"desc"    : "Complete The Void's story path as 她的心",
+		"desc"    : "作为她的心，完成虚空的故事线",
 	},
 	"DR_defect_void_win" : {
 		"name"    : "How Do You Love Disorder?",
-		"desc"    : "Complete The Void's story path as 缺陷",
+		"desc"    : "作为缺陷，完成虚空的故事线",
 	},
 	"DR_twin_void_win" : {
 		"name"    : "Alone Together",
-		"desc"    : "Complete The Void's story path as 双子之心",
+		"desc"    : "作为双子之心，完成虚空的故事线",
 	},
 	"DR_devil_void_win" : {
 		"name"    : "Wrong Side of Heaven",
-		"desc"    : "Complete The Void's story path as 恶魔",
+		"desc"    : "作为恶魔，完成虚空的故事线",
 	},
 	"DR_void_wins2" : {
 		"name"    : "Nothing Times Two",
-		"desc"    : "Complete The Void's story path 2 times as any characters",
+		"desc"    : "作为任意角色，完成虚空的故事线2次",
 	},
 	"DR_void_wins3" : {
 		"name"    : "Nothing Times Three",
-		"desc"    : "Complete The Void's story path 3 times as any characters",
+		"desc"    : "作为任意角色，完成虚空的故事线3次",
 	},
 	"DR_void_wins5" : {
 		"name"    : "Nothing Times Five",
-		"desc"    : "Complete The Void's story path 5 times as any characters",
+		"desc"    : "作为任意角色，完成虚空的故事线5次",
 	},
 	"DR_void_heavy" : {
 		"name"    : "The Void: Heavy",
-		"desc"    : "Complete The Void's story path as any character on the大雨 difficulty",
+		"desc"    : "作为任意角色，在大雨难度下完成虚空的故事线",
 	},
 	"DR_void_torrent" : {
 		"name"    : "The Void: Torrent",
-		"desc"    : "Complete The Void's story path as any character on the Torrent Rain difficulty",
+		"desc"    : "作为任意角色，在暴雨难度下完成虚空的故事线",
 	},
 	
 	"DR_blank_totaria_win" : {
 		"name"    : "Fallen Angel",
-		"desc"    : "Complete Totaria's story path as 她的心",
+		"desc"    : "作为她的心，完成托塔莉娅的故事线",
 	},
 	"DR_defect_totaria_win" : {
 		"name"    : "The Infection Must Die!",
-		"desc"    : "Complete Totaria's story path as 缺陷",
+		"desc"    : "作为缺陷，完成托塔莉娅的故事线",
 	},
 	"DR_twin_totaria_win" : {
 		"name"    : "Can't Pull Us Apart",
-		"desc"    : "Complete Totaria's story path as 双子之心",
+		"desc"    : "作为双子之心，完成托塔莉娅的故事线",
 	},
 	"DR_devil_totaria_win" : {
 		"name"    : "Righteous Side of Hell",
-		"desc"    : "Complete Totaria's story path as 恶魔",
+		"desc"    : "作为恶魔，完成托塔莉娅的故事线",
 	},
 	"DR_totaria_wins2" : {
 		"name"    : "Negative Two",
-		"desc"    : "Complete Totaria's story path 2 times as any characters",
+		"desc"    : "作为任意角色，完成托塔莉娅的故事线2次",
 	},
 	"DR_totaria_wins3" : {
 		"name"    : "Negative Three",
-		"desc"    : "Complete Totaria's story path 3 times as any characters",
+		"desc"    : "作为任意角色，完成托塔莉娅的故事线3次",
 	},
 	"DR_totaria_heavy" : {
 		"name"    : "Totaria: Heavy",
-		"desc"    : "Complete Totaria's story path as any character on the大雨 difficulty",
+		"desc"    : "作为任意角色，在大雨难度下完成托塔莉娅的故事线",
 	},
 	"DR_totaria_torrent" : {
 		"name"    : "Totaria: Torrent",
-		"desc"    : "Complete Totaria's story path as any character on the Torrent Rain difficulty",
+		"desc"    : "作为任意角色，在暴雨难度下完成托塔莉娅的故事线",
 	},
 	
 	"DR_blank_blue_win" : {
 		"name"    : "The Perfect Veyeral",
-		"desc"    : "Complete Blue Veyeral's story path as 她的心",
+		"desc"    : "作为她的心，完成蓝色维目尔的故事线",
 	},
 	"DR_defect_blue_win" : {
 		"name"    : "My Best Veyeral",
-		"desc"    : "Complete Blue Veyeral's story path as 缺陷",
+		"desc"    : "作为缺陷，完成蓝色维目尔的故事线",
 	},
 	"DR_twin_blue_win" : {
 		"name"    : "Group Hug",
-		"desc"    : "Complete Blue Veyeral's story path as 双子之心",
+		"desc"    : "作为双子之心，完成蓝色维目尔的故事线",
 	},
 	"DR_devil_blue_win" : {
 		"name"    : "Wrathful Pride",
-		"desc"    : "Complete Blue Veyeral's story path as 恶魔",
+		"desc"    : "作为恶魔，完成蓝色维目尔的故事线",
 	},
 	"DR_blue_wins2" : {
 		"name"    : "Two Perfect",
-		"desc"    : "Complete Blue Veyeral's story path 2 times as any characters",
+		"desc"    : "作为任意角色，完成蓝色维目尔的故事线2次",
 	},
 	"DR_blue_heavy" : {
 		"name"    : "Blue Veyeral: Heavy",
-		"desc"    : "Complete Blue Veyeral's story path as any character on the大雨 difficulty",
+		"desc"    : "作为任意角色，在大雨难度下完成蓝色维目尔的故事线",
 	},
 	"DR_blue_torrent" : {
 		"name"    : "Blue Veyeral: Torrent",
-		"desc"    : "Complete Blue Veyeral's story path as any character on the Torrent Rain difficulty",
+		"desc"    : "作为任意角色，在暴雨难度下完成蓝色维目尔的故事线",
 	},
 	
 	
@@ -1433,169 +1454,169 @@
 	
 	"DR_alter_light" : {
 		"name"    : "Unusual Drizzle",
-		"desc"    : "Complete a day of Altered Story on the Light Rain difficulty",
+		"desc"    : "在细雨难度下，完成异相故事的一天",
 	},
 	"DR_alter_heavy" : {
 		"name"    : "Peculiar Rainstorm",
-		"desc"    : "Complete a day of Altered Story on the大雨 difficulty",
+		"desc"    : "在大雨难度下，完成异相故事的一天",
 	},
 	"DR_alter_torrent" : {
 		"name"    : "Extraordinary Monsoon",
-		"desc"    : "Complete a day of Altered Story on the Torrent Rain difficulty",
+		"desc"    : "在暴雨难度下，完成异相故事的一天",
 	},
 	"DR_alter_wins_t1" : {
 		"name"    : "Day After Tomorrow",
-		"desc"    : "Complete a total of 3 days in Altered Story",
+		"desc"    : "在异相故事中总共完成3天",
 	},
 	"DR_alter_wins_t2" : {
 		"name"    : "Eight Days a Week",
-		"desc"    : "Complete a total of 8 days in Altered Story",
+		"desc"    : "在异相故事中总共完成8天",
 	},
 	"DR_alter_wins_t3" : {
 		"name"    : "Altered Fortnight",
-		"desc"    : "Complete a total of 16 days in Altered Story",
+		"desc"    : "在异相故事中总共完成16天",
 	},
 	"DR_alter_wins_t4" : {
 		"name"    : "28 Altered Days Later",
-		"desc"    : "Complete a total of 28 days in Altered Story",
+		"desc"    : "在异相故事中总共完成28天",
 	},
 	"DR_alter_extra" : {
 		"name"    : "Strange Flood",
-		"desc"    : "In Altered Story, have Abyss add at least 1 extra battle and then win the run",
+		"desc"    : "在异相故事中，让阿比斯增加至少1场额外战斗并赢下本局游戏",
 	},
 	"DR_alter_extra3" : {
 		"name"    : "Abnormal Deluge",
-		"desc"    : "In Altered Story, have Abyss add 3 extra battles and then win the run",
+		"desc"    : "在异相故事中，让阿比斯增加3场额外战斗并赢下本局游戏",
 	},
 	"DR_alter_extra_t" : {
 		"name"    : "Unimaginable Tsunami",
-		"desc"    : "In Altered Story, have Abyss add 3 extra battles and then win the run on the Torrent Rain difficulty",
+		"desc"    : "在异相故事中暴雨难度下，让阿比斯增加3场额外战斗并赢下本局游戏",
 	},
 	
 	
 	
 	"DR_her_heart_alt1" : {
 		"name"    : "The Heart of a Zaraden",
-		"desc"    : "Complete a day of Altered Story as 她的心",
+		"desc"    : "作为她的心，完成异相故事的一天",
 	},
 	"DR_her_heart_alt2" : {
 		"name"    : "她的心 of Gold",
-		"desc"    : "Earn a Gold Medal or better as 她的心 in Altered Story",
+		"desc"    : "作为她的心，在异相故事中获得一个至少为黄金的徽章",
 	},
 	"DR_defect_alt1" : {
 		"name"    : "The Flawed Heart",
-		"desc"    : "Complete a day of Altered Story as 缺陷",
+		"desc"    : "作为缺陷，完成异相故事的一天",
 	},
 	"DR_defect_alt2" : {
 		"name"    : "Fool's Gold",
-		"desc"    : "Earn a Gold Medal or better as 缺陷 in Altered Story",
+		"desc"    : "作为缺陷，在异相故事中获得一个至少为黄金的徽章",
 	},
 	"DR_twin_alt1" : {
 		"name"    : "The Heart of a Twin",
-		"desc"    : "Complete a day of Altered Story as 双子之心",
+		"desc"    : "作为双子之心，完成异相故事的一天",
 	},
 	"DR_twin_alt2" : {
 		"name"    : "Golden Twins",
-		"desc"    : "Earn a Gold Medal or better as 双子之心 in Altered Story",
+		"desc"    : "作为双子之心，在异相故事中获得一个至少为黄金的徽章",
 	},
 	"DR_devil_alt1" : {
 		"name"    : "The Heart of a Devil",
-		"desc"    : "Complete a day of Altered Story as 恶魔",
+		"desc"    : "作为恶魔，完成异相故事的一天",
 	},
 	"DR_devil_alt2" : {
 		"name"    : "Devil's Gold",
-		"desc"    : "Earn a Gold Medal or better as 恶魔 in Altered Story",
+		"desc"    : "作为恶魔，在异相故事中获得一个至少为黄金的徽章",
 	},
 	"DR_alt_heart_alt1" : {
 		"name"    : "The Painted Heart",
-		"desc"    : "Complete a day of Altered Story as 异相之心",
+		"desc"    : "作为异相之心，完成异相故事的一天",
 	},
 	"DR_alt_heart_alt2" : {
 		"name"    : "She's Painted Gold",
-		"desc"    : "Earn a Gold Medal or better as 异相之心 in Altered Story",
+		"desc"    : "作为异相之心，在异相故事中获得一个至少为黄金的徽章",
 	},
 	"DR_alt_defect_alt1" : {
 		"name"    : "The Perfect Heart",
-		"desc"    : "Complete a day of Altered Story as 异相缺陷",
+		"desc"    : "作为异相缺陷，完成异相故事的一天",
 	},
 	"DR_alt_defect_alt2" : {
 		"name"    : "Flawless Gold",
-		"desc"    : "Earn a Gold Medal or better as 异相缺陷 in Altered Story",
+		"desc"    : "作为异相缺陷，在异相故事中获得一个至少为黄金的徽章",
 	},
 	"DR_alt_twin_alt1" : {
 		"name"    : "The Beaming Heart",
-		"desc"    : "Complete a day of Altered Story as 异相双子",
+		"desc"    : "作为异相双子，完成异相故事的一天",
 	},
 	"DR_alt_twin_alt2" : {
 		"name"    : "Reflected in Gold",
-		"desc"    : "Earn a Gold Medal or better as 异相双子 in Altered Story",
+		"desc"    : "作为异相双子，在异相故事中获得一个至少为黄金的徽章",
 	},
 	"DR_alt_devil_alt1" : {
 		"name"    : "The Condemned Heart",
-		"desc"    : "Complete a day of Altered Story as 异相恶魔",
+		"desc"    : "作为异相恶魔，完成异相故事的一天",
 	},
 	"DR_alt_devil_alt2" : {
 		"name"    : "Scorched Gold",
-		"desc"    : "Earn a Gold Medal or better as 异相恶魔 in Altered Story",
+		"desc"    : "作为异相恶魔，在异相故事中获得一个至少为黄金的徽章",
 	},
 	
 	
 	
 	"DR_alter_silver_t1" : {
 		"name"    : "3 Altered Silvers",
-		"desc"    : "Earn 3 unique Silver Medals or better in Altered Story",
+		"desc"    : "在异相故事中，获得3个不同的至少为白银的徽章",
 	},
 	"DR_alter_silver_t2" : {
 		"name"    : "12 Altered Silvers",
-		"desc"    : "Earn 12 unique Silver Medals or better in Altered Story",
+		"desc"    : "在异相故事中，获得12个不同的至少为白银的徽章",
 	},
 	"DR_alter_silver_t3" : {
 		"name"    : "24 Altered Silvers",
-		"desc"    : "Earn 24 unique Silver Medals or better in Altered Story",
+		"desc"    : "在异相故事中，获得24个不同的至少为白银的徽章",
 	},
 	"DR_alter_radiant_t1" : {
 		"name"    : "Altered辉光",
-		"desc"    : "Earn a Radiant Medal in Altered Story",
+		"desc"    : "在异相故事中，获得1个光耀徽章",
 	},
 	"DR_alter_radiant_t2" : {
 		"name"    : "5 Altered Radiants",
-		"desc"    : "Earn 5 unique Radiant Medals in Altered Story",
+		"desc"    : "在异相故事中，获得5个不同的光耀徽章",
 	},
 	"DR_alter_radiant_t3" : {
 		"name"    : "15 Altered Radiants",
-		"desc"    : "Earn 15 unique Radiant Medals in Altered Story",
+		"desc"    : "在异相故事中，获得15个不同的光耀徽章",
 	},
 	"DR_alter_rose_t1" : {
 		"name"    : "50 Altered Roses",
-		"desc"    : "Receive 50 Rose Medals from monsters in Altered Story",
+		"desc"    : "在异相故事中，从怪物手中收下50个玫瑰徽章",
 	},
 	"DR_alter_rose_t2" : {
 		"name"    : "100 Altered Roses",
-		"desc"    : "Receive 100 Rose Medals from monsters in Altered Story",
+		"desc"    : "在异相故事中，从怪物手中收下100个玫瑰徽章",
 	},
 	"DR_alter_rose_t3" : {
 		"name"    : "250 Altered Roses",
-		"desc"    : "Receive 250 Rose Medals from monsters in Altered Story",
+		"desc"    : "在异相故事中，从怪物手中收下250个玫瑰徽章",
 	},
 	"DR_alter_rose_t4" : {
 		"name"    : "500 Altered Roses",
-		"desc"    : "Receive 500 Rose Medals from monsters in Altered Story",
+		"desc"    : "在异相故事中，从怪物手中收下500个玫瑰徽章",
 	},
 	"DR_alter_crimson_t1" : {
 		"name"    : "Altered Bloodstone",
-		"desc"    : "Receive a Crimson Medal from any monster with a thorned card in Altered Story",
+		"desc"    : "在异相故事中，从荆棘怪物手中收下1个朱红徽章",
 	},
 	"DR_alter_crimson_t2" : {
 		"name"    : "5 Altered血之石",
-		"desc"    : "Receive 5 Crimson Medals from monsters in Altered Story",
+		"desc"    : "在异相故事中，从怪物手中收下5个朱红徽章",
 	},
 	"DR_alter_crimson_t3" : {
 		"name"    : "20 Altered血之石",
-		"desc"    : "Receive 20 Crimson Medals from monsters in Altered Story",
+		"desc"    : "在异相故事中，从怪物手中收下20个朱红徽章",
 	},
 	"DR_alter_crimson_t4" : {
 		"name"    : "50 Altered血之石",
-		"desc"    : "Receive 50 Crimson Medals from monsters in Altered Story",
+		"desc"    : "在异相故事中，从怪物手中收下50个朱红徽章",
 	},
 
 
@@ -1605,147 +1626,147 @@
 	
 	"DR_qp_love1" : {
 		"name"    : "Love Them All Over Again",
-		"desc"    : "Love any monster in Quickplay Mode",
+		"desc"    : "在快速挑战中爱过任意怪物",
 	},
 	"DR_qp_no_medal" : {
 		"name"    : "Love is Overpowered!",
-		"desc"    : "Defeat a monster without getting any medals in a Quickplay battle",
+		"desc"    : "在快速挑战中击败任意怪物且未获得任何徽章",
 	},
 	"DR_qp_none_level7" : {
 		"name"    : "Giant Lover",
-		"desc"    : "Without equipping any gifts, earn at least a Silver Medal in any level 7 Quickplay battle or higher",
+		"desc"    : "在不装备任何礼物的情况下，在任意等级至少为7的快速挑战中至少获取白银徽章",
 	},
 	"DR_qp_none_level10" : {
 		"name"    : "Titan Lover",
-		"desc"    : "Without equipping any gifts, earn at least a Silver Medal in any level 10 Quickplay battle or higher",
+		"desc"    : "在不装备任何礼物的情况下，在任意等级至少为10的快速挑战中至少获取白银徽章",
 	},
 	"DR_qp_rad_medal1" : {
 		"name"    : "A Radiant Medal!",
-		"desc"    : "Earn a Radiant Medal in any Quickplay Battle",
+		"desc"    : "在任意快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_level5" : {
 		"name"    : "Glowing辉光",
-		"desc"    : "Earn a Radiant Medal in any level 5 Quickplay battle or higher",
+		"desc"    : "在任意等级至少为5的快速挑战中获取光耀徽章",
 	},
 	"DR_qp_rad_level8" : {
 		"name"    : "Burning辉光",
-		"desc"    : "Earn a Radiant Medal in any level 8 Quickplay battle or higher",
+		"desc"    : "在任意等级至少为8的快速挑战中获取光耀徽章",
 	},
 	"DR_qp_rad_level10" : {
 		"name"    : "Blinding辉光",
-		"desc"    : "Earn a Radiant Medal in any level 10 Quickplay battle or higher",
+		"desc"    : "在任意等级至少为10的快速挑战中获取光耀徽章",
 	},
 	"DR_qp_rank5" : {
 		"name"    : "Lovely Level 5",
-		"desc"    : "Reach rank 5 in Quickplay Mode",
+		"desc"    : "在快速挑战模式中达到等级5",
 	},
 	"DR_qp_rank10" : {
 		"name"    : "Lovely Level 10",
-		"desc"    : "Reach rank 10 in Quickplay Mode",
+		"desc"    : "在快速挑战模式中达到等级10",
 	},
 	"DR_qp_rank15" : {
 		"name"    : "Lovely Level 15",
-		"desc"    : "Reach rank 15 in Quickplay Mode",
+		"desc"    : "在快速挑战模式中达到等级15",
 	},
 	"DR_qp_rank20" : {
 		"name"    : "Lovely Level 20",
-		"desc"    : "Reach rank 20 in Quickplay Mode",
+		"desc"    : "在快速挑战模式中达到等级20",
 	},
 	"DR_qp_rank25" : {
 		"name"    : "Lovely Level 25",
-		"desc"    : "Reach rank 25 in Quickplay Mode",
+		"desc"    : "在快速挑战模式中达到等级25",
 	},
 	"DR_qp_rank30" : {
 		"name"    : "Lovely Level 30",
-		"desc"    : "Reach rank 30 in Quickplay Mode",
+		"desc"    : "在快速挑战模式中达到等级30",
 	},
 	"DR_qp_rank35" : {
 		"name"    : "Lovely Level 35",
-		"desc"    : "Reach rank 35 in Quickplay Mode",
+		"desc"    : "在快速挑战模式中达到等级35",
 	},
 	"DR_qp_rank40" : {
 		"name"    : "Lovely Level 40",
-		"desc"    : "Reach rank 40 in Quickplay Mode",
+		"desc"    : "在快速挑战模式中达到等级40",
 	},
 	"DR_qp_rank45" : {
 		"name"    : "Lovely Level 45",
-		"desc"    : "Reach rank 45 in Quickplay Mode",
+		"desc"    : "在快速挑战模式中达到等级45",
 	},
 	"DR_qp_rank50" : {
 		"name"    : "Lovely Level 50",
-		"desc"    : "Reach rank 50 in Quickplay Mode",
+		"desc"    : "在快速挑战模式中达到等级50",
 	},
 	"DR_qp_any_medal10" : {
 		"name"    : "10 Medals",
-		"desc"    : "Earn any medal in 10 unique Quickplay battles",
+		"desc"    : "在10场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_any_medal40" : {
 		"name"    : "40 Medals",
-		"desc"    : "Earn any medal in 40 unique Quickplay battles",
+		"desc"    : "在40场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_any_medal90" : {
 		"name"    : "90 Medals",
-		"desc"    : "Earn any medal in 90 unique Quickplay battles",
+		"desc"    : "在90场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_any_medal160" : {
 		"name"    : "160 Medals",
-		"desc"    : "Earn any medal in 160 unique Quickplay battles",
+		"desc"    : "在160场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_any_medal250" : {
 		"name"    : "250 Medals",
-		"desc"    : "Earn any medal in 250 unique Quickplay battles",
+		"desc"    : "在250场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_any_medal360" : {
 		"name"    : "360 Medals",
-		"desc"    : "Earn any medal in 360 unique Quickplay battles",
+		"desc"    : "在360场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_gold_medal10" : {
 		"name"    : "10 Gold Medals",
-		"desc"    : "Earn a Gold Medal or better in 10 unique Quickplay battles",
+		"desc"    : "在10场不同的快速挑战战斗中至少获取黄金徽章",
 	},
 	"DR_qp_gold_medal40" : {
 		"name"    : "40 Gold Medals",
-		"desc"    : "Earn a Gold Medal or better in 40 unique Quickplay battles",
+		"desc"    : "在40场不同的快速挑战战斗中至少获取黄金徽章",
 	},
 	"DR_qp_gold_medal90" : {
 		"name"    : "90 Gold Medals",
-		"desc"    : "Earn a Gold Medal or better in 90 unique Quickplay battles",
+		"desc"    : "在90场不同的快速挑战战斗中至少获取黄金徽章",
 	},
 	"DR_qp_gold_medal160" : {
 		"name"    : "160 Gold Medals",
-		"desc"    : "Earn a Gold Medal or better in 160 unique Quickplay battles",
+		"desc"    : "在160场不同的快速挑战战斗中至少获取黄金徽章",
 	},
 	"DR_qp_gold_medal250" : {
 		"name"    : "250 Gold Medals",
-		"desc"    : "Earn a Gold Medal or better in 250 unique Quickplay battles",
+		"desc"    : "在250场不同的快速挑战战斗中至少获取黄金徽章",
 	},
 	"DR_qp_gold_medal360" : {
 		"name"    : "360 Gold Medals",
-		"desc"    : "Earn a Gold Medal or better in 360 unique Quickplay battles",
+		"desc"    : "在360场不同的快速挑战战斗中至少获取黄金徽章",
 	},
 	"DR_qp_rad_medal10" : {
 		"name"    : "10 Radiant Medals!",
-		"desc"    : "Earn a Radiant Medal in 10 unique Quickplay battles",
+		"desc"    : "在10场不同的快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_medal40" : {
 		"name"    : "40 Radiant Medals!",
-		"desc"    : "Earn a Radiant Medal in 40 unique Quickplay battles",
+		"desc"    : "在40场不同的快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_medal90" : {
 		"name"    : "90 Radiant Medals!",
-		"desc"    : "Earn a Radiant Medal in 90 unique Quickplay battles",
+		"desc"    : "在90场不同的快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_medal160" : {
 		"name"    : "160 Radiant Medals!",
-		"desc"    : "Earn a Radiant Medal in 160 unique Quickplay battles",
+		"desc"    : "在160场不同的快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_medal250" : {
 		"name"    : "250 Radiant Medals!",
-		"desc"    : "Earn a Radiant Medal in 250 unique Quickplay battles",
+		"desc"    : "在250场不同的快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_medal360" : {
 		"name"    : "360 Radiant Medals!",
-		"desc"    : "Earn a Radiant Medal in 360 unique Quickplay battles",
+		"desc"    : "在360场不同的快速挑战战斗中获取光耀徽章",
 	},
 	
 	
@@ -1753,75 +1774,75 @@
 	
 	"DR_uqp_ultra15" : {
 		"name"    : "Colossus Lover",
-		"desc"    : "Without using a panic attack, earn at least 3 Radiant Medals in any level 15 Ultra Quickplay battle or higher",
+		"desc"    : "不使用恐慌攻击，在等级至少为15的极限快速挑战战斗中获得3个光耀徽章",
 	},
 	"DR_uqp_ultra20" : {
 		"name"    : "Leviathan Lover",
-		"desc"    : "Without using a panic attack, earn at least 2 Radiant Medals in any level 20 Ultra Quickplay battle or higher",
+		"desc"    : "不使用恐慌攻击，在等级至少为20的极限快速挑战战斗中获得至少2个光耀徽章",
 	},
 	"DR_uqp_ultra30" : {
 		"name"    : "Ultimate Goddess Lover",
-		"desc"    : "Without using a panic attack, earn at least 1 Radiant Medal in any level 30 Ultra Quickplay battle or higher",
+		"desc"    : "不使用恐慌攻击，在等级至少为30的极限快速挑战战斗中获得至少1个光耀徽章",
 	},
 	"DR_uqp_rank10" : {
 		"name"    : "Ultra Level 10",
-		"desc"    : "Reach rank 10 in Ultra Quickplay Mode",
+		"desc"    : "在极限快速挑战模式中达到等级10",
 	},
 	"DR_uqp_rank20" : {
 		"name"    : "Ultra Level 20",
-		"desc"    : "Reach rank 20 in Ultra Quickplay Mode",
+		"desc"    : "在极限快速挑战模式中达到等级20",
 	},
 	"DR_uqp_rank30" : {
 		"name"    : "Ultra Level 30",
-		"desc"    : "Reach rank 30 in Ultra Quickplay Mode",
+		"desc"    : "在极限快速挑战模式中达到等级30",
 	},
 	"DR_uqp_rank40" : {
 		"name"    : "Ultra Level 40",
-		"desc"    : "Reach rank 40 in Ultra Quickplay Mode",
+		"desc"    : "在极限快速挑战模式中达到等级40",
 	},
 	"DR_uqp_rank50" : {
 		"name"    : "Ultra Level 50",
-		"desc"    : "Reach rank 50 in Ultra Quickplay Mode",
+		"desc"    : "在极限快速挑战模式中达到等级50",
 	},
 	"DR_uqp_rad3" : {
 		"name"    : "Ultra辉光",
-		"desc"    : "Earn all 3 of any monster's Radiant Medals in Ultra Quickplay",
+		"desc"    : "在极限快速挑战中获取任意怪物的全部3个光耀徽章",
 	},
 	"DR_uqp_rad_t1" : {
 		"name"    : "30 Ultra Radiant Medals",
-		"desc"    : "Earn 30 Radiant Medals in Ultra Quickplay",
+		"desc"    : "在极限快速挑战中获取30个光耀徽章",
 	},
 	"DR_uqp_rad_t2" : {
 		"name"    : "80 Ultra Radiant Medals",
-		"desc"    : "Earn 80 Radiant Medals in Ultra Quickplay",
+		"desc"    : "在极限快速挑战中获取80个光耀徽章",
 	},
 	"DR_uqp_rad_t3" : {
 		"name"    : "150 Ultra Radiant Medals",
-		"desc"    : "Earn 150 Radiant Medals in Ultra Quickplay",
+		"desc"    : "在极限快速挑战中获取150个光耀徽章",
 	},
 	"DR_uqp_sublime_t1" : {
 		"name"    : "A Sublime Medal!",
-		"desc"    : "Earn a Sublime Medal in Ultra Quickplay",
+		"desc"    : "在极限快速挑战中获取1个崇高徽章",
 	},
 	"DR_uqp_sublime_t2" : {
 		"name"    : "10 Sublime Medals!",
-		"desc"    : "Earn 10 Sublime Medals in Ultra Quickplay",
+		"desc"    : "在极限快速挑战中获取10个崇高徽章",
 	},
 	"DR_uqp_sublime_t3" : {
 		"name"    : "25 Sublime Medals!",
-		"desc"    : "Earn 25 Sublime Medals in Ultra Quickplay",
+		"desc"    : "在极限快速挑战中获取25个崇高徽章",
 	},
 	"DR_uqp_sublime_t4" : {
 		"name"    : "50 Sublime Medals!",
-		"desc"    : "Earn 50 Sublime Medals in Ultra Quickplay",
+		"desc"    : "在极限快速挑战中获取50个崇高徽章",
 	},
 	"DR_uqp_sublime_t5" : {
 		"name"    : "100 Sublime Medals!",
-		"desc"    : "Earn 100 Sublime Medals in Ultra Quickplay",
+		"desc"    : "在极限快速挑战中获取100个崇高徽章",
 	},
 	"DR_uqp_sublime3" : {
 		"name"    : "Plus Ultra!",
-		"desc"    : "Earn 3 Sublime Medals in a single Ultra Quickplay battle",
+		"desc"    : "在单场极限快速挑战战斗中获取3个崇高徽章",
 	},
 	
 	
@@ -1830,55 +1851,97 @@
 	
 	"DR_tower_love1" : {
 		"name"    : "Burdens and All",
-		"desc"    : "Love any monster in The Towers",
+		"desc"    : "在高塔中爱过任意怪物",
 	},
 	"DR_tower_level4" : {
 		"name"    : "Level 4 Pillar",
-		"desc"    : "Love a level 4 or higher monster in The Towers",
+		"desc"    : "在高塔中爱过等级至少为4的怪物",
 	},
 	"DR_tower_level8" : {
 		"name"    : "Level 8 Pylon",
-		"desc"    : "Love a level 8 or higher monster in The Towers",
+		"desc"    : "在高塔中爱过等级至少为8的怪物",
 	},
 	"DR_tower_level12" : {
 		"name"    : "Level 12 Monolith",
-		"desc"    : "Love a level 12 or higher monster in The Towers",
+		"desc"    : "在高塔中爱过等级至少为12的怪物",
 	},
 	"DR_tower_level16" : {
 		"name"    : "Level 16 Obelisk",
-		"desc"    : "Love a level 16 or higher monster in The Towers",
+		"desc"    : "在高塔中爱过等级至少为16的怪物",
 	},
 	"DR_tower_unlock1" : {
 		"name"    : "Shameful Spire",
-		"desc"    : "Love Shamra in any tower after discovering at least 8 unique Shambles",
+		"desc"    : "在发现至少8种不同的晃晃怪物后，在任意高塔中爱过跚牡拉",
 	},
 	"DR_tower_unlock2" : {
 		"name"    : "Frustration Fortress",
-		"desc"    : "Love Guardian Soul in any tower after discovering at least 8 unique Guardians",
+		"desc"    : "在发现至少8种不同的守护者怪物后，在任意高塔中爱过守护者之魂",
 	},
 	"DR_tower_unlock3" : {
 		"name"    : "Symbolic Skyscraper",
-		"desc"    : "Love Oudenai in any tower after discovering at least 8 unique Eyeric Glyphs",
+		"desc"    : "在发现至少8种不同的眼睛符文怪物后，在任意高塔中爱过虚无之艾",
 	},
 	"DR_tower_unlock4" : {
 		"name"    : "Anxious Ascent",
-		"desc"    : "Love Default in any tower after discovering at least 8 unique Zaramechs",
+		"desc"    : "在发现至少8种不同的扎拉机械怪物后，在任意高塔中爱过默认",
 	},
 	"DR_tower_unlock5" : {
 		"name"    : "Blossoming Belfry",
-		"desc"    : "Love Echo in any tower after discovering at least 8 unique Glass Flora",
+		"desc"    : "在发现至少8种不同的玻璃植物怪物后，在任意高塔中爱过回声",
 	},
 	"DR_tower_unlock6" : {
 		"name"    : "Looming Loneliness",
-		"desc"    : "Love Forma in any tower after discovering at least 8 unique Veyerals",
+		"desc"    : "在发现至少8种不同的维目尔怪物后，在任意高塔中爱过形式",
 	},
 	"DR_tower_mites" : {
 		"name"    : "Citadel of Spiders",
-		"desc"    : "Have at least 15 mite helpers at once in The Towers",
+		"desc"    : "在高塔中同时拥有至少15只跳虫帮手",
 	},
 	"DR_tower_anomaly" : {
 		"name"    : "Dream Den",
-		"desc"    : "Love Anomaly in Taller Tower or Torrential Tower by keeping the level low",
+		"desc"    : "通过保持低等级的方式，在更高的塔或暴雨高塔中爱过异常",
+	},
+	
+	
+	
+	
+	
+	
+		"DR_vault_take_t1" : {
+		"name"    : "10 Vault Gifts!",
+		"desc"    : "在高塔中从棱晶宝库中总共带走至少10个礼物",
+	},
+	"DR_tower_vault" : {
+		"name"    : "Insecure Passwords",
+		"desc"    : "当访问棱晶宝库时，获取至少2250的密码分数",
+	},
+	"DR_tower_alarm" : {
+		"name"    : "Smooth Operator",
+		"desc"    : "在骇入高塔警报系统时获取至少2400的分数",
+	},
+	"DR_trade_emerald" : {
+		"name"    : "Prideful Shame",
+		"desc"    : "在高塔中让绿宝石总共为你构建4个礼物",
+	},
+	"DR_trade_ruby" : {
+		"name"    : "Content in Frustration",
+		"desc"    : "在高塔中让红宝石总共为你构建4个礼物",
+	},
+	"DR_trade_topaz" : {
+		"name"    : "Accepting Denial",
+		"desc"    : "在高塔中让黄宝石总共为你构建4个礼物",
+	},
+	"DR_trade_sapphire" : {
+		"name"    : "Calming Anxiety",
+		"desc"    : "在高塔中让蓝宝石总共为你构建4个礼物",
+	},
+	"DR_trade_citrine" : {
+		"name"    : "Confident Insecurity",
+		"desc"    : "在高塔中让橙宝石总共为你构建4个礼物",
+	},
+	"DR_trade_amethyst" : {
+		"name"    : "Belonging with Loneliness",
+		"desc"    : "在高塔中让紫宝石总共为你构建4个礼物",
 	},
 	
 	
@@ -1887,103 +1950,103 @@
 	
 	"DR_tower_r_easy" : {
 		"name"    : "Build Tall, Build Higher",
-		"desc"    : "Clear Tiny Tower as any character",
+		"desc"    : "作为任意角色通关小型高塔",
 	},
 	"DR_tower_r_hard" : {
 		"name"    : "Build Far, Build Wider",
-		"desc"    : "Clear Taller Tower as any character",
+		"desc"    : "作为任意角色通关更高的塔",
 	},
 	"DR_tower_r_expert" : {
 		"name"    : "Build, Build, Build, Build...",
-		"desc"    : "Clear Torrential Tower as any character",
+		"desc"    : "作为任意角色通关暴雨高塔",
 	},
 	"DR_tower_shamble" : {
 		"name"    : "Scattered Across Time and Space",
-		"desc"    : "Clear Shameful Spire as any character",
+		"desc"    : "作为任意角色通关羞愧尖塔",
 	},
 	"DR_tower_guardian" : {
 		"name"    : "Rapture My Heart",
-		"desc"    : "Clear Frustration Fortress as any character",
+		"desc"    : "作为任意角色通关沮丧要塞",
 	},
 	"DR_tower_glyph" : {
 		"name"    : "Sticks and Stones",
-		"desc"    : "Clear Symbolic Skyscraper as any character",
+		"desc"    : "作为任意角色通关象征高楼",
 	},
 	"DR_tower_zaramech" : {
 		"name"    : "Marked For Deletion",
-		"desc"    : "Clear Anxious Ascent as any character",
+		"desc"    : "作为任意角色通关焦虑攀升",
 	},
 	"DR_tower_glass" : {
 		"name"    : "Unbreakable Starlight Bloom",
-		"desc"    : "Clear Blossoming Belfry as any character",
+		"desc"    : "作为任意角色通关绽放钟楼",
 	},
 	"DR_tower_veyeral" : {
 		"name"    : "Together As None",
-		"desc"    : "Clear Looming Loneliness as any character",
+		"desc"    : "作为任意角色通关迫近孤独",
 	},
 	"DR_tower_her_heart1" : {
 		"name"    : "Tower of Her Love",
-		"desc"    : "Complete any tower with random monsters as 她的心",
+		"desc"    : "作为她的心，通关任意随机怪物高塔",
 	},
 	"DR_tower_her_heart2" : {
 		"name"    : "Looking to the Sky to Save Me",
-		"desc"    : "Complete any monster family tower as 她的心",
+		"desc"    : "作为她的心，通关任意怪物家族高塔",
 	},
 	"DR_tower_defect1" : {
 		"name"    : "Flawless Tower Climber",
-		"desc"    : "Complete any tower with random monsters as 缺陷",
+		"desc"    : "作为缺陷，通关任意随机怪物高塔",
 	},
 	"DR_tower_defect2" : {
 		"name"    : "Looking Cause I'm Tired of Trying",
-		"desc"    : "Complete any monster family tower as 缺陷",
+		"desc"    : "作为缺陷，通关任意怪物家族高塔",
 	},
 	"DR_tower_twin1" : {
 		"name"    : "Siblings Climb Together",
-		"desc"    : "Complete any tower with random monsters as 双子之心",
+		"desc"    : "作为双子之心，通关任意随机怪物高塔",
 	},
 	"DR_tower_twin2" : {
 		"name"    : "Looking For Something To Help Me",
-		"desc"    : "Complete any monster family tower as 双子之心",
+		"desc"    : "作为双子之心，通关任意怪物家族高塔",
 	},
 	"DR_tower_devil1" : {
 		"name"    : "Tenacious Tower Climber",
-		"desc"    : "Complete any tower with random monsters as 恶魔",
+		"desc"    : "作为恶魔，通关任意随机怪物高塔",
 	},
 	"DR_tower_devil2" : {
 		"name"    : "Looking For a Complication",
-		"desc"    : "Complete any monster family tower as 恶魔",
+		"desc"    : "作为恶魔，通关任意怪物家族高塔",
 	},
 	"DR_tower_alt_heart1" : {
 		"name"    : "Painted Tower Climber",
-		"desc"    : "Complete any tower with random monsters as 异相之心",
+		"desc"    : "作为异相之心，通关任意随机怪物高塔",
 	},
 	"DR_tower_alt_heart2" : {
 		"name"    : "When I Learn To Fly",
-		"desc"    : "Complete any monster family tower as 异相之心",
+		"desc"    : "作为异相之心，通关任意怪物家族高塔",
 	},
 	"DR_tower_alt_defect1" : {
 		"name"    : "Perfect Tower Climber",
-		"desc"    : "Complete any tower with random monsters as 异相缺陷",
+		"desc"    : "作为异相缺陷，通关任意随机怪物高塔",
 	},
 	"DR_tower_alt_defect2" : {
 		"name"    : "I Can't Quite Make It Alone",
-		"desc"    : "Complete any monster family tower as 异相缺陷",
+		"desc"    : "作为异相缺陷，通关任意怪物家族高塔",
 	},
 	"DR_tower_alt_twin1" : {
 		"name"    : "Sunshine at the Top",
-		"desc"    : "Complete any tower with random monsters as 异相双子",
+		"desc"    : "作为异相双子，通关任意随机怪物高塔",
 	},
 	"DR_tower_alt_twin2" : {
 		"name"    : "Fly Along With Me",
-		"desc"    : "Complete any monster family tower as 异相双子",
+		"desc"    : "作为异相双子，通关任意怪物家族高塔",
 	},
 	"DR_tower_alt_devil1" : {
 		"name"    : "Demonic Tower Climber",
-		"desc"    : "Complete any tower with random monsters as 异相恶魔",
+		"desc"    : "作为异相恶魔，通关任意随机怪物高塔",
 	},
 	"DR_tower_alt_devil2" : {
 		"name"    : "Run and Tell All of The Angels",
-		"desc"    : "Complete any monster family tower as 异相恶魔",
+		"desc"    : "作为异相恶魔，通关任意怪物家族高塔",
 	},
 	
 	
@@ -1992,276 +2055,274 @@
 	
 	"DR_gold_r_easy" : {
 		"name"    : "Top of Tiny Tower",
-		"desc"    : "Clear Tiny Tower with a Gold Medal or better as any character",
+		"desc"    : "作为任意角色，通关小型高塔并获得至少黄金徽章",
 	},
 	"DR_gold_r_hard" : {
 		"name"    : "Top of Taller Tower",
-		"desc"    : "Clear Taller Tower with a Gold Medal or better as any character",
+		"desc"    : "作为任意角色，通关更高的塔并获得至少黄金徽章",
 	},
 	"DR_gold_r_expert" : {
 		"name"    : "Top of Torrential Tower",
-		"desc"    : "Clear Torrential Tower with a Gold Medal or better as any character",
+		"desc"    : "作为任意角色，通关暴雨高塔并获得至少黄金徽章",
 	},
 	"DR_gold_shamble" : {
 		"name"    : "Top of Shameful Spire",
-		"desc"    : "Clear Shameful Spire with a Gold Medal or better as any character",
+		"desc"    : "作为任意角色，通关羞愧尖塔并获得至少黄金徽章",
 	},
 	"DR_gold_guardian" : {
 		"name"    : "Top of Frustration Fortress",
-		"desc"    : "Clear Frustration Fortress with a Gold Medal or better as any character",
+		"desc"    : "作为任意角色，通关沮丧要塞并获得至少黄金徽章",
 	},
 	"DR_gold_glyph" : {
 		"name"    : "Top of Symbolic Skyscraper",
-		"desc"    : "Clear Symbolic Skyscraper with a Gold Medal or better as any character",
+		"desc"    : "作为任意角色，通关象征高楼并获得至少黄金徽章",
 	},
 	"DR_gold_zaramech" : {
 		"name"    : "Top of Anxious Ascent",
-		"desc"    : "Clear Anxious Ascent with a Gold Medal or better as any character",
+		"desc"    : "作为任意角色，通关焦虑攀升并获得至少黄金徽章",
 	},
 	"DR_gold_glass" : {
 		"name"    : "Top of Blossoming Belfry",
-		"desc"    : "Clear Blossoming Belfry with a Gold Medal or better as any character",
+		"desc"    : "作为任意角色，通关绽放钟楼并获得至少黄金徽章",
 	},
 	"DR_gold_veyeral" : {
 		"name"    : "Top of Looming Loneliness",
-		"desc"    : "Clear Looming Loneliness with a Gold Medal or better as any character",
+		"desc"    : "作为任意角色，通关迫近孤独并获得至少黄金徽章",
 	},
 	"DR_tower_silver_t1" : {
 		"name"    : "5 Silver Towers",
-		"desc"    : "Earn 5 unique Silver Medals or better in The Towers",
+		"desc"    : "在高塔中获得5个不同的至少为白银的徽章",
 	},
 	"DR_tower_silver_t2" : {
 		"name"    : "15 Silver Towers",
-		"desc"    : "Earn 15 unique Silver Medals or better in The Towers",
+		"desc"    : "在高塔中获得15个不同的至少为白银的徽章",
 	},
 	"DR_tower_silver_t3" : {
 		"name"    : "30 Silver Towers",
-		"desc"    : "Earn 30 unique Silver Medals or better in The Towers",
+		"desc"    : "在高塔中获得30个不同的至少为白银的徽章",
 	},
 	"DR_tower_radiant_t1" : {
 		"name"    : "A Radiant Tower",
-		"desc"    : "Earn a Radiant Medal in The Towers",
+		"desc"    : "在高塔中获得1个光耀徽章",
 	},
 	"DR_tower_radiant_t2" : {
 		"name"    : "6 Radiant Towers",
-		"desc"    : "Earn 6 unique Radiant Medals in The Towers",
+		"desc"    : "在高塔中获得6个不同的光耀徽章",
 	},
 	"DR_tower_radiant_t3" : {
 		"name"    : "18 Radiant Towers",
-		"desc"    : "Earn 18 unique Radiant Medals in The Towers",
+		"desc"    : "在高塔中获得18个不同的光耀徽章",
 	},
-	
-	
 	
 	
 	
 	"DR_en_love1" : {
 		"name"    : "One out of Infinity",
-		"desc"    : "Love any monster in Endless Nightmare",
+		"desc"    : "在无尽梦魇中爱过任意怪物",
 	},
 	"DR_en_love7" : {
 		"name"    : "A Nightmare Cycle",
-		"desc"    : "Love 7 monsters in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中爱过7只怪物",
 	},
 	"DR_en_love14" : {
 		"name"    : "Two Nightmare Cycles",
-		"desc"    : "Love 14 monsters in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中爱过14只怪物",
 	},
 	"DR_en_love21" : {
 		"name"    : "Three Nightmare Cycles",
-		"desc"    : "Love 21 monsters in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中爱过21只怪物",
 	},
 	"DR_en_love28" : {
 		"name"    : "Four Nightmare Cycles",
-		"desc"    : "Love 28 monsters in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中爱过28只怪物",
 	},
 	"DR_en_love35" : {
 		"name"    : "All Nightmare Long",
-		"desc"    : "Love 35 monsters in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中爱过35只怪物",
 	},
 	"DR_en_score_30k" : {
 		"name"    : "30K Nightmare",
-		"desc"    : "Score at least 30,000 motes in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中获得至少30000魔尘",
 	},
 	"DR_en_score_60k" : {
 		"name"    : "60K Nightmare",
-		"desc"    : "Score at least 60,000 motes in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中获得至少60000魔尘",
 	},
 	"DR_en_score_90k" : {
 		"name"    : "90K Nightmare",
-		"desc"    : "Score at least 90,000 motes in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中获得至少90000魔尘",
 	},
 	"DR_en_score_120k" : {
 		"name"    : "120K Nightmare",
-		"desc"    : "Score at least 120,000 motes in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中获得至少120000魔尘",
 	},
 	"DR_en_score_150k" : {
 		"name"    : "150K Nightmare",
-		"desc"    : "Score at least 150,000 motes in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中获得至少150000魔尘",
 	},
 	"DR_en_score_200k" : {
 		"name"    : "Mountain of Nightmares",
-		"desc"    : "Score at least 200,000 motes in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中获得至少200000魔尘",
 	},
 	"DR_en_karma100" : {
 		"name"    : "A Dim Glow in the Dark",
-		"desc"    : "Earn at least 100 karma in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中获得至少100因果",
 	},
 	"DR_en_karma300" : {
 		"name"    : "A Bright Light in the Dark",
-		"desc"    : "Earn at least 300 karma in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中获得至少300因果",
 	},
 	"DR_en_karma500" : {
 		"name"    : "A Rainbow in the Dark",
-		"desc"    : "Earn at least 500 karma in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中获得至少500因果",
 	},
 	"DR_en_level5" : {
 		"name"    : "Level 5 Scare",
-		"desc"    : "Love a level 5 or higher monster in Endless Nightmare",
+		"desc"    : "在无尽梦魇中爱过等级至少为5的怪物",
 	},
 	"DR_en_level10" : {
 		"name"    : "Level 10 Fright",
-		"desc"    : "Love a level 10 or higher monster in Endless Nightmare",
+		"desc"    : "在无尽梦魇中爱过等级至少为10的怪物",
 	},
 	"DR_en_level15" : {
 		"name"    : "Level 15 Terror",
-		"desc"    : "Love a level 15 or higher monster in Endless Nightmare",
+		"desc"    : "在无尽梦魇中爱过等级至少为15的怪物",
 	},
 	"DR_en_level20" : {
 		"name"    : "Level 20 Abomination",
-		"desc"    : "Love a level 20 or higher monster in Endless Nightmare",
+		"desc"    : "在无尽梦魇中爱过等级至少为20的怪物",
 	},
 	
 	
 	"DR_en_cycles" : {
 		"name"    : "Infinite Dreams",
-		"desc"    : "Complete a total of 20 cycles in Endless Nightmare",
+		"desc"    : "在无尽梦魇中总共完成20轮次",
 	},
 	"DR_en_hold_karma" : {
 		"name"    : "Karmic Hoarding",
-		"desc"    : "Have at least 100 karma at once in Endless Stress",
+		"desc"    : "在无尽压力中同时拥有至少100因果",
 	},
 	"DR_en_total_karma1k" : {
 		"name"    : "Karmic Bounty",
-		"desc"    : "Earn 1,000 total karma in Endless Nightmare",
+		"desc"    : "在无尽梦魇中总共获得1000因果",
 	},
 	"DR_en_total_karma10k" : {
 		"name"    : "Karmic Fortune",
-		"desc"    : "Earn 10,000 total karma in Endless Nightmare",
+		"desc"    : "在无尽梦魇中总共获得10000因果",
 	},
 	"DR_en_store5" : {
 		"name"    : "Happy Place",
-		"desc"    : "Summon Solara 5 times in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中召唤索拉纳5次",
 	},
 	"DR_en_store10" : {
 		"name"    : "Gift Shop Regular",
-		"desc"    : "Summon Solara 10 times in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中召唤索拉纳10次",
 	},
 	"DR_en_total_store100" : {
 		"name"    : "Lucky 100th Shopper!",
-		"desc"    : "Summon Solara a total of 100 times in Endless Nightmare",
+		"desc"    : "在无尽梦魇中总共召唤索拉纳100次",
 	},
 	"DR_en_spree" : {
 		"name"    : "Gift Shopping Spree",
-		"desc"    : "Buy 10 gifts in a single visit from Solara in Endless Nightmare",
+		"desc"    : "在无尽梦魇中，单次拜访内从索拉纳处购买10个礼物",
 	},
 	"DR_en_buy_gifts" : {
 		"name"    : "Love Sells, But Who's Buying?",
-		"desc"    : "Buy a total of 350 gifts from Solara in Endless Nightmare",
+		"desc"    : "在无尽梦魇中总共从索拉纳处购买350个礼物",
 	},
 	"DR_en_expensive" : {
 		"name"    : "Power Creep",
-		"desc"    : "Buy a single gift that costs at least 50 karma in Endless Nightmare",
+		"desc"    : "在无尽梦魇中购买1个价格至少为50因果的礼物",
 	},
 	"DR_en_anomaly" : {
 		"name"    : "Dream On",
-		"desc"    : "Love Anomaly in Endless Nightmare by keeping the level low",
+		"desc"    : "通过保持低等级的方式，在无尽梦魇中爱过异常",
 	},
 	"DR_en_quick_love" : {
 		"name"    : "You've Been Lovestruck",
-		"desc"    : "Defeat any monster within 15 seconds in Endless Nightmare",
+		"desc"    : "在无尽梦魇中，15秒内击败任意怪物",
 	},
 	"DR_en_flawless_streak" : {
 		"name"    : "Diabolical Dozen",
-		"desc"    : "Love 12 monsters in a row without taking any damage or using any panic attacks in Endless Nightmare",
+		"desc"    : "在无尽梦魇中，未受到伤害且未使用恐慌攻击的情况下连续爱过12只怪物",
 	},
 	"DR_en_one_summon" : {
 		"name"    : "Overextended",
-		"desc"    : "Love the first 18 monsters while summoning Solara only once in Endless Stress",
+		"desc"    : "在无尽压力中，爱过前18只怪物且中途仅召唤索拉纳1次",
 	},
 	"DR_en_terror_panic" : {
 		"name"    : "Should This Be Fight Or Flight?",
-		"desc"    : "Have at least 9 panic attacks at once in Endless Terror",
+		"desc"    : "在无尽恐惧中，同时拥有9个恐慌攻击",
 	},
 	"DR_en_terror_gifts" : {
 		"name"    : "Terrorific Twenty",
-		"desc"    : "Receive 20 Bonus Gifts in a single run of Endless Terror",
+		"desc"    : "在无尽恐惧的单局游戏内获得20个额外礼物",
 	},
 	"DR_en_terror_fc7" : {
 		"name"    : "Scary Septuplet",
-		"desc"    : "Defeat any 7 monsters with a 100% full combo in a single run of Endless Terror",
+		"desc"    : "在无尽恐惧的单局游戏中，在达成100%连击的情况下击败任意7只怪物",
 	},
 	
 	
 	"DR_en_overall_bronze" : {
 		"name"    : "Overall Bronze Nightmare",
-		"desc"    : "Earn a Bronze Medal in the overall category in Endless Nightmare",
+		"desc"    : "在无尽梦魇的整体最佳分类下获取1个黄铜徽章",
 	},
 	"DR_en_overall_silver" : {
 		"name"    : "Overall Silver Nightmare",
-		"desc"    : "Earn a Silver Medal in the overall category in Endless Nightmare",
+		"desc"    : "在无尽梦魇的整体最佳分类下获取1个白银徽章",
 	},
 	"DR_en_overall_gold" : {
 		"name"    : "Overall Golden Nightmare",
-		"desc"    : "Earn a Gold Medal in the overall category in Endless Nightmare",
+		"desc"    : "在无尽梦魇的整体最佳分类下获取1个黄金徽章",
 	},
 	"DR_en_overall_radiant" : {
 		"name"    : "Overall Radiant Nightmare",
-		"desc"    : "Earn a Radiant Medal in the overall category in Endless Nightmare",
+		"desc"    : "在无尽梦魇的整体最佳分类下获取1个光耀徽章",
 	},
 	"DR_en_overall_perfect" : {
 		"name"    : "A Nightmare to Remember",
-		"desc"    : "Earn all 5 possible Radiant Medals in a single run of Endless Nightmare",
+		"desc"    : "在无尽梦魇的单局游戏中获得全部5种光耀徽章",
 	},
 	"DR_en_silver10" : {
 		"name"    : "10 Silver Nightmares",
-		"desc"    : "Earn 10 unique Silver Medals or better in Endless Nightmare",
+		"desc"    : "在无尽梦魇中获得10个不同的至少为白银的徽章",
 	},
 	"DR_en_silver30" : {
 		"name"    : "30 Silver Nightmares",
-		"desc"    : "Earn 30 unique Silver Medals or better in Endless Nightmare",
+		"desc"    : "在无尽梦魇中获得30个不同的至少为白银的徽章",
 	},
 	"DR_en_silver60" : {
 		"name"    : "60 Silver Nightmares",
-		"desc"    : "Earn 60 unique Silver Medals or better in Endless Nightmare",
+		"desc"    : "在无尽梦魇中获得60个不同的至少为白银的徽章",
 	},
 	"DR_en_gold5" : {
 		"name"    : "5 Golden Nightmares",
-		"desc"    : "Earn 5 unique Gold Medals or better in Endless Nightmare",
+		"desc"    : "在无尽梦魇中获得5个不同的至少为黄金的徽章",
 	},
 	"DR_en_gold20" : {
 		"name"    : "20 Golden Nightmares",
-		"desc"    : "Earn 20 unique Gold Medals or better in Endless Nightmare",
+		"desc"    : "在无尽梦魇中获得20个不同的至少为黄金的徽章",
 	},
 	"DR_en_gold45" : {
 		"name"    : "45 Golden Nightmares",
-		"desc"    : "Earn 45 unique Gold Medals or better in Endless Nightmare",
+		"desc"    : "在无尽梦魇中获得45个不同的至少为黄金的徽章",
 	},
 	"DR_en_radiant1" : {
 		"name"    : "A Radiant Nightmare!",
-		"desc"    : "Earn any Radiant Medal in Endless Nightmare",
+		"desc"    : "在无尽梦魇中获得任何光耀徽章",
 	},
 	"DR_en_radiant5" : {
 		"name"    : "5 Radiant Nightmares!",
-		"desc"    : "Earn 5 unique Radiant Medals in Endless Nightmare",
+		"desc"    : "在无尽梦魇中获得5个不同的光耀徽章",
 	},
 	"DR_en_radiant20" : {
 		"name"    : "20 Radiant Nightmares!",
-		"desc"    : "Earn 20 unique Radiant Medals in Endless Nightmare",
+		"desc"    : "在无尽梦魇中获得20个不同的光耀徽章",
 	},
 	"DR_en_radiant45" : {
 		"name"    : "45 Radiant Nightmares!",
-		"desc"    : "Earn 45 unique Radiant Medals in Endless Nightmare",
+		"desc"    : "在无尽梦魇中获得45个不同的光耀徽章",
 	},
 	
 	
@@ -2269,863 +2330,887 @@
 	
 	"DR_scrambla1" : {
 		"name"    : "Icky Scrambles",
-		"desc"    : "Break 20 of Scrambla's maws and eyeballs across all battles",
+		"desc"    : "在所有战斗中总共破坏20个蛋花的巨口与眼球",
 	},
 	"DR_scrambla2" : {
 		"name"    : "Stay Over There!",
-		"desc"    : "Defeat Scrambla without her ever going behind you (Story Mode)",
+		"desc"    : "在从未让蛋花越过你身后的情况下击败她（故事模式）",
 	},
 	"DR_shy_scrambla1" : {
 		"name"    : "Finely Scrambled",
-		"desc"    : "Break at least 50 of Shy Scrambla's spawn in a single level 8 battle",
+		"desc"    : "在单场等级8的战斗中破坏至少50个羞涩蛋花的衍体",
 	},
 	"DR_shy_scrambla2" : {
 		"name"    : "Perfectly Scrambled",
-		"desc"    : "Defeat Shy Scrambla with a 100% full combo (Story Mode)",
+		"desc"    : "击败羞涩蛋花且达成100%连击（故事模式）",
 	},
 	"DR_boiler1" : {
 		"name"    : "Hard Boiled",
-		"desc"    : "Defeat Boiler with a 100% full combo, while never letting any of her parts get behind you, and breaking at least 6 of her spawn",
+		"desc"    : "击败锅炉且达成100%连击，并且从未让任何她的部位越过你身后，同时破坏至少6个她的衍体",
 	},
 	"DR_boiler2" : {
 		"name"    : "Spicy Scrambles",
-		"desc"    : "Break 30 of Boiler's spawn across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏30个锅炉的衍体（故事模式）",
 	},
 	"DR_rage_boiler1" : {
 		"name"    : "The Most Spiciest Game",
-		"desc"    : "In a single battle with Rage Boiler, spend 15 seconds total time outside of bubbles without taking damage or using a panic",
+		"desc"    : "在燃怒锅炉的单场战斗中，在安全泡泡外的时间总共达到15秒并且未受到伤害或使用恐慌攻击",
 	},
 	"DR_rage_boiler2" : {
 		"name"    : "My Bubble!",
-		"desc"    : "Defeat Rage Boiler without ever leaving the bubble that you start in (Story Mode)",
+		"desc"    : "击败燃怒锅炉且从未离开战斗开始时所在的那个安全泡泡（故事模式）",
 	},
 	"DR_knot_knott1" : {
 		"name"    : "Untying the Knot",
-		"desc"    : "Defeat Knot Knott without breaking any of her eyes in a level 4 battle or higher",
+		"desc"    : "在等级至少为4的战斗中，击败节结且并未破坏她的任何一个眼睛",
 	},
 	"DR_knot_knott2" : {
 		"name"    : "Knot Knott, Who's There?",
-		"desc"    : "Break all of Knot Knott's eyes in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中破坏节结的所有眼睛（故事模式）",
 	},
 	"DR_blot1" : {
 		"name"    : "Collecting Pigments",
-		"desc"    : "Break 100 of Blot's paint orbs across all battles",
+		"desc"    : "在所有战斗中总共破坏100个墨点的颜料球",
 	},
 	"DR_blot2" : {
 		"name"    : "My Masterpiece",
-		"desc"    : "Defeat Blot with a 100% full combo while breaking at least 15 of her paint orbs (Story Mode)",
+		"desc"    : "击败墨点并达成100%连击，且破坏至少15个她的颜料球（故事模式）",
 	},
 	"DR_alter_blot1" : {
 		"name"    : "Immune System",
-		"desc"    : "Defeat Alter Blot without breaking any of her paint orbs",
+		"desc"    : "在不破坏任何颜料球的情况下击败异相墨点",
 	},
 	"DR_alter_blot2" : {
 		"name"    : "Down With the Sickness",
-		"desc"    : "Break 60 of Alter Blot's paint orbs across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏60个异相墨点的颜料球（故事模式）",
 	},
 	"DR_null_blot1" : {
 		"name"    : "Demotivated",
-		"desc"    : "Defeat Null Blot without ever achieving a combo that is higher than 10%",
+		"desc"    : "击败空无墨点，且达到的连击从未超过10%",
 	},
 	"DR_null_blot2" : {
 		"name"    : "Feeling Inspired",
-		"desc"    : "Break at least 12 of Null Blot's paint orbs with panic attacks in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中使用恐慌攻击破坏至少12个空无墨点的颜料球（故事模式）",
 	},
 	"DR_amalga1" : {
 		"name"    : "The Right Angle",
-		"desc"    : "Defeat Amalga with a 100% full combo while breaking all of her shell parts",
+		"desc"    : "击败阿玛加并达成100%连击，且破坏她所有的外壳部件",
 	},
 	"DR_amalga2" : {
 		"name"    : "Messy Geometry",
-		"desc"    : "Defeat Amalga without taking damage or using a panic attack (Story Mode)",
+		"desc"    : "击败阿玛加且未受到伤害或使用恐慌攻击（故事模式）",
 	},
 	"DR_calorie1" : {
 		"name"    : "Burning Calories",
-		"desc"    : "Break all of Calorie's tail segments and defeat her with a 100% full combo in a level 6 battle or higher",
+		"desc"    : "在等级至少为6的战斗中，破坏卡洛里的所有尾部部件且达成100%连击",
 	},
 	"DR_calorie2" : {
 		"name"    : "Give Me Fuel, Give Me Fire",
-		"desc"    : "Absorb 800 of Calorie's bullets with panic attacks (Story Mode)",
+		"desc"    : "使用恐慌攻击吸收800颗卡洛里的子弹（故事模式）",
 	},
 	"DR_joule1" : {
 		"name"    : "Potential Energy",
-		"desc"    : "Put a crack on all of Joule's tail segments without breaking any of them",
+		"desc"    : "让焦耳的所有尾部部件出现裂纹但未破坏其中任何一个",
 	},
 	"DR_joule2" : {
 		"name"    : "Path of Least Resistance",
-		"desc"    : "Defeat Joule without breaking any of her tail segments (Story Mode)",
+		"desc"    : "在未破坏焦耳任何一个尾部部件的情况下击败她（故事模式）",
 	},
 	"DR_shamra1" : {
 		"name"    : "Polyp Popper",
-		"desc"    : "Pop 100 of Shamra's polyps across all battles",
+		"desc"    : "在所有战斗中总共击破100个跚牡拉的瘤状衍体",
 	},
 	"DR_shamra2" : {
 		"name"    : "Shamra's Birthday Hug",
-		"desc"    : "During a battle with Shamra, absorb 200 bullets with a single panic attack (Story Mode)",
+		"desc"    : "在与跚牡拉的战斗中，使用单个恐慌攻击吸收200颗子弹（故事模式）",
 	},
 	
 	
 	
 	"DR_rendy1" : {
 		"name"    : "Rending Rendy",
-		"desc"    : "Break 16 of Rendy's leg armors across all battles",
+		"desc"    : "在所有战斗中总共破坏16个兰迪的腿部护甲",
 	},
 	"DR_rendy2" : {
 		"name"    : "Nuclear Scrambled Eggs",
-		"desc"    : "Defuse 3 of Rendy's explosive eggs in a single battle by breaking them before they explode (Story Mode)",
+		"desc"    : "在单场战斗中，通过在爆炸前将其破坏的方式解除3个兰迪的炸蛋（故事模式）",
 	},
 	"DR_snowball1" : {
 		"name"    : "Don't Let It Go",
-		"desc"    : "Defeat Snowball without letting a single bouncing egg leave the screen while breaking at least 6 of them",
+		"desc"    : "在从未让任何弹性蛋离开屏幕且破坏至少6个的情况下击败雪球",
 	},
 	"DR_snowball2" : {
 		"name"    : "Egg Snipe",
-		"desc"    : "Without using a panic, break one of Snowball's launched explosive eggs in the air before it explodes (Story Mode)",
+		"desc"    : "不使用恐慌攻击，在雪球发射的炸蛋爆炸之前在空中破坏1个（故事模式）",
 	},
 	"DR_roundsaw1" : {
 		"name"    : "Eye Love You",
-		"desc"    : "Defeat Roundsaw without breaking any of her parts in a level 5 battle or higher",
+		"desc"    : "在等级至少为5的战斗中，击败圆锯且未破坏她的任何部位",
 	},
 	"DR_roundsaw2" : {
 		"name"    : "Naked Roundsaw",
-		"desc"    : "Break all of Roundsaw's parts in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中破坏圆锯的所有部件（故事模式）",
 	},
 	"DR_alter_roundsaw1" : {
 		"name"    : "Manic Wyvern",
-		"desc"    : "Defeat an overleveled Alter Roundsaw without taking damage or using a panic attack",
+		"desc"    : "击败等级超越的异相圆锯且未受到伤害或使用恐慌攻击",
 	},
 	"DR_alter_roundsaw2" : {
 		"name"    : "Power Tool Lover",
-		"desc"    : "Break Alter Roundsaw's saw 3 times (Story Mode)",
+		"desc"    : "总共破坏异相圆锯的圆锯部件3次（故事模式）",
 	},
 	"DR_null_roundsaw1" : {
 		"name"    : "Let Me Hug You!",
-		"desc"    : "Break all of Null Roundsaw's parts in a single level 9 battle or higher",
+		"desc"    : "在等级至少为9的战斗破坏所有空无圆锯的部件",
 	},
 	"DR_null_roundsaw2" : {
 		"name"    : "Dragon Tails",
-		"desc"    : "Defeat Null Roundsaw without breaking her saw (Story Mode)",
+		"desc"    : "在未破坏圆锯部件的情况下击败空无圆锯（故事模式）",
 	},
 	"DR_lila1" : {
 		"name"    : "Unspookable",
-		"desc"    : "Defeat Lila without taking damage or using a panic attack in a level 6 battle or higher",
+		"desc"    : "在等级至少为6的战斗中，击败莱拉且未受到伤害或使用恐慌攻击",
 	},
 	"DR_lila2" : {
 		"name"    : "Eye Adjust To My New Sights",
-		"desc"    : "Defeat Lila while staying in focus mode for the entire battle (Story Mode)",
+		"desc"    : "击败莱拉，且整场战斗均保持在专注模式（故事模式）",
 	},
 	"DR_shy_lila1" : {
 		"name"    : "Eyes Where There Shouldn't Be",
-		"desc"    : "Defeat Shy Lila without defeating any purple aviocs in a level 6 battle or higher",
+		"desc"    : "在等级至少为6的战斗中，击败羞涩莱拉且未击败任何紫色眼魔",
 	},
 	"DR_shy_lila2" : {
 		"name"    : "A Cauldron of Eyeballs",
-		"desc"    : "Defeat 300 aviocs in battles against Shy Lila (Story Mode)",
+		"desc"    : "在与羞涩莱拉的战斗中总共击败300只眼魔（故事模式）",
 	},
 	"DR_sandrome1" : {
 		"name"    : "Enter Sandrome",
-		"desc"    : "Defeat Sandrome with a 100% full combo while breaking at least 12 of her segments",
+		"desc"    : "击败沙之症候群并达成100%连击，且至少破坏12节她的部件",
 	},
 	"DR_sandrome2" : {
 		"name"    : "Cactus Hunter",
-		"desc"    : "Break 100 of Sandrome's segments across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏沙之症候群的100节部件（故事模式）",
 	},
 	"DR_voladrome1" : {
 		"name"    : "Iron Maiden",
-		"desc"    : "Without breaking any of Voladrome's armor, Survive for at least 3 minutes in a level 10 battle or higher",
+		"desc"    : "在等级至少为10的战斗中，存活至少3分钟且不破坏任何熔岩症候群的护甲",
 	},
 	"DR_voladrome2" : {
 		"name"    : "Extra Spicy Noodle",
-		"desc"    : "Break at least 10 of Voladrome's armor segments in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中，破坏至少10节熔岩症候群的护甲（故事模式）",
 	},
 	"DR_shanx1" : {
 		"name"    : "I Bet This Arm on a New Era",
-		"desc"    : "Defeat Shanx while only breaking 1 of her leaf arms and also her flower crown in a level 8 battle or higher",
+		"desc"    : "在等级至少为8的战斗中，击败闪克斯且仅破坏她其中1个叶臂并破坏她的花冠",
 	},
 	"DR_shanx2" : {
 		"name"    : "Falling From Her Grace Again",
-		"desc"    : "Break 20 of Shanx's dropped exploding seeds (Story Mode)",
+		"desc"    : "破坏20个闪克斯掉落的爆炸种子（故事模式）",
 	},
 	"DR_alter_shanx1" : {
 		"name"    : "Shanx N' Roses",
-		"desc"    : "Defeat Alter Shanx with a 100% full combo while breaking every part of her",
+		"desc"    : "击败异相闪克斯并达成100%连击，且破坏她的所有部件",
 	},
 	"DR_alter_shanx2" : {
 		"name"    : "Scream Aim Fire!",
-		"desc"    : "Break one of Alter Shanx's leaf arms with a panic attack (Story Mode)",
+		"desc"    : "使用恐慌攻击破坏异相闪克斯的一个叶臂（故事模式）",
 	},
 	"DR_guardian_soul1" : {
 		"name"    : "True Guardian Soul EX",
-		"desc"    : "Defeat an overleveled Guardian Soul in a level 13 battle or higher",
+		"desc"    : "在等级至少为13的战斗中击败等级超越的守护者之魂",
 	},
 	"DR_guardian_soul2" : {
 		"name"    : "New Guardian's Birthday Hug",
-		"desc"    : "Break 48 total pieces of Guardian Soul (Story Mode)",
+		"desc"    : "总共破坏守护者之魂的48个部件（故事模式）",
 	},
 	
 	
 	
 	"DR_photoxai1" : {
 		"name"    : "In a Flash",
-		"desc"    : "Defeat Photoxai in 30 seconds or less in a level 5 battle",
+		"desc"    : "在等级至少为5的战斗中，在30秒内击败光影之楔",
 	},
 	"DR_photoxai2" : {
 		"name"    : "Photo Finish",
-		"desc"    : "Break every single bit of Photoxai's color ring in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中，破坏光影之楔的色彩环上的每一个部件（故事模式）",
 	},
 	"DR_dendrohai1" : {
 		"name"    : "Deforestation",
-		"desc"    : "Break 100 of Dendrohai's needles across all battles",
+		"desc"    : "在所有战斗中总共破坏树途之亥的100根针",
 	},
 	"DR_dendrohai2" : {
 		"name"    : "Trees Can Be Scary...",
-		"desc"    : "During a battle with Dendrohai, absorb 150 bullets with a single panic attack (Story Mode)",
+		"desc"    : "在与树途之亥的战斗中，使用单个恐慌攻击吸收150颗子弹（故事模式）",
 	},
 	"DR_hematoren1" : {
 		"name"    : "Sprinkler System",
-		"desc"    : "During a level 6 battle or higher with Hematoren, only break her lower blood orb and then defeat her without taking damage",
+		"desc"    : "在与血玛托壬的等级至少为6的战斗中，在不受到伤害的情况下，仅破坏她下方的血液球然后击败她",
 	},
 	"DR_hematoren2" : {
 		"name"    : "Bleeding Me",
-		"desc"    : "Break every single bit of Hematoren's rings without breaking either blood orb (Story Mode)",
+		"desc"    : "破坏血玛托壬环上的所有部件，但不破坏两个血液球（故事模式）",
 	},
 	"DR_ombroah1" : {
 		"name"    : "Black Rain",
-		"desc"    : "Ombroah rains a total of 1,000 void drops upon you",
+		"desc"    : "雨布罗阿总共1000颗虚空子弹之雨落向了你",
 	},
 	"DR_ombroah2" : {
 		"name"    : "Clear Skies",
-		"desc"    : "Break every single bit of Ombroah's rings in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中破坏雨布罗阿环上的所有部件（故事模式）",
 	},
 	"DR_lavalin1" : {
 		"name"    : "This is The Art of Ruin",
-		"desc"    : "Defeat Lavalin with a 100% full combo without breaking any of her orbs",
+		"desc"    : "击败熔岩之林并达成100%连击，且不破坏她的任何一个符文球",
 	},
 	"DR_lavalin2" : {
 		"name"    : "End Of The World",
-		"desc"    : "Break every single bit of Lavalin's rings and all of her orbs in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中破坏熔岩之林环上的所有部件以及她所有的符文球（故事模式）",
 	},
 	"DR_heliola1" : {
 		"name"    : "Grossly Incandescent",
-		"desc"    : "Defeat Heliola after letting her absorb 3 of her orbs as she transforms in a level 7 battle or higher",
+		"desc"    : "在等级至少为7的战斗中，在赫日欧拉转变形态时让她吸收3个符文球后击败她",
 	},
 	"DR_heliola2" : {
 		"name"    : "All That Glitters Is Gold",
-		"desc"    : "Break 150 of Heliola's needles across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏赫日欧拉的150根针（故事模式）",
 	},
 	"DR_chemory1" : {
 		"name"    : "Chemical Warfare",
-		"desc"    : "Break 30 of Chemory's orbs across all battles",
+		"desc"    : "在所有战斗中总共破坏30个化莫里的符文球",
 	},
 	"DR_chemory2" : {
 		"name"    : "Poison Was the Cure",
-		"desc"    : "Defeat Chemory without breaking a single one of her orbs (Story Mode)",
+		"desc"    : "击败化莫里且不破坏她的任何一个符文球（故事模式）",
 	},
 	"DR_hadesoh1" : {
 		"name"    : "Walk With Me In Hell",
-		"desc"    : "Defeat Hadesoh with a 100% full combo while breaking all 4 of her orbs",
+		"desc"    : "击败炼狱之梭并达成100%连击，且破坏她全部4个符文球",
 	},
 	"DR_hadesoh2" : {
 		"name"    : "Phoenix Down",
-		"desc"    : "Break every single bit of Hadesoh's wings in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中破坏炼狱之梭的翅膀上的每一个部件（故事模式）",
 	},
 	"DR_chionotoh1" : {
 		"name"    : "My Tears Don't Fall, They Freeze Around Me",
-		"desc"    : "During a battle with Chionotoh, absorb 300 bullets with a single panic attack",
+		"desc"    : "在与雪奥诺托的战斗中，使用单个恐慌攻击吸收300颗子弹",
 	},
 	"DR_chionotoh2" : {
 		"name"    : "You're as Cold as Ice",
-		"desc"    : "Cause Chionotoh to transform without breaking any of her orbs (Story Mode)",
+		"desc"    : "在不破坏任何符文球的情况下让雪奥诺托转变形态（故事模式）",
 	},
 	"DR_astrayo1" : {
 		"name"    : "Hit The Lights",
-		"desc"    : "Break every single bit of Astrayo's rings in a single battle",
+		"desc"    : "在单场战斗中，破坏雷斯塔尤翅膀上的每一个部件",
 	},
 	"DR_astrayo2" : {
 		"name"    : "Ride The Lightning",
-		"desc"    : "Defeat Astrayo with a 100% full combo without using a panic attack (Story Mode)",
+		"desc"    : "击败雷斯塔尤并达成100%连击，且不使用恐慌攻击（故事模式）",
 	},
 	"DR_monovai1" : {
 		"name"    : "The Most Loneliest Day",
-		"desc"    : "Defeat Monovai without using panic attacks in a level 12 battle",
+		"desc"    : "在等级至少为12的战斗中击败寞诺唯且未使用恐慌攻击",
 	},
 	"DR_monovai2" : {
 		"name"    : "Raining Blood",
-		"desc"    : "Monovai rains a total of 500 blood drops upon you (Story Mode)",
+		"desc"    : "寞诺唯总共5000颗血液子弹之雨落向了你（故事模式）",
 	},
 	"DR_oudenai1" : {
 		"name"    : "Focus On The Target",
-		"desc"    : "Defeat Oudenai with a 100% full combo while staying in focus mode for the entire battle",
+		"desc"    : "击败虚无之艾并达成100%连击，同时整场战斗均保持在专注模式",
 	},
 	"DR_oudenai2" : {
 		"name"    : "Oudenai's Birthday Hug",
-		"desc"    : "Push Oudenai out of the way with your heart as she teleports around the arena (Story Mode)",
+		"desc"    : "当虚无之艾在场地内传送时，用你的心将她推开（故事模式）",
 	},
 	
 	
 	
 	"DR_unit_lulu1" : {
 		"name"    : "Absolute Unit",
-		"desc"    : "Defeat Unit Lulu with a 100% full combo, while breaking all of her claws in a level 3 battle",
+		"desc"    : "在等级为3的战斗中，击败单元露露并达成100%连击，且破坏她所有的机械爪",
 	},
 	"DR_unit_lulu2" : {
 		"name"    : "Lulu's Lightning Love",
-		"desc"    : "Defeat Unit Lulu in 30 seconds or less (Story Mode)",
+		"desc"    : "在30秒之内击败单元露露（故事模式）",
 	},
 	"DR_null_unit1" : {
 		"name"    : "Dangling Pointer",
-		"desc"    : "Defeat Null Unit, while leaving exactly one of her arms unbroken",
+		"desc"    : "击败空无单元，并恰好留下她的1个手臂未破坏",
 	},
 	"DR_null_unit2" : {
 		"name"    : "Segmentation Fault",
-		"desc"    : "Defeat Null Unit without ever achieving a combo that is higher than 20% (Story Mode)",
+		"desc"    : "击败空无单元，且从未达成超过20%的连击（故事模式）",
 	},
 	"DR_prisma1" : {
 		"name"    : "A Cute Angle",
-		"desc"    : "Defeat Prisma without breaking any of her shell parts",
+		"desc"    : "在不破坏任何外壳部件的情况下击败棱镜",
 	},
 	"DR_prisma2" : {
 		"name"    : "Simple Geometry",
-		"desc"    : "During a battle with Prisma, Do not move, take damage, or panic for 15 consecutive seconds (Story Mode)",
+		"desc"    : "在与棱镜的战斗中，连续15秒内不移动，中途未受到伤害且未使用恐慌攻击（故事模式）",
 	},
 	"DR_rage_prisma1" : {
 		"name"    : "Safety Circumference",
-		"desc"    : "During a level 7 battle or higher with Rage Prisma, do not panic and survive for at least 3 minutes",
+		"desc"    : "在与燃怒棱镜的等级至少为7的战斗中，不要恐慌且存活至少3分钟",
 	},
 	"DR_rage_prisma2" : {
 		"name"    : "Angry Angle",
-		"desc"    : "Break 12 of Rage Prisma's shell parts across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏12块燃怒棱镜的外壳部件（故事模式）",
 	},
 	"DR_dual_prisma1" : {
 		"name"    : "Dual Destruction",
-		"desc"    : "Defeat Dual Prisma with a 100% full combo while breaking all 8 of their shell parts",
+		"desc"    : "击败双生棱镜并达成100%连击，且破坏全部8块外壳部件",
 	},
 	"DR_dual_prisma2" : {
 		"name"    : "Bisected Angle",
-		"desc"    : "During a battle with Dual Prisma, Break all 4 shell parts of either Prisma while leaving the other unbroken (Story Mode)",
+		"desc"    : "在与双生棱镜的战斗中，破坏其中一只的全部4块外壳部件同时另一只保持完整（故事模式）",
 	},
 	"DR_syncron1" : {
 		"name"    : "Chaotic Indecision",
-		"desc"    : "Defeat Syncron without taking damage in a level 6 battle or higher",
+		"desc"    : "在等级至少为6的战斗中，击败同步甲虫且未受到伤害",
 	},
 	"DR_syncron2" : {
 		"name"    : "Deactivation Sequence",
-		"desc"    : "Break all four of Syncron's Panic Mode beams in a level 4 battle or higher (Story Mode)",
+		"desc"    : "在等级至少为4的战斗中，破坏同步甲虫恐慌模式下的全部4个光束（故事模式）",
 	},
 	"DR_alter_syncron1" : {
 		"name"    : "Panic Mode Averted",
-		"desc"    : "Defeat Alter Syncron without taking damage or using panic attacks in a level 9 battle or higher",
+		"desc"    : "在等级至少为9的战斗中，击败异相甲虫并未受到伤害且未使用恐慌攻击",
 	},
 	"DR_alter_syncron2" : {
 		"name"    : "One Step Closer",
-		"desc"    : "Defeat Alter Syncron while only breaking a single beam during their Panic Mode (Story Mode)",
+		"desc"    : "击败同步甲虫，且在其恐慌模式下仅破坏其中一个光束（故事模式）",
 	},
 	"DR_flip_flap1" : {
 		"name"    : "Pure Component",
-		"desc"    : "Defeat Flip Flap without breaking more than 4 wire segments in a level 7 battle or higher",
+		"desc"    : "在等级至少为7的战斗中，击败噼里啪啦且不破坏超过4节线缆",
 	},
 	"DR_flip_flap2" : {
 		"name"    : "Pure Breaker",
-		"desc"    : "Break all of Flip Flap's wire segments in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中破坏噼里啪啦全部的线缆部件（故事模式）",
 	},
 	"DR_sentinel_4x1" : {
 		"name"    : "You Should Not Be Here",
-		"desc"    : "Make Sentinel 4X jump by trying to hide",
+		"desc"    : "通过尝试躲藏的方式让哨卫4X跳起来",
 	},
 	"DR_sentinel_4x2" : {
 		"name"    : "Quadraxis Annihilated",
-		"desc"    : "Break all 4 of Sentinel 4X's legs in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中破坏哨卫4X的全部4条腿部（故事模式）",
 	},
 	"DR_sentinel_0x1" : {
 		"name"    : "The Sum of all Zeroes",
-		"desc"    : "Defeat an overleveled Sentinel 0X",
+		"desc"    : "击败等级超越的哨卫0X",
 	},
 	"DR_sentinel_0x2" : {
 		"name"    : "Don't Make Me Come Back There!",
-		"desc"    : "Make Sentinel 0X jump backwards 4 times in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中让哨卫0X向后跳4次（故事模式）",
 	},
 	"DR_ventra1" : {
 		"name"    : "OK, 3, 2, 1, Blast Off!",
-		"desc"    : "Defeat Ventra with a 100% full combo after breaking all 4 of her gear wheels in a level 7 battle or higher",
+		"desc"    : "在等级至少为7的战斗中，击败雯特拉并达成100%连击，且破坏她全部4个齿轮状车轮部件",
 	},
 	"DR_ventra2" : {
 		"name"    : "I'll Be The Roundabout",
-		"desc"    : "Defeat Ventra without breaking any of her light cores (Story Mode)",
+		"desc"    : "击败雯特拉且并未破坏任何发光核心（故事模式）",
 	},
 	"DR_default1" : {
 		"name"    : "I'm Made of Metal, My Circuits Gleam",
-		"desc"    : "Defeat any Default holograms that have eyeballs 7 times",
+		"desc"    : "击败默认中拥有眼球的全息影像7次",
 	},
 	"DR_default2" : {
 		"name"    : "Default Birthday Hug",
-		"desc"    : "Defeat Default with a panic attack (Story Mode)",
+		"desc"    : "使用恐慌攻击击败默认（故事模式）",
 	},
 
 
 	
 	"DR_dot1" : {
 		"name"    : "Schism of Petals",
-		"desc"    : "Defeat Dot without breaking more than 3 of her petals and without breaking any of her vines or flower buds",
+		"desc"    : "击败点点且未破坏超过3片花瓣，未破坏任何藤蔓或花蕾",
 	},
 	"DR_dot2" : {
 		"name"    : "Parabola of Vines",
-		"desc"    : "Break both of Dot's vines without breaking any of her flower buds or petals (Story Mode)",
+		"desc"    : "破坏点点的两根藤蔓，且未破坏任何花蕾与花瓣（故事模式）",
 	},
 	"DR_glacia1" : {
 		"name"    : "Fragile Flower",
-		"desc"    : "Defeat Glacia without breaking more than 4 of her petals in a level 6 battle or higher",
+		"desc"    : "在等级至少为6的战斗中，击败星川且未破坏超过4片花瓣",
 	},
 	"DR_glacia2" : {
 		"name"    : "Glass Harvest",
-		"desc"    : "Break 48 of Glacia's petals across all battles (Story Mode)",
+		"desc"    : "在全部战斗中总共破坏48片星川的花瓣（故事模式）",
 	},
 	"DR_alter_glacia1" : {
 		"name"    : "Become So Numb",
-		"desc"    : "Defeat Alter Glacia with a 100% full combo while staying in focus mode for the entire battle",
+		"desc"    : "击败异相星川并达成100%连击，且在整场战斗中均保持专注模式",
 	},
 	"DR_alter_glacia2" : {
 		"name"    : "Frozen Mote Harvest",
-		"desc"    : "Extract 20,000 total motes from Alter Glacia (Story Mode)",
+		"desc"    : "从异相星川处总共提取20000魔尘（故事模式）",
 	},
 	"DR_null_glacia1" : {
 		"name"    : "Null Harvest",
-		"desc"    : "Break 48 of Null Glacia's petals across all battles",
+		"desc"    : "在所有战斗中总共破坏48片空无星川的花瓣",
 	},
 	"DR_null_glacia2" : {
 		"name"    : "She Loves Me Not",
-		"desc"    : "Defeat Null Glacia, while leaving exactly one of her petals unbroken (Story Mode)",
+		"desc"    : "击败空无星川，且刚好留下1片花瓣未破坏（故事模式）",
 	},
 	"DR_vitrea1" : {
 		"name"    : "Lightning Reflex",
-		"desc"    : "Defeat Vitrea with a 100% full combo in a level 5 battle or higher",
+		"desc"    : "在等级至少为5的战斗中，击败琉璃并达成100%连击",
 	},
 	"DR_vitrea2" : {
 		"name"    : "Kracked Flower",
-		"desc"    : "Break all of Vitrea's breakable petals in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中，破坏琉璃全部可破坏的花瓣（故事模式）",
 	},
 	"DR_alter_vitrea1" : {
 		"name"    : "Mowing The Glass",
-		"desc"    : "Break 4 of Alter Vitrea's thorns before her fear drops below 50%",
+		"desc"    : "在异相琉璃的恐惧降到50%前破坏她的4根荆棘",
 	},
 	"DR_alter_vitrea2" : {
 		"name"    : "In Bloom",
-		"desc"    : "Defeat Alter Vitrea without taking damage or using panic attacks (Story Mode)",
+		"desc"    : "击败异相琉璃并未受到伤害且未使用恐慌攻击（故事模式）",
 	},
 	"DR_rage_duet1" : {
 		"name"    : "Rage Harvest",
-		"desc"    : "During a single battle with Rage Duet, break all of the breakable petals on both monsters",
+		"desc"    : "在与燃怒二重奏的单场战斗中，破坏二者身上所有可破坏的花瓣",
 	},
 	"DR_rage_duet2" : {
 		"name"    : "Inside the Fire",
-		"desc"    : "During a battle with Rage Duet, absorb 111 bullets with a single panic attack (Story Mode)",
+		"desc"    : "在与燃怒二重奏的战斗中，使用单个恐慌攻击吸收111颗子弹（故事模式）",
 	},
 	"DR_pearl1" : {
 		"name"    : "Uneven Flow",
-		"desc"    : "Defeat Pearl with a 100% full combo in any battle of an odd numbered level",
+		"desc"    : "在任何奇数等级的战斗中击败珍珠并达成100%连击",
 	},
 	"DR_pearl2" : {
 		"name"    : "Strong in the Real Way",
-		"desc"    : "Defeat Pearl after taking damage 4 times in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中受到伤害4次后击败珍珠（故事模式）",
 	},
 	"DR_momo1" : {
 		"name"    : "Glamomorous",
-		"desc"    : "Defeat Momo without breaking any of her orange petals in a level 5 battle or higher",
+		"desc"    : "在等级至少为5的战斗中，击败茉茉且未破坏她的任何橙色花瓣",
 	},
 	"DR_momo2" : {
 		"name"    : "Dance of Death",
-		"desc"    : "Break 25 of Momo's murder blossoms across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏25个茉茉的谋杀之花（故事模式）",
 	},
 	"DR_shy_momo1" : {
 		"name"    : "Petals in the Golden Wind",
-		"desc"    : "Break at least 100 of Shy Momo's golden bloom petals in a single level 7 battle or higher",
+		"desc"    : "在单场等级至少为7的战斗中，至少破坏100片羞涩茉茉的金色花瓣",
 	},
 	"DR_shy_momo2" : {
 		"name"    : "Stage Fright",
-		"desc"    : "Break all of Shy Momo's green petals in a single battle (Story Mode)",
+		"desc"    : "在单场战斗中，破坏羞涩茉茉的全部绿色花瓣（故事模式）",
 	},
 	"DR_kiwi1" : {
 		"name"    : "Kiwi Harvest",
-		"desc"    : "Break 120 of Kiwi's petals across all battles",
+		"desc"    : "在所有战斗中总共破坏120片几维的花瓣",
 	},
 	"DR_kiwi2" : {
 		"name"    : "Favorite Flower",
-		"desc"    : "Defeat Kiwi while only breaking petals on a single flower (Story Mode)",
+		"desc"    : "击败几维，且仅破坏其中一朵花上的花瓣（故事模式）",
 	},
 	"DR_echo1" : {
 		"name"    : "Echo Harvest",
-		"desc"    : "Break 111 of Echo's petals across all battles",
+		"desc"    : "在所有战斗中总共破坏111片回声的花瓣",
 	},
 	"DR_echo2" : {
 		"name"    : "Echo's Birthday Hug",
-		"desc"    : "Stay between Echo's petals for 3 consecutive seconds before breaking any of them (Story Mode)",
+		"desc"    : "在破坏任何花瓣之前在回声的花瓣之间保持至少3秒（故事模式）",
 	},
 	
 	
 	
 	"DR_split_veyeral1" : {
 		"name"    : "Division By Zero",
-		"desc"    : "Have 16 tiny Split Veyerals exist at once in a level 4 battle",
+		"desc"    : "在等级为4的战斗中，让16个小型分裂维目尔同时存在",
 	},
 	"DR_split_veyeral2" : {
 		"name"    : "Half Empty",
-		"desc"    : "Have exactly 2 of the largest Split Veyerals exist at once and nothing more (Story Mode)",
+		"desc"    : "在场上仅剩下两个最大的分裂维目尔同时存在（故事模式）",
 	},
 	"DR_burning_veyeral1" : {
 		"name"    : "Burn It Down!",
-		"desc"    : "Defeat Burning Veyeral in 30 seconds or less",
+		"desc"    : "在30秒之内击败燃烧维目尔",
 	},
 	"DR_burning_veyeral2" : {
 		"name"    : "Full Burn!",
-		"desc"    : "Defeat Burning Veyeral with a 100% full combo (Story Mode)",
+		"desc"    : "击败燃烧维目尔并达成100%连击（故事模式）",
 	},
 	"DR_voltage_veyeral1" : {
 		"name"    : "Cannot Stop The Battery!",
-		"desc"    : "Defeat Voltage Veyeral with a 100% full combo in a level 6 battle",
+		"desc"    : "在等级为6的战斗中，击败高压维目尔并达成100%连击",
 	},
 	"DR_voltage_veyeral2" : {
 		"name"    : "High Voltage",
-		"desc"    : "Break 100 of Voltage Veyeral's orbs across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏100个高压维目尔的球体（故事模式）",
 	},
 	"DR_venom_veyeral1" : {
 		"name"    : "Aerial Toxicity",
-		"desc"    : "Defeat Venom Veyeral without letting a single toxic rock leave the screen while breaking at least 9 of them",
+		"desc"    : "击败剧毒维目尔，并未让任何1个毒素石离开屏幕且破坏至少9个",
 	},
 	"DR_venom_veyeral2" : {
 		"name"    : "Deep Breath",
-		"desc"    : "Defeat Venom Veyeral while staying in focus mode for the entire battle (Story Mode)",
+		"desc"    : "击败剧毒维目尔，且整场战斗均保持在专注模式（故事模式）",
 	},
 	"DR_frozen_veyeral1" : {
 		"name"    : "Trapped Under Ice",
-		"desc"    : "Defeat Frozen Veyeral without hitting the main Veyeral even once",
+		"desc"    : "击败冰封维目尔，且一次都没有击中主要的维目尔",
 	},
 	"DR_frozen_veyeral2" : {
 		"name"    : "100 Sub Zero",
-		"desc"    : "Break 100 of Frozen Veyeral's orbs across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏100个冰封维目尔的球体（故事模式）",
 	},
 	"DR_vibrant_veyeral1" : {
 		"name"    : "Color Inside the Lines",
-		"desc"    : "Defeat Vibrant Veyeral without breaking any of her projectiles or paint bombs",
+		"desc"    : "击败活力维目尔且未破坏任何射弹或颜料炸弹",
 	},
 	"DR_vibrant_veyeral2" : {
 		"name"    : "Radiant Eclipse",
-		"desc"    : "Defeat Vibrant Veyeral with a 100% full combo without using panic attacks (Story Mode)",
+		"desc"    : "击败活力维目尔并达成100%连击且未使用恐慌攻击（故事模式）",
 	},
 	"DR_veyeral_quartet1" : {
 		"name"    : "Harbingers of Love",
-		"desc"    : "Survive in Veyeral Quartet's final phase for 1 minute in a level 10 battle or higher",
+		"desc"    : "在等级至少为10的战斗中，在维目尔四重奏的最终阶段存活1分钟",
 	},
 	"DR_veyeral_quartet2" : {
 		"name"    : "Light, Warmth, Spark, Chemistry",
-		"desc"    : "During a battle with Veyeral Quartet, hit all four Veyerals at the same time (Story Mode)",
+		"desc"    : "在与维目尔四重奏的战斗中，同时击中4个维目尔（故事模式）",
 	},
 	"DR_veyeral_rain1" : {
 		"name"    : "Love You in Particular",
-		"desc"    : "Defeat Veyeral Rain while only breaking Blood Bullet Veyerals in a level 4 battle or higher",
+		"desc"    : "在等级至少为4的战斗中击败维目尔之雨，且仅破坏发射血子弹的维目尔",
 	},
 	"DR_veyeral_rain2" : {
 		"name"    : "Alone in the Rain",
-		"desc"    : "Love 100 total Veyerals in battles against Veyeral Rain (Story Mode)",
+		"desc"    : "在与维目尔之雨的战斗中总共爱过100只维目尔（故事模式）",
 	},
 	"DR_storm_veyeral1" : {
 		"name"    : "Fury of the Storm",
-		"desc"    : "Defeat an overleveled Storm Veyeral without using panic attacks",
+		"desc"    : "击败等级超越的风暴维目尔且未使用恐慌攻击",
 	},
 	"DR_storm_veyeral2" : {
 		"name"    : "Eye of the Storm",
-		"desc"    : "Make Storm Veyeral split up without breaking any Beam Veyerals (Story Mode)",
+		"desc"    : "在不破坏任何光束维目尔的情况下使风暴维目尔分裂（故事模式）",
 	},
 	"DR_molten_veyeral1" : {
 		"name"    : "Lovely Solvent",
-		"desc"    : "Defeat Molten Veyeral with a 100% full combo while breaking all of her Split Veyerals",
+		"desc"    : "击败熔融维目尔并达成100%连击，且破坏她分裂的所有维目尔",
 	},
 	"DR_molten_veyeral2" : {
 		"name"    : "When Life Gives You Oranges",
-		"desc"    : "Break 50 of Molten Veyeral's orbs across all battles (Story Mode)",
+		"desc"    : "总共破坏50个熔融维目尔的炮塔球体（故事模式）",
+	},
+	"DR_blizz_veyeral1" : {
+		"name"    : "While My Veyeral Gently Weeps",
+		"desc"    : "在等级至少为10的战斗中，不恐慌且在暴雪维目尔的第一阶段存活至少3分钟",
+	},
+	"DR_blizz_veyeral2" : {
+		"name"    : "Bloody Blizzard",
+		"desc"    : "总共破坏50个暴雪维目尔的血液瞳孔（故事模式",
 	},
 	"DR_forma1" : {
 		"name"    : "Black Hole Sun",
-		"desc"    : "Defeat Forma without breaking any of her void globs in a level 10 battle or higher",
+		"desc"    : "在等级至少为10的战斗中，击败形式且未破坏任何虚空团",
 	},
 	"DR_forma2" : {
 		"name"    : "Forma's Birthday Hug",
-		"desc"    : "In a single battle with Forma, break at least 7 void globs with panic attacks (Story Mode)",
+		"desc"    : "在与形式的单场战斗中，使用恐慌攻击破坏至少7个虚空团（故事模式）",
 	},
 	"DR_the_void1" : {
 		"name"    : "No Time At All",
-		"desc"    : "Defeat The Void in 40 seconds or less",
+		"desc"    : "在40秒之内击败虚空",
 	},
 	"DR_the_void2" : {
 		"name"    : "Through the Null and the Void",
-		"desc"    : "Defeat The Void with a 100% full combo without using panic attacks (Story Mode)",
+		"desc"    : "击败虚空并达成100%连击，且未使用恐慌攻击（故事模式）",
 	},
 	"DR_totaria1" : {
 		"name"    : "Far Below Nothing",
-		"desc"    : "Defeat Totaria in a level 13 battle",
+		"desc"    : "在等级为13的战斗中击败托塔莉娅",
 	},
 	"DR_totaria2" : {
 		"name"    : "Like It Was Nothing",
-		"desc"    : "Defeat Totaria with a 100% full combo without using panic attacks (Story Mode)",
+		"desc"    : "击败托塔莉娅并达成100%连击，且未使用恐慌攻击（故事模式）",
 	},
 	"DR_blue_veyeral1" : {
 		"name"    : "Blue's Perfect Party",
-		"desc"    : "Reach Blue Veyeral's 4th phase while leading a chain of at least 8 helpers in a level 8 battle or higher",
+		"desc"    : "在等级至少为8的战斗中，帮手链内至少有8个帮手的情况下到达蓝色维目尔的第四阶段、",
 	},
 	"DR_blue_veyeral2" : {
 		"name"    : "Perfected Perfection",
-		"desc"    : "Defeat Blue Veyeral with a 100% full combo without using panic attacks (Story Mode)",
+		"desc"    : "击败蓝色维目尔并达成100%连击，且未使用恐慌攻击（故事模式）",
 	},
 	
 	
 	
 	"DR_anomaly1" : {
 		"name"    : "Are You Even Trying?",
-		"desc"    : "Defeat Anomaly without even moving",
+		"desc"    : "不移动且击败异常Defeat Anomaly without even moving",
 	},
 	"DR_anomaly2" : {
 		"name"    : "Karmic Deficiency Disorder",
-		"desc"    : "Defeat Anomaly 3 times in Story Mode",
+		"desc"    : "在故事模式中击败异常3次",
 	},
 	"DR_stella1" : {
 		"name"    : "Here Comes the Sun",
-		"desc"    : "During a battle with Stella, do not panic and survive for at least 3 minutes",
+		"desc"    : "在与耀星的战斗中，不要恐慌且至少存活3分钟",
 	},
 	"DR_stella2" : {
 		"name"    : "Bright and Stellar",
-		"desc"    : "Break 24 of Stella's solar prongs across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏24根耀星的日之齿（故事模式）",
 	},
 	"DR_celestia1" : {
 		"name"    : "Full Moon",
-		"desc"    : "Defeat Celestia with a 100% full combo without using panic attacks",
+		"desc"    : "击败邃星并达成100%连击，且未使用恐慌攻击",
 	},
 	"DR_celestia2" : {
 		"name"    : "Celestial Shine",
-		"desc"    : "Break 24 of Celestia's lunar gems across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏24个邃星的月之宝石（故事模式）",
 	},
 	"DR_unity1" : {
 		"name"    : "All For One",
-		"desc"    : "Defeat Unity with a 100% full combo while breaking all of her rocks",
+		"desc"    : "击败团结并达成100%连击，且破坏她所有的石头",
 	},
 	"DR_unity2" : {
 		"name"    : "One For All",
-		"desc"    : "Defeat Unity without breaking any of her rocks (Story Mode)",
+		"desc"    : "击败团结且未破坏任何石头（故事模式）",
 	},
 	"DR_chroma1" : {
 		"name"    : "Attack The Light",
-		"desc"    : "Break Chroma's rainbow barrier 9 times in a single battle",
+		"desc"    : "在单场战斗中破坏铬洛玛的彩虹屏障9次",
 	},
 	"DR_chroma2" : {
 		"name"    : "Ultra Vivid",
-		"desc"    : "Defeat an overleveled Chroma in Story Mode",
+		"desc"    : "在故事模式中击败等级超越的铬洛玛",
 	},
 	"DR_duality1" : {
 		"name"    : "Shine Brightly",
-		"desc"    : "Defeat an overleveled Duality",
+		"desc"    : "击败等级超越的二相性",
 	},
 	"DR_duality2" : {
 		"name"    : "All I've Got Is Lunacy!",
-		"desc"    : "Break all of Duality's solar prongs before breaking any of their lunar gems (Story Mode)",
+		"desc"    : "在破坏任何月之宝石之前破坏所有二相性的日之齿（故事模式）",
 	},
 	"DR_trinity1" : {
 		"name"    : "Flawless Jewelry",
-		"desc"    : "Defeat Trinity without breaking any gems on their body segments",
+		"desc"    : "击败三体，且未破坏其身体部分上的宝石",
 	},
 	"DR_trinity2" : {
 		"name"    : "Thirty Trinity Treasures",
-		"desc"    : "Break 30 of Trinity's gems across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏30个三体的宝石（故事模式）",
 	},
 	"DR_nix_polyps1" : {
 		"name"    : "Hold Your Breath",
-		"desc"    : "Defeat Nix Polyps without using panic attacks in a level 10 battle or higher",
+		"desc"    : "在等级至少为10的战斗中，击败倪克斯之瘤且未使用恐慌攻击",
 	},
 	"DR_nix_polyps2" : {
 		"name"    : "Panic Disorder",
-		"desc"    : "Defeat Nix Polyps 3 times in Story Mode",
+		"desc"    : "在故事模式中击败倪克斯之瘤3次",
 	},
 	"DR_tox_polyps1" : {
 		"name"    : "Creeping Death",
-		"desc"    : "Score at least 7,500 motes in a single battle against Tox Polyps",
+		"desc"    : "在与托克斯之瘤的单场战斗中得到至少7500魔尘",
 	},
 	"DR_tox_polyps2" : {
 		"name"    : "Breathing Disorder",
-		"desc"    : "Defeat Tox Polyps 3 times in Story Mode",
+		"desc"    : "在故事模式中击败托克斯之瘤3次",
 	},
 	
 	
 	
 	"DR_shiny_knots1" : {
 		"name"    : "Knot Knott Not Naught",
-		"desc"    : "Score at least 4,400 motes in a single battle against Shiny Knot Knott",
+		"desc"    : "在与闪亮节结的单场战斗中得到至少4400魔尘",
 	},
 	"DR_shiny_knots2" : {
 		"name"    : "Slipknott",
-		"desc"    : "In a battle with Shiny Knot Knott, reveal Knott before the fear bar drops below 75% (Story Mode)",
+		"desc"    : "在与闪亮节结的战斗中，在恐惧条降至75%之前使结结现身（故事模式）",
 	},
 	"DR_shiny_joule1" : {
 		"name"    : "Kinetic Energy",
-		"desc"    : "Score at least 4,200 motes in a single battle against Shiny Joule without using panic attacks",
+		"desc"    : "在与闪亮焦耳的单场战斗中得到至少4200魔尘且未使用恐慌攻击",
 	},
 	"DR_shiny_joule2" : {
 		"name"    : "Asymptotic Vibes",
-		"desc"    : "Spend at least 99 seconds in a single battle with Shiny Joule (Story Mode)",
+		"desc"    : "在与闪亮焦耳的单场战斗中耗费至少99秒（故事模式）",
 	},
 	"DR_shiny_rendy1" : {
 		"name"    : "Radically Rendered Rendy Rending",
-		"desc"    : "Score at least 5,000 motes in a single battle against Shiny Rendy",
+		"desc"    : "在与闪亮兰迪的单场战斗中得到至少5000魔尘",
 	},
 	"DR_shiny_rendy2" : {
 		"name"    : "Scuttles and Cuddles",
-		"desc"    : "Defeat 30 aviocs in a single battle against Shiny Rendy (Story Mode)",
+		"desc"    : "在与闪亮兰迪的单场战斗中击败30只眼魔（故事模式）",
 	},
 	"DR_shiny_snowball1" : {
 		"name"    : "She's A Killer Queen",
-		"desc"    : "Score at least 4,400 motes in a single battle against Shiny Snowball without using panic attacks",
+		"desc"    : "在与闪亮雪球的单场战斗中得到至少4400魔尘且未使用恐慌攻击",
 	},
 	"DR_shiny_snowball2" : {
 		"name"    : "Where's Your Crown, Queen Nothing?",
-		"desc"    : "Defeat Shiny Snowball without breaking any of her leg armor, and score at least 2,800 motes (Story Mode)",
+		"desc"    : "击败闪亮雪球且未破坏任何腿部装甲，并获得至少2800魔尘（故事模式）",
 	},
 	"DR_philolu1" : {
 		"name"    : "The Things I Do For Love",
-		"desc"    : "Score at least 4,400 motes in a single battle against Philolu without using panic attacks",
+		"desc"    : "在与恋罗露的单场战斗中得到至少4400魔尘且未使用恐慌攻击",
 	},
 	"DR_philolu2" : {
 		"name"    : "That's The Way You Need It!",
-		"desc"    : "Defeat Philolu with a 100% Full Combo after breaking every bit of 她的心 rings (Story Mode)",
+		"desc"    : "在破坏恋罗露心之环上的所有部件后击败她，并达成100%连击（故事模式）",
 	},
 	"DR_shiny_syncron1" : {
 		"name"    : "Rage Against The Machines",
-		"desc"    : "Score at least 4,400 motes in a single battle against Shiny Syncron without using panic attacks",
+		"desc"    : "在与闪亮甲虫的单场战斗中得到至少4400魔尘且未使用恐慌攻击",
 	},
 	"DR_shiny_syncron2" : {
 		"name"    : "Killswitches Engaged",
-		"desc"    : "During a battle against Shiny Syncron, have all 4 units broken at once (Story Mode)",
+		"desc"    : "在与闪亮甲虫的战斗中，使所有四个单元同时处于破坏状态（故事模式）",
 	},
 	"DR_shiny_momo1" : {
 		"name"    : "Honorary Murder Blossom",
-		"desc"    : "Score at least 4,400 motes in a single battle against Shiny Momo without using panic attacks",
+		"desc"    : "在与闪亮茉茉的单场战斗中得到至少4400魔尘且未使用恐慌攻击",
 	},
 	"DR_shiny_momo2" : {
 		"name"    : "Simply Flourishing!",
-		"desc"    : "Defeat Shiny Momo with a 100% Full Combo after breaking all of her petals (Story Mode)",
+		"desc"    : "击败闪亮茉茉并达成100%连击，且破坏她所有的花瓣（故事模式）",
 	},
 	"DR_shiny_veyerals1" : {
 		"name"    : "Shine On You Crazy Veyerals",
-		"desc"    : "Score at least 4,800 motes in a single battle against Shiny Veyerals",
+		"desc"    : "在与闪亮维目尔的单场战斗中得到至少4800魔尘",
 	},
 	"DR_shiny_veyerals2" : {
 		"name"    : "Golden Experience",
-		"desc"    : "Defeat Shiny Veyerals with a 100% full combo in a level 6 battle or higher (Story Mode)",
+		"desc"    : "在等级至少为6的战斗中，击败闪亮维目尔并达成100%连击（故事模式）",
 	},
 	"DR_shiny_anomaly1" : {
 		"name"    : "The Enigma at Iiry Forest",
-		"desc"    : "Score at least 6,000 motes in a single battle against Shiny Anomaly",
+		"desc"    : "在与闪亮异常的单场战斗中得到至少6000魔尘",
 	},
 	"DR_shiny_anomaly2" : {
 		"name"    : "Field of Absolute Terror",
-		"desc"    : "Unleash Shiny Anomaly's most powerful attack by breaking her rainbow barrier multiple times (Story Mode)",
+		"desc"    : "通过多次破坏彩虹屏障的方式解放闪亮异常的最强攻击（故事模式）",
 	},
 	
 	
 	
 	"DR_emerald1" : {
 		"name"    : "Emerald Splash!",
-		"desc"    : "During a battle with Emerald, absorb 300 bullets with a single panic attack",
+		"desc"    : "在与绿宝石的战斗中，使用单个恐慌攻击吸收300颗子弹",
 	},
 	"DR_emerald2" : {
 		"name"    : "Mining Shame",
-		"desc"    : "Break 40 of Emerald's rocks across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏40个绿宝石的石头（故事模式）",
 	},
 	"DR_ruby1" : {
 		"name"    : "It's Also a Gun",
-		"desc"    : "Ruby fires a total of 10,000 bullets upon you",
+		"desc"    : "红宝石总共10000颗子弹之雨向你落去",
 	},
 	"DR_ruby2" : {
 		"name"    : "Mining Her Fury",
-		"desc"    : "Score at least 7,000 motes in a single battle against Ruby (Story Mode)",
+		"desc"    : "在与红宝石的单场战斗中获得至少7000魔尘（故事模式）",
 	},
 	"DR_topaz1" : {
 		"name"    : "Golden Experience Requiem",
-		"desc"    : "Defeat an overleveled Topaz with a 100% full combo in a level 12 battle or higher",
+		"desc"    : "在等级至少为12的战斗中击败等级超越的黄宝石并达成100%连击",
 	},
 	"DR_topaz2" : {
 		"name"    : "Mining Denied",
-		"desc"    : "Defeat Topaz without breaking any of her bouncing rocks (Story Mode)",
+		"desc"    : "击败黄宝石且为破坏任何她的反弹石（故事模式）",
 	},
 	"DR_sapphire1" : {
 		"name"    : "Here Comes a Thought",
-		"desc"    : "Defeat Sapphire without taking damage or using a panic attack in a level 8 battle or higher",
+		"desc"    : "在等级至少为8的战斗中击败蓝宝石且未受到伤害或使用恐慌攻击",
 	},
 	"DR_sapphire2" : {
 		"name"    : "Mining Her Patience",
-		"desc"    : "Break 40 of Sapphire's rocks across all battles (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏40个蓝宝石的石头（故事模式）",
 	},
 	"DR_citrine1" : {
 		"name"    : "Citrus Lump",
-		"desc"    : "Defeat Citrine before she can ever leave the screen",
+		"desc"    : "在橙宝石离开屏幕前击败她",
 	},
 	"DR_citrine2" : {
 		"name"    : "Mining Fragments",
-		"desc"    : "Extract 30,000 total motes from Citrine (Story Mode)",
+		"desc"    : "从橙宝石处提取30000魔尘（故事模式）",
 	},
 	"DR_amethyst1" : {
 		"name"    : "No Matter What",
-		"desc"    : "Defeat Amethyst after taking damage 4 times in a single battle",
+		"desc"    : "在单场战斗中受到伤害4次后击败紫宝石",
 	},
 	"DR_amethyst2" : {
 		"name"    : "Mining Nothing",
-		"desc"    : "Defeat Amethyst without breaking any of her bouncing rocks (Story Mode)",
+		"desc"    : "击败紫宝石且未破坏她的任何反弹石（故事模式）",
 	},
 	"DR_nova1" : {
 		"name"    : "Taste The Rainbow",
-		"desc"    : "In a single battle against Nova, break all 6 gem clones, all of their orbitals, and 4 rocks of each color",
+		"desc"    : "在与超新星的单场战斗中，破坏全部6个宝石克隆体，所有克隆体的环绕物，以及每种颜色4块石头",
 	},
 	"DR_nova2" : {
 		"name"    : "Never Miss A Beat",
-		"desc"    : "Defeat Nova with a 100% Full Combo (Story Mode)",
+		"desc"    : "击败超新星并达成100%连击（故事模式）",
 	},
 	
 	
 	
 	"DR_moss1" : {
 		"name"    : "Game Over",
-		"desc"    : "Defeat Moss within 50 seconds without breaking more than 3 of her vines",
+		"desc"    : "在50秒内击败苔藓且未破坏超过3条藤蔓",
 	},
 	"DR_moss2" : {
 		"name"    : "Total Eclipse of the Heart",
-		"desc"    : "Stay on the wrong side of Moss for 5 consecutive seconds (Story Mode)",
+		"desc"    : "在苔藓错误的一边逗留连续5秒（故事模式）",
 	},
 	"DR_scarlet1" : {
 		"name"    : "I Won't See You Tonight 2",
-		"desc"    : "Reduce Scarlet's fear to 50% without collecting a single treasure bullet",
+		"desc"    : "将绯红的恐惧削减至50%，且未收集任何宝藏子弹",
 	},
 	"DR_scarlet2" : {
 		"name"    : "Hearts Burst Into Fire",
-		"desc"    : "Defeat Scarlet with a 100% Full Combo while breaking at least 5 of her orbs (Story Mode)",
+		"desc"    : "击败绯红并达成100%连击，且破坏至少5个宝珠（故事模式）",
 	},
 	"DR_dandy1" : {
 		"name"    : "Let It Burn Under My Skin",
-		"desc"    : "Defeat Dandy without breaking any of her glyphs in a level 6 battle or higher",
+		"desc"    : "在等级至少为6的战斗中，击败丹迪且未破坏任何符文",
 	},
 	"DR_dandy2" : {
 		"name"    : "Tripping on a Hole in a Paper Heart",
-		"desc"    : "Break 60 glyphs in battles with Dandy (Story Mode)",
+		"desc"    : "在所有战斗中总共破坏60个丹迪的符文（故事模式）",
 	},
 
 	"DR_indigo1" : {
-
 		"name"    : "Restless Heart Syndrome",
-
-		"desc"    : "Fully destroy 5 of Indigo's clones in a single level 6 battle or higher",
-
+		"desc"    : "在等级至少为6的单场战斗中，完全破坏5个靛蓝的克隆体",
 	},
-
 	"DR_indigo2" : {
-
 		"name"    : "Leave How I Arrived, So Alive",
-
-		"desc"    : "Defeat Indigo without fully destroying any of her clones (Story Mode)",
-
+		"desc"    : "击败靛蓝，且未完全破坏其任何克隆体（故事模式）",
 	},
-
+	"DR_amber1" : {
+		"name"    : "From Way Up Here, It's So Serene",
+		"desc"    : "在琥珀战斗的第一阶段，触碰屏幕顶端且未受伤或恐慌",
+	},
+	"DR_amber2" : {
+		"name"    : "Heart of Glass",
+		"desc"    : "在与琥珀的单场战斗中破坏至少30个部件（故事模式）",
+	},
+	"DR_violet1" : {
+		"name"    : "I Won't See You Tonight 1",
+		"desc"    : "在未收集任何一个宝藏子弹的情况下将绛紫的生命削减至50%",
+	},
+	"DR_violet2" : {
+		"name"    : "Owner of a Lonely Heart",
+		"desc"    : "在单场战斗中，破坏绛紫的全部8个球型部件（故事模式）",
+	},
+	"DR_limbo1" : {
+		"name"    : "You're a Heartbreaker, Dream Maker",
+		"desc"    : "Defeat all 6 of Limbo's different color phases before her fear is reduced to 10%",
+	},
+	"DR_limbo2" : {
+		"name"    : "Save Me",
+		"desc"    : "Defeat Limbo with a 100% Full Combo without her ever repeating any color phases (Story Mode)",
+	},
 
 }

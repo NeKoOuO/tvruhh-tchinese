@@ -19,7 +19,6 @@
 	"extra_title"	: "Extra Info",
 	"my_records"	: "My Records",
 	
-	"common_find"	: "This monster will appear during normal encounters",
 	"quote_fear"	: "Quote from fear",
 	"quote_love"	: "Quote from love",
 	"quote_love2"	: "Quote from more love",
@@ -52,6 +51,7 @@
 	},
 	
 	"radiate_tut"		: "Radiated Monsters will reveal more details about themselves and become available in Quickplay",
+	"common_find"	: "This monster will appear during normal encounters",
 	"common_range"		: "This monster can be found during any level [VAL1]-[VAL2] normal encounters",
 	"common_single"		: "This monster can only be found during a level [VAL1] normal encounter",
 	"special_explain"	: "This monster is unlocked, but it will only appear under special conditions",
@@ -67,7 +67,9 @@
 	"to_find_low_karma"	: "This monster is drawn to those who struggle with low amounts of karma",
 	"to_find_garden"	: "This monster will answer the call of the Radiant Garden",
 	"to_find_event"		: "This monster will only appear during a certain event",
-	"to_find_heart"		: "This monster can only appear as a choice in slot 5 or higher, or in the Radiant Garden",
+	"to_find_heart"		: "This monster can only appear somewhere beyond 4 monster choices, or in the Radiant Garden",
+	"to_find_limbo"		: "Found in the garden, if any fallen heart was loved before it, or beyond 4 monster choices in the Altered Nowhere chapter",
+	"find_hint_range"	: "\n(Level [VAL1]-[VAL2])",
 
 	"monster_groups" : {
 		"group_can_radiate"	: "Can Be Radiated",
@@ -821,7 +823,7 @@
 	},
 	
 	"B_vibrant_veyeral" : {
-		"name"    : "热情维目尔",
+		"name"    : "明艳维目尔",
 		"eyeric"  : "|vai||ral||-||ris||den| (Veyeral Risden)",
 		"before"  : "There is no color here",
 		"after"   : "I can see the colors",
@@ -1044,7 +1046,7 @@
 		"before"  : "Come back to me, this is inconceivable!",
 		"after"   : "I'm not angry anymore",
 		"notes"   : "This heart was beating so fast she almost broke the container she was in. The tube was extremely hot and about to burst, but I got her to calm down in time.|L||L|There is someone she really misses. I know what that feels like. Sometimes I get so angry I want to break something too! At least... I used to feel that way. But lately, I don't seem to feel anger the same.",
-		"tips"    : "Grabbing treasure bullets will reset your combo timer, so you can stop focusing on damage to chase after some treasure!",
+		"tips"    : "She has 8 red orbs that she releases at specific fear thresholds. She resets everything at 50% fear, so you'll miss some if you didn't break the first 4 by then.",
 		"to_find" : "to_find_heart",
 	},
 	
@@ -1073,23 +1075,43 @@
 	},
 	
 	"B_amber" : {
-		"name"    : "Amber",
+		"name"    : "琥珀",
 		"eyeric"  : "|rin||li||den| (Rinleeden)",
-		"before"  : "",
-		"after"   : "",
-		"notes"   : "",
-		"tips"    : "",
+		"before"  : "And in my dreams, another day",
+		"after"   : "I am not insecure anymore",
+		"notes"   : "I found this heart in an orange tube, but the glass had so many cracks on it. It seemed like it could break open at any moment.|L||L|I can't imagine what it's like to never feel safe wherever you are... Oh, actually, I can.",
+		"tips"    : "She has 8 orange orbs, but they will only come out if you deal enough damage to her heart or the unbreakable spikes. You might miss some orbs if you spend too much time breaking other parts.",
 		"to_find" : "to_find_heart",
 	},
 	
 	"B_violet" : {
-		"name"    : "Violet",
+		"name"    : "绛紫",
 		"eyeric"  : "|mai||den| (Meyeden)",
-		"before"  : "",
-		"after"   : "",
-		"notes"   : "",
-		"tips"    : "",
+		"before"  : "No more nights, no more pain",
+		"after"   : "I am not lonely anymore",
+		"notes"   : "I found a tube of thick purple liquid today. There was another heart in it! I almost missed her! She was beating slower than any other heart I've found so far.|L||L|She wanted nothing more than for me to hold her in my hands. But I don't know how to open these tubes safely. Maybe I can find someone who knows what to do? I hope our little dream was enough for now.",
+		"tips"    : "Grabbing treasure bullets will reset your combo timer, so you can stop focusing on damage to chase after some treasure!",
 		"to_find" : "to_find_heart",
+	},
+	
+	"B_blizz_veyeral" : {
+		"name"    : "暴雪维目尔",
+		"eyeric"  : "|vai||ral||-||rah||toh||tra| (Veyeral Rahtotra)",
+		"before"  : "I will take your will",
+		"after"   : "I did not mean to be so cold",
+		"notes"   : "Despite being one of the coldest Veyerals around, she refuses to let herself freeze over for good. She waits for someone brave enough to climb her castle of ice and give her a big smooch at the top.|L||L|I don't know why she makes it so hard for herself.",
+		"tips"    : "She has a limited amount of blood pupils during the second phase of her battle. She spits them out as her fear gets lower, but she can only do this between her main attacks. You will have to wait for all of them to come out, if you want to break them.",
+	},
+	
+	"B_limbo" : {
+		"name"    : "Limbo",
+		"title"	  : "Failed Experiment",
+		"eyeric"  : "|dra|-|nah||hai||za| (Dra Nahaiza)",
+		"before"  : "I'm trapped in a vile world",
+		"after"   : "We're only here to love",
+		"notes"   : "This heart was in a much bigger tube filled with sparkly liquid. There were motes of all colors floating around in there. Unlike all the other hearts, she was beating at a normal and healthy rate. But still, I could tell that all she wanted was to get out of there, just like all the others.|L||L|\"Number 32 - Limbo - Failure\"|L|Whoever wrote this on the tube is so mean!",
+		"tips"    : "The first orb you break will always determine her next attack, but her orbs will not release any treasure bullets if she repeats an attack. She always holds the combo during her color roulette phases, so take aim and make sure you break a new color every time.",
+		"to_find" : "to_find_limbo",
 	},
 
 }

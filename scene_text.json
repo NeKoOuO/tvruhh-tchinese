@@ -1,0 +1,381 @@
+{
+
+	"scenes_viewed"		: "Scenes Unlocked",
+	"locked_hint"		: "???\nSome things are still unknown to you",
+	
+	"common_hints" : {
+		"[hint_story_any]"		: "Continue Story Mode as any character",
+		"[hint_story_char]"		: "Continue Story Mode as [CHAR]",
+		"[hint_heartbreak]"		: "Heartbreak in Story Mode as [CHAR]",
+		"[hint_find_as_char]"	: "Encounter [BOSS] as [CHAR]",
+		"[hint_love_as_char]"	: "Show love to [BOSS] as [CHAR]",
+		"[hint_meet_monster]"	: "Encounter [BOSS]'s event as [CHAR]",
+		"[hint_unlock_event]"	: "Start Story Mode after unlocking a certain event",
+		"[hint_en_shop]"		: "Continue visiting and upgrading Solara's shop",
+	},
+
+	"scene_groups" : {
+		"scenes_viewed"		: "解锁的场景",
+		"tutorial_scenes"	: "教学场景",
+		"blank_scenes"		: "她的心场景",
+		"defect_scenes"		: "缺陷场景",
+		"extra_scenes"		: "额外故事场景",
+		"qp_scenes"			: "快速挑战场景",
+		"en_scenes"			: "无尽模式场景",
+	},
+	
+	"SC_blank_tut_love_a" : {
+		"name"		: "如何去爱A",
+		"desc"		: "一位小小的机器人想要教她爱的基础。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_love_b" : {
+		"name"		: "如何去爱B",
+		"desc"		: "一场去爱小机器人的测试战斗。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_gifts" : {
+		"name"		: "力量礼物",
+		"desc"		: "小机器人解释力量礼物的机制。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_karma" : {
+		"name"		: "怪物因果",
+		"desc"		: "小机器人解释因果的机制。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_bonus" : {
+		"name"		: "额外礼物",
+		"desc"		: "小机器人解释额外礼物的机制。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_quick" : {
+		"name"		: "快速礼物",
+		"desc"		: "小机器人解释快速礼物的机制。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_challenge" : {
+		"name"		: "怪物挑战",
+		"desc"		: "小机器人解释怪物礼物挑战的机制。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_bounty" : {
+		"name"		: "奖励礼物",
+		"desc"		: "小机器人解释奖励礼物的机制。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_tetrids" : {
+		"name"		: "点亮卡牌",
+		"desc"		: "小机器人将她早早唤醒以解释如何点亮礼物与怪物。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_quick_rad" : {
+		"name"		: "点亮快速礼物",
+		"desc"		: "小机器人解释点亮快速礼物的特殊效果。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_score" : {
+		"name"		: "获取高分",
+		"desc"		: "小机器人教她如何提取魔尘。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_dreams" : {
+		"name"		: "满足梦境",
+		"desc"		: "小机器人教她如何满足她自己的梦境以及怪物们的梦境。",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_tut_shy" : {
+		"name"		: "羞涩战斗",
+		"desc"		: "小机器人解释羞涩战斗中独特的连击机制。",
+		"hint"		: "[hint_story_any]",
+	},
+	"SC_blank_tut_shiny" : {
+		"name"		: "闪亮战斗",
+		"desc"		: "小机器人解释闪亮战斗的独特机制。",
+		"hint"		: "[hint_story_any]",
+	},
+	
+	
+	
+	
+	"SC_blank_intro1" : {
+		"name"		: "Intro 1",
+		"desc"		: "This is the story of a Zaraden woman.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_intro2" : {
+		"name"		: "Intro 2",
+		"desc"		: "The Zaraden wakes up in her cave the next day. The little robot is surprised that the Zaraden remembers her.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_intro3" : {
+		"name"		: "Intro 3",
+		"desc"		: "The Zaraden wakes up again. The rain starts to worry her, but the little robot gives her hope.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_intro4" : {
+		"name"		: "Intro 4",
+		"desc"		: "The Zaraden wakes up again. The little robot consoles her as the constant rain begins to take a toll on her.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_blank_heartbreak" : {
+		"name"		: "Heartbreak",
+		"desc"		: "You saw Her Heart break.",
+		"hint"		: "[hint_heartbreak]",
+	},
+	"SC_blank_scrambla" : {
+		"name"		: "Meet Scrambla",
+		"desc"		: "Scrambla explains how her powers can help the Zaraden.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_blank_boiler" : {
+		"name"		: "Meet Boiler",
+		"desc"		: "Boiler explains how her powers can help the Zaraden.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_blank_blot" : {
+		"name"		: "Meet Blot",
+		"desc"		: "Blot takes the Zaraden to her art gallery.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_blank_sentinel" : {
+		"name"		: "Meet Sentinel",
+		"desc"		: "Sentinel 4X wants to play a game with her.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_blank_vitrea" : {
+		"name"		: "Meet Vitrea",
+		"desc"		: "Vitrea takes the Zaraden to her observatory.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_blank_void_a" : {
+		"name"		: "Meet The Void 1",
+		"desc"		: "The Zaraden meets The Void for the first time?",
+		"hint"		: "[hint_find_as_char]",
+	},
+	"SC_blank_void_b" : {
+		"name"		: "Meet The Void 2",
+		"desc"		: "The Zaraden meets The Void again on another day.",
+		"hint"		: "Encounter The Void a second time as Her Heart",
+	},
+	"SC_blank_void_end1" : {
+		"name"		: "Void Ending",
+		"desc"		: "She loved The Void.",
+		"hint"		: "[hint_love_as_char]",
+	},
+	"SC_blank_totaria_a" : {
+		"name"		: "Meet Totaria",
+		"desc"		: "The Zaraden meets Totaria for the first time.",
+		"hint"		: "[hint_find_as_char]",
+	},
+	"SC_blank_totaria_end1" : {
+		"name"		: "Totaria Ending",
+		"desc"		: "She loved Totaria?",
+		"hint"		: "[hint_love_as_char]",
+	},
+	
+	
+	
+	
+	"SC_defect_intro1" : {
+		"name"		: "Intro 1",
+		"desc"		: "This is the story of a defective Zaraden woman.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_defect_heartbreak" : {
+		"name"		: "Heartbreak",
+		"desc"		: "You saw Defect's heart break.",
+		"hint"		: "[hint_heartbreak]",
+	},
+	"SC_defect_tut1" : {
+		"name"		: "Defective Love?",
+		"desc"		: "A little robot teaches Defect about the elements of love.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_defect_tut2" : {
+		"name"		: "Beautiful Veyeral",
+		"desc"		: "The most beautiful Veyeral joins Defect and gives her the gift of Adamant Will.",
+		"hint"		: "[hint_story_char]",
+	},
+	"SC_defect_scrambla" : {
+		"name"		: "Meet Scrambla",
+		"desc"		: "Scrambla explains her link synapse powers to Defect.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_defect_boiler" : {
+		"name"		: "Meet Boiler",
+		"desc"		: "Boiler explains her link synapse powers to Defect.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_defect_blot" : {
+		"name"		: "Meet Blot",
+		"desc"		: "Blot takes Defect to her art gallery.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_defect_sentinel" : {
+		"name"		: "Meet Sentinel",
+		"desc"		: "Sentinel 4X learns to love Blue Veyeral.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_defect_vitrea" : {
+		"name"		: "Meet Vitrea",
+		"desc"		: "Vitrea takes Defect to her observatory.",
+		"hint"		: "[hint_meet_monster]",
+	},
+	"SC_defect_void_end_1a" : {
+		"name"		: "Void Ending A",
+		"desc"		: "Defect loved The Void?",
+		"hint"		: "[hint_love_as_char]",
+	},
+	"SC_defect_void_end_1b" : {
+		"name"		: "Void Ending B",
+		"desc"		: "Defect battles against the most powerful void.",
+		"hint"		: "[hint_love_as_char]",
+	},
+	"SC_defect_void_end_1c" : {
+		"name"		: "Void Ending C",
+		"desc"		: "But she did not love herself.",
+		"hint"		: "[hint_love_as_char]",
+	},
+	"SC_defect_totaria_end1" : {
+		"name"		: "Totaria",
+		"desc"		: "Defect loved Totaria.",
+		"hint"		: "[hint_love_as_char]",
+	},
+	
+	
+	
+	
+	"SC_mysterious_intro" : {
+		"name"		: "Mysterious Message",
+		"desc"		: "A message sent from a device that communicates through dreams.",
+		"hint"		: "[hint_story_any]",
+	},
+	"SC_scrambla_intro" : {
+		"name"		: "Dream of Scrambla",
+		"desc"		: "Scrambla talks to you through a dream. She wants to help you.",
+		"hint"		: "[hint_unlock_event]",
+	},
+	"SC_scrambla_max_synapse" : {
+		"name"		: "Fully Powered Scrambla",
+		"desc"		: "Scrambla has a confession to make when her link synapse is fully powered.",
+		"hint"		: "Fully upgrade Scrambla's Link Synapse",
+	},
+	"SC_boiler_intro" : {
+		"name"		: "Dream of Boiler",
+		"desc"		: "Boiler talks to you through a dream. She wants to help you.",
+		"hint"		: "[hint_unlock_event]",
+	},
+	"SC_boiler_max_synapse" : {
+		"name"		: "Fully Powered Boiler",
+		"desc"		: "Boiler has a confession to make when her link synapse is fully powered.",
+		"hint"		: "Fully upgrade Boiler's Link Synapse",
+	},
+	"SC_blot_intro" : {
+		"name"		: "Dream of Blot",
+		"desc"		: "Blot talks to you through a dream. She wants you to visit her art gallery.",
+		"hint"		: "[hint_unlock_event]",
+	},
+	"SC_vitrea_intro" : {
+		"name"		: "Dream of Vitrea",
+		"desc"		: "With the help of Amalga, Vitrea talks to you through a dream. She wants you to visit her observatory.",
+		"hint"		: "[hint_unlock_event]",
+	},
+	"SC_vitrea_upgrade1" : {
+		"name"		: "Vitrea's Backrooms",
+		"desc"		: "Vitrea explains where she keeps your gift donations.",
+		"hint"		: "Upgrade the backroom dimension in Vitrea's Observatory once",
+	},
+	"SC_vitrea_upgrade2" : {
+		"name"		: "Vitrea's Secret",
+		"desc"		: "You discover the secret that Vitrea has hidden in Amalga's backroom dimension.",
+		"hint"		: "Upgrade the backroom dimension in Vitrea's Observatory to maximum capacity",
+	},
+	"SC_sentinel_intro" : {
+		"name"		: "Dream of Sentinel",
+		"desc"		: "Sentinel 4X sends you a friend request through a dream.",
+		"hint"		: "[hint_unlock_event]",
+	},
+	"SC_anomaly_intro" : {
+		"name"		: "Anomalous Message",
+		"desc"		: "For you.\nLove, Anomaly.",
+		"hint"		: "Encounter a certain event for the first time",
+	},
+	"SC_extra_void_end1" : {
+		"name"		: "Extra Void Ending 1",
+		"desc"		: "A mysterious voice taunts you after defeating The Void a second time.",
+		"hint"		: "Defeat The Void twice in Story Mode as any characters",
+	},
+	"SC_extra_void_end2" : {
+		"name"		: "Extra Void Ending 2",
+		"desc"		: "A mysterious voice taunts you after defeating The Void a fifth time.",
+		"hint"		: "Defeat The Void five times in Story Mode as any characters",
+	},
+	"SC_credits1" : {
+		"name"		: "Credits A",
+		"desc"		: "Simple ending credits",
+		"hint"		: "[hint_story_any]",
+		"credit"	: "游戏制作人                  中文本地化\nAngel Polanco          赤銅·Syakudo",
+	},
+	
+	
+	
+	
+	"SC_quickplay_intro" : {
+		"name"		: "Quickplay Intro",
+		"desc"		: "The little robot tells her about quickplay.",
+		"hint"		: "Play Quickplay for the first time",
+	},
+
+
+	
+	
+	
+	
+	"SC_en_shop_first" : {
+		"name"		: "First Shop Visit",
+		"desc"		: "Solara welcomes you to your happy place.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_price1" : {
+		"name"		: "Prices Go Up",
+		"desc"		: "Solara explains how karma prices go up every time you take a gift.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_price2" : {
+		"name"		: "Prices Go Up Again",
+		"desc"		: "Solara explains how karma prices go up faster for gifts of the same type.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_love_power" : {
+		"name"		: "Love Power Device",
+		"desc"		: "Solara explains how your love power can change the cost of gifts.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_quick" : {
+		"name"		: "Quick Gifts Stocked",
+		"desc"		: "Solara now has Quick Gifts available.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_blessings" : {
+		"name"		: "Blessings Stocked",
+		"desc"		: "Solara now has Blessings available.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_burdens" : {
+		"name"		: "Burdens Stocked",
+		"desc"		: "Solara now has Burdens available.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_dupes" : {
+		"name"		: "Duplicates Stocked",
+		"desc"		: "Solara can duplicate your power gifts now.",
+		"hint"		: "[hint_en_shop]",
+	},
+	"SC_en_shop_remove" : {
+		"name"		: "Removing Gifts",
+		"desc"		: "Solara explains why you would want to remove gifts.",
+		"hint"		: "[hint_en_shop]",
+	},
+
+}

@@ -4,8 +4,8 @@ version="Early Access v8.9t2"
 [font_data]
 main_font="XiaolaiSC-Regular.ttf"
 main_size=20
-small_font="test3.ttf"
+small_font="forsungnew.ttf"
 small_size=12
-tiny_font="fusion12new.ttf"
+tiny_font="test3.ttf"
 tiny_size=9
 auto_wrap=1
