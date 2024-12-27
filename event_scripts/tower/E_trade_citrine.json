@@ -16,7 +16,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|太好了!",
+			"dialog"			: "|wave|太好了！",
 		},
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],

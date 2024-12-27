@@ -57,7 +57,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "哦!    她的头发是...   红色的?",
+			"dialog"			: "哦！    她的头发是...   红色的？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],

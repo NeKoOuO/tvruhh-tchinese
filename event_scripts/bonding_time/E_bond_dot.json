@@ -2,160 +2,160 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "Oh! I was looking for you.",
+			"dialog"			: "哦！我刚刚在找你。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
-			"dialog"			: "I was wondering-",
+			"dialog"			: "我在想——",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "Can I hug you again?|!||L|I know I can do it better this time.",
+			"dialog"			: "我可以再次和你拥抱吗？|!||L|我知道我这次能做的更好。",
 		},
 	],
 	"intro_defect" : [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
-			"dialog"			: "I was wondering-",
+			"dialog"			: "我在想——",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "Can I please practice hugging you?",
+			"dialog"			: "我能否和你练习拥抱？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "I'm afraid my perfect embrace would prove far too overwhelming for you at the moment.",
+			"dialog"			: "我担心我的完美拥抱现在对你而言过于压倒性了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "Why don't you ask my darling Defect?",
+			"dialog"			: "你为什么不去问问我亲爱的缺陷呢？",
 		},
 	],
 	"intro_twins" : [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
-			"dialog"			: "Oh! I found you again.",
+			"dialog"			: "哦！我又找到你们了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "Can I please practice hugging one of you?",
+			"dialog"			: "我可以和你们其中一位练习拥抱吗？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
-			"dialog"			: "I would, but-",
+			"dialog"			: "我当然可以，但是——",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "My sister was just telling me about how she wanted more practice too.",
+			"dialog"			: "我姐姐刚刚告诉我她也想要更多练习。",
 		},
 	],
 	
-	"monster_mood"		: "Dot's Mood",
-	"monster_stuff"		: "Dot's [VAL1]",
-	"healing_gifts"		: "Healing Gifts",
-	"rating_title"		: "Hug Rating [VAL1]%",
+	"monster_mood"		: "点点的心情",
+	"monster_stuff"		: "点点的[VAL1]",
+	"healing_gifts"		: "治愈礼物",
+	"rating_title"		: "拥抱评分[VAL1]%",
 	
-	"op_power"		: "Practice Grip",
-	"op_pendulum"	: "Practice Balance",
-	"op_circle"		: "Practice Elegance",
-	"op_dodge"		: "Practice Finesse",
-	"op_big_hug"	: "The Big Hug",
-	"op_burden"		: "Take on a burden",
-	"op_sleep"		: "Take a nap",
+	"op_power"		: "练习抓握",
+	"op_pendulum"	: "练习平衡",
+	"op_circle"		: "练习优雅",
+	"op_dodge"		: "练习精细",
+	"op_big_hug"	: "超大拥抱",
+	"op_burden"		: "收下一个负担",
+	"op_sleep"		: "小睡一下",
 	
-	"op_hold"		: "Hold her longer",
-	"op_stop"		: "Practice another hug",
+	"op_hold"		: "再抱一会",
+	"op_stop"		: "练习另一个拥抱",
 	
-	"op_heal"		: "Cure bleeding",
-	"op_ignore"		: "Ignore it",
+	"op_heal"		: "治愈流血",
+	"op_ignore"		: "无视它",
 	
 	"comment_first"		: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-		"dialog"	: "I will achieve a perfect hug.",
+		"dialog"	: "我将会达成一个完美的拥抱。",
 	},
 	"comment_normal"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-		"dialog"	: "What should I practice next?",
+		"dialog"	: "我接下来应该练习什么？",
 	},
 	"comment_hold"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain"],
-		"dialog"	: "Please don't let go yet.",
+		"dialog"	: "请先不要放手。",
 	},
 	"comment_bleed"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-		"dialog"	: "Please let me heal you.",
+		"dialog"	: "请让我治愈你。",
 	},
 	
 	"to_hug_first_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "Dot,   you've been following me for like an hour.",
+			"dialog"			: "点点，   你跟着我快一个小时了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "I was waiting for you to ask!",
+			"dialog"			: "我在等你问我！",
 		},
 	],
 	"to_hug_first_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "Come here Dot.",
+			"dialog"			: "快来这里，点点。",
 		},
 	],
 	"to_hug_first_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "Uh, Sure.   You can practice on me.",
+			"dialog"			: "呃，当然了。   你可以用我来练习。",
 		},
 	],
 	"to_hug_first_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "First, you have to agree to give me your soul.",
+			"dialog"			: "首先，你必须同意给我你的灵魂。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-			"dialog"			: "|wave|Yeah, sure!",
+			"dialog"			: "|wave|当然了！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
-			"dialog"			: "Right on!",
+			"dialog"			: "好耶！",
 		},
 	],
 	"to_hug_first_reply" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "You're actually letting me do this!",
+			"dialog"			: "你真的让我这样做了！",
 		},
 	],
 	"to_hug" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "Get Ready!",
-			"dialog_rand2"		: "Here I come!",
-			"dialog_rand3"		: "It will be perfect this time!",
-			"dialog_rand4"		: "I'll get it right this time!",
+			"dialog_rand1"		: "准备好！",
+			"dialog_rand2"		: "我来了！",
+			"dialog_rand3"		: "这次会是完美的！",
+			"dialog_rand4"		: "这次我会做对的！",
 		},
 	],
 	"to_big_hug_first" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_very_happy"],
-			"dialog"			: "Yay!",
+			"dialog"			: "好耶！",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-			"dialog"			: "I will use two techniques in a row for this one.",
+			"dialog"			: "这次我会连续使用两个技巧。",
 		},
 	],
 	"to_big_hug" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_very_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "|wave|Big Hug!|L|Big Hug!|L|Big Hug!",
-			"dialog_rand2"		: "Here comes another big one!",
-			"dialog_rand3"		: "|wave|La la la la laaaa",
-			"dialog_rand4"		: "|wave|Doo do doooooo|L|Big hug time!",
+			"dialog_rand1"		: "|wave|超大抱抱！|L|超大抱抱！|L|超大抱抱！",
+			"dialog_rand2"		: "我们再来抱一下！",
+			"dialog_rand3"		: "|wave|啦 啦 啦 啦 啦——",
+			"dialog_rand4"		: "|wave|嘟 嘟 嘟——|L|是超大拥抱时间！",
 		},
 	],
 	
@@ -163,101 +163,101 @@
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
 			"random"			: 2,
-			"dialog_rand1"		: "I want to work on my |C3|grip|C0| now.",
-			"dialog_rand2"		: "My |C3|grip|C0| could use some work.",
+			"dialog_rand1"		: "我现在想练习我的|C3|抓握。|C0|",
+			"dialog_rand2"		: "我的|C3|抓握|C0|技巧需要一些练习。",
 		},
 	],
 	"start_pendulum" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
 			"random"			: 2,
-			"dialog_rand1"		: "My |C3|balance|C0| needs more work.",
-			"dialog_rand2"		: "I'm going to practice my |C3|balance|C0| this time.",
+			"dialog_rand1"		: "我的|C3|平衡|C0|技巧需要一些练习。",
+			"dialog_rand2"		: "这次我要练习我的|C3|平衡。|C0|",
 		},
 	],
 	"start_circle" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
 			"random"			: 2,
-			"dialog_rand1"		: "My |C3|elegance|C0| can still be improved.",
-			"dialog_rand2"		: "I need to practice more |C3|elegance.|C0|",
+			"dialog_rand1"		: "我的|C3|优雅|C0|还能够提高。",
+			"dialog_rand2"		: "我需要更多练习我的|C3|优雅。|C0|",
 		},
 	],
 	"start_dodge" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
 			"random"			: 2,
-			"dialog_rand1"		: "The |C3|finesse|C0| of my hugs can use some work.",
-			"dialog_rand2"		: "I'm going to practice my |C3|finesse.|C0|",
+			"dialog_rand1"		: "我拥抱的|C3|精细|C0|程度需要练习。",
+			"dialog_rand2"		: "我要练习我的|C3|精细。|C0|",
 		},
 	],
 	
 	"comment_hug_crit"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
-		"dialog"	: "|wave|Perfect!",
+		"dialog"	: "|wave|完美！",
 	},
 	"comment_hug_good"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
-		"dialog"	: "|wave|Hmmmmmmmmmmmm|L||wave|Hmmmmmmmmmm",
+		"dialog"	: "|wave|嗯嗯嗯——|L||wave|嗯嗯嗯——",
 	},
 	"comment_hug_bad"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain_blush"],
-		"dialog"	: "Did that hurt?",
+		"dialog"	: "有伤到你吗？",
 	},
 	"comment_perfect_rating"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain"],
-		"dialog"	: "Oh...",
+		"dialog"	: "哦...",
 	},
 	"comment_win"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-		"dialog"	: "That was nice.",
+		"dialog"	: "刚刚真不错。",
 	},
 	"comment_lose"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-		"dialog"	: "I did it wrong again...",
+		"dialog"	: "我又搞错了...",
 	},
 	
 	"you_win_perfect" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain"],
-			"dialog"			: "This was perfect.",
+			"dialog"			: "那太完美了。",
 		},
 	],
 	"you_win_clear" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_very_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "I'm so happy with that one!",
-			"dialog_rand2"		: "That went better than I expected!",
-			"dialog_rand3"		: "I think I'm getting better at this!",
-			"dialog_rand4"		: "I've improved so much!",
+			"dialog_rand1"		: "我很喜欢这次的结果！",
+			"dialog_rand2"		: "那比我预料的要好多了！",
+			"dialog_rand3"		: "我觉得我正在变得更加擅长！",
+			"dialog_rand4"		: "我提高了好多！",
 		},
 	],
 	"you_win_between" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
 			"random"			: 4,
-			"dialog_rand1"		: "Now for the next technique!",
-			"dialog_rand2"		: "Let's keep going!",
-			"dialog_rand3"		: "|wave|Now for more embraaaaaaace",
-			"dialog_rand4"		: "Keep it going!",
+			"dialog_rand1"		: "现在进行下一个技巧！",
+			"dialog_rand2"		: "我们继续吧！",
+			"dialog_rand3"		: "|wave|现在更多的拥抱——",
+			"dialog_rand4"		: "继续继续！",
 		},
 	],
 	"you_win" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "That was pretty good, but I think I can do better.",
-			"dialog_rand2"		: "I can still improve this technique.",
-			"dialog_rand3"		: "I know I can still do better.",
+			"dialog_rand1"		: "刚刚很不错，但我觉得我能做的更好。",
+			"dialog_rand2"		: "我还能够提高这个技巧。",
+			"dialog_rand3"		: "我知道我能够做的更好。",
 		},
 	],
 	"you_lose" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_angry"],
 			"random"			: 2,
-			"dialog_rand1"		: "How am I so bad at this?",
-			"dialog_rand2"		: "Why can't I get this right?",
+			"dialog_rand1"		: "我怎么会这么糟糕？",
+			"dialog_rand2"		: "我怎么就做不对呢？",
 		},
 	],
 	
@@ -265,54 +265,54 @@
 	"after_unlocking_big_hug" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
-			"dialog"			: "I think I'm ready for-",
+			"dialog"			: "我觉得我准备好-",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_aggressive"],
-			"dialog"			: "|shake||C3|The Big Hug!|C0|",
+			"dialog"			: "|shake||C3|超大拥抱！|C0|",
 		},
 	],
 	"after_perfect_hug" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain_blush"],
 			"random"			: 3,
-			"dialog_rand1"		: "Wait. Don't let go yet.",
-			"dialog_rand2"		: "I'm not ready to let go.",
-			"dialog_rand3"		: "Let me hold on a little longer.",
+			"dialog_rand1"		: "等下，先不要放开。",
+			"dialog_rand2"		: "我还没准备好放开。",
+			"dialog_rand3"		: "让我们再拥抱一会。",
 		},
 	],
 	"after_bleeding_first" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "|shake|You're bleeding!",
+			"dialog"			: "|shake|你在流血！",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain"],
-			"dialog"			: "I hurt you.",
+			"dialog"			: "我伤害到你了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "I can fix this.",
+			"dialog"			: "我可以修好你。",
 		},
 	],
 	"after_bleeding_ignored" : [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "|shake|I cut you again!",
+			"dialog"			: "|shake|我又割到你了！",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "Please, let me heal you this time.",
+			"dialog"			: "这次请你让我治好你。",
 		},
 	],
 	"after_bleeding" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "|shake|You're bleeding again!",
+			"dialog"			: "|shake|你又在流血了！",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "I didn't mean to,    I promise.",
+			"dialog"			: "我不是故意的，    我保证。",
 		},
 	],
 	
@@ -321,55 +321,55 @@
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
 			"random"			: 3,
-			"dialog_rand1"		: "|wave|La la la laaaa",
-			"dialog_rand2"		: "|wave|Hmmmm hmmmm hmmmmmmmmm",
-			"dialog_rand3"		: "|wave|Doo do doooooo",
+			"dialog_rand1"		: "|wave|啦 啦 啦 啦 啦——",
+			"dialog_rand2"		: "|wave|哼——哼——哼——",
+			"dialog_rand3"		: "|wave|嘟 嘟 嘟——",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
 			"random"			: 2,
-			"dialog_rand1"		: "|wave|Feeeeeling so balanced right nooooooow",
-			"dialog_rand2"		: "|wave|Sooooo perfectly symetricaaaaaal",
+			"dialog_rand1"		: "|wave|感觉——现在如此平衡——",
+			"dialog_rand2"		: "|wave|超级——完美的对称——",
 		},
 	],
 	"hold_continue_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],
-			"dialog"			: "I won't let go until you are ready.",
+			"dialog"			: "你准备好之前我不会放手的。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain"],
-			"dialog"			: "Thank you so much.",
+			"dialog"			: "太感谢你了。",
 		},
 	],
 	"hold_continue_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "She may be ready for my embrace after all.",
+			"dialog"			: "她可能已经准备好接受我的拥抱了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
-			"dialog"			: "I knew I could get it right.",
+			"dialog"			: "我知道我能做到的。",
 		},
 	],
 	"hold_continue_end" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "Alright, that's probably long enough.",
+			"dialog"			: "好吧，这应该足够久了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
-			"dialog"			: "There's more I need to practice.",
+			"dialog"			: "我还有更多需要练习的。",
 		},
 	],
 	"hold_stop" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-			"dialog"			: "You're right-",
+			"dialog"			: "你说的对——",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_aggressive"],
-			"dialog"			: "I have to practice as much as I can |shake|before you try to escape.",
+			"dialog"			: "我需要尽可能多练习一下，|shake|在你试着逃离之前。",
 		},
 	],
 	
@@ -378,39 +378,39 @@
 	"bleed_heal" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "Just hold still for a moment, okay?",
+			"dialog"			: "你先不要动，好吗？",
 		},
 	],
 	"bleed_heal_defect" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "I'll fix that up for you.",
+			"dialog"			: "我会帮你补上的。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "Oh, your claws got so long.",
+			"dialog"			: "哦，你的爪子好长。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
-			"dialog"			: "|shake|No they didn't!",
+			"dialog"			: "|shake|不才没有！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "Please don't look at them.",
+			"dialog"			: "请不要看它们。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
-			"dialog"			: "|wave|I didn't see anything.",
+			"dialog"			: "|wave|我什么都没看到。",
 		},
 	],
 	"bleed_heal_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "How are you going to heal this?",
+			"dialog"			: "你要怎么治疗？",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
-			"dialog"			: "The nectar from my flower can stop the bleeding.",
+			"dialog"			: "我的花朵里的花蜜能够停止流血。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
@@ -418,71 +418,71 @@
 		},
 		{
 			"character"			: ["VOICE_thought", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "|C3|(Greeny has that look again.)",
+			"dialog"			: "|C3|（小绿又做出那种表情了）",
 		},
 	],
 	"bleed_ignore" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-			"dialog"			: "Are you sure?",
+			"dialog"			: "你确定吗？",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "Okay, I trust that you know what you can handle.",
+			"dialog"			: "好吧，我相信你知道自己能应付的程度。",
 		},
 	],
 	"bleed_ignore_devil" 		: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "You're worried about that little scratch?",
+			"dialog"			: "你在担心那个小擦伤？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "It's barely even bleeding.",
+			"dialog"			: "甚至都没在流血。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-			"dialog"			: "Okay, I trust you.",
+			"dialog"			: "好吧，我相信你。",
 		},
 	],
 	"bleed_ignore_again" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "Okay... If you're sure.",
+			"dialog"			: "好吧...如果你确定的话。",
 		},
 	],
 	"to_heal_gift" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
 			"random"			: 3,
-			"dialog_rand1"		: "That should do it.",
-			"dialog_rand2"		: "Alright, the bleeding has stopped.",
-			"dialog_rand3"		: "I've stopped the bleeding.",
+			"dialog_rand1"		: "这样应该就好了。",
+			"dialog_rand2"		: "好吧，流血应该已经停下了。",
+			"dialog_rand3"		: "我已经把流血停下了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
 			"random"			: 3,
-			"dialog_rand1"		: "Oh, I have something else that will help.",
-			"dialog_rand2"		: "Wait, take one of these too.",
-			"dialog_rand3"		: "This will help with the pain.",
+			"dialog_rand1"		: "哦，我还有点东西可能会帮到你。",
+			"dialog_rand2"		: "等下，你也把这个带走吧。",
+			"dialog_rand3"		: "这能够帮助你减轻痛苦。",
 		},
 	],
 	"comment_heal_normal"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-		"dialog"	: "Please, take one.",
+		"dialog"	: "请带走一个。",
 	},
 	"comment_heal_unknown"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-		"dialog"	: "Uh, wait. What is this?",
+		"dialog"	: "等下，这是什么？",
 	},
 	"heal_confirm"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
-		"dialog"	: "Will this help?",
+		"dialog"	: "这会帮到你吗？",
 	},
 	"heal_gift_taken" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "...I'm sorry.",
+			"dialog"			: "...对不起。",
 		},
 	],
 	
@@ -491,41 +491,41 @@
 	"to_devil_pass_out" 		: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "I told you, it's barely-",
+			"dialog"			: "我告诉过你，几乎没——",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
-			"dialog"			: "Oh,    that's a lot...",
+			"dialog"			: "哦，    这好像有点多...",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
-			"dialog"			: "I'll be right back...",
+			"dialog"			: "我等下回来...",
 		},
 	],
 	"after_devil_pass_out" 		: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "What just happened?",
+			"dialog"			: "刚刚发生了什么？",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain_blush"],
-			"dialog"			: "|shake|I'm sorry.",
+			"dialog"			: "|shake|对不起。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "I stopped the bleeding, but you fell asleep for a little while.",
+			"dialog"			: "我让流血停下了，但你睡着了一会。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad"],
-			"dialog"			: "I wasted all of our bonding time?",
+			"dialog"			: "我浪费了所有的羁绊时间？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
-			"dialog"			: "Just as the legends foretold...",
+			"dialog"			: "正如预言所说...",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "I have to be going now.",
+			"dialog"			: "我必须要走了。",
 		},
 	],
 	
@@ -535,15 +535,15 @@
 	"to_burden" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-			"dialog"			: "What are we even doing right now?",
+			"dialog"			: "我们现在究竟在做什么？",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "You don't actually have to do this, if you don't want to.",
+			"dialog"			: "你没必要这么做的，如果你不想的话。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "I'm just being selfish.",
+			"dialog"			: "我只是有点自私。I'm just being selfish.",
 		},
 	],
 	"comment_burden_choice"	: {
@@ -552,32 +552,32 @@
 	},
 	"burden_confirm"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-		"dialog"	: "..?",
+		"dialog"	: "..？",
 	},
 	"burden_taken_blank" 	: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "Why are you like this?",
+			"dialog"			: "你为什么会这样？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "I'm probably enjoying this more than you are.",
+			"dialog"			: "我可能会比你更享受它。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "We can both be selfish, okay?",
+			"dialog"			: "我们都可以自私一点，好吗？",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-			"dialog"			: "Okay, deal!",
+			"dialog"			: "好的，成交！",
 		},
 	],
 	"burden_taken" 	: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "How do you always take those bad feeling away?",
+			"dialog"			: "你是怎么一直能带走我的坏心情的？",
 		},
 	],
 
@@ -591,45 +591,45 @@
 	"to_gift" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "Wait, I have something for you.",
+			"dialog"			: "等下，我有东西要给你。",
 		},
 	],
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-		"dialog"	: "You can have any of these!",
+		"dialog"	: "你可以拿走其中任何一个！",
 	},
 	"comment_take_unknown"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-		"dialog"	: "Does this look blurry to you?",
+		"dialog"	: "你看这个也很模糊吗？",
 	},
 	"gift_confirm"		: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
-		"dialog"	: "You want this one?",
+		"dialog"	: "你想要这个吗？",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-		"dialog"	: "You don't want one?",
+		"dialog"	: "你不想要吗？",
 	},
 	"to_another_gift" 		: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_aggressive"],
-			"dialog"			: "I'm glad you like it, because you are taking another one.",
+			"dialog"			: "很高兴你喜欢它，因为你要再拿走一个。",
 		},
 	],
 	"to_last_gift" 		: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-			"dialog"			: "I knew you would take that one.",
+			"dialog"			: "我知道你会拿走它的。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_very_happy"],
-			"dialog"			: "And you get one more!",
+			"dialog"			: "并且你还要再拿一个！",
 		}
 	],
 	"to_the_end" 		: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
-			"dialog"			: "I hope it brings you perfect balance.",
+			"dialog"			: "希望它能为你带来完美的平衡。",
 		},
 	],
 	
@@ -643,11 +643,11 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
-			"dialog"			: "Oh! You almost fell over.",
+			"dialog"			: "哦！你差点要摔倒了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
-			"dialog"			: "I guess I can practice being a pillow instead.",
+			"dialog"			: "大概我可以尝试练习当一个枕头。",
 		},
 	],
 	
@@ -656,75 +656,75 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "You forgot about the surprise technique.",
+			"dialog"			: "你忘记了惊喜的技巧。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
-			"dialog"			: "Oh, I did!",
+			"dialog"			: "哦，确实！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_aggressive2"],
-			"dialog"			: "|shake|Gotcha!",
+			"dialog"			: "|shake|抓到你了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you!",
+			"dialog"			: "|wave|我爱你！",
 		},
 	],
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "You have proven yourself worthy of my perfect embrace.",
+			"dialog"			: "你向我证明了你值得我完美的拥抱。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "Here you go, Dot.",
+			"dialog"			: "来吧，点点。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain_blush"],
-			"dialog"			: "|shake|So cold!|L||!|You were right.|L||!|I wasn't ready for this.",
+			"dialog"			: "|shake|好冷！|L||!|你说的对。|L||!|我还没准备好。",
 		},
 	],
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "Now it's time for both of you to practice kissing!",
+			"dialog"			: "是时候让你们两个练习亲吻了！",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
-			"dialog"			: "|shake|I uh... I mean...|L||norm|Am I   ready    for that?",
+			"dialog"			: "|shake|我...我是说...|L||norm|我   准备好    练习那个了吗？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
-			"dialog"			: "Greeny, you're the one who said it's time to go.",
+			"dialog"			: "小绿，是你说该走了。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad"],
-			"dialog"			: "Awww I didn't mean it.",
+			"dialog"			: "哎呀我不是故意的。",
 		},
 	],
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-			"dialog"			: "So, what does it mean if you have my soul?",
+			"dialog"			: "所以，你要我的灵魂是什么意思？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "Well, I noticed you like to sing a lot while we were hugging right now.",
+			"dialog"			: "嗯，我注意到我们在拥抱时你很喜欢唱歌。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "So one day, The Devil shall call upon you.",
+			"dialog"			: "所以有一天，恶魔会召唤你。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "And you will     |shake|sing in her band!",
+			"dialog"			: "而你会在她的     |shake|乐队里演唱！",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
-			"dialog"			: "That sounds like fun!",
+			"dialog"			: "这听起来还挺有趣的！",
 		},
 	],
 	"leave_default" : [

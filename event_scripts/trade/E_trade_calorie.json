@@ -207,7 +207,7 @@
 	},
 	"comment_give_burden"	: {
 		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
-		"dialog"	: "|shake|啊啊!|norm||L|抱歉，我们刚刚想起曾经做过的一个噩梦。",
+		"dialog"	: "|shake|啊啊！|norm||L|抱歉，我们刚刚想起曾经做过的一个噩梦。",
 	},
 	"comment_give_taken"	: {
 		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
@@ -270,7 +270,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "|wave|我爱你!",
+			"dialog"			: "|wave|我爱你！",
 		},
 	],
 	
@@ -309,7 +309,7 @@
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
-			"dialog"			: "没什么!",
+			"dialog"			: "没什么！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],

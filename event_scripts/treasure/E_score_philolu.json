@@ -30,10 +30,10 @@
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "我们现在去约会吧!",
-			"dialog_rand2"		: "和我一起去约会吧!",
-			"dialog_rand3"		: "我想和你去约会!",
-			"dialog_rand4"		: "轮到我和你约会了!",
+			"dialog_rand1"		: "我们现在去约会吧！",
+			"dialog_rand2"		: "和我一起去约会吧！",
+			"dialog_rand3"		: "我想和你去约会！",
+			"dialog_rand4"		: "轮到我和你约会了！",
 		},
 	],
 	
@@ -63,7 +63,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "小绿?|!||L|你去哪了?",
+			"dialog"			: "小绿？|!||L|你去哪了？",
 		},
 		{
 			"character"			: ["VOICE_none", "CHAR_center", "MOOD_normal"],
@@ -72,10 +72,10 @@
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
 			"random"			: 4,
-            "dialog_rand1"		: "我们现在去约会吧!",
-			"dialog_rand2"		: "和我一起去约会吧!",
-			"dialog_rand3"		: "我想和你去约会!",
-			"dialog_rand4"		: "轮到我和你约会了!",
+            "dialog_rand1"		: "我们现在去约会吧！",
+			"dialog_rand2"		: "和我一起去约会吧！",
+			"dialog_rand3"		: "我想和你去约会！",
+			"dialog_rand4"		: "轮到我和你约会了！",
 		},
 	],
 	
@@ -90,17 +90,17 @@
 	},
 	"comment_leave"		: {
 		"character"	: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
-		"dialog"	: "哦，你想直接跳到告别相拥吗?",
+		"dialog"	: "哦，你想直接跳到告别相拥吗？",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_confused"],
-		"dialog"	: "今天没有感觉?",
+		"dialog"	: "今天没有感觉？",
 	},
 	
 	"start_battle" 	: [
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
-			"dialog"			: "|shake|太好了!太好了!太好了!",
+			"dialog"			: "|shake|太好了！太好了！太好了！",
 		},
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_blush"],
@@ -129,7 +129,7 @@
 		},
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
-			"dialog"			: "|shake|太好了!太好了!太好了!",
+			"dialog"			: "|shake|太好了！太好了！太好了！",
 		},
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_blush"],
@@ -178,7 +178,7 @@
 			"dialog_rand1"		: "那真是太美了。",
 			"dialog_rand2"		: "言语无法描述那一切。",
 			"dialog_rand3"		: "这对你来说也像对我而言一样好吗？",
-			"dialog_rand4"		: "你和我有同样的感觉吗?",
+			"dialog_rand4"		: "你和我有同样的感觉吗？",
 			"dialog_rand5"		: "我可能已经坠入爱河了。",
 		},
 		{
@@ -188,8 +188,8 @@
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "You got |C3|[VAL1] motes!|C0||L||!|I am so impressed by you.",
-			"dialog_rand2"		: "你获得了|C3|[VAL1]魔尘!|C0||L||!|我认为这次约会大获成功。",
+			"dialog_rand1"		: "你获得了|C3|[VAL1]魔尘！|C0||L||!|我对你印象深刻。",
+			"dialog_rand2"		: "你获得了|C3|[VAL1]魔尘！|C0||L||!|我认为这次约会大获成功。",
 		},
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_confused"],
@@ -201,22 +201,22 @@
 		},
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_happy"],
-			"dialog"			: "要知道，还有其他方法来表达爱。|L||!|比如说礼物!",
+			"dialog"			: "要知道，还有其他方法来表达爱。|L||!|比如说礼物！",
 		},
 	],
 	
 	
 	"comment_take_first"	: {
 		"character"	: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_aggressive"],
-		"dialog"	: "你要带走其中一个!",
+		"dialog"	: "你要带走其中一个！",
 	},
 	"comment_take_another"	: {
 		"character"	: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_content"],
-		"dialog"	: "再拿走一个!",
+		"dialog"	: "再拿走一个！",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_normal"],
-		"dialog"	: "要拿走这个吗，甜心?",
+		"dialog"	: "要拿走这个吗，甜心？",
 	},
 	"gift_taken" 		: [
 		{
@@ -231,7 +231,7 @@
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_happy"],
 			"random"			: 3,
 			"dialog_rand1"		: "像你这样的甜心配得上另一个。",
-			"dialog_rand2"		: "你要再拿走一个!",
+			"dialog_rand2"		: "你要再拿走一个！",
 			"dialog_rand3"		: "抱歉甜心，你必须再拿走一个。",
 		}
 	],
@@ -244,21 +244,21 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_aggressive"],
-			"dialog"			: "你又要尝试超越我了吗?",
+			"dialog"			: "你又要尝试超越我了吗？",
 		},
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱|shake|你!",
+			"dialog"			: "|wave|我爱|shake|你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "不，是你!",
+			"dialog"			: "不，是你！",
 		},
 	],
 	
@@ -269,7 +269,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "哦，呃，     你想吻一下吗?",
+			"dialog"			: "哦，呃，     你想吻一下吗？",
 		},
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
@@ -293,7 +293,7 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_confused"],
-			"dialog"			: "我的行为太过分了吗?|L||!|你感觉还好吗？",
+			"dialog"			: "我的行为太过分了吗？|L||!|你感觉还好吗？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_sad2"],
@@ -301,7 +301,7 @@
 		},
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_sad"],
-			"dialog"			: "我确信你的妹妹-",
+			"dialog"			: "我确信你的妹妹—",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_content2"],
@@ -309,7 +309,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_happy"],
-			"dialog"			: "谢谢你的约会!",
+			"dialog"			: "谢谢你的约会！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -321,11 +321,11 @@
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "你要不要亲我?",
+			"dialog"			: "你要不要亲我？",
 		},
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
-			"dialog"			: "|shake|当然!",
+			"dialog"			: "|shake|当然！",
 		},
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_blush"],
@@ -354,7 +354,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你!",
+			"dialog"			: "|wave|我爱你！",
 		},
 	],
 

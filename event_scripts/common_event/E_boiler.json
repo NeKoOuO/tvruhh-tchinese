@@ -69,7 +69,7 @@
 	},
 	"delete_confirm"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
-		"dialog"	: "你想要我们摧毁这个礼物，好吖?",
+		"dialog"	: "你想要我们摧毁这个礼物，好吖？",
 	},
 	"storage_add"		: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
@@ -370,7 +370,7 @@
 			"play_music"		: "silence",
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
-			"dialog"			: "..!",
+			"dialog"			: "..！",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
@@ -438,7 +438,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "..!|L||!|我们爱你！",
+			"dialog"			: "..！|L||!|我们爱你！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
@@ -466,7 +466,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "|shake|好吖!",
+			"dialog"			: "|shake|好吖！",
 		}
 	],
 	
@@ -497,7 +497,7 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "哦!|L||!|我们    会试着？",
+			"dialog"			: "哦！|L||!|我们    会试着？",
 		},
 		{
 			"love_hearts"		: 1,
@@ -514,7 +514,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
-			"dialog"			: "..!",
+			"dialog"			: "..！",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],

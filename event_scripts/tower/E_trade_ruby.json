@@ -12,11 +12,11 @@
 		},
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-			"dialog"			: "其他人有这么说吗?",
+			"dialog"			: "其他人有这么说吗？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "当然会的，在我跟她们说有个球能在脑子里和我说话之后!",
+			"dialog"			: "当然会的，在我跟她们说有个球能在脑子里和我说话之后！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],

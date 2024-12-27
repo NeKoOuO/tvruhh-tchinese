@@ -100,13 +100,13 @@
 	
 
 	"music_groups" : {
-		"songs_unlocked"	: "Songs Unlocked",
-		"group_all"			: "All Music",
-		"group_menu"		: "Menu Music",
-		"group_scene"		: "Scene Music",
-		"group_common"		: "Common Battle Themes",
-		"group_rare"		: "Rare Battle Themes",
-		"group_unique"		: "Unique Battle Themes",
+		"songs_unlocked"	: "解锁的音乐",
+		"group_all"			: "所有音乐",
+		"group_menu"		: "菜单音乐",
+		"group_scene"		: "场景音乐",
+		"group_common"		: "普通战斗主题",
+		"group_rare"		: "稀有战斗主题",
+		"group_unique"		: "独特战斗主题",
 	},
 	"SG_title" : {
 		"name"		: "空白旋律",
@@ -211,22 +211,22 @@
 	"SG_mystery_scene" : {
 		"name"		: "孤独暂息",
 		"desc"		: "Curious scene music",
+	},	
+	"SG_tutorbot_battle" : {
+		"name"		: "焦虑协议",
+		"desc"		: "Unit Lulu's battle theme",
 	},
 	"SG_anomaly_battle" : {
 		"name"		: "遥远距离",
-		"desc"		: "Anomaly battle theme",
+		"desc"		: "Anomaly's battle theme",
 	},
 	"SG_anomaly_battle_b" : {
 		"name"		: "光年之外",
-		"desc"		: "Shiny Anomaly battle theme",
+		"desc"		: "Shiny Anomaly's battle theme",
 	},
 	"SG_garden_battle" : {
 		"name"		: "清醒不谐",
-		"desc"		: "Nova battle theme",
-	},
-	"SG_tutorbot_battle" : {
-		"name"		: "焦虑协议",
-		"desc"		: "Unit Lulu battle theme",
+		"desc"		: "Nova's battle theme",
 	},
 	"SG_shamble_battle_3" : {
 		"name"		: "分散于时空之中",
@@ -279,6 +279,10 @@
 	"SG_special_battle_b" : {
 		"name"		: "清醒之梦混编",
 		"desc"		: "Medley of Special monster themes",
+	},
+	"SG_limbo_battle" : {
+		"name"		: "六点之间的世界",
+		"desc"		: "Limbo's battle medley",
 	},
 	"SG_green_scene" : {
 		"name"		: "跨纬度姐妹",
@@ -462,7 +466,7 @@
 		"memory"	: "Blue told me that Veyerals don't dream. Well, she says they might, but everything is dark and they can't see anything.|L||L|I can only see red when I'm awake, but my dreams have all the colors now! I never knew how beautiful blue was.",
 	},
 	"S_super_space" : {
-		"name"		: "如此遥远",
+		"name"		: "极度遥远",
 		"memory"	: "I want to take it back.|L|I left her all alone.|L|I want to see her again,|L|But, she's so far away.",
 	},
 	"S_monster_home" : {
@@ -504,7 +508,7 @@
 		"memory"	: "No! I don't want to die.|L|I'm so scared.|L|Why does she want to kill us?|L||shake|Why? Why? Why? WHY?!",
 	},
 	"S_alter_iteria" : {
-		"name"		: "Altered Iteria",
+		"name"		: "异相Iteria",
 		"memory"	: "I'll take them down myself!|L|I'll burn them all down!|L||shake|Look what they did to me!|norm||L||L|They want a devil?|L|I'll show them a devil!",
 	},
 	"S_alter_pit" : {
@@ -520,7 +524,7 @@
 		"memory"	: "I'll climb up there if I have to. I'll go up there and find her myself!|L||L|Why would she do this to me?|L||shake|HahAhaAHahaHha|L|Why? Why? Why? WHY?!",
 	},
 	"S_alter_sentaria" : {
-		"name"		: "Altered Sentaria",
+		"name"		: "异相Sentaria",
 		"memory"	: "She told me a story about a wingless Zaraden that used to live up in a lone tower. They let her live there because she was a brilliant scientist. She even made herself some fake wings that let her fly!|L||L|She just disappeared one day...|L|No one could find her.|L|I wish I could have met her.",
 	},
 	

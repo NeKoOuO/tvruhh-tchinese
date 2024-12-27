@@ -9,7 +9,7 @@
 		},
 		{
 			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_happy"],
-			"dialog"			: "本单元构建了一个|C3|礼物复制|C0|装置!",
+			"dialog"			: "本单元构建了一个|C3|礼物复制|C0|装置！",
 		},
 		{
 			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
@@ -91,7 +91,7 @@
 	},
 	"comment_no_multi"	: {
 		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush3"],
-		"dialog"	: "|shake||C3|未检测到额外效果!|C0||norm||L|本单元不建议你复制该礼物，除非你丢失了本体。",
+		"dialog"	: "|shake||C3|未检测到额外效果！|C0||norm||L|本单元不建议你复制该礼物，除非你丢失了本体。",
 	},
 	"comment_burden"	: {
 		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush2"],
@@ -107,7 +107,7 @@
 	},
 	"buy_confirm"		: {
 		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
-		"dialog"	: "制作这个礼物吗?",
+		"dialog"	: "制作这个礼物吗？",
 	},
 	"gift_taken" 		: [
 		{
@@ -115,7 +115,7 @@
 			"random"			: 4,
 			"dialog_rand1"		: "希望这个叠加效果能够帮助你。",
 			"dialog_rand2"		: "请让我知晓组合起来的效果如何。",
-			"dialog_rand3"		: "它的效果是会加倍还是会被浪费呢?",
+			"dialog_rand3"		: "它的效果是会加倍还是会被浪费呢？",
 			"dialog_rand4"		: "你必须测试一下这个礼物的效果是否被加倍了。",
 		}
 	],
@@ -134,7 +134,7 @@
 	},
 	"comment_give_favorite"	: {
 		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush"],
-		"dialog"	: "这能够生成大量的能量!",
+		"dialog"	: "这能够生成大量的能量！",
 	},
 	"comment_give_I_energy_glyph"	: {
 		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush3"],
@@ -142,7 +142,7 @@
 	},
 	"comment_give_TAG_astrayo_part"	: {
 		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush3"],
-		"dialog"	: "你从哪里得到的?|L||shake|她在附近吗?|norm|",
+		"dialog"	: "你从哪里得到的？|L||shake|她在附近吗？|norm|",
 	},
 	"comment_give_quick"	: {
 		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],
@@ -166,7 +166,7 @@
 	},
 	"give_confirm"			: {
 		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_happy"],
-		"dialog"	: "把它转化为能量吗?",
+		"dialog"	: "把它转化为能量吗？",
 	},
 	"gift_given" 		: [
 		{
@@ -202,7 +202,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "|wave|我爱你!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -237,7 +237,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|你在说什么?",
+			"dialog"			: "|shake|你在说什么？",
 		},
 		{
 			"character"			: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_blush3"],
@@ -248,7 +248,7 @@
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "好吧，现在为我做一位邪恶双子!",
+			"dialog"			: "好吧，现在为我做一位邪恶双子！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],

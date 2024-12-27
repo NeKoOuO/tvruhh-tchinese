@@ -3,8 +3,8 @@
 		{
 			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "|wave|最大兴奋!",
-			"dialog_rand2"		: "|wave|指数级兴奋!",
+			"dialog_rand1"		: "|wave|最大兴奋！",
+			"dialog_rand2"		: "|wave|指数级兴奋！",
 		},
 		{
 			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_normal"],
@@ -43,7 +43,7 @@
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_joule", "CHAR_joule_right", "MOOD_sad"],
-		"dialog"	: "你确定吗?",
+		"dialog"	: "你确定吗？",
 	},
 	
 	"start_battle" 	: [
@@ -119,7 +119,7 @@
 		{
 			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_shocked"],
 			"random"			: 2,
-			"dialog_rand1"		: "你真的在我们的头发里找到了|C3|[VAL1]魔尘?|C0|",
+			"dialog_rand1"		: "你真的在我们的头发里找到了|C3|[VAL1]魔尘？|C0|",
 			"dialog_rand2"		: "我们的头发里真的有|C3|[VAL1]魔尘|C0|卡在里面？",
 		},
 		{
@@ -167,11 +167,11 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
-			"dialog"			: "|shake|哎哟!",
+			"dialog"			: "|shake|哎哟！",
 		},
 		{
 			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_shocked"],
-			"dialog"			: "哦不!我们电到你了吗?|!||L|真对不起。",
+			"dialog"			: "哦不！我们电到你了吗？|!||L|真对不起。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
@@ -179,7 +179,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -191,11 +191,11 @@
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_pain"],
-			"dialog"			: "|shake|哎哟!",
+			"dialog"			: "|shake|哎哟！",
 		},
 		{
 			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_sad"],
-			"dialog"			: "我们电到你了吗?",
+			"dialog"			: "我们电到你了吗？",
 		},
 		{
 			"love_hearts"		: 1,
@@ -227,15 +227,15 @@
 		},
 		{
 			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_angry"],
-			"dialog"			: "|shake|什么?!",
+			"dialog"			: "|shake|什么？！",
 		},
 		{
 			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_sad"],
-			"dialog"			: "在那之后你认为你还需要问吗?",
+			"dialog"			: "在那之后你认为你还需要问吗？",
 		},
 		{
 			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_aggressive"],
-			"dialog"			: "准备形成闭合电路!",
+			"dialog"			: "准备形成闭合电路！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -255,7 +255,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "你们是想再重赛一次吗!",
+			"dialog"			: "你们是想再重赛一次吗！",
 		},
 		{
 			"love_hearts"		: 1,

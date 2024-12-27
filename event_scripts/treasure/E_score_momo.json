@@ -91,11 +91,11 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|什么?",
+			"dialog"			: "|shake|什么？",
 		},
 		{
 			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_sad"],
-			"dialog"			: "哦，你确定吗?",
+			"dialog"			: "哦，你确定吗？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
@@ -107,14 +107,14 @@
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "|wave|玩的开心，阳光!",
+			"dialog"			: "|wave|玩的开心，阳光！",
 		},
 	],
 	
 	"no_battle" 	: [
 		{
 			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_surprised_blush"],
-			"dialog"			: "|shake|没事了!我还没准备好!",
+			"dialog"			: "|shake|没事了！我还没准备好！",
 		},
 		{
 			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
@@ -134,9 +134,9 @@
 		{
 			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_very_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "|wave|盛大谢幕!",
-			"dialog_rand2"		: "|wave|我完全绽放了!",
-			"dialog_rand3"		: "|wave|那真让我心花怒放!",
+			"dialog_rand1"		: "|wave|盛大谢幕！",
+			"dialog_rand2"		: "|wave|我完全绽放了！",
+			"dialog_rand3"		: "|wave|那真让我心花怒放！",
 		},
 		{
 			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_happy"],
@@ -151,7 +151,7 @@
 		},
 		{
 			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_surprised_blush"],
-			"dialog"			: "|shake|刚刚有观众吗?!",
+			"dialog"			: "|shake|刚刚有观众吗？！",
 		},
 		{
 			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
@@ -166,15 +166,15 @@
 	
 	"comment_take_first"	: {
 		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_normal"],
-		"dialog"	: "请带走任何你想要的东西!",
+		"dialog"	: "请带走任何你想要的东西！",
 	},
 	"comment_take_another"	: {
 		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
-		"dialog"	: "带走另一个礼物吧!",
+		"dialog"	: "带走另一个礼物吧！",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_momo", "CHAR_momo_right", "MOOD_normal"],
-		"dialog"	: "这就是你的选择吗?",
+		"dialog"	: "这就是你的选择吗？",
 	},
 	"gift_taken" 		: [
 		{
@@ -198,30 +198,30 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
-			"dialog"			: "|wave|你让我心花怒放!",
+			"dialog"			: "|wave|你让我心花怒放！",
 		},
 		{
 			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
-			"dialog"			: "那我呢?",
+			"dialog"			: "那我呢？",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "我也爱你!",
+			"dialog"			: "我也爱你！",
 		},
 		{
 			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
-			"dialog"			: "我呢?",
+			"dialog"			: "我呢？",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "并且我也爱你!",
+			"dialog"			: "并且我也爱你！",
 		},
 		{
 			"character"			: ["VOICE_murder_blossom", "CHAR_murder_blossom_right", "MOOD_normal"],
@@ -258,18 +258,18 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "慢一点，女士们!|L||!|这里有足够的小蓝给你们所有人。",
+			"dialog"			: "慢一点，女士们！|L||!|这里有足够的小蓝给你们所有人。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_content"],
-			"dialog"			: "你刚刚真让我|wave|心花怒放!",
+			"dialog"			: "你刚刚真让我|wave|心花怒放！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "哦真的吗?|!||L|那是什么意思?",
+			"dialog"			: "哦真的吗？|!||L|那是什么意思?",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
@@ -277,12 +277,12 @@
 		},
 		{
 			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_awkward"],
-			"dialog"			: "好了，再见!",
+			"dialog"			: "好了，再见！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised_blush"],
-			"dialog"			: "等下!你要去哪?",
+			"dialog"			: "等下！你要去哪？",
 		},
 		{
 			"character"			: ["VOICE_none", "CHAR_center", "MOOD_normal"],
@@ -297,19 +297,19 @@
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
-			"dialog"			: "哇哦，那场舞蹈-",
+			"dialog"			: "哇哦，那场舞蹈——",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "那些荆棘藤蔓与那些锯片-",
+			"dialog"			: "那些荆棘藤蔓与那些锯片——",
 		},
 		{
 			"character"			: ["VOICE_momo", "CHAR_momo_right", "MOOD_confused"],
-			"dialog"			: "太过分了吗?",
+			"dialog"			: "太过分了吗？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "你在开玩笑吗?|L||!|下次我们再加点重金属吉他即兴吧!",
+			"dialog"			: "你在开玩笑吗？|L||!|下次我们再加点重金属吉他即兴吧！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],

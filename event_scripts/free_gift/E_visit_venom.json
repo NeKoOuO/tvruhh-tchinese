@@ -93,7 +93,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_angry"],
-			"dialog"			: "我要怎么样才能再成为    剧毒    维目尔?",
+			"dialog"			: "我要怎么样才能再成为    剧毒    维目尔？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],

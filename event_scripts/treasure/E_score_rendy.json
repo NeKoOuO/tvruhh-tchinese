@@ -147,10 +147,10 @@
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "A Rending success!",
-			"dialog_rand2"		: "Another successful Rending!",
+			"dialog_rand1"		: "A Rending success！",
+			"dialog_rand2"		: "Another successful Rending！",
 			"dialog_rand3"		: "兰迪的财宝！",
-			"dialog_rand4"		: "兰迪的宝藏!",
+			"dialog_rand4"		: "兰迪的宝藏！",
 		},
 	],
 	
@@ -197,7 +197,7 @@
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_sad"],
-			"dialog"			: "兰迪怎么会犯这样的错误?",
+			"dialog"			: "兰迪怎么会犯这样的错误？",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
@@ -221,7 +221,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "我的宝藏？|L||!|哦，你是说小蓝吗?",
+			"dialog"			: "我的宝藏？|L||!|哦，你是说小蓝吗？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],

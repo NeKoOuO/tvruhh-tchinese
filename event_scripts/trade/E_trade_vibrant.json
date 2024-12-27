@@ -43,7 +43,7 @@
 	
 	"comment_trade"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
-		"dialog"	: "我有能够交易的礼物!",
+		"dialog"	: "我有能够交易的礼物！",
 	},
 	"comment_active"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_normal"],
@@ -218,7 +218,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|好耶!",
+			"dialog"			: "|wave|好耶！",
 		},
 	],
 	
@@ -233,7 +233,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
-			"dialog"			: "不!|wave|我不相信你!|L||!|我会为此拥抱你的。",
+			"dialog"			: "不！|wave|我不相信你！|L||!|我会为此拥抱你的。",
 		},
 		{
 			"love_hearts"		: 1,
@@ -253,7 +253,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_vibrant_veyeral_right", "MOOD_happy"],
-			"dialog"			: "快停下! |wave|我不要听！",
+			"dialog"			: "快停下！|wave|我不要听！",
 		},
 		{
 			"love_hearts"		: 1,

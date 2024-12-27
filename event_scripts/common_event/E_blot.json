@@ -2,7 +2,7 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|欢迎来到我们的艺术馆！",
+			"dialog"			: "|wave|欢迎来到我们的艺术展！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
@@ -10,31 +10,31 @@
 		}
 	],
 	
-	"gallery_level"	: "艺术馆等级[VAL1]",
+	"gallery_level"	: "艺术展等级[VAL1]",
 	"total_tokens"	: "获得的总墨点信物",
 	"list_title1"	: "墨点的礼物",
 	"list_title2"	: "[NAME]的礼物",
 
-	"op_gallery"	: "艺术馆",
+	"op_gallery"	: "艺术展",
 	"op_donate"		: "捐赠礼物",
 	"op_upgrade"	: "升级",
 	"op_leave"		: "离开",
 	
-	"op_gift_amount"	: "艺术馆大小",
+	"op_gift_amount"	: "艺术展大小",
 	"op_gift_limit"		: "交易上限",
 	"op_donate_limit"	: "后室大小",
 	
 	"gallery_text"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-		"dialog"	: "来参观我们的艺术馆吧！|L|有些艺术品是我们自己绘制的，但其中大多数都是团成一团，被我们在地板上发现的。",
+		"dialog"	: "来参观我们的艺术展吧！|L|有些艺术品是我们自己绘制的，但其中大多数都是团成一团，被我们在地板上发现的。",
 	},
 	"donate_text"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-		"dialog"	: "把你的礼物捐赠给艺术馆！|L|我们会给你|C3|墨点信物|C0|和|C3|因果。|C0|",
+		"dialog"	: "把你的礼物捐赠给艺术展！|L|我们会给你|C3|墨点信物|C0|和|C3|因果。|C0|",
 	},
 	"upgrade_text"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
-		"dialog"	: "我们可以使用|C3|棱晶|C0|的力量改进这座艺术馆！",
+		"dialog"	: "我们可以使用|C3|棱晶|C0|的力量改进这个艺术展！",
 	},
 	"leave_text"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
@@ -63,7 +63,7 @@
 	},
 	"comment_max_level"	: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-		"dialog"	: "因为有你在，我们的艺术馆已经完美了，小可爱！",
+		"dialog"	: "因为有你在，我们的艺术展已经完美了，小可爱！",
 	},
 	
 	
@@ -153,7 +153,7 @@
 	},
 	"comment_donate_art"	: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-		"dialog"	: "哦，这可是真正的艺术！|L|[VAL1]",
+		"dialog"	: "哦，这才是真正的艺术！|L|[VAL1]",
 	},
 	"comment_donate_special"	: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
@@ -181,7 +181,7 @@
 	},
 	"comment_donate_taken": {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-		"dialog"	: "你刚从艺术馆里带走它。",
+		"dialog"	: "你刚从艺术展里带走它。",
 	},
 	"comment_donate_starter": {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
@@ -219,15 +219,15 @@
 	
 	"comment_upgrade_size_small"	: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-		"dialog"	: "这个艺术馆现在只能放得下|C3|[VAL1]个礼物|C0|，但使用一些棱晶，我们就能够创造空间再放一个。",
+		"dialog"	: "这个艺术展现在只能放得下|C3|[VAL1]个礼物|C0|，但使用一些棱晶，我们就能够创造空间再放一个。",
 	},
 	"comment_upgrade_size"			: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-		"dialog"	: "这个艺术馆现在只能放得下|C3|[VAL1]个礼物|C0|，但使用一些棱晶，我们就能够创造空间再放一个！",
+		"dialog"	: "这个艺术展现在只能放得下|C3|[VAL1]个礼物|C0|，但使用一些棱晶，我们就能够创造空间再放一个！",
 	},
 	"comment_upgrade_size_maxed"	: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-		"dialog"	: "这个艺术馆现在能够放得下|C3|[VAL1]个礼物|C0|！|L||wave|它已经尽善尽美了，小可爱。",
+		"dialog"	: "这个艺术展现在能够放得下|C3|[VAL1]个礼物|C0|！|L||wave|它已经尽善尽美了，小可爱。",
 	},
 	
 	"comment_upgrade_limit_first"	: {
@@ -269,7 +269,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "我们可以用这些扩充艺术馆。",
+			"dialog"			: "我们可以用这些扩充艺术展。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
@@ -284,7 +284,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "我们可以用这些扩充艺术馆。",
+			"dialog"			: "我们可以用这些扩充艺术展。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
@@ -333,11 +333,11 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "现在你每次来访我们可以让你带走|C3|2件艺术品|C0|！",
+			"dialog"			: "现在你每次来访我们可以让你带走|C3|2件艺术品！|C0|",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "这样才对，小可爱。|L||!|你已经为我们的艺术馆捐献了如此多的东西。",
+			"dialog"			: "这样才对，小可爱。|L||!|你已经为我们的艺术展捐献了如此多的东西。",
 		}
 	],
 	"upgrade_limit_to_3" 	: [
@@ -352,7 +352,7 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "现在你每次来访我们可以让你带走最多|C3|3件艺术品|C0|！",
+			"dialog"			: "现在你每次来访我们可以让你带走最多|C3|3件艺术品！|C0|",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],

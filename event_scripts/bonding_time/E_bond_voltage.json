@@ -2,195 +2,195 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Hi, Zaraden!|L||!|I'm glad I found you.",
+			"dialog"			: "你好，扎拉登！|L||!|很高兴我找到了你。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "I'm... feeling lonely.|L||!|Can I be around you for a little while?",
+			"dialog"			: "我...感觉很孤独。|L||!|我可以在你身边再呆一会吗？",
 		},
 	],
 	"intro_twins" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Hi, you two!|L||!|I'm really happy to see you.",
+			"dialog"			: "你好，你们俩！|L||!|真高兴见到你们。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "I'm... feeling lonely.|L||!|Can I be around you both for a little while?",
+			"dialog"			: "我...感觉很孤独。|L||!|我可以在你们身边再呆一会吗？",
 		},
 	],
 	"intro_charge" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I'm also feeling a little |C3|undercharged|C0| right now.",
+			"dialog"			: "我现在感觉有一点|C3|电压不足。|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|I want to shine like a mote bulb!",
+			"dialog"			: "|wave|我想要像魔尘灯泡一样闪亮！",
 		},
 	],
 	"intro_discharge" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I'm also feeling a little |C3|overcharged|C0| right now, but that's okay.",
+			"dialog"			: "我现在感觉有点|C3|充电过度|C0|了，但也没事。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I just want to relax and calm down.",
+			"dialog"			: "我只想要放松一下，冷静下来。",
 		},
 	],
 	
-	"monster_mood"		: "Voltage's Mood",
-	"monster_stuff"		: "Voltage's [VAL1]",
-	"scrapyard_gifts"	: "Scrapyard Gifts",
-	"veyerals_gifts"	: "Veyerals' Reward",
+	"monster_mood"		: "高压的心情",
+	"monster_stuff"		: "高压的[VAL1]",
+	"scrapyard_gifts"	: "废料堆礼物",
+	"veyerals_gifts"	: "维目尔的奖励",
 	
-	"op_where"		: "Where to go?",
-	"op_move"		: "Go somewhere else",
-	"op_burden"		: "Take on a burden",
-	"op_game_rain"	: "Play Veyeral Rain",
-	"op_rain_gift"	: "What is that?",
-	"op_game_scrub"	: "Discharging scrub",
-	"op_scavenge"	: "Scavenge",
-	"op_game_cards"	: "Play a card game",
-	"op_sleep"		: "Take a nap",
+	"op_where"		: "去哪里？",
+	"op_move"		: "去其他地方",
+	"op_burden"		: "收下一个负担",
+	"op_game_rain"	: "玩维目尔之雨",
+	"op_rain_gift"	: "那是什么？",
+	"op_game_scrub"	: "放电擦拭",
+	"op_scavenge"	: "搜刮",
+	"op_game_cards"	: "玩卡牌游戏",
+	"op_sleep"		: "小睡一下",
 	
-	"go_cave"		: "Small cave",
-	"go_outside"	: "Rainy field",
-	"go_scrapyard"	: "Scrapyard",
-	"go_umbrella"	: "Find an umbrella",
+	"go_cave"		: "小小洞窟",
+	"go_outside"	: "雨落原野",
+	"go_scrapyard"	: "废料堆",
+	"go_umbrella"	: "找一把雨伞",
 	
 	"main_comment_first"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "What should we do?",
+		"dialog"	: "我们应该做什么？",
 	},
 	"main_comment_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "What should we do next?",
+		"dialog"	: "我们接下来应该做什么？",
 	},
 	"move_comment"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "Where are we going?",
+		"dialog"	: "我们要去哪里？",
 	},
 	
 	"ask_where_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "Where do you want to go?",
+			"dialog"			: "你想要去哪里？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "I uh...|L||!|Hmmm...",
+			"dialog"			: "我，呃...|L||!|嗯...",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "It's okay. Take your time.",
+			"dialog"			: "没关系的，慢慢来哦。",
 		},
 	],
 	"ask_where_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "Where should we go?",
+			"dialog"			: "我们应该去哪？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Hmmm...|L||!|Let me think...",
+			"dialog"			: "嗯...|L||!|让我想想",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "Making a perfect decision takes time.",
+			"dialog"			: "完美的决定需要时间。",
 		},
 	],
 	"ask_where_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "Where are we going?",
+			"dialog"			: "我们要去哪？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Good question...|L||!|Uhhhhh...",
+			"dialog"			: "好问题...|L||!|呃呃...",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "We have |wave|allllllll|norm| day.",
+			"dialog"			: "我们有|wave|一整——|norm|天。",
 		},
 	],
 	"ask_where_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "Where shall we take this party?",
+			"dialog"			: "我们的派对要开在哪里？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "I want to...|L||!|What do I want..?",
+			"dialog"			: "我想去...|L||!|我想做什么呢..？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
-			"dialog"			: "I ponder the same thing every day.",
+			"dialog"			: "我每天也会这么思索。",
 		},
 	],
 	"ask_where_cave" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Umm, let's find a |C3|small cave|C0| to get out of the rain.",
+			"dialog"			: "呃，我们去找一个|C3|小小洞窟|C0|来躲雨吧。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Being in the rain will only charge me up even more.",
+			"dialog"			: "在雨中只会让我继续充能。",
 		},
 	],
 	"ask_where_cave_done" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Actually, I don't mind staying here in this cave for a while.",
+			"dialog"			: "实际上，我不介意在洞窟里再待一会。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I don't want to be out in the rain right now.",
+			"dialog"			: "我现在不太想出去淋雨。",
 		},
 	],
 	"ask_where_outside" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Umm, how about we go out to a |C3|rainy field?|C0|",
+			"dialog"			: "嗯，我们去|C3|雨落原野|C0|如何？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Being in the rain will charge me up just fine.",
+			"dialog"			: "在雨中就能够让我充能。",
 		},
 	],
 	"ask_where_outside_done" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Actually, I think I could stay right here where we are.",
+			"dialog"			: "实际上，我觉得我可以在这里再待一会。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I'm feeling charged up by the rain.",
+			"dialog"			: "我感觉大雨在为我充能。",
 		},
 	],
 	"ask_where_umbrella" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I think I saw a huge |C3|umbrella|C0| around here.",
+			"dialog"			: "我好像在这附近看到了个超大的|C3|雨伞。|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "That sounds like a really cozy place to calm down and rest.",
+			"dialog"			: "听上去超级舒服，可以冷静冷静，休息一下。",
 		},
 	],
 	"ask_where_scrapyard" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Oh, I know! I want to go to the |C3|scrapyard|C0| right now!",
+			"dialog"			: "哦，我知道了！我现在想要去|C3|废料堆！|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "It is kinda far, but-",
+			"dialog"			: "虽然有点远，但是——",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Being around those piles of metal in the rain will charge me up.",
+			"dialog"			: "在雨中的金属堆旁边能够让我充能。",
 		},
 	],
 	
@@ -199,102 +199,102 @@
 	"to_favorite_known" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Thanks for bringing me here!|L||!|This is exactly where I wanted to go today.",
+			"dialog"			: "谢谢你把我带过来！|L||!|这正是我今天想去的地方。",
 		},
 	],
 	"to_favorite_unknown" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Oh, I actually really wanted to come here today!",
+			"dialog"			: "哦，实际上我今天真的很想来这里！",
 		},
 	],
 	"to_wrong_but_preferred" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I wasn't thinking about this place, but this actually works for me.",
+			"dialog"			: "我其实没在想这个地方，但是也可以啦。",
 		},
 	],
 	"to_wanted_cave" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "This cozy cave is a good place to drop my charge levels.",
+			"dialog"			: "这个舒适的洞穴能够帮助我降低充能水平。",
 		},
 	],
 	"to_wanted_outside" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Being out here in the rain will charge me up.",
+			"dialog"			: "在雨中能够帮助我充能。",
 		},
 	],
 	"to_wanted_umbrella" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "The sound of the rain under this umbrella will help me calm down.",
+			"dialog"			: "雨伞下的雨声能够帮助我冷静下来。",
 		},
 	],
 	"to_wanted_umbrella_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "Come here and snuggle up with me.",
+			"dialog"			: "来这里和我依偎吧。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Alright, but be careful not to complete a circuit with me.",
+			"dialog"			: "好吧，但要小心不要和我形成闭环电路了。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "This should be safe.",
+			"dialog"			: "这应该很安全。",
 		},
 	],
 	"to_wanted_scrapyard" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "All this metal and rain will charge me up!",
+			"dialog"			: "这些金属和雨滴能够让我充能！",
 		},
 	],
 	"to_wanted_scrapyard_devil" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I can charge up easily with all this rain and metal around!",
+			"dialog"			: "有这些金属和雨滴在，我能够轻易的充能！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "Right on, little Veyeral!",
+			"dialog"			: "当然了，小小维目尔！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "The metal will charge us both up!",
+			"dialog"			: "金属能够同时为我们两个带来力量！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "There might be some cool instruments in this pile of junk.",
+			"dialog"			: "这堆垃圾里可能会有一些很酷的乐器。",
 		},
 	],
 	"to_unwanted_rain" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Oh, but I think the rain will keep overcharging me here.",
+			"dialog"			: "哦，但是我觉得这里的雨水会让我一直充能过度。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "That doesn't really matter though.",
+			"dialog"			: "不过其实也没什么关系。",
 		},
 	],
 	"to_unwanted_dry" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "It's cozy here with you.",
+			"dialog"			: "在这里和你呆在一起很舒服。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "But, do you think playing in the rain will charge me up better?",
+			"dialog"			: "但是，你觉得在雨中玩会帮助我更好的充能吗？",
 		},
 	],
 	"to_already_visited" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "And here we are again.",
+			"dialog"			: "然后我们又来了。",
 		},
 	],
 	
@@ -305,232 +305,232 @@
 	"to_mg_rain_first_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "What are those Veyerals doing way over there?",
+			"dialog"			: "那些维目尔在那里做什么呢？",
 		},
 	],
 	"to_mg_rain_first_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "Are there more Veyerals over there?|L||!|Hey! Where are you going, Blue?",
+			"dialog"			: "那里还有更多维目尔吗？|L||!|嘿！你要去哪，小蓝？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "You will understand in a moment.",
+			"dialog"			: "你等下会明白的。",
 		},
 	],
 	"to_mg_rain_first_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "Do you see those Veyerals over there?|L||!|Are they looking at us?",
+			"dialog"			: "你看到那边的那些维目尔了吗？|L||!|她们是在看着我们吗？",
 		},
 	],
 	"to_mg_rain_first_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "Are you seeing those Veyerals over there?",
+			"dialog"			: "你看到那边的那些维目尔了吗？",
 		},
 	],
 	"to_mg_rain_first" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "They are setting up a game of |C3|Veyeral Rain|C0| for us!",
+			"dialog"			: "她们正在为我们准备|C3|维目尔之雨|C0|的游戏！",
 		},
 	],
 	"to_mg_rain_long" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "It looks like those Veyerals are going to set up another game for us.",
+			"dialog"			: "看起来那些维目尔要为我们准备另一轮游戏。",
 		},
 	],
 	"to_mg_rain_short" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "Oh look, they set up another round while we weren't looking.",
-			"dialog_rand2"		: "Those Veyerals set up another round while we were busy.",
-			"dialog_rand3"		: "It looks like they are already set up and ready to go again.",
+			"dialog_rand1"		: "哦你看，我们没在看的时候她们准备好了另一轮游戏。",
+			"dialog_rand2"		: "我们在忙的时候，那些维目尔准备好了另一轮游戏。",
+			"dialog_rand3"		: "看起来她们已经准备好再来一轮了。",
 		},
 	],
 	
 	"start_rain_light" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Since the rain is really light right now, this should be an easy round.",
+			"dialog"			: "既然现在雨很小，这轮应该会比较简单。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Just count how many Veyerals with [VAL1] pass by.",
+			"dialog"			: "只需要数一数有多少带有[VAL1]的维目尔经过了。",
 		},
 	],
 	"start_rain_medium" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "The game is very simple.|L||!|Just count how many Veyerals with [VAL1] pass by.",
+			"dialog"			: "这局游戏非常简单。|L||!|只需要数一数有多少带有[VAL1]的维目尔经过了。",
 		},
 	],
 	"start_rain_heavy" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "The rain is pouring down really hard right now, so this might be a tough round.",
+			"dialog"			: "大雨现在倾泻而下，所以这一轮可能会很难。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "But I still believe in you!|L||!|Just count how many Veyerals with [VAL1] pass by.",
+			"dialog"			: "但是我仍然相信你！|L||!|只需要数一数有多少带有[VAL1]的维目尔经过了。",
 		},
 	],
 	"start_rain" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "This time, count how many Veyerals with [VAL1] pass by.",
+			"dialog"			: "这一次，数一数有多少带有[VAL1]的维目尔经过了。",
 		},
 	],
 	
 	"comment_rain_ask"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "How many Veyerals with [VAL1] did you see?",
+		"dialog"	: "你看见了多少带有[VAL1]的维目尔？",
 	},
 	"comment_rain_win"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|Yay!",
+		"dialog"	: "|wave|好耶！",
 	},
 	"comment_rain_lose"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-		"dialog"	: "|shake|Oh no!",
+		"dialog"	: "|shake|哦不！",
 	},
 	
 	"rain_win" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "You got it right!",
+			"dialog"			: "你说对了！",
 		},
 	],
 	"rain_win_streak" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "You won all three games of |C3|Veyeral Rain|C0| in a row!",
+			"dialog"			: "你连续赢得了|C3|维目尔之雨|C0|的全部三轮游戏。",
 		},
 	],
 	"rain_lose" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Well, you can't win every time.",
+			"dialog"			: "哎呀，你不可能每次都获胜的。",
 		},
 	],
 	"after_rain_final" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "It looks like they are done playing for now.",
+			"dialog"			: "看起来她们已经结束游戏了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "But that was fun, wasn't it?",
+			"dialog"			: "但是刚刚还挺好玩的，是吧？",
 		},
 	],
 	"after_rain_final_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "Did you enjoy yourself, Blue?",
+			"dialog"			: "你玩的开心吗，小蓝？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "Veyeral games are truly perfect games, are they not?",
+			"dialog"			: "维目尔游戏真是完美的游戏，对吧？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "Oh, and they wanted you to have one of these.",
+			"dialog"			: "哦，并且她们想让你收下这些。",
 		},
 	],
 	
 	"rain_gift_spot_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "Hey, what is that over there?",
+			"dialog"			: "嘿，那边的那个是什么？",
 		},
 	],
 	"rain_gift_spot_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "|wave|I see a shiny for my Sunshine.",
+			"dialog"			: "|wave|我为我的阳光找到了闪闪发光。",
 		},
 	],
 	"rain_gift_spot_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "Jackpot! I found free stuff!",
+			"dialog"			: "太棒了！我发现了免费的东西！",
 		},
 	],
 	"to_rain_reward" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "This was left here by those Veyerals that were playing Veyeral Rain with us.",
+			"dialog"			: "那些和我们一起玩维目尔之雨的维目尔们把这些留在了这里。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I think it's a gift for you!",
+			"dialog"			: "我觉得是给你的礼物！",
 		},
 	],
 	"to_rain_reward_devil" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I think this was left here by those Veyerals that were playing Veyeral Rain with us.",
+			"dialog"			: "我觉得是那些和我们一起玩维目尔之雨的维目尔们把这些留在了这里。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I think it's for you!",
+			"dialog"			: "我认为是给你的！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
-			"dialog"			: "Well, everyone does seem to like giving me free stuff.",
+			"dialog"			: "嗯，大家好像都喜欢给我免费的东西。",
 		},
 	],
 	"comment_rain_reward_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "They wanted you to take one!",
+		"dialog"	: "她们想要你拿走一个！",
 	},
 	"comment_rain_reward_unknown"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "I wonder what that is?",
+		"dialog"	: "我在想这是什么？",
 	},
 	"rain_reward_confirm"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "Are you taking this?",
+		"dialog"	: "你要拿走它吗？",
 	},
 	"rain_reward_gift_taken" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|We Veyerals really appreciate you.",
+			"dialog"			: "|wave|我们维目尔真的很喜欢你。",
 		},
 	],
 	"rain_reward_gift_taken_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "Can you believe they were just going to leave this in the field over there?",
+			"dialog"			: "真不敢相信她们就这样把这些东西留在那边的原野里了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "They were hoping you would   just   stumble upon it later.",
+			"dialog"			: "她们只是希望你之后   就   偶然发现它。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "They must be very shy.",
+			"dialog"			: "她们一定非常害羞。",
 		},
 	],
 	"rain_reward_gift_taken_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "|wave|They like you, Sunshine.",
+			"dialog"			: "|wave|她们喜欢你，阳光。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Yeah, we Veyerals really appreciate you.",
+			"dialog"			: "是呀，我们维目尔真的很喜欢你。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_blush"],
-			"dialog"			: "Well I uh-",
+			"dialog"			: "那，我——",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_content_blush"],
-			"dialog"			: "Thank you.",
+			"dialog"			: "谢谢你。",
 		},
 	],
 	
@@ -539,83 +539,83 @@
 	"to_mg_scrub_first" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "You could,    if you want to,    give me a |C3|scrubbing|C0| to reduce my charge.",
+			"dialog"			: "如果你想的话，   你可以，   帮我|C3|擦拭|C0|一下来降低我的充能。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Just scrub me with one hand.",
+			"dialog"			: "用一只手擦拭我就好。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "If you are careful, you won't be shocked.",
+			"dialog"			: "只要你足够小心，就不会被电到。",
 		},
 	],
 	"to_mg_scrub_first_blank" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "You could,    if you want to,    give me a |C3|scrubbing|C0| to reduce my charge.",
+			"dialog"			: "如果你想的话，   你可以，   帮我|C3|擦拭|C0|一下来降低我的充能。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious3"],
-			"dialog"			: "You just want pets, don't you?",
+			"dialog"			: "你只是想要被摸摸，是吧？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_angry"],
-			"dialog"			: "What? Me? Nah.",
+			"dialog"			: "什么？我？才没有。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|Okay, you're right.",
+			"dialog"			: "|wave|好吧，你说得对。",
 		},
 	],
 	"to_mg_scrub_first_twins" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "You could give me a |C3|scrubbing|C0| to reduce my charge,   if you want.",
+			"dialog"			: "如果你想的话，   你可以帮我|C3|擦拭|C0|一下来降低我的充能。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "You want my sister to give you pets, don't you?",
+			"dialog"			: "你想要我姐姐来摸摸你，是吧？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
-			"dialog"			: "Why is it always me?",
+			"dialog"			: "为什么一直是我？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "If we both do it, we might complete a circuit and both be shocked.",
+			"dialog"			: "如果我们一起的话，我们可能会形成电路然后一起被电到。",
 		},
 	],
 	"to_mg_scrub" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "You want to give me another scrub?",
+			"dialog"			: "你想要再帮我擦拭一下吗？",
 		},
 	],
 	
 	"comment_scrub_correct"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|Scrub! Scrub! Scrub!",
+		"dialog"	: "|wave|擦洗！擦洗！擦洗！",
 	},
 	"comment_scrub_miss"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_angry"],
-		"dialog"	: "|shake|Ouch!",
+		"dialog"	: "|shake|哎呦！",
 	},
 	
 	"scrub_win" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "You reduced |C3|[VAL1]%|C0| of my charge level!",
+			"dialog"			: "你降低了我充能水平的|C3|[VAL1]%！|C0|",
 		},
 	],
 	"scrub_lose" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Well, that didn't do much to my charge.",
+			"dialog"			: "嗯，那没怎么改变我的充能程度。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "But that's okay.",
+			"dialog"			: "但也没关系。",
 		},
 	],
 	
@@ -624,70 +624,70 @@
 	"to_mg_scavenge_first" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "There are a lot of random piles of junk around here.",
+			"dialog"			: "这里有许多各种各样的垃圾。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Try |C3|scavenging|C0| around here for something useful.",
+			"dialog"			: "试着在这里|C3|搜刮|C0|一些有用的东西。",
 		},
 	],
 	"to_mg_scavenge_again" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Try |C3|scavenging|C0| for something else.",
+			"dialog"			: "试着|C3|搜刮|C0|一些其他东西。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I bet you will find something even better this time!",
+			"dialog"			: "我相信你这次能找到更好的东西！",
 		},
 	],
 	
 	"comment_scavenge_correct"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "Keep on searching.",
+		"dialog"	: "继续寻找！",
 	},
 	"comment_scavenge_miss"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_angry"],
-		"dialog"	: "|shake|That stubborn piece of junk!",
+		"dialog"	: "|shake|这块破垃圾！",
 	},
 	
 	"scavenge_win" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "My charge increased by |C3|[VAL1]%|C0| while you were scavenging around!",
+			"dialog"			: "在你搜刮时，我的充能增加了|C3|[VAL1]%！|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "I might have had a little nibble of some of that scrap metal.",
+			"dialog"			: "我可能咬了一小口那块废金属。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Oh, but what did you find?",
+			"dialog"			: "哦，你找到了什么？",
 		},
 	],
 	"scavenge_lose" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "You didn't find anything good, huh?",
+			"dialog"			: "你没找到什么有用的东西吗？",
 		},
 	],
 	
 	"comment_scavenge_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "You found it. You should keep it!",
+		"dialog"	: "你找到的。你应该留下它！",
 	},
 	"comment_scavenge_unknown"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "What is that?",
+		"dialog"	: "那是什么？",
 	},
 	"scavenge_confirm"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "Are you going to keep this?",
+		"dialog"	: "你要留下它吗？",
 	},
 	"scavenge_gift_taken" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I can't believe that was just sitting here for free.",
+			"dialog"			: "真不敢相信它就只是在那里。",
 		},
 	],
 	
@@ -696,61 +696,61 @@
 	"to_mg_cards_first" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Oh look! Someone left some cards here.",
+			"dialog"			: "哦你看！有人在这里留下了一些卡片。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|Let's play a game with them.",
+			"dialog"			: "|wave|我们用它们来玩一局游戏吧。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "All you have to do is flip them over and see if the symbols match.",
+			"dialog"			: "你需要做的是把它们反过来看看上面的符号是否一样。",
 		},
 	],
 	"to_mg_cards_first_twins" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Oh look! Someone left some cards here.",
+			"dialog"			: "哦你看！有人在这里留下了一些卡片。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_happy"],
-			"dialog"			: "Let's play that game where you flip cards and see if they match!",
+			"dialog"			: "我们来玩那个翻牌配对的游戏吧！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_content"],
-			"dialog"			: "I can help, because I'm great at |C3|remembering exactly 3 things.|C0|",
+			"dialog"			: "我可以来帮忙，因为我很擅长|C3|记住正好三件事。|C0|",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
-			"dialog"			: "But don't you dare make me remember a fourth thing, |shake|or I'll forget the first one!",
+			"dialog"			: "但是可别让我去记忆第四件事，|shake|不然我会把第一个忘记的！",
 		},
 	],
 	"to_mg_cards_again" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I'm going to use more cards this time.",
+			"dialog"			: "这次我会使用更多卡牌。",
 		},
 	],
 	
 	"comment_cards_start"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "Do a flip!",
+		"dialog"	: "翻一下！",
 	},
 	"comment_cards_match"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|That's a match!",
+		"dialog"	: "|wave|配对了！",
 	},
 	"comment_cards_mood_up"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "You are doing great!",
+		"dialog"	: "你做的很不错！",
 	},
 	"comment_cards_cleared"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|All clear!",
+		"dialog"	: "|wave|通关了！",
 	},
 	"comment_cards_miss"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "Try again.",
+		"dialog"	: "再试试。",
 	},
 	"comment_cards_time_up"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
@@ -760,17 +760,17 @@
 	"cards_win" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "You got them all!",
+			"dialog"			: "你把它们全部配对了！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "And my charge went down by |C3|[VAL1]%|C0| while you were playing.",
+			"dialog"			: "并且在你玩的时候，我的充能下降了|C3|[VAL1]%。|C0|",
 		},
 	],
 	"cards_lose" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Oh, are you done playing?",
+			"dialog"			: "哦，你结束了吗？",
 		},
 	],
 	
@@ -779,29 +779,29 @@
 	"to_burden_charge_up" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I was just thinking-",
+			"dialog"			: "我刚刚在想——",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Do you think I can ever be bright enough?",
+			"dialog"			: "你觉得我是否能足够明亮？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Sometimes, I think I'll never be enough, you know?",
+			"dialog"			: "有时，我觉得我从来都不够，你懂吗？",
 		},
 	],
 	"to_burden_charge_down" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I was wondering-",
+			"dialog"			: "我在想——",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Do you think I'm too much?",
+			"dialog"			: "你会觉得我有点过分了吗？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Sometimes, I feel lonely because I'm always bothering everyone.",
+			"dialog"			: "有时我感到孤独是因为我一直在打扰其他人。",
 		},
 	],
 	"comment_burden_choice"	: {
@@ -810,13 +810,13 @@
 	},
 	"burden_confirm"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "..?",
+		"dialog"	: "..？",
 	},
 	"burden_taken" 	: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I feel so much better now.",
+			"dialog"			: "我现在感觉好多了。",
 		},
 	],
 	
@@ -825,76 +825,76 @@
 	"rain_power_up" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "The rain is getting heavier all of a sudden.",
+			"dialog"			: "雨突然下得特别大。",
 		},
 	],
 	"rain_power_down" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Oh look, the rain is getting lighter now.",
+			"dialog"			: "哦你看，雨现在变小了。",
 		},
 	],
 	"rain_power_cozy_cave" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Good thing we are safe in this cave, right?",
+			"dialog"			: "还好我们现在在安全的洞穴里，是吧？",
 		},
 	],
 	"rain_power_cozy_umbrella" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Good thing we are cozy under this umbrella right now.",
+			"dialog"			: "还好我们现在在舒服的雨伞下。",
 		},
 	],
 	"rain_power_go_out" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "I'd really like to go out there right now.",
+			"dialog"			: "我现在真的很想去外面。",
 		},
 	],
 	"rain_power_blank_reply" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "I like being nice and cozy right here while it rains outside.",
+			"dialog"			: "我喜欢在外面下雨时舒舒服服地呆在这里。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "You are so right.",
+			"dialog"			: "你太对了。",
 		},
 	],
 	"rain_power_fast_charge" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I'll be fully charged up in no time now!",
+			"dialog"			: "我很快就能被完全充能了！",
 		},
 	],
 	"rain_power_slow_charge" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Aww, it won't charge me up as fast anymore.",
+			"dialog"			: "哎呀，这样充能速度就没有那么快了。",
 		},
 	],
 	"rain_power_lower_but_cozy" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "That would be a problem    |shake|if|norm|    I wanted to charge up right now.",
+			"dialog"			: "那会是个问题，    |shake|如果|norm|    我现在是想要充能的话。",
 		},
 	],
 	"rain_power_go_in" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "We should probably find some shelter, right?",
+			"dialog"			: "我们大概应该找个避雨的地方，是吧？",
 		},
 	],
 	"rain_power_devil_reply" : [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "Maybe there'll be some thunder and lightning or something!",
+			"dialog"			: "或许会有雷声和闪电之类的！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I hope so!",
+			"dialog"			: "我也希望！",
 		},
 	],
 
@@ -906,29 +906,29 @@
 	"reach_min_charge" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
-			"dialog"			: "What?",
+			"dialog"			: "什么？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Oh no!|L||!||shake|My sparks are gone!|norm|",
+			"dialog"			: "哦不！|L||!||shake|我的电弧全都不见了！|norm|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Hold on a second.",
+			"dialog"			: "稍等一下。",
 		},
 	],
 	"reach_max_charge" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
-			"dialog"			: "What?",
+			"dialog"			: "什么？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Oh!|L||!||shake|This is way too much!|norm|",
+			"dialog"			: "哦！|L||!||shake|这太多了！|norm|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Just a moment.",
+			"dialog"			: "稍等一下。",
 		},
 	],
 	
@@ -936,27 +936,27 @@
 	"back_to_normal_form" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "That's much better.",
+			"dialog"			: "这样就好多了。",
 		},
 	],
 	"switch_to_discharge" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I think I'm feeling way too |C3|overcharged|C0| now.",
+			"dialog"			: "我觉得我现在|C3|充能过度|C0|了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I really just want to relax and get rid of all this energy.",
+			"dialog"			: "我真的很想放松一下，去除这些能量。",
 		},
 	],
 	"switch_to_recharge" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "You know what? I'm feeling way too |C3|undercharged|C0| now.",
+			"dialog"			: "你猜怎么了？我现在感觉极度|C3|充能不足。|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|I want to shine like a mote bulb!",
+			"dialog"			: "|wave|我想要像魔尘灯泡一样闪亮！",
 		},
 	],
 	
@@ -969,49 +969,49 @@
 	"to_gift" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Wait! Before you go, I have something for you!",
+			"dialog"			: "等下！在你离开之前，我有东西要给你！",
 		},
 	],
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "Take whatever you want.",
+		"dialog"	: "请随意挑选。",
 	},
 	"comment_take_unknown"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "Is that mine? Take it anyways!",
+		"dialog"	: "那是我的吗？也拿走吧！",
 	},
 	"gift_confirm"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "Do you want this?",
+		"dialog"	: "你想要它吗？",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-		"dialog"	: "You don't want anything?",
+		"dialog"	: "你什么都不想要吗？",
 	},
 	"to_another_gift" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Good choice.",
+			"dialog"			: "选的好。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I want you to take another one.",
+			"dialog"			: "我想要你再拿走一个。",
 		}
 	],
 	"to_last_gift" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Another great pick.",
+			"dialog"			: "又是优秀的选择。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I have one more for you!",
+			"dialog"			: "我还有一个要给你！",
 		}
 	],
 	"to_the_end" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I hope you like it!",
+			"dialog"			: "我希望你会喜欢它！",
 		},
 	],
 	
@@ -1024,12 +1024,12 @@
 	"sleep_response" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "I was just thinking you could be a nice pillow for me.",
+			"dialog"			: "我刚刚在想你会是个不错的枕头。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "I hope we dream together again.",
+			"dialog"			: "我希望我们能再次一起入梦。",
 		},
 	],
 	
@@ -1038,26 +1038,26 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "I'm feeling extra charged up myself.",
+			"dialog"			: "我现在也觉得自己能量十足。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Now that's some high voltage love!",
+			"dialog"			: "这可是高电压的爱！",
 		},
 	],
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Thank you for keeping me company.",
+			"dialog"			: "谢谢你一直陪伴我。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "It was no problem.",
+			"dialog"			: "没关系的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
@@ -1066,41 +1066,41 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Such praise, for me?",
+			"dialog"			: "如此赞誉，只为我吗？",
 		},
 	],
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
-			"dialog"			: "Don't forget the goodbye kiss.",
+			"dialog"			: "别忘记告别吻哦。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_blush"],
-			"dialog"			: "Oh, uh...",
+			"dialog"			: "哦，呃...",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Wait. Doesn't that hurt?",
+			"dialog"			: "等下。不疼吗？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_pain"],
-			"dialog"			: "|shake|No, it's fine.",
+			"dialog"			: "|shake|不，没事的。",
 		},
 	],
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "I was hoping for some lightning and thunder, but no luck.",
+			"dialog"			: "我还想有闪电和雷声的，可惜运气不好。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "You are already high voltage enough as it is!",
+			"dialog"			: "你的电压已经足够高了，实际上！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
-			"dialog"			: "That might just be the most righteous compliment I have   ever    gotten.",
+			"dialog"			: "这可能是我获得过的最为    正义    的赞美了。",
 		},
 	],
 	"leave_default" : [

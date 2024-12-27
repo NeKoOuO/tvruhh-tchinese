@@ -135,7 +135,7 @@
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
 			"random"			: 4,
-			"dialog_rand1"		: "|shake|好的好的!|norm||L|把这团宇宙带在你身边吧。",
+			"dialog_rand1"		: "|shake|好的好的！|norm||L|把这团宇宙带在你身边吧。",
 			"dialog_rand2"		: "|wave|明亮   而   闪耀。",
 			"dialog_rand3"		: "哦哦，我喜欢那个。",
 			"dialog_rand4"		: "这是我最喜欢的一个！",
@@ -245,7 +245,7 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "如果是这样的话，那么你能够想象的一切     |shake|一定会   存在!",
+			"dialog"			: "如果是这样的话，那么你能够想象的一切     |shake|一定会   存在！",
 		}
 	],
 	"I_little_sister_donated" 	: [
@@ -293,7 +293,7 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
-			"dialog"			: "哦! 我不小心说出来了。",
+			"dialog"			: "哦！ 我不小心说出来了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_too_happy"],

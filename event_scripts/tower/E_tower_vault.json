@@ -15,7 +15,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
-			"dialog"			: "这位扎拉登是否前来浏览|C3|棱镜宝库|C0|的内容?",
+			"dialog"			: "这位扎拉登是否前来浏览|C3|棱镜宝库|C0|的内容？",
 		},
 	],
 	
@@ -35,15 +35,15 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
-			"dialog"			: "两位扎拉登是否前来浏览|C3|棱镜宝库|C0|的内容?",
+			"dialog"			: "两位扎拉登是否前来浏览|C3|棱镜宝库|C0|的内容？",
 		},
 	],
 	
 	"gift_list_title"	: "棱镜宝库",
 
 	"op_start"		: "打开棱镜宝库",
-	"op_ask1"		: "小机器人?",
-	"op_ask2"		: "露露?",
+	"op_ask1"		: "小机器人？",
+	"op_ask2"		: "露露？",
 	"op_leave"		: "离开",
 	
 	"comment_main"		: {
@@ -52,7 +52,7 @@
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
-		"dialog"	: "你要离开了吗?",
+		"dialog"	: "你要离开了吗？",
 	},
 	
 	"auto_response" 	: [
@@ -147,7 +147,7 @@
 	"leave_blank" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
@@ -170,7 +170,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "哦! 我还从未听过这种形式的赞美呢。",
+			"dialog"			: "哦！ 我还从未听过这种形式的赞美呢。",
 		},
 	],
 	"leave_twins" : [
@@ -194,7 +194,7 @@
 	"leave_devil" : [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "等下!让我再试一次。|L||!|我能做的更好!",
+			"dialog"			: "等下！让我再试一次。|L||!|我能做的更好！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
@@ -202,7 +202,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
-			"dialog"			: "即使我看起来很伤心也不行吗?",
+			"dialog"			: "即使我看起来很伤心也不行吗？",
 		},
 	],
 	"leave_default" : [

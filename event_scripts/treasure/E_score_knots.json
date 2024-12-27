@@ -2,14 +2,14 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
-			"dialog"			: "呃... 你能帮我们个忙吗?",
+			"dialog"			: "呃... 你能帮我们个忙吗？",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
 			"random"			: 3,
-			"dialog_rand1"		: "我们找不到我们的妻子了!",
-			"dialog_rand2"		: "你看到我们的妻子了吗?",
-			"dialog_rand3"		: "我们觉得我们的妻子不见了!",
+			"dialog_rand1"		: "我们找不到我们的妻子了！",
+			"dialog_rand2"		: "你看到我们的妻子了吗？",
+			"dialog_rand3"		: "我们觉得我们的妻子不见了！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
@@ -32,14 +32,14 @@
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-			"dialog"			: "你一定要帮助我们把她找回来!",
+			"dialog"			: "你一定要帮助我们把她找回来！",
 		},
 	],
 	
 	"intro_devil" : [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "这不是节结吗!",
+			"dialog"			: "这不是节结吗！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
@@ -47,7 +47,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad"],
-			"dialog"			: "不是节结吗?|L|你们没事吗?",
+			"dialog"			: "不是节结吗？|L|你们没事吗？",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
@@ -66,7 +66,7 @@
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-			"dialog"			: "你一定要帮助我们把她找回来!",
+			"dialog"			: "你一定要帮助我们把她找回来！",
 		},
 	],
 	
@@ -77,15 +77,15 @@
 	
 	"comment_start"		: {
 		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
-		"dialog"	: "你会帮助我们的，对吧?",
+		"dialog"	: "你会帮助我们的，对吧？",
 	},
 	"comment_leave"		: {
 		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-		"dialog"	: "我们觉得她好像要回来了!",
+		"dialog"	: "我们觉得她好像要回来了！",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-		"dialog"	: "是她吗?",
+		"dialog"	: "是她吗？",
 	},
 	
 	"start_battle" 	: [
@@ -99,22 +99,22 @@
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "我们无法再忍受一分钟不在她身边的时间了!",
+			"dialog"			: "我们无法再忍受一分钟不在她身边的时间了！",
 		},
 	],
 	
 	"start_battle_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "别担心，节节!|L||!|我们会找到你们的妻子的。",
+			"dialog"			: "别担心，节节！|L||!|我们会找到你们的妻子的。",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "要是她永远离开了呢?",
+			"dialog"			: "要是她永远离开了呢？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
-			"dialog"			: "我们会拯救她的，好吗!",
+			"dialog"			: "我们会拯救她的，好吗！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
@@ -129,7 +129,7 @@
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-			"dialog"			: "不，我们是节节!",
+			"dialog"			: "不，我们是节节！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
@@ -137,7 +137,7 @@
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-			"dialog"			: "不。和妻子在一起时我们是节结。|L||!|没有她，我们就是节节!",
+			"dialog"			: "不。和妻子在一起时我们是节结。|L||!|没有她，我们就是节节！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
@@ -145,7 +145,7 @@
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "先帮我们找到我们的妻子吧!",
+			"dialog"			: "先帮我们找到我们的妻子吧！",
 		},
 	],
 	
@@ -160,7 +160,7 @@
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "|shake|老婆!",
+			"dialog"			: "|shake|亲爱的！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -180,12 +180,12 @@
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "|shake|老婆!",
+			"dialog"			: "|shake|亲爱的！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_surprised"],
-			"dialog"			: "是你在拉我们吗?",
+			"dialog"			: "是你在拉我们吗？",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_sad"],
@@ -193,7 +193,7 @@
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
-			"dialog"			: "要知道，我们才离开了五分钟左右!",
+			"dialog"			: "要知道，我们才离开了五分钟左右！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
@@ -201,16 +201,16 @@
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
-			"dialog"			: "但是我们太想念你了，老婆!",
+			"dialog"			: "但是我们太想念你了，亲爱的！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "你们找到了我们的惊喜吗?",
+			"dialog"			: "你们找到了我们的惊喜吗？",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
-			"dialog"			: "当然了!",
+			"dialog"			: "当然了！",
 		},
 	],
 	
@@ -321,11 +321,11 @@
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "所以你是节结!",
+			"dialog"			: "所以你是节结！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "在一起，我们就是节结。|!||L|没有我们，她们只是结结!",
+			"dialog"			: "在一起，我们就是节结。|!||L|没有我们，她们只是结结！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
@@ -337,7 +337,7 @@
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "你也别再结结了!",
+			"dialog"			: "你也别再结结了！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
@@ -348,7 +348,7 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "感谢你救了我们的妻子!",
+			"dialog"			: "感谢你救了我们的妻子！",
 		},
 		{
 			"love_hearts"		: 1,

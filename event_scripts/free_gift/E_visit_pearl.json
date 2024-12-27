@@ -60,7 +60,7 @@
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "珍珠!",
+			"dialog"			: "珍珠！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
@@ -72,7 +72,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
-			"dialog"			: "|shake|噢啊!",
+			"dialog"			: "|shake|噢啊！",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
@@ -134,7 +134,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "|wave|Eye see you!",
+			"dialog"			: "|wave|Eye see you！",
 		},
 		{
 			"love_hearts"		: 1,

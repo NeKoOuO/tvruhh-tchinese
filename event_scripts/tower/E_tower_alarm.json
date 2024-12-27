@@ -12,7 +12,7 @@
 	"respond_blank" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|发生什么了?",
+			"dialog"			: "|shake|发生什么了？",
 		},
 	],
 	"respond_defect" : [
@@ -22,30 +22,30 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
-			"dialog"			: "她可不是入侵者。|L|她和我一起来的!",
+			"dialog"			: "她可不是入侵者。|L|她和我一起来的！",
 		},
 	],
 	"respond_twins" : [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "哦不。可别把我姐姐的位置警告给其他可爱的机器人小姐。|L||!||wave|千万别！!",
+			"dialog"			: "哦不。可别把我姐姐的位置警告给其他可爱的机器人小姐。|L||!||wave|千万别！！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_angry"],
-			"dialog"			: "|shake|严肃一点!",
+			"dialog"			: "|shake|严肃一点！",
 		},
 	],
 	"respond_devil" : [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
-			"dialog"			: "|shake|我是无辜的!  |norm|至少这次是的!",
+			"dialog"			: "|shake|我是无辜的！  |norm|至少这次是的！",
 		},
 	],
 	
 	"gift_list_title"	: "棱镜宝库",
 
-	"op_start"		: "乱按按钮!",
-	"op_leave"		: "快逃!",
+	"op_start"		: "乱按按钮！",
+	"op_leave"		: "快逃！",
 	
 	"comment_main"		: {
 		"character"	: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_alarm"],
@@ -53,7 +53,7 @@
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_default", "CHAR_holo_unit_right", "MOOD_alarm"],
-		"dialog"	: "|C3|(逃走吗?)",
+		"dialog"	: "|C3|(逃走吗？)",
 	},
 	
 	"leaving_now" 	: [
@@ -70,7 +70,7 @@
 	"hacking_blank" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|我不知道我在做什么!",
+			"dialog"			: "|shake|我不知道我在做什么！",
 		},
 	],
 	"hacking_defect" : [
@@ -92,7 +92,7 @@
 	"hacking_devil" : [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "要说一件我擅长的事情，那肯定就是故意破坏科技产品了，当然是意外!",
+			"dialog"			: "要说一件我擅长的事情，那肯定就是故意破坏科技产品了，当然是意外！",
 		},
 	],
 	"to_hacking" 		: [
@@ -148,7 +148,7 @@
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
-		"dialog"	: "你要拿走这一个吗?",
+		"dialog"	: "你要拿走这一个吗？",
 	},
 	"gift_take_another" 		: [
 		{
@@ -166,7 +166,7 @@
 	"leave_blank" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_angry"],
-			"dialog"			: "那太过分了!",
+			"dialog"			: "那太过分了！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
@@ -174,7 +174,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
-			"dialog"			: "顺便也跟她说我爱她!",
+			"dialog"			: "顺便也跟她说我爱她！",
 		},
 	],
 	"leave_defect" : [
@@ -184,7 +184,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "哦，真的吗?",
+			"dialog"			: "哦，真的吗？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused_blush"],
@@ -194,21 +194,21 @@
 	"leave_twins" : [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_pain"],
-			"dialog"			: "|wave||C3|嘀——嘟——!|L|嘀——嘟——!",
+			"dialog"			: "|wave||C3|嘀——嘟——！|L|嘀——嘟——！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
-			"dialog"			: "你在做什么?",
+			"dialog"			: "你在做什么？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "你值得两份奖赏，阳光!",
+			"dialog"			: "你值得两份奖赏，阳光！",
 		},
 	],
 	"leave_devil" : [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "我们看看下次谁会对谁恶作剧!",
+			"dialog"			: "我们看看下次谁会对谁恶作剧！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
@@ -216,7 +216,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "那你就跟她说，我，恶魔，会报复回来的!",
+			"dialog"			: "那你就跟她说，我，恶魔，会报复回来的！",
 		},
 	],
 	"leave_default" : [

@@ -86,7 +86,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry3"],
-			"dialog"			: "|shake|停下! 停下! 停下!",
+			"dialog"			: "|shake|停下！ 停下！ 停下！",
 		},
 		{
 			"character"			: ["VOICE_red", "CHAR_totaria_right", "MOOD_smile"],

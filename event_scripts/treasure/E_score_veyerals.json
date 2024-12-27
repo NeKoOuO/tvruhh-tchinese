@@ -56,7 +56,7 @@
 	"start_battle" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
-			"dialog"			: "太棒了!",
+			"dialog"			: "太棒了！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
@@ -133,7 +133,7 @@
 	},
 	"comment_take_another"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
-		"dialog"	: "请带走你想要的任何一个吧!",
+		"dialog"	: "请带走你想要的任何一个吧！",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
@@ -169,11 +169,11 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
-			"dialog"			: "会是什么事情呢?",
+			"dialog"			: "会是什么事情呢？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -190,24 +190,24 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "W-what?",
+			"dialog"			: "什——什么？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
-			"dialog"			: "Oh.|!||L|Pardon the assumption.|!||L|It's just that your lovely eye-",
+			"dialog"			: "哦。|!||L|抱歉我先入为主了。|!||L|我只是觉得你们美丽的眼睛——",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "Defect, it is simply an eyeball thing.",
+			"dialog"			: "缺陷，这不过只是眼球的习俗。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "Oh.|!| I     see   you?",
+			"dialog"			: "哦。|!| I     see   you?",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Marvelous.",
+			"dialog"			: "太棒了。",
 		},
 		
 	],
@@ -243,7 +243,7 @@
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "|shake|好耶!|L||!|这正是我所需要的！",
+			"dialog"			: "|shake|好耶！|L||!|这正是我所需要的！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],

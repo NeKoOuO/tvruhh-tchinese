@@ -2,11 +2,11 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
-			"dialog"			: "很高兴能再次见到你!|L||!|我刚刚还在找你。",
+			"dialog"			: "很高兴能再次见到你！|L||!|我刚刚还在找你。",
 		},
 		{
 			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
-			"dialog"			: "嗯... 你能帮我个忙吗?",
+			"dialog"			: "嗯... 你能帮我个忙吗？",
 		},
 		{
 			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused_blush"],
@@ -108,15 +108,15 @@
 	},
 	"comment_give_special"	: {
 		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked"],
-		"dialog"	: "哦!她会爱死这个的!",
+		"dialog"	: "哦！她会爱死这个的！",
 	},
 	"comment_give_favorite"	: {
 		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_very_happy"],
-		"dialog"	: "我知道她真的很喜欢那东西!",
+		"dialog"	: "我知道她真的很喜欢那东西！",
 	},
 	"comment_give_TAG_vitrea_part"	: {
 		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
-		"dialog"	: "|shake|我可以收下它吗，拜托了?!",
+		"dialog"	: "|shake|我可以收下它吗，拜托了？！",
 	},
 	"comment_give_quick"	: {
 		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
@@ -160,7 +160,7 @@
 		{
 			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "|shake|是的!",
+			"dialog_rand1"		: "|shake|是的！",
 			"dialog_rand2"		: "这正是我在找的！",
 			"dialog_rand3"		: "真不敢相信！",
 		},
@@ -201,7 +201,7 @@
 		},
 		{
 			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
-			"dialog"			: "哦!我大声说出来了。",
+			"dialog"			: "哦！我大声说出来了。",
 		},
 		{
 			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused_blush"],
@@ -270,7 +270,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_angry"],
-			"dialog"			: "小绿!不要胡乱猜测。",
+			"dialog"			: "小绿！不要胡乱猜测。",
 		},
 		{
 			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused_blush"],

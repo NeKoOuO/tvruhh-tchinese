@@ -9,39 +9,39 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "Vitrea, are you okay?",
+			"dialog"			: "琉璃，你没事吗？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "|shake|Your eyes!",
+			"dialog"			: "|shake|你的眼睛！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "What about them?",
+			"dialog"			: "它们怎么了？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "Narrow, vertical pupils.|L||!|Visible, red sclera.",
+			"dialog"			: "狭长，数值的瞳孔。|L||!|红色且清晰可见的巩膜。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "These are traits of Veyeral eyes!",
+			"dialog"			: "这些是维目尔眼睛的特征！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "And you are a Zaraden?",
+			"dialog"			: "而你是一个扎拉登？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "Yeah, I think so?|L||!|I must be, right?",
+			"dialog"			: "是呀，我觉得？|L||!|我一定是的，对吧？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "Why do you look like that?",
+			"dialog"			: "你为什么看起来像那样？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
-			"dialog"			: "Look like what?",
+			"dialog"			: "看起来像什么？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
@@ -49,156 +49,156 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
-			"dialog"			: "Oh no!|L||!|That was rude.",
+			"dialog"			: "哦不！|L||!|那太没礼貌了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-			"dialog"			: "I'm sorry. I'm sorry. I'm sorry.",
+			"dialog"			: "对不起。对不起。对不起。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_awkward"],
-			"dialog"			: "Sometimes, the words come out faster than I can think about them.",
+			"dialog"			: "有时有的话在我思考前就会脱口而出。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "It's okay.|L||!|I don't know why my eyes are like this.",
+			"dialog"			: "没关系的。|L||!|我也不知道我的眼睛为什么是这个样子。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush"],
-			"dialog"			: "I just meant... |shake|Your eyes are so pretty.",
+			"dialog"			: "我的意思是... |shake|你的眼睛好漂亮。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "Seeing as her eyes are so similar to mine, it's only natural that they would rank among the most beautiful eyes on all of Eyeris.",
+			"dialog"			: "看到她的眼睛和我如此相像，自然能够被称为苜里斯星上最美丽的眼睛。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "Placed just below mine, of course.",
+			"dialog"			: "当然，仅排在我下面。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "Is that-",
+			"dialog"			: "那是——",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|It's a little Veyeral.",
+			"dialog"			: "|wave|是一只小维目尔。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "They just can't keep their hands off me.",
+			"dialog"			: "她们的手已经离不开我了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-			"dialog"			: "You're so cold!",
+			"dialog"			: "你好冷！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "The perfect temperature, is it not?",
+			"dialog"			: "完美的温度，不是吗？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-			"dialog"			: "It's so hard to see you.|L||!|You look like a blind spot in my eye.",
+			"dialog"			: "真的很难看到你。|L||!|你看上去就像我眼睛里的一个盲点。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "Except, you are blue somehow?|L||!|Not like any other Veyerals I've ever seen.",
+			"dialog"			: "除了，你好像是蓝色的？|L||!|和我看到过的其他维目尔都不一样。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "Do you know what a black hole is?",
+			"dialog"			: "你知道黑洞是什么吗？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "No, I don't think so.",
+			"dialog"			: "我不知道。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "When stars explode, some of them leave behind a dense ball of matter.",
+			"dialog"			: "当星星爆炸时，有些会留下一团致密的物质。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "These are so dense that they have extremely powerful gravity.",
+			"dialog"			: "它们的密度太高了，有着非常强大的重力。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "They are also relatively tiny for how much matter they contain.",
+			"dialog"			: "并且相较于其中的物质含量，它们相对而言非常小。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "It's like crushing our whole planet down to the size of this Veyeral here.|L||!|Smaller, even!",
+			"dialog"			: "就好像把我们整个星球压缩到这个维目尔的大小。|L||!|甚至还要更小！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "These babies can hold so much stuff in such a small space.",
+			"dialog"			: "这些初生儿们能够在极小的空间储存这么多东西。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "Imagine this Veyeral being able to pull you towards herself with the force of this whole planet!",
+			"dialog"			: "想象一下，这个维目尔能够用整个星球的力量将你拉向她！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_very_happy"],
-			"dialog"			: "I think she can do that already.",
+			"dialog"			: "我觉得她已经能这样做了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "Now, these black holes are so massive that even light gets pulled onto them.",
+			"dialog"			: "然后，这些黑洞太大了，即使是光也会被拉向它们。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "If absolutely no light comes out of something, then we can't see it at all!",
+			"dialog"			: "如果某样东西完全无法散发光芒，那么我们就完全无法看到它！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "That's why we call them black holes.",
+			"dialog"			: "所以我们才把它们叫做黑洞。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "Veyerals also seem to trap light, but without being as massive as a black hole.",
+			"dialog"			: "维目尔同样能够捕捉光芒，但没有黑洞那么巨大。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "Only a small amount of light escapes around your edges.",
+			"dialog"			: "仅有一小部分光能够从你的边缘逃脱。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "How do you work, Little Veyeral?",
+			"dialog"			: "你是怎么做到的呢，小小维目尔？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "It's quite simple really.",
+			"dialog"			: "其实很简单。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Why would anything, including light, want to leave the presence of perfection?",
+			"dialog"			: "为什么任何东西会想要离开完美的存在，包括光芒在内？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "I can't argue with that logic.",
+			"dialog"			: "这个逻辑确实无可反驳。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
-			"dialog"			: "Also umm...|L||!|Sorry about all that talking.",
+			"dialog"			: "并且，呃...|L||!|抱歉说了这么多。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "I got carried away again.",
+			"dialog"			: "我又有点不由自主了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-			"dialog"			: "You can just stop me if I start talking too much.",
+			"dialog"			: "如果我开始说太多话了，你可以直接打断我的。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "I understand.",
+			"dialog"			: "我明白的。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "Oh, why?",
+			"dialog"			: "为什么呢？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "That was really interesting.",
+			"dialog"			: "刚刚还挺有趣的。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
@@ -206,27 +206,27 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "Really?",
+			"dialog"			: "真的吗？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "Do you want to see my observatory?",
+			"dialog"			: "你们要来看看我的天文台吗？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "Yes I do!",
+			"dialog"			: "当然了！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "But,     what's an observatory?",
+			"dialog"			: "但是，     天文台是什么？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-			"dialog"			: "|shake|I get to explain an observatory to you!",
+			"dialog"			: "|shake|我可以向你解释天文台了！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "I'll tell you on the way.",
+			"dialog"			: "我在路上会和你说的。",
 		},
 	]
 }

@@ -13,7 +13,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "缺陷!",
+			"dialog"			: "缺陷！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
@@ -21,11 +21,11 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_angry"],
-			"dialog"			: "|shake|缺陷!",
+			"dialog"			: "|shake|缺陷！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
-			"dialog"			: "|shake|别管我!",
+			"dialog"			: "|shake|别管我！",
 		},
 		{
 			"play_music"		: "silence",

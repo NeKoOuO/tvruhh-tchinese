@@ -5,31 +5,31 @@
 			"play_music"		: "green_scene_music",
 			"bg_image"			: "spr_scene_raining_outside",
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
-			"dialog"			: "We are so sorry.|L||!|Did we get any paint on you, cutie?",
+			"dialog"			: "我们真的很对不起。|L||!|我们有颜料沾到你身上了吗，小可爱？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "No, I don't think so.",
+			"dialog"			: "没，好像没有。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "I wouldn't mind either way.",
+			"dialog"			: " 我反正也不会在意的。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
-			"dialog"			: "Oh!",
+			"dialog"			: "哦！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "Don't tempt us to cover you in paint, cutie.",
+			"dialog"			: "别诱惑我们把你沾满颜料，小可爱。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "Oh... I-",
+			"dialog"			: "哦...我——",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-			"dialog"			: "We're only joking, cutie.",
+			"dialog"			: "我们只是在开玩笑，小可爱。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused_blush"],
@@ -37,75 +37,75 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "|wave|Look at this cute little Veyeral!",
+			"dialog"			: "|wave|看看这个可爱的小维目尔！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "Ah yes, your eyes must have naturally been attracted towards me.",
+			"dialog"			: "啊没错，你的眼睛一定会自然地被吸引向我。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "There is nothing I can do about it.|L||!|We just have to live with the consequences.",
+			"dialog"			: "没什么我能做的。|L||!|我们只能承受这结果。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
-			"dialog"			: "We have to paint the both of you, cuties!",
+			"dialog"			: "那我们必须要画你们两位了，小可爱们！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused_blush"],
-			"dialog"			: "Umm...",
+			"dialog"			: "呃...",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-			"dialog"			: "We mean make a painting of you.|L||!|Not cover you in paint.",
+			"dialog"			: "我们的意思是为你们绘画。|L||!|不是把颜料沾在你身上。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "Oh!",
+			"dialog"			: "哦！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "|wave|My likeness captured in a painting forever?",
+			"dialog"			: "|wave|我的形象永远地被绘画捕捉？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "Do they make paint blue enough for that?",
+			"dialog"			: "她们的颜料有足够的蓝吗？",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "Yeah!|L||!|They actually make every color blue enough for you!",
+			"dialog"			: "当然！|L||!|她们会让每种色彩对你而言都足够的蓝！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "|wave|Well it's about time the other colors caught up.",
+			"dialog"			: "|wave|其他颜色是时候开始追赶了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "Are we going to go see your art gallery?|L||!|I think you invited me in a dream.",
+			"dialog"			: "我们要去参观你的艺术展吗？|L||!|我记得你在梦中邀请过我。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "We sure did, cutie!",
+			"dialog"			: "当然了，小可爱！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
-			"dialog"			: "It's not that far from here.",
+			"dialog"			: "离这里不是很远。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "Then let's go!",
+			"dialog"			: "那我们走吧！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "You should probably warn the other guests of my arrival.",
+			"dialog"			: "你可能要向其他客人提前警告我的到来。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "We wouldn't want anyone to mistake me for one of the masterpieces on display.",
+			"dialog"			: "我们不想让任何人将我错认为展出的杰作。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "We'll get right on that, cutie!",
+			"dialog"			: "当然了，小可爱！",
 		},
 	]
 }

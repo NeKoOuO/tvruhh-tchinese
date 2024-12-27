@@ -2,11 +2,11 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
-			"dialog"			: "呃，扎拉登小姐?",
+			"dialog"			: "呃，扎拉登小姐？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-			"dialog"			: "我的妹妹们在想...|L|你能来我们的地下城玩吗?",
+			"dialog"			: "我的妹妹们在想...|L|你能来我们的地下城玩吗？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -16,11 +16,11 @@
 	"intro_twins" : [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
-			"dialog"			: "呃，扎拉登双子?",
+			"dialog"			: "呃，扎拉登双子？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-			"dialog"			: "我的妹妹们在想...|L|你们想来我们的地下城玩吗?",
+			"dialog"			: "我的妹妹们在想...|L|你们想来我们的地下城玩吗？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -38,7 +38,7 @@
 	
 	"comment_before_game"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-		"dialog"	: "快来和我们玩!",
+		"dialog"	: "快来和我们玩！",
 	},
 	
 	"to_dungeon" 	: [
@@ -50,7 +50,7 @@
 	"talk_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "你的家太|wave|可爱了!",
+			"dialog"			: "你的家太|wave|可爱了！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
@@ -58,11 +58,11 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "这就是那个游戏吗?",
+			"dialog"			: "这就是那个游戏吗？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "这应该是   我吗?",
+			"dialog"			: "这应该是   我吗？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -74,7 +74,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "你会是|C3|艺术家|C0|职业，好吗?",
+			"dialog"			: "你会是|C3|艺术家|C0|职业，好吗？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -82,15 +82,15 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
-			"dialog"			: "哦，那让你伤心了吗?",
+			"dialog"			: "哦，那让你伤心了吗？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
-			"dialog"			: "什么?   没有。",
+			"dialog"			: "什么？   没有。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
-			"dialog"			: "那你为什么在哭呢?",
+			"dialog"			: "那你为什么在哭呢？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry2"],
@@ -102,7 +102,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
-			"dialog"			: "几维，你太有天分了!",
+			"dialog"			: "几维，你太有天分了！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -114,11 +114,11 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
-			"dialog"			: "嗯，我确实     非常擅长!",
+			"dialog"			: "嗯，我确实     非常擅长！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-			"dialog"			: "但是今天你会是|C3|艺术家|C0|职业，好吗?",
+			"dialog"			: "但是今天你会是|C3|艺术家|C0|职业，好吗？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
@@ -148,7 +148,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "魔法师是什么?",
+			"dialog"			: "魔法师是什么？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
@@ -156,7 +156,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],
-			"dialog"			: "越圆越平滑的球就越强大!",
+			"dialog"			: "越圆越平滑的球就越强大！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
@@ -168,7 +168,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "那你的半径是多少?",
+			"dialog"			: "那你的半径是多少？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
@@ -188,7 +188,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_aggressive"],
-			"dialog"			: "等下，你是说我要和什么战斗吗?",
+			"dialog"			: "等下，你是说我要和什么战斗吗？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
@@ -200,13 +200,13 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "哦!那好吧。",
+			"dialog"			: "哦！那好吧。",
 		},
 	],
 	"talk_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_normal"],
-			"dialog"			: "我们要怎么玩呢?",
+			"dialog"			: "我们要怎么玩呢？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
@@ -218,11 +218,11 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_happy"],
-			"dialog"			: "这听上去很有趣!",
+			"dialog"			: "这听上去很有趣！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "骑士是什么?",
+			"dialog"			: "骑士是什么？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
@@ -234,19 +234,19 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-			"dialog"			: "然后她们会去|wave|亲吻公主!",
+			"dialog"			: "然后她们会去|wave|亲吻公主！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised_blush"],
-			"dialog"			: "哦!",
+			"dialog"			: "哦！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "是这样吗?",
+			"dialog"			: "是这样吗？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "|wave|哈哈哈哈!",
+			"dialog"			: "|wave|哈哈哈哈！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_content"],
@@ -266,7 +266,7 @@
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
-			"dialog"			: "我一直想要戴一顶帽子!",
+			"dialog"			: "我一直想要戴一顶帽子！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -292,7 +292,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "这才是     邪恶的巢穴!",
+			"dialog"			: "这才是     邪恶的巢穴！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
@@ -312,11 +312,11 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad"],
-			"dialog"			: "几维,    你是怎么知道那是什么的?",
+			"dialog"			: "几维,    你是怎么知道那是什么的？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-			"dialog"			: "你和我们共享了思绪，你还记得吗?",
+			"dialog"			: "你和我们共享了思绪，你还记得吗？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
@@ -324,7 +324,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "对哦，确实发生过了，是吧?",
+			"dialog"			: "对哦，确实发生过了，是吧？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -336,7 +336,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "|shake|这太正义了!",
+			"dialog"			: "|shake|这太正义了！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
@@ -348,7 +348,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "当然了!",
+			"dialog"			: "当然了！",
 		},
 	],
 	
@@ -381,7 +381,7 @@
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
 			"random"			: 9,
 			"dialog_rand1"		: "然后你穿过了很长的走廊。",
-			"dialog_rand2"		: "你检查了左边的门，但是它锁上了!|L||!|所以你去了右边。",
+			"dialog_rand2"		: "你检查了左边的门，但是它锁上了！|L||!|所以你去了右边。",
 			"dialog_rand3"		: "你进入了它们出来的那个洞。",
 			"dialog_rand4"		: "|C3|[VAL2]|C0|分享了她带来的零食，然后你们进入了下个房间。",
 			"dialog_rand5"		: "你在下个房间听到了奇怪的噪音，你前往查看。",
@@ -399,7 +399,7 @@
 			"dialog_rand4"		: "这个房间非常暗，但是你看到黑暗中有什么东西。",
 			"dialog_rand5"		: "你进入了下一个房间，但是有东西在那里等着你。",
 			"dialog_rand6"		: "桌子上有什么闪亮的东西，但在你能够得到它之前-",
-			"dialog_rand7"		: "是陷阱!",
+			"dialog_rand7"		: "是陷阱！",
 			"dialog_rand8"		: "你感觉有什么在跟着你，于是你转过身去。",
 			"dialog_rand9"		: "下一个房间是空的，于是你放松了警惕。|!|然后突然-",
 		},
@@ -410,7 +410,7 @@
 	"battle_mites"		: "一群跳虫攻击了你！",
 	"battle_aviocs"		: "有一群眼魔！",
 	"battle_stones"		: "你遇到了一群愤怒的心型石！",
-	"battle_dancers"	: "你被一群危险的舞者袭击了!",
+	"battle_dancers"	: "你被一群危险的舞者袭击了！",
 	"battle_nuggets"	: "你被一群僵尸大块头袭击了！",
 	"battle_slimes"		: "你被一大群史莱姆围起来了！",
 	"start_battle" 	: [
@@ -422,21 +422,21 @@
 	"start_battle_zombie" 	: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
-			"dialog"			: "她们遇到了|C3|僵尸暴徒|C0|还有她的一群|C3|僵尸杂兵!|C0|",
+			"dialog"			: "她们遇到了|C3|僵尸暴徒|C0|还有她的一群|C3|僵尸杂兵！|C0|",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "小心!|C3|僵尸杂兵|C0|很弱，但是它们能够让下一个敌人也进行一回合！",
+			"dialog"			: "小心！|C3|僵尸杂兵|C0|很弱，但是它们能够让下一个敌人也进行一回合！",
 		},
 	],
 	"start_battle_ooze" 	: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-			"dialog"			: "\"站在|C3|粘液女士|C0|面前的小可爱们永远都不会想要离开我们!\"",
+			"dialog"			: "\"站在|C3|粘液女士|C0|面前的小可爱们永远都不会想要离开我们！\"",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "小心!|C3|颜料史莱姆Paint Slimes|C0|很弱，但是它们能够让下一个敌人也进行一回合！!",
+			"dialog"			: "小心！|C3|颜料史莱姆Paint Slimes|C0|很弱，但是它们能够让下一个敌人也进行一回合！！",
 		},
 	],
 	"start_battle_dancer" 	: [
@@ -446,7 +446,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
-			"dialog"			: "她的|C3|谋杀之花|C0|想要舞蹈直至死亡!",
+			"dialog"			: "她的|C3|谋杀之花|C0|想要舞蹈直至死亡！",
 		},
 	],
 	"start_battle_shepherd" 	: [
@@ -476,7 +476,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
-			"dialog"			: "那是|C3|复仇之魂!|C0||L||!|她非常可怕。",
+			"dialog"			: "那是|C3|复仇之魂！|C0||L||!|她非常可怕。",
 		},
 	],
 	
@@ -498,15 +498,15 @@
 	},
 	"comment_action_hit"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-		"dialog"	: "|wave|你做到了!",
+		"dialog"	: "|wave|你做到了！",
 	},
 	"comment_action_crit"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-		"dialog"	: "|shake|致命一击!",
+		"dialog"	: "|shake|致命一击！",
 	},
 	"comment_action_miss"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
-		"dialog"	: "|shake|未命中!",
+		"dialog"	: "|shake|未命中！",
 	},
 	"comment_nothing"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
@@ -514,22 +514,22 @@
 	},
 	"comment_win"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-		"dialog"	: "|wave|You win da battle!",
+		"dialog"	: "|wave|You win da battle！",
 	},
 	"comment_lose"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_angry"],
-		"dialog"	: "|shake|快跑!",
+		"dialog"	: "|shake|快跑！",
 	},
 	
 	"you_win" 	: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
 			"random"			: 8,
-			"dialog_rand1"		: "现在你获得战利品!",
+			"dialog_rand1"		: "现在你获得战利品！",
 			"dialog_rand2"		: "然后你找到了些财宝！",
 			"dialog_rand3"		: "你看到地板上有些闪亮的东西。",
 			"dialog_rand4"		: "坏女孩们掉了点东西。",
-			"dialog_rand5"		: "然后你走进了下一个房间，发现了一箱战利品!",
+			"dialog_rand5"		: "然后你走进了下一个房间，发现了一箱战利品！",
 			"dialog_rand6"		: "然后你在下个房间发现了一些战利品。",
 			"dialog_rand7"		: "并且，那里还有个宝箱！",
 			"dialog_rand8"		: "坏女孩们在保护一个宝箱。",
@@ -546,7 +546,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-			"dialog"			: "敬请期待     下次     |shake||C3|几维的死亡与毁灭地下城!",
+			"dialog"			: "敬请期待     下次     |shake||C3|几维的死亡与毁灭地下城！",
 		},
 	],
 	"you_lose" 	: [
@@ -574,7 +574,7 @@
 	"you_timed_out" 	: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
-			"dialog"			: "|C3|[VAL2]|C0|想起来是睡觉的时间了，她们需要离开这里!",
+			"dialog"			: "|C3|[VAL2]|C0|想起来是睡觉的时间了，她们需要离开这里！",
 		},
 	],
 	"comment_choose_rewards"	: {
@@ -601,67 +601,67 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_aggressive2"],
-			"dialog"			: "|shake|But I'm not done killing yet!",
+			"dialog"			: "|shake|但是我还没有杀够！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "It's just for pretend, my Defect.",
+			"dialog"			: "这只是假装而已，我的缺陷。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused_blush"],
-			"dialog"			: "Sorry, I got carried away there.",
+			"dialog"			: "抱歉，我有点忘乎所以了。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "|wave|That just means you really like our game.",
+			"dialog"			: "|wave|那就是说你真的很喜欢我们的游戏。",
 		},
 	],
 	"to_gift" 	: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "It's time for da real prizes!",
+			"dialog"			: "是时候来点真正的奖励了！",
 		},
 	],
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-		"dialog"	: "You can have anything.",
+		"dialog"	: "全都可以拿哦。",
 	},
 	"comment_take_unknown"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
-		"dialog"	: "I dunno what that is.",
+		"dialog"	: "我不知道这是什么。",
 	},
 	"gift_confirm"		: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-		"dialog"	: "This one?",
+		"dialog"	: "要这个吗？",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
-		"dialog"	: "You don't want any?",
+		"dialog"	: "你不想要吗？",
 	},
 	"to_another_gift" 		: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-			"dialog"			: "That one is from my little sister.",
+			"dialog"			: "这是我的妹妹给你的。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-			"dialog"			: "You want more?",
+			"dialog"			: "你还想要更多吗？",
 		}
 	],
 	"to_last_gift" 		: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],
-			"dialog"			: "That one was mine.",
+			"dialog"			: "那一个是我的。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-			"dialog"			: "You can have ONE more, okee?",
+			"dialog"			: "你可以再拿一个，好吗？",
 		}
 	],
 	"to_the_end" 		: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "Yay! It made you happy!",
+			"dialog"			: "好耶！它让你开心起来了！",
 		},
 	],
 	
@@ -674,11 +674,11 @@
 	"sleep_response" 	: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "Well okee, but you still have to come in.",
+			"dialog"			: "那好吧，但你还是得进来。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],
-			"dialog"			: "And we get to curl up next to you.",
+			"dialog"			: "然后我们会蜷在你身边。",
 		},
 	],
 	
@@ -687,17 +687,17 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you, Kiwi!",
+			"dialog"			: "|wave|我爱你，几维！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you!|norm||L||!|Hey, can we call you Big Sister?",
+			"dialog"			: "|wave|我爱你！|norm||L||!|嘿，我们能叫你姐姐吗？",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "Kiwi,     I'm going to cry again!",
+			"dialog"			: "几维，     我又要哭了！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
@@ -707,62 +707,62 @@
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "Wow, your claws are so long!",
+			"dialog"			: "哇哦，你的爪子好长！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "|shake|What?",
+			"dialog"			: "|shake|什么？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "No they're not.",
+			"dialog"			: "才没有。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-			"dialog"			: "You can't hide secrets from us!",
+			"dialog"			: "在我们面前你可藏不了秘密！",
 		},
 	],
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "Don't worry. We can save the princess next time!",
+			"dialog"			: "别担心。我们可以下次再把公主救下！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "You hear that, Sunshine?",
+			"dialog"			: "听到了吧，阳光？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-			"dialog"			: "You will get that kiss eventually, Big Sister!",
+			"dialog"			: "你会得到那个吻的，大姐姐！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "Why are all my sisters like this?",
+			"dialog"			: "我的妹妹们怎么都这样？",
 		},
 	],
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "You saw that part where I was all-",
+			"dialog"			: "你看到我那部分了吗，就是-",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
-			"dialog"			: "|wave||C3|Weedly weedly weedly|L|Needle leedle needle leedle|L|Wah wah WAHHHHHHHHH!",
+			"dialog"			: "|wave||C3|Weedly weedly weedly|L|Needle leedle needle leedle|L|Wah wah WAHHHHHHHHH！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-			"dialog"			: "Ya! Ya! I like that.",
+			"dialog"			: "耶！耶！我喜欢。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "Oh yeah? I just wrote it. No big deal.",
+			"dialog"			: "真的吗？我刚写的，不算什么的。",
 		},
 	],
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "Thanks for playing with us!",
+			"dialog"			: "谢谢你和我们一起玩！",
 		},
 	],
 

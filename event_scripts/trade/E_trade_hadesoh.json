@@ -45,7 +45,7 @@
 		},
 		{
 			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
-			"dialog"			: "|shake|太好了!",
+			"dialog"			: "|shake|太好了！",
 		},
 	],
 	
@@ -92,7 +92,7 @@
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
-		"dialog"	: "你值得的!",
+		"dialog"	: "你值得的！",
 	},
 	"comment_take_stone"	: {
 		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
@@ -119,7 +119,7 @@
 			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_content"],
 			"random"			: 4,
 			"dialog_rand1"		: "那真是|shake||nu||ze||nah||norm|不错的选择！",
-			"dialog_rand2"		: "把握灰暗的当下!",
+			"dialog_rand2"		: "把握灰暗的当下！",
 			"dialog_rand3"		: "只会有糟糕的后果。",
 			"dialog_rand4"		: "希望你|shake||nu||ze||nah||norm|爱它！",
 		}
@@ -160,15 +160,15 @@
 	},
 	"comment_burden_BDN_hadesoh"	: {
 		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_confused"],
-		"dialog"	: "我的? 真的吗?",
+		"dialog"	: "我的？真的吗？",
 	},
 	"comment_burden_BDN_chionotoh"	: {
 		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_sad"],
-		"dialog"	: "哦-|L|我和她有什么关系?",
+		"dialog"	: "哦—|L|我和她有什么关系？",
 	},
 	"take_burden_confirm"		: {
 		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_surprised"],
-		"dialog"	: "这就是你的决定吗?",
+		"dialog"	: "这就是你的决定吗？",
 	},
 	"burden_taken" 		: [
 		{
@@ -177,7 +177,7 @@
 			"dialog_rand1"		: "这个负担终于可以休息了。",
 			"dialog_rand2"		: "我们仅寻求暂缓，且拥抱爱。",
 			"dialog_rand3"		: "它尽可能快的消逝了。",
-			"dialog_rand4"		: "这些罪恶真的能被宽恕吗？|L|当然了!",
+			"dialog_rand4"		: "这些罪恶真的能被宽恕吗？|L|当然了！",
 		}
 	],
 	"glyph_taken" 		: [
@@ -202,7 +202,7 @@
 	"BDN_chionotoh_taken" 	: [
 		{
 			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_upset"],
-			"dialog"			: "|shake|来!|norm|    你收下它。",
+			"dialog"			: "|shake|来！|norm|    你收下它。",
 		},
 		{
 			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_sad"],
@@ -263,7 +263,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "什么?",
+			"dialog"			: "什么？",
 		},
 		{
 			
@@ -287,7 +287,7 @@
 		},
 		{
 			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
-			"dialog"			: "|shake|太棒了!",
+			"dialog"			: "|shake|太棒了！",
 		},
 	],
 	
@@ -303,7 +303,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "哦!",
+			"dialog"			: "哦！",
 		},
 		{
 			

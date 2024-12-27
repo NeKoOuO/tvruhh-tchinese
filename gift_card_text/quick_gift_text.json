@@ -290,7 +290,7 @@
 	"Q_security" : {
 		"name"    : "安全感",
 		"memory"  : "These friends will always have your back.",
-		"card"    : "3个向后射击的帮手|L|所有帮手的子弹都会传送回来",
+		"card"    : "3个向后射击的帮手|L|所有帮手的子弹|L|都会传送回来",
 	},
 	
 	

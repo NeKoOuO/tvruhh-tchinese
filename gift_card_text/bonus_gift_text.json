@@ -3,17 +3,17 @@
 	"BNS_health_a" : {
 		"name"    : "小型治疗",
 		"memory"  : "There are monsters clawing at my heart.|L|They are tearing it apart.|L|I don't know how they got here,|L|I don't know what they want.|L|Did I do something wrong?",
-		"card"    : "回复 [VAL1]%生命",
+		"card"    : "回复[VAL1]%生命",
 	},
 	"BNS_health_b" : {
 		"name"    : "半满治疗",
 		"memory"  : "I need someone to help me,|L|Hold my heart while I fix it,|L|And keep the monsters away.|L|I will be okay.|L|I will be okay.",
-		"card"    : "回复 [VAL1]%生命",
+		"card"    : "回复[VAL1]%生命",
 	},
 	"BNS_health_c" : {
 		"name"    : "全满治疗",
 		"memory"  : "I can offer this embrace,|L|While you fix your broken heart.|L|I'll keep the monsters at bay.|L|You will be okay.|L|You will be okay.",
-		"card"    : "回复 [VAL1]%生命",
+		"card"    : "回复[VAL1]%生命",
 	},
 	"BNS_karma_a" : {
 		"name"    : "单个愿望",

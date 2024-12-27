@@ -5,7 +5,7 @@
 			"random"			: 3,
 			"dialog_rand1"		: "|shake|我... 好冷。",
 			"dialog_rand2"		: "|shake|我要   冻-冻僵了。",
-			"dialog_rand3"		: "|shake|你也觉得冷-冷吗?",
+			"dialog_rand3"		: "|shake|你也觉得冷-冷吗？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
@@ -36,7 +36,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
-			"dialog"			: "你等一下!|L||!||shake|你冰凉冰凉的!",
+			"dialog"			: "你等一下！|L||!||shake|你冰凉冰凉的！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
@@ -44,7 +44,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "没关系的!|L||!|我会驱逐你身上的寒冷。",
+			"dialog"			: "没关系的！|L||!|我会驱逐你身上的寒冷。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
@@ -219,7 +219,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这   太   温   暖   了!",
+			"dialog"			: "这   太   温   暖   了！",
 		},
 	],
 	
@@ -230,11 +230,11 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "哦，我吗? 那当然是因为我亲爱的缺陷了。",
+			"dialog"			: "哦，我吗？那当然是因为我亲爱的缺陷了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "|shake|什么?|!||L|我们走吧，小蓝。",
+			"dialog"			: "|shake|什么？|!||L|我们走吧，小蓝。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
@@ -249,15 +249,15 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|什么!",
+			"dialog"			: "|shake|什么！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "还有一个小小的吻?",
+			"dialog"			: "还有一个小小的吻？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
-			"dialog"			: "别说了，小绿!",
+			"dialog"			: "别说了，小绿！",
 		},
 		{
 			"love_hearts"		: 1,

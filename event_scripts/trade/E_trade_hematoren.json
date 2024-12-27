@@ -335,7 +335,7 @@
 			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
 			"random"			: 3,
 			"dialog_rand1"		: "|wave|全都完成了！",
-			"dialog_rand2"		: "|wave|心的汁液！!",
+			"dialog_rand2"		: "|wave|心的汁液！",
 			"dialog_rand3"		: "|wave|爱的液体已经提取！",
 		},
 		{
@@ -465,7 +465,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|等下！|norm| 我想!",
+			"dialog"			: "|shake|等下！|norm| 我想！",
 		},
 	],
 	

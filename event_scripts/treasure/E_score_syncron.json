@@ -2,7 +2,7 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-			"dialog"			: "本单元需要紧急协助!",
+			"dialog"			: "本单元需要紧急协助！",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_angry"],
@@ -41,7 +41,7 @@
 	"intro_defect" : [
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-			"dialog"			: "本单元需要紧急协助!",
+			"dialog"			: "本单元需要紧急协助！",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_sad"],
@@ -98,7 +98,7 @@
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_sad"],
-		"dialog"	: "这些单元正在解除恐慌模式吗?",
+		"dialog"	: "这些单元正在解除恐慌模式吗？",
 	},
 	
 	"start_battle" 	: [
@@ -131,7 +131,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "啊对哦!",
+			"dialog"			: "啊对哦！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
@@ -246,7 +246,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"fast_text"			: 1,
@@ -298,11 +298,11 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_surprised"],
-			"dialog"			: "顺便，我姐姐想问你们是否需要一个共同的女朋友?",
+			"dialog"			: "顺便，我姐姐想问你们是否需要一个共同的女朋友？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|我才没有!",
+			"dialog"			: "|shake|我才没有！",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_happy"],
@@ -333,7 +333,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "我只是说你真的能帮我|shake|把他们的意识从头骨中轰炸出来!",
+			"dialog"			: "我只是说你真的能帮我|shake|把他们的意识从头骨中轰炸出来！",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_panic"],

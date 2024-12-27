@@ -13,9 +13,9 @@
 			"dialog_rand1"		: "光谱之花！",
 			"dialog_rand2"		: "日之花！",
 			"dialog_rand3"		: "夜之花！",
-			"dialog_rand4"		: "甜味果实!",
-			"dialog_rand5"		: "丝线糖!",
-			"dialog_rand6"		: "泥土芳香!",
+			"dialog_rand4"		: "甜味果实！",
+			"dialog_rand5"		: "丝线糖！",
+			"dialog_rand6"		: "泥土芳香！",
 		},
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_very_happy"],
@@ -62,7 +62,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
-			"dialog"			: "我的头发?",
+			"dialog"			: "我的头发？",
 		},
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
@@ -127,7 +127,7 @@
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
-		"dialog"	: "这个是给你的!",
+		"dialog"	: "这个是给你的！",
 	},
 	"comment_take_stone"	: {
 		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_awkward"],
@@ -221,7 +221,7 @@
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
 			"random"			: 4,
 			"dialog_rand1"		: "这估计会特别有用。",
-			"dialog_rand2"		: "谢谢你，我爱它!",
+			"dialog_rand2"		: "谢谢你，我爱它！",
 			"dialog_rand3"		: "你对我真好。",
 			"dialog_rand4"		: "这可以帮助我进行工作！",
 		}
@@ -231,7 +231,7 @@
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
 			"random"			: 4,
 			"dialog_rand1"		: "我会把这些分子连结成美妙的东西。",
-			"dialog_rand2"		: "是时候进行化学结键了!",
+			"dialog_rand2"		: "是时候进行化学结键了！",
 			"dialog_rand3"		: "把元素连结在一起。",
 			"dialog_rand4"		: "我会用甜美的事物把分子连结在一起的。",
 		},
@@ -247,9 +247,9 @@
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
 			"random"			: 3,
-			"dialog_rand1"		: "这种味道给了我灵感进行创造!",
+			"dialog_rand1"		: "这种味道给了我灵感进行创造！",
 			"dialog_rand2"		: "我会用这种味道制成香水的。",
-			"dialog_rand3"		: "我太喜欢这种气味了!",
+			"dialog_rand3"		: "我太喜欢这种气味了！",
 		}
 	],
 	"TAG_chemory_part_given" 	: [
@@ -259,11 +259,11 @@
 		},
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_confused_blush"],
-			"dialog"			: "这些非常危险!",
+			"dialog"			: "这些非常危险！",
 		},
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
-			"dialog"			: "不敢相信，我太不小心了!",
+			"dialog"			: "不敢相信，我太不小心了！",
 		},
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
@@ -273,7 +273,7 @@
 	"I_natural_glyph_given" 	: [
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
-			"dialog"			: "你觉得我能让自己变得更好吗?",
+			"dialog"			: "你觉得我能让自己变得更好吗？",
 		},
 		{
 			"love_hearts"		: 1,
@@ -292,7 +292,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|你刚刚是咬了我的头发吗?",
+			"dialog"			: "|shake|你刚刚是咬了我的头发吗？",
 		},
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad_blush"],
@@ -300,7 +300,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "化莫里，我爱你!",
+			"dialog"			: "化莫里，我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -369,7 +369,7 @@
 		},
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
-			"dialog"			: "你身上的味道真好闻!",
+			"dialog"			: "你身上的味道真好闻！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],

@@ -9,39 +9,39 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_nothing",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|Her story does not end here.",
+			"dialog"			: "|C1|她的故事不会在这里终结。",
 		},
 		{
-			"dialog"			: "|C1|There is still much more to come.",
+			"dialog"			: "|C1|仍有许多故事终将继续。",
 		},
 		{
-			"dialog"			: "|C1|I'm afraid that I must break through this four dimensional wall that separates us.",
+			"dialog"			: "|C1|恐怕我不得不在这里打破将我们相隔的第四面墙。",
 		},
 		{
-			"dialog"			: "|C1|I must tell you that this scene is still unfinished.",
+			"dialog"			: "|C1|我必须告诉你这个场景仍未完成。",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|They couldn't even finish this in time?",
+			"dialog"			: "|C2||shake|他们甚至没法及时做完这个？",
 		},
 		{
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|No, it is alright.",
+			"dialog"			: "|C1|不，没事的。",
 		},
 		{
-			"dialog"			: "|C1|This is in early access for a reason.",
+			"dialog"			: "|C1|毕竟这还只是抢先体验。",
 		},
 		{
-			"dialog"			: "|C1|I hope you have been enjoying yourself so far.",
+			"dialog"			: "|C1|希望你至今为止玩得开心。",
 		},
 		{
-			"dialog"			: "|C1|This scene will be replaced with the true story soon.",
+			"dialog"			: "|C1|这个场景之后会被替换为真正的故事。",
 		},
 		{
-			"dialog"			: "|C1|Thank you for showing these monsters what it means to love.",
+			"dialog"			: "|C1|谢谢你为这些怪物们展示了何以为爱。",
 		},
 		{
-			"dialog"			: "|C1|I hope you will continue to do so.",
+			"dialog"			: "|C1|我希望你能够继续这样做下去。",
 		}
 	]
 }

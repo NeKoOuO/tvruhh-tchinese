@@ -9,35 +9,35 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "Uh,   Scrambla?",
+			"dialog"			: "呃，   蛋花？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
-			"dialog"			: "|shake|...Dis...",
+			"dialog"			: "|shake|...则是...",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "You wanted to see me,    right?",
+			"dialog"			: "你想要来见我，    是吗？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
-			"dialog"			: "|shake|Hug...",
+			"dialog"			: "|shake|抱抱...",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "Scrambla?",
+			"dialog"			: "蛋花？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "Ah yes,    I've figured it out.|L||!|I should have known this from the start.",
+			"dialog"			: "啊对，    我已经完全明白了。|L||!|我从一开始就应该知道了的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "The way she is standing there, blushing.|L||!|The way she   just   can't  seem to come up with the words to say.",
+			"dialog"			: "她站在那里脸红的样子。|L||!|她看起来支支吾吾的样子。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "The way that she stares, longingly, with those toothy eye holes.",
+			"dialog"			: "她用那些牙齿眼洞渴望地看着的样子。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
@@ -45,92 +45,92 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "I've seen this happen a million times.",
+			"dialog"			: "我已经见过一百万次了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "This poor thing is in love with me.",
+			"dialog"			: "这个可怜的小家伙迷上了我。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "I cannot say that I blame her for this.|L||!|These things just happen.",
+			"dialog"			: "我无法因此指责她。|L||!|这种事情就是会发生的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "I'd probably fall for myself too.|L||!|If I was two separate beings.",
+			"dialog"			: "我可能也会迷上自己的。|L||!|如果我是两个不同的存在。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "What are you talking about? She is obviously just really shy.",
+			"dialog"			: "你在说什么？很显然她只是害羞而已。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "I get like that too, sometimes.",
+			"dialog"			: "有时我也会那样子。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],
-			"dialog"			: "|shake||C3|Linky synapse!",
+			"dialog"			: "|shake||C3|连接突触！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "What?",
+			"dialog"			: "什么？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "|shake|Y-|norm|You got our dream message?",
+			"dialog"			: "|shake|你—|norm|你收到我们梦里的信息了吗？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "The one where you told me about your gift portal thing?",
+			"dialog"			: "就是你告诉我礼物传送门的事情？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "I can give you gifts that I have right now, and your power will let me pick them up at the start of any day?",
+			"dialog"			: "我可以现在把礼物给你，然后你的力量能让我在任一天的开始把它们取出来？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "Yis.|L||!|Except, we will need some time to charge our |C3|linky synapse.|C0|",
+			"dialog"			: "是吖。|L||!|不过，我们还需要点时间来为我们的|C3|连接突触|C0|充能。 ",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "We should be ready after dis next battle.|L||!|We will come find you, okee?",
+			"dialog"			: "在下场战斗后我们应该就准备好了。|L||!|我们会来找你的，好吖？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "Okay, Scrambla.",
+			"dialog"			: "好的，蛋花。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "You see that? She just needed a moment to warm up to us.",
+			"dialog"			: "你看到了吗？她只是需要点时间来和我们熟络起来。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "I suppose a simple mistake is not the worst thing.",
+			"dialog"			: "简单的错误并非最糟糕的事情。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "Some mistakes would truly highlight my other perfect qualities.",
+			"dialog"			: "有些错误只会凸显出我其他的完美特质。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "Oh!    I almost forgot.",
+			"dialog"			: "哦！    我差点忘了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "I have to give you this hug.",
+			"dialog"			: "我必须要给你这个拥抱。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
-			"dialog"			: "|shake|..!",
+			"dialog"			: "|shake|..！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "See you soon, Scrambla.",
+			"dialog"			: "等下再见，蛋花。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
-			"dialog"			: "...Bye.",
+			"dialog"			: "...再见。",
 		},
 	]
 }

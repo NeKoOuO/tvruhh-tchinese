@@ -10,7 +10,7 @@
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|哇哦!",
+			"dialog"			: "|wave|哇哦！",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
@@ -114,7 +114,7 @@
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "|shake|啊啊!",
+			"dialog"			: "|shake|啊啊！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],

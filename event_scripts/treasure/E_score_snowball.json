@@ -132,19 +132,19 @@
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "如同预言一般!",
-			"dialog_rand2"		: "地点是正确的!",
+			"dialog_rand1"		: "如同预言一般！",
+			"dialog_rand2"		: "地点是正确的！",
 		},
 	],
 	
 	
 	"comment_take_first"	: {
 		"character"	: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-		"dialog"	: "接受你的奖赏!",
+		"dialog"	: "接受你的奖赏！",
 	},
 	"comment_take_another"	: {
 		"character"	: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-		"dialog"	: "接受另一个奖赏!",
+		"dialog"	: "接受另一个奖赏！",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
@@ -177,7 +177,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -205,7 +205,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "我们会尽力的...女皇    陛下?",
+			"dialog"			: "我们会尽力的...女皇    陛下？",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
@@ -220,7 +220,7 @@
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "|shake|我控制不住自己!",
+			"dialog"			: "|shake|我控制不住自己！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -229,7 +229,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "我们要在这里待一会了，是吧?",
+			"dialog"			: "我们要在这里待一会了，是吧？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_content"],
@@ -261,7 +261,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "好耶!忘掉那些又老又蠢的扎拉登!|L||!|这坑里可比高塔里的所有东西酷多了。",
+			"dialog"			: "好耶！忘掉那些又老又蠢的扎拉登！|L||!|这坑里可比高塔里的所有东西酷多了。",
 		},
 	],
 	

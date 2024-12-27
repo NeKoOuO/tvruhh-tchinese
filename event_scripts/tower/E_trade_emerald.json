@@ -20,7 +20,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "别听她说的!|L|她在胡言乱语!",
+			"dialog"			: "别听她说的！|L|她在胡言乱语！",
 		},
 	],
 	

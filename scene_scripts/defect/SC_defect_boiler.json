@@ -5,19 +5,19 @@
 			"play_music"		: "green_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "We are so sorry.|L||!|We were so scared...",
+			"dialog"			: "我们真的很对不起。|L||!|我们好害怕...",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "It's okay, Boiler.|L||!|You didn't mean it.",
+			"dialog"			: "没关系的，锅炉。|L||!|你不是故意的。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
-			"dialog"			: "I know what that feels like...",
+			"dialog"			: "我知道这种感觉...",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "That wasn't really you.",
+			"dialog"			: "那不是真正的你。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
@@ -25,76 +25,76 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "Yis.",
+			"dialog"			: "好吖。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "Oh actually,    I had a dream about you!",
+			"dialog"			: "哦对了，    我做了个关于你的梦！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "If only I could have dreams...",
+			"dialog"			: "要是我也能做梦的话...",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "|wave|Then I would truly be the pinnacle of perfection that I am.",
+			"dialog"			: "|wave|我就能真正成为完美的顶端了。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "Dis girl is very spicy.",
+			"dialog"			: "则个女孩超级辣。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "Yeah, I really think she is...",
+			"dialog"			: "是呀，她确实...",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "I don't fully understand this praise, but I have to agree with it.|L||!|I must be the epitome of spicy.",
+			"dialog"			: "我无法完全理解这赞誉，但我必须同意。|L||!|我一定是辣的典范。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "But I've taken enough of the spotlight.|L||!|You were talking about a dream?",
+			"dialog"			: "但我已经占据足够的焦点了。|L||!|你们刚刚在谈论梦境的事情？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "Dis dream where we tell you about our |C3|link synapse?|C0|",
+			"dialog"			: "辣个我们告诉你|C3|连接突触|C0|的梦？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "So it WAS a message from you.",
+			"dialog"			: "所以那确实是来自你的信息。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "So, I can give you gifts that I have right now, and your power will let me pick them up at the start of any day?",
+			"dialog"			: "所以，我可以现在把礼物给你，然后你的力量能让我在任一天的开始把它们取出来？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "Yis.|L||!|But we will need some time to prepare our |C3|link synapse.|C0|",
+			"dialog"			: "是吖。|L||!|不过我们还需要点时间来为我们的|C3|连接突触|C0|充能。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "Maybe after I show love to another monster?",
+			"dialog"			: "或许等我再向另一位怪物展示爱之后？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "Yis.|L||!|We will come find you after dis, okee?",
+			"dialog"			: "好吖。|L||!|我们会回来找你的，好吖？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "Be careful, yis?|L||!|We want to see you safe.",
+			"dialog"			: "要小心点，好吖？|L||!|我们想看到你安全回来。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "Sure thing, Boiler.",
+			"dialog"			: "当然了，锅炉。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "Oh,   one more thing.",
+			"dialog"			: "哦，   还有一件事。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
-			"dialog"			: "..!",
+			"dialog"			: "..！",
 		},
 	]
 }

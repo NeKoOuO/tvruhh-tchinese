@@ -254,7 +254,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "好耶!",
+			"dialog"			: "好耶！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
@@ -269,7 +269,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "好耶!",
+			"dialog"			: "好耶！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
@@ -287,7 +287,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "好耶!",
+			"dialog"			: "好耶！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
@@ -326,7 +326,7 @@
 			"play_music"		: "silence",
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
-			"dialog"			: "..!",
+			"dialog"			: "..！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],

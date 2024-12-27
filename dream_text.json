@@ -86,7 +86,7 @@
 	"nothing_awaits"  	: "实现等待着你",
 	"monster_awaits"  	: "一个新的怪物等待着你",
 	"gift_awaits_1"  	: "一个新的简单力量礼物等待着你",
-	"gift_awaits_2"  	: "一个新的可爱力量礼物等待着你",
+	"gift_awaits_2"  	: "一个新的美好力量礼物等待着你",
 	"gift_awaits_3"  	: "一个新的奇妙力量礼物等待着你",
 	"bonus_awaits"  	: "一个新的额外礼物等待着你",
 	"quick_awaits"  	: "一个新的快速礼物等待着你",
@@ -106,7 +106,7 @@
 	"early_access"  	: "后续可能会增加奖励，其将会追溯解锁。",
 	"monster_reward"	: "一个新的怪物可以被爱",
 	"gift_reward_1"		: "一个新的简单力量礼物可以被找到",
-	"gift_reward_2"		: "一个新的可爱力量礼物可以被找到",
+	"gift_reward_2"		: "一个新的美好力量礼物可以被找到",
 	"gift_reward_3"		: "一个新的奇妙力量礼物可以被找到",
 	"bonus_reward"		: "一个新的额外礼物可以被找到",
 	"quick_reward"		: "一个新的快速礼物可以被找到",
@@ -351,19 +351,19 @@
 		"desc"    : "在任意等级8或以上的战斗中获得100%连击",
 	},
 	"DR_score2500" : {
-		"name"    : "很好的分数",
+		"name"    : "好分数",
 		"desc"    : "在一场战斗中获得至少2500分数",
 	},
 	"DR_score5000" : {
-		"name"    : "很棒的分数",
+		"name"    : "超棒分数",
 		"desc"    : "在一场战斗中获得至少5000分数",
 	},
 	"DR_score7500" : {
-		"name"    : "可爱的分数",
+		"name"    : "美丽分数",
 		"desc"    : "在一场战斗中获得至少7500分数",
 	},
 	"DR_score10000" : {
-		"name"    : "奇妙的分数",
+		"name"    : "奇妙分数",
 		"desc"    : "在一场战斗中获得至少10000分数",
 	},
 	"DR_score12345" : {
@@ -422,7 +422,7 @@
 	},
 	"DR_her_heart_trial7" : {
 		"name"    : "她的心:金色的心",
-		"desc"    : "作为她的心，在任意等级7或以上快速挑战战斗中至少获得黄金徽章",
+		"desc"    : "作为她的心，在任意等级7或以上快速挑战战斗中至少获得金色徽章",
 	},
 	"DR_her_heart_trial8" : {
 		"name"    : "她的心:梦魇爱者",
@@ -483,7 +483,7 @@
 	},
 	"DR_defect_trial6" : {
 		"name"    : "缺陷:银色的心",
-		"desc"    : "作为缺陷，不装备任何礼物的情况下在等级6或以上的快速挑战战斗中获得至少白银徽章",
+		"desc"    : "作为缺陷，不装备任何礼物的情况下在等级6或以上的快速挑战战斗中获得至少银色徽章",
 	},
 	"DR_defect_trial7" : {
 		"name"    : "缺陷:极速",
@@ -540,7 +540,7 @@
 	},
 	"DR_twin_heart_trial4" : {
 		"name"    : "双子之心:大雨虚空",
-		"desc"    : "作为双子之心在故事模式中至少大雨难度下击败虚空，且在所有战斗中花费的总时间不超过6分钟",
+		"desc"    : "作为双子之心在故事模式中至少大雨难度下击败虚空，\n且在所有战斗中花费的总时间不超过6分钟",
 	},
 	"DR_twin_heart_trial5" : {
 		"name"    : "双子之心:礼物暴雨",
@@ -617,7 +617,7 @@
 	},
 	"DR_the_devil_trial7" : {
 		"name"    : "恶魔:金色的心",
-		"desc"    : "作为恶魔，在任意等级9或以上快速挑战战斗中至少获得黄金徽章",
+		"desc"    : "作为恶魔，在任意等级9或以上快速挑战战斗中至少获得金色徽章",
 	},
 	"DR_the_devil_trial8" : {
 		"name"    : "恶魔:梦魇爱者",
@@ -736,7 +736,7 @@
 		"desc"    : "点亮8张怪物卡",
 	},
 	"DR_radiate_monster20" : {
-		"name"    : "可爱的怪物卡组",
+		"name"    : "美好的怪物卡组",
 		"desc"    : "点亮20张怪物卡",
 	},
 	"DR_radiate_monster36" : {
@@ -1501,7 +1501,7 @@
 	},
 	"DR_her_heart_alt2" : {
 		"name"    : "她的心 of Gold",
-		"desc"    : "作为她的心，在异相故事中获得一个至少为黄金的徽章",
+		"desc"    : "作为她的心，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_defect_alt1" : {
 		"name"    : "The Flawed Heart",
@@ -1509,7 +1509,7 @@
 	},
 	"DR_defect_alt2" : {
 		"name"    : "Fool's Gold",
-		"desc"    : "作为缺陷，在异相故事中获得一个至少为黄金的徽章",
+		"desc"    : "作为缺陷，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_twin_alt1" : {
 		"name"    : "The Heart of a Twin",
@@ -1517,7 +1517,7 @@
 	},
 	"DR_twin_alt2" : {
 		"name"    : "Golden Twins",
-		"desc"    : "作为双子之心，在异相故事中获得一个至少为黄金的徽章",
+		"desc"    : "作为双子之心，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_devil_alt1" : {
 		"name"    : "The Heart of a Devil",
@@ -1525,7 +1525,7 @@
 	},
 	"DR_devil_alt2" : {
 		"name"    : "Devil's Gold",
-		"desc"    : "作为恶魔，在异相故事中获得一个至少为黄金的徽章",
+		"desc"    : "作为恶魔，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_alt_heart_alt1" : {
 		"name"    : "The Painted Heart",
@@ -1533,7 +1533,7 @@
 	},
 	"DR_alt_heart_alt2" : {
 		"name"    : "She's Painted Gold",
-		"desc"    : "作为异相之心，在异相故事中获得一个至少为黄金的徽章",
+		"desc"    : "作为异相之心，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_alt_defect_alt1" : {
 		"name"    : "The Perfect Heart",
@@ -1541,7 +1541,7 @@
 	},
 	"DR_alt_defect_alt2" : {
 		"name"    : "Flawless Gold",
-		"desc"    : "作为异相缺陷，在异相故事中获得一个至少为黄金的徽章",
+		"desc"    : "作为异相缺陷，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_alt_twin_alt1" : {
 		"name"    : "The Beaming Heart",
@@ -1549,7 +1549,7 @@
 	},
 	"DR_alt_twin_alt2" : {
 		"name"    : "Reflected in Gold",
-		"desc"    : "作为异相双子，在异相故事中获得一个至少为黄金的徽章",
+		"desc"    : "作为异相双子，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_alt_devil_alt1" : {
 		"name"    : "The Condemned Heart",
@@ -1557,22 +1557,22 @@
 	},
 	"DR_alt_devil_alt2" : {
 		"name"    : "Scorched Gold",
-		"desc"    : "作为异相恶魔，在异相故事中获得一个至少为黄金的徽章",
+		"desc"    : "作为异相恶魔，在异相故事中获得一个至少为金色的徽章",
 	},
 	
 	
 	
 	"DR_alter_silver_t1" : {
 		"name"    : "3 Altered Silvers",
-		"desc"    : "在异相故事中，获得3个不同的至少为白银的徽章",
+		"desc"    : "在异相故事中，获得3个不同的至少为银色的徽章",
 	},
 	"DR_alter_silver_t2" : {
 		"name"    : "12 Altered Silvers",
-		"desc"    : "在异相故事中，获得12个不同的至少为白银的徽章",
+		"desc"    : "在异相故事中，获得12个不同的至少为银色的徽章",
 	},
 	"DR_alter_silver_t3" : {
 		"name"    : "24 Altered Silvers",
-		"desc"    : "在异相故事中，获得24个不同的至少为白银的徽章",
+		"desc"    : "在异相故事中，获得24个不同的至少为银色的徽章",
 	},
 	"DR_alter_radiant_t1" : {
 		"name"    : "Altered辉光",
@@ -1634,11 +1634,11 @@
 	},
 	"DR_qp_none_level7" : {
 		"name"    : "Giant Lover",
-		"desc"    : "在不装备任何礼物的情况下，在任意等级至少为7的快速挑战中至少获取白银徽章",
+		"desc"    : "在不装备任何礼物的情况下，在任意等级至少为7的快速挑战中至少获取银色徽章",
 	},
 	"DR_qp_none_level10" : {
 		"name"    : "Titan Lover",
-		"desc"    : "在不装备任何礼物的情况下，在任意等级至少为10的快速挑战中至少获取白银徽章",
+		"desc"    : "在不装备任何礼物的情况下，在任意等级至少为10的快速挑战中至少获取银色徽章",
 	},
 	"DR_qp_rad_medal1" : {
 		"name"    : "A Radiant Medal!",
@@ -1722,27 +1722,27 @@
 	},
 	"DR_qp_gold_medal10" : {
 		"name"    : "10 Gold Medals",
-		"desc"    : "在10场不同的快速挑战战斗中至少获取黄金徽章",
+		"desc"    : "在10场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_gold_medal40" : {
 		"name"    : "40 Gold Medals",
-		"desc"    : "在40场不同的快速挑战战斗中至少获取黄金徽章",
+		"desc"    : "在40场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_gold_medal90" : {
 		"name"    : "90 Gold Medals",
-		"desc"    : "在90场不同的快速挑战战斗中至少获取黄金徽章",
+		"desc"    : "在90场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_gold_medal160" : {
 		"name"    : "160 Gold Medals",
-		"desc"    : "在160场不同的快速挑战战斗中至少获取黄金徽章",
+		"desc"    : "在160场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_gold_medal250" : {
 		"name"    : "250 Gold Medals",
-		"desc"    : "在250场不同的快速挑战战斗中至少获取黄金徽章",
+		"desc"    : "在250场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_gold_medal360" : {
 		"name"    : "360 Gold Medals",
-		"desc"    : "在360场不同的快速挑战战斗中至少获取黄金徽章",
+		"desc"    : "在360场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_rad_medal10" : {
 		"name"    : "10 Radiant Medals!",
@@ -2055,51 +2055,51 @@
 	
 	"DR_gold_r_easy" : {
 		"name"    : "Top of Tiny Tower",
-		"desc"    : "作为任意角色，通关小型高塔并获得至少黄金徽章",
+		"desc"    : "作为任意角色，通关小型高塔并获得至少金色徽章",
 	},
 	"DR_gold_r_hard" : {
 		"name"    : "Top of Taller Tower",
-		"desc"    : "作为任意角色，通关更高的塔并获得至少黄金徽章",
+		"desc"    : "作为任意角色，通关更高的塔并获得至少金色徽章",
 	},
 	"DR_gold_r_expert" : {
 		"name"    : "Top of Torrential Tower",
-		"desc"    : "作为任意角色，通关暴雨高塔并获得至少黄金徽章",
+		"desc"    : "作为任意角色，通关暴雨高塔并获得至少金色徽章",
 	},
 	"DR_gold_shamble" : {
 		"name"    : "Top of Shameful Spire",
-		"desc"    : "作为任意角色，通关羞愧尖塔并获得至少黄金徽章",
+		"desc"    : "作为任意角色，通关羞愧尖塔并获得至少金色徽章",
 	},
 	"DR_gold_guardian" : {
 		"name"    : "Top of Frustration Fortress",
-		"desc"    : "作为任意角色，通关沮丧要塞并获得至少黄金徽章",
+		"desc"    : "作为任意角色，通关沮丧要塞并获得至少金色徽章",
 	},
 	"DR_gold_glyph" : {
 		"name"    : "Top of Symbolic Skyscraper",
-		"desc"    : "作为任意角色，通关象征高楼并获得至少黄金徽章",
+		"desc"    : "作为任意角色，通关象征高楼并获得至少金色徽章",
 	},
 	"DR_gold_zaramech" : {
 		"name"    : "Top of Anxious Ascent",
-		"desc"    : "作为任意角色，通关焦虑攀升并获得至少黄金徽章",
+		"desc"    : "作为任意角色，通关焦虑攀升并获得至少金色徽章",
 	},
 	"DR_gold_glass" : {
 		"name"    : "Top of Blossoming Belfry",
-		"desc"    : "作为任意角色，通关绽放钟楼并获得至少黄金徽章",
+		"desc"    : "作为任意角色，通关绽放钟楼并获得至少金色徽章",
 	},
 	"DR_gold_veyeral" : {
 		"name"    : "Top of Looming Loneliness",
-		"desc"    : "作为任意角色，通关迫近孤独并获得至少黄金徽章",
+		"desc"    : "作为任意角色，通关迫近孤独并获得至少金色徽章",
 	},
 	"DR_tower_silver_t1" : {
 		"name"    : "5 Silver Towers",
-		"desc"    : "在高塔中获得5个不同的至少为白银的徽章",
+		"desc"    : "在高塔中获得5个不同的至少为银色的徽章",
 	},
 	"DR_tower_silver_t2" : {
 		"name"    : "15 Silver Towers",
-		"desc"    : "在高塔中获得15个不同的至少为白银的徽章",
+		"desc"    : "在高塔中获得15个不同的至少为银色的徽章",
 	},
 	"DR_tower_silver_t3" : {
 		"name"    : "30 Silver Towers",
-		"desc"    : "在高塔中获得30个不同的至少为白银的徽章",
+		"desc"    : "在高塔中获得30个不同的至少为银色的徽章",
 	},
 	"DR_tower_radiant_t1" : {
 		"name"    : "A Radiant Tower",
@@ -2270,11 +2270,11 @@
 	},
 	"DR_en_overall_silver" : {
 		"name"    : "Overall Silver Nightmare",
-		"desc"    : "在无尽梦魇的整体最佳分类下获取1个白银徽章",
+		"desc"    : "在无尽梦魇的整体最佳分类下获取1个银色徽章",
 	},
 	"DR_en_overall_gold" : {
 		"name"    : "Overall Golden Nightmare",
-		"desc"    : "在无尽梦魇的整体最佳分类下获取1个黄金徽章",
+		"desc"    : "在无尽梦魇的整体最佳分类下获取1个金色徽章",
 	},
 	"DR_en_overall_radiant" : {
 		"name"    : "Overall Radiant Nightmare",
@@ -2286,27 +2286,27 @@
 	},
 	"DR_en_silver10" : {
 		"name"    : "10 Silver Nightmares",
-		"desc"    : "在无尽梦魇中获得10个不同的至少为白银的徽章",
+		"desc"    : "在无尽梦魇中获得10个不同的至少为银色的徽章",
 	},
 	"DR_en_silver30" : {
 		"name"    : "30 Silver Nightmares",
-		"desc"    : "在无尽梦魇中获得30个不同的至少为白银的徽章",
+		"desc"    : "在无尽梦魇中获得30个不同的至少为银色的徽章",
 	},
 	"DR_en_silver60" : {
 		"name"    : "60 Silver Nightmares",
-		"desc"    : "在无尽梦魇中获得60个不同的至少为白银的徽章",
+		"desc"    : "在无尽梦魇中获得60个不同的至少为银色的徽章",
 	},
 	"DR_en_gold5" : {
 		"name"    : "5 Golden Nightmares",
-		"desc"    : "在无尽梦魇中获得5个不同的至少为黄金的徽章",
+		"desc"    : "在无尽梦魇中获得5个不同的至少为金色的徽章",
 	},
 	"DR_en_gold20" : {
 		"name"    : "20 Golden Nightmares",
-		"desc"    : "在无尽梦魇中获得20个不同的至少为黄金的徽章",
+		"desc"    : "在无尽梦魇中获得20个不同的至少为金色的徽章",
 	},
 	"DR_en_gold45" : {
 		"name"    : "45 Golden Nightmares",
-		"desc"    : "在无尽梦魇中获得45个不同的至少为黄金的徽章",
+		"desc"    : "在无尽梦魇中获得45个不同的至少为金色的徽章",
 	},
 	"DR_en_radiant1" : {
 		"name"    : "A Radiant Nightmare!",
@@ -2346,7 +2346,7 @@
 	},
 	"DR_boiler1" : {
 		"name"    : "Hard Boiled",
-		"desc"    : "击败锅炉且达成100%连击，并且从未让任何她的部位越过你身后，同时破坏至少6个她的衍体",
+		"desc"    : "击败锅炉且达成100%连击，并且从未让任何她的部位越过你身后，\n同时破坏至少6个她的衍体",
 	},
 	"DR_boiler2" : {
 		"name"    : "Spicy Scrambles",
@@ -2354,7 +2354,7 @@
 	},
 	"DR_rage_boiler1" : {
 		"name"    : "The Most Spiciest Game",
-		"desc"    : "在燃怒锅炉的单场战斗中，在安全泡泡外的时间总共达到15秒并且未受到伤害或使用恐慌攻击",
+		"desc"    : "在燃怒锅炉的单场战斗中，\n在安全泡泡外的时间总共达到15秒并且未受到伤害或使用恐慌攻击",
 	},
 	"DR_rage_boiler2" : {
 		"name"    : "My Bubble!",
@@ -2544,7 +2544,7 @@
 	},
 	"DR_hematoren1" : {
 		"name"    : "Sprinkler System",
-		"desc"    : "在与血玛托壬的等级至少为6的战斗中，在不受到伤害的情况下，仅破坏她下方的血液球然后击败她",
+		"desc"    : "在与血玛托壬的等级至少为6的战斗中，\n在不受到伤害的情况下，仅破坏她下方的血液球然后击败她",
 	},
 	"DR_hematoren2" : {
 		"name"    : "Bleeding Me",
@@ -2647,7 +2647,7 @@
 	},
 	"DR_prisma2" : {
 		"name"    : "Simple Geometry",
-		"desc"    : "在与棱镜的战斗中，连续15秒内不移动，中途未受到伤害且未使用恐慌攻击（故事模式）",
+		"desc"    : "在与棱镜的战斗中，连续15秒内不移动，\n中途未受到伤害且未使用恐慌攻击（故事模式）",
 	},
 	"DR_rage_prisma1" : {
 		"name"    : "Safety Circumference",
@@ -2663,7 +2663,7 @@
 	},
 	"DR_dual_prisma2" : {
 		"name"    : "Bisected Angle",
-		"desc"    : "在与双生棱镜的战斗中，破坏其中一只的全部4块外壳部件同时另一只保持完整（故事模式）",
+		"desc"    : "在与双生棱镜的战斗中，\n破坏其中一只的全部4块外壳部件同时另一只保持完整（故事模式）",
 	},
 	"DR_syncron1" : {
 		"name"    : "Chaotic Indecision",
@@ -2707,7 +2707,7 @@
 	},
 	"DR_ventra1" : {
 		"name"    : "OK, 3, 2, 1, Blast Off!",
-		"desc"    : "在等级至少为7的战斗中，击败雯特拉并达成100%连击，且破坏她全部4个齿轮状车轮部件",
+		"desc"    : "在等级至少为7的战斗中，\n击败雯特拉并达成100%连击，且破坏她全部4个齿轮状车轮部件",
 	},
 	"DR_ventra2" : {
 		"name"    : "I'll Be The Roundabout",
@@ -3146,7 +3146,7 @@
 	},
 	"DR_nova1" : {
 		"name"    : "Taste The Rainbow",
-		"desc"    : "在与超新星的单场战斗中，破坏全部6个宝石克隆体，所有克隆体的环绕物，以及每种颜色4块石头",
+		"desc"    : "在与超新星的单场战斗中，破坏全部6个宝石克隆体，\n所有克隆体的环绕物，以及每种颜色4块石头",
 	},
 	"DR_nova2" : {
 		"name"    : "Never Miss A Beat",
@@ -3206,11 +3206,11 @@
 	},
 	"DR_limbo1" : {
 		"name"    : "You're a Heartbreaker, Dream Maker",
-		"desc"    : "Defeat all 6 of Limbo's different color phases before her fear is reduced to 10%",
+		"desc"    : "在她的恐惧降至10%前击败黯驳的全部6种不同颜色形态",
 	},
 	"DR_limbo2" : {
 		"name"    : "Save Me",
-		"desc"    : "Defeat Limbo with a 100% Full Combo without her ever repeating any color phases (Story Mode)",
+		"desc"    : "击败黯驳并达成全连击，且未让她重复任何颜色形态（故事模式）",
 	},
 
 }
