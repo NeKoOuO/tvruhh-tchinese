@@ -25,7 +25,7 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "我现在只会收下被送给我的心了。",
+			"dialog"			: "我现在只会收下那些被送给我的心了。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
@@ -106,7 +106,7 @@
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2|你对此感到愤怒。|L|我能够感觉到！",
+			"dialog"			: "|C2|你对此感到愤怒。|L|我能感受到！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],

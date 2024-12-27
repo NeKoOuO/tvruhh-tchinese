@@ -5,7 +5,7 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "Scrambla!",
+			"dialog"			: "蛋花！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
@@ -13,52 +13,52 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious"],
-			"dialog"			: "You|!| are|!| so...",
+			"dialog"			: "你|!|现在|!|超级...",
 		},
 		{
 			"play_music"		: "green_scene_music",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|shake|Cute!",
+			"dialog"			: "|shake|可爱！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
-			"dialog"			: "..!",
+			"dialog"			: "..！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "Dis is our hugging form.",
+			"dialog"			: "则是我们的拥抱模式。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "You think dis is cute?",
+			"dialog"			: "你觉得则很可爱？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "I do, actually.",
+			"dialog"			: "实际上，是的。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "We wanted to look more like dis Zaraden.",
+			"dialog"			: "我们想要看起来更像则位扎拉登一样。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "|wave|We think dis Zaraden is cute!",
+			"dialog"			: "|wave|我们认为则位扎拉登很可爱！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "Oh, you wanted to look like me?",
+			"dialog"			: "哦，你想要看起来像我一样吗？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "Yis!",
+			"dialog"			: "是吖！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "That's so sweet.",
+			"dialog"			: "你真是太好了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "But,     there are     a lot of better choices than me.",
+			"dialog"			: "但是，     有很多     比我更好的选择。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_normal"],
@@ -66,7 +66,7 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_upset"],
-			"dialog"			: "No no!|L||!|Dis Zaraden is wonderful and you should not say such bad things about her!",
+			"dialog"			: "不不！|L||!|则位扎拉登很棒，你不许说她的坏话！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
@@ -74,83 +74,83 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "Okay.",
+			"dialog"			: "好哦。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "We want to help you with our Shamble powers!",
+			"dialog"			: "我们想要用晃晃的力量帮助你！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "Oh!    I think I had a dream where you told me about this?",
+			"dialog"			: "哦！    我记得我梦到过你跟我说这个？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "Yis! You got our message.",
+			"dialog"			: "是吖！你收到我们的消息了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "I guess you have some kind of dream powers too?",
+			"dialog"			: "我猜你也有某种梦境力量吗？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "Yis! You remember dis?",
+			"dialog"			: "是吖！你记得则个？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "So I can give you my gifts, and you will send them to the future where I can pick them up tomorrow morning?",
+			"dialog"			: "所以我可以把礼物给你，然后你会把它们送向未来，让我可以在明天早上把它们取出来？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "Yis!|L||!|But you can also save dem for another day too.",
+			"dialog"			: "是吖！|L||!|但你也可以把它们留到另一天。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "And I can give you different gifts every day, until I have a |C3|super gift combo?",
+			"dialog"			: "而且我可以每天给你不同的礼物，直至我能有|C3|超级礼物组合？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "|shake|Yis!",
+			"dialog"			: "|shake|好吖！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "Okay, let's do this!",
+			"dialog"			: "好吧，那我们开始吧！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "Uh, we actually need some time to charge dis |C3|linky synapse.|C0|",
+			"dialog"			: "呃，实际上我们还需要点时间来为则个|C3|连接突触|C0|充能。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "Go show love to dis other monster.|L||!|We will come find you after dis,   okee?",
+			"dialog"			: "先去为另一位怪物展示爱。|L||!|我们会在则之后来找你，   好吖？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "Okay, Scrambla!",
+			"dialog"			: "好的，蛋花！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
-			"dialog"			: "Oh, one more thing.",
+			"dialog"			: "哦，还有件事。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
-			"dialog"			: "Sister Boiler is probably scared.",
+			"dialog"			: "锅炉姐姐可能有点被吓到了。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "Please love her too,   okee?|L||!|We don't have a heart to do dis.",
+			"dialog"			: "请你也去爱她，好吖？|L||!|我们没有心，不能则么做。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "We both have dis same kind of synapse.|L||!|She will help you too!",
+			"dialog"			: "我们都有则种同样的突触。|L||!|她也会帮助你的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "Scrambla, I know your sister is just as lovely as you.",
+			"dialog"			: "蛋花，我知道你姐姐和你一样可爱。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "But aren't you forgetting something else?",
+			"dialog"			: "但是你没有忘记什么吗？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
@@ -158,20 +158,20 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "Hug!",
+			"dialog"			: "拥抱！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "|shake|Yis!",
+			"dialog"			: "|shake|好吖！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "|wave|We love you!",
+			"dialog"			: "|wave|我们爱你！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you!",
+			"dialog"			: "|wave|我爱你！",
 		}
 	]
 }

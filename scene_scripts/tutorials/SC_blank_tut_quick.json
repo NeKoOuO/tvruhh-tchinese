@@ -48,7 +48,7 @@
 		{
 			"show_tutorial"		: "example_quick_card2",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "其中许多仅会持续一场战斗。",
+			"dialog"			: "其中有些仅会持续一场战斗。",
 		},
 		{
 			"show_tutorial"		: "small_quick_cards",
@@ -57,7 +57,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "如果你已经持有过多的话，怪物们将不会有任何|C3|快速礼物|C0|给你。",
+			"dialog"			: "如果你已经持有过多的话，怪物们将不会为你展示她们的|C3|快速礼物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],

@@ -5,35 +5,35 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-			"dialog"			: "So you've made it this far?",
+			"dialog"			: "所以你已经到这里了？",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|This makes Solara very happy!",
+			"dialog"			: "|wave|这让索拉纳非常开心！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-			"dialog"			: "You may have noticed there are still missing things.",
+			"dialog"			: "你可能注意到了这里还少了点东西。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
-			"dialog"			: "The stories that aren't there.",
+			"dialog"			: "故事都还不在这里。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
-			"dialog"			: "You don't even know Solara.",
+			"dialog"			: "你甚至不知道索拉纳是谁。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "But the stories are coming!",
+			"dialog"			: "但故事会有的！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "They are being finished now!|L||!|You will finally know Solara!",
+			"dialog"			: "它们现在正在写！|L||!|你最终会知道索拉纳的！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|Anyways,|norm| Solara wishes you happy times in the Endless Nightmare!",
+			"dialog"			: "|wave|总之，|norm|索拉纳祝愿你在无尽梦魇中能够有美好的时光！",
 		},
 	]
 }

@@ -13,7 +13,7 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "又被称之为|C3|获得高分|C0|。",
+			"dialog"		: "也被称之为|C3|获得高分|C0|。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
@@ -21,15 +21,15 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "当想要获取高分时有三个重要的因素需要考虑。",
+			"dialog"		: "当想要获取高分时，有三个重要的因素需要考虑。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|第一个因素:|C0|从怪物那里提取|C3|魔尘|C0|最简单的方法时破坏怪物的部位。",
+			"dialog"		: "|C3|第一个因素:|C0|从怪物那里提取|C3|魔尘|C0|最简单的方法是破坏怪物的部件。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "你的爱足够强大，能够破坏怪物的|C3|武器|C0|与|C3|装甲|C0|的部件。",
+			"dialog"		: "你的爱足够强大，能够破坏怪物的|C3|武器|C0|与|C3|装甲|C0|部件。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -54,7 +54,7 @@
 		
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|第二个因素:|C0|在怪物身上保持|C3|爱之连击|C0|能够处理|C3|魔尘|C0|使之尚待提取。",
+			"dialog"		: "|C3|第二个因素:|C0|在怪物身上保持|C3|爱之连击|C0|能够处理|C3|魔尘|C0|使之能够提取。",
 		},
 		{
 			"show_tutorial"	: "combo_bar1",
@@ -91,15 +91,15 @@
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious2"],
-			"dialog"		: "你让这件事听起来    如此简单。",
+			"dialog"		: "你说的好像这件事    特别简单。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"		: "|shake|嘿等一下！",
+			"dialog"		: "|shake|等一下！",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "有时候怪物会飞到我的心够不到的地方。|!||L|这种事情发生时我就不能够维持连击了。",
+			"dialog"		: "有时候怪物会飞到我的心够不到的地方。|!||L|发生这种事情时，我就无法维持连击了。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -166,11 +166,11 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "重要的事情是你需要避免被击中。",
+			"dialog"		: "最重要的是你需要避免被击中。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|建议:|C0|不要受击。",
+			"dialog"		: "|C3|建议:|C0|不要受到伤害。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
@@ -183,15 +183,15 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|破坏所有怪物部位。|L||!|维持全连击。|L||!|不要受击。",
+			"dialog"		: "|C3|破坏所有怪物部位。|L||!|维持全连击。|L||!|不要受到伤害。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"		: "|wave|谢谢你小机器人。|!||L||norm|我会试着记在心里的。",
+			"dialog"		: "|wave|谢谢你，小机器人。|!||L||norm|我会试着记在心里的。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"		: "而你必须记住这一点。",
+			"dialog"		: "而你也必须记住这一点。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],

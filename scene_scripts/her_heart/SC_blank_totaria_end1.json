@@ -23,7 +23,7 @@
 		{
 			"transition_type"	: 1,
 			"bg_image"			: "spr_blank_totaria_end1_2",
-			"dialog"			: "|C2||shake|AaaAaAhHH!",
+			"dialog"			: "|C2||shake|AaaAaAhHH！",
 		},
 		{
 			"dialog"			: "|C2|这是什么力量？",
@@ -43,10 +43,10 @@
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_4",
-			"dialog"			: "|C2||shake|AaAAaaHhH!",
+			"dialog"			: "|C2||shake|AaAAaaHhH！",
 		},
 		{
-			"dialog"			: "|C2||shake|我甚至都无法触碰它！",
+			"dialog"			: "|C2||shake|我甚至无法触碰它！",
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_5",
@@ -59,7 +59,7 @@
 			"dialog"			: "|C2|雨正在逐渐停息。",
 		},
 		{
-			"dialog"			: "|C2|那么随时都可能重置了。",
+			"dialog"			: "|C2|那么一切随时都可能重置了。",
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_6",
@@ -69,7 +69,7 @@
 			"dialog"			: "|C2|但我知道她会回来的。",
 		},
 		{
-			"dialog"			: "|C2|她一直会的。",
+			"dialog"			: "|C2|她一向会的。",
 		}
 	]
 }

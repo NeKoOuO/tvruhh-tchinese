@@ -9,56 +9,56 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_nothing",
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|Why?|!| Why?|!| Why?!|!| WHY?!",
+			"dialog"			: "|C2||shake|为什么？|!| 为什么？|!| 为什么？！|!| WHY?!",
 		},
 		{
 			"play_music"		: "nightmare_music_c",
-			"dialog"			: "|C2||shake|Why doesn't she just give up?",
+			"dialog"			: "|C2||shake|她为什么不会放弃？",
 		},
 		{
-			"dialog"			: "|C2||shake|Why can't I make her STOP?!",
+			"dialog"			: "|C2||shake|我为什么无法阻止她？！",
 		},
 		{
-			"dialog"			: "|C2||shake|Why does she continue trying?!",
+			"dialog"			: "|C2||shake|她为什么要继续尝试？！",
 		},
 		{
-			"dialog"			: "|C2||shake|I do not understand!",
+			"dialog"			: "|C2||shake|我无法理解！",
 		},
 		{
-			"dialog"			: "|C2||shake|She is in CONSTANT     PAIN!",
+			"dialog"			: "|C2||shake|她处于持续的     痛苦之中！",
 		},
 		{
 			"dialog"			: "|C2||shake|...",
 		},
 		{
-			"dialog"			: "|C2||shake|This is your fault, isn't it?",
+			"dialog"			: "|C2||shake|这是你的错，是吧？",
 		},
 		{
-			"dialog"			: "|C2||shake|You did this to her!",
+			"dialog"			: "|C2||shake|是你让她这样的！",
 		},
 		{
-			"dialog"			: "|C2||shake|You make her persist when she should have given up long ago!",
+			"dialog"			: "|C2||shake|在她很久之前就应该放弃的时候，你让她坚持下去！",
 		},
 		{
-			"dialog"			: "|C2||shake|Do you know what you have done?!",
+			"dialog"			: "|C2||shake|你知道你做了什么吗？！",
 		},
 		{
-			"dialog"			: "|C2||shake|Do you realize what she is?",
+			"dialog"			: "|C2||shake|你意识到她是什么吗？",
 		},
 		{
-			"dialog"			: "|C2||shake|SHE CAN      NOT      FLY!",
+			"dialog"			: "|C2||shake|她      无法      飞翔！",
 		},
 		{
-			"dialog"			: "|C2||shake|This world has deemed her WORTHLESS!",
+			"dialog"			: "|C2||shake|这个世界认为她是没有价值的！",
 		},
 		{
-			"dialog"			: "|C2||shake|But YOU      think she is worth something?",
+			"dialog"			: "|C2||shake|但你      认为她还值得什么？",
 		},
 		{
-			"dialog"			: "|C2||shake|You have only prolonged her suffering.",
+			"dialog"			: "|C2||shake|你只是在延长她的痛苦。",
 		},
 		{
-			"dialog"			: "|C2||shake|Who is the REAL MONSTER here?!",
+			"dialog"			: "|C2||shake|谁才是真正的怪物？！",
 		},
 		{
 			"play_music"		: "silence",

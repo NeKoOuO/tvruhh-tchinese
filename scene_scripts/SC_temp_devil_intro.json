@@ -5,39 +5,39 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious"],
-			"dialog"			: "So you want to hear my story?|L||!|The Story of The Devil?",
+			"dialog"			: "所以你想听我的故事吗？|L||!|恶魔的故事？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "Well, I can't tell it to you yet.",
+			"dialog"			: "嗯，我现在还不能告诉你。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
-			"dialog"			: "You see, a lot of story pieces have been moved around before.",
+			"dialog"			: "你看，有许多故事碎片已经被动来动去了。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
-			"dialog"			: "I don't want to tell you things if they are just going to be changed later.",
+			"dialog"			: "我不想告诉你会被改变的事情。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
-			"dialog"			: "The whole game is getting close though.|L||!|The stories will be added last.",
+			"dialog"			: "不过整个游戏快要做完了。|L||!|故事会最后加进去的。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
-			"dialog"			: "I know I've said that for so long now, but look at me now!",
+			"dialog"			: "我知道我已经这样说了很久了，但你看看我现在的样子！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
-			"dialog"			: "Anyways, I don't have patience like you do.",
+			"dialog"			: "总之，我没有你那样的耐心。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "I want to get in there and knock the fear outta those monsters already!",
+			"dialog"			: "我想赶快冲进去把怪物心里的那些恐惧赶出去！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "And you're gunna help me do that!|L||!|Right now!",
+			"dialog"			: "而且你会帮助我的！|L||!|现在就要！",
 		}
 	]
 }

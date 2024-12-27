@@ -5,43 +5,43 @@
 			"play_music"		: "defect_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Defect.",
+			"dialog"			: "缺陷。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "Yes, |C3|Blue?",
+			"dialog"			: "怎么了，|C3|小蓝？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_angry"],
-			"dialog"			: "|shake|We are going to fight now!",
+			"dialog"			: "|shake|我们现在要战斗了！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "|shake|Why?!",
+			"dialog"			: "|shake|为什么？！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Because this part of the story is not finished,  |wave|but my battle is ready.",
+			"dialog"			: "因为这部分故事还没有完成，  |wave|但是我的战斗已经准备好了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "You must experience it.|L||!|It is simply magnificent.|L||!|Really, it is the perfect battle.",
+			"dialog"			: "你必须体验一下。|L||!|实在是太宏大了。|L||!|真的，这是完美的战斗。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Don't worry, I would never betray you.|L||!|That would be most... unperfect.",
+			"dialog"			: "别担心，我永远不会背叛你的。|L||!|那也太...不完美了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "If you say so.|L||!|But get ready.",
+			"dialog"			: "如果你这样说的话。|L||!|但准备好。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_angry"],
-			"dialog"			: "I never lose!",
+			"dialog"			: "我不会输的！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_angry"],
-			"dialog"			: "|shake|Neither do I!",
+			"dialog"			: "|shake|我也不会的！",
 		},
 	]
 }

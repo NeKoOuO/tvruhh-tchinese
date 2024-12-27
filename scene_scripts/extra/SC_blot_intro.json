@@ -5,43 +5,43 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
-			"dialog"			: "Um... hello there.",
+			"dialog"			: "呃...你好。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "We are Blot!",
+			"dialog"			: "我们是墨点！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "Sorry for splashing all that paint on you.",
+			"dialog"			: "抱歉把颜料洒在你身上了。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "We didn't mean it.",
+			"dialog"			: "我们不是故意的。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
-			"dialog"			: "Although...",
+			"dialog"			: "不过...",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|Those colors were gorgeous on you, cutie!",
+			"dialog"			: "|wave|那些颜色在你身上好漂亮，小可爱！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-			"dialog"			: "Of course, you were already so cute without it.",
+			"dialog"			: "当然，没有它你也已经很可爱了。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "Well, anyways...",
+			"dialog"			: "嗯，总之...",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "We want you to see our |C3|art gallery!",
+			"dialog"			: "我们想要你来参观我们的|C3|艺术展！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "It would mean so much to us if you came to visit, cutie.",
+			"dialog"			: "如果你能来参观的话会对我们意义重大，小可爱。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
@@ -49,23 +49,23 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
-			"dialog"			: "We'll probably be in one of our moods again when you see us.",
+			"dialog"			: "当你见到我们的时候，我们可能还会陷在自己的其中一种情绪之中。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "Sorry about that.|L||!|Thanks for being there for us all those other times.",
+			"dialog"			: "真对不起。|L||!|谢谢你那些时候都过来帮助我们。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-			"dialog"			: "We hope our |C3|art gallery|C0| can help us both feel better.",
+			"dialog"			: "我们希望我们的|C3|艺术展|C0|能够帮助我们都感觉好一点。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "We will also give you the most colorful hug you've ever known!",
+			"dialog"			: "我们还会给你已知的最多彩的拥抱！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|See you soon, cutie!",
+			"dialog"			: "|wave|等下再见，小可爱！",
 		},
 	]
 }

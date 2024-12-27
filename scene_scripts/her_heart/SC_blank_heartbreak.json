@@ -9,24 +9,24 @@
 			"play_music"		: "game_over_music",
 			"bg_image"			: "spr_blank_heartbreak",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|她的心碎了。",
+			"dialog"			: "|C1|她的心碎裂了。",
 		},
 		{
 			"dialog"			: "|C1|但这并非是第一次。",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|上面有着这么多裂痕。",
+			"dialog"			: "|C2||shake|它的上面有着这么多裂痕。",
 		},
 		{
 			"dialog"			: "|C2||shake|没有人能够去爱如此丑陋的心",
 		},
 		{
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|但是她会再修好这颗心的。",
+			"dialog"			: "|C1|但是她会再次修复这颗心的。",
 		},
 		{
-			"dialog"			: "|C1|她一直如此。",
+			"dialog"			: "|C1|她一向如此。",
 		}
 	]
 }

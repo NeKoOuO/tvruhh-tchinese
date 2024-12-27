@@ -12,7 +12,7 @@
 			"dialog"			: "|C1|这是一位年幼扎拉登女性的故事。",
 		},
 		{
-			"dialog"			: "|C1|她住在一个远离其他人的洞窟里。",
+			"dialog"			: "|C1|她住在某个远离其他人的洞窟里。",
 		},
 		{
 			"voice"				: "VOICE_red",
@@ -37,7 +37,7 @@
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|她只配住在那个洞里。",
+			"dialog"			: "|C2||shake|她只配活在那洞里。",
 		},
 		{
 			"bg_image"			: "spr_blank_intro1_3",
@@ -45,14 +45,14 @@
 			"dialog"			: "|C1|她无法逃离。",
 		},
 		{
-			"dialog"			: "|C1|她只想要飞走，但是...",
+			"dialog"			: "|C1|她想要飞走，但是...",
 		},
 		{
 			"voice"				: "VOICE_red",
 			"dialog"			: "|C2||shake|她畸形的翅膀一无是处。",
 		},
 		{
-			"dialog"			: "|C2||shake|她就应该早点放弃。",
+			"dialog"			: "|C2||shake|她就该早点放弃。",
 		},
 		{
 			"bg_image"			: "spr_blank_intro1_4",

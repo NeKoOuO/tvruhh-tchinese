@@ -33,7 +33,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "我其实现在正感觉非常不错！",
+			"dialog"			: "其实我现在感觉非常不错！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],

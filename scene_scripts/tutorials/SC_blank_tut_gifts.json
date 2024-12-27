@@ -40,7 +40,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "我的心确实已经感觉到变强了。",
+			"dialog"			: "我确实已经感觉到我的心变强了。",
 		},
 		{
 			"show_tutorial"		: "small_power_cards",
@@ -58,7 +58,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "我说不定需要先测试一下，为了确定它已经生效了。",
+			"dialog"			: "我说不定需要先测试一下，以确保它已经生效了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],

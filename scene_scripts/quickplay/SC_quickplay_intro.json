@@ -5,39 +5,39 @@
 			"play_music"	: "tutorbot_scene_music",
 			"bg_image"		: "spr_tutorial_common",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Young Zaraden,     it seems that some of the monsters have prepared a game for you.",
+			"dialog"		: "年幼的扎拉登，     看起来有些怪物们为你准备了一场游戏。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"		: "A game?    What kind of game?",
+			"dialog"		: "游戏？    是什么样的游戏？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "It is called |C3|Quickplay.",
+			"dialog"		: "它叫做|C3|快速挑战。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "|wave|That sounds like fun!|norm| How do I play?",
+			"dialog"		: "|wave|那听起来很有趣！|norm|我要怎么玩呢？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit will now explain |C3|Quickplay.",
+			"dialog"		: "本单元现在将解释|C3|快速挑战。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "In |C3|Quickplay,|C0| you can love any monster whenever you want.|!| Provided you have |C3|radiated|C0| their card.",
+			"dialog"		: "在|C3|快速挑战|C0|中，你可以随时爱任何怪物。|!| 前提是你已经|C3|点亮|C0|了她们的卡片。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "You can also use any |C3|radiated Power Gifts|C0| to help you love them.",
+			"dialog"		: "你同样也可以使用任何|C3|点亮的力量礼物|C0|来帮助你去爱它们。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Get high scores from the monsters to earn |C3|medals|C0| and |C3|level up.",
+			"dialog"		: "从怪物处获得高分能够让你获得|C3|徽章|C0|并且|C3|升级。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "As you |C3|level up,|C0| you will be able to |C3|equip more Power Gifts|C0| for each battle.",
+			"dialog"		: "当你|C3|升级|C0|时，你每场战斗能够|C3|装备更多力量礼物。|C0|",
 		},
 		{
 			"play_music"	: "silence",
@@ -46,37 +46,37 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "This Unit is detecting an error in your expression.",
+			"dialog"		: "本单元从你的表情中检测到错误。",
 		},
 		{
 			"play_music"	: "scene_music_b",
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
-			"dialog"		: "They want me to love them all over again?",
+			"dialog"		: "她们想让我再爱她们一遍？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "Error resolved.    |L|Tears of joy detected.",
+			"dialog"		: "错误解除。    |L|检测到高兴的泪水。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry2"],
-			"dialog"		: "Hey, Little Robot-",
+			"dialog"		: "嘿，小机器人——",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
-			"dialog"		: "|wave|I love you.",
+			"dialog"		: "|wave|我爱你。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|Suggestion:|C0| Give This Unit a hug.",
+			"dialog"		: "|C3|建议:|C0|给这个单元一个拥抱。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
-			"dialog"		: "You got it.",
+			"dialog"		: "当然了。",
 		},
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "Hugging complete.",
+			"dialog"		: "拥抱完成。",
 		},
 	]
 }

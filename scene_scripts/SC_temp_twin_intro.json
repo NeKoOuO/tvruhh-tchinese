@@ -5,55 +5,55 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "So... I'm sorry to say this, but our story isn't finished yet.",
+			"dialog"			: "所以...我很抱歉这样说，但是我们的故事还没有完成。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
-			"dialog"			: "|shake|What!?",
+			"dialog"			: "|shake|什么？！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
-			"dialog"			: "Why are you so surprised?",
+			"dialog"			: "你为什么这么惊讶？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad2"],
-			"dialog"			: "I just wasn't ready to hear it...",
+			"dialog"			: "我只是没准备好听到这个消息...",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
-			"dialog"			: "I'm just so excited to see which of the monsters will be flirting with you, Sunshine.",
+			"dialog"			: "我只是很想看到哪个怪物会和你调情，阳光。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "W-What are you talking about?",
+			"dialog"			: "你—你在说什么？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "That's right.|L||!|I know what the people want.",
+			"dialog"			: "没错。|L||!|我知道人们想看什么。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "Don't say such ridiculous things.|L||!|Don't listen to her.|L||!|That won't be happening.",
+			"dialog"			: "别说这种离谱的事情。|L||!|别听她的。|L||!|那才不会发生。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "|wave|If you say so.",
+			"dialog"			: "|wave|你说说就好。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "Anyways...",
+			"dialog"			: "总之...",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_sad2"],
-			"dialog"			: "You won't be seeing any more of us for a while, but-",
+			"dialog"			: "你短时间内不会再看到我们了，但是——",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_content"],
-			"dialog"			: "Let's go show the monsters some love anyways, okay?",
+			"dialog"			: "我们先去向怪物们展示爱吧，好吗？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|Right behind you, Sunshine.",
+			"dialog"			: "|wave|我跟着你，阳光。",
 		},
 	]
 }

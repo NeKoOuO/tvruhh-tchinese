@@ -12,19 +12,19 @@
 			"dialog"			: "请试着想起",
 		},
 		{
-			"dialog"			: "无论变得多么困难",
+			"dialog"			: "无论这一切变得有多么困难",
 		},
 		{
 			"dialog"			: "当你想要放弃的时候",
 		},
 		{
-			"dialog"			: "只要记得",
+			"dialog"			: "请记得",
 		},
 		{
 			"dialog"			: "有人一直爱着你。",
 		},
 		{
-			"dialog"			: "请无视否决这一点的声音！",
+			"dialog"			: "请无视任何否决这一点的声音！",
 		},
 		{
 			"center_text_x"		: 1,
@@ -52,13 +52,13 @@
 			"dialog"			: "但它感觉太真实了。",
 		},
 		{
-			"dialog"			: "而现在我又在这里了...|L||L|独自一人。",
+			"dialog"			: "而现在我又在这了...|L||L|只有我独自一人。",
 		},
 		{
 			"dialog"			: ". . .",
 		},
 		{
-			"dialog"			: "我应该看看外面。",
+			"dialog"			: "我应该去看看外面。",
 		},
 		{
 			"transition_type"	: 0,
@@ -104,7 +104,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "我怎么会忘记这个小机器人？|L|你昨天帮了我这么多！",
+			"dialog"			: "我怎么会忘记小机器人？|L|你昨天帮了我这么多！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -120,7 +120,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这是第一次这位扎拉登仍记得本单元。",
+			"dialog"			: "这是首次这位扎拉登仍记得本单元。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
@@ -128,7 +128,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "这可不好。|L|我怎么每天能够忘记这么多事情？",
+			"dialog"			: "这可不好。|L|我怎么能够忘记这么多事情？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -140,7 +140,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "嗯，我现在记得你了！",
+			"dialog"			: "嗯，至少我现在记得你了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
@@ -152,7 +152,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
-			"dialog"			: "哦抱歉，    我刚刚有点不由自主了。",
+			"dialog"			: "哦，对不起，    我刚刚有点不由自主了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],

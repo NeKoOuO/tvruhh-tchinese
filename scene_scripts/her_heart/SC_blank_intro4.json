@@ -9,13 +9,13 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"voice"				: "VOICE_static",
-			"dialog"			: "Please don't give up!",
+			"dialog"			: "请不要放弃！",
 		},
 		{
-			"dialog"			: "It's going to get so much harder, but I know you can do this!",
+			"dialog"			: "事情会越来越艰难，但我知道你能做到的！",
 		},
 		{
-			"dialog"			: "Please,     just don't give up.",
+			"dialog"			: "请，     不要放弃。",
 		},
 		{
 			"center_text_x"		: 1,
@@ -26,7 +26,7 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_blank_intro_wake_up1",
 			"voice"				: "VOICE_blank",
-			"dialog"			: "I won't!",
+			"dialog"			: "我不会的！",
 		},
 		{
 			"transition_type"	: 1,
@@ -34,7 +34,7 @@
 			"dialog"			: ". . .",
 		},
 		{
-			"dialog"			: "It's still dark outside.",
+			"dialog"			: "外面天还黑着。",
 		},
 		{
 			"transition_type"	: 0,
@@ -45,10 +45,10 @@
 			"text_w"			: 256,
 			"play_music"		: "silence",
 			"bg_image"			: "spr_blank_intro_raining",
-			"dialog"			: "It's raining again.",
+			"dialog"			: "今天又在下雨。",
 		},
 		{
-			"dialog"			: "Little Robot was wrong.",
+			"dialog"			: "小机器人错了。",
 		},
 		{
 			"dialog"			: ". . .",
@@ -62,51 +62,51 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has located the young Zaraden.|L|She was not at the usual location.",
+			"dialog"			: "本单元定位到了年幼的扎拉登。|L|她并非位于平常的位置。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit was about to activate panic mode.",
+			"dialog"			: "本单元即将激活恐慌模式。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry2"],
-			"dialog"			: "It's still raining today.",
+			"dialog"			: "今天还在下雨。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "You said it would stop.",
+			"dialog"			: "你说过雨会停的。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Update:|C0| This Unit had calculated the correct probability of rain. However, she also discovered an anomaly.",
+			"dialog"			: "|C3|更新:|C0|本单元计算出了正确的降雨概率。然而，她同样发现了一个异常现象。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Approximately 4 hours into the day cycle, This Unit calculated a sudden jump from 0.01% to 100% probability of rain.",
+			"dialog"			: "本日昼夜循环开始约4小时后，本单元计算到降雨概率从0.01%突然跃升至100%。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Current atmospheric readings indicate a 0.01% chance of rain tomorrow.",
+			"dialog"			: "现有环境读数表示明日降雨概率为0.01%。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Hypothesis:|C0| The rain is being manipulated by an unknown force.",
+			"dialog"			: "|C3|假说:|C0|降雨事件正被未知力量操控。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry2"],
-			"dialog"			: "So the rain was going to stop,   but then something made it keep going?",
+			"dialog"			: "所以雨本来是要停的，   但是有什么东西让它继续下了？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "And this is happening every single day?",
+			"dialog"			: "而这种事情每天都在发生？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "That is the working hypothesis of This Unit.",
+			"dialog"			: "这是本单元认为的合理假说。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_despair_cry"],
-			"dialog"			: "Then it's hopeless?|L||!|The rain will never end?",
+			"dialog"			: "那么就没有希望了？|L||!|大雨永远不会停歇？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -114,11 +114,11 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "Why even go out there again?|L|They're just going to forget about me tomorrow.",
+			"dialog"			: "那我为什么还要再出去？|L|她们明天也会忘记我的。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This rain may be related to the memory loss of the monsters.",
+			"dialog"			: "大雨可能与怪物的记忆缺失有关。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
@@ -126,31 +126,31 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "It doesn't matter.|L||!|We can't do anything about it.",
+			"dialog"			: "没关系的。|L||!|我们什么都做不到。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has met this young Zaraden on over 140 different days. She has given up exactly 0 times in all of those days.",
+			"dialog"			: "本单元在140天内均遇见过这位扎拉登。她在这些天内放弃的总次数恰好为0。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "But I couldn't remember-",
+			"dialog"			: "但我记不得—",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "The young Zaraden has overcome the memory loss. It is possible that the monsters can overcome as well.",
+			"dialog"			: "年幼的扎拉登已经克服了失忆状况。怪物们也存在克服本状况的可能性。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "It is possible that the young Zaraden can still help the monsters.",
+			"dialog"			: "有可能年幼的扎拉登仍能够帮助那些怪物们。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This young Zaraden now has the advantage of retaining knowledge from previous attempts.",
+			"dialog"			: "这位年幼的扎拉登现在拥有从先前尝试中保留知识的优势。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit believes that we can find the source of this rain.",
+			"dialog"			: "本单元坚信我们能够找到大雨的起因。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
@@ -158,56 +158,56 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],
-			"dialog"			: "We can do this.",
+			"dialog"			: "我们能做到的。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
-			"dialog"			: "I wonder how I was suddenly able to keep my memory.",
+			"dialog"			: "我在想我为何突然能够保留自己的记忆。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has no data on this phenomenon.",
+			"dialog"			: "对于此现象，本单元未保有相关数据。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "However, This Unit did note that the heart of the young Zaraden was radiating more light than on any previous day.",
+			"dialog"			: "但是，本单元确实注意到，相较于之前任何一天，年幼的扎拉登的心中闪耀着更多的光芒。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "That glow has persisted through every following day.",
+			"dialog"			: "而这种光芒持续到了之后的每一天。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "It does feel warmer.|L|Even more than before the rain.",
+			"dialog"			: "它确实感觉更温暖了。|L|甚至比大雨之前还要温暖。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "Little Robot-",
+			"dialog"			: "小机器人—",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "You taught me how to use my love powers every single day even though you knew I would forget?",
+			"dialog"			: "你每天都会教我如何使用我的爱之力量，即便你深知我会不断忘记？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "That is correct.",
+			"dialog"			: "没错。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "You are the best!",
+			"dialog"			: "你是最棒的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "I can't give up on the monsters either!",
+			"dialog"			: "我也不能对怪物们放弃！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit is relieved that the Zaraden is feeling better.",
+			"dialog"			: "扎拉登感觉好点了，本单元感到欣慰。",
 		}
 	]
 }

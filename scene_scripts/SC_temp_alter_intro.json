@@ -5,47 +5,47 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "Hello there.|L||!|Welcome to |C3|Altered Story|C0| mode.",
+			"dialog"			: "你好。|L||!|欢迎来到|C3|异相故事|C0|模式。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "You must be wondering who I am?",
+			"dialog"			: "你一定在想我是谁？",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "I'm just a friendly Abyss.",
+			"dialog"			: "我只是一位友好的阿比斯。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-			"dialog"			: "You won't know much about me until the end of Early Access.",
+			"dialog"			: "在抢先体验结束前你都不会知道太多我的事情。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "But for now, I'm here to explain |C3|Altered Story|C0| to you.",
+			"dialog"			: "但是现在，我在这里为你解释|C3|异相故事|C0|是什么。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "It's almost the same as regular story, but it can be much longer than you are used to.",
+			"dialog"			: "它和正常的故事模式几乎一样，但可能比你熟悉的要更长。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "|shake|And I can make it much more difficult for you.",
+			"dialog"			: "|shake|并且我可以让它对你而言变得更加困难。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "If you want a really high score, that is.",
+			"dialog"			: "只要，你想要一个非常高的分数。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "Every monster has a |C3|Rose Heart Medal|C0| to give to each Zaraden.",
+			"dialog"			: "每个怪物都有一个|C3|玫瑰心型徽章|C0|给每一位扎拉登。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "Please, go and gather those up for me.",
+			"dialog"			: "请帮我收集那些。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "May fate roll in your favor.",
+			"dialog"			: "愿命运倾向于你。",
 		},
 	]
 }

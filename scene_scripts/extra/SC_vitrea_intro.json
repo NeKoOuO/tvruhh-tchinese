@@ -5,131 +5,131 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "Can she hear me?",
+			"dialog"			: "她能听到我吗？",
 		},
 		{
 			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "We don't know.",
+			"dialog"			: "我们不知道。",
 		},
 		{
 			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "You don't know?",
+			"dialog"			: "你们不知道？",
 		},
 		{
 			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "Amalga, are you really sure this will work?",
+			"dialog"			: "阿玛加，你确定这没问题吗？",
 		},
 		{
 			"character"			: ["VOICE_static", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "Uh... Hold on.",
+			"dialog"			: "呃...稍等一下。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "We got it!",
+			"dialog"			: "成功了！",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "We hope this doesn't interrupt her sleeping.",
+			"dialog"			: "我们希望这没有打扰她的睡眠。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
-			"dialog"			: "Zaraden need a full six hours.",
+			"dialog"			: "扎拉登需要完整的六小时睡眠？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-			"dialog"			: "|shake|Six whole hours?    Every night?|norm||!||L|That's almost a third of the day.",
+			"dialog"			: "|shake|整整六个小时？    每晚都要？|norm||!||L|那都快是一天的三分之一了。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_angry"],
-			"dialog"			: "Vitrea, you should be sleeping six hours too.",
+			"dialog"			: "琉璃，你也应该睡够六个小时。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused_blush"],
-			"dialog"			: "I always try.",
+			"dialog"			: "我一直会尝试。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
-			"dialog"			: "Oh... We're sorry.",
+			"dialog"			: "哦... 我们很对不起。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused_blush"],
-			"dialog"			: "Alright, enough of that.",
+			"dialog"			: "好吧，差不多了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-			"dialog"			: "Let's make this quick.",
+			"dialog"			: "我们快点说吧。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-			"dialog"			: "I want to show you my |C3|Observatory!",
+			"dialog"			: "我想要为你展示我的|C3|天文台！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "My telescopes can capture the essence of stars and turn them into gifts for you.",
+			"dialog"			: "我的望远镜能够捕捉星星的精华，将它们转变成给你的礼物。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "Through the use of my special |C3|Lens Tokens|C0| that I designed myself-",
+			"dialog"			: "使用我自己设计的特殊|C3|透镜信物——|C0|",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "Uh, Vitrea?",
+			"dialog"			: "呃，琉璃？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "-those stars actually emitted the light millions of years ago-",
+			"dialog"			: "——那些星星的光其实来源于百万年前——",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "Umm...",
+			"dialog"			: "呃...",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "-then that light is focused though my special telescopes-",
+			"dialog"			: "——然后那些光能够聚焦在我特别的望远镜上——",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_angry"],
-			"dialog"			: "|shake|Vitrea!",
+			"dialog"			: "|shake|琉璃！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "|shake|Wha?!",
+			"dialog"			: "|shake|什么？！",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "Maybe save that part for later?",
+			"dialog"			: "或许你之后再解释会比较好？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused_blush"],
-			"dialog"			: "Oh yeah, that's probably a good idea.",
+			"dialog"			: "对哦，好主意。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-			"dialog"			: "I might not be feeling like    myself,  next time I see you.",
+			"dialog"			: "下次见到你时，我可能感觉    不像自己。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "But please come find me anyways, okay?",
+			"dialog"			: "但请来找我，好吗？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "I have a whole universe to show you.",
+			"dialog"			: "我有一整个宇宙想为你展示。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "Also, thanks to Amalga for lending me her Shamble powers, so I could talk to you in this dream.",
+			"dialog"			: "并且，要感谢阿玛加借给我她的晃晃力量，我才能够在梦里和你对话。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_aggressive"],
-			"dialog"			: "You WILL love her too.",
+			"dialog"			: "你也会爱她的。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
-			"dialog"			: "Oh, you don't have to-",
+			"dialog"			: "哦，你没必要——",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_upset"],
-			"dialog"			: "Shush Amalga. You're great.",
+			"dialog"			: "嘘，阿玛加。你很棒的。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
@@ -137,31 +137,31 @@
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "Oh!",
+			"dialog"			: "哦！",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_normal"],
-			"dialog"			: "And make sure you drink some water when you wake up.",
+			"dialog"			: "并且你记得起来时要喝点水。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "And don't forget to wash behind your antennae.",
+			"dialog"			: "还有别忘记洗触角后面。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
-			"dialog"			: "And scrub your wings and feathers.",
+			"dialog"			: "还有记得要擦洗你的翅膀和羽毛。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
-			"dialog"			: "And also-",
+			"dialog"			: "还有——",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "Okay, okay, let's let her sleep a little longer.",
+			"dialog"			: "好啦，好啦，我们让她多睡一会吧。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "Oh, Right.",
+			"dialog"			: "哦，对哦。",
 		},
 	]
 }

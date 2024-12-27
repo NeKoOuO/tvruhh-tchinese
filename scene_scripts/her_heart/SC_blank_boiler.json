@@ -5,57 +5,57 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "We...  don't deserve-|L||!|We tried to burn you...",
+			"dialog"			: "我们...  配不上——|L||!|我们试着烧伤你...",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious"],
-			"dialog"			: "Boiler,   it would be most unspicy of me not to hug you right now.",
+			"dialog"			: "锅炉，   如果我现在不拥抱你的话，那我就太不辣了。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
-			"dialog"			: "..!",
+			"dialog"			: "..！",
 		},
 		{
 			"play_music"		: "green_scene_music",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "Yis,      very spicy.",
+			"dialog"			: "好吖，      超级辣。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
-			"dialog"			: "How did dis Zaraden know about da spicy?",
+			"dialog"			: "则位扎拉登是怎么知道辣的？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "You are made of spicy!",
+			"dialog"			: "你就是用辣组成的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "Also, I'm pretty sure you infected my dreams with your Shamble powers or something.",
+			"dialog"			: "并且，我很确定你使用了晃晃力量之类的进入了我的梦境。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "You got our message!|L||!|Then you know about our |C3|link synapse,|C0| yis?",
+			"dialog"			: "你收到了我们的消息！|L||!|那你知道了我们的|C3|连接突触，|C0|是吖？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "I can give you my gifts, and you will put them in a portal thing.",
+			"dialog"			: "我可以把我的礼物给你，然后你会把它们放进一个传送门一样的地方。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "Then, I can get those gifts at the start of any day?",
+			"dialog"			: "然后，我可以在任何一天的开始取出这些礼物？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "Yis!",
+			"dialog"			: "是吖！",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "We will need some time to prepare our |C3|link synapse.|C0|",
+			"dialog"			: "我们会需要点时间来准备我们的|C3|连接突触。|C0|",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "We will come find you after your next battle, yis?",
+			"dialog"			: "在下场战斗后我们会来找你的，好吖？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
@@ -63,40 +63,40 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "What's wrong?",
+			"dialog"			: "怎么了？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "If you see sister Scrambla,    please give her love, yis?",
+			"dialog"			: "如果你见到了妹妹蛋花，    请将爱给她，好吖？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "Of course I will.",
+			"dialog"			: "我当然会的。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "We want to show her love too.|L||!|But we have no heart.",
+			"dialog"			: "我们也想要为她展示爱。|L||!|但是我们没有心。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "Hey,   I bet Scrambla thinks you are the spiciest.",
+			"dialog"			: "嘿，   我相信蛋花会认为你是最辣的。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "Yis!",
+			"dialog"			: "好吖！",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "Be careful, yis?|L||!|We want to see you safe.",
+			"dialog"			: "要小心，好吖？|L||!|我们想看到你安全回来。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|I love you!",
+			"dialog"			: "|wave|我爱你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
-			"dialog"			: "..!",
+			"dialog"			: "..！",
 		},
 	]
 }

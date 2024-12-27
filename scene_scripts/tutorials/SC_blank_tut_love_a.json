@@ -61,11 +61,11 @@
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C2|没有人爱我，但无所谓，这个宇宙就是漠不关心的虚空。",
+			"dialog"			: "|C2|没有人爱我，无所谓，这个宇宙只是个漠不关心的虚空。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|你为什么这样说？",
+			"dialog"			: "|shake|你为什么要这样说？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -77,7 +77,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "好的...   既然你这样说了。",
+			"dialog"			: "好吧...   既然你都这样说了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -98,7 +98,7 @@
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C3|第二步:|C2||shake|我在伤害你之后就感觉好多了！",
+			"dialog"			: "|C3|第二步:|C2||shake|伤害你之后我就能感觉好多了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_power"],

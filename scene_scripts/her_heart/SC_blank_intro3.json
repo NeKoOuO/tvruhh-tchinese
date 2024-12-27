@@ -9,13 +9,13 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"voice"				: "VOICE_static",
-			"dialog"			: "Remember!",
+			"dialog"			: "请记住！",
 		},
 		{
-			"dialog"			: "Somebody always loves you.",
+			"dialog"			: "有人一直爱着你。",
 		},
 		{
-			"dialog"			: "Please don't give up.",
+			"dialog"			: "请不要放弃。",
 		},
 		{
 			"center_text_x"		: 1,
@@ -26,30 +26,30 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_blank_intro_wake_up1",
 			"voice"				: "VOICE_blank",
-			"dialog"			: "I won't give up!",
+			"dialog"			: "我不会放弃！",
 		},
 		{
 			"dialog"			: ". . .",
 		},
 		{
-			"dialog"			: "That dream again?",
+			"dialog"			: "又是那个梦吗？",
 		},
 		{
 			"transition_type"	: 1,
 			"bg_image"			: "spr_blank_intro_wake_up2",
-			"dialog"			: "No.    That was not a dream.",
+			"dialog"			: "不。    刚刚那不是梦。",
 		},
 		{
-			"dialog"			: "I can remember the past few days now.",
+			"dialog"			: "我现在能够回忆起过去的几天了。",
 		},
 		{
-			"dialog"			: "But the monsters will have forgotten about me.",
+			"dialog"			: "但是怪物们估计已经忘记我了。",
 		},
 		{
 			"dialog"			: ". . .",
 		},
 		{
-			"dialog"			: "I'll go check outside.",
+			"dialog"			: "我会去外面看看。",
 		},
 		{
 			"transition_type"	: 0,
@@ -59,117 +59,117 @@
 			"text_y"			: 224,
 			"text_w"			: 256,
 			"bg_image"			: "spr_blank_intro_raining",
-			"dialog"			: "It's raining again.",
+			"dialog"			: "又在下雨。",
 		},
 		{
-			"dialog"			: "This is not natural.",
+			"dialog"			: "这可不正常。",
 		},
 		{
-			"dialog"			: "It has been raining for much too long.",
+			"dialog"			: "雨已经下的太久太久了。",
 		},
 		{
 			"use_textbox"		: 1,
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
-			"dialog"			: "Hello, Little Robot.",
+			"dialog"			: "你好，小机器人。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Hello young Zaraden.",
+			"dialog"			: "你好，年幼的扎拉登。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has detected an unusual expression from the young Zaraden.",
+			"dialog"			: "本单元从年幼的扎拉登身上检测出了不寻常的感受。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
-			"dialog"			: "I don't feel so good.|L||!|I love the rain, but this is just too much.",
+			"dialog"			: "我感觉不太好。|L||!|我喜欢雨，但这也下的太多了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
-			"dialog"			: "It feels like it will never end.",
+			"dialog"			: "感觉就像它永远不会停止一样。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "And I don't do so well when the thunder starts.",
+			"dialog"			: "而雷声响起时我也不太安心。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "Astraphobia is quite common among Zaraden.",
+			"dialog"			: "对于扎拉登而言，雷电恐惧症是很常见的。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Suggestion:|C0| Hold both of your antennae with your hands after seeing a lightning bolt.",
+			"dialog"			: "|C3|建议:|C0|在看到闪电后，用手握住你的两个触角。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This will dampen the perceived volume of the following thunder.",
+			"dialog"			: "这会抑制接下来所接收到的雷声音量。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "Thanks, Little Robot.",
+			"dialog"			: "谢谢你，小机器人。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "Do you know how long ago this rain started?",
+			"dialog"			: "你知道雨下了多久了吗？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit will now search her memory to determine the amount of days that have passed since the rain began.",
+			"dialog"			: "本单元现在将搜寻她的记忆以确定自从大雨开始经过了几日。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Searching       .       .       .|C0|",
+			"dialog"			: "|C3|正在搜索       .       .       .|C0|",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Complete:|C0| 148 days.",
+			"dialog"			: "|C3|完成:|C0|148天",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|A hundred and forty what!?",
+			"dialog"			: "|shake|一百四十什么？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "A hundred     and     forty-eight        days.",
+			"dialog"			: "一百     四十八        天。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit has determined, by your expression, that 148 consecutive days of rain is an unusually long amount of time.",
+			"dialog"			: "本单元根据你的表情判断，连续148天下雨时间过长，非常罕见。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "I thought it would be 10 days or something.|L|148 days is just impossible!",
+			"dialog"			: "我还以为只有10天左右。|L|148天根本不可能！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "That is so much time, and I don't remember most of it.|L||!|It's a little scary.",
+			"dialog"			: "这也太久了，而其中大部分我都不记得。|L||!|这有点吓人了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|Update:|C0| Through the use of atmospheric readings, This Unit has calculated a 0.01% chance of rain by tomorrow morning.",
+			"dialog"			: "|C3|更新:|C0|通过环境读数分析，本单元计算得到明早下雨的几率约为0.01%。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
-			"dialog"			: "So the rain will stop tomorrow?",
+			"dialog"			: "所以雨明天会停吗？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "The probability of rain occuring tomorrow is nearly zero.",
+			"dialog"			: "明天下雨的可能性接近于零。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
-			"dialog"			: "That is so good to hear.|L||!|Thank you for doing that for me.",
+			"dialog"			: "这真是好消息。|L||!|谢谢你为了我这么做。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry2"],
-			"dialog"			: "|wave|I love you, Little Robot!",
+			"dialog"			: "|wave|我爱你，小机器人！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "This Unit is feeling immense joy.",
+			"dialog"			: "本单元感觉到非常高兴。",
 		}
 	]
 }

@@ -13,37 +13,37 @@
 		},
 		{
 			"play_music"		: "nightmare_music_c",
-			"dialog"			: "|C2||shake|What is this sentimental nonsense?",
+			"dialog"			: "|C2||shake|这是什么多愁善感的胡言乱语？",
 		},
 		{
-			"dialog"			: "|C2||shake|The Void is not something that can be defeated.",
+			"dialog"			: "|C2||shake|虚空无法被击败。",
 		},
 		{
-			"dialog"			: "|C2||shake|Nothing matters in this world.",
+			"dialog"			: "|C2||shake|在这个世界上一切都没有意义。",
 		},
 		{
-			"dialog"			: "|C2||shake|Nothing matters at all!",
+			"dialog"			: "|C2||shake|一切都完全没有意义！",
 		},
 		{
-			"dialog"			: "|C2||shake|Everything you do is meaningless.",
+			"dialog"			: "|C2||shake|你所做的一切都是无谓的。",
 		},
 		{
-			"dialog"			: "|C2||shake|Everything will die.",
+			"dialog"			: "|C2||shake|一切都会死亡。",
 		},
 		{
-			"dialog"			: "|C2||shake|Giving up is the only true peace.",
+			"dialog"			: "|C2||shake|放弃是唯一的解脱。",
 		},
 		{
 			"dialog"			: "|C2||shake|HahAHAhaHahaaHAHahaHahAahAHaha",
 		},
 		{
-			"dialog"			: "|C2||shake|How long can she keep this up?",
+			"dialog"			: "|C2||shake|她还能坚持多久？",
 		},
 		{
-			"dialog"			: "|C2||shake|Why doesn't she just give up?",
+			"dialog"			: "|C2||shake|她为什么不直接放弃？",
 		},
 		{
-			"dialog"			: "|C2||shake|I   will   make   her   find   peace.",
+			"dialog"			: "|C2||shake|我   会   让   她   解   脱。",
 		},
 		{
 			"play_music"		: "silence",

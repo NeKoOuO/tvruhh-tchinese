@@ -41,11 +41,11 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
-			"dialog"			: "现在你就能够意识到继续尝试有多么无意义！",
+			"dialog"			: "现在你能够意识到继续尝试毫无意义！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
-			"dialog"			: "当你所能感受到的只有痛苦与孤独时，为什么还要去感受呢！",
+			"dialog"			: "当你所能感受到的只有痛苦与孤独时，为什么还要再去感受呢！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],

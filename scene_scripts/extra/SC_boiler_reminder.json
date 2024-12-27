@@ -5,7 +5,7 @@
 			"play_music"		: "green_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "We will go prepare our |C3|link synapse.|C0||L||!|We will see you soon, yis?",
+			"dialog"			: "我们会去准备我们的|C3|连接突触。|C0||L||!|我们等下见，好吖？",
 		}
 	]
 }

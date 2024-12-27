@@ -42,15 +42,15 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "你是在比喻吗？",
+			"dialog"			: "你是在打比方吗？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "不。     这所说的是字面意义上的。",
+			"dialog"			: "不。     这是实际能够发生的。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "...哦!",
+			"dialog"			: "...哦！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -58,7 +58,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "这     也有道理吧...     大概。",
+			"dialog"			: "这     也算有道理吧...     大概。",
 		},
 	],
 	
@@ -73,11 +73,11 @@
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C2|这就是我伤害你的部分了！",
+			"dialog"			: "|C2|接下来就是我伤害你的部分了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "请不要。",
+			"dialog"			: "请别这么做。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -89,7 +89,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "你是在说我的心     也有一个|shake|心?!",
+			"dialog"			: "你是在说我的心     也有一个|shake|心？！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -97,7 +97,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "这和其他发生的的一样没什么道理。",
+			"dialog"			: "这和其他发生的的一切都没什么道理。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -203,15 +203,15 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "充能爆裂子弹可以轻易摧毁怪物的小型可破坏部位。",
+			"dialog"			: "充能爆裂子弹可以轻易摧毁怪物的小型可破坏部件。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "破坏这样的部位也能够立刻|C3|回复部分能量|C0|。",
+			"dialog"			: "破坏这样的部件也能够立刻|C3|回复部分能量|C0|。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "所以，我可以连续发射无尽的|wave||C3|蓄力攻击|C0||norm|只要我能够一直破坏东西？",
+			"dialog"			: "所以，只要我能够一直破坏东西，我可以连续发射无尽的|wave||C3|蓄力攻击？|C0|",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -243,7 +243,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "我不喜欢它听上去的样子。",
+			"dialog"			: "我不喜欢这个名字。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -263,7 +263,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "但是，|C3|恐慌攻击|C0|数量非常有限且不会自行再生。",
+			"dialog"			: "但是，|C3|恐慌攻击|C0|数量非常有限，且不会自行再生。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -306,7 +306,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现在正电离本区域中所有的空气。",
+			"dialog"			: "本单元现在正在电离本区域中所有的空气。",
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
@@ -318,7 +318,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "与前述表达相反，确实有方法逃离该痛苦。",
+			"dialog"			: "与前述表达相悖，确实有方法逃离该痛苦。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -358,7 +358,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|你没事!",
+			"dialog"			: "|wave|你没事！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -378,7 +378,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "这听起来有些奇怪，    但我觉得我应该明白了你的意思。",
+			"dialog"			: "这听起来有些奇怪，    但我觉得我应该明白你的意思。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
