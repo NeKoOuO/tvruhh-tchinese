@@ -1,0 +1,179 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "你好，扎拉登！",
+			"dialog_rand2"		: "我很高兴见到你！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+			"dialog"			: "你来猜一猜现在是什么时间？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_angry"],
+			"dialog"			: "|shake|现在是燃烧时间！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "但是你已经知道了。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "我有些礼物给你",
+			"dialog_rand2"		: "我给你带了些礼物。",
+			"dialog_rand3"		: "我为你找来了些礼物。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
+			"random"			: 2,
+			"dialog_rand1"		: "它们    可能有点烧焦了。",
+			"dialog_rand2"		: "无视掉焦痕就好。",
+		},
+	],
+	
+	"monster_gifts"	: "燃烧维目尔的礼物",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+		"dialog"	: "选择一个你想要的。",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+		"dialog"	: "你想要的是这个吗？",
+	},
+	
+	"another_gift_1" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
+			"dialog"			: "希望那个没被烧的太严重。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "但你好像喜欢超级香脆的那种。",
+			"dialog_rand2"		: "但你好像喜欢又辣又热的那种。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+			"dialog"			: "那你能猜猜现在是什么时间吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|是额外礼物的时间。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
+			"random"			: 4,
+			"dialog_rand1"		: "而且     也是阴燃的时间。",
+			"dialog_rand2"		: "而且     也是灼燃的时间。",
+			"dialog_rand3"		: "而且     也是燃烧的时间。",
+			"dialog_rand4"		: "而且     也是滋滋作响的时间。",
+		},
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "是时候再点把火了。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "没必要这么做！|L||!||shake|自制一下！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
+			"dialog"			: "...我也爱你",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+			"dialog"			: "没有任何的火，你如何闪耀的如此明亮？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "哦，这只是我的完美在闪耀。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "那么你的朋友又是怎么做到的呢？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "哦，我吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "原理基本是一样的。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "我的姐姐刚刚跟我说，她特别喜欢被火焰包裹。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
+			"dialog"			: "|shake|什么？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "刚好让我尝试新的拥抱技巧！|L||!|我要把它叫做灼燃地狱火。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_pain"],
+			"dialog"			: "哦不！",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "实际上，这还挺舒服的。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "两个礼物，价格为零？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "我要为此用两倍的力度拥抱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "小心点！|L||!|太多燃烧对你身体不好。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "一点自燃伤不到任何人。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
+			"dialog"			: "Enjoy those charred gifts.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|I love your fire.",
+		},
+	],
+
+}

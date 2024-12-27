@@ -1,0 +1,350 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_normal"],
+			"dialog"			: "看起来你已经背负上了不可能的负担--也就是爱我们全部。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+			"dialog"			: "即使我们全都|shake||nu||ze||nah||norm|无比糟糕。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_upset"],
+			"dialog"			: "我们仍配不上身上所有的负担。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_normal"],
+			"dialog"			: "负担有个特性很有趣，如果我们和彼此分享的话，它们就会开始消失。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "我们可以一同经历这地狱。",
+		},
+	],
+	
+	"intro_devil" : [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_normal"],
+			"dialog"			: "看起来你已经背负上了不可能的负担--也就是爱我们全部。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+			"dialog"			: "即使我们全都|shake||nu||ze||nah||norm|无比糟糕。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
+			"dialog"			: "先等一下。|L||!|这种话语我可无法忍受。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "这种被强加于你们身上的负担是不公正的，这  并非    正义。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "我，恶魔，愿意接收你们的负担。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "|shake|太好了！",
+		},
+	],
+	
+	"mood_title"	: "炼狱之梭的心情",
+	"monster_gifts"	: "炼狱之梭的礼物",
+	"burden_title"	: "炼狱之梭的负担",
+
+	"op_trade"			: "炼狱之梭的礼物",
+	"op_burden"			: "接收一个负担",
+	"op_leave"			: "离开",
+	
+	"op_yes"			: "我可以的",
+	"op_no"				: "现在不要",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+		"dialog"	: "我无法让你白白接收我们的|shake||nu||ze||nah||norm|负担而不给予任何回报。",
+	},
+	"comment_burden"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_sad"],
+		"dialog"	: "请帮忙减轻我们的负担。",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_content"],
+		"dialog"	: "你在尝试离开这里吗？",
+	},
+	
+	
+	"comment_burden_limit"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_upset"],
+		"dialog"	: "我不能让你承受更多了。",
+	},
+	"burden_confirm"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_surprised"],
+		"dialog"	: "你真的可以再承受一个吗？",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+		"dialog"	: "准备|shake||nu||ze||nah||norm|走了？",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+		"dialog"	: "你值得的！",
+	},
+	"comment_take_stone"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+		"dialog"	: "是的，我|shake||nu||ze||nah||norm|为了你做了它！",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_confused"],
+		"dialog"	: "我不知道那是什么，但它是你的了。",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+		"dialog"	: "你要先收下另一个负担。",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+		"dialog"	: "你是以为自己有|shake||nu||ze||nah||norm|无尽的储存空间还是？",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_normal"],
+		"dialog"	: "你要带走这个吗？",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "那真是|shake||nu||ze||nah||norm|不错的选择！",
+			"dialog_rand2"		: "把握灰暗的当下！",
+			"dialog_rand3"		: "只会有糟糕的后果。",
+			"dialog_rand4"		: "希望你|shake||nu||ze||nah||norm|爱它！",
+		}
+	],
+	
+	
+	
+	
+	
+	"to_first_burden" 	: [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_surprised"],
+			"dialog"			: "让我们事先说清楚。|L||!|一旦我把它们展示给你-",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+			"dialog"			: "你就必须要带走一个。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+			"dialog"			: "你最好|shake||nu||ze||nah||norm|下定决心。",
+		},
+	],
+	"comment_first_burden"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_surprised"],
+		"dialog"	: "你能够应对我们的负担吗？",
+	},
+	
+	
+	
+	"comment_burden_normal"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_normal"],
+		"dialog"	: "选择你的毒物。",
+	},
+	"comment_burden_unknown"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_confused"],
+		"dialog"	: "无论那是什么，祝你好运。",
+	},
+	"comment_burden_BDN_hadesoh"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_confused"],
+		"dialog"	: "我的？真的吗？",
+	},
+	"comment_burden_BDN_chionotoh"	: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_sad"],
+		"dialog"	: "哦-|L|我和她有什么关系？",
+	},
+	"take_burden_confirm"		: {
+		"character"	: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_surprised"],
+		"dialog"	: "这就是你的决定吗？",
+	},
+	"burden_taken" 		: [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "这个负担终于可以休息了。",
+			"dialog_rand2"		: "我们仅寻求暂缓，且拥抱爱。",
+			"dialog_rand3"		: "它尽可能快的消逝了。",
+			"dialog_rand4"		: "这些罪恶真的能被宽恕吗？|L|当然了！",
+		}
+	],
+	"glyph_taken" 		: [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "我的符文姐妹会为此感谢你。",
+			"dialog_rand2"		: "符文能够认出纯净的心。",
+			"dialog_rand3"		: "Sticks and stones have nothing on this.",
+		}
+	],
+	"BDN_hadesoh_taken" 	: [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_surprised"],
+			"dialog"			: "你真的会为我这样做吗？",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "我的也没那么|shake||nu||ze||nah||norm|坏，对吧？",
+		},
+	],
+	"BDN_chionotoh_taken" 	: [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_upset"],
+			"dialog"			: "|shake|来！|norm|    你收下它。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_sad"],
+			"dialog"			: "我和这个离得太近了。",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_hadesoh_right", "MOOD_upset"],
+			"dialog"			: "|C3||shake|唉--",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_confused"],
+			"dialog"			: "哦对，你不知道。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "|shake|那是我的|nu||ze||nah|女朋友！",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_content"],
+			"dialog"			: "她超酷的，对吧？",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_sad"],
+			"dialog"			: "但是，我已经有段时间没见到她了。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_sad"],
+			"dialog"			: "...我希望她还好。",
+		},
+	],
+
+	
+	"leave_no_burdens" : [
+		{
+			"character"			: ["VOICE_static", "CHAR_hadesoh_right", "MOOD_confused"],
+			"dialog"			: "我觉得你已经有足够的|shake||nu||ze||nah||norm|麻烦要处理了，对吧？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_content"],
+			"dialog"			: "无论如何，我们都对你充满了爱与感激！",
+		},
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|我|nu||ze||nah|爱你！",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我|nu||ze||nah|也爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_surprised"],
+			"dialog"			: "哇...",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "什么？",
+		},
+		{
+			
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_content"],
+			"dialog"			: "|wave|没什么。",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_confused"],
+			"dialog"			: "你看起来不太好。|L||!|那对你来说太多了吗？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "不，我没事。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "并且，无论这些小小的负担会做什么，我都能修复一切。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "|shake|太棒了！",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad2"],
+			"dialog"			: "我姐姐的负担就是她今天还没有被亲过。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_surprised"],
+			"dialog"			: "这可|shake||nu||ze||nah||norm|无法接受。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "哦！",
+		},
+		{
+			
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "我的脸颊好温暖。",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "啊，那只是燃烧的热情。|L||!|没什么的。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "嗯，我在想，    你对于烟花和焰火了解多少呢？",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+			"dialog"			: "了解多少？|L||!|我即是|shake||nu||ze||nah||norm|烟花和焰火！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "那，要帮我一起进行一场小型表演吗，怎么说？",
+		},
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_aggressive"],
+			"dialog"			: "我会说|shake|太棒了！",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_happy"],
+			"dialog"			: "|shake|太棒了！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hadesoh", "CHAR_hadesoh_right", "MOOD_content"],
+			"dialog"			: "我们都对你充满了爱与感激！",
+		},
+	],
+
+}

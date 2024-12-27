@@ -1,0 +1,219 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "你好，扎拉登。|L|这是自动系统。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "在接受扫描时请静止不动。",
+		},
+		{
+			"scene_flash"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "这位扎拉登的档案被存储于|C3|受信任的用户|C0|文件夹。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "这位扎拉登是否前来浏览|C3|棱镜宝库|C0|的内容？",
+		},
+	],
+	
+	"intro_twins" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "你好，扎拉登们。|L|这是自动系统。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "在你们接受扫描时请静止不动。",
+		},
+		{
+			"scene_flash"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "两位扎拉登的档案被存储于|C3|受信任的用户|C0|文件夹。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "两位扎拉登是否前来浏览|C3|棱镜宝库|C0|的内容？",
+		},
+	],
+	
+	"gift_list_title"	: "棱镜宝库",
+
+	"op_start"		: "打开棱镜宝库",
+	"op_ask1"		: "小机器人？",
+	"op_ask2"		: "露露？",
+	"op_leave"		: "离开",
+	
+	"comment_main"		: {
+		"character"	: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+		"dialog"	: "正在等待应答...",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+		"dialog"	: "你要离开了吗？",
+	},
+	
+	"auto_response" 	: [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "这是自动系统。|L||!|现在它仅能接受是或否作为回应。",
+		},
+	],
+	
+	"leaving_now" 	: [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "带有疑惑的表情悄悄离开被视为否的回应。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "我们希望你今天过得愉快。",
+		},
+	],
+	
+	"to_password" 		: [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "该行为需要密码。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "由于您是新用户，会为您提供数个随机密码。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "请尽快全部输入它们。",
+		},
+	],
+	
+	"password_title"	: "密码 [VAL1]",
+	"score_title"		: "分数 [VAL1]",
+	
+	"comment_password_correct"	: {
+		"character"	: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+		"dialog"	: "请输入这个密码。",
+	},
+	"comment_password_miss"	: {
+		"character"	: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+		"dialog"	: "密码不正确。|L|请重试。",
+	},
+	
+	"password_done" 		: [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "你的密码得分为|C3|[VAL1]分。|C0|",
+		},
+	],
+	"to_gift" 		: [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "这让你获得了宝库[VAL2]的通行权。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "你已获准从宝库中拿走一个礼物。",
+		},
+	],
+	"low_score" 		: [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "不幸的是，这意味着你未获准许从宝库中带走礼物。",
+		},
+	],
+	
+	"comment_take"	: {
+		"character"	: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+		"dialog"	: "你可以选择想带走的任何礼物。",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+		"dialog"	: "你要拿走这个吗？",
+	},
+	"gift_take_another" 		: [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "你已获准带走另一个礼物。",
+		}
+	],
+	"gift_take_final" 		: [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "你已获准再带走一个礼物。",
+		}
+	],
+	
+	"leave_blank" : [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "我们无法理解该指令。|L|这是自动系统。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"			: "哦。",
+		},
+	],
+	"leave_defect" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "你能计算出我有多美丽吗？",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "我们无法理解该指令。|L|这是自动系统。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "哦！ 我还从未听过这种形式的赞美呢。",
+		},
+	],
+	"leave_twins" : [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "哪个宝库是用来存放和我姐姐调情的机器人的？",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
+			"dialog"			: "她理解不了你奇怪的问题。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "|C3|正在搜索...|C0||L||!|你在找的可能是宝库-96-04",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
+			"dialog"			: "哦不。",
+		},
+	],
+	"leave_devil" : [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "等下！让我再试一次。|L||!|我能做的更好！",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "本宝库即将关闭。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
+			"dialog"			: "即使我看起来很伤心也不行吗？",
+		},
+	],
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "本宝库即将关闭。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
+			"dialog"			: "希望你能有美妙的一天。",
+		},
+	],
+
+}

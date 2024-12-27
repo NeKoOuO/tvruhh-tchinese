@@ -1,0 +1,60 @@
+{
+
+	"intro"	: "tower/tower_common_text",
+	"intro_twins" : [
+		{
+			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+			"dialog"			: "该球体与其中一位扎拉登之间感觉到强烈的共鸣。",
+		},
+		{
+			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+			"dialog"			: "对该球体而言源头未知，但制作礼物会更加方便。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
+			"dialog"			: "你能用更好的方式调情的，是吧？",
+		},
+		{
+			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+			"dialog"			: "该球体不理解。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "别听她说的！|L|她在胡言乱语！",
+		},
+	],
+	
+	"mood_title"	: "绿宝石的力量",
+	"monster_gifts"	: "绿宝石的礼物",
+	"player_gifts"	: "[NAME]的现有礼物",
+	
+	"gift_taken"	: "tower/tower_common_text",
+	"gift_given"	: "tower/tower_common_text",
+	"stats_given"	: "tower/tower_common_text",
+	
+	"comment_give_TAG_m_shamble"	: {
+		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+		"dialog"	: "该球体和|C3|晃晃|C0|怪物家族的材料有着亲和性。",
+	},
+	"comment_give_TAG_food"	: {
+		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+		"dialog"	: "该球体对于|C3|食物|C0|相关的材料有着亲和性。",
+	},
+	"comment_give_TAG_scent"	: {
+		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+		"dialog"	: "该球体对于发散|C3|美妙香气|C0|的材料有着亲和性。",
+	},
+	"comment_give_TAG_broken"	: {
+		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+		"dialog"	: "该球体对于|C3|破碎和损坏|C0|的材料有着亲和性。",
+	},
+	"comment_give_FAV_emerald_part"	: {
+		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
+		"dialog"	: "该球体对于她自己的部件有着极强的亲和性。",
+	},
+	
+	
+	
+	"leave_default"	: "tower/tower_common_text",
+
+}

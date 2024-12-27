@@ -1,0 +1,351 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "扎拉登-",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "今天你的行为为我带来了如此多的乐趣。",
+			"dialog_rand2"		: "在这里看到你让我很高兴。",
+			"dialog_rand3"		: "由于你的行为，我不再感到孤单。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "谢谢你，我现在知道自己不用居住在黑暗中了。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"random"			: 3,
+			"dialog_rand1"		: "你必须接受这一切的后果！",
+			"dialog_rand2"		: "这一切将会带来后果！",
+			"dialog_rand3"		: "你准备要如何负起责任？",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "你看，这场大雨中非常昏暗，而夜晚又即将降临。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "我... |shake|很难看到任何东西！",
+			"dialog_rand2"		: "|shake|我不是害怕，只是-",
+			"dialog_rand3"		: "|shake|我没办法看到任何东西！",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "我需要一些能够散发|C3|闪耀|C0|光芒的东西。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "如果你给了我这样的礼物，那么我只能被迫反击了。",
+		},
+	],
+	
+	"mood_title"	: "寞诺唯的心情",
+	"monster_gifts"	: "寞诺唯的礼物",
+	"player_gifts"	: "[NAME]的现有礼物",
+	"player_quicks"	: "[NAME]的快速礼物",
+
+	"op_trade"			: "寞诺唯的礼物",
+	"op_give_active"	: "给予现有礼物",
+	"op_give_quick"		: "给予快速礼物",
+	"op_leave"			: "离开",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "这些礼物是你行为的后果。",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "我需要|C3|光耀|C0|的光源。",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "即使是临时的光芒也可以。",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+		"dialog"	: "离开也会带来后果。",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "谢谢你，我不再有任何礼物能给你了。",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "我们现在有足够的光了。|L|这都是你的错。",
+	},
+	"comment_give_empty"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+		"dialog"	: "你什么都没有。",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "你准备好离开了吗？",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "我给你的礼物。",
+	},
+	"comment_take_stone"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+		"dialog"	: "我愿意把我的心型石托付给你。|L|这可是重大的责任。",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "太暗了看不清是什么，但你可以收下它。",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+		"dialog"	: "我不能让你带走它...还不能。",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+		"dialog"	: "你带不下它，所以我被迫把它留在这里。",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "你愿意接受这个礼物吗？",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "哎呀哎呀。|L||!|这不是你自己行为的后果吗？",
+			"dialog_rand2"		: "这种报应感觉怎样？",
+			"dialog_rand3"		: "|shake|现在你也知道被给予想要的东西是什么感觉了。",
+			"dialog_rand4"		: "你向我展现了爱，而这就是我的报复。",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "即使在黑暗中，这也会让我想起你。",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "它散发出了大量的光芒。",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "这正是击退夜晚的黑暗所需要的。|L|我必须拥有它。",
+	},
+	"comment_give_TAG_monovai_part"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "你是否敢把我的一部分还给我？",
+	},
+	"comment_give_I_void_glyph"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "你是否敢把与我相似的画作给我？",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+		"dialog"	: "在它持续的时候，它会让我想起你。",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "易逝的幸福时光。",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+		"dialog"	: "像那样看着我会带来后果。",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_sad"],
+		"dialog"	: "我不需要这个。",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+		"dialog"	: "把它从你那带走会让我背负上无法偿还的债务。",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+		"dialog"	: "你想要把它给我吗？",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "你给了我想要的东西。",
+			"dialog_rand2"		: "你给我的礼物让我非常开心。",
+			"dialog_rand3"		: "你向我展示的善良超越了一切我所知之物。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "你的善意不会错过惩罚。",
+			"dialog_rand2"		: "我会为此向你报仇。",
+			"dialog_rand3"		: "你准备好接受后果了吗？",
+			"dialog_rand4"		: "我只能被迫反击。",
+		}
+	],
+	"special_given" 		: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "这光能帮助我在夜里视物。",
+			"dialog_rand2"		: "从你而来的光甚至更加明亮。",
+			"dialog_rand3"		: "我才不会被吓到-|L||!||shake|我是说，我将能够在夜里视物。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"random"			: 3,
+			"dialog_rand1"		: "你会为此负责的。",
+			"dialog_rand2"		: "我会记得的。",
+			"dialog_rand3"		: "你会为此遭到报应的。",
+		}
+	],
+	"TAG_monovai_part_given" 		: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "这是我的一个非常危险的部件，而你将它归还到了它所属的地方。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "你一定明白这会带来后果的。",
+		}
+	],
+	"I_void_glyph_given" 		: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "你竟敢把这美妙的艺术给了我。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "它完美捕捉到了我的形象。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "我的报应将迅速且无情。",
+		}
+	],
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "我也害怕黑暗。|L||!|你没必要隐瞒这一点的。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "你胆敢表现出我的弱点以安抚我？",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "我要将你打入这无法逃脱的拥抱。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "我现在判决你们一人接受一个来自我的拥抱。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "|wave|真是完美。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "哎呀，谢谢你，寞诺唯。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "我会针对你的赞美做出报复的。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_normal"],
+			"dialog"			: "很高兴能见到你，寞诺唯。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "你的拜访让我充满了如此多的爱，但现在是时候对你施加审判了。",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "我对你的判决是-",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "脸颊上的吻！",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "脸颊上的吻。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|哦，好吧！",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "你竟敢给我一个免费的拥抱？|L||!|你会为此付出代价的。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "我会向你讨回来的！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_angry"],
+			"dialog"			: "你现在已经背负上了我不可能的债务。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "那你先排队吧！",
+		},
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "我会的。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_normal"],
+			"dialog"			: "你的拜访让我感觉没那么孤独了。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_monovai", "CHAR_monovai_right", "MOOD_happy"],
+			"dialog"			: "|shake|你会为此付出代价。",
+		},
+	],
+
+}

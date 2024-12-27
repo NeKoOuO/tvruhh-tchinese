@@ -1,0 +1,287 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "|wave|最大兴奋！",
+			"dialog_rand2"		: "|wave|指数级兴奋！",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_normal"],
+			"dialog"			: "我们刚想再去找你。",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_confused"],
+			"random"			: 2,
+			"dialog_rand1"		: "我们有个实验需要你的帮助。",
+			"dialog_rand2"		: "你能帮我们个忙吗？",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_normal"],
+			"random"			: 2,
+			"dialog_rand1"		: "我们在尝试通过头发中的微尘把能量传递给其他宇宙的其他焦耳。",
+			"dialog_rand2"		: "我们头发中的魔尘可能可以将能量在宇宙间传递。",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_happy"],
+			"dialog"			: "并且魔尘似乎会由于你|wave|完全渐进的情绪|C0|而被激活。",
+		},
+	],
+	
+	"monster_gifts"	: "焦耳的礼物",
+	
+	"op_start"		: "开始实验",
+	"op_leave"		: "今天不要",
+	
+	"comment_start"		: {
+		"character"	: ["VOICE_joule", "CHAR_joule_right", "MOOD_normal"],
+		"dialog"	: "使用你的力量尽可能快的从我们的头发中提取尽可能多的魔尘。",
+	},
+	"comment_leave"		: {
+		"character"	: ["VOICE_joule", "CHAR_joule_right", "MOOD_sad"],
+		"dialog"	: "你今天没时间吗？",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_joule", "CHAR_joule_right", "MOOD_sad"],
+		"dialog"	: "你确定吗？",
+	},
+	
+	"start_battle" 	: [
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_content"],
+			"dialog"			: "你真的太指数了。",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_normal"],
+			"dialog"			: "你的工作非常简单。",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_aggressive"],
+			"dialog"			: "把我们带进你的梦境世界然后从我们身上提取出所有的魔尘！|L||!|不要浪费任何一团。",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_happy"],
+			"dialog"			: "|wave|我们开始吧。",
+		},
+	],
+	
+	"start_battle_devil" 	: [
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_normal"],
+			"dialog"			: "你的工作非常简单。",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_aggressive"],
+			"dialog"			: "把我们带进你的梦境世界然后从我们身上提取出所有的魔尘！|L||!|不要浪费任何一团。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "看起来你想要再赛一场！",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_content"],
+			"dialog"			: "你也可以这么说。",
+		},
+	],
+	
+	"no_battle" 	: [
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_confused"],
+			"dialog"			: "嘿，我们明白的。",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_happy"],
+			"dialog"			: "另一个焦耳正在向我们发送能量，这都要感谢另一个你。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_content"],
+			"dialog"			: "这就是身为晃晃家族的好处之一。",
+		},
+	],
+	
+	"return_intro" : [
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "|wave|最大喜悦！",
+			"dialog_rand2"		: "|wave|指数级狂喜！",
+			"dialog_rand3"		: "|wave|渐进狂喜！",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_normal"],
+			"dialog"			: "已经确认到其他的焦耳收到了我们的能量。",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_happy"],
+			"dialog"			: "我们成功了！",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_shocked"],
+			"random"			: 2,
+			"dialog_rand1"		: "你真的在我们的头发里找到了|C3|[VAL1]魔尘？|C0|",
+			"dialog_rand2"		: "我们的头发里真的有|C3|[VAL1]魔尘|C0|卡在里面？",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_confused"],
+			"dialog"			: "你发现的远不止那些。",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_content"],
+			"dialog"			: "里面还有一些礼物和棱晶。",
+		},
+	],
+	
+	
+	"comment_take_first"	: {
+		"character"	: ["VOICE_joule", "CHAR_joule_right", "MOOD_happy"],
+		"dialog"	: "请带走你想要的任何礼物吧！",
+	},
+	"comment_take_another"	: {
+		"character"	: ["VOICE_joule", "CHAR_joule_right", "MOOD_content"],
+		"dialog"	: "请再带走一个吧！",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_joule", "CHAR_joule_right", "MOOD_normal"],
+		"dialog"	: "你想要这个吗？",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "请忽略上面的静电。",
+			"dialog_rand2"		: "我们先把上面的头发扫下来。",
+			"dialog_rand3"		: "|wave|双方的幸福都趋近于无穷。",
+			"dialog_rand4"		: "令人惊讶的力量从你而来。",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "你可以再带走一个。",
+			"dialog_rand2"		: "你的工作让你赢得了另一个。",
+			"dialog_rand3"		: "请再带走一个。",
+		}
+	],
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
+			"dialog"			: "|shake|哎哟！",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_shocked"],
+			"dialog"			: "哦不！我们电到你了吗？|!||L|真对不起。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "值得的。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_content"],
+			"dialog"			: "我们也爱你。",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_pain"],
+			"dialog"			: "|shake|哎哟！",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_sad"],
+			"dialog"			: "我们电到你了吗？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "缺陷，我好像粘在你身上了。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "|wave|这对你而言一定是莫大的荣幸。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "哦...",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_confused"],
+			"dialog"			: "过一会应该就好了。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "快去问她，阳光。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "呃...我能摸一摸你的头发吗？",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_angry"],
+			"dialog"			: "|shake|什么？！",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_sad"],
+			"dialog"			: "在那之后你认为你还需要问吗？",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_aggressive"],
+			"dialog"			: "准备形成闭合电路！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_blush"],
+			"dialog"			: "刺挠挠的。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
+			"dialog"			: "|shake|你们电到我了！",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_sad"],
+			"dialog"			: "我们很抱歉。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "你们是想再重赛一次吗！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_content"],
+			"dialog"			: "拜托了，你的力量确实为非收敛。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "是呀，经常有人这么说。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_shocked"],
+			"dialog"			: "哦不！我们电到你了吗？|!||L|我们很抱歉。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_confused"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_happy"],
+			"dialog"			: "|wave|你的情绪太阶乘了。",
+		},
+	],
+
+}

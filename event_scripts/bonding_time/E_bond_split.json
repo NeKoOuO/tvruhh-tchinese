@@ -1,0 +1,737 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "你有时间和我们一起玩吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|Shake|好耶！|norm|我们想要一起玩！",
+		},
+	],
+	
+	"monster_mood"		: "维目尔的心情",
+	"monster_stuff"		: "维目尔的[VAL1]",
+	
+	"op_game"		: "玩一局游戏",
+	"op_next_game"	: "玩另一局游戏",
+	"op_devil"		: "恶魔交易",
+	"op_hug"		: "拥抱维目尔",
+	"op_pet"		: "摸摸维目尔",
+	"op_sleep"		: "小睡一下",
+	
+	"comment_first"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "你会和我们一起玩的，对吧？",
+	},
+	"comment_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "再和我们玩一局游戏吧。",
+	},
+	"comment_streak"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "你运势真好！",
+	},
+	"comment_sad"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+		"dialog"	: "刚刚那个太难了吗？",
+	},
+	
+	"to_minigame_first" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "我们知道你会说好的！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "我们要去做准备了！",
+		},
+	],
+	"to_minigame_first_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "小蓝，快来这！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
+			"dialog"			: "看起来这次我要站在另一边了，我的缺陷。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "没关系的，去加入他们吧。",
+		},
+	],
+	"to_minigame" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"random"			: 4,
+			"dialog_rand1"		: "我们会去做准备的。",
+			"dialog_rand2"		: "我们去准备了。",
+			"dialog_rand3"		: "来吧，我们走吧！",
+			"dialog_rand4"		: "这会超有趣的！",
+		},
+	],
+	
+	"start_swap" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "这个游戏叫做|C3|维目尔置换！|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "追踪带有|C3|白色眼睛|C0|的维目尔，在移动后选择正确的那个。",
+		},
+	],
+	"start_blink" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "这一个叫做|C3|维目尔眨眼！|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "看着我们睁开自己的眼睛然后数一数你看到了多少[VAL1]。",
+		},
+	],
+	"start_blink2" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "这一个有点难。|L|我们把它叫做|C3|维目尔眨眼！|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "请尝试记住你看到过的所有颜色。|L|我们可能会问其中任何一个。",
+		},
+	],
+	"start_peek" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "这一个叫做|C3|维目尔之窥！|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "看我们现身，然后数一数你看到了多少[VAL1]。",
+		},
+	],
+	"start_peek2" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "这一个有点难。|L|我们把它叫做|C3|维目尔之窥！|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "请试着记起来你看到的所有颜色。|L|我们可能会问其中任何一个。",
+		},
+	],
+	"start_rain" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "这一个叫做|C3|维目尔之雨！|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "不要和，呃... 那位维目尔之雨搞混了。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "请数一下所有经过的带有[VAL1]的维目尔。",
+		},
+	],
+	
+	"comment_swap_choose"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "哪个维目尔有着|C3|白色眼睛？|C0|",
+	},
+	"comment_type_count"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "你看到了多少带有[VAL1]的维目尔？",
+	},
+	"comment_win"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "|wave|好耶！",
+	},
+	"comment_lose"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+		"dialog"	: "|shake|哦不！",
+	},
+	
+	"you_win" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "就是这样！",
+		},
+	],
+	"you_lose" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "抱歉，错了。",
+		},
+	],
+	"blue_lose" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "我知道让你抵抗选择我的欲望是不可能的。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
+			"dialog"			: "但是哎呀，在这种情况下我可不是正确答案。",
+		},
+	],
+	
+	"after_another_game" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "再来一局怎么样？",
+		},
+	],
+	"after_streak_3" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|三次连胜了！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "你真擅长这个。",
+		},
+	],
+	"after_streak_4" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "真不敢相信你赢下了我们所有的游戏。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "下次我们可能要做的更难一点了。",
+		},
+	],
+	"after_first_loss" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我们一直让你的生活更加困难。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "如果你不想再和我们玩了，我们也理解的。",
+		},
+	],
+	"after_no_comfort_loss" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "嗯，如果你不想的话，没有必要再和我们玩的。",
+		},
+	],
+	
+	
+	
+	"comfort_blank" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "但是为什么？",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "嘿，我一直都在享受游戏。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "真的吗？",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "不用一直胜利也可以享受游戏的。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "并且我没有忘记你们任何一个。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "好耶！",
+		},
+	],
+	"comfort_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
+			"dialog"			: "失败的是我，但却是你们感觉糟糕？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sad"],
+			"dialog"			: "或许你不会想要再和我们一起玩了。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
+			"dialog"			: "我输过很多次了，傻傻。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "我每次赢的时候你也不会恨我，是吧？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "哦，你说的对！",
+		},
+	],
+	"comfort_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_content"],
+			"dialog"			: "我不会因为输掉游戏就生气的。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "真的吗？",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "并且，我的妹妹都没在注意的。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_angry"],
+			"dialog"			: "看看有多少维目尔要我来摸摸！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "这是非常重要的工作。",
+		},
+	],
+	"comfort_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
+			"dialog"			: "你刚刚打败了恶魔...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我们很对不起。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
+			"dialog"			: "对不起？！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "你刚刚达成了不可能之事！|L||!|你应该感到骄傲！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "既然你这样说的话-",
+		},
+	],
+	"comfort_default" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "...",
+		},
+	],
+	
+	
+	
+	"hug_blank" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "要拥抱我们所有人会花点时间的。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_aggressive"],
+			"dialog"			: "这是我愿意做出的牺牲。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "我下一个！",
+		},
+	],
+	"hug_defect" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "你为什么要拥抱我？|L|你随时都可以这样做的。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "我只是真的很爱你。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|哎呀呀。",
+		},
+	],
+	"hug_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_aggressive2"],
+			"dialog"			: "来压住阳光吧！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "好耶！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
+			"dialog"			: "|shake|等下！",
+		},
+	],
+	"hug_devil" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "你好温暖。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "你们所有人，来一起拥抱吧！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "好暖！",
+		},
+	],
+	"hug_default" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "...",
+		},
+	],
+	
+	
+	
+	"pet_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "我可以摸摸你吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "如果你不介意寒冷的话。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "这感觉真不错。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "你好软，并且好有弹性。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "我们是完美的材料！",
+		},
+	],
+	"pet_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "我想要试点东西。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "这感觉真不错。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "你们都比小蓝要冷。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
+			"dialog"			: "那是因为我和你分享了一部分的寒冷，亲爱的。",
+		},
+	],
+	"pet_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_surprised"],
+			"dialog"			: "阳光，你来从这边开始！|L|我从这里开始。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "这感觉真不错。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_happy"],
+			"dialog"			: "别担心，我们会摸摸每一个的。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "好耶！",
+		},
+	],
+	"pet_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "你摸起来像弹弹的冰块。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我不是方块。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "不，是说圆圆的方块。|L||!|这玩意叫什么来着？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "雪球！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "不不不，那是另一个人。",
+		},
+	],
+	"pet_default" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "...",
+		},
+	],
+	
+	
+	"to_devil_deal" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "我们进行一场小小的恶魔交易怎么样？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "听起来很有趣！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "如果我赢下了这局游戏，那么你就必须给我你的灵魂。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "但如果我输了，     呃...你想要什么？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "你必须要给我们所有人一个吻！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
+			"dialog"			: "但是    我的嘴唇会开裂的！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
+			"dialog"			: "呃好吧，那就这样了！",
+		},
+	],
+	"devil_deal_win" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "哈！你们现在都要加入我的乐队了！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "好耶！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "但是，     那是什么？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "总有一天，恶魔会召唤你们-",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "然后一起，我们会|shake|将摇滚带向世界！|norm|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "好耶，不管那是什么！",
+		},
+	],
+	"devil_deal_lose" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "|C3|吧唧",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "所以吻是这样的！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "我的嘴唇好冷。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad"],
+			"dialog"			: "好吧，谁是下一个？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "轮到我了！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "|C3|吧唧",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "这永无止境。",
+		},
+	],
+	
+	
+	
+	"times_up" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我们知道你是时候离开了。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sad"],
+			"dialog"			: "你不能把整天都浪费在我们这里。",
+		},
+	],
+	"to_gift" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "哦，在你离开之前，我们有东西要给你！",
+		},
+	],
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "选择任何你想要的。",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "我为什么认不得这是什么？",
+	},
+	"gift_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "你想要它吗？",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "你不想要其他东西了吗？",
+	},
+	"to_another_gift" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "那个还挺不错的。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "我们想要你再拿走一个。",
+		}
+	],
+	"to_last_gift" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "我们知道你会选择它的。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "请再带走一个！",
+		}
+	],
+	"to_the_end" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "我们希望你喜欢它！",
+		},
+	],
+	
+	
+	
+	"to_sleep_blank"	: "bonding_time/bonding_common_text",
+	"to_sleep_defect"	: "bonding_time/bonding_common_text",
+	"to_sleep_twins"	: "bonding_time/bonding_common_text",
+	"to_sleep_devil"	: "bonding_time/bonding_common_text",
+	"sleep_response" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "你可以在这里睡的，好吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "好耶，我们等下会叫醒你的。",
+		},
+	],
+	
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "刚刚太好玩了。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "谢谢你和我们一起玩！",
+		},
+	],
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "我们和你们玩的很开心！|!||L||wave|再见，小蓝！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "我回到我完美的一面了。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "欢迎回来。",
+		},
+	],
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "是时候给你特别的奖励了！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "阳光上的维目尔堆！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
+			"dialog"			: "|shake|等一下！",
+		},
+	],
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "谢谢你和我们一起玩。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "好耶，真的很有趣！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "随时乐意，小小女士们。",
+		},
+	],
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
+			"dialog"			: "谢谢你和我们一起玩！",
+		},
+	],
+	"error_catch"	: "bonding_time/bonding_common_text",
+
+}

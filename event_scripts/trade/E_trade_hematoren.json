@@ -1,0 +1,507 @@
+{
+	"intro_full_health" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "|wave|你好。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "是你最好的朋友，血玛托壬！",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "你今天看起来非常健康。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_aggressive"],
+			"dialog"			: "|shake|如此多爱的汁液。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surpised"],
+			"dialog"			: "我想要打造一个新的花园，并且我想要用你来培育花朵。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "我只需要你爱的面条里一点点液体。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "你可以分出一些的，对吧？",
+		},
+	],
+	"intro_near_full" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "|wave|你好。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "是你最好的朋友，血玛托壬！",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_sad"],
+			"dialog"			: "你的心有一些漏。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surpised"],
+			"dialog"			: "已经滴落到地上了。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "|wave|我可以在这里栽培一朵花！",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "我可以用你来打造一整个花园。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "我能借走你一些心的汁液吗？",
+		},
+	],
+	"intro_mid_health" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_sad"],
+			"dialog"			: "你的心漏出了很多。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_upset"],
+			"dialog"			: "那是因为我吗？|L||!|我并非一个好的全新密友。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surpised"],
+			"dialog"			: "已经滴落到地上了。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "|wave|我可以在这里栽培一朵花！",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "如果我能够有更多的你心中的液体-",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "我可以用你来打造一整个花园。",
+		},
+	],
+	"intro_low_health" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surpised"],
+			"dialog"			: "|shake|你的心！",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_upset"],
+			"dialog"			: "这不是因为我，是吧？|L||!|已经洒的到处都是了。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surpised"],
+			"dialog"			: "我知道了！",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "我要用你来打造一整个花园！",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "我可以用你爱的液体来培育许许多多的花。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "作为你的全新密友，这是我至少能做的。",
+		},
+	],
+	
+	"mood_title"	: "血玛托壬的心情",
+	"monster_gifts"	: "血玛托壬的礼物",
+
+	"op_trade"			: "血玛托壬的礼物",
+	"op_donate"			: "捐献血液",
+	"op_leave"			: "离开",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+		"dialog"	: "我会用礼物交换你爱的液体。",
+	},
+	"comment_donate"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+		"dialog"	: "我会用你的精华栽培极度美丽的花朵。",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_suprised"],
+		"dialog"	: "你要离开的时候请跟我说一声。",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_sad"],
+		"dialog"	: "我没有其他的东西给你了。",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_upset"],
+		"dialog"	: "我已经拿走足够的了。|L|如果我再拿更多的话，你内部的器官会变得孤独的。",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_normal"],
+		"dialog"	: "已经到时间了吗？",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+		"dialog"	: "你可以带走它。",
+	},
+	"comment_take_stone"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+		"dialog"	: "你想要我的心形石？|L||wave|这是用我制成的！",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surprised"],
+		"dialog"	: "你想要这个吗？|L|或许你能够告诉我这是什么？",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_aggressive"],
+		"dialog"	: "先给我更多的爱的汁液。|L|然后再说。",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_upset"],
+		"dialog"	: "它挤不下！",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+		"dialog"	: "你想要的是这个吗？",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|为了我最好的朋友，付出什么东西都可以。",
+			"dialog_rand2"		: "请记得你最好的朋友把这个给了你。",
+			"dialog_rand3"		: "别担心，我没有在上面洒任何东西。",
+			"dialog_rand4"		: "我希望这能够帮助你补充你的爱。",
+		}
+	],
+	
+	
+	
+	
+	"comment_donate_blood"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+		"dialog"	: "你会捐献多少爱的液体呢？|L|这会减少你的最大生命。",
+	},
+	"comment_donate_extra1"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surprised"],
+		"dialog"	: "我会记得给你额外的零食。",
+	},
+	"comment_donate_extra2"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+		"dialog"	: "你将会成为我永远的密友。",
+	},
+	"donate_confirm"		: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+		"dialog"	: "你想要捐献这么多吗？",
+	},
+	"comment_take_food"	: {
+		"character"	: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+		"dialog"	: "|wave|选择你最喜欢的零食。",
+	},
+	"donate_default" 	: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"random"			: 4,
+			"dialog_rand1"		: "让我先握住你的心一小会。",
+			"dialog_rand2"		: "我可以先触碰一下你的心吗？",
+			"dialog_rand3"		: "我需要先触摸你的心，这样可以吗？",
+			"dialog_rand4"		: "我会轻柔地握住你的心，好吗？",
+		},
+	],
+	"donate_blank" 		: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "我需要握住你的心一小会。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "我相信你，血玛托壬。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surprised"],
+			"dialog"			: "你的心如此温暖！",
+		},
+	],
+	"donate_defect" 	: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "我会需要触碰你的心。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
+			"dialog"			: "这会痛吗？",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_aggressive"],
+			"dialog"			: "我们一起来看看吧！",
+		},
+	],
+	"donate_twins" 		: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "我需要握住你的心。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "就像你们在握手一样吗？",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "是吧，我猜。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|这感觉比那更超过一点。",
+		},
+	],
+	"donate_devil" 		: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "我会需要握住你的心。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "我没必要看着，对吧？",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_aggressive"],
+			"dialog"			: "为什么？你不想看着爱的液体流动吗？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
+			"dialog"			: "|shake|你就快点吧！",
+		},
+	],
+	"finished_default" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"random"			: 5,
+			"dialog_rand1"		: "|wave|完成了！",
+			"dialog_rand2"		: "|wave|感谢你的捐赠！",
+			"dialog_rand3"		: "|wave|提取成功！",
+			"dialog_rand4"		: "|wave|爱的液体已经提取！",
+			"dialog_rand5"		: "|wave|心的汁液！",
+		},
+	],
+	"finished_blank" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "|wave|完成了！",
+			"dialog_rand2"		: "|wave|心的汁液！",
+			"dialog_rand3"		: "|wave|爱的液体已经提取！",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "我甚至什么都没感觉到。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "我就是这么擅长提取心的汁液。",
+		},
+	],
+	"finished_defect" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_pain"],
+			"dialog"			: "|shake|啊！",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surprised"],
+			"dialog"			: "|shake|什么！",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "我本来还以为会痛的，但我什么都没感觉到。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_angry"],
+			"dialog"			: "别这样吓我！",
+		},
+	],
+	"finished_twins" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "|wave|全都完成了！",
+			"dialog_rand2"		: "|wave|心的汁液！",
+			"dialog_rand3"		: "|wave|爱的液体已经提取！",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "感觉怎么样？",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_normal"],
+			"dialog"			: "我甚至什么都没感觉到。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious"],
+			"dialog"			: "...",
+		},
+	],
+	"finished_devil" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
+			"dialog"			: "你快点动手吧！",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "我已经完成了。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
+			"dialog"			: "哦...|L||!|我觉得我快晕倒了。",
+		},
+	],
+	"to_free_food" 	: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "捐献了那么多液体之后，你会需要吃点什么。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "你真幸运，你的密友已经为你准备好了。",
+		},
+	],
+	"food_taken" 	: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "你爱的面条很快就能够恢复那些液体了。",
+			"dialog_rand2"		: "你的身体会需要它，从而创造更多爱的液体。",
+			"dialog_rand3"		: "这会让你感觉好一点。",
+		}
+	],
+
+	
+	
+	
+	
+	"leave_no_donation" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_sad"],
+			"dialog"			: "哦，你现在匀不出也没关系。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_aggressive"],
+			"dialog"			: "你的心反正也撑不住，洒出来了这么多。",
+		},
+	],
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "我会需要好几天才能够完成你的花园。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_sad"],
+			"dialog"			: "怎么了？",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"			: "哦...没事的。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "我等不及看到它了。|L||!||wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|真期待展示给你。",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
+			"dialog"			: "你能够培育出蓝色的花吗？",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "我们试试。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "恐怕我没有心。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_surprised"],
+			"dialog"			: "你的液体太冰冷了。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "想象一下能够由我做出来的花。|L||!|世界尚未准备好接受这样的美丽。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "下次试试用小绿的血培育花朵吧。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
+			"dialog"			: "你不想她继续触碰你的心了吗？",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_upset"],
+			"dialog"			: "你不想我继续触碰你的心了吗？",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|等下！|norm| 我想！",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "你真的可以用我的血栽培花朵吗？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "这是我听说过的最金属的事情了！",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_confused"],
+			"dialog"			: "你没事吗？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
+			"dialog"			: "我没事。|L||!|只是我的腿感觉有点软。|L||!|而且我的视野有点模糊。",
+		},
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|哦这还挺正常的。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_happy"],
+			"dialog"			: "我会用你培育出美丽的花园的。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_hematoren", "CHAR_hematoren_right", "MOOD_very_happy"],
+			"dialog"			: "我等不及展示给你了。",
+		},
+	],
+
+}

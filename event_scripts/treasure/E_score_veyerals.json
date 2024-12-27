@@ -1,0 +1,277 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "不好意思，小姐。",
+			"dialog_rand2"		: "哦，很高兴再见到你。",
+			"dialog_rand3"		: "又是那位美丽的女士。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "呃，我们能问你点事情吗？",
+			"dialog_rand2"		: "我们想要请你帮个忙。",
+			"dialog_rand3"		: "我们能问个关于你的事情吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我们这样可能显得很粗鲁，但是-",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "你的梦境太棒了。|!||L|它们超脱了语言的描述能力。",
+			"dialog_rand2"		: "在你梦中所见，我们从未见过如此美丽。",
+			"dialog_rand3"		: "你的梦境世界充满了无与伦比的美丽。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "我们想要再次见到那个世界。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我们无法自己入梦，但我们想在你精妙绝伦的梦域中入睡。",
+		},
+	],
+	
+	"monster_gifts"	: "维目尔的礼物",
+	
+	"op_start"		: "为她们展示梦境",
+	"op_leave"		: "已经太晚了",
+	
+	"comment_start"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "我们请求您给予我们甜美的梦境。",
+	},
+	"comment_leave"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+		"dialog"	: "仔细一想，我们已经太累了，而你的存在对于我们也已经足够了。",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+		"dialog"	: "|C3|(她们看起来好像已经睡着了)",
+	},
+	
+	"start_battle" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "太棒了！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
+			"dialog"			: "|wave|我们今晚会做一个非常甜美的梦。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|你让我们超级开心。",
+		},
+	],
+	
+	"start_battle_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "|shake|你们没办法做梦吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "似乎我们维目尔族缺乏这种能力。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
+			"dialog"			: "所以，我刚刚展示的是你们平生以来的第一个梦？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "不要伤心，小姐。|L||!|你已经为我们做了这么多，我们已经很感激了。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
+			"dialog"			: "我会为你展示我所能做到的最棒的梦境。",
+		},
+	],
+	
+	"no_battle" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "爱...你。",
+		},
+	],
+	
+	"return_intro" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "|C3|...[VAL1]魔尘。|C0|",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|她们在梦境中都在数着魔尘。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "哦对了，我们也为你收集了这些礼物。",
+		},
+	],
+	
+	
+	"comment_take_first"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "我坚持你带走一个。",
+	},
+	"comment_take_another"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+		"dialog"	: "请带走你想要的任何一个吧！",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+		"dialog"	: "你会拿走这个吗？",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "你的梦境值得它。",
+			"dialog_rand2"		: "这就是我们有多爱你。",
+			"dialog_rand3"		: "|wave|梦想成真。",
+			"dialog_rand4"		: "这与你给予我们的礼物无法比拟。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "当我说出你配得上另一份礼物时，我知道我能够代表你们所有人。",
+			"dialog_rand2"		: "我们想让你收下另一份礼物。",
+			"dialog_rand3"		: "请再带走一份礼物。",
+		}
+	],
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "嗯，我还有个最后的请求。|L||!|我需要帮助以再次入眠。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "好哦，因为我还有需要做的事情。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
+			"dialog"			: "会是什么事情呢？",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "你好可爱...",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|I see you.",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
+			"dialog"			: "什--什么？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
+			"dialog"			: "哦。|!||L|抱歉我先入为主了。|!||L|我只是觉得你们美丽的眼睛--",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "缺陷，这不过只是眼球的习俗。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "哦。|!| I     see   you?",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
+			"dialog"			: "太棒了。",
+		},
+		
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "你和太阳一样温暖...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "小绿，我没法不注意到我在一堆维目尔中醒来。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "哦，她们睡着的时候全都堆在你身上了。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "你跟这一点关系都没有吗？",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "|wave|嗯哼。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "|shake|好耶！|L||!|这正是我所需要的！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "哎呀。|L||!|抱歉，刚刚有点吵。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "这些女士们可以在金属演唱会上睡着。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "是时候让我睡着了...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sleepy"],
+			"dialog"			: "...",
+		},
+	],
+
+}

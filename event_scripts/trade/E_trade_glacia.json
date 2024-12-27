@@ -1,0 +1,329 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+			"dialog"			: "很高兴能再次见到你！|L||!|我刚刚还在找你。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+			"dialog"			: "嗯... 你能帮我个忙吗？",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused_blush"],
+			"dialog"			: "我需要给某人的礼物。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_normal"],
+			"dialog"			: "她喜欢星星和来自外太空的东西。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+			"dialog"			: "她特别|wave|爱|norm||C3|宇宙|C0|礼物。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_sad"],
+			"dialog"			: "但是我一个都找不到。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+			"dialog"			: "你有类似那样的礼物吗？",
+		},
+	],
+	
+	"mood_title"	: "星川的心情",
+	"monster_gifts"	: "星川的礼物",
+	"player_gifts"	: "[NAME]的现有礼物",
+
+	"op_trade"			: "星川的礼物",
+	"op_give_active"	: "给予现有礼物",
+	"op_leave"			: "离开",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+		"dialog"	: "这些礼物是用来感谢你帮助我的。",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_normal"],
+		"dialog"	: "我需要一些|C3|宇宙|C0|礼物。",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+		"dialog"	: "你要走的时候请和我说一声。",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_sad"],
+		"dialog"	: "我没什么能给你了。",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+		"dialog"	: "这些礼物已经足够了，谢谢！",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_normal"],
+		"dialog"	: "你现在要走了吗？",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+		"dialog"	: "我想要把这个给你！",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+		"dialog"	: "无论这是什么，你都可以收下！",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_sad"],
+		"dialog"	: "我还没准备好放弃它。",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_upset"],
+		"dialog"	: "你没法带的下。",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_normal"],
+		"dialog"	: "你想要这个吗？",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_very_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|哦，我真的很喜欢给别人礼物。",
+			"dialog_rand2"		: "你配得上收到的每一份礼物。",
+			"dialog_rand3"		: "|wave|当你给了别人她们正需要的东西时，这种感觉真好。",
+			"dialog_rand4"		: "我喜欢看到你开心的样子。",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_normal"],
+		"dialog"	: "嗯，如果你愿意把它给我-",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked"],
+		"dialog"	: "哦！她会爱死这个的！",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_very_happy"],
+		"dialog"	: "我知道她真的很喜欢那东西！",
+	},
+	"comment_give_TAG_vitrea_part"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+		"dialog"	: "|shake|我可以收下它吗，拜托了？！",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+		"dialog"	: "在我能够把这礼物给她之前，它大概早就消失了，真让人伤心。",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content_blush"],
+		"dialog"	: "...哦，我刚刚在想|wave|什么东西。|norm||L|你要给我看什么吗？",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_upset"],
+		"dialog"	: "...哦，没什么，我刚刚在想事情。|L|你要给我看什么吗？",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused"],
+		"dialog"	: "我觉得我不再需要它了。",
+	},
+	"comment_give_petal"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_sad"],
+		"dialog"	: "她不可能会想要这个的。",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_sad"],
+		"dialog"	: "把它从你身边带走，我于心不忍。",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+		"dialog"	: "我真的可以收下吗？",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "非常感谢你，这对我意义重大。",
+			"dialog_rand2"		: "|wave|给出礼物不会让你特别开心吗？",
+			"dialog_rand3"		: "你人太好了。",
+			"dialog_rand4"		: "我做了什么才配得上你的善良？",
+		}
+	],
+	"special_given" 		: [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "|shake|是的！",
+			"dialog_rand2"		: "这正是我在找的！",
+			"dialog_rand3"		: "真不敢相信！",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy_blush"],
+			"random"			: 3,
+			"dialog_rand1"		: "她会爱上这个的！",
+			"dialog_rand2"		: "这会让她特别开心！",
+			"dialog_rand3"		: "我已经能看到她脸上的表情了！",
+		}
+	],
+	"favorite_given" 		: [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy"],
+			"dialog"			: "这是她最喜欢的星座的一部分。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content"],
+			"dialog"			: "真等不及看她收到礼物时脸上的表情了！",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content_blush"],
+			"dialog"			: "然后她会一直谈论着它，一连几个小时。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy_blush"],
+			"dialog"			: "然后我的注意会慢慢涣散，因为我一直在看着她眼里的星星...",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|请忘掉我说过的一切！",
+		},
+	],
+	"TAG_vitrea_part_given" 	: [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content_blush"],
+			"dialog"			: "这闻起来还是像她。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+			"dialog"			: "哦！我大声说出来了。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused_blush"],
+			"dialog"			: "|shake|请不要告诉任何人我有多怪。",
+		},
+	],
+
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious3"],
+			"dialog"			: "你想要给琉璃的礼物，是吧？",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|有那么明显吗？",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "即使没有任何礼物，你对她而言也足够了。|L||!|你知道的，是吧？",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "我们只是想看到你的微笑。|L||!||wave|我爱你！|L||!|琉璃也是。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content_blush"],
+			"dialog"			: "谢谢，我也爱你。",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "代我向琉璃问声好。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|什么？|L||!|谁说了琉璃的事情？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "哦，是秘密吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "你的存在对她而言已经是完美的礼物了。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "|wave|我应该知道的，我的存在对于任何人都是完美的礼物。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "这些是要给琉璃的吗？",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "只要是你给她的，她都会特别开心的。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_angry"],
+			"dialog"			: "小绿！不要胡乱猜测。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_confused_blush"],
+			"dialog"			: "你是怎么猜到的？",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
+			"dialog"			: "你到底是怎么猜到的？",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "哦阳光，我对这种事情就是有种直觉。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "所以是琉璃，嗯？",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|你在说什么？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "你在我面前可没有秘密，我可是恶魔。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "只要看一眼我就能知道你的心上人是谁。",
+		},
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_happy_blush"],
+			"dialog"			: "你的力量太强大了。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "这，我当然知道了。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_very_happy"],
+			"dialog"			: "谢谢你帮助我。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_glacia", "CHAR_glacia_right", "MOOD_content"],
+			"dialog"			: "我也爱你。",
+		},
+	],
+
+}

@@ -1,0 +1,149 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "本单元已经采集了更多关于怪物恐惧的数据。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "|C3|建议:|C0|接受本单元将数据编译后的|C3|恐惧感知|C0|礼物。",
+		},
+	],
+	
+	"monster_gifts"	: "单元露露的礼物",
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+		"dialog"	: "本单元希望能够提供尽可能多的数据。",
+	},
+	"comment_take_bonus"	: {
+		"character"	: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+		"dialog"	: "本单元同样能够提供一个额外礼物。",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+		"dialog"	: "你会收下吗？",
+	},
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
+			"dialog"			: "看起来你的恐惧目前为零。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "是的。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "但它应该比这更少。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "...正在激活冷却风扇。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"random"			: 4,
+			"dialog_rand1"		: "本单元已经耗尽了所有可用的冷却风扇。",
+			"dialog_rand2"		: "本单元现在将在火焰中燃烧。",
+			"dialog_rand3"		: "本单元现在将变为燃烧属性。",
+			"dialog_rand4"		: "本单元达到了记录最高温度。",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "嘿，小蓝，你现在害怕吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "完全没有，亲爱的。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
+			"dialog"			: "那为什么当我看向你时，这个数字这么高？",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "你拿反了。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "哦。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
+			"dialog"			: "你有没有设备可以看出来别人是否被你吸引？",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "本单元确实有创造出该设备的可能性。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|没关系的！|norm||L|没必要麻烦你。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "你说的没错，阳光。|!||L|那样就算是作弊了。",
+		},
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "终于，我能看到我的拳头有多狠了！",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "你的描述是比喻意义上的，对吧？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "不。我，恶魔，只有字面意义！",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "本单元必须坚持避免伤害怪物。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
+			"dialog"			: "不，我是说|wave|比喻性的|norm|字面意义。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "本单元已经消耗了过多内存，无法理解你的言语。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
+			"dialog"			: "...",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "本单元希望这样能够帮到你。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
+			"random"			: 4,
+			"dialog_rand1"		: "本单元已经耗尽了所有可用的冷却风扇。",
+			"dialog_rand2"		: "本单元现在将在火焰中燃烧。",
+			"dialog_rand3"		: "本单元现在将变为燃烧属性。",
+			"dialog_rand4"		: "本单元达到了记录最高温度。",
+		},
+	],
+
+}

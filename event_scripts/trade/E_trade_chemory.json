@@ -1,0 +1,400 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "嗯...",
+			"dialog_rand2"		: "今天会是什么呢？",
+			"dialog_rand3"		: "今天我觉得-",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised"],
+			"random"			: 6,
+			"dialog_rand1"		: "光谱之花！",
+			"dialog_rand2"		: "日之花！",
+			"dialog_rand3"		: "夜之花！",
+			"dialog_rand4"		: "甜味果实！",
+			"dialog_rand5"		: "丝线糖！",
+			"dialog_rand6"		: "泥土芳香！",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|我想要制作那种气味的香水。",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
+			"dialog"			: "嗯-",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
+			"dialog"			: "我刚刚的行为非常     恶劣，但我想要做出改变。",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_confused_blush"],
+			"dialog"			: "我知道个方法能让这个世界变得更好。",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+			"dialog"			: "如果你有什么东西具有自然|C3|毒性|C0|，那么我想将它制成香水。",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"dialog"			: "|wave|任何东西都可以被变成更好的样子。",
+		},
+	],
+	
+	"intro_blank" : [
+		{
+			"character"			: ["VOICE_static", "CHAR_chemory_right", "MOOD_surprised"],
+			"dialog"			: "|C3|嗅嗅",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
+			"dialog"			: "你在做什么？",
+		},
+		{
+			"character"			: ["VOICE_static", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "|C3|嗅嗅",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_very_happy"],
+			"dialog"			: "|wave|我想要做这种气味的香水。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
+			"dialog"			: "我的头发？",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"dialog"			: "我知道我今天该怎么让世界变成一个更好的地方了。",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_blush"],
+			"dialog"			: "你头发的甜美气息给了我灵感！",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+			"dialog"			: "如果你有什么东西具有自然|C3|毒性|C0|，那么我想将它制成香水。",
+		},
+	],
+	
+	"mood_title"	: "化莫里的心情",
+	"monster_gifts"	: "化莫里的礼物",
+	"player_gifts"	: "[NAME]的现有礼物",
+	"player_quicks"	: "[NAME]的快速礼物",
+
+	"op_trade"			: "化莫里的礼物",
+	"op_give_active"	: "给予现有礼物",
+	"op_give_quick"		: "给予快速礼物",
+	"op_leave"			: "离开",
+	
+	"comment_trade"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "我会用我的礼物和你交易。",
+	},
+	"comment_active"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_normal"],
+		"dialog"	: "我想要可以转化成香水的东西。",
+	},
+	"comment_quick"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+		"dialog"	: "这里面有许多都可以作为优质原料。",
+	},
+	"comment_leave"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+		"dialog"	: "你离开之后我会开始工作的！",
+	},
+	
+	"comment_closed"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
+		"dialog"	: "我没什么能给你了。",
+	},
+	"comment_give_limit"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+		"dialog"	: "我觉得今天这已经足够了",
+	},
+	"comment_give_empty"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_suprised"],
+		"dialog"	: "你没有任何原料。",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_confused"],
+		"dialog"	: "你要离开了吗？",
+	},
+	
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "这个是给你的！",
+	},
+	"comment_take_stone"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_awkward"],
+		"dialog"	: "我呃... 我为你做了这个。",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_shocked"],
+		"dialog"	: "我记不得这是什么了。",
+	},
+	"comment_take_over"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_blush"],
+		"dialog"	: "你有什么其他东西要给我吗？",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
+		"dialog"	: "我不能为了你把它做的更小，真让人难过。",
+	},
+	"buy_confirm"		: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_normal"],
+		"dialog"	: "你想要这个吗？",
+	},
+	"gift_taken" 		: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "|wave|愿它能与你连结紧密。",
+			"dialog_rand2"		: "希望这能转变你去爱的能力。",
+			"dialog_rand3"		: "请用它让世界变得更好。",
+			"dialog_rand4"		: "我知道你会用它达成许多伟大的事情。",
+		}
+	],
+	
+	
+	
+	
+	
+	"comment_give_normal"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_normal"],
+		"dialog"	: "我会收下的，如果你不需要的话。",
+	},
+	"comment_give_special"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "我会把它转化为芳香的东西！",
+	},
+	"comment_give_favorite"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "|wave|这团东西真是美丽！|L||norm|我要把它变成美妙的东西。",
+	},
+	"comment_give_TAG_scent"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+		"dialog"	: "这真是令人愉悦的香气！",
+	},
+	"comment_give_TAG_chemory_part"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
+		"dialog"	: "|shake|那是我的一部分吗？|norm||L|我能把它收回来吗，拜托了？",
+	},
+	"comment_give_I_natural_glyph"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
+		"dialog"	: "那可真是可爱！|L||shake|等下，那原来是我吗？",
+	},
+	"comment_give_dislike"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised"],
+		"dialog"	: "我没法收下这个。|L|过强的电流会扰乱转化过程。",
+	},
+	"comment_give_quick"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised"],
+		"dialog"	: "我要快点把它转化掉！",
+	},
+	"comment_give_blessing"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "我可以把这种情绪作为灵感。",
+	},
+	"comment_give_burden"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_aggressive"],
+		"dialog"	: "这正是我所追寻的那种挑战！",
+	},
+	"comment_give_taken"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_confused"],
+		"dialog"	: "这些我已经有足够多了。",
+	},
+	"comment_give_starter"	: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+		"dialog"	: "你应该留下。",
+	},
+	"give_confirm"			: {
+		"character"	: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+		"dialog"	: "你会把它给我吗？",
+	},
+	"gift_given" 		: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+			"random"			: 4,
+			"dialog_rand1"		: "这估计会特别有用。",
+			"dialog_rand2"		: "谢谢你，我爱它！",
+			"dialog_rand3"		: "你对我真好。",
+			"dialog_rand4"		: "这可以帮助我进行工作！",
+		}
+	],
+	"special_given" 		: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "我会把这些分子连结成美妙的东西。",
+			"dialog_rand2"		: "是时候进行化学结键了！",
+			"dialog_rand3"		: "把元素连结在一起。",
+			"dialog_rand4"		: "我会用甜美的事物把分子连结在一起的。",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"random"			: 3,
+			"dialog_rand1"		: "它有机会变成更美好的事物。",
+			"dialog_rand2"		: "|wave|这听上去不浪漫吗？",
+			"dialog_rand3"		: "|wave|化学物间的小小浪漫。",
+		}
+	],
+	"TAG_scent_given" 		: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+			"random"			: 3,
+			"dialog_rand1"		: "这种味道给了我灵感进行创造！",
+			"dialog_rand2"		: "我会用这种味道制成香水的。",
+			"dialog_rand3"		: "我太喜欢这种气味了！",
+		}
+	],
+	"TAG_chemory_part_given" 	: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_awkward"],
+			"dialog"			: "这有点尴尬。",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_confused_blush"],
+			"dialog"			: "这些非常危险！",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "不敢相信，我太不小心了！",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"dialog"			: "感谢你能把它还回来。",
+		},
+	],
+	"I_natural_glyph_given" 	: [
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad"],
+			"dialog"			: "你觉得我能让自己变得更好吗？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"dialog"			: "我不会让你失望的。",
+		}
+	],
+
+
+	
+	
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_static", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "|C3|嗅嗅|L||!||shake|啊呜",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
+			"dialog"			: "|shake|你刚刚是咬了我的头发吗？",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_sad_blush"],
+			"dialog"			: "它闻起来太甜美了，我还以为是用丝线糖制成的。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "化莫里，我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "对不起。",
+		},
+	],
+	
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"random"			: 4,
+			"dialog_rand1"		: "小蓝，你闻起来像黄昏时分坐在池塘边上。",
+			"dialog_rand2"		: "小蓝，你闻起来像溪流穿越繁花的原野。",
+			"dialog_rand3"		: "小蓝，你闻起来像大雨之前长满蘑菇的树。",
+			"dialog_rand4"		: "小蓝，你闻起来像晴日清风下的树影。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "而且你还有着月亮在森林上升起的气味。",
+			"dialog_rand2"		: "而且你散发着一篮水果与心型糖果的气味。",
+			"dialog_rand3"		: "而且你还有草原上的日出气味。",
+			"dialog_rand4"		: "而且你还散发着清晨日之花上的露水气息。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "你是怎么做到的？|L||!|那太具体了吧！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content_blush"],
+			"dialog"			: "|wave|谢谢你。",
+		},
+	],
+	
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "我的姐姐真的很喜欢酸味水果树的味道。",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "是这样吗？|!||L|我可以现在把自己的气味变成那一种。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_happy"],
+			"dialog"			: "哇哦，闻起来一模一样！",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_awkward"],
+			"dialog"			: "你没必要站在那边。|!||L|如果你想的话可以靠近一点。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
+			"dialog"			: "哦好。",
+		},
+		
+	],
+	
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_static", "CHAR_chemory_right", "MOOD_surprised_blush"],
+			"dialog"			: "|C3|嗅嗅",
+		},
+		{
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
+			"dialog"			: "你身上的味道真好闻！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
+			"dialog"			: "哦，你喜欢吗？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_vey_happy"],
+			"random"			: 4,
+			"dialog_rand1"		: "我把它叫做    营火与烧焦的头发。",
+			"dialog_rand2"		: "我把它叫做    在草里滚半个小时。",
+			"dialog_rand3"		: "我把它叫做    闪电把我睡在下面的树烧焦了。",
+			"dialog_rand4"		: "我把它叫做    潮湿的树皮。",
+		},
+	],
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_static", "CHAR_chemory_right", "MOOD_surprised"],
+			"dialog"			: "|C3|嗅嗅",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_content"],
+			"dialog"			: "你身上的味道真好闻！",
+		},
+	],
+
+}

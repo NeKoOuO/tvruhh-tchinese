@@ -1,0 +1,65 @@
+{
+	"color_green"	: "绿色",
+	"color_red"		: "红色",
+	"color_yellow"	: "黄色",
+	"color_blue"	: "蓝色",
+	"color_orange"	: "橙色",
+	"color_purple"	: "紫色",
+	
+	"intro" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 64,
+			"text_w"			: 284,
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她感觉到她的一个[VAL1]棱晶在移动。",
+		},
+		{
+			"dialog"			: "|C3|棱晶想要指引她到某个地方。",
+		},
+	],
+	
+	"ask_q1"		: "她要怎么做？",
+	"ask1_a"		: "释放它(-1棱晶)",
+	"ask1_b"		: "留下她",
+
+	"ask_q2"		: "她会带走钥匙吗？",
+	"ask2_a"		: "收下钥匙",
+	"ask2_b"		: "留下钥匙 (+[VAL1]因果)",
+	
+	"free_tetrid" : [
+		{
+			"voice"				: "VOICE_default",
+			"random"			: 4,
+			"dialog_rand1"		: "|C3|她释放了棱晶，而它自己滚到了一棵树后。",
+			"dialog_rand2"		: "|C3|棱晶从她的手中飞出，落进了附近的灌木丛里。",
+			"dialog_rand3"		: "|C3|棱晶从她的心里飞出，弹进了附近的水塘中。",
+			"dialog_rand4"		: "|C3|她释放了棱晶，让它滚进了一段空心的木头。",
+		},
+		{
+			"dialog"			: "|C3|在那里，她发现了一个心形钥匙，而棱晶已经不见了。",
+		},
+	],
+	"keep_tetrid" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她将棱晶安全地保存在她的心里。",
+		},
+	],
+	
+	"take_key" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她选择带走钥匙。",
+		},
+	],
+	"leave_key" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她选择将钥匙留下。",
+		},
+	],
+	
+}
