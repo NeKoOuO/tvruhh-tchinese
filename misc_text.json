@@ -1,345 +1,348 @@
 {
 
-	"mode_story"		: "故事模式",
-	"mode_quickplay"	: "快速挑战",
-	"mode_ultra_qp"		: "极限快速挑战",
-	"mode_freeplay"		: "自由模式",
-	"mode_endless"		: "无尽梦魇",
-	"mode_tower"		: "高塔",
+	"mode_story"		: "Story",
+	"mode_quickplay"	: "Quickplay",
+	"mode_ultra_qp"		: "Ultra Quickplay",
+	"mode_freeplay"		: "Freeplay",
+	"mode_endless"		: "Endless Nightmare",
+	"mode_tower"		: "The Towers",
 
-	"mist_rain"			: "雾雨",
-	"light_rain"		: "细雨",
-	"heavy_rain"		: "大雨",
-	"torrent_rain"		: "暴雨",
-	"alter_rain"		: "异相 [VAL1]",
-	"endless_stress"	: "无尽压力",
-	"endless_terror"	: "无尽恐惧",
+	"mist_rain"			: "Mist Rain",
+	"light_rain"		: "Light Rain",
+	"heavy_rain"		: "Heavy Rain",
+	"torrent_rain"		: "Torrent Rain",
+	"alter_rain"		: "Altered [VAL1]",
+	"endless_stress"	: "Endless Stress",
+	"endless_terror"	: "Endless Terror",
 	
-	"Xstat_XATK"		: "攻击速度: [VAL1]",
-	"Xstat_XDMG"		: "攻击伤害: [VAL1]",
-	"Xstat_XDEF"		: "怪物恐惧: [VAL1]",
+	"Xstat_XATK"		: "ATK Speed: [VAL1]",
+	"Xstat_XDMG"		: "ATK Damage: [VAL1]",
+	"Xstat_XDEF"		: "Monster Fear: [VAL1]",
 	
-	"radiant_element"	: "光耀",
-	"void_element"		: "虚空",
-	"burn_element"		: "燃烧",
-	"zap_element"		: "电击",
-	"toxic_element"		: "毒素",
+	"radiant_element"	: "Radiant",
+	"void_element"		: "Void",
+	"burn_element"		: "Burn",
+	"zap_element"		: "Zap",
+	"toxic_element"		: "Toxic",
 
-	"chapter_card"		: "章节 [VAL1]",
-	"special_card"		: "特殊章节",
-	"extra_card"		: "额外章节",
-	"final_card"		: "最终章节",
-	"event_card"		: "事件",
-	"choose_card"		: "选择",
-	"cycle_card"		: "循环 [VAL1]",
-	"stage_card"		: "关卡 [VAL1]",
-	"bounty_card"		: "这个奖励礼物是为你准备的",
+	"chapter_card"		: "Chapter [VAL1]",
+	"special_card"		: "Special Chapter",
+	"extra_card"		: "Extra Chapter",
+	"final_card"		: "Final Chapter",
+	"event_card"		: "Event",
+	"choose_card"		: "Choose",
+	"cycle_card"		: "Cycle [VAL1]",
+	"stage_card"		: "Stage [VAL1]",
+	"bounty_card"		: "This Bounty Gift is for you",
 	
-	"level_tag"			: "等级 [VAL1]",
+	"level_tag"			: "Level [VAL1]",
 	"abbrev_level"		: "Lv [VAL1]",
-	"very_long_time"	: "[VAL1] 分钟",
+	"very_long_time"	: "[VAL1] mins",
 	"abbrev_num_k"		: "[VAL1]K",
 	"abbrev_num_m"		: "[VAL1]M",
 	
-	"green_tet"			: "绿",
-	"red_tet"			: "红",
-	"yellow_tet"		: "黄",
-	"blue_tet"			: "蓝",
-	"orange_tet"		: "橙",
-	"purple_tet"		: "紫",
-	"radiant_tet"		: "光耀",
+	"green_tet"			: "Green",
+	"red_tet"			: "Red",
+	"yellow_tet"		: "Yellow",
+	"blue_tet"			: "Blue",
+	"orange_tet"		: "Orange",
+	"purple_tet"		: "Purple",
+	"radiant_tet"		: "Radiant",
 	
-	"tutorial_charge"  	: " - 蓄力",
-	"tutorial_focus"	: " - 专注",
-	"tutorial_panic"	: " - 恐慌",
+	"tutorial_charge"  	: " - Charge",
+	"tutorial_focus"	: " - Focus",
+	"tutorial_panic"	: " - Panic",
 	
-	"love_power"		: "爱的力量",
+	"love_power"		: "Love Power",
 	
 	"challenge_cards" : {
-		"challenge"		: "挑战",
-		"pass"			: "通过",
-		"failed"		: "失败",
-		"free_pass"		: "不要心碎",
-		"no_hit"		: "不要受到一次伤害",
-		"one_hit"		: "不要受到两次伤害",
-		"two_hit"		: "不要受到三次伤害",
-		"no_panic"		: "不要使用任何恐慌攻击",
-		"absorb_shots"	: "使用恐慌攻击\n吸收[VAL1]子弹",
-		"get_combo"		: "连击超过\n怪物[VAL1]%的生命值",
-		"full_combo"	: "取得100%连击！",
-		"break_part"	: "破坏一个\n含有魔尘的部位",
-		"break_parts"	: "破坏[VAL1]个\n含有魔尘的部位",
-		"copper_score"	: "得分至少为[VAL1]魔尘\n(青铜分数)",
-		"bronze_score"	: "得分至少为[VAL1]魔尘\n(黄铜分数)",
-		"silver_score"	: "得分至少为[VAL1]魔尘\n(白银分数)",
-		"gold_score"	: "得分至少为[VAL1]魔尘\n(黄金分数)",
-		"radiant_score"	: "得分至少为[VAL1]魔尘\n(光耀分数)",
-		"panic_warn"	: "不要恐慌",
+		"challenge"		: "Challenge",
+		"pass"			: "Pass",
+		"failed"		: "Failed",
+		"free_pass"		: "Avoid heartbreak",
+		"no_hit"		: "Do not get hurt once",
+		"one_hit"		: "Do not get hurt twice",
+		"two_hit"		: "Do not get hurt three times",
+		"no_panic"		: "Do not use any Panic Attacks",
+		"absorb_shots"	: "Absorb [VAL1] bullets with panic attacks",
+		"get_combo"		: "Combo over [VAL1]% of the monster fear bar",
+		"full_combo"	: "Earn a 100% full combo!",
+		"break_part"	: "Break 1 part that has motes in it",
+		"break_parts"	: "Break [VAL1] parts that have motes in them",
+		"copper_score"	: "Score at least [VAL1] motes\n(Copper Score)",
+		"bronze_score"	: "Score at least [VAL1] motes\n(Bronze Score)",
+		"silver_score"	: "Score at least [VAL1] motes\n(Silver Score)",
+		"gold_score"	: "Score at least [VAL1] motes\n(Gold Score)",
+		"radiant_score"	: "Score at least [VAL1] motes\n(Radiant Score)",
+		"panic_warn"	: "Don't Panic",
 	},
 	
 	"xstat_cards" : {
-		"power_up"		: "这个怪物有着\n被增强的力量",
-		"power_down"	: "这个怪物有着\n被削弱的力量",
-		"lv_change"		: "Lv [VAL1] > [VAL2]",
-		"xatk"			: "攻击速度\n[VAL1]",
-		"xdmg"			: "攻击伤害\n[VAL1]",
-		"xdef"			: "怪物恐惧\n[VAL1]",
+		"power_up"		: "This monster has increased power",
+		"power_down"	: "This monster has reduced power",
+		"lv_change"		: "Lv [VAL1] → [VAL2]",
+		"xatk"			: "ATK Speed\n[VAL1]",
+		"xdmg"			: "ATK Damage\n[VAL1]",
+		"xdef"			: "Monster Fear\n[VAL1]",
 	},
 	
+	"TT_r_easy"		: "Tiny Tower",
+	"TT_r_hard"		: "Taller Tower",
+	"TT_r_expert"	: "Torrential Tower",
+	"TT_shamble"	: "Shameful Spire",
+	"TT_guardian"	: "Frustration Fortress",
+	"TT_glyph"		: "Symbolic Skyscraper",
+	"TT_zaramech"	: "Anxious Ascent",
+	"TT_glass"		: "Blossoming Belfry",
+	"TT_veyeral"	: "Looming Loneliness",
+
 	
-	
-	"TT_r_easy"		: "小型高塔",
-	"TT_r_hard"		: "更高的塔",
-	"TT_r_expert"	: "暴雨高塔",
-	"TT_shamble"	: "羞愧尖塔",
-	"TT_guardian"	: "沮丧要塞",
-	"TT_glyph"		: "象征高楼",
-	"TT_zaramech"	: "焦虑攀升",
-	"TT_glass"		: "绽放钟楼",
-	"TT_veyeral"	: "迫近孤独",
 	
 
+
 	"music_groups" : {
-		"songs_unlocked"	: "解锁的音乐",
-		"group_all"			: "所有音乐",
-		"group_menu"		: "菜单音乐",
-		"group_scene"		: "场景音乐",
-		"group_common"		: "普通战斗主题",
-		"group_rare"		: "稀有战斗主题",
-		"group_unique"		: "独特战斗主题",
+		"songs_unlocked"	: "Songs Unlocked",
+		"group_all"			: "All Music",
+		"group_menu"		: "Menu Music",
+		"group_scene"		: "Scene Music",
+		"group_common"		: "Common Battle Themes",
+		"group_rare"		: "Rare Battle Themes",
+		"group_unique"		: "Unique Battle Themes",
 	},
 	"SG_title" : {
-		"name"		: "空白旋律",
+		"name"		: "Blank Melody",
 		"desc"		: "Main menu theme",
 	},
 	"SG_scene_a" : {
-		"name"		: "地下脉动",
+		"name"		: "Subterranean Pulse",
 		"desc"		: "Prologue scene music",
 	},
 	"SG_shamble_battle" : {
-		"name"		: "蹒跚悖论",
+		"name"		: "Shambled Paradox",
 		"desc"		: "Shamble monster battle theme",
 	},
 	"SG_guardian_battle" : {
-		"name"		: "她的不屈意志",
+		"name"		: "Her Adamant Will",
 		"desc"		: "Guardian monster battle theme",
 	},
 	"SG_glyph_battle" : {
-		"name"		: "共有排斥",
+		"name"		: "Mutual Exclusion",
 		"desc"		: "Eyeric Glyph monster battle theme",
 	},
 	"SG_zaramech_battle" : {
-		"name"		: "防御机制",
+		"name"		: "Defense Mechanism",
 		"desc"		: "Zaramech monster battle theme",
 	},
 	"SG_glass_battle" : {
-		"name"		: "我的心是透明的",
+		"name"		: "My Heart Is See Through",
 		"desc"		: "Glass Flora monster battle theme",
 	},
 	"SG_veyeral_battle" : {
-		"name"		: "虚空之雨倾泻于你",
+		"name"		: "The Void Rains Down Upon You",
 		"desc"		: "Veyeral monster battle theme",
 	},
 	"SG_nightmare_a" : {
-		"name"		: "遥远观测者",
+		"name"		: "Distant Observer",
 		"desc"		: "Nightmare selection theme\nEarly monsters",
 	},
 	"SG_nightmare_b" : {
-		"name"		: "警告标志",
+		"name"		: "Warning Signs",
 		"desc"		: "Nightmare selection theme\nStronger monsters",
 	},
 	"SG_nightmare_c" : {
-		"name"		: "虚无",
+		"name"		: "Nihility",
 		"desc"		: "Nightmare selection theme\nFinale monsters",
 	},
 	"SG_nightmare_d" : {
-		"name"		: "张开你的翅膀",
+		"name"		: "Spread Your Wings",
 		"desc"		: "Nightmare selection theme\nAscending towers",
 	},
 	"SG_nightmare_e" : {
-		"name"		: "我们走了多远",
+		"name"		: "How Far We've Come",
 		"desc"		: "Nightmare selection theme\nTop of the towers",
 	},
 	"SG_shamble_battle_2" : {
-		"name"		: "密集恐惧症",
+		"name"		: "Trypophobia",
 		"desc"		: "Alternate Shamble monster battle theme",
 	},
 	"SG_guardian_battle_2" : {
-		"name"		: "守护天使",
+		"name"		: "Guardian Angel",
 		"desc"		: "Alternate Guardian monster battle theme",
 	},
 	"SG_glyph_battle_2" : {
-		"name"		: "理论之美",
+		"name"		: "Theoretically Beautiful",
 		"desc"		: "Alternate Eyeric Glyph monster battle theme",
 	},
 	"SG_zaramech_battle_2" : {
-		"name"		: "焦虑屹立",
+		"name"		: "Towering Anxiety",
 		"desc"		: "Alternate Zaramech monster battle theme",
 	},
 	"SG_glass_battle_2" : {
-		"name"		: "染色玻璃的战斗之舞",
+		"name"		: "Stained Glass Battle Dance",
 		"desc"		: "Alternate Glass Flora monster battle theme",
 	},
 	"SG_veyeral_battle_2" : {
-		"name"		: "暗中独行",
+		"name"		: "Alone in the Dark",
 		"desc"		: "Alternate Veyeral monster battle theme",
 	},
 	"SG_game_over" : {
-		"name"		: "意志力",
+		"name"		: "Willpower",
 		"desc"		: "Heartbreak scene music",
 	},
 	"SG_dreaming_scene" : {
-		"name"		: "一个奇怪的地方",
+		"name"		: "A Strange Place",
 		"desc"		: "Dreaming scene music",
 	},
 	"SG_special_battle" : {
-		"name"		: "狂热梦境",
+		"name"		: "Fever Dream",
 		"desc"		: "Special monster battle theme",
 	},
 	"SG_spawn_battle" : {
-		"name"		: "怪物的生日",
+		"name"		: "Monster Birthday",
 		"desc"		: "Newborn monster battle theme",
 	},
 	"SG_creepy_scene" : {
-		"name"		: "不安感",
+		"name"		: "Uneasy Feeling",
 		"desc"		: "Unsettling scene music",
 	},
 	"SG_panic_battle" : {
-		"name"		: "迫近毁灭",
+		"name"		: "Impending Doom",
 		"desc"		: "Panicked battle theme",
 	},
 	"SG_mystery_scene" : {
-		"name"		: "孤独暂息",
+		"name"		: "Lonely Respite",
 		"desc"		: "Curious scene music",
-	},	
+	},
 	"SG_tutorbot_battle" : {
-		"name"		: "焦虑协议",
+		"name"		: "Anxious Protocol",
 		"desc"		: "Unit Lulu's battle theme",
 	},
 	"SG_anomaly_battle" : {
-		"name"		: "遥远距离",
+		"name"		: "Long Distance",
 		"desc"		: "Anomaly's battle theme",
 	},
 	"SG_anomaly_battle_b" : {
-		"name"		: "光年之外",
+		"name"		: "Light Years Apart",
 		"desc"		: "Shiny Anomaly's battle theme",
 	},
 	"SG_garden_battle" : {
-		"name"		: "清醒不谐",
+		"name"		: "Lucid Dissonance",
 		"desc"		: "Nova's battle theme",
 	},
 	"SG_shamble_battle_3" : {
-		"name"		: "分散于时空之中",
+		"name"		: "Scattered Across Time and Space",
 		"desc"		: "Climactic Shamble monster battle theme",
 	},
 	"SG_guardian_battle_3" : {
-		"name"		: "心如刀歌",
+		"name"		: "Rapture My Heart",
 		"desc"		: "Climactic Guardian monster battle theme",
 	},
 	"SG_glyph_battle_3" : {
-		"name"		: "无惧恶言",
+		"name"		: "Sticks and Stones",
 		"desc"		: "Climactic Eyeric Glyph monster battle theme",
 	},
 	"SG_zaramech_battle_3" : {
-		"name"		: "标记删除",
+		"name"		: "Marked For Deletion",
 		"desc"		: "Climactic Zaramech monster battle theme",
 	},
 	"SG_glass_battle_3" : {
-		"name"		: "无坚不摧的星光之花",
+		"name"		: "Unbreakable Starlight Bloom",
 		"desc"		: "Climactic Glass Flora monster battle theme",
 	},
 	"SG_veyeral_battle_3" : {
-		"name"		: "合为空无",
+		"name"		: "Together As None",
 		"desc"		: "Climactic Veyeral monster battle theme",
 	},
 	"SG_shamble_battle_4" : {
-		"name"		: "蹒跚之梦混编",
+		"name"		: "Shambled Dream Medley",
 		"desc"		: "Medley of Shamble monster themes",
 	},
 	"SG_guardian_battle_4" : {
-		"name"		: "守护者之梦混编",
+		"name"		: "Guardian Dream Medley",
 		"desc"		: "Medley of Guardian monster themes",
 	},
 	"SG_glyph_battle_4" : {
-		"name"		: "符号之梦混编",
+		"name"		: "Symbolic Dream Medley",
 		"desc"		: "Medley of Eyeric Glyph monster themes",
 	},
 	"SG_zaramech_battle_4" : {
-		"name"		: "机械之梦混编",
+		"name"		: "Mechanical Dream Medley",
 		"desc"		: "Medley of Zaramech monster themes",
 	},
 	"SG_glass_battle_4" : {
-		"name"		: "易碎之梦混编",
+		"name"		: "Fragile Dream Medley",
 		"desc"		: "Medley of Glass Flora monster themes",
 	},
 	"SG_veyeral_battle_4" : {
-		"name"		: "虚空之梦混编",
+		"name"		: "Void Dream Medley",
 		"desc"		: "Medley of Veyeral monster themes",
 	},
 	"SG_special_battle_b" : {
-		"name"		: "清醒之梦混编",
+		"name"		: "Lucid Dream Medley",
 		"desc"		: "Medley of Special monster themes",
 	},
 	"SG_limbo_battle" : {
-		"name"		: "六点之间的世界",
+		"name"		: "The World Between Six Points",
 		"desc"		: "Limbo's battle medley",
 	},
 	"SG_green_scene" : {
-		"name"		: "跨纬度姐妹",
+		"name"		: "Transdimensional Sibling",
 		"desc"		: "\"Green\" theme",
 	},
 	"SG_red_scene" : {
-		"name"		: "触碰她的灵魂",
+		"name"		: "Touched Her Soul",
 		"desc"		: "\"Red\" theme",
 	},
 	"SG_yellow_scene" : {
-		"name"		: "安乐之所",
+		"name"		: "Happy Place",
 		"desc"		: "\"Yellow\" theme",
 	},
 	"SG_tutorbot_scene" : {
-		"name"		: "心律失常",
+		"name"		: "Arrhythmia",
 		"desc"		: "\"Blue\" theme",
 	},
 	"SG_orange_scene" : {
-		"name"		: "小心轻放",
+		"name"		: "Handle With Care",
 		"desc"		: "\"Orange\" theme",
 	},
 	"SG_purple_scene" : {
-		"name"		: "独自同行",
+		"name"		: "Alone Together",
 		"desc"		: "\"Purple\" theme",
 	},
 	"SG_quiz" : {
-		"name"		: "竞答比赛，但你没穿衣服",
+		"name"		: "Pop Quiz, But You're Naked",
 		"desc"		: "Sentinel's Quiz theme",
 	},
 	"SG_kiwi" : {
-		"name"		: "玻璃与地下城",
+		"name"		: "Dungeon of Glass",
 		"desc"		: "Theme for Kiwi's Dungeon of Demise and Doom",
 	},
 	"SG_defect_scene" : {
-		"name"		: "小小的不完美",
+		"name"		: "Little Imperfection",
 		"desc"		: "Defect's theme",
 	},
 	"SG_void_battle" : {
-		"name"		: "绝对零点",
-		"desc"		: "The Void battle theme",
+		"name"		: "Absolute Zero",
+		"desc"		: "The Void's battle theme",
 	},
 	"SG_totaria_battle1" : {
-		"name"		: "更低于零",
-		"desc"		: "Totaria battle theme A",
+		"name"		: "Less Than Zero",
+		"desc"		: "Totaria's battle theme A",
 	},
 	"SG_totaria_battle2" : {
-		"name"		: "负向物质",
-		"desc"		: "Totaria battle theme B",
+		"name"		: "Negative Matter",
+		"desc"		: "Totaria's battle theme B",
 	},
 	"SG_scene_b" : {
-		"name"		: "一个结局",
+		"name"		: "An End",
 		"desc"		: "Heartfelt scene music",
 	},
 	"SG_blue_veyeral_battle" : {
-		"name"		: "我，我自己，和眼睛",
+		"name"		: "Me, Myself, and Eye",
 		"desc"		: "Blue Veyeral's battle theme",
 	},
+	
+	
 	
 	
 	
@@ -377,138 +380,138 @@
 		"find_spoiler"		: "???\nThis Dreamscape cannot be discovered yet",
 	},
 	"S_clouds_day" : {
-		"name"		: "花瓣之间",
+		"name"		: "Among the Petals",
 		"memory"	: "I can share my dreams with them! Have I always been able to do this?|L||L|It feels like I'm flying! I haven't felt this much joy in a long time.",
 	},
 	"S_clouds_sunset" : {
-		"name"		: "云端之上",
+		"name"		: "Above the Clouds",
 		"memory"	: "The experience is stressful for all of us. Their attacks don't cause me any pain. They just make me sad.|L||L|Do they hate me for doing this? They SAY that they love me, but I feel guilty sometimes.",
 	},
 	"S_clouds_night" : {
-		"name"		: "入我梦中",
+		"name"		: "In My Dreams",
 		"memory"	: "Why do they look like this? In my dreams, some of them look the same, but some of them look very different.|L||L|I wonder what I look like to them...",
 	},
 	"S_ocean_day" : {
-		"name"		: "静寂映像",
+		"name"		: "Calm Reflection",
 		"memory"	: "I heard a tree branch snap. A huge mite fell from above and almost landed on me. It was a Guardian monster!|L|I thought this was the end.|L|She was going to kill me.|L|I was so scared.|L||L|She ran away from me as fast as she could. Was she afraid of me?",
 	},
 	"S_ocean_sunset" : {
-		"name"		: "琉璃之洋",
+		"name"		: "Vitreous Ocean",
 		"memory"	: "The Vitreous Ocean is the body of water that surrounds Retina. This ocean extends out to touch all four of the other continents.|L|Many of the islands found in this ocean are made of vitreous rocks. Some are so clear that they look like holes in the water.",
 	},
 	"S_ocean_night" : {
-		"name"		: "闪耀对称",
+		"name"		: "Radiating Symmetry",
 		"memory"	: "I want her to see the ocean. Describing it to her is not enough. She needs to see it with her own eyes. I can fly her there one day. I will fly her to so many places.|L||L|I... wish it was that simple.",
 	},
 	"S_forest_day" : {
-		"name"		: "家园之上",
+		"name"		: "Above My Home",
 		"memory"	: "I never would have imagined how pretty my home is from above. The forest is so much bigger than I thought. Even as high as she took me, there were trees as far as I could see in every direction!",
 	},
 	"S_forest_sunset" : {
-		"name"		: "鸢尾森林",
+		"name"		: "Iiry Forest",
 		"memory"	: "To the residents of the Towers of Iiry, this forest is known as The Pit.|L||L|It is a beautiful violet forest that covers most of the Iiry continent, but this beauty is tainted by the fact that countless wingless have been left there to die...",
 	},
 	"S_forest_night" : {
-		"name"		: "遥远高塔",
+		"name"		: "Distant Towers",
 		"memory"	: "Never go near the towers! Monsters are bad, but Zaraden are worse! They WILL hurt you!|L||L|Please, promise me you will never go near them.",
 	},
 	"S_cave_day" : {
-		"name"		: "躲藏之处",
+		"name"		: "Hiding Place",
 		"memory"	: "Before I met her, she would just sleep outside at night. She could handle the cold and the rain like they were nothing. She wasn't even afraid of those monsters that were lurking around. I knew they were dangerous, and I didn't want them to find her while she slept. I wanted her to be safe, so I helped her search for a place she could call home.",
 	},
 	"S_cave_sunset" : {
-		"name"		: "鸢尾洞窟",
+		"name"		: "Iiry Caverns",
 		"memory"	: "The Iiry Caverns are a massive system of caves that run all throughout the Iiry Mountains. Several colonies of mites and meerstalks live within these caverns. They may have been dug out by Guardian monsters attempting to reach Guardian Zones deep inside the mountains.",
 	},
 	"S_cave_night" : {
-		"name"		: "特别的地方",
+		"name"		: "A Special Place",
 		"memory"	: "We found a cozy little cave tangled beneath the roots of a massive tree. Inside, there were two glowing flowers that matched the colors of our hair. The entrance was raised, so it wouldn't flood when it rained. She was really happy with it!|L||L|I wish I could just take her with me. She deserves so much better than this!",
 	},
 	"S_woods_day" : {
-		"name"		: "希望林地",
+		"name"		: "Hopeful Woods",
 		"memory"	: "Her skin was pink,|L|Her hair was blue,|L|Her six wonderful wings.|L|My heart was beating so fast.|L|My face was feeling so warm.|L|Why is she all I can think about?",
 	},
 	"S_woods_sunset" : {
-		"name"		: "秋绪微风",
+		"name"		: "Fall Breeze",
 		"memory"	: "She is so mean to herself.|L|She smiles at my compliments.|L|Whenever I ask,|L|She is always okay,|L|But I saw her bloody nails,|L|She is so mean to herself.",
 	},
 	"S_woods_night" : {
-		"name"		: "孤寂",
+		"name"		: "Solitude",
 		"memory"	: "She promised me that I would never be alone again, but... she hasn't been here to see me in a long time.|L||L|I deserve this...",
 	},
 	"S_glow_tunnel" : {
-		"name"		: "瀑布之后",
+		"name"		: "Behind the Waterfall",
 		"memory"	: "Always check behind the waterfall. You never know what you might find back there.",
 	},
 	"S_lava_tunnel" : {
-		"name"		: "过度温暖",
+		"name"		: "Excessive Warmth",
 		"memory"	: "I need warmth.|L|I'm so cold.|L|I need more warmth.|L|I'm still so cold.|L|Give me your warmth.|L|Now we are both cold.|L|It's still not enough|L|Will it ever be enough?",
 	},
 	"S_cold_tunnel" : {
-		"name"		: "麻木核心",
+		"name"		: "Core of the Numb",
 		"memory"	: "I haven't seen Vitrea since the last time I broke one of my petals. I just don't want to be seen. It's so embarrassing.|L||L|It grew back just fine, but she hasn't come looking for me. I know I told her not to. I told her I would find her when I'm ready. But it's been such a long time. Maybe she doesn't want to see me anymore. I wouldn't blame her.",
 	},
 	"S_canvas_day" : {
-		"name"		: "染色高山",
+		"name"		: "Painted Peaks",
 		"memory"	: "I'm starting to forget what daytime is supposed to look like. I'll have to keep painting it so I won't lose what little memories I have left.|L||L|Wait! There weren't any stars, right? Well, there was one big one. I can still see a bright spot through the clouds sometimes.",
 	},
 	"S_canvas_sunset" : {
-		"name"		: "日落海景",
+		"name"		: "Sunset Seascape",
 		"memory"	: "There is supposed to be so much water that you can't even see any land on the other side. It must be so beautiful. I wish I could fly over it.|L||L|I'm so tired. I'll just rest here for a little while. I'll imagine what the ocean looks like again.",
 	},
 	"S_canvas_night" : {
-		"name"		: "午夜壁画",
+		"name"		: "Midnight Mural",
 		"memory"	: "I told her not to go. It's too dangerous to fly through the clouds. It's so dark, especially at night. And what if there was lightning?|L||L|She just made that face at me and took off into the sky. She just had to make sure the stars were still up there on the other side.",
 	},
 	
 	"S_darkness" : {
-		"name"		: "黑暗",
+		"name"		: "The Darkness",
 		"memory"	: "Blue told me that Veyerals don't dream. Well, she says they might, but everything is dark and they can't see anything.|L||L|I can only see red when I'm awake, but my dreams have all the colors now! I never knew how beautiful blue was.",
 	},
 	"S_super_space" : {
-		"name"		: "极度遥远",
+		"name"		: "So Far Away",
 		"memory"	: "I want to take it back.|L|I left her all alone.|L|I want to see her again,|L|But, she's so far away.",
 	},
 	"S_monster_home" : {
-		"name"		: "怪物的家",
+		"name"		: "Monster's Home",
 		"memory"	: "I know those monsters are just as lonely and scared as I am. I don't want us to be lonely anymore. I don't want us to feel afraid anymore. We can be friends.|L||L|I'll start with that cute little robot I saw. There's something different about her.",
 	},
 	"S_music_void" : {
-		"name"		: "愿此处获得声音",
+		"name"		: "Let There Be Sound",
 		"memory"	: "That pale girl has been living down here for so long. She's almost 50 years old! How hardcore do you have to be to live here for that long? Ever since she was just a kid? She is clearly made of something else.|L||L|I've got another idea for a song.",
 	},
 	"S_canvas_special" : {
-		"name"		: "诅咒画布",
+		"name"		: "Cursed Canvas",
 		"memory"	: "A long time ago, I found an image painted on the side of a rock. It was kinda Zaraden shaped. Whoever painted it left a single bowl of paint on the ground. I took some with my fingers and smeared a heart shape near it.|L||L|The next day, I went back to find that someone had painted so many lovely hearts all over the rock. They left so many colors of paint this time.|L|It was my turn again.",
 	},
 	
 	"S_true_panic" : {
-		"name"		: "真正恐慌",
+		"name"		: "True Panic",
 		"memory"	: "Take a deep breath|L|Exhale slowly|L|Inhale slowly|L|Exhale slowly|L|Nothing is actually happening to you. You will be okay.",
 	},
 	"S_wonderful_gift" : {
-		"name"		: "来自彼方的礼物",
+		"name"		: "Gift From Beyond",
 		"memory"	: "I know you are there.|L|I see so many of you helping every instance of these Zaraden. Is it because you don't have wings either?|L|I want to help them too. They are so sweet and deserve so much.|L|You are sweet too. I hope you love yourself the same way.",
 	},
 	"S_garden_blessing" : {
-		"name"		: "花园的祝福",
+		"name"		: "The Garden's Blessing",
 		"memory"	: "These flowers can absorb motes of all colors and turn them radiant, but they aren't very efficient.|L|Agh! I have to figure out a better way to do this!|L||L|They want to go with the other plan. I don't like the idea of creating a monster. We shouldn't be doing this.",
 	},
 	"S_golden_void" : {
-		"name"		: "怪物的心",
+		"name"		: "The Heart of a Monster",
 		"memory"	: "It's not often I get to observe a monster taking on a Zaranoid form. I've seen it with Shambles who seem to be able to take many shapes. I've seen Glyphs that project out a body almost like a hologram, but they appear to be solid. I suspect the Glass Flora all have a form like this, but I've only caught glimpses of them.|L||L|They all have one thing in common, a scar on their chest.",
 	},
 	"S_nowhere" : {
-		"name"		: "无处",
+		"name"		: "Nowhere",
 		"memory"	: "I've been left here all alone for nearly my whole life.|L|Why go on at all.|L|What am I living for?|L||shake|Why do you go on?|L|Just give up!|L|HahAhaAHahaHha",
 	},
 	
 	"S_alter_nowhere" : {
-		"name"		: "异相无处",
+		"name"		: "Altered Nowhere",
 		"memory"	: "No! I don't want to die.|L|I'm so scared.|L|Why does she want to kill us?|L||shake|Why? Why? Why? WHY?!",
 	},
 	"S_alter_iteria" : {
-		"name"		: "异相Iteria",
+		"name"		: "Altered Iteria",
 		"memory"	: "I'll take them down myself!|L|I'll burn them all down!|L||shake|Look what they did to me!|norm||L||L|They want a devil?|L|I'll show them a devil!",
 	},
 	"S_alter_pit" : {
@@ -516,60 +519,59 @@
 		"memory"	: "",
 	},
 	"S_alter_dream" : {
-		"name"		: "异相梦境",
+		"name"		: "Altered Dream",
 		"memory"	: "After so much work, I've done it! I can talk to the creature from my dreams! We still can't understand each other, and I still can't make out her real shape, but this is a huge step. I know she can hear me. She reacted to the words I said... or rather, thought out loud.",
 	},
 	"S_alter_towers" : {
-		"name"		: "异相高塔",
+		"name"		: "Altered Towers",
 		"memory"	: "I'll climb up there if I have to. I'll go up there and find her myself!|L||L|Why would she do this to me?|L||shake|HahAhaAHahaHha|L|Why? Why? Why? WHY?!",
 	},
 	"S_alter_sentaria" : {
-		"name"		: "异相Sentaria",
+		"name"		: "Altered Sentaria",
 		"memory"	: "She told me a story about a wingless Zaraden that used to live up in a lone tower. They let her live there because she was a brilliant scientist. She even made herself some fake wings that let her fly!|L||L|She just disappeared one day...|L|No one could find her.|L|I wish I could have met her.",
 	},
 	
 	
 	
-
-	
-	
 	
 	
 	"C_her_heart" : {
-		"name"		: "她的心",
-		"desc"		: "一位扎拉登女孩的心",
+		"name"		: "Her Heart",
+		"desc"		: "The heart of a young Zaraden woman",
 	},
 	"C_defect" : {
-		"name"		: "缺陷",
-		"desc"		: "这颗心看起来不太对",
-		"unlock"	: "在故事模式中\n承受5次心碎",
+		"name"		: "Defect",
+		"desc"		: "This heart doesn't seem quite right",
+		"unlock"	: "Suffer 5 heartbreaks in Story Mode",
 	},
 	"C_twin_heart" : {
-		"name"		: "双子之心",
-		"desc"		: "两位扎拉登姐妹的心",
-		"unlock"	: "在快速挑战中\n达到等级15",
+		"name"		: "Twin Heart",
+		"desc"		: "The hearts of two Zaraden siblings",
+		"unlock"	: "Reach rank 15 in Quickplay Mode",
 	},
 	"C_the_devil" : {
-		"name"		: "恶魔",
-		"desc"		: "这颗心看起来\n渴望战斗",
-		"unlock"	: "总共收集400棱晶",
+		"name"		: "The Devil",
+		"desc"		: "This heart seems eager to fight",
+		"unlock"	: "Collect 400 total tetrids",
 	},
 	"C_alter_heart" : {
-		"name"		: "异相之心",
-		"desc"		: "健忘的艺术家的心",
+		"name"		: "Alter Heart",
+		"desc"		: "The heart of a forgetful artist",
 	},
 	"C_alter_defect" : {
-		"name"		: "异相缺陷",
-		"desc"		: "这颗心\n被一个维目尔占据",
+		"name"		: "Alter Defect",
+		"desc"		: "This heart is possessed by a Veyeral",
 	},
 	"C_alter_twin" : {
-		"name"		: "异相双子",
-		"desc"		: "这颗心如繁星般闪耀",
+		"name"		: "Alter Twin",
+		"desc"		: "This heart beams like a star",
 	},
 	"C_alter_devil" : {
-		"name"		: "异相恶魔",
-		"desc"		: "一位受谴责的\n扎拉登的心",
+		"name"		: "Alter Devil",
+		"desc"		: "The heart of a condemned Zaraden",
 	},
+	
+	
 	
 	
 	
@@ -801,7 +803,8 @@
 		"B_violet"				: "Soul of Perseverance",
 		"B_limbo"				: "Wheel of Fortune",
 	},
-
+	
+	
 	
 	"dialog_error_catch" 	: [
 		{
