@@ -3,18 +3,18 @@
 	"encounter_rules"	: "遭遇规则",
 	"records_title"		: "事件记录",
 	
-	"unlock_explain"	: "这个事件无法被遭遇直至特定的梦境被实现",
-	"reveal_explain"	: "至少遭遇一次本事件以在这里显示它",
-	"radiate_explain"	: "点亮这个事件以显示更多信息以及如何遭遇它的细节",
+	"unlock_explain"	: "这个事件无法被遭遇\n直至特定的梦境被实现",
+	"reveal_explain"	: "至少遭遇一次本事件\n以在这里显示它",
+	"radiate_explain"	: "点亮这个事件以显示更多信息\n以及如何遭遇它的细节",
 	
 	"common_hints" : {
 		"[hint_common]"			: "这个事件可以在任意章节后发生",
-		"[hint_monster]"		: "在单局故事模式中向[VAL1]展示爱",
-		"[hint_monster_multi]"	: "在单局故事模式中向[VAL1]的任意形态展示爱",
-		"[hint_chance]"			: "在单局故事模式中向[VAL1]展示爱后，这个事件有概率发生",
-		"[hint_chance_multi]"	: "在单局故事模式中向[VAL1]的任意形态展示爱后，这个事件有概率发生",
+		"[hint_monster]"		: "在单局故事模式中\n向[VAL1]展示爱",
+		"[hint_monster_multi]"	: "在单局故事模式中\n向[VAL1]的任意形态展示爱",
+		"[hint_chance]"			: "在单局故事模式中\n向[VAL1]展示爱后，\n这个事件有概率发生",
+		"[hint_chance_multi]"	: "在单局故事模式中\n向[VAL1]的任意形态展示爱后，\n这个事件有概率发生",
 		"[hint_tower]"			: "在高塔中找到这个事件",
-		"[hint_tower_monster]"	: "在单局高塔中向[VAL1]展示爱",
+		"[hint_tower_monster]"	: "在单局高塔中\n向[VAL1]展示爱",
 	},
 
 	"common_rules" : {
