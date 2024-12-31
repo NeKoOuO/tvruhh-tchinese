@@ -5,7 +5,7 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "我们...  配不上——|L||!|我们试着烧伤你...",
+			"dialog"			: "我们...  配不上--|L||!|我们试着烧伤你...",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious"],

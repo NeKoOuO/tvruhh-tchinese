@@ -30,7 +30,7 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "有星星，云和月亮，还有——",
+			"dialog"			: "有星星，云和月亮，还有--",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],

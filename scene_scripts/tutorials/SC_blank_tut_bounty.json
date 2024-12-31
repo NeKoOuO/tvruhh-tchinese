@@ -9,7 +9,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "礼物现在都有稀有的了吗？",
+			"dialog"			: "现在有稀有礼物？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -70,7 +70,7 @@
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "我已经在承受她们的负担了。|L|再承受一个也无妨？",
+			"dialog"			: "我已经在承受她们的负担。|L|再多一个也无妨？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],

@@ -25,7 +25,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "你—你在说什么？",
+			"dialog"			: "你-你在说什么？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
@@ -45,7 +45,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_sad2"],
-			"dialog"			: "你短时间内不会再看到我们了，但是——",
+			"dialog"			: "你短时间内不会再看到我们了，但是--",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_content"],

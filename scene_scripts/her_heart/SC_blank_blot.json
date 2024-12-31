@@ -34,7 +34,7 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
-			"dialog"			: "我们——",
+			"dialog"			: "我们--",
 		},
 		{
 			"love_hearts"		: 1,
@@ -92,11 +92,11 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
-			"dialog"			: "只是...|!||L|你一直叫我小可爱然后——",
+			"dialog"			: "只是...|!||L|你一直叫我小可爱然后--",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
-			"dialog"			: "哦！|!||L|我们很对不起，小——|!||L|哎呀。",
+			"dialog"			: "哦！|!||L|我们很对不起，小--|!||L|哎呀。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
@@ -104,7 +104,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "不是，只是——",
+			"dialog"			: "不是，只是--",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
@@ -157,7 +157,7 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "我们很高兴为你展示——",
+			"dialog"			: "我们很高兴为你展示--",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],

@@ -59,7 +59,7 @@
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry2"],
-			"dialog"		: "嘿，小机器人——",
+			"dialog"		: "嘿，小机器人--",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],

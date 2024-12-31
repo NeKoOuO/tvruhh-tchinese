@@ -324,6 +324,7 @@
 	
 	"MENU_collection" : {
 		"group_monsters"	: "怪物",
+		"group_gifts"		: "礼物",
 		"group_items"		: "力量礼物",
 		"group_bonus"		: "额外礼物",
 		"group_quick"		: "快速礼物",
@@ -334,6 +335,7 @@
 		"group_bg"			: "梦域",
 		"group_events"		: "事件",
 		"found_monsters"	: "爱过的怪物",
+		"found_gifts"		: "收下的所有礼物",
 		"found_items"		: "收下的力量礼物",
 		"found_bonus"		: "收下的额外礼物",
 		"found_quick"		: "收下的快速礼物",
@@ -344,6 +346,7 @@
 		"found_bg"			: "发现的梦域",
 		"found_events"		: "发现的事件",
 		"rad_monsters"		: "点亮的怪物",
+		"rad_gifts"			: "点亮的所有礼物",
 		"rad_items"			: "点亮的力量礼物",
 		"rad_bonus"			: "点亮的额外礼物",
 		"rad_quick"			: "点亮的快速礼物",

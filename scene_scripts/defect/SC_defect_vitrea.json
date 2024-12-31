@@ -77,7 +77,7 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "那是——",
+			"dialog"			: "那是--",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],

@@ -77,7 +77,7 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "|shake|你—|norm|你收到我们梦里的信息了吗？",
+			"dialog"			: "|shake|你-|norm|你收到我们梦里的信息了吗？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],

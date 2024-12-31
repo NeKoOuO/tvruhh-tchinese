@@ -5,7 +5,7 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_scene_raining_outside",
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "本单元现在将为你准备问题。|L||!|这可能需要的时间尚未确定。",
+			"dialog"			: "本单元现在将为你准备问题。|L||!|准备问题需要的时间暂不确定。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],

@@ -17,12 +17,12 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "如果|C3|羞涩怪物|C0|没有在战斗开始时出现，那么你需要先向她的小怪展示爱从而引诱她现身。",
+			"dialog"		: "如果|C3|羞涩怪物|C0|没有在战斗开始时出现，那么你需要先向她的小型怪物展示爱从而引诱她现身。",
 		},
 		{
 			"show_tutorial"	: "combo_bar6",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "羞涩怪物会一直维持|C3|爱之连击|C0|并将其变为绿色的。",
+			"dialog"		: "羞涩怪物会一直维持|C3|爱之连击|C0|并将其变为绿色。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -31,20 +31,20 @@
 		{
 			"show_tutorial"	: "combo_bar7",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "相对应的，仅当|C3|带有魔尘的小怪|C0|离开战斗区域时，绿色连击才会结束。",
+			"dialog"		: "相对应的，仅当|C3|带有魔尘的小型怪物|C0|离开战斗区域时，绿色连击才会结束。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "羞涩怪物的小怪在攻击时经常会尝试|C3|离开战斗区域|C0|。",
+			"dialog"		: "羞涩怪物的小型怪物在攻击时经常会尝试|C3|离开战斗区域|C0|。",
 		},
 		{
 			"show_tutorial"	: "combo_bar8",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "为了达成|C3|全连击|C0|，你必须阻止所有小怪逃离。",
+			"dialog"		: "为了达成|C3|全连击|C0|，你必须阻止所有小型怪物逃离。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|建议:|C0|别让任何一只小怪逃离。",
+			"dialog"		: "|C3|建议:|C0|别让任何一只小型怪物逃离。",
 		},
 		{
 			"show_tutorial"	: "none",

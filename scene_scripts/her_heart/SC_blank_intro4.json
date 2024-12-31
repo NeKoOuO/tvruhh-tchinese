@@ -134,7 +134,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "但我记不得—",
+			"dialog"			: "但我记不得-",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -182,7 +182,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "小机器人—",
+			"dialog"			: "小机器人-",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],

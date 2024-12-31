@@ -25,7 +25,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "哦...我——",
+			"dialog"			: "哦...我--",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],

@@ -69,7 +69,7 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "使用我自己设计的特殊|C3|透镜信物——|C0|",
+			"dialog"			: "使用我自己设计的特殊|C3|透镜信物--|C0|",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
@@ -77,7 +77,7 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "——那些星星的光其实来源于百万年前——",
+			"dialog"			: "--那些星星的光其实来源于百万年前--",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
@@ -85,7 +85,7 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "——然后那些光能够聚焦在我特别的望远镜上——",
+			"dialog"			: "--然后那些光能够聚焦在我特别的望远镜上--",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_angry"],
@@ -125,7 +125,7 @@
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
-			"dialog"			: "哦，你没必要——",
+			"dialog"			: "哦，你没必要--",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_upset"],
@@ -153,7 +153,7 @@
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
-			"dialog"			: "还有——",
+			"dialog"			: "还有--",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],

@@ -88,7 +88,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "你好，年幼的扎拉登。|L||!|本单元的程序能够—",
+			"dialog"			: "你好，年幼的扎拉登。|L||!|本单元的程序能够-",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
@@ -200,7 +200,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元在寒冷环境下能够以最佳效率—",
+			"dialog"			: "本单元在寒冷环境下能够以最佳效率-",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
