@@ -68,7 +68,7 @@
 	"to_find_garden"	: "这个怪物会回应光耀花园的呼唤",
 	"to_find_event"		: "这个怪物仅会在特定事件中出现",
 	"to_find_heart"		: "这个怪物仅会在超过4个怪物选项中，\n或者在光耀花园里出现。",
-	"to_find_limbo"		: "在花园中出现，如果在此之前爱过任何陨落之心，\n或者在异相无度中超过4个怪物选项时出现",
+	"to_find_limbo"		: "如果之前爱过任何陨落之心，则会在花园中出现，\n或者在异相无度中超过4个怪物选项时出现",
 	"find_hint_range"	: "\n(等级[VAL1]-[VAL2])",
 
 	"monster_groups" : {
@@ -108,8 +108,8 @@
 		"eyeric"  : "|vai||ral||-||ze||soh||nah| (Veyeral Zeesona)",
 		"before"  : "这里没有温暖",
 		"after"   : "我感觉好温暖",
-		"notes"   : "Veyerals are usually very cold, but I think this one is just excited to share the warmth she has found.",
-		"tips"    : "Most bullet attacks from monsters deal |C3|4 damage|C0| of the bullet's element. However, |C12||I12|Void blood bullets|C0| are special bullets that deal |C12|5 |I12|Void damage.|C0| If you must get hit, make sure it's not by blood.",
+		"notes"   : "维目尔通常非常寒冷，但我认为这只维目尔只是太兴奋了，想要分享她找寻到的温暖。",
+		"tips"    : "大部分怪物的子弹攻击能够造成对应元素的|C3|4点伤害。|C0|但是，|C12||I12|虚空血液子弹|C0|很特别，能够造成|C12|5点|I12|虚空伤害。|C0|如果你必须受到伤害，请确保不是来自血液的伤害。",
 	},
 	
 	"B_roundsaw" : {
@@ -117,8 +117,8 @@
 		"eyeric"  : "|la||hai||kah| (Lahaika)",
 		"before"  : "锯掉它们！马上锯掉它们！",
 		"after"   : "我试过伤害你。对不起。",
-		"notes"   : "A severe lack of affection has caused her to explode into fits of rage. Unfortunately, any attempts to administer hugs end badly for the hugger.",
-		"tips"    : "Break her saw and armor segments to expose more weak spots. That's when you strike with maximum love!",
+		"notes"   : "对爱的极度缺乏使得她突发怒火。不幸的是，任何拥抱的尝试都为拥抱者带来了糟糕的结果。",
+		"tips"    : "将她的锯子与护甲破坏能够暴露弱点，届时你就能用最大爱意进行输出！",
 	},
 	
 	"B_syncron" : {
@@ -126,8 +126,8 @@
 		"eyeric"  : "|n4||kah||nah| (Sikana)",
 		"before"  : "每个比特都在对应的位置",
 		"after"   : "已安装爱的软件",
-		"notes"   : "These machines do everything together. They were not even programmed to behave this way, but they just love being together.",
-		"tips"    : "(+) bullets deal |C11| 4 |I11|Radiant damage.|C0||L|(-) bullets deal |C12| 4 |I12|Void damage.|C0||L|They can't seem to make up their minds.",
+		"notes"   : "这些机器做任何事都会在一起。她们甚至并非因程序驱动而如此，只是喜欢在一起的感觉。",
+		"tips"    : "(+)子弹造成|C11|4点|I11|光耀伤害。|C0||L|(-子弹造成|C12|4点|I12|虚空伤害。|C0||L|她们似乎有点拿不定主意。",
 	},
 	
 	"B_glacia" : {
@@ -135,8 +135,8 @@
 		"eyeric"  : "|ki||hai||nah| (Kihaina)",
 		"before"  : "我害怕打碎它",
 		"after"   : "我的美丽是因为映射了你",
-		"notes"   : "She does not like to bloom because she does not believe her petals are beautiful. It must be because she is so fragile when fully bloomed.",
-		"tips"    : "Her glass seeds come in a variety of colors, but they all deal the same |C11| 4 |I11|Radiant damage.|C0| They just look pretty I guess.",
+		"notes"   : "她不喜欢绽放，因为她不相信自己的花瓣非常美丽。这一定是因为她在完全绽放时非常脆弱。",
+		"tips"    : "她的玻璃之种有着不同的颜色，但它们总是会造成同样的|C11|4点|I11|光耀伤害。|C0|大概只是因为看起来很漂亮吧。",
 	},
 	
 	"B_split_veyeral" : {
@@ -144,8 +144,8 @@
 		"eyeric"  : "|vai||ral||-||ai||dis| (Veyeral Aidis)",
 		"before"  : "这里没有其他人",
 		"after"   : "我们感到如此被爱",
-		"notes"   : "Veyerals are so lonely even when clumped together. Maybe they just want to provide company to those that feel the loneliest.",
-		"tips"    : "Unlike most other battles, motes will be extracted from all the parts remaining when this monster is defeated. Split them up as much as possible to maximize the motes extracted when the battle ends.",
+		"notes"   : "即使成群结队，维目尔们也很孤独。或许她们只是想为那些感到最孤独的维目尔提供陪伴。",
+		"tips"    : "与其他战斗不同的是，当这只怪物被击败时，剩余的所有部件都能够提取魔尘。当战斗结束时使她们尽可能分裂能够最大化魔尘提取。",
 	},
 	
 	"B_blot" : {
@@ -153,8 +153,8 @@
 		"eyeric"  : "|zhe||den| (Zheden)",
 		"before"  : "一切都必须有颜色！",
 		"after"   : "我们喜欢我们新的色彩！",
-		"notes"   : "She loves all the colors of the world, but she's ashamed of her own paleness. I believe she will show her true colors one day.",
-		"tips"    : "She will drastically raise her defenses when she becomes colorful. Her paint turrets will expel a portion of fear when they are popped. Go for these when she becomes defensive!",
+		"notes"   : "她爱着世界上所有的颜色，但却因自己的苍白而感到羞愧。我相信她有一天能够显露出自己真正的色彩。",
+		"tips"    : "当她变得多彩时会大幅提升自己的防御。她的颜料炮塔在破裂时能够清除一部分的恐惧。当她开始防御时转为攻击她的颜料球吧！",
 	},
 	
 	"B_voltage_veyeral" : {
@@ -162,8 +162,8 @@
 		"eyeric"  : "|vai||ral||-||mo||yo| (Veyeral Moyo)",
 		"before"  : "这里没有光",
 		"after"   : "我又能再次看见",
-		"notes"   : "Veyerals are so dark that they don't reflect any light. Even still, I know this one dreams of shining brightly.",
-		"tips"    : "Stay slightly above her main body so that her voltage orbs spin right into your shots. They expel a portion of fear when they are popped, and they drop motes, so try to get as many as you can.",
+		"notes"   : "维目尔非常黑暗，无法反射任何光芒。即使如此，我知道这一只梦想着明亮闪耀。",
+		"tips"    : "略微保持在她主体上方能够使她的高压球体直接转到你子弹的方向。它们破裂时会清除一部分恐惧，并且它们还会掉落魔尘，所以要尽可能打破更多。",
 	},
 	
 	"B_the_void" : {
@@ -172,8 +172,8 @@
 		"title"   : "绝对之零",
 		"before"  : "无...",
 		"after"   : "...万物",
-		"notes"   : "It is so cold and so lonely here...",
-		"tips"    : "That entire wall is part of her...",
+		"notes"   : "这里如此寒冷与孤独...",
+		"tips"    : "整面墙都是她的一部分...",
 		"to_find" : "to_find_final",
 	},
 	
@@ -182,8 +182,8 @@
 		"eyeric"  : "|foh||dis||soh| (Fodisoh)",
 		"before"  : "欢迎来到子弹地狱",
 		"after"   : "这温暖超越火焰！",
-		"notes"   : "She looks just like the symbol |soh| (Soh). The symbol that we use to describe fire, passion, and warmth. She wants to share her warmth with the world, but she tends to get excited and shares too much.",
-		"tips"    : "Burst the smaller glyphs quickly or she will absorb them and boost her defense. If that happens, her wings are still vulnerable!",
+		"notes"   : "她看起来就像符号|soh| (Soh)。我们使用这个符号来描述火焰，热情，和温暖。她想要和世界分享她的温暖，但她经常过于激动，分享太多。",
+		"tips"    : "快速打破小型符文，否则她会吸收它们并提升自己的防御。如果发生了这种事情，她的翅膀仍然很脆弱！",
 	},
 	
 	"B_scrambla" : {
@@ -191,8 +191,8 @@
 		"eyeric"  : "|lin||shi||la| (Linshila)",
 		"before"  : "别看我们！",
 		"after"   : "我们喜欢则个拥抱！",
-		"notes"   : "Simply looking at her is enough to turn most Zaraden away, but when I see her stumbling after them, I know that all she wants is a hug.",
-		"tips"    : "Keeping her pinned to a corner is the easiest way to go, but if you want to extract all the motes you will need to juggle between her and her spawn.",
+		"notes"   : "只是看着她就足以把大多数扎拉登吓跑，但当我看到她蹒跚追着她们时，我知道她想要的只是一个拥抱。",
+		"tips"    : "将她压制在角落是最简单的方法，但如果你想要提取所有魔尘，你会需要在她和她的衍生物之间游走。",
 	},
 	
 	"B_boiler" : {
@@ -200,8 +200,8 @@
 		"eyeric"  : "|foh||shi||fa| (Foshifa)",
 		"before"  : "我们会烧掉你！",
 		"after"   : "即使这样你也会爱我们？",
-		"notes"   : "Longing for affection is hard enough on most 晃晃. This one must also live with burning those that she loves.",
-		"tips"    : "She will charge after you when her fear bar drops below 25%",
+		"notes"   : "爱的渴望对绝大多数晃晃而言都非常艰难。这一只也同样如此--她会烧伤那些她爱着的人。",
+		"tips"    : "当她的恐惧值下降到25%以下时，她会冲向你。",
 	},
 	
 	"B_sentinel_4x" : {
@@ -209,8 +209,8 @@
 		"eyeric"  : "|sen||kah||ze||-||n4||dis| (Senkahze Seedis)",
 		"before"  : "你不能通过",
 		"after"   : "密码已接受：我爱你",
-		"notes"   : "This machine will not let anyone pass unless they tell her that they love her. The problem is she never believes it.",
-		"tips"    : "You can disable her hand cannons by breaking them. She usually hides them behind her front legs so take those out first!",
+		"notes"   : "这台机器不会让任何人通过，除非对她说自己爱她。问题在于，她永远不会相信。",
+		"tips"    : "你可以破坏她的手炮来让它们失灵。她会把它们藏在前腿后面，所以先破坏它吧！",
 	},
 	
 	"B_sandrome" : {
@@ -218,17 +218,17 @@
 		"eyeric"  : "|teh||dra||mo| (Tehdramo)",
 		"before"  : "扎！扎！",
 		"after"   : "现在只有友好的戳戳了",
-		"notes"   : "She shows her affection by wrapping herself around you, but she tends to get a little carried away. Those spikes can really poke.",
-		"tips"    : "Break off those red thorns to reveal her weak spots. Segments without any red thorns will also shoot out less |C13||I13|Burn bullets.|C0|",
+		"notes"   : "她会通过缠绕在你身边的形式来向你表示爱意，但有时会有点过激。那些尖刺扎起来真的很疼。",
+		"tips"    : "破坏红色的荆棘能够显露她的弱点。没有红色荆棘的节段发射的|C13||I13|燃烧子弹|C0|也会更少。",
 	},
 	
 	"B_vitrea" : {
 		"name"    : "琉璃",
 		"eyeric"  : "|ki||ze||ah| (Kizea)",
 		"before"  : "别跟我说让我冷静下来！",
-		"after"   : "你让我冷静下来",
-		"notes"   : "This flower is very easy to excite. She wants to tell everyone about so many things, but she is afraid they will just tell her to stay quiet.",
-		"tips"    : "She moves very fast. If you want to keep your combo, stay near the center as she oscillates up and down.",
+		"after"   : "你能够让我冷静下来",
+		"notes"   : "这朵花非常容易兴奋。她想要告诉大家许多事情，但她害怕其他人会让她闭嘴。",
+		"tips"    : "她移动的非常快。如果你想要保持连击，在她上下移动时保持在中央附近。",
 	},
 	
 	"B_ombroah" : {
@@ -236,8 +236,8 @@
 		"eyeric"  : "|oh||dis||ah| (Odisah)",
 		"before"  : "大雨无穷无尽",
 		"after"   : "我们一起避雨时很舒服",
-		"notes"   : "She looks just like the symbol |ah| (Ah). The symbol that we use to describe water, rain, and darkness. It constantly rains wherever she goes. She would like nothing more than to cuddle next to somebody under an umbrella.",
-		"tips"    : "At first, her rain will be |C11||I11|Radiant,|C0| but then it becomes |C12||I12|Void|C0| rain during her second phase.",
+		"notes"   : "她看起来就像符号|ah| (Ah)。我们使用这个符号来描述水，雨，以及黑暗。无论她走到哪里都会下雨。她最想要的事情是和某人在雨伞下依偎。",
+		"tips"    : "一开始，她的雨水会是|C11||I11|光耀属性，|C0|但在她的第二阶段会变成|C12||I12|虚空|C0|雨水。",
 	},
 	
 	"B_monovai" : {
@@ -245,8 +245,8 @@
 		"eyeric"  : "|mai||dis||vai| (Maidisvai)",
 		"before"  : "你独自一人",
 		"after"   : "我不再孤独",
-		"notes"   : "She looks just like the symbol |vai| (Vai). The symbol that we use to describe empty space, vacant, and loneliness. She usually likes to be alone, but there are times when she needs someone else to be there. She is terrified that no one will be there at those times.",
-		"tips"    : "Burst the small glyphs quickly. You do not want her to absorb these! The top glyph will create |C12||I12|Void blood rain|C0| that deals more damage than regular |C12||I12|Void rain|C0|, so try to break it last.",
+		"notes"   : "她看起来就像符号|vai| (Vai)。 我们使用这个符号描述空旷，空无，以及孤独。她通常喜欢独自一人，但也有时候她会需要其他人在身边。当那些时候她身边没有人的话，她会吓坏的。",
+		"tips"    : "快速破坏那些小型符文。你不会想让她吸收那些的！上方的符文会产生|C12||I12|虚空血雨|C0|，会比正常的|C12||I12|虚空雨|C0|造成更多伤害，请试着最后再破坏它。",
 	},
 	
 	"B_prisma" : {
@@ -254,8 +254,8 @@
 		"eyeric"  : "|sen||n4| (Sensi)",
 		"before"  : "启动防御模式",
 		"after"   : "恐惧被爱之软件覆盖",
-		"notes"   : "It is almost impossible to get this machine to come out of her shell. She will only open up when she feels safe, but that does not happen very often.",
-		"tips"    : "Watch out for those extra large |C14||I14|Zap Orbs.|C0| Normal bullets only deal |C3|4 damage|C0| of their element, but larger bullets deal |C3|6 damage|C0| of their element!",
+		"notes"   : "几乎不可能让这个机器从她的外壳里出来。她只有在感到安心时才会打开，但这不会经常发生。",
+		"tips"    : "小心那些非常大的|C14||I14|电击球体。|C0|正常的子弹只会造成对应元素的|C3|4点伤害，|C0|但是更大的子弹会造成对应元素的|C3|6点伤害！|C0|",
 	},
 	
 	"B_amalga" : {
@@ -263,8 +263,8 @@
 		"eyeric"  : "|shi||mis||fra| (Shimisfra)",
 		"before"  : "你无法躲避我们！",
 		"after"   : "我们会保护彼此",
-		"notes"   : "This creature pulls rocks from another dimension onto her body just to hide from others. I don't understand why someone so adorable would want to hide like this.",
-		"tips"    : "You can always predict the behaviors of certain bullets by their shape. |C3|Sharp diamond bullets|C0| will always bounce off the edges of the arena!",
+		"notes"   : "这个生物会将其他宇宙的石头拉到自己身上，只为了躲避其他人。我不明白为什么这么可爱的人会想要这样躲藏自己。",
+		"tips"    : "你总是可以通过特定子弹的形状来预判它们的行为。|C3|尖利棱形子弹|C0|总会在场地边缘反弹！",
 	},
 	
 	"B_molten_veyeral" : {
@@ -272,8 +272,8 @@
 		"eyeric"  : "|vai||ral||-||ah||lin||lin| (Veyeral Alinlin)",
 		"before"  : "我会带走你的温暖",
 		"after"   : "我不是故意想烧伤你的",
-		"notes"   : "Whenever a Veyeral finds a source of warmth, they never want to let it go. It is very easy for them to overdo it and end up like this.",
-		"tips"    : "|C13||I13|Molten bullets|C0| are much hotter than regular |C13||I13|Burn bullets.|C0| They also deal |C13| 5 |I13|Burn damage!|C0|",
+		"notes"   : "每当维目尔找到热源，她们就不会想要放手了。她们会很容易做过头，变成现在这样。",
+		"tips"    : "|C13||I13|熔融子弹|C0|比正常的|C13||I13|燃烧子弹|C0|要热的多。它们能够造成|C13|5点|I13|燃烧伤害！|C0|",
 	},
 	
 	"B_nix_polyps" : {
@@ -282,8 +282,8 @@
 		"eyeric"  : "|teh||ehv||tar||-||n0||dah| (Tevtar Tohda)",
 		"before"  : "为空气而挣扎",
 		"after"   : "呼吸回到了你身边",
-		"notes"   : "I don't know what these are, but breathing becomes almost impossible when they are near. It feels like they are calling out for help, but I just don't know what to do for them. They seem so scared.",
-		"tips"    : "Use charge shots to pop those polyps from far away. Remember that you can peek out of the bubbles for a second to get a good shot. Don't forget to breathe!",
+		"notes"   : "我不知道这些是什么，但它们在附近时呼吸变得近乎不可能了。它们感觉像是在在寻求帮助，但我不知道要为它们做什么。它们看起来好害怕。",
+		"tips"    : "使用蓄力射击能够从远处破坏那些恐慌之瘤。请记住，你可以从泡泡里暂时出来以寻求更好的射击位置。别忘记呼吸！",
 		"to_find" : "to_find_panic",
 	},
 	
@@ -292,8 +292,8 @@
 		"eyeric"  : "|la||hai||kah||-||n0||nah| (Lahaika Tohna)",
 		"before"  : "将它们锯成空无！",
 		"after"   : "我真的很对不起",
-		"notes"   : "A moody Roundsaw is even harder to love, but that is when she needs it the most!",
-		"tips"    : "The void spikes come out at your position at exact time intervals. Learn this rhythm to avoid them.",
+		"notes"   : "情绪化的圆锯更难以被爱，但这样的她最需要爱！",
+		"tips"    : "在你的位置出现的虚空尖刺有着固定的时间间隔。适应节奏来避开它们。",
 	},
 	
 	"B_null_glacia" : {
@@ -301,8 +301,8 @@
 		"eyeric"  : "|ki||hai||nah||-||n0||nah| (Kihaina Tohna)",
 		"before"  : "这个映像很丑陋",
 		"after"   : "你觉得我的映像很美丽吗？",
-		"notes"   : "When her petals begin to wilt so does her confidence. The reflection in her petals becomes dull. They will break off soon, but her petals will grow back even more beautifully than before!",
-		"tips"    : "Don't stay too far back. You might get trapped behind one void spike with no room to dodge the other.",
+		"notes"   : "当她的花瓣开始凋零之时，她的自信也会如此。她花瓣上的映像变得灰暗。它们很快就会碎裂飘散，但她的花瓣会长回来并且变得比之前更加美丽！",
+		"tips"    : "别靠在太后面。你可能会被困在虚空尖刺之后，没有空间躲避另一根。",
 	},
 	
 	"B_anomaly" : {
@@ -311,8 +311,8 @@
 		"title"   : "秘密仰慕者",
 		"before"  : "你在杀戮吗？",
 		"after"   : "我现在好像理解了",
-		"notes"   : "She looks just like a heart, but not a Zaraden heart. This heart looks out of place. It's like she does not belong to this world. Maybe this heart came from somewhere very far away to try to understand us. Understand me?",
-		"tips"    : "A very simple battle. She wants to be defeated.",
+		"notes"   : "她看起来就像一颗心一样，但并非扎拉登的心。这颗心看起来怪怪的，就好像她不属于这个世界一般。或许这颗心来自非常非常遥远的地方，想要理解我们吗？想要理解我吗？",
+		"tips"    : "非常简单的战斗。她想要被击败。",
 		"to_find" : "to_find_low_karma",
 	},
 	
@@ -321,8 +321,8 @@
 		"eyeric"  : "|lin||shi||la||-||ze||ai||li| (Linshila Zeali)",
 		"before"  : "别来找我们！",
 		"after"   : "我们爱你的拥抱！",
-		"notes"   : "She dislikes her appearance so much that she split herself up into the smallest possible fragments. That way, no one could tell what she really looks like. She is beautiful no matter what form she takes. I wish she could see herself the way I see her.",
-		"tips"    : "Focus on the small scrambles even when her main body appears. You will extract more motes this way.",
+		"notes"   : "她过于讨厌自己的外表，因此把自己分裂成了最小的碎片。这样，没人能知道她实际上看起来的样子。她无论什么形态都很美丽。我希望她能像我看待她一样看待自己。",
+		"tips"    : "即使她的身体出现时也要集中攻击小型蛋花。这样你能够提取更多的魔尘。",
 	},
 	
 	"B_hematoren" : {
@@ -330,8 +330,8 @@
 		"eyeric"  : "|zhen||dis||ren| (Zhendisren)",
 		"before"  : "为我流血吧！",
 		"after"   : "我爱血液给予的生命",
-		"notes"   : "She has the form of the symbol |ren| (Ren). The symbol that we use to describe blood, life, and soul. She must really love flowers since they are always growing beneath her wherever she goes. She makes such beautiful patterns with them. I wish I could see them from above.",
-		"tips"    : "When one blood orb is broken the remaining one will pump out blood at double rate. Take out the one that is closer to you first!",
+		"notes"   : "她有着符号|ren| (Ren)的形态。我们用这个符号来描述血液，生命，以及灵魂。她走过的地方都会长出花朵，她一定很爱花朵。她能用那些花做出非常美丽的形状。我希望我能从上方看到。",
+		"tips"    : "当一个血液球被破坏的时候，剩下的那个会以双倍的速度泵出血液。先解决离你更近的那个！",
 	},
 	
 	"B_rage_prisma" : {
@@ -339,8 +339,8 @@
 		"eyeric"  : "|sen||n4||-||soh||ze| (Sensi Sohze)",
 		"before"  : "警告：系统过热",
 		"after"   : "冷却风扇重新启动",
-		"notes"   : "She must be very embarrassed. She is blushing so hard that the air around her is actually bursting into flames.",
-		"tips"    : "You can stay outside of the safety circle for a short time without being burned. You may need to avoid a beam attack this way!",
+		"notes"   : "她一定非常害羞。她脸红的太厉害了，让她周围的空气都燃起了火焰。",
+		"tips"    : "你可以暂时离开安全泡泡而不被燃烧。你可能需要用这种方法躲避某个光束攻击！",
 	},
 	
 	"B_totaria" : {
@@ -349,8 +349,8 @@
 		"eyeric"  : "|n0||tar||dra| (Totardra)",
 		"before"  : "少于无物！",
 		"after"   : "你为何抵抗？",
-		"notes"   : "This place is less than nothing. Negativity in a physical form.|L||L|I can't imagine a place that needs love more than this!",
-		"tips"    : "I have no data on this thing.",
+		"notes"   : "这个地方比什么都没有要更少。这是负的物理形态。|L||L|我想象不到比这更需要爱的地方了！",
+		"tips"    : "我没有这东西的数据。",
 		"to_find" : "to_find_final",
 		"taunt1"  : "HAhahAhaHa",
 		"taunt2"  : "hAhaHaAhaHahaAhaHhaha",
@@ -371,8 +371,8 @@
 		"eyeric"  : "|li||la| (Lila)",
 		"before"  : "Eye see you!",
 		"after"   : "Eye wuv you!",
-		"notes"   : "She is supposed to guard her territory, but she also gets spooked really easily. She would rather just avoid everyone.|L||L|If you hold out a sweet fruit for her, she will warm up to you in a heartbeat!",
-		"tips"    : "Only the center of her phantom projectiles can hurt you. The wings don't do anything.",
+		"notes"   : "她应该守卫她的领地，但她也很容易被吓到。她更想避开所有人。|L||L|如果你向她伸出甜味水果，一个心跳之间她就能与你熟络起来！",
+		"tips"    : "她的幻影子弹只有中心能够伤害到你。上面的翅膀不会。",
 	},
 	
 	"B_tox_polyps" : {
@@ -381,8 +381,8 @@
 		"eyeric"  : "|teh||ehv||tar||-||ry||dah| (Tevtar Raida)",
 		"before"  : "你不值得拥有空气！",
 		"after"   : "呼吸回到了你身边",
-		"notes"   : "These seem to be attracted to very high levels of stress. I think they just want to help, but they only make it harder to breathe.",
-		"tips"    : "The flashing polyps will explode when you break them! The actual explosion won't do anything to you, but bullets fly out of them at very high speeds.",
+		"notes"   : "这些似乎会被极高等级的压力吸引。我觉得它们只是想要帮忙，但它们只会让人更加难以呼吸。",
+		"tips"    : "闪烁的恐慌之瘤在破坏后会爆炸！爆炸不会伤害到你，但子弹会从里面高速飞出。",
 		"to_find" : "to_find_panic",
 	},
 	
@@ -391,8 +391,8 @@
 		"eyeric"  : "|mo||mo| (Momo)",
 		"before"  : "舞蹈之战，直至死亡！",
 		"after"   : "和我一同起舞",
-		"notes"   : "This flower really loves to dance. She and her crew of backup flowers are absolutely amazing!|L||L|\"Momo and the Murder Blossoms\" are going to be so popular!",
-		"tips"    : "Her petals hold more motes than her... \"Murder Blossoms.\" Focus on her petals as soon as possible to extract the most motes.",
+		"notes"   : "这朵花非常喜欢舞蹈。她和她的伴舞花朵们简直太棒了！|L||L|\"茉茉与谋杀之花\"一定会超级流行的！",
+		"tips"    : "她的花瓣有着更多的魔尘，相较于她的...\"谋杀之花。\"尽可能快地将火力集中在她的花瓣上以提取最多魔尘。",
 	},
 	
 	"B_dual_prisma" : {
@@ -400,8 +400,8 @@
 		"eyeric"  : "|sen||n4||-||n2||shi| (Sensi Sheshi)",
 		"before"  : "防御模式200%",
 		"after"   : "正在上传2个万兆拥抱",
-		"notes"   : "Prisma is so afraid to open up, but I know that she really wants to come out. She even made a copy of herself so they could both help each other, but now there are two terrified Prismas. They pretend to malfunction just to stay closed.",
-		"tips"    : "Carefully choose the order that you take out their shells. Each unit will malfunction erratically when you break their entire shell.",
+		"notes"   : "棱镜非常害怕敞开心扉，但我知道她真的很想出来。她甚至做了一个自己的复制来互相帮助，但现在只剩下两个被吓坏的棱镜。她们假装故障了以保持闭合。",
+		"tips"    : "仔细选择你破坏外壳的顺序。在破坏每个单元的整个外壳后，其都会不规则故障。",
 	},
 	
 	"B_veyeral_rain" : {
@@ -409,8 +409,8 @@
 		"eyeric"  : "|ah||tra||-||nah||-||vai||ral| (Ahtra nah Veyeral)",
 		"before"  : "这里没有庇护",
 		"after"   : "我们现在感到安全了",
-		"notes"   : "There are so many Veyerals all around each other, but somehow they always end up talking about how lonely they are.",
-		"tips"    : "Stay away from the sides of the arena. You never know when a Veyeral will appear from behind you!",
+		"notes"   : "这里有许多维目尔在彼此身边，但不知为何她们仍然一直在说自己有多孤独。",
+		"tips"    : "远离场地的两边。你预料不到维目尔什么时候从你身后出现！",
 	},
 	
 	"B_unit_lulu" : {
@@ -418,17 +418,17 @@
 		"eyeric"  : "|n1||kah||-||lu||lu| (Ikah Lulu)",
 		"before"  : "启动练习模式",
 		"after"   : "检测到温度骤升",
-		"notes"   : "This little robot was built to wander around helping anyone who needs it. She spends so much energy helping others, but I don't think she ever takes a break for herself. Sometimes I worry about her.",
-		"tips"    : "Be gentle with this one, okay! I worked very hard on her. She is doing her best!",
+		"notes"   : "这个小机器人是用来巡逻帮助需要的人。她耗费了许多能量用来帮助他人，但我觉得她好像从来没有为了自己休息过。有时我会担心她。",
+		"tips"    : "小心对待她，好吗！我在制作她时花了很多心思。她正在尽其所能！",
 	},
 	
 	"B_sentinel_0x" : {
 		"name"    : "哨卫0X",
 		"eyeric"  : "|sen||kah||ze||-||n0||dis| (Senkahze Todis)",
 		"before"  : "标记删除",
-		"after"   : "添加进文件：爱过之人",
-		"notes"   : "This machine acts so strange sometimes. Her circuits must be so worn out after being left alone down here for so long.",
-		"tips"    : "Her head is a weak spot! But if you spend too much time there, then you might not be able to extract the motes from her other parts.",
+		"after"   : "添加进文件：所爱之人",
+		"notes"   : "这台机器有时会表现的非常奇怪。她被留在这里太久了，她的电路一定是因此老化了。",
+		"tips"    : "她的头部是弱点！但如果你在上面花了太多时间，你可能无法从她的其他部件中提取魔尘。",
 	},
 	
 	"B_rage_boiler" : {
@@ -436,8 +436,8 @@
 		"eyeric"  : "|foh||shi||fa||-||soh||ze| (Foshifa Sohze)",
 		"before"  : "我们太辣了！",
 		"after"   : "辣度回到正常水平。",
-		"notes"   : "It isn't easy for Boiler to admit that she wants a hug. Just because she causes mild burn marks with her hugs, she thinks that she is a burden for even wanting one. When you see that smile on her face, those burns are worth it.",
-		"tips"    : "Pop those maws and eyeballs fast, or else they will pile up. She can have up to 3 out at once.",
+		"notes"   : "让锅炉承认她想要拥抱并非是件容易的事情。只是因为她的拥抱会带来灼痕，她认为自己对拥抱的渴望让她成为了负担。当你看到她脸上的微笑时，那些灼痕也值得。",
+		"tips"    : "先破坏口部与眼球部件，否则它们会不断堆积起来。她可以同时拥有3个此类部件。",
 	},
 	
 	"B_shamra" : {
@@ -445,8 +445,8 @@
 		"eyeric"  : "|sha||mo||ry| (Shamory)",
 		"before"  : "我们是什么？",
 		"after"   : "我们感到被爱",
-		"notes"   : "This Shamble was just born. I will make sure that the first thing she knows is love!",
-		"tips"    : "The delay between her attacks gets shorter as you pop more of her polyps.",
+		"notes"   : "这个晃晃刚刚出生。我会确保她知道的第一件事就是爱！",
+		"tips"    : "她的瘤状部件被破坏的越多，攻击之间的间隔就越短。",
 	},
 	
 	"B_oudenai" : {
@@ -454,8 +454,8 @@
 		"eyeric"  : "|n0||dis||ai| (Todisai)",
 		"before"  : "我是谁？",
 		"after"   : "我感到被爱",
-		"notes"   : "She looks just like the symbol |ai| (Ai). The symbol that we use to describe clean, new, and self. It looks as if she is not fully formed yet. Do these glyphs choose their own shape? It would make sense that they begin as the symbol for \"new\" before becoming another.",
-		"tips"    : "Glyphs can never teleport into your heart. You can actually push them around while they teleport.",
+		"notes"   : "她看起来就像符号|ai| (Ai)。我们用这个符号来描述洁净，新，以及自我。看起来就像她还没有完全成型。这些符文会选择自己的形状吗？这也有道理--她们会以\"新\"的形状作为开始，而后再选择成为其他形状。",
+		"tips"    : "符文永远不会传送到你的心上。你其实可以在传送时将她们推开。",
 	},
 	
 	"B_blue_veyeral" : {
@@ -464,8 +464,8 @@
 		"eyeric"  : "|vai||ral||-||ah||den| (Veyeral Ahden)",
 		"before"  : "你什么都不是！",
 		"after"   : "你很完美",
-		"notes"   : "If you look at most other Veyerals, it looks like there's a blind spot on your eyeball. Just a small amount of blue light escapes from their body. However, this Veyeral emits a dark shade of blue from all over. There is something special about her.",
-		"tips"    : "After her first phase, she will hold the combo for the rest of the battle. I don't think she likes to see it drop.",
+		"notes"   : "如果你盯着看大部分其他的维目尔，看起来其实就像你眼球上的一个盲点。只有少量的蓝光能够逃离她们的身体。但是，这只维目尔全身都散发着蓝色的阴影。她有着非常特殊的地方。",
+		"tips"    : "在第一阶段后，她整场战斗都会维持连击。我觉得她好像不希望连击结束。",
 		"to_find" : "to_find_final",
 	},
 	
@@ -474,8 +474,8 @@
 		"eyeric"  : "|ren||dy| (Rendy) |ren||n5| (Rendi)",
 		"before"  : "充满厌恶！",
 		"after"   : "享受跳虫拥抱！",
-		"notes"   : "Most Zaraden have an irrational fear of mites. It only takes a moment to realize that Rendy only chases after you if she wants cuddles.",
-		"tips"    : "If you can break her |C3|explosive eggs|C0| fast enough, they will not explode or release any |C13||I13|Burn bullets.|C0|",
+		"notes"   : "大部分扎拉登对跳虫都有着不合理的恐惧。只要片刻就能意识到兰迪只在想要拥抱时才会追着你。",
+		"tips"    : "如果你能够快速破坏她|C3|会爆炸的卵|C0|，它们就不会爆炸并释放任何|C13||I13|燃烧子弹。|C0|",
 	},
 	
 	"B_chroma" : {
@@ -483,8 +483,8 @@
 		"eyeric"  : "|fai||den||la| (Faidenla)",
 		"before"  : "见证我的光耀！",
 		"after"   : "我爱你的色彩！",
-		"notes"   : "A mass of tetrid motes came together to form this being of pure light... and pure fear.",
-		"tips"    : "She will reactivate her rainbow barrier if she is pushed to the edges of the arena. Get her to do this multiple times to extract extra motes.",
+		"notes"   : "一群棱晶魔尘一同形成了这纯粹光芒的存在...还有纯粹的恐惧。",
+		"tips"    : "如果她被推向了场地的边缘，她会重新打开她的彩虹屏障。你可以让她多次这么做以提取额外的魔尘。",
 	},
 	
 	"B_echo" : {
@@ -492,8 +492,8 @@
 		"eyeric"  : "|sin||shin| (Sinshin)",
 		"before"  : "你是什么？",
 		"after"   : "你感到被爱",
-		"notes"   : "This glass flower has just bloomed for the first time. She fears everything around her. I will show her that there is nothing to fear.",
-		"tips"    : "The delay between her attacks gets shorter as you break more of her petals.",
+		"notes"   : "这个玻璃花朵刚刚第一次绽放。她恐惧身边的一切。我会向她展示没什么需要恐惧的。",
+		"tips"    : "你破坏的花瓣越多，她攻击之间的间隔就越短。",
 	},
 	
 	"B_snowball" : {
@@ -501,8 +501,8 @@
 		"eyeric"  : "|toh||ah||la| (Toala)",
 		"before"  : "因恐惧而麻木！",
 		"after"   : "融化我冰封的心",
-		"notes"   : "Frostmites are not usually found this far from the snow. This queen frostmite may have been abandoned here when the others migrated. Or maybe she chose to stay.",
-		"tips"    : "Breaking her leg armor will reduce the power of her stomps. This means that less bullets will come out of the cold liquid below.",
+		"notes"   : "冰霜跳虫通常不会在离雪这么远的地方。这只皇后跳虫可能是在其他人迁徙的时候被遗弃在这里了。或者是她选择留下来。",
+		"tips"    : "破坏她的腿部护甲能减弱她踩踏的力量。这意味着下方冰冷的液体中会出现更少的子弹。",
 	},
 	
 	"B_rage_duet" : {
@@ -510,8 +510,8 @@
 		"eyeric"  : "|n2||shi||-||soh||ze| (Sheshi Sohze)",
 		"before"  : "来和我们一起燃烧！",
 		"after"   : "我们热爱一起舞蹈",
-		"notes"   : "Glacia and Vitrea get very angry at each other sometimes. If I trick them into the same battle they forget all about it and end up dancing together. Works every time.",
-		"tips"    : "The one who fights you first depends on their level. Glacia likes even numbers. Vitrea likes odd numbers.",
+		"notes"   : "星川和琉璃有时会对彼此非常生气。如果我将她们引入同一场战斗，她们就会忘记并最终一同起舞。这每次都很有用。",
+		"tips"    : "一开始与你作战的是谁取决于怪物等级。星川喜欢偶数，琉璃喜欢奇数。",
 	},
 	
 	"B_trinity" : {
@@ -519,8 +519,8 @@
 		"eyeric"  : "|n3||shi| (Teshi)",
 		"before"  : "黑暗，空白，恐惧",
 		"after"   : "明亮，多彩，爱",
-		"notes"   : "These monsters are actually made of pure tetrid motes. They want to spread the pretty colors around, but they don't realize the harm they can cause.",
-		"tips"    : "Once a gem is broken, that segment will actually become more resistant. However, their large eyes will always be vulnerable as long as they are open.",
+		"notes"   : "这些怪物实际上由纯粹的棱晶魔尘组成。它们想要将美丽的颜色四处分享，但却没有意识到所造成的伤害。",
+		"tips"    : "每当一个宝石被破坏，那段身躯实际上会变得更坚韧。但它们的大眼睛张开的时候总是很脆弱。",
 	},
 	
 	"B_venom_veyeral" : {
@@ -528,8 +528,8 @@
 		"eyeric"  : "|vai||ral||-||dy||ah| (Veyeral Diah)",
 		"before"  : "这里没有感觉",
 		"after"   : "我能再次拥有感觉",
-		"notes"   : "This Veyeral is always rolling around in toxic chemicals. She just wants to feel something... Anything. I can show her another feeling.",
-		"tips"    : "If your charged shots are powerful enough, you can break those toxic rocks before they cover your safety bubble with |C15||I15|Toxic bullets.|C0|",
+		"notes"   : "这只维目尔总是在剧毒化合物里打滚。她只是想要再次感到什么...什么都好。我可以向她展示另一种感觉。",
+		"tips"    : "如果你的蓄力射击足够强大，在那些毒素石用|C15||I15|毒素子弹|C0|覆盖你的安全泡泡之前你就能破坏它们。 ",
 	},
 	
 	"B_photoxai" : {
@@ -537,8 +537,8 @@
 		"eyeric"  : "|fai||dis||xai| (Faidishai)",
 		"before"  : "因强光而盲目",
 		"after"   : "和我一起合影",
-		"notes"   : "She looks just like the symbol |xai| (Xai). The symbol that we use to describe glowing, light, and brightness. She loves to take photographs of the other monsters, but the bright flash scares them away. She prints the photos inside clear heart stones and then she hides them.",
-		"tips"    : "During her first phase, the smaller glyphs will arrive over time. In her second phase, the glyphs arrive at fixed intervals in her fear bar. Look out for this behavior in other shy monsters!",
+		"notes"   : "她看起来就像符号|xai| (Xai)。我们用这个符号描述发光，光明和光亮。她喜欢为其他怪物拍摄照片，但强光总会吓跑她们。她把照片印在澄净的心型石之中，然后把它们藏了起来。",
+		"tips"    : "在她的第一阶段，小型符文会随时间到来。在她的第二阶段，小型符文会随着固定的恐惧值下降而到来。你可以在其他的羞涩怪物那里找找看这种现象！",
 	},
 	
 	"B_kiwi" : {
@@ -546,8 +546,8 @@
 		"eyeric"  : "|n4||ki||shi| (Sikishi)",
 		"before"  : "你无法躲避我们！",
 		"after"   : "来和我们一起玩",
-		"notes"   : "These flowers are so playful. They love playing games together. They are also terrified of being separated, but the roots that connect them are unbreakable.",
-		"tips"    : "They will normally change positions after every 3 attacks, but if they move behind you, they will move again after a single attack.",
+		"notes"   : "这些花非常爱玩。她们喜欢一起玩游戏。她们同样也害怕彼此分离，但连接她们的根须坚不可摧。",
+		"tips"    : "她们通常每3次攻击后会改变位置，但如果她们移动到了你身后，她们在一次攻击后就会再次移动。",
 	},
 	
 	"B_knot_knott" : {
@@ -555,8 +555,8 @@
 		"eyeric"  : "|nu||toh||-||nu||n0| (Nuutoh Nuutoh)",
 		"before"  : "缠绕在我们之间",
 		"after"   : "我们一直在一起",
-		"notes"   : "Knot and Knott are from completely different universes, but they wanted to be together so much that they pulled each other into this world.",
-		"tips"    : "The cord that connects them is impossibly strong. It will never break no matter how much you hit it.",
+		"notes"   : "节节和结结来自完全不同的宇宙，但她们过于想要在一起，将彼此拉入了这个世界。",
+		"tips"    : "连接她们的绳索无与伦比的强韧。无论你怎么击打，它都不会坏。",
 	},
 	
 	"B_duality" : {
@@ -564,8 +564,8 @@
 		"eyeric"  : "|n2||shi| (Sheshi)",
 		"before"  : "在你之上，冰与火",
 		"after"   : "在你之上，我们明亮闪耀",
-		"notes"   : "I think Stella and Celestia are a perfect match. The only problem is that they can't get too close without hurting each other.",
-		"tips"    : "They will collide into each other after their fear bar drops below 25%",
+		"notes"   : "我认为耀星和邃星是完美的一对。唯一的问题是她们靠的太近就会伤到彼此。",
+		"tips"    : "在恐惧条降到25%以下时她们就会彼此相撞。",
 	},
 	
 	"B_stella" : {
@@ -573,8 +573,8 @@
 		"eyeric"  : "|fai||la| (Faila)",
 		"before"  : "在你之上的日晒",
 		"after"   : "在你之上闪亮星光",
-		"notes"   : "This ball of fire is afraid of burning too hot. She wants someone to cool her down.",
-		"tips"    : "40% of the motes extracted from a Special monster will be radiant if they are encountered in any mode with random battles.",
+		"notes"   : "这团火焰害怕自己燃烧的太热了。她想要某人帮她冷却下来。",
+		"tips"    : "在带有随机战斗的任何模式中，特殊怪物提取的魔尘有40%会是光耀。",
 	},
 	
 	"B_celestia" : {
@@ -582,8 +582,8 @@
 		"eyeric"  : "|la||nu||la| (Lanula)",
 		"before"  : "在你之上的寒冷夜晚",
 		"after"   : "在你之上的月光闪耀",
-		"notes"   : "This orb is afraid of the cold and darkness of night. She wants someone to give her warmth and light.",
-		"tips"    : "Special monsters will always have a bounty for you if they are found in a normal story encounter.",
+		"notes"   : "这颗球体害怕夜晚的寒冷与黑暗。她想要某人给予她温暖与光明。",
+		"tips"    : "在正常的故事模式遭遇中，特别怪物总会为你准备一个奖励礼物。",
 	},
 	
 	"B_unity" : {
@@ -591,8 +591,8 @@
 		"eyeric"  : "|n1||shi| (Ishi)",
 		"before"  : "你不属于",
 		"after"   : "和我一起",
-		"notes"   : "She is a collection of motes that was buried in the ground and came to life. She has a hard time holding herself together.",
-		"tips"    : "She releases bouncing rocks and stationary rocks as her fear is decreased. You can tell which rocks will explode into bullets if they start leaking elemental fumes as you hit them.",
+		"notes"   : "她是一团被埋在泥土里而又获得生命的魔尘。她难以将自己维持在一起。",
+		"tips"    : "她的恐惧在降低时会释放能够反弹的石头与固定的石头。你可以通过以下方法判断哪些石头会爆炸释放子弹--这种石头被击中时开始向外泄露元素烟尘时。",
 	},
 	
 	"B_shy_lila" : {
@@ -600,8 +600,8 @@
 		"eyeric"  : "|li||la||-||ze||ai||li| (Lila Zeali)",
 		"before"  : "别过来！别过来！",
 		"after"   : "眼睛会留在你身边",
-		"notes"   : "Lila is already anxious on a good day. She does not want to be seen at all on a bad day.|L||L|Other aviocs will try to protect her, but she might be afraid of them too!",
-		"tips"    : "The purple aviocs will never leave once they show up. You don't have to worry about losing your combo to them.",
+		"notes"   : "莱拉在开心的一天已经很焦虑了。而在糟糕的一天中她完全不想被人看见。|L||L|其他的眼魔会试着保护她，但她可能也在害怕她们！",
+		"tips"    : "紫色的眼魔在出现后永远不会离开。你不用担心因为她们失去连击。",
 	},
 	
 	"B_chemory" : {
@@ -609,8 +609,8 @@
 		"eyeric"  : "|dy||dis||ry| (Deedisry)",
 		"before"  : "恐惧是一种化学成分",
 		"after"   : "爱是一种化学成分",
-		"notes"   : "She looks like the symbol |ry| (Ry). The symbol that we use to describe chemicals, elements, and nature. She can change the chemical composition of the air around her. She makes natural perfumes with the most wonderful aromas. Name any flower or food and she can make the air smell exactly like it!",
-		"tips"    : "Break her smaller glyphs quickly or they will drain your safety bubbles. Once her fear is below 50% she will transform if there are no small glyphs left. Otherwise she will transform at 40% and absorb all remaining glyphs.",
+		"notes"   : "她看起来就像符号|ry| (Ry)。我们使用这个符号来描述化学物，元素，以及自然。她可以改变身边空气的化学组成。她可以制作自然的香水，并且拥有最美妙的香气。你可以说出任何花朵或食物，她能够做出一模一样的气味！",
+		"tips"    : "快速破坏她的小型符文，否则它们会不断吸收你的安全泡泡。当她的恐惧降低到了50%以下，在没有剩余的小型符文时，她将会转变形态。否则，她会在40%恐惧时转变形态并吸收所有剩余的小型符文。",
 	},
 	
 	"B_astrayo" : {
@@ -618,8 +618,8 @@
 		"eyeric"  : "|mo||dis||yo| (Modisyo)",
 		"before"  : "无尽的雷鸣与电闪",
 		"after"   : "风暴已然过去",
-		"notes"   : "She looks like the symbol |yo| (Yo). The symbol that we use to describe lightning, energy, and excitement. You can tell she really likes 扎拉机械. She starts vibrating and sparking when she is near one. Then spark stones start flying everywhere. I guess that happens when she likes you.",
-		"tips"    : "If you want to extract as many motes as possible, do not hit her at all for the first half of the battle. Only focus on breaking her smaller glyphs.",
+		"notes"   : "她看起来就像符号|yo| (Yo)。我们使用这个符号来描述闪电，能量，以及兴奋。你可以看出她真的很喜欢扎拉机械。当她在扎拉机械附近时，她会开始震动，放出电弧。然后电弧石就会开始四处乱飞。她喜欢你时大概就会发生这种事吧。",
+		"tips"    : "如果你想要尽可能多的提取魔尘，那么在第一阶段就完全不要攻击她的本体，仅专注于破坏小型符文。",
 	},
 	
 	"B_alter_blot" : {
@@ -627,8 +627,8 @@
 		"eyeric"  : "|zhe||den||-||ai||za| (Zheden Aiza)",
 		"before"  : "一切必须灰暗！",
 		"after"   : "只有美丽的颜色！",
-		"notes"   : "Sometimes she wakes up disgusted with herself for no reason. She doesn't always like her colors, but I try to remind her that there are only pretty colors.",
-		"tips"    : "Don't be afraid to use a panic attack if there are too many paint turrets. A panic attack will instantly dissolve any paint turrets that it touches.",
+		"notes"   : "有时在她醒来的时候，她会无缘无故地对自己感到厌恶。她并非总是会喜欢自己的颜色，但我试着提醒她仅有美丽的色彩。",
+		"tips"    : "如果有许多颜料炮台的话，可以试着使用恐慌攻击。恐慌攻击能够瞬间溶解接触到的颜料球。",
 	},
 	
 	"B_alter_roundsaw" : {
@@ -636,8 +636,8 @@
 		"eyeric"  : "|la||hai||kah||-||ai||za| (Lahaika Aiza)",
 		"before"  : "锯掉它们！再快点！",
 		"after"   : "对不起。对不起。对不起... 对唔起",
-		"notes"   : "Roundsaw finally got that hug she was after, but now she is excited for another one. A little too excited...",
-		"tips"    : "Roundsaw's body saw deals a massive |C3|7 damage!|C0| The type of damage depends on her mood, but in this case it is |C14||I14|Zap damage.|C0|",
+		"notes"   : "圆锯终于得到了她追寻的那个拥抱，但她现在兴奋地想要另一个。有点过于兴奋了...",
+		"tips"    : "圆锯身体上的锯片能够造成巨量的|C3|7点伤害！|C0|伤害的类型取决于她的情绪，在这种情况下会造成|C14||I14|电击伤害。|C0|",
 	},
 	
 	"B_alter_glacia" : {
@@ -645,8 +645,8 @@
 		"eyeric"  : "|ki||hai||nah||-||ai||za| (Kihaina Aiza)",
 		"before"  : "我对你而言过于寒冷",
 		"after"   : "如此温暖的映像",
-		"notes"   : "She likes to spend a lot of time alone, but she is also afraid to admit when she needs to be around someone else. This often leads to her isolating herself for much too long.|L||L|She needs warm hugs immediately!",
-		"tips"    : "You can always predict the behaviors of certain bullets by their shape. |C3|Square shaped bullets|C0| will always warp across the edges of the arena!",
+		"notes"   : "她许多时候都喜欢独处，但她需要有人在身边的时候同样害怕承认。这经常会导致她太久孤立自己。|L||L|她现在就需要温暖的拥抱！",
+		"tips"    : "你总是可以通过特定子弹的形状来预判它们的行为。|C3|方形子弹|C0|总会通过边缘传送到场地的另一边！",
 	},
 	
 	"B_alter_syncron" : {
@@ -654,8 +654,8 @@
 		"eyeric"  : "|n4||kah||nah||-||ai||za| (Sikana Aiza)",
 		"before"  : "这个比特未处于正确位置",
 		"after"   : "正在复制快乐文件夹",
-		"notes"   : "There was once a small square of land that Syncron didn't let anyone enter. If anyone came close, they would get angry and fire warning shots at the ground. It's a good thing that they don't do this anymore, but I might never know why that place was so important to them.",
-		"tips"    : "All beam attacks deal |C3|6 damage|C0| of their element. Remember that most regular bullets only deal |C3|4 damage.|C0|",
+		"notes"   : "同步甲虫有一小块地方不会让任何人靠近。如果有人靠近的话，她们会生气并向地面发射警告射击。还好她们现在不会这么做了，但我可能永远不会知道为什么那个地方对她们特别重要。",
+		"tips"    : "所有光束攻击都会造成对应元素的|C3|6点伤害。|C0|要记得最基础的子弹只会造成|C3|4点伤害。|C0|",
 	},
 	
 	"B_frozen_veyeral" : {
@@ -663,17 +663,17 @@
 		"eyeric"  : "|vai||ral||-||toh||nah| (Veyeral Tohna)",
 		"before"  : "这里没有意志",
 		"after"   : "我想要再次移动",
-		"notes"   : "This Veyeral just gave up one day. She stopped moving and didn't respond to anything at all. But I don't care how cold she is. I will be there to warm her up every time!",
-		"tips"    : "Ice bullets deal half |C11||I11|Radiant damage|C0| and half |C12||I12|Void damage|C0| at the same time!",
+		"notes"   : "有一天，这只维目尔放弃了。她不再移动，不再对任何事做出反应。但我不在乎她有多冷。我每次都会在那里帮助她温暖起来！",
+		"tips"    : "冰封子弹同时造成一半的|C11||I11|光耀伤害|C0|与一半的|C12||I12|虚空伤害！|C0|",
 	},
 	
 	"B_joule" : {
 		"name"    : "焦耳",
 		"eyeric"  : "|yo||hai| (Yohai)",
 		"before"  : "我们想要你的力量！",
-		"after"   : "我们可以一起出力",
-		"notes"   : "She is jealous of me! She wishes that she had two legs, but I think all the static in her hair finally fried her brain.|L||L|I'd give my legs to be able to fly like her...",
-		"tips"    : "Once a segment of her tail is broken, it will expel a large portion of fear, but then it will become immune to love for the rest of the battle.",
+		"after"   : "我们可以一同出力",
+		"notes"   : "她只是嫉妒我！她希望自己也有两条腿，但我认为她头发里的静电把她的脑子烧坏了。|L||L|如果我能像他那样飞翔，我愿意放弃双腿...",
+		"tips"    : "每当她尾部的一节护甲被破坏，都能够消除她的一大段恐惧，但这一节在整场战斗的剩余时间都会对爱免疫。",
 	},
 	
 	"B_dot" : {
@@ -681,8 +681,8 @@
 		"eyeric"  : "|n1||teh| (Iteh)",
 		"before"  : "你不完美",
 		"after"   : "仅为你的完美拥抱",
-		"notes"   : "She really enjoys giving hugs, but they have to be perfect. There needs to be same amount of pressure from both arms and an exact length of time. If it's not perfect, she will try it again.|L||L|It might seem silly, but it really stresses her out until she gets it right. Either way, I'd never turn down an extra hug.",
-		"tips"    : "Be careful not to break the vine before the flower bud at the end. You can only extract motes from the flower buds if you break them first.",
+		"notes"   : "她真的很喜欢给予拥抱，但拥抱必须是完美的。双臂的压力必须是相同的，而拥抱的时间也必须是固定长度。如果不完美的话，她会再次尝试。|L||L|虽然看起来有点傻，但在她做对之前真的会让她很有压力。不管怎样，我都不会拒绝额外的拥抱。",
+		"tips"    : "小心不要在破坏末端的花蕾之前破坏藤蔓。只有先破坏花蕾才能从其中提取魔尘。",
 	},
 	
 	"B_pearl" : {
@@ -690,8 +690,8 @@
 		"eyeric"  : "|la||ris| (Laris)",
 		"before"  : "毫无表情",
 		"after"   : "你让我再次有了感觉",
-		"notes"   : "It is very difficult for her to show any emotions. She is afraid that it makes others feel like she doesn't care about them. I think it makes her rare smiles even more special.",
-		"tips"    : "Break the flower as fast as you can. If her fear drops below half, then the flower will escape without releasing any motes.",
+		"notes"   : "她很难流露任何表情。她害怕这会让其他人觉得她不在乎她们。我认为这会让她少有的微笑更加珍贵。",
+		"tips"    : "尽快破坏花朵。如果她的恐惧掉到一半以下，那么花朵就会逃跑，且不会释放任何魔尘。",
 	},
 	
 	"B_calorie" : {
@@ -699,8 +699,8 @@
 		"eyeric"  : "|foh||hai| (Fohai)",
 		"before"  : "为我们燃烧！",
 		"after"   : "你加剧了我们的烈火！",
-		"notes"   : "She was always self conscious of her hair. She put so much pressure on herself to make it perfect. That is until one day, she woke up with her hair in a mess. She decided that this was her perfect style and has never changed it since.",
-		"tips"    : "|C3|Full Arena Attacks|C0| only deal |C3|1.5 damage|C0| of their element! This is much lower than the |C3|4 damage|C0| dealt by most normal bullets.",
+		"notes"   : "她一直在意着自己的头发。为了让头发看起来完美无缺，她让自己感到了许多压力。直至有一天，她醒来发现头发乱糟糟的。她认为这就是她完美的发型，自此之后就再也没有改变。",
+		"tips"    : "|C3|全域攻击|C0|只会造成对应元素的|C3|1.5点伤害！|C0|这比正常子弹造成的|C3|4点伤害|C0|要低得多。",
 	},
 	
 	"B_flip_flap" : {
@@ -708,8 +708,8 @@
 		"eyeric"  : "|yih||kah||-||nu||kah| (Yika Nuka)",
 		"before"  : "检测到缠结电线",
 		"after"   : "检测到纯粹喜爱",
-		"notes"   : "These machines take \"opposites attract\" to another level. They took it upon themselves to build the wires that hold them together.",
-		"tips"    : "The heads are completely immune until their fear is reduced to half. Until then, your only choice is to hit the exposed wires that connect them.",
+		"notes"   : "这些机器让\"正负相吸\"达到了另一个水平。她们自己搭建起了将她们连接在一起的电线。",
+		"tips"    : "她们的头部完全免疫直至恐惧被削减到一半。在那之前，你唯一的选择就是攻击连接她们的裸露电线。",
 	},
 	
 	"B_null_unit" : {
@@ -717,8 +717,8 @@
 		"eyeric"  : "|n1||kah||-||n0||nah| (Ikah Tohna)",
 		"before"  : "删除你的记忆",
 		"after"   : "本单元不会忘记你",
-		"notes"   : "This machine wishes that she could erase all of her memory. I don't know what could have happened to make her feel this way. She never wants to talk about it. I'll just have to help her create new memories! We'll make so many happy memories that it won't be worth even thinking about erasing them!",
-		"tips"    : "Sorry... I just couldn't do it.",
+		"notes"   : "这台机器希望她能够清除自己全部的记忆。我不知道发生了什么会让她有这样的感受。她从来不会想谈论那件事。我只需要帮助她创造新的回忆！我们会一同创造许多开心的记忆，让她不会再想清除掉它们！",
+		"tips"    : "对不起... 我做不到。",
 	},
 	
 	"B_nova" : {
@@ -727,8 +727,8 @@
 		"eyeric"  : "|no||vai||lu| (Novailu)",
 		"before"  : "宇宙级恐惧",
 		"after"   : "爱的每一种味道",
-		"notes"   : "Nova created six colored simulacra of herself. Emerald, Ruby, Topaz, Sapphire, Citrine, and Amethyst. They all behave independently, but they can all feel what the others are feeling too. She created them so she could experience love in many different ways!",
-		"tips"    : "Each of her six colored simulacra will bring out 4 mote rocks during their battles. They will be lost if you don't break them before the next simulacrum attacks.",
+		"notes"   : "超新星创造了她自己六种颜色的克隆体。绿宝石，红宝石，黄宝石，蓝宝石，橙宝石，和紫宝石。她们每个都有独立的行为，但相互之间能够共享感受。她创造了她们是为了以许多不同的方式去体验爱！",
+		"tips"    : "每个克隆体在她们战斗时都会带出4块魔尘石。在下一个克隆体攻击之前没有破坏掉的话，它们就会消失。",
 		"to_find" : "to_find_garden",
 	},
 	
@@ -737,8 +737,8 @@
 		"eyeric"  : "|ry||den||dra| (Rydendra)",
 		"before"  : "如此羞愧",
 		"after"   : "你感到骄傲",
-		"notes"   : "This ball of green motes isn't an actual Shamble, but part of another monster.|L||L|It feels wet when I hug her even though I know she is dry. Come to think of it, that's exactly how green tetrids feel.",
-		"tips"    : "These mote gem monsters seem to be connected somehow. If you defeat any one of them, the others will not attack you for the rest of the day.",
+		"notes"   : "这一团绿色魔尘并非真正的晃晃，而是另一只怪物的一部分。|L||L|即使知道她是干燥的，我在拥抱她时仍会有湿润的感觉。仔细想来，这正是绿色棱晶的触感。",
+		"tips"    : "这些魔尘宝石怪物似乎是以某种方式连接着。如果你击败了其中一个，那么剩下的在今天内就不会攻击你。",
 	},
 	
 	"B_ruby" : {
@@ -746,8 +746,8 @@
 		"eyeric"  : "|soh||den||dra| (Sohdendra)",
 		"before"  : "如此沮丧",
 		"after"   : "你感到满足",
-		"notes"   : "This ball of red motes is not really a Guardian, but part of a different monster.|L||L|The air around her feels warm just like the air around red tetrids.",
-		"tips"    : "If a breakable part starts to leak elemental fumes as you damage it, then you know it will explode into bullets when it breaks!",
+		"notes"   : "这一团红色魔尘并非真正的守护者，而是另一只怪物的一部分。|L||L|正如同红色棱晶一般，她周围的空气感觉也很温暖。",
+		"tips"    : "如果一个可破坏部件在被伤害时开始向外泄露元素烟尘，那么当它被破坏时就会爆炸释放子弹！",
 	},
 	
 	"B_topaz" : {
@@ -755,8 +755,8 @@
 		"eyeric"  : "|yo||den||dra| (Yodendra)",
 		"before"  : "无法接受",
 		"after"   : "你可以直面一切",
-		"notes"   : "She isn't really an Eyeric Glyph monster, but a ball of yellow motes. She is part of another monster.|L||L|I know yellow tetrids taste just like a sweet fruit, but I'm not going to ask what she tastes like. No, I could never ask something like that!|L||L|So anyways, she tastes like a sweet fruit...",
-		"tips"    : "These mote gem monsters will always have a bounty for you if they are found in a normal story encounter.",
+		"notes"   : "她并非眼睛符文怪物，而是一团黄色魔尘。她是另一只怪物的一部分。|L||L|我知道黄色棱晶尝起来像甜味水果一样，但我不会去问她尝起来像什么。不，这种事情我永远问不出口的！|L||L|总之，她尝起来像甜味水果一样...",
+		"tips"    : "如果在正常的故事模式中遭遇这些魔尘宝石怪物，她们总会为你准备一个奖励礼物。",
 	},
 	
 	"B_sapphire" : {
@@ -764,8 +764,8 @@
 		"eyeric"  : "|ah||den||dra| (Adendra)",
 		"before"  : "如此焦虑",
 		"after"   : "你感到极为冷静",
-		"notes"   : "This ball of blue motes isn't an actual Zaramech, but part of a different monster.|L||L|Her minty aroma makes hugging her feel so refreshing and calm. She smells just like a blue tetrid.",
-		"tips"    : "She will hold the combo as long as a small piece of her is bouncing around the arena. Pay extra attention when breaking the last one if you don't want to lose your combo.",
+		"notes"   : "这团蓝色魔尘并非真正的扎拉机械，而是另一只怪物的一部分。|L||L|她带有薄荷的香味，这让拥抱她非常清新且让人冷静。她闻起来就像蓝色棱晶一般。",
+		"tips"    : "只要她还有一小块在场地内反弹，她就会为你保持连击。如果你不想失去连击的话，在破坏最后一块时需要格外注意。",
 	},
 	
 	"B_citrine" : {
@@ -773,8 +773,8 @@
 		"eyeric"  : "|lin||den||dra| (Lindendra)",
 		"before"  : "如此脆弱",
 		"after"   : "你感到极为强壮",
-		"notes"   : "This ball of orange motes is not a real 玻璃植物, but part of another monster.|L||L|Hugging her makes my whole body feel tingly. It's like tiny needles are gently poking me. The hug is worth it, but I get really itchy for a little bit afterwards. Orange tetrids feel the same way.",
-		"tips"    : "Once her fear drops below 50%, she will change her attack pattern. Any rock chunks that you didn't break before this will be lost.",
+		"notes"   : "这团橙色的魔尘并非真正的玻璃植物，而是另一只怪物的一部分。|L||L|拥抱她会让我的整个身体痒痒的。就好像细小的针在轻轻戳着我。这个拥抱很值得，但是在之后我会变得很痒。橙色棱晶也会有同样的感觉。",
+		"tips"    : "一旦她的恐惧值降低到50%以下，她就会改变自己的攻击形式。在此之前未破坏的任何石块都会消失。",
 	},
 	
 	"B_amethyst" : {
@@ -782,7 +782,7 @@
 		"eyeric"  : "|vai||den||dra| (Vaidendra)",
 		"before"  : "如此孤独",
 		"after"   : "你感到被接受了",
-		"notes"   : "Like purple tetrids, I can't feel anything when I touch her. I know that I'm holding her, but it feels like I'm grabbing nothing but air. Either way, I can tell that the love I show her is being felt by Nova and her other simulacra.",
+		"notes"   : "正如紫色棱晶一般，我在触碰她时什么也感觉不到。我知道我正握着她，但感觉好像仅仅握住空气一般。Like purple tetrids, I can't feel anything when I touch her. I know that I'm holding her, but it feels like I'm grabbing nothing but air. Either way, I can tell that the love I show her is being felt by Nova and her other simulacra.",
 		"tips"    : "She will hold the combo as long as a small piece of her is bouncing around the arena. Pay extra attention when breaking the last one if you don't want to lose your combo.",
 	},
 	
@@ -791,8 +791,8 @@
 		"eyeric"  : "|ai||shi| (Aishi)",
 		"before"  : "为什么是我？",
 		"after"   : "我感到被爱",
-		"notes"   : "This little ball of void came out of a cracked glass tube I found. I wonder how long she was stuck in there? It must have been so lonely.",
-		"tips"    : "After her fear is reduced by 50%, she will start to leak out void globs. If you want to extract as many motes as possible, focus on those globs and avoid hitting the wall and main body as much as possible.",
+		"notes"   : "这一小团虚空是从我找到的有裂痕的玻璃试管中出来的。我在想她被困在里面多久了？那一定非常孤独。",
+		"tips"    : "在她的恐惧被削减至50%以下时，她会开始泄露虚空团块。如果你想要提取尽可能多的魔尘，请集中攻击团块并尽可能避免击中墙面与主体。",
 	},
 	
 	"B_default" : {
@@ -800,8 +800,8 @@
 		"eyeric"  : "|ai||zha| (Aizha)",
 		"before"  : "我应该成为什么？",
 		"after"   : "我将会是爱",
-		"notes"   : "This Zaramech is brand new! She hasn't even chosen the form of her shell yet. I can help her choose a good one, but there are so many options.|L||L|She can always change it later anyways.",
-		"tips"    : "She has 12 different forms with some variants on a few of them. The forms she chooses to show you are set by her level and not random.",
+		"notes"   : "这只扎拉机械是全新的！她还未选择她外壳的形状。我可以帮她选择一个更好的，但是有这么多的选项。|L||L|反正她之后也可以改变。",
+		"tips"    : "她有12种不同的形态，其中部分有变体。她选择向你展示的形态是依据等级而来的，并非随机。",
 	},
 	
 	"B_lavalin" : {
@@ -809,8 +809,8 @@
 		"eyeric"  : "|rin||dis||lin| (Rindislin)",
 		"before"  : "末日找上了我们",
 		"after"   : "一同直至尽头",
-		"notes"   : "She looks like the symbol |lin| (Lin). The symbol that we use to describe liquifying, chaos, and destruction. She is so kind and gentle. She's always letting mites and aviocs crawl all over her. She loves them so much!|L||L|But she has to be very careful about where she sleeps. There was that earthquake she caused a few nights ago.",
-		"tips"    : "The second half of her battle is considered a shy battle. She will hold the combo after she transforms, but you can still lose it if a small glyph gets away.",
+		"notes"   : "她看起来就像符号|lin| (Lin)。我们用这个符号描述液化，混沌，以及毁灭。她非常温柔与善良。她一直让跳虫与眼魔爬满她的身上。她非常爱它们！|L||L|但是她要对自己睡觉的地方非常小心。她几夜前引起过地震。",
+		"tips"    : "她战斗的第二阶段可认为是羞涩战斗。她在变形后会帮你维持连击，但当任何小型符文离开时你还是会失去连击。",
 	},
 	
 	"B_heliola" : {
@@ -818,8 +818,8 @@
 		"eyeric"  : "|fa||dis||la| (Fadisla)",
 		"before"  : "照亮你的缺陷",
 		"after"   : "我将沐浴在你的光辉中",
-		"notes"   : "She looks like the symbol |la| (La). The symbol that we use to describe stars, time, and roundness. She can literally illuminate the area with her presence, but she doesn't like to be the center of attention. It's hard not to look in her direction when she comes by. This makes her want to hide from the world.|L||L|I know this makes me selfish, but I really need her light right now. She does so much for us.",
-		"tips"    : "Golden bullets deal half |C13||I13|Burn damage|C0| and half |C14||I14|Zap damage|C0| at the same time!",
+		"notes"   : "她看起来就像符号|la| (La)。我们用这个符号描述星星，时间与圆度。她可以凭借自身的存在照亮整片区域，但她不喜欢成为关注的中心。当她经过时很难不看向她的方向。这让她想要从这个世界的眼中躲藏自己。|L||L|我知道这会让我显得很自私，但我现在真的很需要她的光。她为我们做了这么多。",
+		"tips"    : "金色的子弹会同时造成一半|C13||I13|燃烧伤害|C0|和一半|C14||I14|电击伤害！|C0|",
 	},
 	
 	"B_vibrant_veyeral" : {
@@ -827,8 +827,8 @@
 		"eyeric"  : "|vai||ral||-||ris||den| (Veyeral Risden)",
 		"before"  : "这里没有色彩",
 		"after"   : "我可以看到色彩",
-		"notes"   : "She always compares herself to other Veyerals. She has convinced herself that she is the worst and ugliest one of them all. No matter how many colors she emits, it is never enough for her.|L||L|I wish she could see that she was always enough.",
-		"tips"    : "She has exactly 12 paint bombs that come out at fixed intervals in her fear bar. Slow down near the end of the battle to make sure that you got them all.",
+		"notes"   : "她总是将自己和其他维目尔作比较。她让自己坚信自己是所有维目尔中最糟糕，最丑陋的。无论她散发着多少色彩，对她而言都不够。|L||L|我希望她能够意识到一直以来她都已经足够了。",
+		"tips"    : "她有正好12个颜料炸弹，会以她恐惧条的固定间隔释放。你可以在战斗即将结束时放慢速度以确保你击破所有颜料炸弹。",
 	},
 	
 	"B_alter_vitrea" : {
@@ -836,8 +836,8 @@
 		"eyeric"  : "|ki||ze||ah||-||ai||za| (Kizea Aiza)",
 		"before"  : "不要告诉我应该成为什么样！",
 		"after"   : "和你一起时我能做我自己",
-		"notes"   : "I can't stand to see her like this. She would rather quietly mope to herself than bother anyone, but I'm always here to listen.",
-		"tips"    : "Her petals can't be broken until her fear drops below 50%, but her five thorns can be broken from the start.",
+		"notes"   : "我无法忍受她这个样子。与其去打扰任何人，她更想独自一人哭泣。但我一直在这里，愿意倾听她的声音。",
+		"tips"    : "在恐惧值降低至50%前她的花瓣无法被破坏，但她的5根棘刺从战斗一开始就可以破坏。",
 	},
 	
 	"B_null_blot" : {
@@ -845,8 +845,8 @@
 		"eyeric"  : "|zhe||den||-||n0||nah| (Zheden Tohna)",
 		"before"  : "一切都不能有色彩！",
 		"after"   : "我们再次有灵感了！",
-		"notes"   : "She sometimes feels ashamed of her own beautiful artwork. When that happens, she loses all motivation to paint anything at all.|L||L|I know there's not much I can do, except be there for her. I know exactly how she feels.",
-		"tips"    : "If a paint turret is instantly dissolved by a panic attack, it will expel much less of her total fear. This can be used to break even more paint turrets than I thought possible. I wonder where else this technique can be used.",
+		"notes"   : "有时她会对自己美丽的画作感到羞愧。这时，她会完全失去画任何东西的动力。|L||L|我知道我没什么能做到的，除了在那时陪伴在她的身边。我完全理解她的感受。",
+		"tips"    : "如果颜料炮台被恐慌攻击立刻溶解，其消除的恐慌值会大幅减少。用这种方法可以破坏非常多的颜料球，比我认为可能的还要多。我在想这种技巧是否还能用在其他什么地方。",
 	},
 	
 	"B_voladrome" : {
@@ -854,8 +854,8 @@
 		"eyeric"  : "|foh||dra||mo| (Fohdramo)",
 		"before"  : "现在烧掉她们！",
 		"after"   : "现在是友好的暖暖面条",
-		"notes"   : "She loves to swim in lava.|L|She loves to give very tight hugs.|L||L|...I've been through worse.",
-		"tips"    : "Metal bullets deal half |C11||I11|Radiant damage|C0| and half |C14||I14|Zap damage|C0| at the same time!",
+		"notes"   : "她很爱在岩浆中游泳。|L|她很爱给出非常紧实的拥抱。|L||L|...我经历过更糟糕的事情。",
+		"tips"    : "金属子弹会同时造成一半|C11||I11|光耀伤害|C0|和一半|C14||I14|电击伤害！|C0|",
 	},
 	
 	"B_shy_momo" : {
@@ -863,8 +863,8 @@
 		"eyeric"  : "|mo||mo||-||ze||ai||li| (Momo Zeali)",
 		"before"  : "我不会出来的！",
 		"after"   : "我会一直和你起舞",
-		"notes"   : "She is afraid that her nervous behavior causes mistakes in her dancing. Sometimes, she refuses to perform at all. Not even the Murder Blossoms can convince her to come out.|L||L|She wants me to dance alone with her to help her calm down. It makes me so happy that she would trust me like that. She always chooses her favorite dance, \"The Golden Blooms.\"",
-		"tips"    : "The most efficient way to extract motes from Golden Blooms is to break their cores before breaking too many of their petals. Be sure to also break all of Momo's petals when she appears.",
+		"notes"   : "她害怕自己紧张的行为会导致舞蹈出错。有时，她会完全拒绝表演。甚至那些谋杀之花都无法说服她出来。|L||L|她想要我一人与她舞蹈来帮助她冷静下来。她这样信任我让我非常开心。她总是会选择她最喜欢的舞蹈，\"金花绽放。\"",
+		"tips"    : "从金色花朵中最有效提取魔尘的方式是在破坏太多花瓣之前破坏核心。在茉茉出现的时候也别忘记破坏她所有的花瓣！",
 	},
 	
 	"B_dendrohai" : {
@@ -872,8 +872,8 @@
 		"eyeric"  : "|kai||dis||hai| (Kaidisai)",
 		"before"  : "你的恐惧仅会生长",
 		"after"   : "爱在你的心中生长",
-		"notes"   : "She looks like the symbol |hai| (Hai). The symbol that we use to describe plants, distance, and growth. She can instantly grow a tree of tremendous height if the soil below can support it. Even with the ability to fly, she is still terrified of looking down from the treetops.|L||L|We have that in common.",
-		"tips"    : "During her second phase, try to stay in the middle bubbles as much as possible. You will have more options on where to dodge her vines from there.",
+		"notes"   : "她看起来就像符号|hai| (Hai)。我们使用这个符号描述植物，距离，以及生长。她能瞬间使树生长到极高的高度，只要其下的土壤能够支撑它。即使有着飞翔的能力，她还是会害怕从树冠向下眺望。|L||L|我们在这一点上是共通的。",
+		"tips"    : "在她的第二阶段，试着尽可能保持在中间的泡泡。在那里你会有更多选项以躲避她的藤蔓。",
 	},
 	
 	"B_veyeral_quartet" : {
@@ -881,8 +881,8 @@
 		"eyeric"  : "|n4||tar||-||vai||ral| (Sitar Veyeral)",
 		"before"  : "无人，无处，无爱，无物",
 		"after"   : "我们可以再次分享爱",
-		"notes"   : "Burning Veyeral|L|Voltage Veyeral|L|Venom Veyeral|L|Vibrant Veyeral|L||L|Even together, they feel as lonely as ever. I know they can help each other overcome this. They already have light, warmth, chemistry, and a spark. I know they can be best friends.",
-		"tips"    : "Even if you've loved some of these Veyerals individually in other battles, they can still be taken over by fear as a group. After this battle though, all four will be loved for the rest of the day.",
+		"notes"   : "燃烧维目尔|L|高压维目尔|L|剧毒维目尔|L|明艳维目尔|L||L|即使是在一起，她们也感觉那么孤独。我知道她们能够帮助彼此克服这一切。她们已经有了光明，温暖，化学与电弧。我知道她们能够成为最好的朋友。",
+		"tips"    : "即使你已经在其他的战斗中单独爱过了其中的维目尔，她们成群结队时仍会被恐惧所占据。不过在这场战斗后，她们四个在这一天剩下的时间中都会是被爱过的。",
 	},
 	
 	"B_shiny_joule" : {
@@ -890,8 +890,8 @@
 		"eyeric"  : "|yo||hai||-||fai||shen| (Yohai Faishen)",
 		"before"  : "我们开始工作吧！",
 		"after"   : "你的渐进情绪真的可以做功！",
-		"notes"   : "As a Shamble, Joule can feel other versions of herself in other universes. I can't even imagine what that must feel like. Maybe it's best if I don't think about it.|L||L|I do have to wonder why she was pulling Photoxai's glyphs into our shared dream.",
-		"tips"    : "Panic attacks can be used to extract the motes from any |C3|treasure bullets|C0| that they touch.",
+		"notes"   : "作为一名晃晃，焦耳可以感受到其他宇宙中自己的其他版本。我完全无法想象这种感觉会是怎么样的。或许我不去想会更好一点。|L||L|我确实会想她为什么会将光影之楔的符文拉入我们共享的梦境。",
+		"tips"    : "恐慌攻击可以被用于从任何其触碰的|C3|珍宝子弹|C0|中提取魔尘。",
 		"to_find" : "to_find_event",
 	},
 	
@@ -900,8 +900,8 @@
 		"eyeric"  : "|mo||mo||-||fai||shen| (Momo Faishen)",
 		"before"  : "我想要和你起舞",
 		"after"   : "我现在充满着绽放的爱！",
-		"notes"   : "Watching Momo and the Murder Blossoms dance is such a mesmerizing experience. There are vines and bladed flowers flowing in all directions. You look in one place and suddenly there's another surprise from across the stage.|L||L|I am honored that Momo would invite me to be a part of this.",
-		"tips"    : "Hitting her eye will fill the love bar faster. In shiny battles, inflicting more love leads to a longer battle. That means more time to gather motes.",
+		"notes"   : "看着茉茉与谋杀之花的舞蹈真是让人心醉神迷的体验。藤蔓与刃花四处飞舞。你正全神盯着一处看，突然另一个惊喜从舞台的另一端前来。|L||L|茉茉能够将我邀请至这一切，我深感荣幸。",
+		"tips"    : "攻击她的眼睛能够快速填充爱之量表。在闪亮战斗中，造成更多的爱意味着更长的战斗，这也意味着更多用以收集魔尘的时间。",
 		"to_find" : "to_find_event",
 	},
 	
@@ -910,8 +910,8 @@
 		"eyeric"  : "|vai||ral||tar||-||fai||shen| (Veyeraltar Faishen)",
 		"before"  : "让我们再次入梦",
 		"after"   : "我们今晚将会做甜蜜的梦",
-		"notes"   : "They could always shine so brightly. They just couldn't see it before.",
-		"tips"    : "In shiny battles, higher monster levels only affect how much love is required to fill the love bar. The amount of motes you can extract is always the same.",
+		"notes"   : "她们总能如此明亮闪耀。她们只是之前无法意识到这一点",
+		"tips"    : "在闪亮战斗中，怪物等级仅影响填充爱之量表所需要的爱。你所能提取的魔尘总是相同的。",
 		"to_find" : "to_find_event",
 	},
 	
@@ -920,8 +920,8 @@
 		"eyeric"  : "|vai||ral||-||yo||tra| (Veyeral Yotra)",
 		"before"  : "我会夺走你的光芒",
 		"after"   : "我不是故意吓到你的",
-		"notes"   : "She really wants to be approached and loved, but when that actually happens, she is overcome by a deep terror. She uses loud thunder to scare away anyone who actually tries to get close to her.",
-		"tips"    : "Breaking the smaller beam Veyerals will cause your combo to hold for an extra moment. This happens after breaking almost anything with motes in other battles too.",
+		"notes"   : "她真的想要被接近，被爱，但当实际发生时，她感到极度的恐惧。她会使用巨大的雷声吓跑任何那些想要靠近她的人。",
+		"tips"    : "破坏小型光束能够使你的连击再维持一段时间。在其他战斗中，破坏几乎任何带有魔尘的东西也会有这种效果。",
 	},
 	
 	"B_shiny_rendy" : {
@@ -929,8 +929,8 @@
 		"eyeric"  : "|ren||n5||-||fai||shen| (Rendi Faishen)",
 		"before"  : "挖掘财宝！",
 		"after"   : "你才是兰迪的财宝",
-		"notes"   : "Rendy loves to dig holes and then hide gifts in them. She has random gifts buried all over the place.|L||L|She is so proud of how fast she can dig.",
-		"tips"    : "Your combo will drop if you let a golden egg escape. Her green eggs don't release any motes when broken, so they will not drop the combo. It's best to leave those alone.",
+		"notes"   : "兰迪很爱挖掘洞穴然后在里面藏东西。她将随机的礼物埋藏在了各种地方。|L||L|她对自己挖掘的速度非常骄傲。",
+		"tips"    : "如果你让金色的蛋逃跑了，你的连击就会结束。她的绿色蛋在被破坏时不会释放任何魔尘，所以它们不会打断连击。最好别去管它们。",
 		"to_find" : "to_find_event",
 	},
 	
@@ -939,8 +939,8 @@
 		"eyeric"  : "|toh||ah||la||-||fai||shen| (Toala Faishen)",
 		"before"  : "寻找皇家财宝",
 		"after"   : "爱才是最皇家的财宝",
-		"notes"   : "She prefers a much warmer climate compared to other frostmites. She says they come back to visit her every year when the temperature drops in the Iiry Forest. She buries a bunch of gifts for when they return.",
-		"tips"    : "Breaking the armor on each leg will fill a massive amount of the love bar. Each one will likely fill the entire bar instantly, so try not to break them while the bar is already full.",
+		"notes"   : "相较于其他冰霜跳虫，她喜欢更加温暖的环境。她说当鸢尾森林的温度下降时她们会回来拜访她。为了她们的回归，她埋藏了许多礼物。",
+		"tips"    : "破坏每条腿上的护甲能够填充大量的爱之量表。每一个都近乎能完全填满整条量表，所以尽量不要在量表已满时破坏它们。",
 		"to_find" : "to_find_event",
 	},
 	
@@ -950,8 +950,8 @@
 		"eyeric"  : "|za||fu||sha||-||fai||shen| (Zafusha Faishen)",
 		"before"  : "你如何展现爱？",
 		"after"   : "我认为我现在理解了",
-		"notes"   : "She isn't like any other monster. I've never actually seen her, but I know she is there. The dreams are enough proof for me.|L||L|It feels like she is sharing her dreams with me in the same way that I share my dreams with other monsters. It feels so nice to be on the other side. I think I understand now.",
-		"tips"    : "Fill the love bar 7 times to crumble her entire shell. Fill it 3 more times and she will unleash her long lasting, ultimate attack!",
+		"notes"   : "她和其他任何怪物都不一样。我从来没有实际见过她，但我知道她在那里。这些梦境对我而言就是足够的证明。|L||L|感觉正如我和其他怪物分享梦境一般，她也在这样和我分享她的梦境。像这样在另一边感觉真不错。我觉得我现在理解了。",
+		"tips"    : "将爱之量表填满7次以将她的外壳完全破坏。再填满3次，她就会释放持续时间最长的究极攻击！",
 		"to_find" : "to_find_event",
 	},
 	
@@ -960,8 +960,8 @@
 		"eyeric"  : "|koh||dis||toh| (Kodistoh)",
 		"before"  : "你会永久冰封！",
 		"after"   : "即使我对你而言这么寒冷？",
-		"notes"   : "She looks like the symbol |toh| (Toh). The symbol that we use to describe frozen, cold, and stillness. She lives in this warm forest because she actually dislikes the cold, but she hides in a cave to avoid freezing the environment around her. When she goes out in the rain, the rain drops become snowflakes as they fall around her.",
-		"tips"    : "Only the first half of her battle is considered a shy battle. She will stop holding your combo after she transforms.",
+		"notes"   : "她看起来就像符号|toh| (Toh)。我们使用这个符号描述冰冻，寒冷，以及静滞。她住在这个温暖的森林里，是因为她实际上讨厌寒冷。但她会躲在洞窟之中，以避免将她身边的环境冰冻。当她前往雨中时，落在她身边的雨滴就变成了雪花。",
+		"tips"    : "只有她战斗的第一部分被认为是羞涩战斗。在她变形之后她就不会再维持你的连击。",
 	},
 	
 	"B_philolu" : {
@@ -969,8 +969,8 @@
 		"eyeric"  : "|fu||dis||lu| (Fuudislu)",
 		"before"  : "和我一起约会吧！",
 		"after"   : "为你的晚安吻！",
-		"notes"   : "She looks like the symbol |lu| (Lu). The symbol that we use to describe love, heart, center, and core. Unlike most of the other monsters, she does not fear love at all! She flirts with everyone she meets, but she always worries that her behavior is off-putting.",
-		"tips"    : "She has 3 treasure barrage attacks that she will use before switching to a lighter attack. When she transforms at 50% fear, she will gain 3 more treasure barrage attacks.",
+		"notes"   : "她看起来就像符号|lu| (Lu)。我们使用这个符号来描述爱，心，中央，以及核心。和其他怪物不同的是，她一点也不惧怕爱！她和见到的每个人都会调情，但她也总是会担心自己的行为会令人反感。",
+		"tips"    : "她会先使用3波密集珍宝攻击，然后更改为轻度的攻击。当她在50%恐惧值变形后，她将会再次使用3波密集珍宝攻击。",
 		"to_find" : "to_find_event",
 	},
 	
@@ -979,26 +979,26 @@
 		"eyeric"  : "|lu||kah||tra| (Lukatra)",
 		"before"  : "你的目标无法抵达",
 		"after"   : "你找到了抵达我的方法",
-		"notes"   : "I found her at the base of a tower. She was covered in rust and missing a lot of parts. I thought she was long gone, but she suddenly turned her head to look at me. I don't know if 扎拉机械 can cry the same way that I do, but her eyes were leaking a lot of fluid.|L||L|In her dreams, she guards her heart with an entire tower filled with traps. She is so afraid of trusting anyone.",
-		"tips"    : "Her glowing light cores are the most vulnerable parts. Your combo will only drop if you let a light core escape. Extract optimal motes by breaking only those cores and ignoring everything else as much as possible.",
+		"notes"   : "我是在一座塔的塔底找到的她。她锈迹斑斑，还缺少了许多部件。我以为她早就死了，但她突然转过头看向我。我不知道扎拉机械是否能够像我一样哭泣，但是她的眼中流出了许多液体。|L||L|在她的梦中，她用一整座布满陷阱的高塔守护她的心。她非常害怕信任任何人。",
+		"tips"    : "她的发光核心是最脆弱的部件。仅当发光核心逃离时你的连击才会被打断。最高效的魔尘提取方法是仅破坏核心并尽可能忽略其他一切。",
 	},
 	
 	"B_guardian_soul" : {
 		"name"    : "守护者之魂",
 		"eyeric"  : "|ai||soh||ren||-||sen||ehv| (Aisoren Senev)",
-		"before"  : "我应该去那里？",
+		"before"  : "我应该去哪里？",
 		"after"   : "我将去爱",
-		"notes"   : "She was born lost and angry. She wandered around looking for a place to fit in, but she quickly rejected everything and everyone. I understand how she can feel that way. I noticed that not even a single rain drop would land on her.|L||L|She approached me when I invited her with a hug, but our bodies passed through each other.",
-		"tips"    : "Her white soul fragments are the only parts you need to break to keep your combo in this battle. You can still break her other traps, but they do not contain as many motes.",
+		"notes"   : "她生来迷失而愤怒。她四处游荡，想要找一个安身之所，但她很快拒绝了一切，拒绝了所有人。我理解她为何会有这种感受。我注意到哪怕是一滴雨也不会落在她的身上。|L||L|当我邀请她拥抱时，她接近了我，但我们的身体却穿过了彼此。",
+		"tips"    : "你只需要破坏她白色的灵魂残片就能够在这场战斗中保持你的连击。你仍可以破坏她其他的陷阱，但它们不会有那么多的魔尘。",
 	},
 	
 	"B_shiny_knots" : {
 		"name"    : "闪亮节结",
 		"eyeric"  : "|nu||toh||-||nu||n0||-||fai||shen| (Nuutoh Nuutoh Faishen)",
 		"before"  : "帮我们找到她！",
-		"after"   : "我们一直会在一起",
-		"notes"   : "It's so strange seeing Knot all alone. She gets really anxious if Knott is gone for even a moment. It's not really healthy, but I know exactly what it's like to feel that way. I hope this is something we can both work on.",
-		"tips"    : "After Knott appears, the love bar will fill rapidly for a short time. This effect will wait between attacks, so none of that extra love will be wasted.",
+		"after"   : "我们会一直在一起",
+		"notes"   : "看到节节独自一人真是奇怪。只要结结离开了哪怕一刻，她都会非常的焦虑。这确实不算健康，但我完全知道那种感受。我希望我们都能够克服这种感觉。",
+		"tips"    : "在结结出现后，爱之量表在一段时间内会快速填满。这个效果在攻击之间会暂停，那些额外的爱不会被浪费。",
 		"to_find" : "to_find_event",
 	},
 	
@@ -1007,8 +1007,8 @@
 		"eyeric"  : "|n4||kah||nah||-||fai||shen| (Sikana Faishen)",
 		"before"  : "正在逃出恐慌模式",
 		"after"   : "恐慌循环结束",
-		"notes"   : "Syncron has developed a new system for dealing with their tendency to suddenly enter panic mode. During these situations, one of the robots is always randomly chosen to be the leader. If the leader eventually gets caught in panic mode, then another one will randomly become the leader and break out of it. They will keep this up until the issue is resolved.",
-		"tips"    : "All units will return to formation when the love bar is filled, so you can save a unit that is far behind you by filling the love bar quickly. The gold unit is very sturdy, but breaking it will extract a lot of motes!",
+		"notes"   : "为了应对突然进入恐慌模式的情况，同步甲虫构建了一个新的系统。在这种情况下，其中一个机器人会被随机选为领袖。如果领袖最终陷入了恐慌模式，那么另一个机器人会随机变为领袖并从恐慌模式中挣脱出来。她们会持续这样直至事态被解除。",
+		"tips"    : "当爱之量表被填满时，所有单元都会回到初始队形，你可以通过快速填满量表的方式拯救在你身后很远的单元。金色的单元非常坚实，但破坏它能够提取大量的魔尘！",
 		"to_find" : "to_find_event",
 	},
 	
@@ -1017,8 +1017,8 @@
 		"eyeric"  : "|shal||ki| (Shalki)",
 		"before"  : "我正在打磨刺人的手！",
 		"after"   : "你刺透了我的心",
-		"notes"   : "This queen hydra plant is the tallest monster I've ever seen! She's as tall as a tree!|L||L|She's very proud of her giant flower crown. She is always going on about how it makes her feel pretty.",
-		"tips"    : "If you have trouble dodging the exploding seeds that she drops after jumping, you can position yourself directly in front of them. Most of them will explode before they reach you, and their blasts are always fired upwards.",
+		"notes"   : "这只皇后蛇头兰是我见过最高的怪物了！她就像树一样高！|L||L|她对自己巨大的花冠非常自豪。她会一直向你炫耀那如何让她觉得自己变漂亮了。",
+		"tips"    : "如果你觉得难以躲避她在跳跃后释放的爆炸种子，你可以让自己位于它们正前方。大部分的种子在到你身前时应该早就爆炸了，并且它们爆炸后的子弹总会向上方发射。",
 	},
 	
 	"B_alter_shanx" : {
@@ -1026,8 +1026,8 @@
 		"eyeric"  : "|shal||ki||-||ai||za| (Shalki Aiza)",
 		"before"  : "我会像闪电一样袭击你！",
 		"after"   : "你触动了我的心弦",
-		"notes"   : "Shanx was struck by lightning once. She says it didn't really hurt that much, but I think it scared her more than she realizes. She always crouches down next to taller trees when the thunder starts.",
-		"tips"    : "Breaking all the parts on her legs will make her significantly harder to hit when jumping. Leave at least one back leg for as long as possible to help with holding your combo.",
+		"notes"   : "闪克斯曾经被雷电击中。她说其实没有那么疼，但我觉得她没有意识到那让她多么的恐惧。当开始打雷时她总是会趴在高大的树旁。",
+		"tips"    : "破坏她腿上所有的部件会让她在跳跃时非常难以被击中。尽可能久的留下至少一个腿部部件能够帮助你维持你的连击。",
 	},
 	
 	"B_moss" : {
@@ -1035,8 +1035,8 @@
 		"eyeric"  : "|kai||den| (Kaiden)",
 		"before"  : "我们从未有过那意志",
 		"after"   : "我们不再羞愧",
-		"notes"   : "I found a green tube hooked up to some machines. There was a heart inside! She was still beating, but with very long pauses between each beat. I didn't expect this to work, but I was able to talk to her with my dream power. She wanted me to break open her container, but I knew she wouldn't be able to survive like that.|L||L|I know what she wanted, but we can find another way.",
-		"tips"    : "You can speed this battle up significantly if you have something that can hit behind you, but you might miss out on some motes from her vines.",
+		"notes"   : "我在一些机器上发现了一个固定着的玻璃管。里面有一颗心！她仍在跳动，但心跳的每一拍之间都间隔了很久。我没想到能成功，但我能够用我的梦境力量和她交流。她想让我打破她的容器，但我知道那样的话她将无法存活。|L||L|我知道她想要什么，但我们可以寻找另一种方式。",
+		"tips"    : "如果你有能够攻击身后的东西的话，你能极大加快这场战斗的速度，但你可能会错过一些藤蔓上的魔尘。",
 		"to_find" : "to_find_heart",
 	},
 	
@@ -1045,8 +1045,8 @@
 		"eyeric"  : "|foh||den| (Fohden)",
 		"before"  : "回到我身边，这太无法想象了！",
 		"after"   : "我不再愤怒",
-		"notes"   : "This heart was beating so fast she almost broke the container she was in. The tube was extremely hot and about to burst, but I got her to calm down in time.|L||L|There is someone she really misses. I know what that feels like. Sometimes I get so angry I want to break something too! At least... I used to feel that way. But lately, I don't seem to feel anger the same.",
-		"tips"    : "She has 8 red orbs that she releases at specific fear thresholds. She resets everything at 50% fear, so you'll miss some if you didn't break the first 4 by then.",
+		"notes"   : "这颗心跳的太快，她几乎要打破她所在的那个容器了。那个管子非常热，几乎快要爆炸了，但我及时让她冷静了下来。|L||L|有一个她非常想念的人。我知道这种感觉。有时我也会非常生气，也会生气到想要打碎东西！至少...我过去会有这种感觉。但最近，我似乎不会再那么生气了。",
+		"tips"    : "她有8个红色的球体，会在特定的恐惧阈值释放。在50%恐惧时她会重置一切，如果在那之前你没有破坏前4个的话，你会错过一些。",
 		"to_find" : "to_find_heart",
 	},
 	
@@ -1055,8 +1055,8 @@
 		"eyeric"  : "|mo||den| (Moden)",
 		"before"  : "我既不能，也不愿",
 		"after"   : "我不再恐惧",
-		"notes"   : "I found another heart in a yellow tube this time. In our dream, she was speaking so fast I couldn't understand anything she said. It seems like she has no idea what happened to her. She really wanted to convince me that she was fine, but it didn't feel genuine.",
-		"tips"    : "She has 19 different glyphs that she can summon, but don't let all those colors distract you from breaking her 8 yellow orbs. She resets everything at 50% fear, so make sure you got 4 orbs by then or you'll miss some.",
+		"notes"   : "这次我在黄色的玻璃管中找到了另一颗心。在我们的梦境中，她说话的速度太快了，我完全无法理解她说的一切。看起来她完全不知道自己身上发生了什么。她非常想要让我相信她没事，但感觉并非真心。",
+		"tips"    : "她有19个不同的符文可以召唤，但别让那些颜色分了你的心，忘记破坏她的8个黄色球体。在50%恐惧时她会重置一切，请确保你在那时已经破坏了前4个球体，否则你会错过一些。",
 		"to_find" : "to_find_heart",
 	},
 	
@@ -1065,8 +1065,8 @@
 		"eyeric"  : "|ah||oh||den| (Aoden)",
 		"before"  : "感到挣扎，失去自我",
 		"after"   : "我不再焦虑",
-		"notes"   : "I found this heart in a blue tube. There was also a heart shaped metal shell inside. She needs this shell to live, but she didn't want to use it anymore. I'm glad I convinced her to keep it on for now at least.|L||L|I wonder if someone was helping her, or... Of course! What else would this machine be for?",
-		"tips"    : "She will create a rainbow barrier that reduces damage by 75% while she fires her treasure barrages. Her clones are still fragile during this time, but damage transferred to the main heart is reduced. You might be able to break an extra one!",
+		"notes"   : "我在蓝色的玻璃管里找到了这颗心。里面还有一个心形的金属外壳。她需要这个外壳才能存活，但她不想继续使用它了。我很高兴能说服她至少先把这个外壳留下。|L||L|我在想是不是有人在帮助她，还是...当然了！不然这个机器是用来做什么的呢？",
+		"tips"    : "在她发射她的密集珍宝子弹时，她会生成一个彩虹屏障，减少75%的伤害。这时她的克隆体仍是脆弱的，但转移到主体的伤害会被降低。你可能能够额外破坏一个！",
 
 		"to_find" : "to_find_heart",
 	},
@@ -1076,8 +1076,8 @@
 		"eyeric"  : "|rin||li||den| (Rinleeden)",
 		"before"  : "在我的梦中，在另一天里",
 		"after"   : "我不再不安",
-		"notes"   : "I found this heart in an orange tube, but the glass had so many cracks on it. It seemed like it could break open at any moment.|L||L|I can't imagine what it's like to never feel safe wherever you are... Oh, actually, I can.",
-		"tips"    : "She has 8 orange orbs, but they will only come out if you deal enough damage to her heart or the unbreakable spikes. You might miss some orbs if you spend too much time breaking other parts.",
+		"notes"   : "我在橙色的玻璃管中找到了这颗心，但管子上有许许多多的裂痕。看起来随时都可能碎裂。|L||L|我无法想象无论身处何处都没有安全感是什么样的...哦，实际上，我知道这种感觉。",
+		"tips"    : "她有8个橙色的球体，但仅当你对她的心或者无法破坏的尖刺造成足够多的伤害时它们才会现身。如果你花费太多时间破坏其他部件，就可能会错过一些球体。",
 		"to_find" : "to_find_heart",
 	},
 	
@@ -1086,8 +1086,8 @@
 		"eyeric"  : "|mai||den| (Meyeden)",
 		"before"  : "不再入夜，不再痛苦",
 		"after"   : "我不再孤独",
-		"notes"   : "I found a tube of thick purple liquid today. There was another heart in it! I almost missed her! She was beating slower than any other heart I've found so far.|L||L|She wanted nothing more than for me to hold her in my hands. But I don't know how to open these tubes safely. Maybe I can find someone who knows what to do? I hope our little dream was enough for now.",
-		"tips"    : "Grabbing treasure bullets will reset your combo timer, so you can stop focusing on damage to chase after some treasure!",
+		"notes"   : "我今天找到了一个有着粘稠紫色液体的玻璃管。里面有另一颗心！我几乎没看到她！相较于我已经找到的其他心，她跳动的最为缓慢。|L||L|她只想让我将她握在手中。但我不知道如何安全的打开这些玻璃管。或许我能找到知道要怎么做的人？而现在，我希望我们的小小梦境已经足够。",
+		"tips"    : "收集珍宝子弹能够重置你的连击计时，所以你可以暂时不用专注于造成伤害，而是去追逐一些宝藏！",
 		"to_find" : "to_find_heart",
 	},
 	
@@ -1096,8 +1096,8 @@
 		"eyeric"  : "|vai||ral||-||rah||toh||tra| (Veyeral Rahtotra)",
 		"before"  : "我会夺走你的意志",
 		"after"   : "我不是故意这么冷的",
-		"notes"   : "Despite being one of the coldest Veyerals around, she refuses to let herself freeze over for good. She waits for someone brave enough to climb her castle of ice and give her a big smooch at the top.|L||L|I don't know why she makes it so hard for herself.",
-		"tips"    : "She has a limited amount of blood pupils during the second phase of her battle. She spits them out as her fear gets lower, but she can only do this between her main attacks. You will have to wait for all of them to come out, if you want to break them.",
+		"notes"   : "即使她是这附近最为冰冷的维目尔，她也拒绝让自己完全冰封。她等待着有人足够勇敢，能够攀爬她的冰之城堡，在顶端给她一个吻。|L||L|我不知道她为什么要这么为难自己。",
+		"tips"    : "在她的第二阶段，她的血液瞳孔的数量是有限的。在她的恐惧降低时她会把它们释放出来，但她仅能够在攻击间隔这么做。如果你想要破坏它们的话，需要等待它们全部出来。",
 	},
 	
 	"B_limbo" : {
@@ -1106,8 +1106,8 @@
 		"eyeric"  : "|dra|-|nah||hai||za| (Dra Nahaiza)",
 		"before"  : "我被困在了险恶的世界中",
 		"after"   : "我们来这里只为去爱",
-		"notes"   : "This heart was in a much bigger tube filled with sparkly liquid. There were motes of all colors floating around in there. Unlike all the other hearts, she was beating at a normal and healthy rate. But still, I could tell that all she wanted was to get out of there, just like all the others.|L||L|\"Number 32 - Limbo - Failure\"|L|Whoever wrote this on the tube is so mean!",
-		"tips"    : "The first orb you break will always determine her next attack, but her orbs will not release any treasure bullets if she repeats an attack. She always holds the combo during her color roulette phases, so take aim and make sure you break a new color every time.",
+		"notes"   : "这颗心位于一个非常大的玻璃管中，里面充满了带有电弧的液体。里面漂浮着各种颜色的魔尘。和其他的心不一样的是，她正在以正常且健康的节奏跳动。但是，我还是能看出来她只想逃离这里，和其他所有的心一样。|L||L|\"编号32 - 黯驳 - 失败\"|L|在这个玻璃管上写字的人太过分了！",
+		"tips"    : "你首次破坏的球体总会决定她下一次攻击的形式，但她重复攻击时她的球体不会释放任何珍宝子弹。在她选择颜色的阶段她总会保持你的连击，所以你可以花时间瞄准，确保你每次都能破坏新的颜色。",
 		"to_find" : "to_find_limbo",
 	},
 

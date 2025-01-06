@@ -593,7 +593,7 @@
 		"ex_magnet_tag" 		: "磁力石",
 		"ex_photo_tag" 			: "相片石",
 		"ex_negative_tag" 		: "负极石",
-		"ex_misfit_tag" 		: "不具帮手",
+		"ex_misfit_tag" 		: "不具之心帮手",
 		"ex_blue_tag" 			: "蓝色维目尔帮手",
 		"overflow_helpers_1"	: "所有|C3|[VAL1]|C0|被无法进入战场的|C8|[VAL2]个额外帮手|C0|激励，它们的伤害增加了|C3|[VAL3]%",
 		"overflow_helpers"		: "所有|C3|[VAL1]|C0|被无法进入战场的|C8|[VAL2]个额外帮手|C0|激励，它们的伤害增加了|C3|[VAL3]%",

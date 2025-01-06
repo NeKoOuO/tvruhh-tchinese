@@ -115,7 +115,7 @@
 	"blessing_reward"	: "一个新的祝福礼物可以被找到",
 	"burden_reward"		: "一个新的负担礼物可以被找到",
 	"event_reward"		: "一个新的事件在故事模式中解锁",
-	"event_reward_t"	: "A new event is unlocked for tower mode",
+	"event_reward_t"	: "一个新的事件在高塔模式中解锁",
 	"location_reward"	: "一个新的梦域被解锁",
 	"character_reward"	: "一个新角色的故事现已可用",
 	"alter_reward"		: "一个新的异相故事现已可用",
@@ -2937,7 +2937,7 @@
 	},
 	"DR_blue_veyeral1" : {
 		"name"    : "Blue's Perfect Party",
-		"desc"    : "在等级至少为8的战斗中，帮手链内至少有8个帮手的情况下到达蓝色维目尔的第四阶段、",
+		"desc"    : "在等级至少为8的战斗中，帮手链内至少有8个帮手的情况下到达蓝色维目尔的第四阶段",
 	},
 	"DR_blue_veyeral2" : {
 		"name"    : "Perfected Perfection",

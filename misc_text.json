@@ -35,7 +35,7 @@
 	"stage_card"		: "关卡 [VAL1]",
 	"bounty_card"		: "这个奖励礼物是为你准备的",
 	
-	"level_tag"			: "等级 [VAL1]",
+	"level_tag"			: "等级[VAL1]",
 	"abbrev_level"		: "Lv [VAL1]",
 	"very_long_time"	: "[VAL1] 分钟",
 	"abbrev_num_k"		: "[VAL1]K",
@@ -80,7 +80,7 @@
 	"xstat_cards" : {
 		"power_up"		: "这个怪物有着\n被增强的力量",
 		"power_down"	: "这个怪物有着\n被削弱的力量",
-		"lv_change"		: "Lv [VAL1] > [VAL2]",
+		"lv_change"		: "等级 [VAL1] > [VAL2]",
 		"xatk"			: "攻击速度\n[VAL1]",
 		"xdmg"			: "攻击伤害\n[VAL1]",
 		"xdef"			: "怪物恐惧\n[VAL1]",

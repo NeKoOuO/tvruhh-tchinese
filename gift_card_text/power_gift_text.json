@@ -7,12 +7,12 @@
 	},
 	"I_tiny_wings" : {
 		"name"    : "小小翅膀",
-		"memory"  : "As I look up to the sky,|L|I wish I knew just how to fly.|L|Tiny wings,|L|Little things.|L|I look up from where I sit,|L|I belong in this here pit.",
+		"memory"  : "当我抬头看向天上，|L|我真希望我知道如何飞翔。|L|小小的翅膀，|L|唤起思量。|L|我看向自己坐着的地方，|L|我只归属于坑底眺望。",
 		"card"    : "羽毛子弹！",
 	},
 	"I_starry_night" : {
 		"name"    : "繁星之夜",
-		"memory"  : "The stars fly higher than any Zaraden could ever reach. I can't fly like other Zaraden, but... why did they leave me down here?",
+		"memory"  : "星星们飞的比扎拉登能到达的地方还要高。我无法像其他扎拉登那样飞翔，但是...她们为什么要把我留在这下面呢？",
 		"card"    : "星星子弹！|L|保持不动以提高射速",
 	},
 	
@@ -21,32 +21,32 @@
 	
 	"I_small_mushroom" : {
 		"name"    : "小蘑菇",
-		"memory"  : "This little glowing mushroom grows in all the caves around here. They are very tasty and fill me with so much energy. After eating one, I can see my veins glowing the same color for a little while.",
+		"memory"  : "这个小小的发光蘑菇在这附近的洞穴中都有生长。它们非常美味，能够为我提供许多能量。在吃掉一个之后的一段时间里，我能看到我的血管中流淌着相同的颜色。",
 		"card"    : "最大生命+[VAL1]|L|总伤害+[VAL3]%",
 	},
 	"I_orb_mushroom" : {
 		"name"    : "球状蘑菇",
-		"memory"  : "These are so cute! They look like a little spring.|L||L|I can't tell you how many times a quick mite has snatched one of these right out of my hands. They must really love these mushrooms.",
+		"memory"  : "这些蘑菇非常可爱！它们看起来就像小小的弹簧一样。|L||L|我数不清有多少次快腿跳虫将它从我的手里抢走了。它们一定非常爱这些蘑菇。",
 		"card"    : "最大生命+[VAL1]|L|移动速度+[VAL3]",
 	},
 	"I_flat_mushroom" : {
 		"name"    : "平顶蘑菇",
-		"memory"  : "These are very tasty, but I can't bring myself to pick them anymore. They shelter so many little mites from the rain. I can't take that away from them!",
+		"memory"  : "这些蘑菇非常美味，但我不忍心再去摘取它们了。它们在雨中为许多小小跳虫提供了庇护。我无法夺走这一切！",
 		"card"    : "最大生命+[VAL1]|L|暴击率+[VAL3]%",
 	},
 	"I_quick_mite" : {
 		"name"    : "快腿跳虫",
-		"memory"  : "These quick little bugs run so fast and try so hard to stay out of sight. I actually thought they were just a blur until I finally saw one standing still. It vanished the instant it saw me.",
-		"card"    : "移动速度+[VAL1]|L|子弹速度 +[VAL2]%",
+		"memory"  : "这些敏捷的小虫子速度非常快，并且会极力避免出现在你的视野里。我之前以为它们只是模糊的斑点，直至我终于看到了一只静止不动的虫子。它看到我的一瞬间就消失了。",
+		"card"    : "移动速度+[VAL1]|L|子弹速度+[VAL2]%",
 	},
 	"I_fang" : {
 		"name"    : "尖牙",
-		"memory"  : "By the time your last baby fang falls out, you should be able to fly, but I could not...",
+		"memory"  : "当你最后一颗乳牙脱落之时，你就能够飞翔了，但是我不能...",
 		"card"    : "总伤害+[VAL1]%|L|连击时间增加",
 	},
 	"I_glass_fang" : {
 		"name"    : "玻璃尖牙",
-		"memory"  : "Ouch!|L|Did I just step on a Glass Flora thorn?|L||L|Hmm... This looks more like a tooth!",
+		"memory"  : "哎哟！|L|我刚刚是踩在玻璃植物的棘刺上了吗？|L||L|嗯...这看起来更像是一颗牙齿！",
 		"card"    : "暴击率+[VAL1]%|L|+1玻璃之心",
 	},
 	"I_star_flower" : {
@@ -56,17 +56,17 @@
 	},
 	"I_crescent" : {
 		"name"    : "新月",
-		"memory"  : "The crescent shape and void have been synonymous ever since this constellation was named. See how the gap in the crescent has no stars shining through it? It's the largest area with no stars in the whole sky. It's unnerving to think about how much empty space that is.",
+		"memory"  : "自从这个形状被命名以来，新月的形状与虚空一直都是同义词。你看到新月之间没有星星的闪耀光芒了吗？这是整个天空中最大的没有星星的区域。想象那块地方有多么空旷真让人不安。",
 		"card"    : "虚空防御+[VAL1]|L|总伤害+[VAL2]%|L|每点虚空防御",
 	},
 	"I_magma_worm" : {
 		"name"    : "熔岩虫",
-		"memory"  : "As the legend goes, a giant magma worm would flail violently deep inside of Mount Retina. This would cause all the earthquakes in the days leading up to an eruption of the volcano.|L||L|It hasn't erupted for over a hundred years, but I remember my mother told me that when she was little, she heard the same blast twice from right here! The sound went around the whole planet twice!",
+		"memory"  : "如传说中所言，在勒提娜山中有着巨大的熔岩虫会剧烈的挣扎。那时，引发的地震会导致火山喷发。|L||L|勒提娜山已经一百多年没有喷发过了，但我记得我的母亲和我说过，当她小时候，她在这里听到了两次同样的爆炸声！声音会绕着整个星球传播两圈！",
 		"card"    : "燃烧防御+[VAL1]|L|总伤害+[VAL2]%|L|每点燃烧防御",
 	},
 	"I_sky_guardian" : {
-		"name"    : "天空守卫",
-		"memory"  : "That one was supposedly the source of lightning during a storm. Rayo the Sky Guardian would hide in the clouds and shoot lightning from her tail. The thunder was the sound of her wings flapping, so you would hate her!|L||L|Hehehe, I know you could never hate anything.",
+		"name"    : "天空守护者",
+		"memory"  : "那个星座被认为是风暴中闪电的来源。天空守护者拉约会躲在云层里，用她的尾巴射出闪电。雷声是她翅膀拍打的声音，所以你会讨厌她！|L||L|Hehehe, I know you could never hate anything.",
 		"card"    : "电击防御+[VAL1]|L|总伤害+[VAL2]%|L|每点电击防御",
 	},
 	"I_hydra_plant" : {
@@ -92,7 +92,7 @@
 	"I_glass_petal" : {
 		"name"    : "玻璃花瓣",
 		"memory"  : "I found such a lovely flower petal on the ground. I picked it up thinking that it would be soft and smooth, but it had a sharp crack on it. I dropped it after it cut my finger and it shattered on the ground. Every piece had lost its beautiful color.",
-		"card"    : "总伤害+[VAL1]%每点hp|L|(全满时x[SPEC1])",
+		"card"    : "每点生命能让|L|总伤害+[VAL1]%|L|(生命全满时x[SPEC1])",
 	},
 	"I_halo" : {
 		"name"    : "光环",
@@ -636,7 +636,7 @@
 	"I_ripple_effect" : {
 		"name"    : "涟漪效应",
 		"memory"  : "I overheard yet another Zaraden talking about the same dream. An odd zaranoid creature was talking to her. It was impossible to make out the details of its form and it spoke with random noises. This has to be the same being that I saw. It's connecting with random Zaraden through their dreams, but not in the same way that any known monster would.|L||L|This is very exciting!",
-		"card"    : "分裂心心+[VAL1]|L|心心伤害+[VAL3]|L|暴击率+[VAL3]%",
+		"card"    : "分裂心心+[VAL1]|L|心心伤害+[VAL2]|L|暴击率+[VAL3]%",
 	},
 	"I_love_mite" : {
 		"name"    : "爱的跳虫",
