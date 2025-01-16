@@ -211,11 +211,11 @@
 		"desc"    : "怪物们100000颗子弹的雨落向了你",
 	},
 	"DR_bullets1m" : {
-		"name"    : "爱情就是残酷战场",
+		"name"    : "爱情的残酷战场",
 		"desc"    : "怪物们1000000颗子弹的雨落向了你",
 	},
 	"DR_bullets5m" : {
-		"name"    : "把你的悲伤倾泻给我",
+		"name"    : "将你的悲伤倾泻于我",
 		"desc"    : "怪物们5000000颗子弹的雨落向了你",
 	},
 	"DR_panic3000" : {
@@ -259,7 +259,7 @@
 		"desc"    : "爱过扎拉机械怪物们48次",
 	},
 	"DR_glass4" : {
-		"name"    : "我的心是透明的",
+		"name"    : "我的透明之心",
 		"desc"    : "爱过玻璃植物怪物们8次",
 	},
 	"DR_glass_t2" : {
@@ -287,7 +287,7 @@
 		"desc"    : "爱过10只不同的怪物",
 	},
 	"DR_love_unique20" : {
-		"name"    : "结识朋友",
+		"name"    : "呼朋唤友",
 		"desc"    : "爱过20只不同的怪物",
 	},
 	"DR_love_unique30" : {
@@ -499,7 +499,7 @@
 	},
 	"DR_defect_trial10" : {
 		"name"    : "缺陷:三连恐惧",
-		"desc"    : "作为缺陷，在无尽恐慌中连续3场战斗获得100%连击",
+		"desc"    : "作为缺陷，在无尽恐惧中连续3场战斗获得100%连击",
 	},
 	"DR_alt_defect_trial1" : {
 		"name"    : "异相缺陷:三天",
@@ -564,7 +564,7 @@
 	},
 	"DR_twin_heart_trial10" : {
 		"name"    : "双子之心:跃升恐惧",
-		"desc"    : "作为双子之心，在无尽恐慌第一个轮次结束前击败任何等级9的怪物",
+		"desc"    : "作为双子之心，在无尽恐惧第一个轮次结束前击败任何等级9的怪物",
 	},
 	"DR_alt_twin_trial1" : {
 		"name"    : "异相双子:三天",
@@ -588,7 +588,7 @@
 	},
 	"DR_alt_twin_trial6" : {
 		"name"    : "异相双子:四重连击",
-		"desc"    : "作为异相双子，在无尽恐慌中连续4场战斗获得100%连击",
+		"desc"    : "作为异相双子，在无尽恐惧中连续4场战斗获得100%连击",
 	},
 	
 	"DR_the_devil_trial1" : {
@@ -649,7 +649,7 @@
 	},
 	"DR_alt_devil_trial5" : {
 		"name"    : "异相恶魔:跃升压力",
-		"desc"    : "作为异相恶魔，在无尽恐慌第一个轮次结束前击败任何等级9的怪物",
+		"desc"    : "作为异相恶魔，在无尽恐惧第一个轮次结束前击败任何等级9的怪物",
 	},
 	"DR_alt_devil_trial6" : {
 		"name"    : "异相恶魔:梦魇连击",
@@ -744,7 +744,7 @@
 		"desc"    : "点亮36张怪物卡",
 	},
 	"DR_radiate_monster52" : {
-		"name"    : "闪耀的怪物卡组",
+		"name"    : "闪亮的怪物卡组",
 		"desc"    : "点亮52张怪物卡",
 	},
 	"DR_radiate_monster70" : {
@@ -760,7 +760,7 @@
 		"desc"    : "点亮11张能够达到11或更高等级的怪物卡",
 	},
 	"DR_radiate_hearts" : {
-		"name"    : "Waking The Fallen Hearts",
+		"name"    : "唤醒陨落的心",
 		"desc"    : "点亮任意四张陨落之心怪物卡",
 	},
 	"DR_radiate_final3" : {
@@ -788,7 +788,7 @@
 		"desc"    : "拥有120张点亮的力量礼物卡",
 	},
 	"DR_radiate_gift180" : {
-		"name"    : "一堆明亮的礼物",
+		"name"    : "一堆明艳的礼物",
 		"desc"    : "拥有180张点亮的力量礼物卡",
 	},
 	"DR_radiate_gift_3star" : {
@@ -816,7 +816,7 @@
 		"desc"    : "拥有10张点亮的奖励礼物卡",
 	},
 	"DR_radiate_bounty_t2" : {
-		"name"    : "美丽的奖励",
+		"name"    : "奇妙的奖励",
 		"desc"    : "拥有30张点亮的奖励礼物卡",
 	},
 	"DR_radiate_bless_t1" : {
@@ -824,7 +824,7 @@
 		"desc"    : "拥有25张点亮的祝福礼物卡",
 	},
 	"DR_radiate_bless_t2" : {
-		"name"    : "有了朋友们的一点帮助",
+		"name"    : "朋友们的一点帮助",
 		"desc"    : "拥有100张点亮的祝福礼物卡",
 	},
 	"DR_radiate_burden_t1" : {
@@ -840,7 +840,7 @@
 		"desc"    : "点亮12个梦域",
 	},
 	"DR_radiate_bgs_t2" : {
-		"name"    : "梦的日记",
+		"name"    : "梦日记",
 		"desc"    : "点亮25个梦域",
 	},
 	"DR_radiate_events_t1" : {
@@ -852,7 +852,7 @@
 		"desc"    : "点亮18个事件",
 	},
 	"DR_radiate_events_t3" : {
-		"name"    : "幸运的历险",
+		"name"    : "幸运的冒险",
 		"desc"    : "点亮33个事件",
 	},
 	
@@ -918,7 +918,7 @@
 		"desc"    : "在故事模式中爱过一只等级12或以上的怪物",
 	},
 	"DR_story_overlevel" : {
-		"name"    : "更远超越",
+		"name"    : "渺远超越",
 		"desc"    : "在故事模式中爱过任何等级超过上限的怪物",
 	},
 	"DR_story_score20k" : {
@@ -934,7 +934,7 @@
 		"desc"    : "在单局故事模式中获得至少60000魔尘",
 	},
 	"DR_story_score80k" : {
-		"name"    : "80,000小点",
+		"name"    : "80,000尘粒",
 		"desc"    : "在单局故事模式中获得至少80000魔尘",
 	},
 	"DR_story_score100k" : {
@@ -950,7 +950,7 @@
 		"desc"    : "在单局故事模式中获得至少140000魔尘",
 	},
 	"DR_story_score160k" : {
-		"name"    : "魔尘之星",
+		"name"    : "魔尘恒星",
 		"desc"    : "在单局故事模式中获得至少160000魔尘",
 	},
 	"DR_story_score180k" : {
@@ -970,7 +970,7 @@
 		"desc"    : "在故事模式中至少同时拥有150因果",
 	},
 	"DR_story_karma200" : {
-		"name"    : "过度过剩的运气",
+		"name"    : "极度过剩的运气",
 		"desc"    : "在故事模式中至少同时拥有200因果",
 	},
 	
@@ -997,7 +997,7 @@
 		"desc"    : "在故事模式中总共通过100个挑战",
 	},
 	"DR_low_karma" : {
-		"name"    : "这几乎如此容易",
+		"name"    : "迫近简单",
 		"desc"    : "在单局故事模式中通关两个完整章节后拥有不大于30的因果",
 	},
 	"DR_story_panic7" : {
@@ -1013,11 +1013,11 @@
 		"desc"    : "在故事模式中，生命值小于等于4点时开始战斗并获胜",
 	},
 	"DR_helpers4" : {
-		"name"    : "盟友列车",
+		"name"    : "星盟列车",
 		"desc"    : "在故事模式中，开始战斗时帮手链中有至少4个帮手",
 	},
 	"DR_helpers9" : {
-		"name"    : "不合之链",
+		"name"    : "不具之链",
 		"desc"    : "在故事模式中，开始战斗时帮手链中有至少9个帮手",
 	},
 	"DR_story_radiant" : {
@@ -1078,7 +1078,7 @@
 		"desc"    : "遭遇12个不同的怪物主导事件",
 	},
 	"DR_monster_events_t2" : {
-		"name"    : "Scary Monsters and Lovely Creeps",
+		"name"    : "恐怖怪物与可爱怪人",
 		"desc"    : "遭遇25个不同的怪物主导事件",
 	},
 	"DR_leave_free_gift" : {
@@ -1090,7 +1090,7 @@
 		"desc"    : "带走免费的心型钥匙",
 	},
 	"DR_self_doubt_max" : {
-		"name"    : "放心休息",
+		"name"    : "安心休憩",
 		"desc"    : "在单次休息中降低难度3次以治愈所有的自我怀疑",
 	},
 	"DR_garden_motes_t1" : {
@@ -1098,11 +1098,11 @@
 		"desc"    : "从光耀花园处收集2500光耀魔尘",
 	},
 	"DR_garden_motes_t2" : {
-		"name"    : "恐惧症光合作用",
+		"name"    : "恐惧症的光合作用",
 		"desc"    : "从光耀花园处收集10000光耀魔尘",
 	},
 	"DR_garden_motes_t3" : {
-		"name"    : "植物渴望什么！",
+		"name"    : "植物渴望些什么！",
 		"desc"    : "从光耀花园处收集30000光耀魔尘",
 	},
 	"DR_garden_blessing" : {
@@ -1124,47 +1124,47 @@
 	
 	
 	"DR_lulu_gift" : {
-		"name"    : "Known Unknowns",
+		"name"    : "已知的未知",
 		"desc"    : "接受单元露露的特别免费礼物",
 	},
 	"DR_heliola_gift" : {
-		"name"    : "Mrs. Brightside",
+		"name"    : "阳光总在风雨后",
 		"desc"    : "接受赫日欧拉的特别免费礼物",
 	},
 	"DR_synapse_first" : {
-		"name"    : "To My Future Self",
+		"name"    : "为了未来的自己",
 		"desc"    : "将任意礼物放入连接突触",
 	},
 	"DR_synapse_three" : {
-		"name"    : "Tomorrow is Already Loved",
+		"name"    : "明日早已被爱",
 		"desc"    : "将任意（3星）奇妙力量礼物放入连接突触",
 	},
 	"DR_max_scrambla" : {
-		"name"    : "Fully Scrambled",
+		"name"    : "完整炒蛋",
 		"desc"    : "完全升级蛋花的连接突触",
 	},
 	"DR_max_boiler" : {
-		"name"    : "Maximum Spicy!",
+		"name"    : "最大辣度！",
 		"desc"    : "完全升级锅炉的连接突触",
 	},
 	"DR_double_starter" : {
-		"name"    : "Mild Paradox",
+		"name"    : "温和悖论",
 		"desc"    : "将两个同样的礼物从连接突触中取出",
 	},
 	"DR_super_starter" : {
-		"name"    : "Self Confidence",
+		"name"    : "自我信念",
 		"desc"    : "在故事模式中已经装备3个（3星）奇妙力量礼物的情况下击败第一只怪物",
 	},
 	"DR_blot_spend" : {
-		"name"    : "The Cutest Art Collector",
+		"name"    : "最可爱的艺术收藏家",
 		"desc"    : "在墨点的艺术馆花费45代币",
 	},
 	"DR_blot_donate" : {
-		"name"    : "Blot's Patron",
+		"name"    : "墨点的赞助者",
 		"desc"    : "向墨点的艺术馆捐赠任意5个礼物",
 	},
 	"DR_blot_3star" : {
-		"name"    : "Wonderfully Generous",
+		"name"    : "奇妙的慷慨",
 		"desc"    : "向墨点的艺术馆捐赠1个（3星）奇妙力量礼物",
 	},
 	"DR_vitrea_gifts" : {
@@ -1172,19 +1172,19 @@
 		"desc"    : "在琉璃的天文观测所中使用天文望远镜捕捉12个宇宙礼物",
 	},
 	"DR_vitrea_donate" : {
-		"name"    : "Did You Know?",
+		"name"    : "你知道吗？",
 		"desc"    : "向琉璃的天文观测所捐赠5个宇宙礼物",
 	},
 	"DR_vitrea_upgrade" : {
-		"name"    : "Vitrea's Secret",
-		"desc"    : "完全升级琉璃的天文观测所中的里屋维度",
+		"name"    : "琉璃的秘密",
+		"desc"    : "完全升级琉璃的天文观测所中的后室维度",
 	},
 	"DR_quiz_round1" : {
-		"name"    : "You Passed!",
+		"name"    : "你过关！",
 		"desc"    : "通过哨卫问答的第一轮",
 	},
 	"DR_quiz_round2" : {
-		"name"    : "Extra Credit!",
+		"name"    : "额外学分！",
 		"desc"    : "通过哨卫问答的第二轮",
 	},
 	"DR_quiz_round3" : {
@@ -1192,33 +1192,33 @@
 		"desc"    : "通过哨卫问答的最终轮",
 	},
 	"DR_quiz_answer_t1" : {
-		"name"    : "Void Smart",
+		"name"    : "虚空聪慧",
 		"desc"    : "在哨卫问答中总共正确回答20个问题",
 	},
 	"DR_quiz_answer_t2" : {
-		"name"    : "Forbidden Knowledge",
+		"name"    : "禁忌学识",
 		"desc"    : "在哨卫问答中总共正确回答50个问题",
 	},
 
 	
 	"DR_trade_t1" : {
-		"name"    : "12 Trades!",
+		"name"    : "12次交易！",
 		"desc"    : "从任意怪物手中总共收下12个交易得来的礼物",
 	},
 	"DR_trade_t2" : {
-		"name"    : "24 Trades!",
+		"name"    : "24次交易！",
 		"desc"    : "从任意怪物手中总共收下24个交易得来的礼物",
 	},
 	"DR_trade_t3" : {
-		"name"    : "48 Trades!",
+		"name"    : "48次交易！",
 		"desc"    : "从任意怪物手中总共收下48个交易得来的礼物",
 	},
 	"DR_calorie_take" : {
-		"name"    : "Cool Side of the Pillow",
+		"name"    : "枕头凉爽的另一面",
 		"desc"    : "从卡洛里处收下任何交易得来的礼物",
 	},
 	"DR_lila_give" : {
-		"name"    : "Feed the Eyeball",
+		"name"    : "喂食眼球",
 		"desc"    : "给莱拉喂任意礼物",
 	},
 	"DR_hematoren_give" : {
@@ -1226,11 +1226,11 @@
 		"desc"    : "在单次拜访中向血玛托壬捐献至少10点最大生命值",
 	},
 	"DR_chemory_give" : {
-		"name"    : "A Chemical Romance",
+		"name"    : "一个化学浪漫",
 		"desc"    : "给予切莫里任意2个礼物",
 	},
 	"DR_hadesoh_burden" : {
-		"name"    : "Pathetic, Wasted, Soulless, Compromised",
+		"name"    : "可悲，可叹，可怖，可泣",
 		"desc"    : "在单次拜访中从炼狱之梭处收下4个负担",
 	},
 	"DR_monovai_take" : {
@@ -1238,33 +1238,33 @@
 		"desc"    : "从寞诺唯处收下任何交易得来的礼物",
 	},
 	"DR_prisma_take" : {
-		"name"    : "Double Take",
+		"name"    : "二次认知",
 		"desc"    : "在单次拜访中从棱镜处收下2个交易得来的礼物",
 	},
 	"DR_glacia_give" : {
-		"name"    : "The Gift of Giving",
+		"name"    : "名为给予的礼物",
 		"desc"    : "给予星川任意礼物",
 	},
 	"DR_frozen_give" : {
-		"name"    : "Just Warming Up",
+		"name"    : "只是在热身",
 		"desc"    : "给予冰封维目尔任意礼物",
 	},
 	"DR_vibrant_take" : {
-		"name"    : "Vibrant Trade",
+		"name"    : "活力交易",
 		"desc"    : "从活力维目尔处收下任意交易得来的礼物",
 	},
 	
 	
 	"DR_visit_t1" : {
-		"name"    : "8 Free Gifts!",
+		"name"    : "8个免费礼物！",
 		"desc"    : "从任意怪物手中总共收下8个免费礼物",
 	},
 	"DR_visit_t2" : {
-		"name"    : "16 Free Gifts!",
+		"name"    : "16个免费礼物！",
 		"desc"    : "从任意怪物手中总共收下16个免费礼物",
 	},
 	"DR_visit_t3" : {
-		"name"    : "32 Free Gifts!",
+		"name"    : "32个免费礼物！",
 		"desc"    : "从任意怪物手中总共收下32个免费礼物",
 	},
 	"DR_amalga_visit" : {
@@ -1272,15 +1272,15 @@
 		"desc"    : "从阿玛加手中收下4个免费礼物",
 	},
 	"DR_roundsaw_visit" : {
-		"name"    : "Free Hug With Every Sawblade",
+		"name"    : "每个锯片的免费拥抱",
 		"desc"    : "从圆锯手中收下1个免费礼物",
 	},
 	"DR_photoxai_visit" : {
-		"name"    : "Worth a Thousand Words",
+		"name"    : "一图胜千言",
 		"desc"    : "从光影之楔手中收下1个免费礼物",
 	},
 	"DR_ombroah_visit" : {
-		"name"    : "Under My Umbrella",
+		"name"    : "我和你打着一把雨伞",
 		"desc"    : "从雨布罗阿手中收下1个免费礼物",
 	},
 	"DR_astrayo_visit" : {
@@ -1288,19 +1288,19 @@
 		"desc"    : "从雷斯塔尤手中收下1个免费礼物",
 	},
 	"DR_null_unit_visit" : {
-		"name"    : "Saving It For a Rainy Day",
+		"name"    : "未雨绸缪",
 		"desc"    : "从空无单元手中收下1个免费礼物",
 	},
 	"DR_flip_flap_visit" : {
-		"name"    : "Pure Affection",
+		"name"    : "纯粹的爱",
 		"desc"    : "从噼里啪啦手中收下2个免费礼物",
 	},
 	"DR_pearl_visit" : {
-		"name"    : "Polished Affect",
+		"name"    : "珍视化影响",
 		"desc"    : "从珍珠手中收下1个免费礼物",
 	},
 	"DR_burning_visit" : {
-		"name"    : "Extra Crispy",
+		"name"    : "格外焦脆",
 		"desc"    : "从燃烧维目尔手中收下1个免费礼物",
 	},
 	"DR_venom_visit" : {

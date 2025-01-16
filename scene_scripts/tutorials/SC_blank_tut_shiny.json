@@ -40,15 +40,15 @@
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "这是因为在闪亮战斗中，怪物们会使用|C3|宝物子弹|C0|攻击你。",
+			"dialog"		: "这是因为在闪亮战斗中，怪物们会使用|C3|珍宝子弹|C0|攻击你。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|宝物子弹|C0|不会伤害你，并且其中还含有|C3|魔尘|C0|。",
+			"dialog"		: "|C3|珍宝子弹|C0|不会伤害你，并且其中还含有|C3|魔尘|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|建议:|C0|让你的心接触到尽可能多的|C3|宝物子弹|C0|以提取这些魔尘。",
+			"dialog"		: "|C3|建议:|C0|让你的心接触到尽可能多的|C3|珍宝子弹|C0|以提取这些魔尘。",
 		},
 		{
 			"show_tutorial"	: "love_bar_full",

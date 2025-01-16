@@ -112,7 +112,7 @@
 	"script_3" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_aggressive"],
-			"dialog"			: "你看到了吗？|L||!|我的心能够处理这一切！",
+			"dialog"			: "你看到了吗？|L||!|我的心能够应对这一切！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],

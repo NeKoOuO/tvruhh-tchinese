@@ -127,7 +127,7 @@
 		"before"  : "每个比特都在对应的位置",
 		"after"   : "已安装爱的软件",
 		"notes"   : "这些机器做任何事都会在一起。她们甚至并非因程序驱动而如此，只是喜欢在一起的感觉。",
-		"tips"    : "(+)子弹造成|C11|4点|I11|光耀伤害。|C0||L|(-子弹造成|C12|4点|I12|虚空伤害。|C0||L|她们似乎有点拿不定主意。",
+		"tips"    : "(+)子弹造成|C11|4点|I11|光耀伤害。|C0||L|(-)子弹造成|C12|4点|I12|虚空伤害。|C0||L|她们似乎有点拿不定主意。",
 	},
 	
 	"B_glacia" : {
@@ -171,7 +171,7 @@
 		"eyeric"  : "|nah||-||vai||dra| (Nah Vaidra)",
 		"title"   : "绝对之零",
 		"before"  : "无...",
-		"after"   : "...万物",
+		"after"   : "...一切",
 		"notes"   : "这里如此寒冷与孤独...",
 		"tips"    : "整面墙都是她的一部分...",
 		"to_find" : "to_find_final",
@@ -723,7 +723,7 @@
 	
 	"B_nova" : {
 		"name"    : "超新星",
-		"title"	  : "Spectrum of Fear",
+		"title"	  : "恐惧光谱",
 		"eyeric"  : "|no||vai||lu| (Novailu)",
 		"before"  : "宇宙级恐惧",
 		"after"   : "爱的每一种味道",
@@ -782,8 +782,8 @@
 		"eyeric"  : "|vai||den||dra| (Vaidendra)",
 		"before"  : "如此孤独",
 		"after"   : "你感到被接受了",
-		"notes"   : "正如紫色棱晶一般，我在触碰她时什么也感觉不到。我知道我正握着她，但感觉好像仅仅握住空气一般。Like purple tetrids, I can't feel anything when I touch her. I know that I'm holding her, but it feels like I'm grabbing nothing but air. Either way, I can tell that the love I show her is being felt by Nova and her other simulacra.",
-		"tips"    : "She will hold the combo as long as a small piece of her is bouncing around the arena. Pay extra attention when breaking the last one if you don't want to lose your combo.",
+		"notes"   : "正如紫色棱晶一般，我在触碰她时什么也感觉不到。我知道我正握着她，但感觉好像仅仅握住空气一般。无论如何，我能看出来我向她展示的爱能够被超新星和她的其他克隆体感受到。",
+		"tips"    : "只要她还有一小块在场地内反弹，她就会为你保持连击。如果你不想失去连击的话，在破坏最后一块时需要格外注意。",
 	},
 	
 	"B_forma" : {

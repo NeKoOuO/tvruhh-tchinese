@@ -77,7 +77,7 @@
 	"E_self_doubt" : {
 		"name"		: "自我怀疑",
 		"hint"		: "[hint_common]",
-		"details"	: "The monsters are getting more and more powerful. Is this too much for me already? Am I good enough for this? These negative thoughts will get in the way later. The monsters can sense it. We are sharing dreams after all.|L||L|I'll just rest for a little while. If I rest longer, I can |C3|reduce monster power by up to 3 levels.|C0|",
+		"details"	: "怪物们变得越来越强大了。这对我来说已经太难了吗？我的能力真的足够吗？这些负面情绪之后会阻碍我。怪物们能够感受到它。毕竟，我们在分享梦境。|L||L|我就休息一小会。如果我休息的更久的话，我可以|C3|将怪物的力量降低至多3级。|C0|",
 		"rule1"		: "[rule_any_stage]",
 		"rule2"		: "将怪物的基础力量升高到相较于当前阶段的极高等级能够增加发生概率。在任何章节结束时这个概率会进一步增加。",
 		"rule3"		: "在单场战斗中多次受击能够增加战斗后的遭遇概率。",
@@ -85,8 +85,8 @@
 	"E_free_heart_key" : {
 		"name"		: "通往爱的钥匙",
 		"hint"		: "[hint_common]",
-		"details"	: "One of my tetrids pulled me over to a |C3|Heart Key|C0| on the ground. Should I take it?|L||L|It is a rare and |C3|Wonderful Power Gift!|C0| But I have noticed that for every 3-star gift I have, I am |C3|less likely to find another one|C0| later.",
-		"rule1"		: "This event can appear after any chapter, but only before the start of the third full sized chapter.",
+		"details"	: "我的一个棱晶将我引向了地上的一个|C3|心形钥匙。|C0|我应该拿走它吗？|L||L|这是个稀有的|C3|奇妙力量礼物！|C0|但我注意到我每有一个3星礼物，我后面|C3|找到另一个的概率就越低。",
+		"rule1"		: "这个事件可以在任一章节后发生，但仅会在第三个完整章节开始之前发生。",
 		"rule2"		: "[rule_karma]",
 		"rule3"		: "每个失败的礼物挑战都会大幅增加发生概率。",
 		"rule4"		: "你必须尚未拥有|C3|心型钥匙|C0|礼物。",
@@ -95,7 +95,7 @@
 	"E_convert_tetrids" : {
 		"name"		: "光耀花园",
 		"hint"		: "[hint_common]",
-		"details"	: "I found a beautiful garden filled with radiant flowers. The flowers can change the colors of my tetrids!|L||L|If I give the garden enough tetrids, it will attract a |C3|Special Monster.|C0|",
+		"details"	: "我找到了一个美丽的花园，里面充满着光耀花朵。这些花朵能够改变我棱晶的颜色！|L||L|如果我给了花园足够的棱晶，它能够吸引一个|C3|特别怪物。|C0|",
 		"rule1"		: "[rule_any_chapter]",
 		"rule2"		: "这个事件在任意一局游戏中发生的概率均非常高。",
 		"rule3"		: "这个事件在一局游戏前期出现的概率在更高难度下会大幅提高。",
@@ -104,49 +104,49 @@
 	"E_lulu" : {
 		"name"		: "露露的礼物",
 		"hint"		: "[hint_monster]",
-		"details"	: "After a practice battle with the Little Robot, she will give me her |C3|Fear Sense|C0| gift. This thing can tell me exactly how much fear a monster has. I don't really know what that means, but the battles always end exactly when that number gets to zero!|L||L|She must have spent so much time studying the monsters. Even during all those days that I can't remember.",
+		"details"	: "在和小机器人的练习战后，她会给我她的|C3|恐惧感知|C0|礼物。这东西能够告诉我怪物拥有恐惧的准确数量。我其实不知道这是什么意思，但当数字变为零时战斗就结束了！|L||L|她一定花了许多时间研究怪物们。即使是在我没有记忆的那些天里。",
 		"rule1"		: "[rule_monster]",
 		"rule2"		: "你必须尚未拥有|C3|恐惧感知|C0|礼物。",
 	},
 	"E_heliola" : {
 		"name"		: "日心说",
 		"hint"		: "[hint_monster]",
-		"details"	: "Heliola decided that she didn't want to hide herself from everyone anymore. It will take her some time to get over her fear of attention, but the world will be a better place when she can share her light freely.|L||L|She made a |C3|Sun Stone|C0| for me today. It uses her own light to attract more monsters. It also helps me feel energized, especially now that I'm starting to forget what the sun feels like...",
+		"details"	: "赫日欧拉决定她不会在任何人面前藏起自己了。会需要点时间来让她克服自己对于关注的恐惧，但当她能够自由分享自己的光芒时，这个世界会变为一个更好的地方。|L||L|她今天为我制作了一块|C3|日之石。|C0|这块石头使用她的自己的光芒来吸引更多的怪物。它还能帮助我感到活力四射，尤其是现在。我都快要忘记太阳是什么感觉了...",
 		"rule1"		: "[rule_monster]",
 		"rule2"		: "你必须尚未拥有|C3|日之石|C0|礼物。",
 	},
 	"E_scrambla" : {
 		"name"		: "蛋花的礼物",
 		"hint"		: "[hint_monster_multi]",
-		"details"	: "That absolute sweetheart, Scrambla found a way to help me. She can open a |C3|Link Synapse|C0| and put some of my gifts inside. I won't have those gifts anymore today, but they will be waiting for me tomorrow!|L||L|I wonder where my gifts normally go at night?",
+		"details"	: "那只绝对甜心，蛋花，找到了个办法来帮助我。她能够打开一个|C3|连接突触|C0|并将我的一些礼物放入其中。今天我不会再拥有那些礼物，但它们明天会等我！|L||L|我在想我的礼物到晚上会去哪里呢？",
 		"rule1"		: "[rule_skip_one]",
 		"rule2"		: "[rule_come_back]",
 	},
 	"E_boiler" : {
 		"name"		: "锅炉的礼物",
 		"hint"		: "[hint_monster_multi]",
-		"details"	: "The spiciest Shamble around, Boiler found a way to help me. She can open a |C3|Link Synapse|C0| and send my gifts straight to my home, but tomorrow in the future!|L||L|Her synapse seems to share the same exit point as her sister, Scrambla's.",
+		"details"	: "这附近最辣的晃晃，锅炉，到了个办法来帮助我。她能够打开一个|C3|连接突触|C0|并将我的礼物直接送到我的家中，但是在明天！|L||L|她的连接突触似乎与她妹妹共用一个出口，也就是和蛋花。",
 		"rule1"		: "[rule_skip_one]",
 		"rule2"		: "[rule_come_back]",
 	},
 	"E_blot" : {
 		"name"		: "墨点的艺术展览馆",
 		"hint"		: "[hint_monster_multi]",
-		"details"	: "Blot invited me to her art gallery today. She asked me for gift donations with a special interest in |C3|artistic|C0| gifts.|L||L|She proudly talked about all the beautiful art that she found while I tried my best to hide the welling tears in my eyes. She doesn't know that I painted most of them. It's been a long time since I've felt this flavor of happiness.",
+		"details"	: "墨点今天邀请我去她的艺术展了。她想让我捐赠礼物，并且特别对|C3|艺术|C0|礼物感兴趣。|L||L|她骄傲地谈论着自己找到的那些美丽的艺术品，而我则在努力藏着眼中涌出的泪水。她不知道我画了其中的绝大多数。我有很久没有感到这种幸福的味道了。",
 		"rule1"		: "[rule_monster_multi]",
 		"rule2"		: "[rule_token_shop]",
 	},
 	"E_vitrea" : {
 		"name"		: "琉璃的天文观测所",
 		"hint"		: "[hint_monster_multi]",
-		"details"	: "Vitrea invited me to her observatory today. She asked me for gift donations with a special interest in |C3|cosmic|C0| gifts.|L||L|Her telescopes are amazing! They can blast small holes in the clouds to let the stars shine through. They can also be used to capture the image of stars as a gift.|L||L|Unfortunately we can't use them to blast all the clouds away.",
+		"details"	: "琉璃今天邀请我去她的天文台了。她想让我捐赠礼物，并且特别对|C3|宇宙|C0|礼物感兴趣。|L||L|她的望远镜太棒了！它们可以在云层中轰出小小的洞，从而让星光得以透过其中。它们也可以被用于拍摄星星的样貌并作为礼物。|L||L|可惜的是，我们无法用它们将所有的云层轰走。",
 		"rule1"		: "[rule_monster_multi]",
 		"rule2"		: "[rule_token_shop]",
 	},
 	"E_sentinel_quiz" : {
 		"name"		: "哨卫的问答游戏",
 		"hint"		: "[hint_monster_multi]",
-		"details"	: "Sentinel 4X gave me another quiz today. She was so happy every time I got a correct answer. She gets so excited, I was afraid her head was really going to explode this time.|L||L|As I learn more, she comes up with new questions to ask. I don't know how she does that. It's like she can tell exactly what I know just by looking at me. I think she wants to make sure I don't lose my memories again.",
+		"details"	: "哨卫4X今天又为我举行了另一场问答。每次我答对时她都会特别开心。她表现的那么兴奋，我都担心她的头部这次真的会爆炸了。 |L||L|在我学到更多之后，她会想出新的问题来问我。我不知道她是怎么做到的。似乎她看着我就能清楚我知道什么。我觉得她是想要确保我不会再次失去自己的记忆。",
 		"rule1"		: "在|C3|哨卫 4X|C0|的任意形态被爱过后，这个事件会在随机场数事件后出现。",
 		"rule2"		: "她会在1至5场战斗后任意时刻归来。",
 		"rule3"		: "在一局游戏至少4只怪物被爱过之前，她不会归来。",
@@ -159,7 +159,7 @@
 	"E_free_gift" : {
 		"name"		: "无人的礼物",
 		"hint"		: "[hint_common]",
-		"details"	: "I stumbled upon a lonely gift that seemingly belonged to no one. Should I take it next time? What if it belongs to someone? What if they wanted to give it to me, but were too scared?",
+		"details"	: "我偶然遇到了一个孤独的礼物，似乎不属于任何人。下次我应该拿走它吗？或许它是某个人的东西？或许是她们想要将它给我，但是太害怕了？",
 		"rule1"		: "[rule_any_chapter]",
 		"rule2"		: "[rule_karma]",
 		"rule3"		: "相较于当前阶段拥有较少数量的|C3|力量礼物|C0|能够大幅增加发生概率。",
@@ -168,7 +168,7 @@
 	"E_visit_amalga" : {
 		"name"		: "阿玛加的好客",
 		"hint"		: "[hint_chance]",
-		"details"	: "Amalga was so worried about me, that she gave me |C3|4 Bonus Gifts|C0| today.|L||L|She's a sweetheart, but she doesn't take care of herself. She was literally falling apart when I saw her. I don't know how to convince her that she matters just as much as anyone else.",
+		"details"	: "阿玛加非常担心我，她今天给了我|C3|4个额外礼物。|C0| |L||L|她真是个心地善良的人，但她不会照顾自己。当我见到她是，她都已经要四分五裂了。我不知道要如何说服她让她相信--她和其他任何人一样重要。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_free1]",
 		"rule3"		: "[rule_free2]",
@@ -176,7 +176,7 @@
 	"E_visit_roundsaw" : {
 		"name"		: "圆锯的怒火",
 		"hint"		: "[hint_chance_multi]",
-		"details"	: "Roundsaw wants to help me boost my loving power! She gave me a choice of |C3|Passive Boost Gifts|C0| or a |C3|Bonus Gift.|C0||L||L|I think she just wanted me to give her a stronger hug. She even took her sawblade off so I could really get in there! I always thought it was a part of her body.",
+		"details"	: "圆锯想要帮助我增强我的爱之力量！她让我选择|C3|被动增益礼物|C0|或是一个|C3|额外礼物。|C0||L||L|我觉得她只是想让我给她一个更强劲的拥抱。她甚至卸下了自己的锯片，让我真的能够抱紧她！我一直以为那是她身体的一部分。",
 		"rule1"		: "[rule_visit_multi]",
 		"rule2"		: "[rule_free1]",
 		"rule3"		: "[rule_free2]",
@@ -184,7 +184,7 @@
 	"E_visit_photoxai" : {
 		"name"		: "羞涩的光影之楔",
 		"hint"		: "[hint_chance]",
-		"details"	: "I ran into Photoxai again today. She can take photographs by making her glyph flash a bright light!|L||L|She likes to take photos of random gifts that I have with me. These photos work just like |C3|duplicate gifts,|C0| and she lets me take one of them!|L||L|If I have any room for a Quick Gift, she will also give me one of her |C3|photo gifts.|C0|",
+		"details"	: "我今天又遇到光影之楔了。她可以让她的符文闪出明亮的光以拍摄照片！|L||L|她喜欢为我身上带着的随机礼物拍摄照片。这些照片有着|C3|复制礼物|C0|的效果，并且她会让我拿走其中一个！|L||L|如果我有空间存放快速礼物的话，她还会给我她其中一个|C3|相片礼物。|C0|",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_free1]",
 		"rule3"		: "[rule_free2]",
@@ -192,7 +192,7 @@
 	"E_visit_ombroah" : {
 		"name"		: "雨布罗阿的伞",
 		"hint"		: "[hint_chance]",
-		"details"	: "I found Ombroah's home and she invited me under her umbrella. She wanted to give me a gift. She let me choose from |C3|water and rain gifts|C0| or some of her very own |C3|heart stones.|C0||L||L|She's so sweet. She let me sleep next to her for a while. I felt so safe.",
+		"details"	: "我发现了雨布罗阿的家，她邀请我到她的雨伞之下。她想要给我一个礼物。她让我在|C3|水和雨的礼物|C0|中选择一个，或是她自己的|C3|心型石。|C0||L||L|她人真好，她会让我在她身边睡一会。我感觉非常安心。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_free1]",
 		"rule3"		: "[rule_free2]",
@@ -200,7 +200,7 @@
 	"E_visit_astrayo" : {
 		"name"		: "于我眼前闪烁",
 		"hint"		: "[hint_chance]",
-		"details"	: "Astrayo came looking for me today. She had a few [ZAP] and |C3|mechanical|C0| gifts for me!|L||L|She was so excited a lot of her |C3|spark stones|C0| were flying all over the place. They seem to appear out of air around her. I wanted to ask her where they come from, but she looked too embarrassed to talk about it.",
+		"details"	: "雷斯塔尤今天来找我了。她有一些[ZAP]和|C3|机械|C0|礼物要给我！|L||L|她太兴奋了，许多她的|C3|电弧石|C0|都在到处乱飞。它们似乎会从她身边的空气中出现。我想要问她这些是从哪里来的，但她看起来太尴尬了，似乎不会想谈论这件事。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_free1]",
 		"rule3"		: "[rule_free2]",
@@ -208,7 +208,7 @@
 	"E_visit_null_unit" : {
 		"name"		: "空无的废料堆",
 		"hint"		: "[hint_chance]",
-		"details"	: "I found Null Unit on a mountain of scrap metal where she seems to live. She showed me a random pile of |C3|12 quick gifts|C0| and let me have any one I wanted.|L||L|If I have at least |C3|4 empty quick slots|C0| when I visit her, she'll give me an |C3|extra quick gift|C0| from another pile.",
+		"details"	: "我在一座废弃金属堆成的山上找到了空无单元，她似乎住在这里。她向我展示了一堆随机的|C3|12个快速礼物|C0|并让我从中挑选想要的一个。|L||L|如果我在拜访她时有至少|C3|4个空的快速栏位，|C0|那么她会从另一堆里给我一个|C3|额外的快速礼物。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_free1]",
 		"rule3"		: "[rule_free2]",
@@ -216,7 +216,7 @@
 	"E_visit_flip_flap" : {
 		"name"		: "噼里与啪啦",
 		"hint"		: "[hint_chance]",
-		"details"	: "The Flip Flap robots each gave me a gift today.|L|Flip let me choose a |C3|Split Unit|C0| or a [RADIANT] gift.|L|Flap let me choose an |C3|Inverted Unit|C0| or a [VOID] gift.|L||L|They also sang a little song for me.|wave||L|Flip Flap.|L|Flip Flap.",
+		"details"	: "噼里啪啦的机器人今天每人都给了我一个礼物。|L|噼里会让我从一个|C3|分裂单元|C0|或是一个[RADIANT]礼物中选择。|L|啪啦会让我从一个|C3|反转单元|C0|或是一个[VOID]礼物中选择。|L||L|她们还会为我唱一首小小的歌。|wave||L|噼里啪啦。|L|噼里啪啦。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_free1]",
 		"rule3"		: "[rule_free2]",
@@ -224,7 +224,7 @@
 	"E_visit_pearl" : {
 		"name"		: "给珍珠的微笑",
 		"hint"		: "[hint_chance]",
-		"details"	: "It's so hard for me to read Pearl's expression. It doesn't help that she can't talk either.|L||L|She likes to randomly pop out of the ground with a bunch of |C3|cosmic gifts|C0| from outer space. I think she wants me to know how much she misses the stars.",
+		"details"	: "我很难读出珍珠的表情。更何况她无法说话。|L||L|她喜欢突然从土地里钻出来，带着一堆从外太空来的|C3|宇宙礼物。|C0|我觉得她是想让我知道她有多么想念群星。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_free1]",
 		"rule3"		: "[rule_free2]",
@@ -232,7 +232,7 @@
 	"E_visit_burning" : {
 		"name"		: "燃烧时间",
 		"hint"		: "[hint_chance_multi]",
-		"details"	: "Burning Veyeral gave me two gifts today! She let me choose a [BURN] gift and then she let me choose a |C3|Bonus Gift.|C0||L||L|That's 3 free gifts if you count one of the warmest hugs possible!",
+		"details"	: "燃烧维目尔今天给了我两个礼物！她让我选择一个[BURN] 礼物，然后让我选择一个|C3|额外礼物。|C0||L||L|那就有3个礼物了，如果你算上那个最为温暖的拥抱！",
 		"rule1"		: "[rule_visit_multi]",
 		"rule2"		: "[rule_free1]",
 		"rule3"		: "[rule_free2]",
@@ -240,7 +240,7 @@
 	"E_visit_venom" : {
 		"name"		: "祛毒时间",
 		"hint"		: "[hint_chance_multi]",
-		"details"	: "Venom Veyeral had [TOXIC] and |C3|panic|C0| gifts for me today. She was going to throw them away, but she asked me if I wanted to take them instead.|L||L|I can tell that she didn't want them to go to waste even though she didn't want them anymore. She indirectly helped several other monsters feel loved today!",
+		"details"	: "剧毒维目尔今天为我准备了[TOXIC]和|C3|恐慌|C0|礼物。她本来是要把它们丢掉的，但她问我会不会想要收下这些。|L||L|我能看出来，即使她不再想要，她也不想让那些礼物被浪费。她今天间接地帮助了其他几只怪物感到被爱！",
 		"rule1"		: "[rule_visit_multi]",
 		"rule2"		: "[rule_free1]",
 		"rule3"		: "[rule_free2]",
@@ -252,7 +252,7 @@
 	"E_trade_calorie" : {
 		"name"		: "卡洛里的欲望",
 		"hint"		: "[hint_chance]",
-		"details"	: "Calorie is having trouble sleeping because she is too hot! She is looking for [VOID] gifts to cool off, but she'll accept anything that isn't a [BURN] gift.|L||L|She also loves it if I have some of |C3|her favorite candy!|C0||L||L|She has 7 gifts to trade, and most of them are on fire.",
+		"details"	: "卡洛里睡不着，因为她太热了！她在寻找[VOID]礼物以让自己冷却下来，但她也能够接受任何不是[BURN]礼物的东西。|L||L|如果我有|C3|她最喜欢的糖果，|C0|她也会爱死它们的！|L||L|她有7个礼物可以交易，其中大多都着了火。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_trade1]",
 		"rule3"		: "[rule_trade2]",
@@ -260,7 +260,7 @@
 	"E_trade_lila" : {
 		"name"		: "莱拉想要点心",
 		"hint"		: "[hint_chance_multi]",
-		"details"	: "Lila wants:|L||C3|1 food active gift|L|1 food quick gift|C0||L||L|She won't take any other gifts, but she will happily eat tetrids if I don't have any food... or even if I do.|L||L|Lila has a pile of 10 random gifts she is willing to trade.",
+		"details"	: "莱拉想要:|L||C3|1个食物力量礼物|L|1个食物快速礼物|C0||L||L|她不会收下其他任何礼物，她也会开心的吃着棱晶，如果我没有食物的话...就算有的话也会。|L||L|莱拉有10个随机的礼物愿意进行交易。",
 		"rule1"		: "[rule_visit_multi]",
 		"rule2"		: "[rule_trade1]",
 		"rule3"		: "[rule_trade2]",
@@ -268,16 +268,16 @@
 	"E_trade_hematoren" : {
 		"name"		: "血液之欲",
 		"hint"		: "[hint_chance]",
-		"details"	: "Hematoren wants to create a garden out of my blood, so I let her have some. It didn't hurt, but I did feel a little weak after. She gave me some food and I felt better.|L||L|She has 9 gifts to trade, including some heart stones that she made.|L||L|It's a special feeling knowing that a part of me can create life like that. I wish she wouldn't forget about it tomorrow.",
+		"details"	: "血玛托壬想要用我的血创造一片花园，所以我给了她一些。虽然不疼，但我之后确实感到有些虚弱。她给了我一些食物，让我感觉好些了。|L||L|她有9个礼物可以交易，包括她自己做的一些心型石。|L||L|知道我的一部分可以被用于那样创造生命，真的是很特别的感觉。希望她明天不会忘记。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_trade1]",
 		"rule3"		: "拥有|C3|更高的最大生命|C0|或者处于|C3|低生命|C0|都会增加这个事件被选中的概率。",
 		"rule4"		: "你必须至少有|C3|10点最大生命|C0|以让这个事件被选择。",
 	},
 	"E_trade_chemory" : {
-		"name"		: "切莫里的芳香",
+		"name"		: "化莫里的芳香",
 		"hint"		: "[hint_chance]",
-		"details"	: "Chemory was looking for gifts that she could turn into perfume. She mostly wanted [TOXIC] gifts, but she takes anything that isn't a [ZAP] gift since those disrupt her ability.|L||L|She has 8 gifts to trade, and she usually has a few gifts with a lovely fragrance.|L||L|I think she focuses on transforming [TOXIC] gifts because they remind her of herself.",
+		"details"	: "化莫里想要一些她可以变为香水的礼物。她主要想要[TOXIC]毒素礼物，但她也可以接受任何不是[ZAP]礼物的东西，那些会扰乱她的能力。|L||L|她有着8个礼物可以交易，并且她一般会有一些有着美妙香气的礼物。|L||L|我觉得她专注于转化[TOXIC]礼物是因为那些让她想到了她自己。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_trade1]",
 		"rule3"		: "[rule_trade2]",
@@ -285,7 +285,7 @@
 	"E_trade_hadesoh" : {
 		"name"		: "一同于地狱漫步",
 		"hint"		: "[hint_chance]",
-		"details"	: "Ever since I've been in the towers, every monster's blessings and burdens have appeared to me. Some monsters can see them too.|L||L|Hadesoh has been gathering everyone's burdens onto herself, but that's way too much for one monster! I've decided to take on a few of them myself, but she insisted that I also take something from her pile of 14 gifts.",
+		"details"	: "自从我身处高塔之中，每个怪物的祝福与负担都向我显现了出来。有些怪物也能看到它们。|L||L|炼狱之梭一直在将其他怪物身上的负担聚集在自己身上，但那对于一个怪物而言太多了！我决定自己承担其中一些，但她坚持让我从她的14个礼物中带走几个。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_trade1]",
 		"rule3"		: "如果|C3|交易事件|C0|在本局游戏之后发生，这个事件被选中的概率会增加。",
@@ -293,7 +293,7 @@
 	"E_trade_monovai" : {
 		"name"		: "寞诺唯的报复",
 		"hint"		: "[hint_chance]",
-		"details"	: "As nightfall approaches, Monovai is worried that she won't be able to see anything. She is looking for [RADIANT] gifts to light up the night, but she'll accept any gifts.|L||L|She has 8 gifts to trade, usually including some very carefully crafted heart stones.|L||L|She might be afraid of the dark... Maybe a |C3|Nightlight|C0| will help?",
+		"details"	: "当夜幕降临时，寞诺唯担心她会看不到任何东西。她在寻找[RADIANT]礼物来帮助照亮夜晚，但她会接受任何礼物。|L||L|她有着8个礼物可以交易，通常包括精心制造的心型石。|L||L|她可能会害怕黑暗...或许|C3|夜光蘑菇|C0|能够帮到她？",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_trade1]",
 		"rule3"		: "[rule_trade2]",
@@ -301,7 +301,7 @@
 	"E_trade_prisma" : {
 		"name"		: "棱镜的复制机",
 		"hint"		: "[hint_chance_multi]",
-		"details"	: "Prisma has a device that can make copies of gifts! It needs a lot of power to work, so she needs to use other gifts as energy for it. Any [ZAP] or |C3|mechanical|C0| gifts will create even more energy.|L||L|She can make one copy of every gift that I have with me, but I must be careful about what gifts I choose. Some gift effects can't really be doubled.",
+		"details"	: "棱镜有一个设备可以制作礼物的复制！它需要大量的能量才能工作，所以她需要其他礼物作为能源。任何[ZAP]或是|C3|机械|C0|礼物都能够提供更多的能源|L||L|她能够制作我携带的每个礼物的一个复制，但我必须仔细选择要复制的礼物。有些礼物效果无法被翻倍。",
 		"rule1"		: "[rule_visit_multi]",
 		"rule2"		: "[rule_trade1]",
 		"rule3"		: "[rule_trade2]",
@@ -309,7 +309,7 @@
 	"E_trade_glacia" : {
 		"name"		: "星川的秘密",
 		"hint"		: "[hint_chance_multi]",
-		"details"	: "Glacia is looking for |C3|cosmic|C0| gifts to give to her friend.|L||L|She has 6 gifts that she is willing to trade. Many of these will affect any active shot types that my heart can fire.|L||L|She will accept any gifts that aren't quick gifts, as those might disappear before she can give them to Vitrea... I mean \"her friend\" that no one knows, and who she is totally not in love with.",
+		"details"	: "星川正在寻找|C3|宇宙|C0|礼物来送给她的朋友。|L||L|她有6个礼物愿意用来交易。其中有许多都能够影响我的新现在能够发射的子弹类型。|L||L|她能够接受不是快速礼物的任何礼物，这是因为那些礼物在她能够给琉璃之前就可能已经消失了...我是说没人知道的那个\"她的朋友\"--她绝对没有爱上那位朋友。",
 		"rule1"		: "[rule_visit_multi]",
 		"rule2"		: "[rule_trade1]",
 		"rule3"		: "[rule_trade2]",
@@ -317,7 +317,7 @@
 	"E_trade_vibrant" : {
 		"name"		: "活力艺术展",
 		"hint"		: "[hint_chance_multi]",
-		"details"	: "Vibrant Veyeral is looking for some |C3|artistic|C0| gifts, but she will accept anything.|L||L|She is offering 7 gifts that can modify the elements of my shots.|L||L|I'll introduce her to Blot next time.",
+		"details"	: "活力维目尔正在找一些|C3|艺术|C0|礼物，但她也能够接受一切。|L||L|她能够提供7个礼物，这些礼物能够改变我子弹的元素类型。|L||L|下次我会将她介绍给墨点的。",
 		"rule1"		: "[rule_visit_multi]",
 		"rule2"		: "[rule_trade1]",
 		"rule3"		: "[rule_trade2]",
@@ -325,7 +325,7 @@
 	"E_trade_frozen" : {
 		"name"		: "冰封维目尔的热身",
 		"hint"		: "[hint_chance]",
-		"details"	: "Frozen Veyeral wants to warm up! She is looking for [BURN] gifts to speed up the process, but she'll accept anything that isn't a [VOID] gift.|L||L|She has 7 gifts to trade, but naturally, some of them will be [VOID] type.",
+		"details"	: "冰封维目尔想要温暖起来！她在寻找[BURN]礼物来加快这个过程，但她也能够接受任何不是[VOID]礼物的东西|L||L|她有7个礼物可以交易，但自然而然的，其中有一部分会是[VOID]类型。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_trade1]",
 		"rule3"		: "[rule_trade2]",
@@ -336,7 +336,7 @@
 	"E_bond_dot" : {
 		"name"		: "点点拥抱",
 		"hint"		: "[hint_chance]",
-		"details"	: "I always wake up with Dot's long arms wrapped tightly around me. Sometimes, she comes back to me later in the day and asks me to help her practice hugging. I know it stresses her out when they aren't perfect, but I hope she allows herself to figure out the real secret one day. They are always perfect!|L||L|But for now, I'd never turn down a free hug. Even if her thorns scratch me a little.",
+		"details"	: "每当我醒来时，点点她长长的手臂总会紧紧地包住我。有时，她会在那天之后来找我，让我帮助她练习拥抱。我知道，没有达到完美时会让她非常有压力，但我希望总有一天她能让自己发现真正的秘密。她的拥抱一直很完美！|L||L|但至于现在，我不会拒绝一个免费的拥抱。即使她的棘刺会让我微微擦伤。",
 		"rule1"		: "[rule_bonding1]",
 		"rule2"		: "[rule_bonding2]",
 		"rule3"		: "[rule_bonding3]",
@@ -344,7 +344,7 @@
 	"E_bond_kiwi" : {
 		"name"		: "几维的游戏屋",
 		"hint"		: "[hint_chance]",
-		"details"	: "Kiwi had an amazing game set up for me! She drew all the characters herself, and they were all so cute! Well, maybe not by herself. I think the flowers on her tail are her sisters. She said they all helped with the drawings.|L||L|The game was kinda violent, but it's just a silly game. Kiwi had a huge rule book, but I think she ignored a lot of the rules. Wait! How did Kiwi learn how to read?",
+		"details"	: "几维为我准备了一个超棒的游戏！她自己绘制了那些角色，并且全都非常可爱！嗯，可能并不全是她自己画的吧。我觉得她尾巴上的花朵是她的妹妹。她说过她们全部帮着一起绘画了。|L||L|这个游戏有点暴力，但只不过是个蠢蠢的小游戏。几维有一本超级厚的规则书，但我觉得她忽略了里面许多规则。等下！几维是从哪里学到认字的？",
 		"rule1"		: "[rule_bonding1]",
 		"rule2"		: "[rule_bonding2]",
 		"rule3"		: "[rule_bonding3]",
@@ -352,7 +352,7 @@
 	"E_bond_split" : {
 		"name"		: "维目尔游戏",
 		"hint"		: "[hint_chance]",
-		"details"	: "Split Veyeral wanted to play some games with me today! They were all rolling around and changing the color of their eyeballs. I didn't really know they could do that, but I guess I have seen a few other Veyerals with different eye colors.|L||L|Hmm... Her name is Split Veyeral, but is she one Veyeral or are they a bunch of them? I'm still not sure how many there are in there.",
+		"details"	: "分裂维目尔今天想要和我玩一些游戏！她们在滚来滚去，并且在改变自己眼睛的颜色。我完全不知道她们能这样做，但我也见过其他的一些有不同眼睛颜色的维目尔。|L||L|嗯...她的名字叫做分裂维目尔，但她是一只维目尔还是一大群呢？我还是无法确定里面到底有多少维目尔。",
 		"rule1"		: "[rule_bonding1]",
 		"rule2"		: "[rule_bonding2]",
 		"rule3"		: "[rule_bonding3]",
@@ -360,7 +360,7 @@
 	"E_bond_voltage" : {
 		"name"		: "高压的极小极大",
 		"hint"		: "[hint_chance_multi]",
-		"details"	: "Voltage Veyeral will sometimes come looking for me when she feels lonely. It's always a mystery what her mood will be every day. Sometimes she wants to charge herself up in the rain, but other times she just wants to relax in a cave or under an umbrella.|L||L|She always reminds me that there are so many different paths I can take every day.",
+		"details"	: "在她感到孤独时，高压维目尔有时会来找我。她每天的情绪会是什么样一直都是个谜。有时她想要在雨中让自己充能，但其他时候她只会想在洞穴中或雨伞下休憩。|L||L|她一直能够提醒我每天有许多不同的道路我可以选择。",
 		"rule1"		: "[rule_bonding1_x]",
 		"rule2"		: "[rule_bonding2]",
 		"rule3"		: "[rule_bonding3]",
@@ -372,7 +372,7 @@
 	"E_score_knots" : {
 		"name"		: "结草衔环",
 		"hint"		: "[hint_chance]",
-		"details"	: "Knot asked me to help her find Knott. Knott had taken a warp synapse back to her original universe and Knot was worried that she might be in trouble. It turns out she went there to bring back a gift for me!|L||L|I pulled Knott back into this universe through Knot's dream, but I don't think that actually did anything in the waking world. The important part is that it made Knot feel better while she waited for Knott to return.",
+		"details"	: "节节想让我帮助她找到结结。结结搭乘了一个传送突触回到了她原本的宇宙，而节节担心她可能遇到了麻烦。原来她去那边是要为我带一个礼物！|L||L|通过节节的梦境，我将结结拉回了这个宇宙，但这在清醒的世界中好像没有什么效果。重要的是，这能让节节感觉好一点，在她等待结结归来的时候。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_treasure1]",
 		"rule3"		: "[rule_treasure2]",
@@ -380,7 +380,7 @@
 	"E_score_joule" : {
 		"name"		: "焦耳的做功",
 		"hint"		: "[hint_chance]",
-		"details"	: "Joule wants me to help her with an experiment. She is trying to send energy over to other dimensions using the motes that are stuck in her hair. I don't know exactly what that means, but all I have to do is show some more love. I'm really good at doing that!|L||L|When I do really well, I pull so many other gifts from her hair.",
+		"details"	: "焦耳想让我帮助她进行一个实验。她想要将能量送往其他维度，使用那些卡在她头发里的魔尘。我不知道那到底是什么意思，但我要做的只有展示更多的爱。我真的很擅长这样做！|L||L|当我做的非常好时，我能从她的头发中拉出许多其他的礼物。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_treasure1]",
 		"rule3"		: "[rule_treasure2]",
@@ -388,7 +388,7 @@
 	"E_score_rendy" : {
 		"name"		: "兰迪埋藏的宝物",
 		"hint"		: "[hint_chance]",
-		"details"	: "Rendy needed my help finding her buried treasure. She told me that she couldn't remember where she buried it, but I think that was just an excuse to be around me and show off her digging skills.|L||L|I hope one day she understands that she doesn't need an excuse to do that.",
+		"details"	: "兰迪需要我的帮助来寻找她埋藏的宝物。她告诉我她记不得埋在哪里了，但我觉得那只是留在我身边的借口，并且还能够炫耀她的挖掘技巧。|L||L|我希望有一天她能够明白她不需要借口也能这么做。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_treasure1]",
 		"rule3"		: "[rule_treasure2]",
@@ -396,7 +396,7 @@
 	"E_score_snowball" : {
 		"name"		: "皇家宝物",
 		"hint"		: "[hint_chance]",
-		"details"	: "Snowball needed my help remembering where she buried her royal treasure. I don't think I helped very much since nothing in her dreams made any sense. She has gifts buried all over the place, so it's probably just a lucky guess every time we find anything.",
+		"details"	: "雪球需要我的帮助来想起她在哪里埋下了皇家宝藏。我觉得她没怎么帮上我，因为她梦境中的大部分内容都是没有意义的。她到处都埋下了礼物，所以每次我们找到什么的时候都可能只是幸运使然。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_treasure1]",
 		"rule3"		: "[rule_treasure2]",
@@ -404,7 +404,7 @@
 	"E_score_philolu" : {
 		"name"		: "如你之愿",
 		"hint"		: "在单局故事模式中爱许多眼睛符文怪物能够使这个事件有概率出现",
-		"details"	: "I met another monster that isn't afraid of me! It should really be no surprise that it was Philolu, the love glyph. It's also not surprising that she is so unbelievably pretty!|L||L|She actually asked ME on a date! Wow!|L||L|I made sure it was just a friendly date. She actually seemed just a tiny bit sad about it. But I just can't- No, I don't want to think about that right now.",
+		"details"	: "我遇到了另一个不害怕我的怪物！其实确实应该在意料之中，是恋罗璐，爱之符文。并且也在意料之中的是她无法置信的美丽！|L||L|她实际上邀请我进行了约会！哇哦！|L||L|我向她确保只是个友情的约会。她实际上看起来有一点伤心。但我不能-不，我现在没办法去想这些。",
 		"rule1"		: "在向任意|C3|3只眼睛符文怪物|C0|展示爱后，这个事件有几率在任意章节之间发生。",
 		"rule2"		: "向更多眼睛符文怪物展示爱能够增加遭遇这个事件的概率。",
 		"rule3"		: "优先选择其他宝藏事件直至至少|C3|4个眼睛符文怪物|C0|被爱过了。",
@@ -414,7 +414,7 @@
 	"E_score_syncron" : {
 		"name"		: "异步同步",
 		"hint"		: "[hint_chance_multi]",
-		"details"	: "Syncron came back with more gifts for me today, but by the time they found me, they were in a full panic! I had to help them get out of it!|L||L|It turned out that the gifts were covered in motes that got stuck inside their exhaust ports! I feel a little guilty that they went through all that just to give me some gifts.",
+		"details"	: "同步甲虫又带来了更多礼物给我，但当她们找到了我的时候，她们正处于完全恐慌之中！我要帮助她们摆脱恐慌！|L||L|看起来是礼物被魔尘包裹了，卡在了她们的排气口处！她们经历了这么多只为了给我一些礼物，让我有点愧疚。",
 		"rule1"		: "[rule_visit_multi]",
 		"rule2"		: "[rule_treasure1]",
 		"rule3"		: "[rule_treasure2]",
@@ -422,7 +422,7 @@
 	"E_score_momo" : {
 		"name"		: "谋杀之舞",
 		"hint"		: "[hint_chance_multi]",
-		"details"	: "Momo wanted to dance with me today. The dance was very intense and complicated. There were vines and blades everywhere. It was so much fun!|L||L|Some shy monsters were watching us from hiding spots in the trees. They left some gifts for us.",
+		"details"	: "茉茉今天想要和我一起跳舞。舞蹈非常激烈，非常复杂。到处都有藤蔓和锯片。真的超好玩！|L||L|有些羞涩的怪物们躲在树里面看着我们。她们为我们留下了一些礼物。",
 		"rule1"		: "[rule_visit_multi]",
 		"rule2"		: "[rule_treasure1]",
 		"rule3"		: "[rule_treasure2]",
@@ -430,7 +430,7 @@
 	"E_score_veyerals" : {
 		"name"		: "维目尔再次入梦",
 		"hint"		: "[hint_chance]",
-		"details"	: "A group of Veyerals that I showed love to came back to see me. They wanted me to show them another dream. They were so grateful that they gave me even more gifts, but I was happy to do it anyways.|L||L|I didn't know that Veyerals can't dream on their own. It makes me so sad to think about it.",
+		"details"	: "一群我展示过爱的维目尔回来找我了。她们想让我再为她们展示一个梦境。她们非常感激，甚至给了我更多礼物，但我反正也很高兴这么做。|L||L|我不知道维目尔无法自己做梦。想到这件事我就会有一点伤心。",
 		"rule1"		: "[rule_visit]",
 		"rule2"		: "[rule_treasure1]",
 		"rule3"		: "[rule_treasure2]",
@@ -438,7 +438,7 @@
 	"E_score_anomaly" : {
 		"name"		: "幸运小憩",
 		"hint"		: "[hint_chance]",
-		"details"	: "I usually don't get much time to rest during the day. Even though I'm actually asleep throughout every battle, it isn't the same as resting for myself. I'm still so tired after waking up from that.|L||L|I had a rare chance to take a nap for myself. I had a dream about that strange heart again, and when I woke up, there were gifts left next to me.",
+		"details"	: "我通常在一天中不会有什么时间休息。即使我在每场战斗中实际都在睡觉，这和我自己休息也有很大不同。在那之后醒来，我仍然会感到很疲倦。|L||L|我有个罕见的机会为我自己小睡一会。我又梦到了那个奇怪的心，而当我醒来时，我的身边被留下了一些礼物。",
 		"rule1"		: "在向|C3|异常|C0|展示爱或爱过任何|C3|3只特殊怪物|C0|后，这个事件有几率在任意章节之间发生。",
 		"rule2"		: "在你拥有至少|C3|150因果|C0|后，这个事件同样有稀有概率发生。更多的因果会带来更高的概率。",
 		"rule3"		: "如果仅满足因果条件，则其他宝藏事件会优先发生。",
@@ -451,13 +451,13 @@
 	
 	"E_final_path" : {
 		"name"		: "她的道路",
-		"details"	: "How will my story end today? Will it be heartbreak, or something worse?|L||L|No! I'm not afraid anymore!",
+		"details"	: "我的故事今天会如何结束呢？会是心碎，或是更糟糕的事情吗？|L||L|不！我不会再害怕了！",
 		"rule1"		: "这个事件会在每局故事模式中的固定时点发生，只要角色有着不止一条故事线可用。",
 	},
 	"E_wonderful" : {
 		"name"		: "来自彼方的礼物",
 		"hint"		: "在章节结束时拥有极低因果",
-		"details"	: "Something is watching over me. I've never actually seen her, but I know she is there. My love dream power works on her just like any other monster.|L||L|Whatever she is, she gave me some of the most |C3|Wonderful Power Gifts|C0| ever given.",
+		"details"	: "有什么东西在看着我。我从来没有实际见到她，但我知道她在那里。我的梦境力量也能在她身上生效，和其他怪物一样。|L||L|无论她是什么，她都会给我最为|C3|奇妙的力量礼物。|C0|",
 		"rule1"		: "[rule_full_chapter]",
 		"rule2"		: "这个事件仅会在相较当前章节拥有极低的因果时发生。",
 		"rule3"		: "这个事件可以在一局游戏内多次发生，只要你拥有|C3|少于3个|C0|奇妙力量礼物。",
@@ -465,7 +465,7 @@
 	"E_true_panic" : {
 		"name"		: "真正恐慌",
 		"hint"		: "在章节结束时拥有大量恐慌",
-		"details"	: "Holding onto so much panic has attracted polyps. They bring nothing but |C3|Panic Gifts|C0| and even more panic. It really is a self sustaining cycle.|L||L||C3|Don't forget to panic!|C0|",
+		"details"	: "携带这么多的恐慌吸引了恐慌之瘤。她们只会带来|C3|恐慌礼物|C0|与更多的恐慌。这的确是自我循环。|L||L||C3|别忘记恐慌！|C0|",
 		"rule1"		: "[rule_full_chapter]",
 		"rule2"		: "[rule_karma]",
 		"rule3"		: "携带大量|C3|恐慌攻击|C0|能够增加概率。",
@@ -474,18 +474,18 @@
 	"E_link_synapse" : {
 		"name"		: "连接突触",
 		"hint"		: "将礼物放入连接突触",
-		"details"	: "A Link Synapse opened up outside of my home today. There were some gifts inside along with a note. I couldn't read it, but it was clearly from Scrambla. The thing is, I can't remember putting all of those gifts in there.|L||L|I could only take a few out before it closed. Radiating |C3|Foreign Axons|C0| will let me take more gifts out of the synapse.",
+		"details"	: "今天有个连接突触在我家的外面打开了。里面有一些礼物，还有一张字条。我读不了它，但显然是来自蛋花的。问题是，我不记得把那些礼物放进去了。|L||L|在它关闭之前我只能够带走几个礼物出来。点亮|C3|异体轴突|C0|能够让我从突触中带走更多的礼物。",
 		"rule1"		: "只要连接突触中存在礼物，这个事件会在每一局游戏开始时发生，",
 	},
 	"E_alter_your_fate" : {
 		"name"		: "改变你的命运",
-		"details"	: "Abyss can call over more monsters with her power. I'm not sure what she does, but I can find myself with |C3|up to 3 extra battles|C0| to deal with after meeting with her.|L||L|She seems really concerned with how many motes I can get in a single day. Maybe I can break this cycle by simply showing love to as many monsters as possible in a single day? If only it was that easy.",
+		"details"	: "阿比斯能够用她的力量呼唤更多的怪物。我不确定她做了什么，但我在遇到她之后能够找到|C3|至多3场额外战斗。|C0||L||L|她看起来真的很关心我一天中能得到多少魔尘。或许我可以通过在一天内尽可能爱更多的怪物来打破这个循环？要是有这么简单就好了。",
 		"rule1"		: "这个事件会在每一局异相故事的固定时点发生。",
 		"rule2"		: "|C4|如果在一局游戏开始时从连接突触中取出了任何礼物，这个事件将不会发生。",
 	},
 	"E_endless_store" : {
-		"name"		: "索拉纳的礼品店",
-		"details"	: "Solara wants to help me survive during my nightmares. She can use her power to reach deep into my mind and pull gifts out of my memories. It takes her more karma to do this after each gift is pulled out.|L||L|Solara's chances of pulling higher rank gifts are increased by the amount of times I summon her, and the amount of battles I survive.",
+		"name"		: "索拉娜的礼品店",
+		"details"	: "索拉娜想要帮助我在我的梦魇中存活。她可以使用她的力量到达我意识的深处，从我的记忆中将礼物拉出。每有一个礼物被取出，她都会需要更多因果。|L||L|索拉娜找到高阶礼物的概率会随着我召唤她的次数，以及存活的战斗次数而增加。",
 		"rule1"		: "在|C3|无尽压力|C0|中，索拉纳可以在任意战斗结束时消耗因果召唤。",
 		"rule2"		: "每次索拉纳被召唤时因果消耗会增加1点。",
 	},
@@ -496,7 +496,7 @@
 	"E_tower_vault" : {
 		"name"		: "高塔宝库",
 		"hint"		: "[hint_tower]",
-		"details"	: "I thought I found the Little Robot in the middle of a tower today, but it was just a hologram with preset messages. She wanted me to push a bunch of buttons on a machine to open a little vault. I bet if I get a better score next time, she will open a vault with |C3|more tetrids|C0| for me!|L||L|I don't know why it was designed that way, but I do remember the Little Robot telling me about her creator's peculiar sense of humor.",
+		"details"	: "我以为我今天在高塔的中间找到了小机器人，但只是带有预设信息的全息影像。她希望我按下一个机器上一大堆不同的按钮来打开一个小型宝库。我认为如果我下次得到了更高分数的话，她会为我打开带有|C3|更多棱晶|C0|的宝库！|L||L|我不知道为什么是这样设计的，但我确实记得小机器人告诉过我她创造者独特的幽默感。",
 		"rule1"		: "[rule_tower_chapter]",
 		"rule2"		: "[rule_tower_vault1]",
 		"rule3"		: "[rule_tower_vault2]",
@@ -505,7 +505,7 @@
 	"E_tower_alarm" : {
 		"name"		: "安保骇入！",
 		"hint"		: "[hint_tower]",
-		"details"	: "This tower pranked me today! I really thought an alarm was about to go off. I started pressing any random buttons I could find! I can't believe that little robot's creator! She can be so mean!|L||L|At least they let me take some |C3|tetrids|C0| from a vault for the trouble. The hologram said there are vaults with other kinds of |C3|Bonus Gifts|C0| in them if I get a high enough score.",
+		"details"	: "这个高塔今天对我恶作剧了！我真的以为警报要响起了。我开始按下我能找到的各种随机按钮！我真不敢相信那个小机器人的制造者！她怎么能这么坏！|L||L|至少她们让我从宝库中带走了一些|C3|棱晶|C0|来补偿对我造成的麻烦。全息影像说还有其他类型|C3|额外礼物|C0|的宝库，只要我能够得到足够高的分数。",
 		"rule1"		: "[rule_tower_chapter]",
 		"rule2"		: "[rule_tower_vault1]",
 		"rule3"		: "[rule_tower_vault2]",
@@ -514,37 +514,37 @@
 	"E_trade_emerald" : {
 		"name"		: "绿宝石之作",
 		"hint"		: "[hint_tower_monster]",
-		"details"	: "When I'm climbing a tower, all I have to do is think about Emerald and she is there! She can make me new gifts out of these:|L||C3|1 of my gifts|L|My Heart's Health|L|Maximum Health|C0||L||L|She can create any gifts I want out of 10 choices depending on how much I give her.",
+		"details"	: "当我在攀爬高塔时，只要想一想绿宝石她就能够在那里！她可以用这些为我制作新礼物:|L||C3|我的一个礼物|L|我的心的生命|L|最大生命|C0||L||L|基于我给了多少，她可以在10个选项中创造出我想要的。",
 		"rule1"		: "[rule_tower_monster]",
 	},
 	"E_trade_ruby" : {
 		"name"		: "红宝石之作",
 		"hint"		: "[hint_tower_monster]",
-		"details"	: "Each of Nova's gems can make gifts out of different materials. When Ruby came to see me today, she told me that she can make gifts out of these:|L||C3|1 of my gifts|L|Panic Attacks|L|Charge Attack Energy|C0||L||L|She also had ideas for 10 different gifts that I could choose from.",
+		"details"	: "每个超新星的宝石都能够从不同的材料中制造礼物。当红宝石今天来见我时，她告诉我可以用这些制作礼物:|L||C3|我的一个礼物|L|恐慌攻击|L|蓄力攻击能量|C0||L||L|她同样有10个不同礼物的想法，我可以在其中选择。",
 		"rule1"		: "[rule_tower_monster]",
 	},
 	"E_trade_topaz" : {
 		"name"		: "黄宝石之作",
 		"hint"		: "[hint_tower_monster]",
-		"details"	: "It was Topaz's turn to visit me in the tower today. She can use these materials to make gifts:|L||C3|1 of my gifts|L|My Heart's Health|L|Charge Attack Energy|C0||L||L|She always has ideas for 10 different gifts.|L|...I know she always says yes, but I must never forget to ask permission to have a little taste.",
+		"details"	: "今天轮到黄宝石在高塔中拜访我了。她可以用这些材料制作礼物:|L||C3|我的一个礼物|L|我的心的生命|L|蓄力攻击能量|C0||L||L|她总会有10个不同礼物的主意。|L|...我知道她总会同意的，但我不能忘记请求她的许可来小小地尝一下。",
 		"rule1"		: "[rule_tower_monster]",
 	},
 	"E_trade_sapphire" : {
 		"name"		: "蓝宝石之作",
 		"hint"		: "[hint_tower_monster]",
-		"details"	: "Today, it was Sapphire that came to visit me in the tower. She can make me gifts out of these things:|L||C3|1 of my gifts|L|Panic Attacks|L|My Heart's Health|C0||L||L|She always has 10 gift ideas, but I've noticed that each gem likes making certain kinds of gifts. Like Sapphire always having ideas for electric or mechanical gifts.",
+		"details"	: "今天，蓝宝石来高塔中见我了。她能用这些为我制作礼物:|L||C3|我的一个礼物|L|恐慌攻击|L|我的心的生命|C0||L||L|她总会有10个不同礼物的想法，但我注意到每种宝石都有特定的喜欢制造的礼物类型。比如蓝宝石总会提出制作电击或机械礼物的主意。",
 		"rule1"		: "[rule_tower_monster]",
 	},
 	"E_trade_citrine" : {
 		"name"		: "橙宝石之作",
 		"hint"		: "[hint_tower_monster]",
-		"details"	: "Citrine surprised me today! She said that we have a strong connection, and it was easier to make gifts for me! These are the materials she uses:|L||C3|1 of my gifts|L|Maximum Health|L|Charge Attack Energy|C0||L||L|She even had ideas for |C3|13 gifts,|C0| which is more than normal! I wonder if the other gems can resonate with other Zaraden like this?",
+		"details"	: "橙宝石今天给了我一个惊喜！她说我们之间有着很强的联系，让她能更轻易地为我制作礼！这些是她使用的材料:|L||C3|我的一个礼物|L|最大生命|L|蓄力攻击能量|C0||L||L|她甚至提出了|C3|13个礼物|C0|的主意，这比正常的还要多！我在想其他的宝石是否也能够和其他的扎拉登这样共鸣？",
 		"rule1"		: "[rule_tower_monster]",
 	},
 	"E_trade_amethyst" : {
 		"name"		: "紫宝石之作",
 		"hint"		: "[hint_tower_monster]",
-		"details"	: "I started feeling a little lonely in the tower, but that's when Amethyst showed up for me, as usual! She can create gifts from these:|L||C3|1 of my gifts|L|Panic Attacks|L|Maximum Health|C0||L||L|She always has 10 different ideas for gifts. All of Nova's gems seem very happy to be creating! I love to see it!",
+		"details"	: "我今天在高塔里开始觉得有些孤独了，但这时紫宝石来见我了，和平常一样！她可以用这些制作礼物:|L||C3|我的一个礼物|L|恐慌攻击|L|最大生命|C0||L||L|她总是有10个不同礼物的想法。所有超新星的宝石似乎都很喜欢创造！我也很高兴能见到她们这样！",
 		"rule1"		: "[rule_tower_monster]",
 	},
 }
