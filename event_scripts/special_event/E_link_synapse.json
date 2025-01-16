@@ -6,7 +6,7 @@
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她注意到了里面存有礼物。|L|礼物位于她触手可及之处。",
+			"dialog"			: "|C3|她注意到了里面存有礼物。|L|礼物位于她能够伸手够到的地方。",
 		}
 	],
 	
@@ -28,7 +28,7 @@
 	},
 	"take_text3"		: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|在连接突触关闭之后，明天之前，她只能够再带走一个礼物了。",
+		"dialog"	: "|C3|在连接突触关闭之后，明天之前，她只能够再带走一个礼物。",
 	},
 	"leave_text"		: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
@@ -36,7 +36,7 @@
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|她现在会离开吗？",
+		"dialog"	: "|C3|她现在要离开吗？",
 	},
 	
 	"comment_scrambla"	: {
@@ -79,7 +79,7 @@
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|连接突触开始关闭了，但她还是能够到里面。",
+			"dialog"			: "|C3|连接突触开始关闭了，但她还能够到里面。",
 		}
 	],
 	"gift_taken_mid" 		: [
@@ -101,7 +101,7 @@
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|连接突触再次收缩，但她还是能够够到里面。",
+			"dialog"			: "|C3|连接突触再次收缩，但她还是能够到里面。",
 		}
 	],
 	"gift_taken_final" 		: [
@@ -123,11 +123,11 @@
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|突触完全闭合了。|L||!|它在明天之前不会开启了。",
+			"dialog"			: "|C3|突触完全闭合了。|L||!|它在明天之前不会再次开启。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她离开寻找去爱的怪物了。",
+			"dialog"			: "|C3|她离开寻找去爱的怪物们。",
 		}
 	],
 	"gift_taken_single" 	: [
@@ -137,7 +137,7 @@
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|看起来在坍塌之前只有一个礼物能够被取出来了。",
+			"dialog"			: "|C3|看起来在坍塌之前只有一个礼物能够被取出来。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
@@ -167,14 +167,14 @@
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她离开寻找去爱的怪物了。",
+			"dialog"			: "|C3|她离开寻找去爱的怪物们。",
 		}
 	],
 	
 	"leaving" 	: [
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她离开寻找去爱的怪物了。",
+			"dialog"			: "|C3|她离开寻找去爱的怪物们。",
 		}
 	],
 
