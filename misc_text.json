@@ -110,235 +110,235 @@
 	},
 	"SG_title" : {
 		"name"		: "空白旋律",
-		"desc"		: "Main menu theme",
+		"desc"		: "主界面主题曲",
 	},
 	"SG_scene_a" : {
 		"name"		: "地下脉动",
-		"desc"		: "Prologue scene music",
+		"desc"		: "序章场景音乐",
 	},
 	"SG_shamble_battle" : {
 		"name"		: "蹒跚悖论",
-		"desc"		: "Shamble monster battle theme",
+		"desc"		: "晃晃怪物战斗主题曲",
 	},
 	"SG_guardian_battle" : {
 		"name"		: "她的不屈意志",
-		"desc"		: "Guardian monster battle theme",
+		"desc"		: "守护者怪物战斗主题曲",
 	},
 	"SG_glyph_battle" : {
 		"name"		: "共有排斥",
-		"desc"		: "Eyeric Glyph monster battle theme",
+		"desc"		: "眼睛符文怪物战斗主题曲",
 	},
 	"SG_zaramech_battle" : {
 		"name"		: "防御机制",
-		"desc"		: "Zaramech monster battle theme",
+		"desc"		: "扎拉机械怪物战斗主题曲",
 	},
 	"SG_glass_battle" : {
 		"name"		: "我的透明之心",
-		"desc"		: "Glass Flora monster battle theme",
+		"desc"		: "玻璃植物怪物战斗主题曲",
 	},
 	"SG_veyeral_battle" : {
 		"name"		: "虚空之雨向你倾泻",
-		"desc"		: "Veyeral monster battle theme",
+		"desc"		: "维目尔怪物战斗主题曲",
 	},
 	"SG_nightmare_a" : {
 		"name"		: "遥远观测者",
-		"desc"		: "Nightmare selection theme\nEarly monsters",
+		"desc"		: "选择梦魇主题曲\n早期怪物",
 	},
 	"SG_nightmare_b" : {
 		"name"		: "警告标志",
-		"desc"		: "Nightmare selection theme\nStronger monsters",
+		"desc"		: "选择梦魇主题曲\n更强怪物",
 	},
 	"SG_nightmare_c" : {
 		"name"		: "虚无",
-		"desc"		: "Nightmare selection theme\nFinale monsters",
+		"desc"		: "选择梦魇主题曲\n最终怪物",
 	},
 	"SG_nightmare_d" : {
 		"name"		: "张开你的翅膀",
-		"desc"		: "Nightmare selection theme\nAscending towers",
+		"desc"		: "选择梦魇主题曲\n攀升高塔",
 	},
 	"SG_nightmare_e" : {
 		"name"		: "我们足迹千山",
-		"desc"		: "Nightmare selection theme\nTop of the towers",
+		"desc"		: "选择梦魇主题曲\n高塔顶端",
 	},
 	"SG_shamble_battle_2" : {
 		"name"		: "密集恐惧",
-		"desc"		: "Alternate Shamble monster battle theme",
+		"desc"		: "轮换晃晃怪物战斗主题曲",
 	},
 	"SG_guardian_battle_2" : {
 		"name"		: "守护天使",
-		"desc"		: "Alternate Guardian monster battle theme",
+		"desc"		: "轮换守护者怪物战斗主题曲",
 	},
 	"SG_glyph_battle_2" : {
 		"name"		: "理论之美",
-		"desc"		: "Alternate Eyeric Glyph monster battle theme",
+		"desc"		: "轮换眼睛符文怪物战斗主题曲",
 	},
 	"SG_zaramech_battle_2" : {
 		"name"		: "焦虑屹立",
-		"desc"		: "Alternate Zaramech monster battle theme",
+		"desc"		: "轮换扎拉机械怪物战斗主题曲",
 	},
 	"SG_glass_battle_2" : {
 		"name"		: "染色玻璃的战斗之舞",
-		"desc"		: "Alternate Glass Flora monster battle theme",
+		"desc"		: "轮换玻璃植物怪物战斗主题曲",
 	},
 	"SG_veyeral_battle_2" : {
 		"name"		: "暗中独行",
-		"desc"		: "Alternate Veyeral monster battle theme",
+		"desc"		: "轮换维目尔怪物战斗主题曲",
 	},
 	"SG_game_over" : {
 		"name"		: "意志",
-		"desc"		: "Heartbreak scene music",
+		"desc"		: "心碎场景音乐",
+	},
+	"SG_tutorbot_battle" : {
+		"name"		: "焦虑协议",
+		"desc"		: "单元露露战斗主题曲",
 	},
 	"SG_dreaming_scene" : {
 		"name"		: "一个奇怪的地方",
-		"desc"		: "Dreaming scene music",
+		"desc"		: "梦境场景音乐",
 	},
 	"SG_special_battle" : {
 		"name"		: "狂热梦境",
-		"desc"		: "Special monster battle theme",
+		"desc"		: "特别怪物战斗主题曲",
 	},
 	"SG_spawn_battle" : {
 		"name"		: "怪物的生日",
-		"desc"		: "Newborn monster battle theme",
+		"desc"		: "新生怪物战斗主题曲",
 	},
 	"SG_creepy_scene" : {
 		"name"		: "不安感",
-		"desc"		: "Unsettling scene music",
+		"desc"		: "不安场景音乐",
 	},
 	"SG_panic_battle" : {
 		"name"		: "迫近毁灭",
-		"desc"		: "Panicked battle theme",
+		"desc"		: "恐慌战斗主题曲",
 	},
 	"SG_mystery_scene" : {
 		"name"		: "孤独暂息",
-		"desc"		: "Curious scene music",
+		"desc"		: "奇异场景音乐",
 	},	
-	"SG_tutorbot_battle" : {
-		"name"		: "焦虑协议",
-		"desc"		: "Unit Lulu's battle theme",
-	},
 	"SG_anomaly_battle" : {
 		"name"		: "遥远距离",
-		"desc"		: "Anomaly's battle theme",
+		"desc"		: "异常战斗主题曲",
 	},
 	"SG_anomaly_battle_b" : {
 		"name"		: "光年之外",
-		"desc"		: "Shiny Anomaly's battle theme",
+		"desc"		: "闪亮异常战斗主题曲",
 	},
 	"SG_garden_battle" : {
 		"name"		: "清醒不谐",
-		"desc"		: "Nova's battle theme",
+		"desc"		: "超新星战斗主题曲",
 	},
 	"SG_shamble_battle_3" : {
 		"name"		: "散于时空之中",
-		"desc"		: "Climactic Shamble monster battle theme",
+		"desc"		: "渐强晃晃怪物战斗主题曲",
 	},
 	"SG_guardian_battle_3" : {
 		"name"		: "心如刀歌",
-		"desc"		: "Climactic Guardian monster battle theme",
+		"desc"		: "渐强守护者怪物战斗主题曲",
 	},
 	"SG_glyph_battle_3" : {
 		"name"		: "无惧恶言",
-		"desc"		: "Climactic Eyeric Glyph monster battle theme",
+		"desc"		: "渐强眼睛符文怪物战斗主题曲",
 	},
 	"SG_zaramech_battle_3" : {
 		"name"		: "标记删除",
-		"desc"		: "Climactic Zaramech monster battle theme",
+		"desc"		: "渐强扎拉机械怪物战斗主题曲",
 	},
 	"SG_glass_battle_3" : {
 		"name"		: "无坚不摧的星光之花",
-		"desc"		: "Climactic Glass Flora monster battle theme",
+		"desc"		: "渐强玻璃植物怪物战斗主题曲",
 	},
 	"SG_veyeral_battle_3" : {
 		"name"		: "合为空无",
-		"desc"		: "Climactic Veyeral monster battle theme",
+		"desc"		: "渐强维目尔怪物战斗主题曲",
 	},
 	"SG_shamble_battle_4" : {
 		"name"		: "蹒跚之梦混编",
-		"desc"		: "Medley of Shamble monster themes",
+		"desc"		: "晃晃怪物主题曲混编",
 	},
 	"SG_guardian_battle_4" : {
 		"name"		: "守护者之梦混编",
-		"desc"		: "Medley of Guardian monster themes",
+		"desc"		: "守护者怪物主题曲混编",
 	},
 	"SG_glyph_battle_4" : {
 		"name"		: "符号之梦混编",
-		"desc"		: "Medley of Eyeric Glyph monster themes",
+		"desc"		: "眼睛符文怪物主题曲混编",
 	},
 	"SG_zaramech_battle_4" : {
 		"name"		: "机械之梦混编",
-		"desc"		: "Medley of Zaramech monster themes",
+		"desc"		: "扎拉机械怪物主题曲混编",
 	},
 	"SG_glass_battle_4" : {
 		"name"		: "易碎之梦混编",
-		"desc"		: "Medley of Glass Flora monster themes",
+		"desc"		: "玻璃植物怪物主题曲混编",
 	},
 	"SG_veyeral_battle_4" : {
 		"name"		: "虚空之梦混编",
-		"desc"		: "Medley of Veyeral monster themes",
+		"desc"		: "维目尔怪物主题曲混编",
 	},
 	"SG_special_battle_b" : {
 		"name"		: "清醒之梦混编",
-		"desc"		: "Medley of Special monster themes",
+		"desc"		: "特别怪物主题曲混编",
 	},
 	"SG_limbo_battle" : {
 		"name"		: "六点之间的世界",
-		"desc"		: "Limbo's battle medley",
+		"desc"		: "黯驳战斗混编",
 	},
 	"SG_green_scene" : {
 		"name"		: "跨纬度姐妹",
-		"desc"		: "\"Green\" theme",
+		"desc"		: "\"绿色\"主题曲",
 	},
 	"SG_red_scene" : {
 		"name"		: "触碰她的灵魂",
-		"desc"		: "\"Red\" theme",
+		"desc"		: "\"红色\"主题曲",
 	},
 	"SG_yellow_scene" : {
 		"name"		: "安乐之所",
-		"desc"		: "\"Yellow\" theme",
+		"desc"		: "\"黄色\"主题曲",
 	},
 	"SG_tutorbot_scene" : {
 		"name"		: "心律失常",
-		"desc"		: "\"Blue\" theme",
+		"desc"		: "\"蓝色\"主题曲",
 	},
 	"SG_orange_scene" : {
 		"name"		: "小心轻放",
-		"desc"		: "\"Orange\" theme",
+		"desc"		: "\"橙色\"主题曲",
 	},
 	"SG_purple_scene" : {
 		"name"		: "独自同行",
-		"desc"		: "\"Purple\" theme",
+		"desc"		: "\"紫色\"主题曲",
 	},
 	"SG_quiz" : {
 		"name"		: "智力问答，但你没穿衣服",
-		"desc"		: "Sentinel's Quiz theme",
+		"desc"		: "哨卫的智力问答主题曲",
 	},
 	"SG_kiwi" : {
 		"name"		: "玻璃与地下城",
-		"desc"		: "Theme for Kiwi's Dungeon of Demise and Doom",
+		"desc"		: "几维的死亡与毁灭地下城主题曲",
 	},
 	"SG_defect_scene" : {
 		"name"		: "小小的不完美",
-		"desc"		: "Defect's theme",
+		"desc"		: "缺陷主题曲",
 	},
 	"SG_void_battle" : {
 		"name"		: "绝对零点",
-		"desc"		: "The Void battle theme",
+		"desc"		: "虚空战斗主题曲",
 	},
 	"SG_totaria_battle1" : {
 		"name"		: "更低于零",
-		"desc"		: "Totaria battle theme A",
+		"desc"		: "托塔莉娅战斗主题曲A",
 	},
 	"SG_totaria_battle2" : {
 		"name"		: "负向物质",
-		"desc"		: "Totaria battle theme B",
+		"desc"		: "托塔莉娅战斗主题曲B",
 	},
 	"SG_scene_b" : {
 		"name"		: "一个结局",
-		"desc"		: "Heartfelt scene music",
+		"desc"		: "内心场景音乐",
 	},
 	"SG_blue_veyeral_battle" : {
 		"name"		: "我，我自己，和眼睛",
-		"desc"		: "Blue Veyeral's battle theme",
+		"desc"		: "蓝色维目尔战斗主题曲",
 	},
 	
 	
@@ -378,138 +378,138 @@
 	},
 	"S_clouds_day" : {
 		"name"		: "花瓣之间",
-		"memory"	: "I can share my dreams with them! Have I always been able to do this?|L||L|It feels like I'm flying! I haven't felt this much joy in a long time.",
+		"memory"	: "我可以和她们分享我的梦境！我一直能够这么做吗？|L||L|感觉就像我在飞！我很久没有感到这么开心了。",
 	},
 	"S_clouds_sunset" : {
 		"name"		: "云顶其上",
-		"memory"	: "The experience is stressful for all of us. Their attacks don't cause me any pain. They just make me sad.|L||L|Do they hate me for doing this? They SAY that they love me, but I feel guilty sometimes.",
+		"memory"	: "这段体验对我们而言都很有压力。她们的攻击不会对我造成任何痛苦。她们只会让我伤心。|L||L|她们是因此而恨我吗？她们说她们爱我，但我有时会感到愧疚。",
 	},
 	"S_clouds_night" : {
 		"name"		: "入我梦中",
-		"memory"	: "Why do they look like this? In my dreams, some of them look the same, but some of them look very different.|L||L|I wonder what I look like to them...",
+		"memory"	: "她们为什么看起来像这样子？在我的梦中，她们有些看起来一模一样，但有些看起来截然不同。|L||L|我在想我在她们眼中是什么样的...",
 	},
 	"S_ocean_day" : {
 		"name"		: "静寂映像",
-		"memory"	: "I heard a tree branch snap. A huge mite fell from above and almost landed on me. It was a Guardian monster!|L|I thought this was the end.|L|She was going to kill me.|L|I was so scared.|L||L|She ran away from me as fast as she could. Was she afraid of me?",
+		"memory"	: "我听到了树枝断裂的声音。一只巨大的跳虫从上方落下，差点落在了我身上。是一只守护者怪物！|L|我以为这就是我的终结。|L|她要杀了我。|L|我非常害怕。|L||L|她以最快的速度从我身边逃跑了。她是在害怕我吗？",
 	},
 	"S_ocean_sunset" : {
 		"name"		: "琉璃之洋",
-		"memory"	: "The Vitreous Ocean is the body of water that surrounds Retina. This ocean extends out to touch all four of the other continents.|L|Many of the islands found in this ocean are made of vitreous rocks. Some are so clear that they look like holes in the water.",
+		"memory"	: "琉璃之洋是围绕着勒提娜的水体。这片大洋一直向外延展，触碰到了其他全部四块大陆。|L|这片大洋中的许多岛屿都是由琉璃石组成的。有些非常澄净，看起来就像水里的洞。",
 	},
 	"S_ocean_night" : {
 		"name"		: "对称闪耀",
-		"memory"	: "I want her to see the ocean. Describing it to her is not enough. She needs to see it with her own eyes. I can fly her there one day. I will fly her to so many places.|L||L|I... wish it was that simple.",
+		"memory"	: "我想要她亲眼看到大洋。单纯向她描述远远不够。她需要亲眼见证。总有一天我能够带她飞向那里。我能够带她飞向许多地方。|L||L|我...真希望有那么简单。 wish it was that simple.",
 	},
 	"S_forest_day" : {
 		"name"		: "家园之上",
-		"memory"	: "I never would have imagined how pretty my home is from above. The forest is so much bigger than I thought. Even as high as she took me, there were trees as far as I could see in every direction!",
+		"memory"	: "我从来无法想象我的家园从上方看来有多么美丽。森林比我想的要大得多。即使她带我飞了这么高，我所能看到的每个方向，树木遍及了我视线的最远端！",
 	},
 	"S_forest_sunset" : {
 		"name"		: "鸢尾森林",
-		"memory"	: "To the residents of the Towers of Iiry, this forest is known as The Pit.|L||L|It is a beautiful violet forest that covers most of the Iiry continent, but this beauty is tainted by the fact that countless wingless have been left there to die...",
+		"memory"	: "对鸢尾之塔的原住民而言，这个森林被认为是巨坑。|L||L|这是一片美丽的紫色森林，覆盖了鸢尾大陆的绝大部分，但有无法计数的无翼者被留在这里去死，玷污了这份美丽...",
 	},
 	"S_forest_night" : {
 		"name"		: "渺远高塔",
-		"memory"	: "Never go near the towers! Monsters are bad, but Zaraden are worse! They WILL hurt you!|L||L|Please, promise me you will never go near them.",
+		"memory"	: "永远不要靠近高塔！怪物们很糟糕，但扎拉登们更糟糕！她们会伤害你！|L||L|求你了，答应我你永远不会靠近她们。",
 	},
 	"S_cave_day" : {
 		"name"		: "藏身之所",
-		"memory"	: "Before I met her, she would just sleep outside at night. She could handle the cold and the rain like they were nothing. She wasn't even afraid of those monsters that were lurking around. I knew they were dangerous, and I didn't want them to find her while she slept. I wanted her to be safe, so I helped her search for a place she could call home.",
+		"memory"	: "在我见到她之前，她晚上只会在外面睡。她能够应对寒冷，而雨水也被视若无物。她甚至不会害怕潜伏的那些怪物们。我知道它们很危险，我也不想在她睡觉的时候有怪物找上她。我希望能保障她的安全，所以我帮助她找到了一个她能够叫做家的地方。",
 	},
 	"S_cave_sunset" : {
 		"name"		: "鸢尾深窟",
-		"memory"	: "The Iiry Caverns are a massive system of caves that run all throughout the Iiry Mountains. Several colonies of mites and meerstalks live within these caverns. They may have been dug out by Guardian monsters attempting to reach Guardian Zones deep inside the mountains.",
+		"memory"	: "鸢尾深窟是一套巨大的洞穴系统，遍布于鸢尾山脉的内部。许多跳虫与海茎的群落都坐落于这些洞窟中。它们可能是被守护者怪物挖掘出的，那些怪物想要抵达山脉深处的守卫区。",
 	},
 	"S_cave_night" : {
 		"name"		: "特别之地",
-		"memory"	: "We found a cozy little cave tangled beneath the roots of a massive tree. Inside, there were two glowing flowers that matched the colors of our hair. The entrance was raised, so it wouldn't flood when it rained. She was really happy with it!|L||L|I wish I could just take her with me. She deserves so much better than this!",
+		"memory"	: "我们在一棵巨大的树的根部找到了一个舒适的小小洞窟。在里面，有两朵发光的花朵，正好对应了我们头发的颜色。洞穴的入口被抬升了，因此下雨时就不会淹水了。她对此真的很开心！|L||L|我希望我能将她随我一起带走。她值得比这更好的生活！",
 	},
 	"S_woods_day" : {
 		"name"		: "希望林地",
-		"memory"	: "Her skin was pink,|L|Her hair was blue,|L|Her six wonderful wings.|L|My heart was beating so fast.|L|My face was feeling so warm.|L|Why is she all I can think about?",
+		"memory"	: "她的皮肤是粉色的，|L|她的头发是蓝色的，|L|她有六片美妙的翅膀。|L|我的心跳动的非常快。|L|我的脸颊感觉非常暖。|L|为什么我能想到的只有她？",
 	},
 	"S_woods_sunset" : {
 		"name"		: "秋绪微风",
-		"memory"	: "She is so mean to herself.|L|She smiles at my compliments.|L|Whenever I ask,|L|She is always okay,|L|But I saw her bloody nails,|L|She is so mean to herself.",
+		"memory"	: "她对自己太刻薄了。|L|她会对我的赞美微笑。|L|每当我问起时，|L|她都会说自己没事，|L|但我看到了她染血的指甲，|L|她对自己太刻薄了。",
 	},
 	"S_woods_night" : {
 		"name"		: "孤寂",
-		"memory"	: "She promised me that I would never be alone again, but... she hasn't been here to see me in a long time.|L||L|I deserve this...",
+		"memory"	: "她向我保证过，我不再会是独自一人，但是...她很久没来这里见我了。|L||L|这是我应得的...",
 	},
 	"S_glow_tunnel" : {
 		"name"		: "瀑布后方",
-		"memory"	: "Always check behind the waterfall. You never know what you might find back there.",
+		"memory"	: "总要看一看瀑布的后面。你不会知道可能会在那里找到什么的。",
 	},
 	"S_lava_tunnel" : {
 		"name"		: "过度温暖",
-		"memory"	: "I need warmth.|L|I'm so cold.|L|I need more warmth.|L|I'm still so cold.|L|Give me your warmth.|L|Now we are both cold.|L|It's still not enough|L|Will it ever be enough?",
+		"memory"	: "我需要温暖。|L|我好冷。|L|我需要更多温暖。|L|我还是好冷。|L|给我你的温暖。|L|现在我们两个都很冷了。|L|还是不够。|L|真的会足够吗？",
 	},
 	"S_cold_tunnel" : {
 		"name"		: "麻木核心",
-		"memory"	: "I haven't seen Vitrea since the last time I broke one of my petals. I just don't want to be seen. It's so embarrassing.|L||L|It grew back just fine, but she hasn't come looking for me. I know I told her not to. I told her I would find her when I'm ready. But it's been such a long time. Maybe she doesn't want to see me anymore. I wouldn't blame her.",
+		"memory"	: "自从上次我弄坏我的花瓣后，我就没有见到过琉璃了。我只是不想被人看见。太尴尬了。|L||L|它正常长回来了，但她没有回来找我。我知道我告诉了她不要的。我告诉了她我准备好时会去找她的。但已经过去这么久了。或许她不会想要再见我了。我不会怪她。",
 	},
 	"S_canvas_day" : {
 		"name"		: "色染高山",
-		"memory"	: "I'm starting to forget what daytime is supposed to look like. I'll have to keep painting it so I won't lose what little memories I have left.|L||L|Wait! There weren't any stars, right? Well, there was one big one. I can still see a bright spot through the clouds sometimes.",
+		"memory"	: "我开始忘记白天看起来应该是什么样了。我要去一直绘制它，这样我就不会失去仅剩的小小记忆了。|L||L|等下！没有任何星星，是吧？好吧，有一颗非常大的星星。有时我能够透过云层看到一个亮点。",
 	},
 	"S_canvas_sunset" : {
 		"name"		: "日落海景",
-		"memory"	: "There is supposed to be so much water that you can't even see any land on the other side. It must be so beautiful. I wish I could fly over it.|L||L|I'm so tired. I'll just rest here for a little while. I'll imagine what the ocean looks like again.",
+		"memory"	: "据说水面有那么辽阔，让你甚至无法看到另一边的陆地。那一定非常美丽。我希望我能够在上方飞过。|L||L|我好累。我想在这里休息一小会。我会再次想象海洋看起来是什么样子。",
 	},
 	"S_canvas_night" : {
 		"name"		: "午夜壁画",
-		"memory"	: "I told her not to go. It's too dangerous to fly through the clouds. It's so dark, especially at night. And what if there was lightning?|L||L|She just made that face at me and took off into the sky. She just had to make sure the stars were still up there on the other side.",
+		"memory"	: "我告诉过她不要这样做。飞过云层太危险了。太暗了，尤其是在晚上。并且要是有闪电怎么办？|L||L|她刚刚又那样看着我，然后飞向了天空。她非要确认星星是否还在另一边的夜空之上。",
 	},
 	
 	"S_darkness" : {
 		"name"		: "黑暗",
-		"memory"	: "Blue told me that Veyerals don't dream. Well, she says they might, but everything is dark and they can't see anything.|L||L|I can only see red when I'm awake, but my dreams have all the colors now! I never knew how beautiful blue was.",
+		"memory"	: "小蓝告诉我说维目尔们无法做梦。嗯，她说或许可以，但一切都是黑暗，什么都看不见。|L||L|我醒来时仅能看到红色，但我的梦境中现在有所有的颜色了！我从来不知道小蓝有多么美丽。",
 	},
 	"S_super_space" : {
 		"name"		: "天涯海角",
-		"memory"	: "I want to take it back.|L|I left her all alone.|L|I want to see her again,|L|But, she's so far away.",
+		"memory"	: "我想要将它带回来。|L|我将她留在那里独自一人。|L|我想要再次见到她，|L|但，她如此遥远。",
 	},
 	"S_monster_home" : {
 		"name"		: "怪物的家",
-		"memory"	: "I know those monsters are just as lonely and scared as I am. I don't want us to be lonely anymore. I don't want us to feel afraid anymore. We can be friends.|L||L|I'll start with that cute little robot I saw. There's something different about her.",
+		"memory"	: "我知道那些怪物们和我一样孤独且害怕。我不想让我们一直孤独下去。我不想让我们继续感到恐惧。我们可以成为朋友。|L||L|我会从我见到的那只可爱的小机器人开始。关于她有什么特别的地方。",
 	},
 	"S_music_void" : {
 		"name"		: "愿此处获得声音",
-		"memory"	: "That pale girl has been living down here for so long. She's almost 50 years old! How hardcore do you have to be to live here for that long? Ever since she was just a kid? She is clearly made of something else.|L||L|I've got another idea for a song.",
+		"memory"	: "那个苍白的女孩已经住在这里非常久了。她都快50岁大了！住在这里这么久也太硬核了吧？并且是自从她还是个孩子的时候？她显然非同寻常。|L||L|我又有了另一首歌的灵感。",
 	},
 	"S_canvas_special" : {
 		"name"		: "诅咒画布",
-		"memory"	: "A long time ago, I found an image painted on the side of a rock. It was kinda Zaraden shaped. Whoever painted it left a single bowl of paint on the ground. I took some with my fingers and smeared a heart shape near it.|L||L|The next day, I went back to find that someone had painted so many lovely hearts all over the rock. They left so many colors of paint this time.|L|It was my turn again.",
+		"memory"	: "很久很久以前，我在一块石头的一面上发现了一幅画。有点像扎拉登的形状。无论是谁画的，地上都留下了一碗颜料。我用手指沾了一些，在它附近涂上了一颗心的形状。|L||L|第二天我回去看时，发现上面被人画满了许多可爱的心。她们这次留下了许多种颜料与色彩。|L|又轮到我了。",
 	},
 	
 	"S_true_panic" : {
 		"name"		: "真正恐慌",
-		"memory"	: "Take a deep breath|L|Exhale slowly|L|Inhale slowly|L|Exhale slowly|L|Nothing is actually happening to you. You will be okay.",
+		"memory"	: "深吸一口气|L|慢慢呼气|L|慢慢吸气|L|慢慢呼气|L|没有任何事发生在你身上。你会没事的。",
 	},
 	"S_wonderful_gift" : {
 		"name"		: "来自彼方的礼物",
-		"memory"	: "I know you are there.|L|I see so many of you helping every instance of these Zaraden. Is it because you don't have wings either?|L|I want to help them too. They are so sweet and deserve so much.|L|You are sweet too. I hope you love yourself the same way.",
+		"memory"	: "我知道你在那里。|L|我看到过许多个你帮助这些扎拉登的每一个可能存在。那是因为你也没有翅膀吗？|L|我也想要帮助她们。她们人太好了，值得更好的生活。|L|你也很善良。我希望你能够以同样的方式爱自己。",
 	},
 	"S_garden_blessing" : {
 		"name"		: "花园的祝福",
-		"memory"	: "These flowers can absorb motes of all colors and turn them radiant, but they aren't very efficient.|L|Agh! I have to figure out a better way to do this!|L||L|They want to go with the other plan. I don't like the idea of creating a monster. We shouldn't be doing this.",
+		"memory"	: "这些花朵可以吸收各种颜色的魔尘并将它们变为光耀魔尘，但它们的效率不是很高。|L|啊！我要找到一个更有效的方法来这样做！|L||L|其他人想要进行另一个计划。我不喜欢创造一个怪物这样的主意，我们不应该这样做。",
 	},
 	"S_golden_void" : {
 		"name"		: "怪物的心",
-		"memory"	: "It's not often I get to observe a monster taking on a Zaranoid form. I've seen it with Shambles who seem to be able to take many shapes. I've seen Glyphs that project out a body almost like a hologram, but they appear to be solid. I suspect the Glass Flora all have a form like this, but I've only caught glimpses of them.|L||L|They all have one thing in common, a scar on their chest.",
+		"memory"	: "我很少能见到怪物变成扎拉登的形态。我见过有的晃晃们会这样--她们似乎能够变成许多形态。我见过符文投影出类似于全息影像的身体，但它们似乎是实体的。我怀疑玻璃植物们都有这样的形态，但我只见到过一眼。|L||L|她们有一个相同特点，胸口上有一道疤痕。",
 	},
 	"S_nowhere" : {
 		"name"		: "无处",
-		"memory"	: "I've been left here all alone for nearly my whole life.|L|Why go on at all.|L|What am I living for?|L||shake|Why do you go on?|L|Just give up!|L|HahAhaAHahaHha",
+		"memory"	: "我几乎一生都被留在这里独自一人。|L|为什么要再继续下去呢？|L|我活着是为了什么呢？|L||shake|你为什么要继续下去？|L|快放弃吧！|L|HahAhaAHahaHha",
 	},
 	
 	"S_alter_nowhere" : {
 		"name"		: "异相无处",
-		"memory"	: "No! I don't want to die.|L|I'm so scared.|L|Why does she want to kill us?|L||shake|Why? Why? Why? WHY?!",
+		"memory"	: "不！我不想死去。|L|我好害怕。|L|她为什么想要杀了我们？|L||shake|为什么？为什么？为什么？为什么？！",
 	},
 	"S_alter_iteria" : {
 		"name"		: "异相以特利亚",
-		"memory"	: "I'll take them down myself!|L|I'll burn them all down!|L||shake|Look what they did to me!|norm||L||L|They want a devil?|L|I'll show them a devil!",
+		"memory"	: "我会自己把她们干掉！|L|我会把她们全部烧毁！|L||shake|看看她们对我做了什么！|norm||L||L|她们想要一个恶魔？|L|那我来让她们见识一下恶魔是什么样子！",
 	},
 	"S_alter_pit" : {
 		"name"		: "Altered Pit",
@@ -517,15 +517,15 @@
 	},
 	"S_alter_dream" : {
 		"name"		: "异相梦境",
-		"memory"	: "After so much work, I've done it! I can talk to the creature from my dreams! We still can't understand each other, and I still can't make out her real shape, but this is a huge step. I know she can hear me. She reacted to the words I said... or rather, thought out loud.",
+		"memory"	: "在工作这么久以后，我终于完成了！我可以在我的梦境中与其他生物交流！我们还是无法理解彼此，并且我还是无法看到她真正的形状，但这已经是很大的一步了。我知道她能够听到我。她会对我说出的话语做出反应...抑或是，大声想出来。",
 	},
 	"S_alter_towers" : {
 		"name"		: "异相高塔",
-		"memory"	: "I'll climb up there if I have to. I'll go up there and find her myself!|L||L|Why would she do this to me?|L||shake|HahAhaAHahaHha|L|Why? Why? Why? WHY?!",
+		"memory"	: "如果有必要的话，我会爬上去的。我会上去自己找到她！|L||L|她为什么要对我这样做？|L||shake|HahAhaAHahaHha|L|为什么？为什么？为什么？为什么？！",
 	},
 	"S_alter_sentaria" : {
 		"name"		: "异相森塔利亚",
-		"memory"	: "She told me a story about a wingless Zaraden that used to live up in a lone tower. They let her live there because she was a brilliant scientist. She even made herself some fake wings that let her fly!|L||L|She just disappeared one day...|L|No one could find her.|L|I wish I could have met her.",
+		"memory"	: "她告诉我了一个无翼的扎拉登的故事，她过去住在独自耸立的高塔之中。她们会让她住在那里，是因为她是一个极为聪慧的科学家。她甚至自己制作了一对假的翅膀，能够让她飞翔！|L||L|有一天她就这么消失了...|L|没人能够找到她。|L|我希望我能够见到她。",
 	},
 	
 	

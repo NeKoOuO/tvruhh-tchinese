@@ -596,7 +596,7 @@
 		"medal_third"	: "三个光耀徽章！！！",
 		"medal_sublime"	: "崇高徽章！！！",
 		
-		"en_solara"		: "召唤索拉纳？",
+		"en_solara"		: "召唤索拉娜？",
 		"en_cost"		: "花费[VAL1]因果",
 		"en_power"		: "爱的力量 - [VAL1]%",
 		"summon_prompt"	: "|C3||B7| - 召唤",
@@ -926,6 +926,12 @@
 		"wrong_pw"			: "错误的输入",
 		"perfect_hack"		: "完美骇入",
 		"wrong_hack"		: "错误骇入",
+		"t1_ingredients"	: "使用的一阶材料",
+		"t2_ingredients"	: "使用的二阶材料",
+		"t3_ingredients"	: "使用的三阶材料",
+		"soups_made"		: "制作的汤",
+		"soups_eaten"		: "食用的汤",
+		"soups_burden"		: "食用的负担之汤",
 		
 		"total_tetrids"		: "收集的总棱晶",
 		"total_green"		: "绿色棱晶",
@@ -971,7 +977,7 @@
 		"tower_most_won"	: "最高胜场高塔",
 		
 		"endless_cycles"	: "通过的循环",
-		"solara_summons"	: "索拉纳的拜访",
+		"solara_summons"	: "索拉娜的拜访",
 		"gifts_bought"		: "购买的礼物",
 		"karma_spent"		: "花费的因果",
 		

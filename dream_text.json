@@ -20,6 +20,7 @@
 		"sub_new_event"		: "新的事件",
 		"sub_new_song"		: "新的乐曲",
 		"sub_new_background": "新的梦域",
+		"sub_new_unknown"	: "新的 ???",
 		
 		"main_misc"			: "美妙梦境",
 		"sub_cumuative"		: "累计目标",
@@ -540,7 +541,7 @@
 	},
 	"DR_twin_heart_trial4" : {
 		"name"    : "双子之心:大雨虚空",
-		"desc"    : "作为双子之心在故事模式中至少大雨难度下击败虚空，\n且在所有战斗中花费的总时间不超过6分钟",
+		"desc"    : "作为双子之心在故事模式中至少大雨难度下击败虚空，且在所有战斗中花费的总时间不超过6分钟",
 	},
 	"DR_twin_heart_trial5" : {
 		"name"    : "双子之心:礼物暴雨",
@@ -1300,41 +1301,41 @@
 		"desc"    : "从珍珠手中收下1个免费礼物",
 	},
 	"DR_burning_visit" : {
-		"name"    : "格外焦脆",
+		"name"    : "格外焦脆明艳",
 		"desc"    : "从燃烧维目尔手中收下1个免费礼物",
 	},
 	"DR_venom_visit" : {
-		"name"    : "Pour Some Venom On Me",
+		"name"    : "在我心上泼洒剧毒",
 		"desc"    : "从剧毒维目尔手中收下1个免费礼物",
 	},
 	
 	
 	"DR_bonding_time1" : {
-		"name"    : "Time's Up Already?",
+		"name"    : "已经到时间了？",
 		"desc"    : "第一次完成羁绊时间事件",
 	},
 	"DR_bonding_t1" : {
-		"name"    : "5 Bonding Time Gifts",
+		"name"    : "5个羁绊时间礼物",
 		"desc"    : "从任意羁绊时间事件中总共接受5个礼物",
 	},
 	"DR_bonding_t2" : {
-		"name"    : "15 Bonding Time Gifts",
+		"name"    : "15个羁绊时间礼物",
 		"desc"    : "从任意羁绊时间事件中总共接受15个礼物",
 	},
 	"DR_bonding_t3" : {
-		"name"    : "40 Bonding Time Gifts",
+		"name"    : "40个羁绊时间礼物",
 		"desc"    : "从任意羁绊时间事件中总共接受40个礼物",
 	},
 	"DR_bonding_t4" : {
-		"name"    : "90 Bonding Time Gifts",
+		"name"    : "90个羁绊时间礼物",
 		"desc"    : "从任意羁绊时间事件中总共接受90个礼物",
 	},
 	"DR_bonding_dot" : {
 		"name"    : "I Know The Pieces Fit",
-		"desc"    : "Get a 90% rating or higher on 4 of Dot's hugs in a single visit",
+		"desc"    : "在单次拜访中，在4个点点的拥抱中达到至少90%的评分",
 	},
 	"DR_bonding_kiwi" : {
-		"name"    : "A Critical Roll!",
+		"name"    : "大成功！",
 		"desc"    : "在几维的游戏中达成20次暴击或全回复",
 	},
 	"DR_bonding_split" : {
@@ -1342,23 +1343,28 @@
 		"desc"    : "赢下5次分裂维目尔的小游戏",
 	},
 	"DR_bonding_voltage" : {
-		"name"    : "Can't Resist the Current",
+		"name"    : "电流无法阻挡",
 		"desc"    : "将高压维目尔完全充电或放电4次",
+
+	},
+	"DR_bonding_molten" : {
+		"name"    : "I'm At Soup!",
+		"desc"    : "在熔融维目尔制作的汤中使用总共50个原料",
 	},
 	
 	
 	
 	
 	"DR_blank_void_win" : {
-		"name"    : "Bring An Umbrella",
+		"name"    : "带上一把雨伞",
 		"desc"    : "作为她的心，完成虚空的故事线",
 	},
 	"DR_defect_void_win" : {
-		"name"    : "How Do You Love Disorder?",
+		"name"    : "你如何去爱缺陷？",
 		"desc"    : "作为缺陷，完成虚空的故事线",
 	},
 	"DR_twin_void_win" : {
-		"name"    : "Alone Together",
+		"name"    : "一同孤独",
 		"desc"    : "作为双子之心，完成虚空的故事线",
 	},
 	"DR_devil_void_win" : {
@@ -1366,28 +1372,28 @@
 		"desc"    : "作为恶魔，完成虚空的故事线",
 	},
 	"DR_void_wins2" : {
-		"name"    : "Nothing Times Two",
+		"name"    : "无乘二",
 		"desc"    : "作为任意角色，完成虚空的故事线2次",
 	},
 	"DR_void_wins3" : {
-		"name"    : "Nothing Times Three",
+		"name"    : "无乘三",
 		"desc"    : "作为任意角色，完成虚空的故事线3次",
 	},
 	"DR_void_wins5" : {
-		"name"    : "Nothing Times Five",
+		"name"    : "无乘五",
 		"desc"    : "作为任意角色，完成虚空的故事线5次",
 	},
 	"DR_void_heavy" : {
-		"name"    : "The Void: Heavy",
+		"name"    : "虚空:大雨",
 		"desc"    : "作为任意角色，在大雨难度下完成虚空的故事线",
 	},
 	"DR_void_torrent" : {
-		"name"    : "The Void: Torrent",
+		"name"    : "虚空:暴雨",
 		"desc"    : "作为任意角色，在暴雨难度下完成虚空的故事线",
 	},
 	
 	"DR_blank_totaria_win" : {
-		"name"    : "Fallen Angel",
+		"name"    : "坠落天使",
 		"desc"    : "作为她的心，完成托塔莉娅的故事线",
 	},
 	"DR_defect_totaria_win" : {
@@ -1403,48 +1409,48 @@
 		"desc"    : "作为恶魔，完成托塔莉娅的故事线",
 	},
 	"DR_totaria_wins2" : {
-		"name"    : "Negative Two",
+		"name"    : "负向二",
 		"desc"    : "作为任意角色，完成托塔莉娅的故事线2次",
 	},
 	"DR_totaria_wins3" : {
-		"name"    : "Negative Three",
+		"name"    : "负向三",
 		"desc"    : "作为任意角色，完成托塔莉娅的故事线3次",
 	},
 	"DR_totaria_heavy" : {
-		"name"    : "Totaria: Heavy",
+		"name"    : "托塔莉娅:大雨",
 		"desc"    : "作为任意角色，在大雨难度下完成托塔莉娅的故事线",
 	},
 	"DR_totaria_torrent" : {
-		"name"    : "Totaria: Torrent",
+		"name"    : "托塔莉娅:暴雨",
 		"desc"    : "作为任意角色，在暴雨难度下完成托塔莉娅的故事线",
 	},
 	
 	"DR_blank_blue_win" : {
-		"name"    : "The Perfect Veyeral",
+		"name"    : "完美的维目尔",
 		"desc"    : "作为她的心，完成蓝色维目尔的故事线",
 	},
 	"DR_defect_blue_win" : {
-		"name"    : "My Best Veyeral",
+		"name"    : "我最棒的维目尔",
 		"desc"    : "作为缺陷，完成蓝色维目尔的故事线",
 	},
 	"DR_twin_blue_win" : {
-		"name"    : "Group Hug",
+		"name"    : "群体拥抱",
 		"desc"    : "作为双子之心，完成蓝色维目尔的故事线",
 	},
 	"DR_devil_blue_win" : {
-		"name"    : "Wrathful Pride",
+		"name"    : "骄傲怒火",
 		"desc"    : "作为恶魔，完成蓝色维目尔的故事线",
 	},
 	"DR_blue_wins2" : {
-		"name"    : "Two Perfect",
+		"name"    : "双倍完美",
 		"desc"    : "作为任意角色，完成蓝色维目尔的故事线2次",
 	},
 	"DR_blue_heavy" : {
-		"name"    : "Blue Veyeral: Heavy",
+		"name"    : "蓝色维目尔:大雨",
 		"desc"    : "作为任意角色，在大雨难度下完成蓝色维目尔的故事线",
 	},
 	"DR_blue_torrent" : {
-		"name"    : "Blue Veyeral: Torrent",
+		"name"    : "蓝色维目尔:暴雨",
 		"desc"    : "作为任意角色，在暴雨难度下完成蓝色维目尔的故事线",
 	},
 	
@@ -1453,169 +1459,169 @@
 	
 	
 	"DR_alter_light" : {
-		"name"    : "Unusual Drizzle",
+		"name"    : "不寻常的细雨",
 		"desc"    : "在细雨难度下，完成异相故事的一天",
 	},
 	"DR_alter_heavy" : {
-		"name"    : "Peculiar Rainstorm",
+		"name"    : "离奇的暴雨",
 		"desc"    : "在大雨难度下，完成异相故事的一天",
 	},
 	"DR_alter_torrent" : {
-		"name"    : "Extraordinary Monsoon",
+		"name"    : "超常的季风",
 		"desc"    : "在暴雨难度下，完成异相故事的一天",
 	},
 	"DR_alter_wins_t1" : {
-		"name"    : "Day After Tomorrow",
+		"name"    : "明日之后",
 		"desc"    : "在异相故事中总共完成3天",
 	},
 	"DR_alter_wins_t2" : {
-		"name"    : "Eight Days a Week",
+		"name"    : "八日一周",
 		"desc"    : "在异相故事中总共完成8天",
 	},
 	"DR_alter_wins_t3" : {
-		"name"    : "Altered Fortnight",
+		"name"    : "异相十六",
 		"desc"    : "在异相故事中总共完成16天",
 	},
 	"DR_alter_wins_t4" : {
-		"name"    : "28 Altered Days Later",
+		"name"    : "异相的28天之后",
 		"desc"    : "在异相故事中总共完成28天",
 	},
 	"DR_alter_extra" : {
-		"name"    : "Strange Flood",
+		"name"    : "奇异洪水",
 		"desc"    : "在异相故事中，让阿比斯增加至少1场额外战斗并赢下本局游戏",
 	},
 	"DR_alter_extra3" : {
-		"name"    : "Abnormal Deluge",
+		"name"    : "异常泛滥",
 		"desc"    : "在异相故事中，让阿比斯增加3场额外战斗并赢下本局游戏",
 	},
 	"DR_alter_extra_t" : {
-		"name"    : "Unimaginable Tsunami",
+		"name"    : "不思议海啸",
 		"desc"    : "在异相故事中暴雨难度下，让阿比斯增加3场额外战斗并赢下本局游戏",
 	},
 	
 	
 	
 	"DR_her_heart_alt1" : {
-		"name"    : "The Heart of a Zaraden",
+		"name"    : "扎拉登的心",
 		"desc"    : "作为她的心，完成异相故事的一天",
 	},
 	"DR_her_heart_alt2" : {
-		"name"    : "她的心 of Gold",
+		"name"    : "她的金色之心",
 		"desc"    : "作为她的心，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_defect_alt1" : {
-		"name"    : "The Flawed Heart",
+		"name"    : "缺陷的心",
 		"desc"    : "作为缺陷，完成异相故事的一天",
 	},
 	"DR_defect_alt2" : {
-		"name"    : "Fool's Gold",
+		"name"    : "愚人之金",
 		"desc"    : "作为缺陷，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_twin_alt1" : {
-		"name"    : "The Heart of a Twin",
+		"name"    : "双子的心",
 		"desc"    : "作为双子之心，完成异相故事的一天",
 	},
 	"DR_twin_alt2" : {
-		"name"    : "Golden Twins",
+		"name"    : "金色双子",
 		"desc"    : "作为双子之心，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_devil_alt1" : {
-		"name"    : "The Heart of a Devil",
+		"name"    : "恶魔的心",
 		"desc"    : "作为恶魔，完成异相故事的一天",
 	},
 	"DR_devil_alt2" : {
-		"name"    : "Devil's Gold",
+		"name"    : "恶魔之金",
 		"desc"    : "作为恶魔，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_alt_heart_alt1" : {
-		"name"    : "The Painted Heart",
+		"name"    : "着色的心",
 		"desc"    : "作为异相之心，完成异相故事的一天",
 	},
 	"DR_alt_heart_alt2" : {
-		"name"    : "She's Painted Gold",
+		"name"    : "她被画上了金色",
 		"desc"    : "作为异相之心，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_alt_defect_alt1" : {
-		"name"    : "The Perfect Heart",
+		"name"    : "完美的心",
 		"desc"    : "作为异相缺陷，完成异相故事的一天",
 	},
 	"DR_alt_defect_alt2" : {
-		"name"    : "Flawless Gold",
+		"name"    : "无瑕之金",
 		"desc"    : "作为异相缺陷，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_alt_twin_alt1" : {
-		"name"    : "The Beaming Heart",
+		"name"    : "洋溢的心",
 		"desc"    : "作为异相双子，完成异相故事的一天",
 	},
 	"DR_alt_twin_alt2" : {
-		"name"    : "Reflected in Gold",
+		"name"    : "金光相映",
 		"desc"    : "作为异相双子，在异相故事中获得一个至少为金色的徽章",
 	},
 	"DR_alt_devil_alt1" : {
-		"name"    : "The Condemned Heart",
+		"name"    : "被谴责的心",
 		"desc"    : "作为异相恶魔，完成异相故事的一天",
 	},
 	"DR_alt_devil_alt2" : {
-		"name"    : "Scorched Gold",
+		"name"    : "烧炙之金",
 		"desc"    : "作为异相恶魔，在异相故事中获得一个至少为金色的徽章",
 	},
 	
 	
 	
 	"DR_alter_silver_t1" : {
-		"name"    : "3 Altered Silvers",
+		"name"    : "3异相之银",
 		"desc"    : "在异相故事中，获得3个不同的至少为银色的徽章",
 	},
 	"DR_alter_silver_t2" : {
-		"name"    : "12 Altered Silvers",
+		"name"    : "12异相之银",
 		"desc"    : "在异相故事中，获得12个不同的至少为银色的徽章",
 	},
 	"DR_alter_silver_t3" : {
-		"name"    : "24 Altered Silvers",
+		"name"    : "24异相之银",
 		"desc"    : "在异相故事中，获得24个不同的至少为银色的徽章",
 	},
 	"DR_alter_radiant_t1" : {
-		"name"    : "Altered辉光",
+		"name"    : "异相辉光",
 		"desc"    : "在异相故事中，获得1个光耀徽章",
 	},
 	"DR_alter_radiant_t2" : {
-		"name"    : "5 Altered Radiants",
+		"name"    : "5异相光耀",
 		"desc"    : "在异相故事中，获得5个不同的光耀徽章",
 	},
 	"DR_alter_radiant_t3" : {
-		"name"    : "15 Altered Radiants",
+		"name"    : "15异相光耀",
 		"desc"    : "在异相故事中，获得15个不同的光耀徽章",
 	},
 	"DR_alter_rose_t1" : {
-		"name"    : "50 Altered Roses",
+		"name"    : "50异相玫瑰",
 		"desc"    : "在异相故事中，从怪物手中收下50个玫瑰徽章",
 	},
 	"DR_alter_rose_t2" : {
-		"name"    : "100 Altered Roses",
+		"name"    : "100异相玫瑰",
 		"desc"    : "在异相故事中，从怪物手中收下100个玫瑰徽章",
 	},
 	"DR_alter_rose_t3" : {
-		"name"    : "250 Altered Roses",
+		"name"    : "250异相玫瑰",
 		"desc"    : "在异相故事中，从怪物手中收下250个玫瑰徽章",
 	},
 	"DR_alter_rose_t4" : {
-		"name"    : "500 Altered Roses",
+		"name"    : "500异相玫瑰",
 		"desc"    : "在异相故事中，从怪物手中收下500个玫瑰徽章",
 	},
 	"DR_alter_crimson_t1" : {
-		"name"    : "Altered Bloodstone",
+		"name"    : "异相血之石",
 		"desc"    : "在异相故事中，从荆棘怪物手中收下1个朱红徽章",
 	},
 	"DR_alter_crimson_t2" : {
-		"name"    : "5 Altered血之石",
+		"name"    : "5异相血之石",
 		"desc"    : "在异相故事中，从怪物手中收下5个朱红徽章",
 	},
 	"DR_alter_crimson_t3" : {
-		"name"    : "20 Altered血之石",
+		"name"    : "20异相血之石",
 		"desc"    : "在异相故事中，从怪物手中收下20个朱红徽章",
 	},
 	"DR_alter_crimson_t4" : {
-		"name"    : "50 Altered血之石",
+		"name"    : "50异相血之石",
 		"desc"    : "在异相故事中，从怪物手中收下50个朱红徽章",
 	},
 
@@ -1625,147 +1631,147 @@
 
 	
 	"DR_qp_love1" : {
-		"name"    : "Love Them All Over Again",
+		"name"    : "再爱她们一遍",
 		"desc"    : "在快速挑战中爱过任意怪物",
 	},
 	"DR_qp_no_medal" : {
-		"name"    : "Love is Overpowered!",
+		"name"    : "压倒性的爱！",
 		"desc"    : "在快速挑战中击败任意怪物且未获得任何徽章",
 	},
 	"DR_qp_none_level7" : {
-		"name"    : "Giant Lover",
+		"name"    : "巨人爱者",
 		"desc"    : "在不装备任何礼物的情况下，在任意等级至少为7的快速挑战中至少获取银色徽章",
 	},
 	"DR_qp_none_level10" : {
-		"name"    : "Titan Lover",
+		"name"    : "泰坦爱者",
 		"desc"    : "在不装备任何礼物的情况下，在任意等级至少为10的快速挑战中至少获取银色徽章",
 	},
 	"DR_qp_rad_medal1" : {
-		"name"    : "A Radiant Medal!",
+		"name"    : "光耀徽章！",
 		"desc"    : "在任意快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_level5" : {
-		"name"    : "Glowing辉光",
+		"name"    : "闪亮辉光",
 		"desc"    : "在任意等级至少为5的快速挑战中获取光耀徽章",
 	},
 	"DR_qp_rad_level8" : {
-		"name"    : "Burning辉光",
+		"name"    : "灼燃辉光",
 		"desc"    : "在任意等级至少为8的快速挑战中获取光耀徽章",
 	},
 	"DR_qp_rad_level10" : {
-		"name"    : "Blinding辉光",
+		"name"    : "蔽目辉光",
 		"desc"    : "在任意等级至少为10的快速挑战中获取光耀徽章",
 	},
 	"DR_qp_rank5" : {
-		"name"    : "Lovely Level 5",
+		"name"    : "可爱等级5",
 		"desc"    : "在快速挑战模式中达到等级5",
 	},
 	"DR_qp_rank10" : {
-		"name"    : "Lovely Level 10",
+		"name"    : "可爱等级10",
 		"desc"    : "在快速挑战模式中达到等级10",
 	},
 	"DR_qp_rank15" : {
-		"name"    : "Lovely Level 15",
+		"name"    : "可爱等级15",
 		"desc"    : "在快速挑战模式中达到等级15",
 	},
 	"DR_qp_rank20" : {
-		"name"    : "Lovely Level 20",
+		"name"    : "可爱等级20",
 		"desc"    : "在快速挑战模式中达到等级20",
 	},
 	"DR_qp_rank25" : {
-		"name"    : "Lovely Level 25",
+		"name"    : "可爱等级25",
 		"desc"    : "在快速挑战模式中达到等级25",
 	},
 	"DR_qp_rank30" : {
-		"name"    : "Lovely Level 30",
+		"name"    : "可爱等级30",
 		"desc"    : "在快速挑战模式中达到等级30",
 	},
 	"DR_qp_rank35" : {
-		"name"    : "Lovely Level 35",
+		"name"    : "可爱等级35",
 		"desc"    : "在快速挑战模式中达到等级35",
 	},
 	"DR_qp_rank40" : {
-		"name"    : "Lovely Level 40",
+		"name"    : "可爱等级40",
 		"desc"    : "在快速挑战模式中达到等级40",
 	},
 	"DR_qp_rank45" : {
-		"name"    : "Lovely Level 45",
+		"name"    : "可爱等级45",
 		"desc"    : "在快速挑战模式中达到等级45",
 	},
 	"DR_qp_rank50" : {
-		"name"    : "Lovely Level 50",
+		"name"    : "可爱等级50",
 		"desc"    : "在快速挑战模式中达到等级50",
 	},
 	"DR_qp_any_medal10" : {
-		"name"    : "10 Medals",
+		"name"    : "10个徽章",
 		"desc"    : "在10场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_any_medal40" : {
-		"name"    : "40 Medals",
+		"name"    : "40个徽章",
 		"desc"    : "在40场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_any_medal90" : {
-		"name"    : "90 Medals",
+		"name"    : "90个徽章",
 		"desc"    : "在90场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_any_medal160" : {
-		"name"    : "160 Medals",
+		"name"    : "160个徽章",
 		"desc"    : "在160场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_any_medal250" : {
-		"name"    : "250 Medals",
+		"name"    : "250个徽章",
 		"desc"    : "在250场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_any_medal360" : {
-		"name"    : "360 Medals",
+		"name"    : "360个徽章",
 		"desc"    : "在360场不同的快速挑战战斗中获取任意徽章",
 	},
 	"DR_qp_gold_medal10" : {
-		"name"    : "10 Gold Medals",
+		"name"    : "10个金色徽章",
 		"desc"    : "在10场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_gold_medal40" : {
-		"name"    : "40 Gold Medals",
+		"name"    : "40个金色徽章",
 		"desc"    : "在40场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_gold_medal90" : {
-		"name"    : "90 Gold Medals",
+		"name"    : "90个金色徽章",
 		"desc"    : "在90场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_gold_medal160" : {
-		"name"    : "160 Gold Medals",
+		"name"    : "160个金色徽章",
 		"desc"    : "在160场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_gold_medal250" : {
-		"name"    : "250 Gold Medals",
+		"name"    : "250个金色徽章",
 		"desc"    : "在250场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_gold_medal360" : {
-		"name"    : "360 Gold Medals",
+		"name"    : "360个金色徽章",
 		"desc"    : "在360场不同的快速挑战战斗中至少获取金色徽章",
 	},
 	"DR_qp_rad_medal10" : {
-		"name"    : "10 Radiant Medals!",
+		"name"    : "10个光耀徽章！",
 		"desc"    : "在10场不同的快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_medal40" : {
-		"name"    : "40 Radiant Medals!",
+		"name"    : "40个光耀徽章！",
 		"desc"    : "在40场不同的快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_medal90" : {
-		"name"    : "90 Radiant Medals!",
+		"name"    : "90个光耀徽章！",
 		"desc"    : "在90场不同的快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_medal160" : {
-		"name"    : "160 Radiant Medals!",
+		"name"    : "160个光耀徽章！",
 		"desc"    : "在160场不同的快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_medal250" : {
-		"name"    : "250 Radiant Medals!",
+		"name"    : "250个光耀徽章！",
 		"desc"    : "在250场不同的快速挑战战斗中获取光耀徽章",
 	},
 	"DR_qp_rad_medal360" : {
-		"name"    : "360 Radiant Medals!",
+		"name"    : "360个光耀徽章！",
 		"desc"    : "在360场不同的快速挑战战斗中获取光耀徽章",
 	},
 	
@@ -1773,75 +1779,75 @@
 	
 	
 	"DR_uqp_ultra15" : {
-		"name"    : "Colossus Lover",
+		"name"    : "巨像爱人",
 		"desc"    : "不使用恐慌攻击，在等级至少为15的极限快速挑战战斗中获得3个光耀徽章",
 	},
 	"DR_uqp_ultra20" : {
-		"name"    : "Leviathan Lover",
+		"name"    : "异兽爱人",
 		"desc"    : "不使用恐慌攻击，在等级至少为20的极限快速挑战战斗中获得至少2个光耀徽章",
 	},
 	"DR_uqp_ultra30" : {
-		"name"    : "Ultimate Goddess Lover",
+		"name"    : "终极女神爱人",
 		"desc"    : "不使用恐慌攻击，在等级至少为30的极限快速挑战战斗中获得至少1个光耀徽章",
 	},
 	"DR_uqp_rank10" : {
-		"name"    : "Ultra Level 10",
+		"name"    : "极限等级10",
 		"desc"    : "在极限快速挑战模式中达到等级10",
 	},
 	"DR_uqp_rank20" : {
-		"name"    : "Ultra Level 20",
+		"name"    : "极限等级20",
 		"desc"    : "在极限快速挑战模式中达到等级20",
 	},
 	"DR_uqp_rank30" : {
-		"name"    : "Ultra Level 30",
+		"name"    : "极限等级30",
 		"desc"    : "在极限快速挑战模式中达到等级30",
 	},
 	"DR_uqp_rank40" : {
-		"name"    : "Ultra Level 40",
+		"name"    : "极限等级40",
 		"desc"    : "在极限快速挑战模式中达到等级40",
 	},
 	"DR_uqp_rank50" : {
-		"name"    : "Ultra Level 50",
+		"name"    : "极限等级50",
 		"desc"    : "在极限快速挑战模式中达到等级50",
 	},
 	"DR_uqp_rad3" : {
-		"name"    : "Ultra辉光",
+		"name"    : "极限辉光",
 		"desc"    : "在极限快速挑战中获取任意怪物的全部3个光耀徽章",
 	},
 	"DR_uqp_rad_t1" : {
-		"name"    : "30 Ultra Radiant Medals",
+		"name"    : "30个极限光耀徽章",
 		"desc"    : "在极限快速挑战中获取30个光耀徽章",
 	},
 	"DR_uqp_rad_t2" : {
-		"name"    : "80 Ultra Radiant Medals",
+		"name"    : "80个极限光耀徽章",
 		"desc"    : "在极限快速挑战中获取80个光耀徽章",
 	},
 	"DR_uqp_rad_t3" : {
-		"name"    : "150 Ultra Radiant Medals",
+		"name"    : "150个极限光耀徽章",
 		"desc"    : "在极限快速挑战中获取150个光耀徽章",
 	},
 	"DR_uqp_sublime_t1" : {
-		"name"    : "A Sublime Medal!",
+		"name"    : "崇高徽章！",
 		"desc"    : "在极限快速挑战中获取1个崇高徽章",
 	},
 	"DR_uqp_sublime_t2" : {
-		"name"    : "10 Sublime Medals!",
+		"name"    : "10个崇高徽章！",
 		"desc"    : "在极限快速挑战中获取10个崇高徽章",
 	},
 	"DR_uqp_sublime_t3" : {
-		"name"    : "25 Sublime Medals!",
+		"name"    : "25个崇高徽章！",
 		"desc"    : "在极限快速挑战中获取25个崇高徽章",
 	},
 	"DR_uqp_sublime_t4" : {
-		"name"    : "50 Sublime Medals!",
+		"name"    : "50个崇高徽章！",
 		"desc"    : "在极限快速挑战中获取50个崇高徽章",
 	},
 	"DR_uqp_sublime_t5" : {
-		"name"    : "100 Sublime Medals!",
+		"name"    : "100个崇高徽章！",
 		"desc"    : "在极限快速挑战中获取100个崇高徽章",
 	},
 	"DR_uqp_sublime3" : {
-		"name"    : "Plus Ultra!",
+		"name"    : "超越极限！",
 		"desc"    : "在单场极限快速挑战战斗中获取3个崇高徽章",
 	},
 	
@@ -2212,23 +2218,23 @@
 	},
 	"DR_en_store5" : {
 		"name"    : "Happy Place",
-		"desc"    : "在无尽梦魇的单局游戏中召唤索拉纳5次",
+		"desc"    : "在无尽梦魇的单局游戏中召唤索拉娜5次",
 	},
 	"DR_en_store10" : {
 		"name"    : "Gift Shop Regular",
-		"desc"    : "在无尽梦魇的单局游戏中召唤索拉纳10次",
+		"desc"    : "在无尽梦魇的单局游戏中召唤索拉娜10次",
 	},
 	"DR_en_total_store100" : {
 		"name"    : "Lucky 100th Shopper!",
-		"desc"    : "在无尽梦魇中总共召唤索拉纳100次",
+		"desc"    : "在无尽梦魇中总共召唤索拉娜100次",
 	},
 	"DR_en_spree" : {
 		"name"    : "Gift Shopping Spree",
-		"desc"    : "在无尽梦魇中，单次拜访内从索拉纳处购买10个礼物",
+		"desc"    : "在无尽梦魇中，单次拜访内从索拉娜处购买10个礼物",
 	},
 	"DR_en_buy_gifts" : {
 		"name"    : "Love Sells, But Who's Buying?",
-		"desc"    : "在无尽梦魇中总共从索拉纳处购买350个礼物",
+		"desc"    : "在无尽梦魇中总共从索拉娜处购买350个礼物",
 	},
 	"DR_en_expensive" : {
 		"name"    : "Power Creep",
@@ -2248,7 +2254,7 @@
 	},
 	"DR_en_one_summon" : {
 		"name"    : "Overextended",
-		"desc"    : "在无尽压力中，爱过前18只怪物且中途仅召唤索拉纳1次",
+		"desc"    : "在无尽压力中，爱过前18只怪物且中途仅召唤索拉娜1次",
 	},
 	"DR_en_terror_panic" : {
 		"name"    : "Should This Be Fight Or Flight?",
@@ -2346,7 +2352,7 @@
 	},
 	"DR_boiler1" : {
 		"name"    : "Hard Boiled",
-		"desc"    : "击败锅炉且达成100%连击，并且从未让任何她的部位越过你身后，\n同时破坏至少6个她的衍体",
+		"desc"    : "击败锅炉且达成100%连击，并且从未让任何她的部位越过你身后，同时破坏至少6个她的衍体",
 	},
 	"DR_boiler2" : {
 		"name"    : "Spicy Scrambles",
@@ -2354,7 +2360,7 @@
 	},
 	"DR_rage_boiler1" : {
 		"name"    : "The Most Spiciest Game",
-		"desc"    : "在燃怒锅炉的单场战斗中，\n在安全泡泡外的时间总共达到15秒并且未受到伤害或使用恐慌攻击",
+		"desc"    : "在燃怒锅炉的单场战斗中，在安全泡泡外的时间总共达到15秒并且未受到伤害或使用恐慌攻击",
 	},
 	"DR_rage_boiler2" : {
 		"name"    : "My Bubble!",
@@ -2544,7 +2550,7 @@
 	},
 	"DR_hematoren1" : {
 		"name"    : "Sprinkler System",
-		"desc"    : "在与血玛托壬的等级至少为6的战斗中，\n在不受到伤害的情况下，仅破坏她下方的血液球然后击败她",
+		"desc"    : "在与血玛托壬的等级至少为6的战斗中，在不受到伤害的情况下，仅破坏她下方的血液球然后击败她",
 	},
 	"DR_hematoren2" : {
 		"name"    : "Bleeding Me",
@@ -2647,7 +2653,7 @@
 	},
 	"DR_prisma2" : {
 		"name"    : "Simple Geometry",
-		"desc"    : "在与棱镜的战斗中，连续15秒内不移动，\n中途未受到伤害且未使用恐慌攻击（故事模式）",
+		"desc"    : "在与棱镜的战斗中，连续15秒内不移动，中途未受到伤害且未使用恐慌攻击（故事模式）",
 	},
 	"DR_rage_prisma1" : {
 		"name"    : "Safety Circumference",
@@ -2663,7 +2669,7 @@
 	},
 	"DR_dual_prisma2" : {
 		"name"    : "Bisected Angle",
-		"desc"    : "在与双生棱镜的战斗中，\n破坏其中一只的全部4块外壳部件同时另一只保持完整（故事模式）",
+		"desc"    : "在与双生棱镜的战斗中，破坏其中一只的全部4块外壳部件同时另一只保持完整（故事模式）",
 	},
 	"DR_syncron1" : {
 		"name"    : "Chaotic Indecision",
@@ -2707,7 +2713,7 @@
 	},
 	"DR_ventra1" : {
 		"name"    : "OK, 3, 2, 1, Blast Off!",
-		"desc"    : "在等级至少为7的战斗中，\n击败雯特拉并达成100%连击，且破坏她全部4个齿轮状车轮部件",
+		"desc"    : "在等级至少为7的战斗中，击败雯特拉并达成100%连击，且破坏她全部4个齿轮状车轮部件",
 	},
 	"DR_ventra2" : {
 		"name"    : "I'll Be The Roundabout",
@@ -2865,11 +2871,11 @@
 	},
 	"DR_vibrant_veyeral1" : {
 		"name"    : "Color Inside the Lines",
-		"desc"    : "击败活力维目尔且未破坏任何射弹或颜料炸弹",
+		"desc"    : "击败明艳维目尔且未破坏任何射弹或颜料炸弹",
 	},
 	"DR_vibrant_veyeral2" : {
 		"name"    : "Radiant Eclipse",
-		"desc"    : "击败活力维目尔并达成100%连击且未使用恐慌攻击（故事模式）",
+		"desc"    : "击败明艳维目尔并达成100%连击且未使用恐慌攻击（故事模式）",
 	},
 	"DR_veyeral_quartet1" : {
 		"name"    : "Harbingers of Love",
@@ -3146,7 +3152,7 @@
 	},
 	"DR_nova1" : {
 		"name"    : "Taste The Rainbow",
-		"desc"    : "在与超新星的单场战斗中，破坏全部6个宝石克隆体，\n所有克隆体的环绕物，以及每种颜色4块石头",
+		"desc"    : "在与超新星的单场战斗中，破坏全部6个宝石克隆体，所有克隆体的环绕物，以及每种颜色4块石头",
 	},
 	"DR_nova2" : {
 		"name"    : "Never Miss A Beat",
