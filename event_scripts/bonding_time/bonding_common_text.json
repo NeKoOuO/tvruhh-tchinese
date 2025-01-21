@@ -6,7 +6,10 @@
 	
 	"times_up"	: "时间到！",
 	"victory"	: "胜利！",
+	"ouch"		: "哎呦！",
 
+	"course_walk"	: "走一格",
+	"course_jump"	: "跳两格",
 	"eye_color1"	: "|C3|红色眼睛|C0|",
 	"eye_color2"	: "|C3|紫色眼睛|C0|",
 	"eye_color3"	: "|C3|黄色眼睛|C0|",
@@ -153,6 +156,36 @@
 	"scrap_treasure5"	:	"有价值的东西？",
 	"scrap_treasure6"	:	"有价值的物品？",
 	"scrap_treasure7"	:	"不应在此处的东西？",
+	
+	"scrap_ingredient1"	:	"简单原料",
+	"scrap_ingredient2"	:	"美好原料",
+	"scrap_ingredient3"	:	"奇妙原料",
+	
+	"craft_hp"				:	"回复[VAL1]%",
+	"craft_max_hp"			:	"最大生命+[VAL1]",
+	"craft_max_en"			:	"最大能量+[VAL1]",
+	"craft_panic"			:	"+[VAL1]恐慌",
+	"craft_manic_panic"		:	"+[VAL1]狂热恐慌",
+	"craft_panic_polyp"		:	"+[VAL1]恐慌之瘤",
+	"craft_karma"			:	"+[VAL1]因果",
+	"craft_damage"			:	"总伤害+[VAL1]%",
+	"craft_crit_rate"		:	"暴击率+[VAL1]%",
+	"craft_radiant_res"		:	"光耀防御+[VAL1]",
+	"craft_void_res"		:	"虚空防御+[VAL1]",
+	"craft_burn_res"		:	"燃烧防御+[VAL1]",
+	"craft_zap_res"			:	"电击防御+[VAL1]",
+	"craft_toxic_res"		:	"毒素防御+[VAL1]",
+	"craft_glass_heart"		:	"+[VAL1]玻璃之心",
+	"craft_chrome_heart"	:	"+[VAL1]铬之心",
+	"craft_revive"			:	"+[VAL1]复活之盾",
+	"craft_denial"			:	"+[VAL1]否认之盾",
+	"craft_reserve_hp"		:	"+[VAL1]后备生命",
+	"craft_extra_mite"		:	"+[VAL1]跳虫帮手",
+	"craft_extra_magnet"	:	"+[VAL1]磁石帮手",
+	
+	"craft_burn_hp"			:	"+[VAL1]燃烧生命",
+	"craft_toxic_hp"		:	"+[VAL1]毒素生命",
+	
 	
 	"form_change_blank" 	: [
 		{

@@ -17,6 +17,24 @@
 			"dialog_rand4"		: "我做了些东西，可能可以帮得上你！",
 		},
 	],
+	"intro_late" : [
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_confused"],
+			"dialog"			: "我早些时候想要给你|C3|日之石|C0|的，但是-",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_awkward"],
+			"dialog"			: "我看到你已经有了一个，再给你一个感觉怪怪的。",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_surprised"],
+			"dialog"			: "看起来是我看错了，或是你遗失了它？",
+		},
+		{
+			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_content_blush"],
+			"dialog"			: "总之，我为你做了另一个！",
+		},
+	],
 	
 	"monster_gifts"	: "赫日欧拉的礼物",
 	

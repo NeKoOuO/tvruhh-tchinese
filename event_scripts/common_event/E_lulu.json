@@ -9,6 +9,24 @@
 			"dialog"			: "|C3|建议:|C0|接受本单元将数据编译后的|C3|恐惧感知|C0|礼物。",
 		},
 	],
+	"intro_late" : [
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "本单元先前想要给你一个额外的礼物。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "然而，本单元侦测到|C3|恐惧感知|C0|礼物已经位于你的所有物中。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "扫描显示最近的事件让你失去了这个礼物。",
+		},
+		{
+			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"			: "本单元现在会将数据编译成另一个|C3|恐惧感知|C0|礼物给你。",
+		},
+	],
 	
 	"monster_gifts"	: "单元露露的礼物",
 	

@@ -2,32 +2,32 @@
 
 	"BLS_her_love" : {
 		"name"	  : "她的爱",
-		"memory"  : "I don't know what happens to me outside of the dreams, but I've stopped worrying so much about it. Sometimes, I wake up next to a pile of gifts and no one else in sight. Other times, I wake up tangled in a loving embrace. I rarely wake up with a scratch, but those monsters always stay the longest making sure I'm okay.",
+		"memory"  : "我不知道梦境之外在我身上发生了什么，但我已经不再担心那么多了。有时，我会在一堆礼物旁边醒来，视线内空无一人。而也有时，我醒来的时候，会发现自己被缠绕在爱的拥抱中。我很少会带着伤口醒来，但那些怪物总会留的最久，以确保我没事。",
 		"card"    : "光耀之心|L|发射一颗额外的心",
 	},
 	"BLS_painted_artist" : {
 		"name"	  : "染色艺术家",
-		"memory"  : "She came for a surprise visit while I was in the middle of painting. She started laughing hysterically after seeing me covered in every color of paint. I got a little flustered and splashed some paint on her, but she just kept laughing. She grabbed a paintbrush, and splashed more paint on me. Now my heart was fluttering, and I couldn't help but start laughing myself. We were both covered in paint soon after.",
+		"memory"  : "我正在绘画的时候她突然来拜访了。她突然歇斯底里地大笑，看到了我全身都沾满了每一种颜料。我有点害羞，向她泼了一点颜料，但她只是在不断的笑。她拿起画笔，在我身上泼洒了更多颜料。而我的心也变得飘飘然了，忍不住一起笑了起来。很快我们两个都沾满了颜料。",
 		"card"    : "战斗后总伤害+[VAL1]%|L|且最大生命+[VAL2]",
 	},
 	"BLS_flawless" : {
 		"name"	  : "无瑕",
-		"memory"  : "I can't remember anything. All my memory from before a few days ago is a jumbled mess. This Veyeral, Blue, says she is my friend. She's so sweet to me. Why do I feel like I don't deserve any of this? At the same time, I get so mad at myself for even thinking that.",
+		"memory"  : "我什么都记不得了。我几天前的记忆现在只是一团乱麻。这只维目尔，小蓝，对我说她是我的朋友。她对我真好。为什么我感觉我不配拥有这一切？但与此同时，我又会因为有这样的想法而对自己生气。",
 		"card"    : "生命值会快速恢复",
 	},
 	"BLS_perfect_gift" : {
 		"name"	  : "完美礼物",
-		"memory"  : "I can tell Blue is upset about something, but she just goes on about how everything is perfectly fine.|L||L|My head hurts a little today, and it was kinda hard to wake up after some of those dream battles.",
+		"memory"  : "我能看出来小蓝在因为某样东西而沮丧，但她一直在说一切都没问题。|L||L|今天我的头有点痛，在那些梦境战斗后醒来还挺困难的。",
 		"card"    : "1个蓝色帮手|L|全连击会给你更多！",
 	},
 	"BLS_siblings" : {
 		"name"	  : "姐妹",
-		"memory"  : "Ready for more dates?|L|Then what would you call them?|L|How is that not a date?|L|And I know you were crushing on the last three at least.|L|Oh Sunshine, you are so easy to read.|L|(How can she really believe that?)",
+		"memory"  : "准备好更多约会了吗？|L|那你会怎么叫呢？|L|那怎么不算是约会呢？|L|并且我知道你对至少上三个都一见钟情。|L|哦，阳光，你太容易被看透了。|L|（她居然真的会相信吗？）",
 		"card"    : "[VAL1]个交叉双子|L|你受伤时会进行攻击",
 	},
 	"BLS_sunshine" : {
 		"name"	  : "阳光",
-		"memory"  : "They aren't dates!|L|I'm just showing them love, so they can figure it out themselves.|L|Uhm, because-|L|Uh, h-how would you know that?|L|It's not like they would like me that way anyways.|L|What's that look for?",
+		"memory"  : "那些不算约会！|L|我只是在为她们展示爱，从而让她们自己能够理解。|L|呃，是因为-|L|呃，你-你是怎么知道的？|L|反正她们也不会以那种方式喜欢我。|L|你那个表情是什么意思？",
 		"card"    : "充能速率+[VAL1]%",
 	},
 	"BLS_tenacious" : {
@@ -37,7 +37,7 @@
 	},
 	"BLS_demonic_fury" : {
 		"name"	  : "恶魔之怒",
-		"memory"  : "The first night was painful. I heard some digging noises all night, but I couldn't even move my body to investigate. I woke up next to some slimy dirt covered bandages, and three sweet fruits. It sounds gross, but that slime felt so good on my cuts. Now that I think about it, I'm pretty sure it was Rendy drool.",
+		"memory"  : "第一晚很痛苦。我整晚都能听到挖掘的声音，但我甚至动不了我的身体，无法去调查。我醒来时，身边有被黏黏土壤覆盖的绷带，还有三个甜味水果。虽然听上去很恶心，但那些黏黏的东西让我的伤口感觉好了很多。现在仔细想想，我很确定那是兰迪的口水。",
 		"card"    : "燃烧光环|L|低生命时|L|总伤害+[SPEC2]%",
 	},
 	
@@ -46,77 +46,77 @@
 	
 		"BLS_twinkle" : {
 		"name"	  : "闪烁",
-		"memory"  : "I was captivated by the stars reflected in her petals again. She caught me staring for a little too long. I thought it was hard to tell where I'm looking exactly, but she said the stars in my lenses show her where my eyes are pointed. I was so embarrassed! How could my stars betray me like that?",
+		"memory"  : "我再次被她的花瓣中所映射的群星迷住了。我仅仅是多看了一小会儿，她就抓到我了。我以为很难看出来我在盯着哪里，但她说我透镜里的星星能够告诉她我在看向哪里。我感觉好尴尬！我的星星怎么会这样背叛我？",
 		"card"    : "暴击率+[VAL1]%|L|暴击伤害+[VAL2]%",
 	},
 	"BLS_tattoo" : {
 		"name"	  : "纹身",
-		"memory"  : "Remember when we were laughing and playing together, and then I started tracing my finger along the patterns on your skin? Then you looked into my eyes for what felt like forever. Then I woke up and realized it didn't happen.|L|Ahhh! Dreams are the worst!",
+		"memory"  : "你是否还记得那时我们一起欢笑，一起玩耍，然后我的手指开始抚上你身体上的纹路？然后你看向我的眼睛，感觉好像经过了永恒一般。然后我就醒了过来，意识到一切都没有发生。|L|啊啊！梦简直太糟了！",
 		"card"    : "暴击率+[VAL1]%|L|暴击伤害+[VAL2]%|L|更大暴击",
 	},
 	"BLS_secret" : {
 		"name"	  : "秘密",
-		"memory"  : "Well, she saw it. And Amalga knows too. She probably always knew. There's no point in trying to hide it anymore. I have to say, it feels really good to have this out in the open.",
+		"memory"  : "好吧，她看到了。并且阿玛加也知道了。她可能早就知道了。没必要再隐瞒下去了。我必须要说，让这个秘密光明正大的暴露出来感觉还挺不错的。",
 		"card"    : "暴击率+[VAL1]%|L|暴击伤害+[VAL2]%|L|更大暴击",
 	},
 	"BLS_love_glyph" : {
 		"name"	  : "爱之符文",
-		"memory"  : "|C3||ai||lu||ai| (Ailuai) |C0|I love you|L||C3||ai||lu||za||ai| (Ailuzai) |C0|I love her|L||C3||hai||lu| (Hailu) |C0|Center|L||C3||lu||lu| (Lulu) |C0|Cute|L||C3||lu||lu||lu| (Lululu) |C0|Infatuation|L||C3||ai||fu||ai| (Aifuai) |C0|I wuv you|L||C3||fu||den| (Fuden) |C0|Pink-ish|L||C3||hai||fu| (Haifu) |C0|Off center",
+		"memory"  : "|C3||ai||lu||ai| (Ailuai) |C0|我爱你|L||C3||ai||lu||za||ai| (Ailuzai) |C0|我爱她|L||C3||hai||lu| (Hailu) |C0|中心|L||C3||lu||lu| (Lulu) |C0|可爱|L||C3||lu||lu||lu| (Lululu) |C0|着迷|L||C3||ai||fu||ai| (Aifuai) |C0|我艾你|L||C3||fu||den| (Fuden) |C0|粉色一样|L||C3||hai||fu| (Haifu) |C0|偏离中心",
 		"card"    : "心心射速+[VAL1]|L|最大生命+[VAL3]",
 	},
 	"BLS_love_love" : {
 		"name"	  : "爱与爱",
-		"memory"  : "With this, Lulu should be able to remember everything. Technically, she will be reminded every day, but that's essentially the same thing. Now I can only hope that they will eventually find the source of this problem together.",
+		"memory"  : "有了它，露露应该就能记得一切。理论上说，她每天都会被提醒，但本质上是一件事情。现在我只能希望她们最终能够一同找到这个问题的源头。",
 		"card"    : "心心射速+[VAL1]|L|暴击率+[VAL2]%|L|分裂之心+[VAL3]",
 	},
 	"BLS_infatuation" : {
 		"name"	  : "迷恋",
-		"memory"  : "That Zaraden is such a sweetheart. I see her going around showering us poor monsters with affection. They are usually all too scared to interact with each other at all. I guess I was really no different, but watching her work her magic is doing something to me! I think I'm going to ask her out on a date!",
+		"memory"  : "那个扎拉登真是个甜心。我看她在到处为可怜的怪物们展现爱。那些怪物通常太害怕了，无法与彼此交互。我猜我其实也一样吧。但看着她施展自己的能力对我也有了启发！我觉得我想邀请她去约会！",
 		"card"    : "心心射速+[VAL1]|L|暴击率+[VAL2]%|L|后方射击",
 	},
 	"BLS_wing_glyph" : {
 		"name"	  : "翅膀符文",
-		"memory"  : "|C3||ris||ris| (Risis) |C0|Beautiful|L||C3||ris||ris||ris| (Risisis) |C0|Divine|L||C3||ris||ral| (Risral) |C0|Perfect|L||C3||tis||ral| (Tisral) |C0|Imperfect|L||C3||vai||ris| (Vairis) |C0|Ugly|L||C3||nu||ris| (Nuris) |C0|Wingless|L||C3||ris||den| (Risden) |C0|Vibrant|L||C3||tis||den| (Tisden) |C0|Sparkling",
+		"memory"  : "|C3||ris||ris| (Risis) |C0|美丽|L||C3||ris||ris||ris| (Risisis) |C0|神圣|L||C3||ris||ral| (Risral) |C0|完美|L||C3||tis||ral| (Tisral) |C0|不完美|L||C3||vai||ris| (Vairis) |C0|丑陋|L||C3||nu||ris| (Nuris) |C0|无翼|L||C3||ris||den| (Risden) |C0|明艳|L||C3||tis||den| (Tisden) |C0|电光",
 		"card"    : "羽毛射速+[VAL1]|L|射程增加",
 	},
 	"BLS_beautiful" : {
 		"name"	  : "美丽",
-		"memory"  : "Those ugly little wings, and those ugly tiny feathers with those ugly little bulbs at the ends, and that ugly pale skin, and that ugly pink hair, and those ugly little pointy antennae sticking out.|L|Oh no.|L|Oh No!|L|OH NO!|L|The lies aren't working anymore. She's the most beautiful thing I've ever seen.",
+		"memory"  : "那对丑陋的小小翅膀，以及那些丑陋的小小羽毛，末端还有着丑陋的小小凸起，那丑陋的苍白皮肤，那丑陋的粉色头发，以及那些伸出来的丑陋的尖尖触角。|L|哦不。|L|哦不！|L|哦不！|L|这些谎言不再有效果了。她是我见过的最美丽的生物。",
 		"card"    : "羽毛射速+[VAL1]|L|1根额外羽毛|L|射程增加",
 	},
 	"BLS_divine" : {
 		"name"	  : "神圣",
-		"memory"  : "It's such an innocuous memory. All she did was stand up, hold her hands together, and stretch her arms upwards over her head. Then all six of her wings spread out to their limits. They radiated in all directions behind her. I was in awe! I have to paint this! I want to look at this forever! Then I snapped out of it when I heard that silly groan she always does when stretching. It always makes me laugh.",
-		"card"    : "羽毛射速+[VAL1]|L|[VAL2根额外羽毛|L|射程增加",
+		"memory"  : "那真是个无伤大雅的记忆。她所做的只是站起来，将她的手握在一起，然后将她的手臂伸向头顶上方。然后她的全部六篇翅膀都伸展到了最大。它们在她身后的所有方向四散生辉。我被惊艳到了！我必须把这画面绘制下来！我想要一直看着她！但然后她伸展时一直会发出的傻傻的哼声传了过来，我就清醒了。那总会让我发笑。",
+		"card"    : "羽毛射速+[VAL1]|L|[VAL2]根额外羽毛|L|射程增加",
 	},
 	"BLS_sound_glyph" : {
 		"name"	  : "声音符文",
-		"memory"  : "|C3||sin||sin| (Sinsin) |C0|Repeat|L||C3||sin||shin| (Sinshin) |C0|Echo|L||C3||sin||sin||sin| (Sinsinsin) |C0|Resonance|L||C3||sin||lin| (Sinlin) |C0|Music|L||C3||shin||lin| (Shinlin) |C0|Sing|L||C3||teh||sin| (Tehsin) |C0|Quiet|L||C3||rah||sin| (Rahsin) |C0|Loud|L||C3||sin||hai| (Sinhai) |C0|Volume|L||C3||nu||sin| (Nuusin) |C0|Silence",
+		"memory"  : "|C3||sin||sin| (Sinsin) |C0|重复|L||C3||sin||shin| (Sinshin) |C0|回声|L||C3||sin||sin||sin| (Sinsinsin) |C0|共鸣|L||C3||sin||lin| (Sinlin) |C0|音乐|L||C3||shin||lin| (Shinlin) |C0|歌唱|L||C3||teh||sin| (Tehsin) |C0|安静|L||C3||rah||sin| (Rahsin) |C0|响亮|L||C3||sin||hai| (Sinhai) |C0|音量|L||C3||nu||sin| (Nuusin) |C0|沉默",
 		"card"    : "波状星星子弹|L|最小射速+[VAL2]|L|最大射速+[VAL3]",
 	},
 	"BLS_echoes" : {
 		"name"	  : "回响",
-		"memory"  : "Two Zaraden found me today. They were asking me weird questions about my wings. I was getting really nervous. What could I do to get away from them? I was getting so scared. Suddenly that horrible scream echoed across the whole forest. It was so loud that my antennae were buzzing for a while, but at least it scared them away. I don't know what made that noise, but those Zaraden never came back.",
+		"memory"  : "今天有两位找到了我。她们在问关于我翅膀的奇怪问题。我感到非常紧张。我要怎么才能逃离她们？我感到非常害怕。突然那个恐怖的尖叫回荡在整个森林之中。那太响了，我的触角在一段时间内都在颤动，但至少这把她们吓跑了。我不知道是谁发出的那个噪音，但那些扎拉登从来都没有回来。",
 		"card"    : "波状星星子弹|L|暴击率+[VAL2]%|L|暴击伤害+[VAL3]%",
 	},
 	"BLS_resonance" : {
 		"name"	  : "共振",
-		"memory"  : "Let's see-|L|Syncron and Photoxai can run the lights. Hadesoh and maybe Calorie on pyrotechnics. Frozen Veyerals on the fog machine. Who can I teach the instruments to? Astrayo on drums? She has enough arms, but I don't think we can all keep up with a million beats per minute. Joule looks like a bass player...|L||L|Ahh! I don't know yet! My brain is already tired.",
+		"memory"  : "我们来看看-|L|同步甲虫和光影之楔可以调整灯光。炼狱之梭或者可能卡洛里也可以操纵火焰。冰霜维目尔操作造雾机。我可以把乐器教给谁呢？雷斯塔尤来负责鼓？她的手臂很多，但我觉得她跟不上每分钟一百万个拍子。焦耳看上去就像个贝斯手...|L||L|啊啊！我完全想不出来！我的脑子已经累了。",
 		"card"    : "波状星星子弹|L|最大射速+[VAL2]|L|射速量表时间-[VAL3]%",
 	},
 	"BLS_power_glyph" : {
 		"name"	  : "力量符文",
-		"memory"  : "Stick this one on any other word and make it bigger, louder, and more powerful!|L||C3||rah||nah||hai| (Ranahai) |C0|Long distance|L||C3||rah||tar| (Rahtar) |C0|Many|L||C3||rah||rah||tar| (Rarahtar) |C0|Infinite|L||C3||rah||dis| (Rahdis) |C0|Amplify|L||C3||rah||teh| (Rahteh) |C0|Tiny|L||C3||rah||rah||teh| (Rarahteh) |C0|Microscopic",
+		"memory"  : "把它放在任何词语上都能让它变得更大，更响亮，更有力！|L||C3||rah||nah||hai| (Ranahai) |C0|遥远距离|L||C3||rah||tar| (Rahtar) |C0|许多|L||C3||rah||rah||tar| (Rarahtar) |C0|无尽|L||C3||rah||dis| (Rahdis) |C0|增强|L||C3||rah||teh| (Rahteh) |C0|渺小|L||C3||rah||rah||teh| (Rarahteh) |C0|微量",
 		"card"    : "最大能量+[VAL1]|L|充能速率+[VAL2]%|L|蓄力伤害+[VAL3]%",
 	},
 	"BLS_explosive" : {
 		"name"	  : "爆炸",
-		"memory"  : "|C3||rah||rah| (Rahra) |C0|Explosion|L||C3||rah||den| (Rahden) |C0|Colorful/Significant|L||C3||za||rah||den| (Zaraden) |C0|Colorful being|L||C3||nu||rah||den| (Nuraden) |C0|Monster|L||C3||rah||ai||za| (Raiza) |C0|Plead|L||C3||ai||rah||ai||za| (Airaiza) |C0|I beg of you|L||C3||la||rah| (Larah) |C0|Long time|L||C3||la||rah||rah| (Lararah) |C0|Forever/Endless|L||C3||nu||la||za||rah| (Nulazarah) |C0|Long ago",
+		"memory"  : "|C3||rah||rah| (Rahra) |C0|爆炸|L||C3||rah||den| (Rahden) |C0|多彩/显著|L||C3||za||rah||den| (Zaraden) |C0|多彩的存在|L||C3||nu||rah||den| (Nuraden) |C0|怪物|L||C3||rah||ai||za| (Raiza) |C0|乞求|L||C3||ai||rah||ai||za| (Airaiza) |C0|我求你|L||C3||la||rah| (Larah) |C0|很久|L||C3||la||rah||rah| (Lararah) |C0|永远/无尽|L||C3||nu||la||za||rah| (Nulazarah) |C0|很久以前",
 		"card"    : "燃烧蓄力|L|蓄力伤害+[VAL2]%|L|更快蓄力",
 	},
 	"BLS_wonderful" : {
 		"name"	  : "奇妙",
-		"memory"  : "|C3||rah||rah||rah| (Rahrara) |C0|Wonderful|L||C3||tah||den| (Tahden) |C0|Noticeable|L||C3||tah||den||nah| (Tadena) |C0|Attention|L||C3||za||tah||den| (Zataden) |C0|To pay attention|L||C3||tah||lu||nah| (Taluna) |C0|Affection|L||C3||za||tah||lu| (Zatalu) |C0|To show affection|L||C3||nu||tah||den| (Nutaden) |C0|Insignificant|L||C3||tah||ai||za| (Taiza) |C0|Demand|L||C3||ai||tah||ai||za| (Aitaiza) |C0|I command you to",
+		"memory"  : "|C3||rah||rah||rah| (Rahrara) |C0|奇妙|L||C3||tah||den| (Tahden) |C0|显而易见|L||C3||tah||den||nah| (Tadena) |C0|注意|L||C3||za||tah||den| (Zataden) |C0|去注意|L||C3||tah||lu||nah| (Taluna) |C0|爱慕|L||C3||za||tah||lu| (Zatalu) |C0|去展现爱慕|L||C3||nu||tah||den| (Nutaden) |C0|微不足道|L||C3||tah||ai||za| (Taiza) |C0|要求|L||C3||ai||tah||ai||za| (Aitaiza) |C0|我要求你去",
 		"card"    : "双倍蓄力！|L|更快蓄力|L|连击时间增加",
 	},
 	
@@ -124,39 +124,39 @@
 	
 	
 	"BLS_scrambla" : {
-		"memory"  : "She did not run away. Oh, dat's so warm. We love dis embrace.|L||L|We want to help her.",
+		"memory"  : "她没有逃跑。哦，辣太暖了。我们喜欢则个拥抱.|L||L|我们想要帮助她。",
 		"card"    : "获得一个蛋花帮手|L|毒素防御+[VAL3]",
 	},
 	"BLS_shy_scrambla" : {
-		"memory"  : "She put dis one back together. In all worlds, she put Scrambla back together.",
+		"memory"  : "她把则个放回了一起。在所有的世界中，她把蛋花放回了一起。",
 		"card"    : "获得[VAL1]个蛋花帮手|L|毒素防御+[VAL3]",
 	},
 	"BLS_boiler" : {
-		"memory"  : "We know dis one burns, but she holds us anyway. We will forgive dis fire safety hazard one time.",
+		"memory"  : "我们知道则个会燃烧，但她也会握住我们。我们则次会原谅则个火灾隐患。",
 		"card"    : "获得一个锅炉帮手|L|燃烧防御+[VAL3]",
 	},
 	"BLS_rage_boiler" : {
-		"memory"  : "She is da most spicy! Even through da fire and flames, she carries on.",
+		"memory"  : "她是最辣的！即使有则火与焰，她也继续前行。",
 		"card"    : "强力暴击！|L|暴击率+[VAL4]%|L|燃烧防御+[VAL5]",
 	},
 	"BLS_knot_knott" : {
-		"memory"  : "Knot, there is no one who can take us away from you. Do you understand how loved you really are now?",
+		"memory"  : "节节，没有一个人能够将我们从你身边带走。你现在理解你有多么被爱了吗？",
 		"card"    : "发射一个额外的|L|分裂波状心心",
 	},
 	"BLS_shiny_knots" : {
-		"memory"  : "We know you would never leave us. Our mind can't help but go to the worst places. We are trying our best to stop that. We can do better.",
+		"memory"  : "我们知道你永远不会离开我们。我们的意识会不由自主前往最糟糕的地方。我们在尽力阻止。我们能做的更好。",
 		"card"    : "自动恐慌攻击|L|+1恐慌",
 	},
 	"BLS_blot" : {
-		"memory"  : "That cutie is like a perfect blank canvas. We need to slather her with color!|L||L|Wait Blot, we have to ask before doing something like that. Sigh... That's never happening. We can still dream...",
+		"memory"  : "那个小可爱就像完美的空白画布。我们需要将色彩挥洒到她的身上！|L||L|等下，墨点，我们这样做之前要请求她的同意的。唉...那种事永远不可能发生。我们至少还可以做梦...",
 		"card"    : "全防御+[VAL1]|L|回复[VAL6]%",
 	},
 	"BLS_alter_blot" : {
-		"memory"  : "She's right, these colors are just as pretty as any other. The world would be missing so much without them!",
+		"memory"  : "她说的对，这些色彩和其他的一样美丽。没有它们的话这个世界会缺失许多的美！",
 		"card"    : "每场战斗后|L|灵感最大生命+[VAL1]",
 	},
 	"BLS_null_blot" : {
-		"memory"  : "Seeing the way she expresses love has given us new motivation! We want to give that cutie such a smooch right on her lips. We really really want to, but we know that can never happen...",
+		"memory"  : "看到她表达爱的方式给了我们新的动力！我们想要给那个小可爱正对唇上的吻。Seeing the way she expresses love has given us new motivation! We want to give that cutie such a smooch right on her lips. We really really want to, but we know that can never happen...",
 		"card"    : "每场战斗后|L|灵感伤害+[VAL1]%",
 	},
 	"BLS_amalga" : {

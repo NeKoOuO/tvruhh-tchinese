@@ -502,7 +502,7 @@
 	},
 	"comment_action_crit"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-		"dialog"	: "|shake|致命一击！",
+		"dialog"	: "|shake|会心一击！",
 	},
 	"comment_action_miss"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
@@ -514,7 +514,7 @@
 	},
 	"comment_win"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-		"dialog"	: "|wave|You win da battle！",
+		"dialog"	: "|wave|你赢下了这场战斗！",
 	},
 	"comment_lose"	: {
 		"character"	: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_angry"],
@@ -547,6 +547,24 @@
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
 			"dialog"			: "敬请期待     下次     |shake||C3|几维的死亡与毁灭地下城！",
+		},
+	],
+	"you_win_and_max_mood" 	: [
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "于是英雄们在地下城了前进了超级远。",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_pain"],
+			"dialog"			: "|shake|并且你这么快就通关了我准备的一切！",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
+			"dialog"			: "所以我得赶快再编点内容出来，为了下次的-",
+		},
+		{
+			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
+			"dialog"			: "|shake||C3|几维的死亡与毁灭地下城！",
 		},
 	],
 	"you_lose" 	: [
