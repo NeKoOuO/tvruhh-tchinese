@@ -9,16 +9,16 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "现在有稀有礼物？",
+			"dialog"			: "稀有礼物？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元将解释|C3|奖励礼物。",
+			"dialog"			: "本单元将解释|C3|馈赠礼物。",
 		},
 		{
 			"show_tutorial"		: "small_bounty_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "怪物现在在少数情况下为你准备了|C3|奖励礼物|C0|。",
+			"dialog"			: "怪物现在在少数情况下为你准备了|C3|馈赠礼物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -26,16 +26,16 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "与其他礼物不同的是，|C3|奖励礼物|C0|将会在战斗开始前收下。",
+			"dialog"			: "与其他礼物不同的是，|C3|馈赠礼物|C0|将会在战斗开始前收下。",
 		},
 		{
 			"show_tutorial"		: "example_bounty_card",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|奖励礼物|C0|的效果将仅适用于该场战斗。",
+			"dialog"			: "|C3|馈赠礼物|C0|的效果将仅适用于该场战斗。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|奖励礼物|C0|总会增加你所提取的魔尘。",
+			"dialog"			: "|C3|馈赠礼物|C0|总会增加你所提取的魔尘。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
@@ -48,11 +48,11 @@
 		{
 			"show_tutorial"		: "small_red_bounty_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "同样存在着第二种类型的|C3|奖励礼物。|C0|",
+			"dialog"			: "同样存在着第二种类型的|C3|馈赠礼物。|C0|",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|负担奖励礼物|C0|同样会增加你的分数。",
+			"dialog"			: "|C3|负担馈赠礼物|C0|同样会增加你的分数。",
 		},
 		{
 			"show_tutorial"		: "example_red_bounty_card",
@@ -65,7 +65,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|在选择带有|C3|负担奖励礼物|C0|的怪物的时候需要额外注意。",
+			"dialog"			: "|C3|建议：|C0|在选择带有|C3|负担馈赠礼物|C0|的怪物的时候需要额外注意。",
 		},
 		{
 			"show_tutorial"		: "none",

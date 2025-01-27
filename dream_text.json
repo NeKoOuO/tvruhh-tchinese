@@ -13,7 +13,7 @@
 		"sub_new_bonus_gift": "新的额外礼物",
 		"sub_new_quick_gift": "新的快速礼物",
 		"sub_new_upgrade"	: "新的升级礼物",
-		"sub_new_bounty"	: "新的奖励礼物",
+		"sub_new_bounty"	: "新的馈赠礼物",
 		"sub_new_blessing"	: "新的祝福礼物",
 		"sub_new_burden"	: "新的负担礼物",
 		"sub_new_character"	: "新的角色",
@@ -92,7 +92,7 @@
 	"bonus_awaits"  	: "一个新的额外礼物等待着你",
 	"quick_awaits"  	: "一个新的快速礼物等待着你",
 	"upgrade_awaits"  	: "一个新的升级礼物等待着你",
-	"bounty_awaits"  	: "一个新的奖励礼物等待着你",
+	"bounty_awaits"  	: "一个新的馈赠礼物等待着你",
 	"blessing_awaits"  	: "一个新的祝福礼物等待着你",
 	"burden_awaits"  	: "一个新的负担礼物等待着你",
 	"event_awaits"  	: "一个新的故事事件等待着你",
@@ -112,7 +112,7 @@
 	"bonus_reward"		: "一个新的额外礼物可以被找到",
 	"quick_reward"		: "一个新的快速礼物可以被找到",
 	"upgrade_reward"	: "一个新的升级礼物可以被找到",
-	"bounty_reward"		: "一个新的奖励礼物可以被找到",
+	"bounty_reward"		: "一个新的馈赠礼物可以被找到",
 	"blessing_reward"	: "一个新的祝福礼物可以被找到",
 	"burden_reward"		: "一个新的负担礼物可以被找到",
 	"event_reward"		: "一个新的事件在故事模式中解锁",
@@ -650,7 +650,7 @@
 	},
 	"DR_alt_devil_trial5" : {
 		"name"    : "异相恶魔:跃升压力",
-		"desc"    : "作为异相恶魔，在无尽恐惧第一个轮次结束前击败任何等级9的怪物",
+		"desc"    : "作为异相恶魔，在无尽压力第一个轮次结束前击败任何等级9的怪物",
 	},
 	"DR_alt_devil_trial6" : {
 		"name"    : "异相恶魔:梦魇连击",
@@ -814,11 +814,11 @@
 	},
 	"DR_radiate_bounty_t1" : {
 		"name"    : "明亮的奖励",
-		"desc"    : "拥有10张点亮的奖励礼物卡",
+		"desc"    : "拥有10张点亮的馈赠礼物卡",
 	},
 	"DR_radiate_bounty_t2" : {
 		"name"    : "奇妙的奖励",
-		"desc"    : "拥有30张点亮的奖励礼物卡",
+		"desc"    : "拥有30张点亮的馈赠礼物卡",
 	},
 	"DR_radiate_bless_t1" : {
 		"name"    : "但我还是觉得这礼物已经为我上了祝福",
@@ -1119,7 +1119,7 @@
 		"desc"    : "在故事模式中击败倪克斯之瘤",
 	},
 	"DR_nova_win" : {
-		"name"    : "Boss Rush in my Boss Rush",
+		"name"    : "Boss连战中的Boss连战",
 		"desc"    : "在故事模式中击败超新星",
 	},
 	
@@ -1223,7 +1223,7 @@
 		"desc"    : "给莱拉喂任意礼物",
 	},
 	"DR_hematoren_give" : {
-		"name"    : "I Bleed It Out",
+		"name"    : "我的血流光了",
 		"desc"    : "在单次拜访中向血玛托壬捐献至少10点最大生命值",
 	},
 	"DR_chemory_give" : {
@@ -1235,7 +1235,7 @@
 		"desc"    : "在单次拜访中从炼狱之梭处收下4个负担",
 	},
 	"DR_monovai_take" : {
-		"name"    : "Screaming for Vengeance",
+		"name"    : "复仇尖啸",
 		"desc"    : "从寞诺唯处收下任何交易得来的礼物",
 	},
 	"DR_prisma_take" : {
@@ -1269,7 +1269,7 @@
 		"desc"    : "从任意怪物手中总共收下32个免费礼物",
 	},
 	"DR_amalga_visit" : {
-		"name"    : "Coming Undone",
+		"name"    : "未竟之时",
 		"desc"    : "从阿玛加手中收下4个免费礼物",
 	},
 	"DR_roundsaw_visit" : {
@@ -1285,7 +1285,7 @@
 		"desc"    : "从雨布罗阿手中收下1个免费礼物",
 	},
 	"DR_astrayo_visit" : {
-		"name"    : "Thunderstruck",
+		"name"    : "爱如雷击",
 		"desc"    : "从雷斯塔尤手中收下1个免费礼物",
 	},
 	"DR_null_unit_visit" : {
@@ -1331,12 +1331,12 @@
 		"desc"    : "从任意羁绊时间事件中总共接受90个礼物",
 	},
 	"DR_bonding_dot" : {
-		"name"    : "I Know The Pieces Fit",
+		"name"    : "その欠片は組み合わさる",
 		"desc"    : "在单次拜访中，在4个点点的拥抱中达到至少90%的评分",
 	},
 	"DR_bonding_kiwi" : {
 		"name"    : "大成功！",
-		"desc"    : "在几维的游戏中达成20次暴击或全回复",
+		"desc"    : "在几维的游戏中达成20次会心或全回复",
 	},
 	"DR_bonding_split" : {
 		"name"    : "Veyeral Games",
@@ -1368,7 +1368,7 @@
 		"desc"    : "作为双子之心，完成虚空的故事线",
 	},
 	"DR_devil_void_win" : {
-		"name"    : "Wrong Side of Heaven",
+		"name"    : "天堂的错误一面",
 		"desc"    : "作为恶魔，完成虚空的故事线",
 	},
 	"DR_void_wins2" : {
@@ -1397,15 +1397,15 @@
 		"desc"    : "作为她的心，完成托塔莉娅的故事线",
 	},
 	"DR_defect_totaria_win" : {
-		"name"    : "The Infection Must Die!",
+		"name"    : "感染者必须死亡！",
 		"desc"    : "作为缺陷，完成托塔莉娅的故事线",
 	},
 	"DR_twin_totaria_win" : {
-		"name"    : "Can't Pull Us Apart",
+		"name"    : "无法将我们分离",
 		"desc"    : "作为双子之心，完成托塔莉娅的故事线",
 	},
 	"DR_devil_totaria_win" : {
-		"name"    : "Righteous Side of Hell",
+		"name"    : "地狱正义的一面",
 		"desc"    : "作为恶魔，完成托塔莉娅的故事线",
 	},
 	"DR_totaria_wins2" : {
@@ -1856,55 +1856,55 @@
 	
 	
 	"DR_tower_love1" : {
-		"name"    : "Burdens and All",
+		"name"    : "负担与一切",
 		"desc"    : "在高塔中爱过任意怪物",
 	},
 	"DR_tower_level4" : {
-		"name"    : "Level 4 Pillar",
+		"name"    : "等级4支柱",
 		"desc"    : "在高塔中爱过等级至少为4的怪物",
 	},
 	"DR_tower_level8" : {
-		"name"    : "Level 8 Pylon",
+		"name"    : "等级8桥塔",
 		"desc"    : "在高塔中爱过等级至少为8的怪物",
 	},
 	"DR_tower_level12" : {
-		"name"    : "Level 12 Monolith",
+		"name"    : "等级12石柱",
 		"desc"    : "在高塔中爱过等级至少为12的怪物",
 	},
 	"DR_tower_level16" : {
-		"name"    : "Level 16 Obelisk",
+		"name"    : "等级16尖碑",
 		"desc"    : "在高塔中爱过等级至少为16的怪物",
 	},
 	"DR_tower_unlock1" : {
-		"name"    : "Shameful Spire",
+		"name"    : "羞愧尖塔",
 		"desc"    : "在发现至少8种不同的晃晃怪物后，在任意高塔中爱过跚牡拉",
 	},
 	"DR_tower_unlock2" : {
-		"name"    : "Frustration Fortress",
+		"name"    : "沮丧要塞",
 		"desc"    : "在发现至少8种不同的守护者怪物后，在任意高塔中爱过守护者之魂",
 	},
 	"DR_tower_unlock3" : {
-		"name"    : "Symbolic Skyscraper",
+		"name"    : "象征楼宇",
 		"desc"    : "在发现至少8种不同的眼睛符文怪物后，在任意高塔中爱过虚无之艾",
 	},
 	"DR_tower_unlock4" : {
-		"name"    : "Anxious Ascent",
+		"name"    : "焦虑攀升",
 		"desc"    : "在发现至少8种不同的扎拉机械怪物后，在任意高塔中爱过默认",
 	},
 	"DR_tower_unlock5" : {
-		"name"    : "Blossoming Belfry",
+		"name"    : "绽放钟楼",
 		"desc"    : "在发现至少8种不同的玻璃植物怪物后，在任意高塔中爱过回声",
 	},
 	"DR_tower_unlock6" : {
-		"name"    : "Looming Loneliness",
+		"name"    : "迫近孤独",
 		"desc"    : "在发现至少8种不同的维目尔怪物后，在任意高塔中爱过形式",
 	},
 	"DR_tower_mites" : {
-		"name"    : "Citadel of Spiders",
+		"name"    : "蜘蛛教堂",
 		"desc"    : "在高塔中同时拥有至少15只跳虫帮手",
 	},
 	"DR_tower_anomaly" : {
-		"name"    : "Dream Den",
+		"name"    : "梦之巢",
 		"desc"    : "通过保持低等级的方式，在更高的塔或暴雨高塔中爱过异常",
 	},
 	
@@ -1914,39 +1914,39 @@
 	
 	
 		"DR_vault_take_t1" : {
-		"name"    : "10 Vault Gifts!",
+		"name"    : "10个宝库礼物！",
 		"desc"    : "在高塔中从棱晶宝库中总共带走至少10个礼物",
 	},
 	"DR_tower_vault" : {
-		"name"    : "Insecure Passwords",
+		"name"    : "不安密码",
 		"desc"    : "当访问棱晶宝库时，获取至少2250的密码分数",
 	},
 	"DR_tower_alarm" : {
-		"name"    : "Smooth Operator",
+		"name"    : "油滑操作员",
 		"desc"    : "在骇入高塔警报系统时获取至少2400的分数",
 	},
 	"DR_trade_emerald" : {
-		"name"    : "Prideful Shame",
+		"name"    : "骄傲羞愧",
 		"desc"    : "在高塔中让绿宝石总共为你构建4个礼物",
 	},
 	"DR_trade_ruby" : {
-		"name"    : "Content in Frustration",
+		"name"    : "满足沮丧",
 		"desc"    : "在高塔中让红宝石总共为你构建4个礼物",
 	},
 	"DR_trade_topaz" : {
-		"name"    : "Accepting Denial",
+		"name"    : "接受否认",
 		"desc"    : "在高塔中让黄宝石总共为你构建4个礼物",
 	},
 	"DR_trade_sapphire" : {
-		"name"    : "Calming Anxiety",
+		"name"    : "冷静焦虑",
 		"desc"    : "在高塔中让蓝宝石总共为你构建4个礼物",
 	},
 	"DR_trade_citrine" : {
-		"name"    : "Confident Insecurity",
+		"name"    : "自信不安",
 		"desc"    : "在高塔中让橙宝石总共为你构建4个礼物",
 	},
 	"DR_trade_amethyst" : {
-		"name"    : "Belonging with Loneliness",
+		"name"    : "归属孤独",
 		"desc"    : "在高塔中让紫宝石总共为你构建4个礼物",
 	},
 	
@@ -1967,91 +1967,91 @@
 		"desc"    : "作为任意角色通关暴雨高塔",
 	},
 	"DR_tower_shamble" : {
-		"name"    : "Scattered Across Time and Space",
+		"name"    : "散于时空之中",
 		"desc"    : "作为任意角色通关羞愧尖塔",
 	},
 	"DR_tower_guardian" : {
-		"name"    : "Rapture My Heart",
+		"name"    : "心如刀歌",
 		"desc"    : "作为任意角色通关沮丧要塞",
 	},
 	"DR_tower_glyph" : {
-		"name"    : "Sticks and Stones",
-		"desc"    : "作为任意角色通关象征高楼",
+		"name"    : "无惧恶言",
+		"desc"    : "作为任意角色通关象征楼宇",
 	},
 	"DR_tower_zaramech" : {
-		"name"    : "Marked For Deletion",
+		"name"    : "标记删除",
 		"desc"    : "作为任意角色通关焦虑攀升",
 	},
 	"DR_tower_glass" : {
-		"name"    : "Unbreakable Starlight Bloom",
+		"name"    : "无坚不摧的星光之花",
 		"desc"    : "作为任意角色通关绽放钟楼",
 	},
 	"DR_tower_veyeral" : {
-		"name"    : "Together As None",
+		"name"    : "合为空无",
 		"desc"    : "作为任意角色通关迫近孤独",
 	},
 	"DR_tower_her_heart1" : {
-		"name"    : "Tower of Her Love",
+		"name"    : "她的爱之塔",
 		"desc"    : "作为她的心，通关任意随机怪物高塔",
 	},
 	"DR_tower_her_heart2" : {
-		"name"    : "Looking to the Sky to Save Me",
+		"name"    : "看向天空以拯救我",
 		"desc"    : "作为她的心，通关任意怪物家族高塔",
 	},
 	"DR_tower_defect1" : {
-		"name"    : "Flawless Tower Climber",
+		"name"    : "无瑕高塔攀登者",
 		"desc"    : "作为缺陷，通关任意随机怪物高塔",
 	},
 	"DR_tower_defect2" : {
-		"name"    : "Looking Cause I'm Tired of Trying",
+		"name"    : "看，因我厌倦尝试",
 		"desc"    : "作为缺陷，通关任意怪物家族高塔",
 	},
 	"DR_tower_twin1" : {
-		"name"    : "Siblings Climb Together",
+		"name"    : "一同攀登的姐妹",
 		"desc"    : "作为双子之心，通关任意随机怪物高塔",
 	},
 	"DR_tower_twin2" : {
-		"name"    : "Looking For Something To Help Me",
+		"name"    : "看，有什么能够帮助我？",
 		"desc"    : "作为双子之心，通关任意怪物家族高塔",
 	},
 	"DR_tower_devil1" : {
-		"name"    : "Tenacious Tower Climber",
+		"name"    : "顽强的高塔攀登者",
 		"desc"    : "作为恶魔，通关任意随机怪物高塔",
 	},
 	"DR_tower_devil2" : {
-		"name"    : "Looking For a Complication",
+		"name"    : "看，寻找那万千思绪",
 		"desc"    : "作为恶魔，通关任意怪物家族高塔",
 	},
 	"DR_tower_alt_heart1" : {
-		"name"    : "Painted Tower Climber",
+		"name"    : "染色高塔攀登者",
 		"desc"    : "作为异相之心，通关任意随机怪物高塔",
 	},
 	"DR_tower_alt_heart2" : {
-		"name"    : "When I Learn To Fly",
+		"name"    : "当我学会飞翔",
 		"desc"    : "作为异相之心，通关任意怪物家族高塔",
 	},
 	"DR_tower_alt_defect1" : {
-		"name"    : "Perfect Tower Climber",
+		"name"    : "完美高塔攀登者",
 		"desc"    : "作为异相缺陷，通关任意随机怪物高塔",
 	},
 	"DR_tower_alt_defect2" : {
-		"name"    : "I Can't Quite Make It Alone",
+		"name"    : "我无法独自到达那里",
 		"desc"    : "作为异相缺陷，通关任意怪物家族高塔",
 	},
 	"DR_tower_alt_twin1" : {
-		"name"    : "Sunshine at the Top",
+		"name"    : "登顶的阳光",
 		"desc"    : "作为异相双子，通关任意随机怪物高塔",
 	},
 	"DR_tower_alt_twin2" : {
-		"name"    : "Fly Along With Me",
+		"name"    : "与我一同飞翔",
 		"desc"    : "作为异相双子，通关任意怪物家族高塔",
 	},
 	"DR_tower_alt_devil1" : {
-		"name"    : "Demonic Tower Climber",
+		"name"    : "恶魔高塔攀登者",
 		"desc"    : "作为异相恶魔，通关任意随机怪物高塔",
 	},
 	"DR_tower_alt_devil2" : {
-		"name"    : "Run and Tell All of The Angels",
+		"name"    : "跑去告诉那些天使吧",
 		"desc"    : "作为异相恶魔，通关任意怪物家族高塔",
 	},
 	
@@ -2060,274 +2060,274 @@
 	
 	
 	"DR_gold_r_easy" : {
-		"name"    : "Top of Tiny Tower",
+		"name"    : "小型高塔之顶",
 		"desc"    : "作为任意角色，通关小型高塔并获得至少金色徽章",
 	},
 	"DR_gold_r_hard" : {
-		"name"    : "Top of Taller Tower",
-		"desc"    : "作为任意角色，通关更高的塔并获得至少金色徽章",
+		"name"    : "升腾高塔之顶",
+		"desc"    : "作为任意角色，通关升腾高塔并获得至少金色徽章",
 	},
 	"DR_gold_r_expert" : {
-		"name"    : "Top of Torrential Tower",
+		"name"    : "暴雨高塔之顶",
 		"desc"    : "作为任意角色，通关暴雨高塔并获得至少金色徽章",
 	},
 	"DR_gold_shamble" : {
-		"name"    : "Top of Shameful Spire",
+		"name"    : "羞愧尖塔之顶",
 		"desc"    : "作为任意角色，通关羞愧尖塔并获得至少金色徽章",
 	},
 	"DR_gold_guardian" : {
-		"name"    : "Top of Frustration Fortress",
+		"name"    : "沮丧要塞之顶",
 		"desc"    : "作为任意角色，通关沮丧要塞并获得至少金色徽章",
 	},
 	"DR_gold_glyph" : {
-		"name"    : "Top of Symbolic Skyscraper",
-		"desc"    : "作为任意角色，通关象征高楼并获得至少金色徽章",
+		"name"    : "象征楼宇之顶",
+		"desc"    : "作为任意角色，通关象征楼宇并获得至少金色徽章",
 	},
 	"DR_gold_zaramech" : {
-		"name"    : "Top of Anxious Ascent",
+		"name"    : "焦虑攀升之顶",
 		"desc"    : "作为任意角色，通关焦虑攀升并获得至少金色徽章",
 	},
 	"DR_gold_glass" : {
-		"name"    : "Top of Blossoming Belfry",
+		"name"    : "绽放钟楼之顶",
 		"desc"    : "作为任意角色，通关绽放钟楼并获得至少金色徽章",
 	},
 	"DR_gold_veyeral" : {
-		"name"    : "Top of Looming Loneliness",
+		"name"    : "迫近孤独之顶",
 		"desc"    : "作为任意角色，通关迫近孤独并获得至少金色徽章",
 	},
 	"DR_tower_silver_t1" : {
-		"name"    : "5 Silver Towers",
+		"name"    : "5银色高塔",
 		"desc"    : "在高塔中获得5个不同的至少为银色的徽章",
 	},
 	"DR_tower_silver_t2" : {
-		"name"    : "15 Silver Towers",
+		"name"    : "15银色高塔",
 		"desc"    : "在高塔中获得15个不同的至少为银色的徽章",
 	},
 	"DR_tower_silver_t3" : {
-		"name"    : "30 Silver Towers",
+		"name"    : "30银色高塔",
 		"desc"    : "在高塔中获得30个不同的至少为银色的徽章",
 	},
 	"DR_tower_radiant_t1" : {
-		"name"    : "A Radiant Tower",
+		"name"    : "一光耀高塔",
 		"desc"    : "在高塔中获得1个光耀徽章",
 	},
 	"DR_tower_radiant_t2" : {
-		"name"    : "6 Radiant Towers",
+		"name"    : "6光耀高塔",
 		"desc"    : "在高塔中获得6个不同的光耀徽章",
 	},
 	"DR_tower_radiant_t3" : {
-		"name"    : "18 Radiant Towers",
+		"name"    : "18光耀高塔",
 		"desc"    : "在高塔中获得18个不同的光耀徽章",
 	},
 	
 	
 	
 	"DR_en_love1" : {
-		"name"    : "One out of Infinity",
+		"name"    : "无穷之始",
 		"desc"    : "在无尽梦魇中爱过任意怪物",
 	},
 	"DR_en_love7" : {
-		"name"    : "A Nightmare Cycle",
+		"name"    : "梦魇循环",
 		"desc"    : "在无尽梦魇的单局游戏中爱过7只怪物",
 	},
 	"DR_en_love14" : {
-		"name"    : "Two Nightmare Cycles",
+		"name"    : "两次梦魇循环",
 		"desc"    : "在无尽梦魇的单局游戏中爱过14只怪物",
 	},
 	"DR_en_love21" : {
-		"name"    : "Three Nightmare Cycles",
+		"name"    : "三次梦魇循环",
 		"desc"    : "在无尽梦魇的单局游戏中爱过21只怪物",
 	},
 	"DR_en_love28" : {
-		"name"    : "Four Nightmare Cycles",
+		"name"    : "四次梦魇循环",
 		"desc"    : "在无尽梦魇的单局游戏中爱过28只怪物",
 	},
 	"DR_en_love35" : {
-		"name"    : "All Nightmare Long",
+		"name"    : "整夜梦魇",
 		"desc"    : "在无尽梦魇的单局游戏中爱过35只怪物",
 	},
 	"DR_en_score_30k" : {
-		"name"    : "30K Nightmare",
+		"name"    : "3万梦魇",
 		"desc"    : "在无尽梦魇的单局游戏中获得至少30000魔尘",
 	},
 	"DR_en_score_60k" : {
-		"name"    : "60K Nightmare",
+		"name"    : "6万梦",
 		"desc"    : "在无尽梦魇的单局游戏中获得至少60000魔尘",
 	},
 	"DR_en_score_90k" : {
-		"name"    : "90K Nightmare",
+		"name"    : "9万梦魇",
 		"desc"    : "在无尽梦魇的单局游戏中获得至少90000魔尘",
 	},
 	"DR_en_score_120k" : {
-		"name"    : "120K Nightmare",
+		"name"    : "12万梦魇",
 		"desc"    : "在无尽梦魇的单局游戏中获得至少120000魔尘",
 	},
 	"DR_en_score_150k" : {
-		"name"    : "150K Nightmare",
+		"name"    : "15万梦魇",
 		"desc"    : "在无尽梦魇的单局游戏中获得至少150000魔尘",
 	},
 	"DR_en_score_200k" : {
-		"name"    : "Mountain of Nightmares",
+		"name"    : "梦魇群山",
 		"desc"    : "在无尽梦魇的单局游戏中获得至少200000魔尘",
 	},
 	"DR_en_karma100" : {
-		"name"    : "A Dim Glow in the Dark",
+		"name"    : "黑暗中的微光",
 		"desc"    : "在无尽梦魇的单局游戏中获得至少100因果",
 	},
 	"DR_en_karma300" : {
-		"name"    : "A Bright Light in the Dark",
+		"name"    : "黑暗中的明亮",
 		"desc"    : "在无尽梦魇的单局游戏中获得至少300因果",
 	},
 	"DR_en_karma500" : {
-		"name"    : "A Rainbow in the Dark",
+		"name"    : "黑暗中的彩虹",
 		"desc"    : "在无尽梦魇的单局游戏中获得至少500因果",
 	},
 	"DR_en_level5" : {
-		"name"    : "Level 5 Scare",
+		"name"    : "等级5惊吓",
 		"desc"    : "在无尽梦魇中爱过等级至少为5的怪物",
 	},
 	"DR_en_level10" : {
-		"name"    : "Level 10 Fright",
+		"name"    : "等级10恐惧",
 		"desc"    : "在无尽梦魇中爱过等级至少为10的怪物",
 	},
 	"DR_en_level15" : {
-		"name"    : "Level 15 Terror",
+		"name"    : "等级15惊恐",
 		"desc"    : "在无尽梦魇中爱过等级至少为15的怪物",
 	},
 	"DR_en_level20" : {
-		"name"    : "Level 20 Abomination",
+		"name"    : "等级20憎恶",
 		"desc"    : "在无尽梦魇中爱过等级至少为20的怪物",
 	},
 	
 	
 	"DR_en_cycles" : {
-		"name"    : "Infinite Dreams",
+		"name"    : "无尽的梦",
 		"desc"    : "在无尽梦魇中总共完成20轮次",
 	},
 	"DR_en_hold_karma" : {
-		"name"    : "Karmic Hoarding",
+		"name"    : "储存因果",
 		"desc"    : "在无尽压力中同时拥有至少100因果",
 	},
 	"DR_en_total_karma1k" : {
-		"name"    : "Karmic Bounty",
+		"name"    : "因果馈赠",
 		"desc"    : "在无尽梦魇中总共获得1000因果",
 	},
 	"DR_en_total_karma10k" : {
-		"name"    : "Karmic Fortune",
+		"name"    : "因果幸运",
 		"desc"    : "在无尽梦魇中总共获得10000因果",
 	},
 	"DR_en_store5" : {
-		"name"    : "Happy Place",
+		"name"    : "开心的地方",
 		"desc"    : "在无尽梦魇的单局游戏中召唤索拉娜5次",
 	},
 	"DR_en_store10" : {
-		"name"    : "Gift Shop Regular",
+		"name"    : "礼物店常客",
 		"desc"    : "在无尽梦魇的单局游戏中召唤索拉娜10次",
 	},
 	"DR_en_total_store100" : {
-		"name"    : "Lucky 100th Shopper!",
+		"name"    : "幸运的100位顾客！",
 		"desc"    : "在无尽梦魇中总共召唤索拉娜100次",
 	},
 	"DR_en_spree" : {
-		"name"    : "Gift Shopping Spree",
+		"name"    : "礼物大采购",
 		"desc"    : "在无尽梦魇中，单次拜访内从索拉娜处购买10个礼物",
 	},
 	"DR_en_buy_gifts" : {
-		"name"    : "Love Sells, But Who's Buying?",
+		"name"    : "礼物在售，但谁在购买？",
 		"desc"    : "在无尽梦魇中总共从索拉娜处购买350个礼物",
 	},
 	"DR_en_expensive" : {
-		"name"    : "Power Creep",
+		"name"    : "战力膨胀",
 		"desc"    : "在无尽梦魇中购买1个价格至少为50因果的礼物",
 	},
 	"DR_en_anomaly" : {
-		"name"    : "Dream On",
+		"name"    : "梦启",
 		"desc"    : "通过保持低等级的方式，在无尽梦魇中爱过异常",
 	},
 	"DR_en_quick_love" : {
-		"name"    : "You've Been Lovestruck",
+		"name"    : "你被爱所击中",
 		"desc"    : "在无尽梦魇中，15秒内击败任意怪物",
 	},
 	"DR_en_flawless_streak" : {
-		"name"    : "Diabolical Dozen",
+		"name"    : "凶暴一打",
 		"desc"    : "在无尽梦魇中，未受到伤害且未使用恐慌攻击的情况下连续爱过12只怪物",
 	},
 	"DR_en_one_summon" : {
-		"name"    : "Overextended",
+		"name"    : "过度延展",
 		"desc"    : "在无尽压力中，爱过前18只怪物且中途仅召唤索拉娜1次",
 	},
 	"DR_en_terror_panic" : {
-		"name"    : "Should This Be Fight Or Flight?",
+		"name"    : "战还是逃？",
 		"desc"    : "在无尽恐惧中，同时拥有9个恐慌攻击",
 	},
 	"DR_en_terror_gifts" : {
-		"name"    : "Terrorific Twenty",
+		"name"    : "恐惧二十",
 		"desc"    : "在无尽恐惧的单局游戏内获得20个额外礼物",
 	},
 	"DR_en_terror_fc7" : {
-		"name"    : "Scary Septuplet",
+		"name"    : "恐怖七连",
 		"desc"    : "在无尽恐惧的单局游戏中，在达成100%连击的情况下击败任意7只怪物",
 	},
 	
 	
 	"DR_en_overall_bronze" : {
-		"name"    : "Overall Bronze Nightmare",
+		"name"    : "整体铜级梦魇",
 		"desc"    : "在无尽梦魇的整体最佳分类下获取1个黄铜徽章",
 	},
 	"DR_en_overall_silver" : {
-		"name"    : "Overall Silver Nightmare",
+		"name"    : "整体银级梦魇",
 		"desc"    : "在无尽梦魇的整体最佳分类下获取1个银色徽章",
 	},
 	"DR_en_overall_gold" : {
-		"name"    : "Overall Golden Nightmare",
+		"name"    : "整体黄金梦魇",
 		"desc"    : "在无尽梦魇的整体最佳分类下获取1个金色徽章",
 	},
 	"DR_en_overall_radiant" : {
-		"name"    : "Overall Radiant Nightmare",
+		"name"    : "整体光耀梦魇",
 		"desc"    : "在无尽梦魇的整体最佳分类下获取1个光耀徽章",
 	},
 	"DR_en_overall_perfect" : {
-		"name"    : "A Nightmare to Remember",
+		"name"    : "值得纪念的梦魇",
 		"desc"    : "在无尽梦魇的单局游戏中获得全部5种光耀徽章",
 	},
 	"DR_en_silver10" : {
-		"name"    : "10 Silver Nightmares",
+		"name"    : "10银色梦魇",
 		"desc"    : "在无尽梦魇中获得10个不同的至少为银色的徽章",
 	},
 	"DR_en_silver30" : {
-		"name"    : "30 Silver Nightmares",
+		"name"    : "30银色梦魇",
 		"desc"    : "在无尽梦魇中获得30个不同的至少为银色的徽章",
 	},
 	"DR_en_silver60" : {
-		"name"    : "60 Silver Nightmares",
+		"name"    : "60银色梦魇",
 		"desc"    : "在无尽梦魇中获得60个不同的至少为银色的徽章",
 	},
 	"DR_en_gold5" : {
-		"name"    : "5 Golden Nightmares",
+		"name"    : "5金色梦魇",
 		"desc"    : "在无尽梦魇中获得5个不同的至少为金色的徽章",
 	},
 	"DR_en_gold20" : {
-		"name"    : "20 Golden Nightmares",
+		"name"    : "20金色梦魇",
 		"desc"    : "在无尽梦魇中获得20个不同的至少为金色的徽章",
 	},
 	"DR_en_gold45" : {
-		"name"    : "45 Golden Nightmares",
+		"name"    : "45金色梦魇",
 		"desc"    : "在无尽梦魇中获得45个不同的至少为金色的徽章",
 	},
 	"DR_en_radiant1" : {
-		"name"    : "A Radiant Nightmare!",
+		"name"    : "一光耀梦魇！",
 		"desc"    : "在无尽梦魇中获得任何光耀徽章",
 	},
 	"DR_en_radiant5" : {
-		"name"    : "5 Radiant Nightmares!",
+		"name"    : "5光耀梦魇！",
 		"desc"    : "在无尽梦魇中获得5个不同的光耀徽章",
 	},
 	"DR_en_radiant20" : {
-		"name"    : "20 Radiant Nightmares!",
+		"name"    : "20光耀梦魇！",
 		"desc"    : "在无尽梦魇中获得20个不同的光耀徽章",
 	},
 	"DR_en_radiant45" : {
-		"name"    : "45 Radiant Nightmares!",
+		"name"    : "45光耀梦魇！",
 		"desc"    : "在无尽梦魇中获得45个不同的光耀徽章",
 	},
 	
@@ -2335,55 +2335,55 @@
 	
 	
 	"DR_scrambla1" : {
-		"name"    : "Icky Scrambles",
+		"name"    : "黏黏炒蛋",
 		"desc"    : "在所有战斗中总共破坏20个蛋花的巨口与眼球",
 	},
 	"DR_scrambla2" : {
-		"name"    : "Stay Over There!",
+		"name"    : "停在那里！",
 		"desc"    : "在从未让蛋花越过你身后的情况下击败她（故事模式）",
 	},
 	"DR_shy_scrambla1" : {
-		"name"    : "Finely Scrambled",
+		"name"    : "优雅煎蛋",
 		"desc"    : "在单场等级8的战斗中破坏至少50个羞涩蛋花的衍体",
 	},
 	"DR_shy_scrambla2" : {
-		"name"    : "Perfectly Scrambled",
+		"name"    : "完美煎蛋",
 		"desc"    : "击败羞涩蛋花且达成100%连击（故事模式）",
 	},
 	"DR_boiler1" : {
-		"name"    : "Hard Boiled",
+		"name"    : "水煮蛋",
 		"desc"    : "击败锅炉且达成100%连击，并且从未让任何她的部位越过你身后，同时破坏至少6个她的衍体",
 	},
 	"DR_boiler2" : {
-		"name"    : "Spicy Scrambles",
+		"name"    : "辣椒炒蛋",
 		"desc"    : "在所有战斗中总共破坏30个锅炉的衍体（故事模式）",
 	},
 	"DR_rage_boiler1" : {
-		"name"    : "The Most Spiciest Game",
+		"name"    : "最辣的游戏",
 		"desc"    : "在燃怒锅炉的单场战斗中，在安全泡泡外的时间总共达到15秒并且未受到伤害或使用恐慌攻击",
 	},
 	"DR_rage_boiler2" : {
-		"name"    : "My Bubble!",
+		"name"    : "我的泡泡！",
 		"desc"    : "击败燃怒锅炉且从未离开战斗开始时所在的那个安全泡泡（故事模式）",
 	},
 	"DR_knot_knott1" : {
-		"name"    : "Untying the Knot",
+		"name"    : "解结",
 		"desc"    : "在等级至少为4的战斗中，击败节结且并未破坏她的任何一个眼睛",
 	},
 	"DR_knot_knott2" : {
-		"name"    : "Knot Knott, Who's There?",
+		"name"    : "解结仍需系结人",
 		"desc"    : "在单场战斗中破坏节结的所有眼睛（故事模式）",
 	},
 	"DR_blot1" : {
-		"name"    : "Collecting Pigments",
+		"name"    : "收集色素",
 		"desc"    : "在所有战斗中总共破坏100个墨点的颜料球",
 	},
 	"DR_blot2" : {
-		"name"    : "My Masterpiece",
+		"name"    : "我的杰作",
 		"desc"    : "击败墨点并达成100%连击，且破坏至少15个她的颜料球（故事模式）",
 	},
 	"DR_alter_blot1" : {
-		"name"    : "Immune System",
+		"name"    : "免疫系统",
 		"desc"    : "在不破坏任何颜料球的情况下击败异相墨点",
 	},
 	"DR_alter_blot2" : {
@@ -2391,118 +2391,118 @@
 		"desc"    : "在所有战斗中总共破坏60个异相墨点的颜料球（故事模式）",
 	},
 	"DR_null_blot1" : {
-		"name"    : "Demotivated",
+		"name"    : "失去动力",
 		"desc"    : "击败空无墨点，且达到的连击从未超过10%",
 	},
 	"DR_null_blot2" : {
-		"name"    : "Feeling Inspired",
+		"name"    : "发现灵感",
 		"desc"    : "在单场战斗中使用恐慌攻击破坏至少12个空无墨点的颜料球（故事模式）",
 	},
 	"DR_amalga1" : {
-		"name"    : "The Right Angle",
+		"name"    : "正对直角",
 		"desc"    : "击败阿玛加并达成100%连击，且破坏她所有的外壳部件",
 	},
 	"DR_amalga2" : {
-		"name"    : "Messy Geometry",
+		"name"    : "杂乱几何学",
 		"desc"    : "击败阿玛加且未受到伤害或使用恐慌攻击（故事模式）",
 	},
 	"DR_calorie1" : {
-		"name"    : "Burning Calories",
+		"name"    : "燃烧卡路里",
 		"desc"    : "在等级至少为6的战斗中，破坏卡洛里的所有尾部部件且达成100%连击",
 	},
 	"DR_calorie2" : {
-		"name"    : "Give Me Fuel, Give Me Fire",
+		"name"    : "给我燃料，给我火焰",
 		"desc"    : "使用恐慌攻击吸收800颗卡洛里的子弹（故事模式）",
 	},
 	"DR_joule1" : {
-		"name"    : "Potential Energy",
+		"name"    : "势能",
 		"desc"    : "让焦耳的所有尾部部件出现裂纹但未破坏其中任何一个",
 	},
 	"DR_joule2" : {
-		"name"    : "Path of Least Resistance",
+		"name"    : "最低电阻路径",
 		"desc"    : "在未破坏焦耳任何一个尾部部件的情况下击败她（故事模式）",
 	},
 	"DR_shamra1" : {
-		"name"    : "Polyp Popper",
+		"name"    : "破瘤者",
 		"desc"    : "在所有战斗中总共击破100个跚牡拉的瘤状衍体",
 	},
 	"DR_shamra2" : {
-		"name"    : "Shamra's Birthday Hug",
+		"name"    : "跚牡拉的生日拥抱",
 		"desc"    : "在与跚牡拉的战斗中，使用单个恐慌攻击吸收200颗子弹（故事模式）",
 	},
 	
 	
 	
 	"DR_rendy1" : {
-		"name"    : "Rending Rendy",
+		"name"    : "蓝调兰迪",
 		"desc"    : "在所有战斗中总共破坏16个兰迪的腿部护甲",
 	},
 	"DR_rendy2" : {
-		"name"    : "Nuclear Scrambled Eggs",
+		"name"    : "核子炒蛋",
 		"desc"    : "在单场战斗中，通过在爆炸前将其破坏的方式解除3个兰迪的炸蛋（故事模式）",
 	},
 	"DR_snowball1" : {
-		"name"    : "Don't Let It Go",
+		"name"    : "不要放手",
 		"desc"    : "在从未让任何弹性蛋离开屏幕且破坏至少6个的情况下击败雪球",
 	},
 	"DR_snowball2" : {
-		"name"    : "Egg Snipe",
+		"name"    : "狙击蛋",
 		"desc"    : "不使用恐慌攻击，在雪球发射的炸蛋爆炸之前在空中破坏1个（故事模式）",
 	},
 	"DR_roundsaw1" : {
-		"name"    : "Eye Love You",
+		"name"    : "我的眼睛说她爱你",
 		"desc"    : "在等级至少为5的战斗中，击败圆锯且未破坏她的任何部位",
 	},
 	"DR_roundsaw2" : {
-		"name"    : "Naked Roundsaw",
+		"name"    : "裸体圆锯",
 		"desc"    : "在单场战斗中破坏圆锯的所有部件（故事模式）",
 	},
 	"DR_alter_roundsaw1" : {
-		"name"    : "Manic Wyvern",
+		"name"    : "狂热飞龙",
 		"desc"    : "击败等级超越的异相圆锯且未受到伤害或使用恐慌攻击",
 	},
 	"DR_alter_roundsaw2" : {
-		"name"    : "Power Tool Lover",
+		"name"    : "力量工具爱者",
 		"desc"    : "总共破坏异相圆锯的圆锯部件3次（故事模式）",
 	},
 	"DR_null_roundsaw1" : {
-		"name"    : "Let Me Hug You!",
+		"name"    : "让我拥抱你！",
 		"desc"    : "在等级至少为9的战斗破坏所有空无圆锯的部件",
 	},
 	"DR_null_roundsaw2" : {
-		"name"    : "Dragon Tails",
+		"name"    : "胖龙蓝尾",
 		"desc"    : "在未破坏圆锯部件的情况下击败空无圆锯（故事模式）",
 	},
 	"DR_lila1" : {
-		"name"    : "Unspookable",
+		"name"    : "惊吓免疫",
 		"desc"    : "在等级至少为6的战斗中，击败莱拉且未受到伤害或使用恐慌攻击",
 	},
 	"DR_lila2" : {
-		"name"    : "Eye Adjust To My New Sights",
+		"name"    : "我的眼睛适应了我的新瞄具",
 		"desc"    : "击败莱拉，且整场战斗均保持在专注模式（故事模式）",
 	},
 	"DR_shy_lila1" : {
-		"name"    : "Eyes Where There Shouldn't Be",
+		"name"    : "眼睛不该在的地方",
 		"desc"    : "在等级至少为6的战斗中，击败羞涩莱拉且未击败任何紫色眼魔",
 	},
 	"DR_shy_lila2" : {
-		"name"    : "A Cauldron of Eyeballs",
+		"name"    : "一大锅眼球",
 		"desc"    : "在与羞涩莱拉的战斗中总共击败300只眼魔（故事模式）",
 	},
 	"DR_sandrome1" : {
-		"name"    : "Enter Sandrome",
+		"name"    : "进入沙之症候群",
 		"desc"    : "击败沙之症候群并达成100%连击，且至少破坏12节她的部件",
 	},
 	"DR_sandrome2" : {
-		"name"    : "Cactus Hunter",
+		"name"    : "仙人掌猎手",
 		"desc"    : "在所有战斗中总共破坏沙之症候群的100节部件（故事模式）",
 	},
 	"DR_voladrome1" : {
-		"name"    : "Iron Maiden",
+		"name"    : "铁处女",
 		"desc"    : "在等级至少为10的战斗中，存活至少3分钟且不破坏任何熔岩症候群的护甲",
 	},
 	"DR_voladrome2" : {
-		"name"    : "Extra Spicy Noodle",
+		"name"    : "加辣面条",
 		"desc"    : "在单场战斗中，破坏至少10节熔岩症候群的护甲（故事模式）",
 	},
 	"DR_shanx1" : {
@@ -2510,712 +2510,712 @@
 		"desc"    : "在等级至少为8的战斗中，击败闪克斯且仅破坏她其中1个叶臂并破坏她的花冠",
 	},
 	"DR_shanx2" : {
-		"name"    : "Falling From Her Grace Again",
+		"name"    : "再次跌落下她的荣光",
 		"desc"    : "破坏20个闪克斯掉落的爆炸种子（故事模式）",
 	},
 	"DR_alter_shanx1" : {
-		"name"    : "Shanx N' Roses",
+		"name"    : "闪击它们的鼻子",
 		"desc"    : "击败异相闪克斯并达成100%连击，且破坏她的所有部件",
 	},
 	"DR_alter_shanx2" : {
-		"name"    : "Scream Aim Fire!",
+		"name"    : "尖叫，瞄准，发射！",
 		"desc"    : "使用恐慌攻击破坏异相闪克斯的一个叶臂（故事模式）",
 	},
 	"DR_guardian_soul1" : {
-		"name"    : "True Guardian Soul EX",
+		"name"    : "真·守护者之魂EX",
 		"desc"    : "在等级至少为13的战斗中击败等级超越的守护者之魂",
 	},
 	"DR_guardian_soul2" : {
-		"name"    : "New Guardian's Birthday Hug",
+		"name"    : "新守护者的生日拥抱",
 		"desc"    : "总共破坏守护者之魂的48个部件（故事模式）",
 	},
 	
 	
 	
 	"DR_photoxai1" : {
-		"name"    : "In a Flash",
+		"name"    : "一闪而过",
 		"desc"    : "在等级至少为5的战斗中，在30秒内击败光影之楔",
 	},
 	"DR_photoxai2" : {
-		"name"    : "Photo Finish",
+		"name"    : "终点摄影",
 		"desc"    : "在单场战斗中，破坏光影之楔的色彩环上的每一个部件（故事模式）",
 	},
 	"DR_dendrohai1" : {
-		"name"    : "Deforestation",
+		"name"    : "去林地化",
 		"desc"    : "在所有战斗中总共破坏树途之亥的100根针",
 	},
 	"DR_dendrohai2" : {
-		"name"    : "Trees Can Be Scary...",
+		"name"    : "树也可以很可怕...",
 		"desc"    : "在与树途之亥的战斗中，使用单个恐慌攻击吸收150颗子弹（故事模式）",
 	},
 	"DR_hematoren1" : {
-		"name"    : "Sprinkler System",
+		"name"    : "洒水器系统",
 		"desc"    : "在与血玛托壬的等级至少为6的战斗中，在不受到伤害的情况下，仅破坏她下方的血液球然后击败她",
 	},
 	"DR_hematoren2" : {
-		"name"    : "Bleeding Me",
+		"name"    : "流血的我",
 		"desc"    : "破坏血玛托壬环上的所有部件，但不破坏两个血液球（故事模式）",
 	},
 	"DR_ombroah1" : {
-		"name"    : "Black Rain",
+		"name"    : "黑色雨",
 		"desc"    : "雨布罗阿总共1000颗虚空子弹之雨落向了你",
 	},
 	"DR_ombroah2" : {
-		"name"    : "Clear Skies",
+		"name"    : "澄空",
 		"desc"    : "在单场战斗中破坏雨布罗阿环上的所有部件（故事模式）",
 	},
 	"DR_lavalin1" : {
-		"name"    : "This is The Art of Ruin",
+		"name"    : "这是废墟艺术",
 		"desc"    : "击败熔岩之林并达成100%连击，且不破坏她的任何一个符文球",
 	},
 	"DR_lavalin2" : {
-		"name"    : "End Of The World",
+		"name"    : "世界的终结",
 		"desc"    : "在单场战斗中破坏熔岩之林环上的所有部件以及她所有的符文球（故事模式）",
 	},
 	"DR_heliola1" : {
-		"name"    : "Grossly Incandescent",
+		"name"    : "巨大又充满热力",
 		"desc"    : "在等级至少为7的战斗中，在赫日欧拉转变形态时让她吸收3个符文球后击败她",
 	},
 	"DR_heliola2" : {
-		"name"    : "All That Glitters Is Gold",
-		"desc"    : "在所有战斗中总共破坏赫日欧拉的150根针（故事模式）",
+		"name"    : "一切闪耀如金",
+		"desc"    : "在所有战斗中总共破坏赫日欧拉的150根针型部件（故事模式）",
 	},
 	"DR_chemory1" : {
-		"name"    : "Chemical Warfare",
+		"name"    : "化学战",
 		"desc"    : "在所有战斗中总共破坏30个化莫里的符文球",
 	},
 	"DR_chemory2" : {
-		"name"    : "Poison Was the Cure",
+		"name"    : "毒药即是解药",
 		"desc"    : "击败化莫里且不破坏她的任何一个符文球（故事模式）",
 	},
 	"DR_hadesoh1" : {
-		"name"    : "Walk With Me In Hell",
+		"name"    : "与我一同行走在地狱",
 		"desc"    : "击败炼狱之梭并达成100%连击，且破坏她全部4个符文球",
 	},
 	"DR_hadesoh2" : {
-		"name"    : "Phoenix Down",
+		"name"    : "凤凰羽毛",
 		"desc"    : "在单场战斗中破坏炼狱之梭的翅膀上的每一个部件（故事模式）",
 	},
 	"DR_chionotoh1" : {
-		"name"    : "My Tears Don't Fall, They Freeze Around Me",
+		"name"    : "我的泪水无法落下，它们在我身边凝结",
 		"desc"    : "在与雪奥诺托的战斗中，使用单个恐慌攻击吸收300颗子弹",
 	},
 	"DR_chionotoh2" : {
-		"name"    : "You're as Cold as Ice",
+		"name"    : "你如寒冰般冷冽",
 		"desc"    : "在不破坏任何符文球的情况下让雪奥诺托转变形态（故事模式）",
 	},
 	"DR_astrayo1" : {
-		"name"    : "Hit The Lights",
+		"name"    : "点亮强光",
 		"desc"    : "在单场战斗中，破坏雷斯塔尤翅膀上的每一个部件",
 	},
 	"DR_astrayo2" : {
-		"name"    : "Ride The Lightning",
+		"name"    : "驾驭雷霆",
 		"desc"    : "击败雷斯塔尤并达成100%连击，且不使用恐慌攻击（故事模式）",
 	},
 	"DR_monovai1" : {
-		"name"    : "The Most Loneliest Day",
+		"name"    : "最孤独的一天",
 		"desc"    : "在等级至少为12的战斗中击败寞诺唯且未使用恐慌攻击",
 	},
 	"DR_monovai2" : {
-		"name"    : "Raining Blood",
+		"name"    : "血雨",
 		"desc"    : "寞诺唯总共5000颗血液子弹之雨落向了你（故事模式）",
 	},
 	"DR_oudenai1" : {
-		"name"    : "Focus On The Target",
+		"name"    : "专注目标",
 		"desc"    : "击败虚无之艾并达成100%连击，同时整场战斗均保持在专注模式",
 	},
 	"DR_oudenai2" : {
-		"name"    : "Oudenai's Birthday Hug",
+		"name"    : "虚无之艾的生日拥抱",
 		"desc"    : "当虚无之艾在场地内传送时，用你的心将她推开（故事模式）",
 	},
 	
 	
 	
 	"DR_unit_lulu1" : {
-		"name"    : "Absolute Unit",
+		"name"    : "绝对单元",
 		"desc"    : "在等级为3的战斗中，击败单元露露并达成100%连击，且破坏她所有的机械爪",
 	},
 	"DR_unit_lulu2" : {
-		"name"    : "Lulu's Lightning Love",
+		"name"    : "露露的闪电之爱",
 		"desc"    : "在30秒之内击败单元露露（故事模式）",
 	},
 	"DR_null_unit1" : {
-		"name"    : "Dangling Pointer",
+		"name"    : "悬空指针",
 		"desc"    : "击败空无单元，并恰好留下她的1个手臂未破坏",
 	},
 	"DR_null_unit2" : {
-		"name"    : "Segmentation Fault",
+		"name"    : "段错误",
 		"desc"    : "击败空无单元，且从未达成超过20%的连击（故事模式）",
 	},
 	"DR_prisma1" : {
-		"name"    : "A Cute Angle",
+		"name"    : "可爱的角度",
 		"desc"    : "在不破坏任何外壳部件的情况下击败棱镜",
 	},
 	"DR_prisma2" : {
-		"name"    : "Simple Geometry",
+		"name"    : "简单几何学",
 		"desc"    : "在与棱镜的战斗中，连续15秒内不移动，中途未受到伤害且未使用恐慌攻击（故事模式）",
 	},
 	"DR_rage_prisma1" : {
-		"name"    : "Safety Circumference",
+		"name"    : "安全边界",
 		"desc"    : "在与燃怒棱镜的等级至少为7的战斗中，不要恐慌且存活至少3分钟",
 	},
 	"DR_rage_prisma2" : {
-		"name"    : "Angry Angle",
+		"name"    : "愤怒角度",
 		"desc"    : "在所有战斗中总共破坏12块燃怒棱镜的外壳部件（故事模式）",
 	},
 	"DR_dual_prisma1" : {
-		"name"    : "Dual Destruction",
+		"name"    : "双生毁灭",
 		"desc"    : "击败双生棱镜并达成100%连击，且破坏全部8块外壳部件",
 	},
 	"DR_dual_prisma2" : {
-		"name"    : "Bisected Angle",
+		"name"    : "二分角度",
 		"desc"    : "在与双生棱镜的战斗中，破坏其中一只的全部4块外壳部件同时另一只保持完整（故事模式）",
 	},
 	"DR_syncron1" : {
-		"name"    : "Chaotic Indecision",
+		"name"    : "混沌犹豫",
 		"desc"    : "在等级至少为6的战斗中，击败同步甲虫且未受到伤害",
 	},
 	"DR_syncron2" : {
-		"name"    : "Deactivation Sequence",
+		"name"    : "休眠序列",
 		"desc"    : "在等级至少为4的战斗中，破坏同步甲虫恐慌模式下的全部4个光束（故事模式）",
 	},
 	"DR_alter_syncron1" : {
-		"name"    : "Panic Mode Averted",
+		"name"    : "恐慌模式已规避",
 		"desc"    : "在等级至少为9的战斗中，击败异相甲虫并未受到伤害且未使用恐慌攻击",
 	},
 	"DR_alter_syncron2" : {
-		"name"    : "One Step Closer",
+		"name"    : "更近一步",
 		"desc"    : "击败同步甲虫，且在其恐慌模式下仅破坏其中一个光束（故事模式）",
 	},
 	"DR_flip_flap1" : {
-		"name"    : "Pure Component",
+		"name"    : "纯粹组件",
 		"desc"    : "在等级至少为7的战斗中，击败噼里啪啦且不破坏超过4节线缆",
 	},
 	"DR_flip_flap2" : {
-		"name"    : "Pure Breaker",
+		"name"    : "纯粹破坏者",
 		"desc"    : "在单场战斗中破坏噼里啪啦全部的线缆部件（故事模式）",
 	},
 	"DR_sentinel_4x1" : {
-		"name"    : "You Should Not Be Here",
+		"name"    : "你不该在这里",
 		"desc"    : "通过尝试躲藏的方式让哨卫4X跳起来",
 	},
 	"DR_sentinel_4x2" : {
-		"name"    : "Quadraxis Annihilated",
+		"name"    : "四轴毁灭",
 		"desc"    : "在单场战斗中破坏哨卫4X的全部4条腿部（故事模式）",
 	},
 	"DR_sentinel_0x1" : {
-		"name"    : "The Sum of all Zeroes",
+		"name"    : "所有零的总和",
 		"desc"    : "击败等级超越的哨卫0X",
 	},
 	"DR_sentinel_0x2" : {
-		"name"    : "Don't Make Me Come Back There!",
+		"name"    : "别让我回到那里！",
 		"desc"    : "在单场战斗中让哨卫0X向后跳4次（故事模式）",
 	},
 	"DR_ventra1" : {
-		"name"    : "OK, 3, 2, 1, Blast Off!",
+		"name"    : "OK，3，2，1，发射！",
 		"desc"    : "在等级至少为7的战斗中，击败雯特拉并达成100%连击，且破坏她全部4个齿轮状车轮部件",
 	},
 	"DR_ventra2" : {
-		"name"    : "I'll Be The Roundabout",
+		"name"    : "我来做你的环形路口",
 		"desc"    : "击败雯特拉且并未破坏任何发光核心（故事模式）",
 	},
 	"DR_default1" : {
-		"name"    : "I'm Made of Metal, My Circuits Gleam",
+		"name"    : "我由金属制作，我的电路闪耀",
 		"desc"    : "击败默认中拥有眼球的全息影像7次",
 	},
 	"DR_default2" : {
-		"name"    : "Default Birthday Hug",
+		"name"    : "默认的生日拥抱",
 		"desc"    : "使用恐慌攻击击败默认（故事模式）",
 	},
 
 
 	
 	"DR_dot1" : {
-		"name"    : "Schism of Petals",
+		"name"    : "花瓣分立",
 		"desc"    : "击败点点且未破坏超过3片花瓣，未破坏任何藤蔓或花蕾",
 	},
 	"DR_dot2" : {
-		"name"    : "Parabola of Vines",
+		"name"    : "藤蔓抛物线",
 		"desc"    : "破坏点点的两根藤蔓，且未破坏任何花蕾与花瓣（故事模式）",
 	},
 	"DR_glacia1" : {
-		"name"    : "Fragile Flower",
+		"name"    : "脆弱花朵",
 		"desc"    : "在等级至少为6的战斗中，击败星川且未破坏超过4片花瓣",
 	},
 	"DR_glacia2" : {
-		"name"    : "Glass Harvest",
+		"name"    : "玻璃收获",
 		"desc"    : "在全部战斗中总共破坏48片星川的花瓣（故事模式）",
 	},
 	"DR_alter_glacia1" : {
-		"name"    : "Become So Numb",
+		"name"    : "变得如此麻木",
 		"desc"    : "击败异相星川并达成100%连击，且在整场战斗中均保持专注模式",
 	},
 	"DR_alter_glacia2" : {
-		"name"    : "Frozen Mote Harvest",
+		"name"    : "冰封魔尘收获",
 		"desc"    : "从异相星川处总共提取20000魔尘（故事模式）",
 	},
 	"DR_null_glacia1" : {
-		"name"    : "Null Harvest",
+		"name"    : "空无收获",
 		"desc"    : "在所有战斗中总共破坏48片空无星川的花瓣",
 	},
 	"DR_null_glacia2" : {
-		"name"    : "She Loves Me Not",
+		"name"    : "她勿爱我",
 		"desc"    : "击败空无星川，且刚好留下1片花瓣未破坏（故事模式）",
 	},
 	"DR_vitrea1" : {
-		"name"    : "Lightning Reflex",
+		"name"    : "闪电反应",
 		"desc"    : "在等级至少为5的战斗中，击败琉璃并达成100%连击",
 	},
 	"DR_vitrea2" : {
-		"name"    : "Kracked Flower",
+		"name"    : "邃裂花朵",
 		"desc"    : "在单场战斗中，破坏琉璃全部可破坏的花瓣（故事模式）",
 	},
 	"DR_alter_vitrea1" : {
-		"name"    : "Mowing The Glass",
+		"name"    : "割玻璃",
 		"desc"    : "在异相琉璃的恐惧降到50%前破坏她的4根荆棘",
 	},
 	"DR_alter_vitrea2" : {
-		"name"    : "In Bloom",
+		"name"    : "绽放",
 		"desc"    : "击败异相琉璃并未受到伤害且未使用恐慌攻击（故事模式）",
 	},
 	"DR_rage_duet1" : {
-		"name"    : "Rage Harvest",
+		"name"    : "燃怒收获",
 		"desc"    : "在与燃怒二重奏的单场战斗中，破坏二者身上所有可破坏的花瓣",
 	},
 	"DR_rage_duet2" : {
-		"name"    : "Inside the Fire",
+		"name"    : "火焰之中",
 		"desc"    : "在与燃怒二重奏的战斗中，使用单个恐慌攻击吸收111颗子弹（故事模式）",
 	},
 	"DR_pearl1" : {
-		"name"    : "Uneven Flow",
+		"name"    : "奇异流动",
 		"desc"    : "在任何奇数等级的战斗中击败珍珠并达成100%连击",
 	},
 	"DR_pearl2" : {
-		"name"    : "Strong in the Real Way",
+		"name"    : "真正的强大",
 		"desc"    : "在单场战斗中受到伤害4次后击败珍珠（故事模式）",
 	},
 	"DR_momo1" : {
-		"name"    : "Glamomorous",
+		"name"    : "魅力",
 		"desc"    : "在等级至少为5的战斗中，击败茉茉且未破坏她的任何橙色花瓣",
 	},
 	"DR_momo2" : {
-		"name"    : "Dance of Death",
+		"name"    : "死亡之舞",
 		"desc"    : "在所有战斗中总共破坏25个茉茉的谋杀之花（故事模式）",
 	},
 	"DR_shy_momo1" : {
-		"name"    : "Petals in the Golden Wind",
+		"name"    : "黄金之风中的花瓣",
 		"desc"    : "在单场等级至少为7的战斗中，至少破坏100片羞涩茉茉的金色花瓣",
 	},
 	"DR_shy_momo2" : {
-		"name"    : "Stage Fright",
+		"name"    : "舞台恐惧",
 		"desc"    : "在单场战斗中，破坏羞涩茉茉的全部绿色花瓣（故事模式）",
 	},
 	"DR_kiwi1" : {
-		"name"    : "Kiwi Harvest",
+		"name"    : "几维收获",
 		"desc"    : "在所有战斗中总共破坏120片几维的花瓣",
 	},
 	"DR_kiwi2" : {
-		"name"    : "Favorite Flower",
+		"name"    : "最爱的花",
 		"desc"    : "击败几维，且仅破坏其中一朵花上的花瓣（故事模式）",
 	},
 	"DR_echo1" : {
-		"name"    : "Echo Harvest",
+		"name"    : "回声收获",
 		"desc"    : "在所有战斗中总共破坏111片回声的花瓣",
 	},
 	"DR_echo2" : {
-		"name"    : "Echo's Birthday Hug",
+		"name"    : "回声的生日拥抱",
 		"desc"    : "在破坏任何花瓣之前在回声的花瓣之间保持至少3秒（故事模式）",
 	},
 	
 	
 	
 	"DR_split_veyeral1" : {
-		"name"    : "Division By Zero",
+		"name"    : "除以零",
 		"desc"    : "在等级为4的战斗中，让16个小型分裂维目尔同时存在",
 	},
 	"DR_split_veyeral2" : {
-		"name"    : "Half Empty",
+		"name"    : "半空",
 		"desc"    : "在场上仅剩下两个最大的分裂维目尔同时存在（故事模式）",
 	},
 	"DR_burning_veyeral1" : {
-		"name"    : "Burn It Down!",
+		"name"    : "将它烧毁！",
 		"desc"    : "在30秒之内击败燃烧维目尔",
 	},
 	"DR_burning_veyeral2" : {
-		"name"    : "Full Burn!",
+		"name"    : "完整燃烧！",
 		"desc"    : "击败燃烧维目尔并达成100%连击（故事模式）",
 	},
 	"DR_voltage_veyeral1" : {
-		"name"    : "Cannot Stop The Battery!",
+		"name"    : "横冲直撞的电池！",
 		"desc"    : "在等级为6的战斗中，击败高压维目尔并达成100%连击",
 	},
 	"DR_voltage_veyeral2" : {
-		"name"    : "High Voltage",
+		"name"    : "高电压",
 		"desc"    : "在所有战斗中总共破坏100个高压维目尔的球体（故事模式）",
 	},
 	"DR_venom_veyeral1" : {
-		"name"    : "Aerial Toxicity",
+		"name"    : "空中剧毒",
 		"desc"    : "击败剧毒维目尔，并未让任何1个毒素石离开屏幕且破坏至少9个",
 	},
 	"DR_venom_veyeral2" : {
-		"name"    : "Deep Breath",
+		"name"    : "深呼吸",
 		"desc"    : "击败剧毒维目尔，且整场战斗均保持在专注模式（故事模式）",
 	},
 	"DR_frozen_veyeral1" : {
-		"name"    : "Trapped Under Ice",
+		"name"    : "冰封陷阱",
 		"desc"    : "击败冰封维目尔，且一次都没有击中主要的维目尔",
 	},
 	"DR_frozen_veyeral2" : {
-		"name"    : "100 Sub Zero",
+		"name"    : "100加零",
 		"desc"    : "在所有战斗中总共破坏100个冰封维目尔的球体（故事模式）",
 	},
 	"DR_vibrant_veyeral1" : {
-		"name"    : "Color Inside the Lines",
+		"name"    : "条框内的色彩",
 		"desc"    : "击败明艳维目尔且未破坏任何射弹或颜料炸弹",
 	},
 	"DR_vibrant_veyeral2" : {
-		"name"    : "Radiant Eclipse",
+		"name"    : "光耀日蚀",
 		"desc"    : "击败明艳维目尔并达成100%连击且未使用恐慌攻击（故事模式）",
 	},
 	"DR_veyeral_quartet1" : {
-		"name"    : "Harbingers of Love",
+		"name"    : "爱之预兆者",
 		"desc"    : "在等级至少为10的战斗中，在维目尔四重奏的最终阶段存活1分钟",
 	},
 	"DR_veyeral_quartet2" : {
-		"name"    : "Light, Warmth, Spark, Chemistry",
+		"name"    : "光明，温暖，电弧，化学",
 		"desc"    : "在与维目尔四重奏的战斗中，同时击中4个维目尔（故事模式）",
 	},
 	"DR_veyeral_rain1" : {
-		"name"    : "Love You in Particular",
+		"name"    : "特别爱你",
 		"desc"    : "在等级至少为4的战斗中击败维目尔之雨，且仅破坏发射血子弹的维目尔",
 	},
 	"DR_veyeral_rain2" : {
-		"name"    : "Alone in the Rain",
+		"name"    : "雨中独行",
 		"desc"    : "在与维目尔之雨的战斗中总共爱过100只维目尔（故事模式）",
 	},
 	"DR_storm_veyeral1" : {
-		"name"    : "Fury of the Storm",
+		"name"    : "风暴之怒",
 		"desc"    : "击败等级超越的风暴维目尔且未使用恐慌攻击",
 	},
 	"DR_storm_veyeral2" : {
-		"name"    : "Eye of the Storm",
+		"name"    : "风暴之眼",
 		"desc"    : "在不破坏任何光束维目尔的情况下使风暴维目尔分裂（故事模式）",
 	},
 	"DR_molten_veyeral1" : {
-		"name"    : "Lovely Solvent",
+		"name"    : "美妙溶剂",
 		"desc"    : "击败熔融维目尔并达成100%连击，且破坏她分裂的所有维目尔",
 	},
 	"DR_molten_veyeral2" : {
-		"name"    : "When Life Gives You Oranges",
+		"name"    : "当人生给你橘子",
 		"desc"    : "总共破坏50个熔融维目尔的炮塔球体（故事模式）",
 	},
 	"DR_blizz_veyeral1" : {
-		"name"    : "While My Veyeral Gently Weeps",
+		"name"    : "当我的维目尔轻声哭泣",
 		"desc"    : "在等级至少为10的战斗中，不恐慌且在暴雪维目尔的第一阶段存活至少3分钟",
 	},
 	"DR_blizz_veyeral2" : {
-		"name"    : "Bloody Blizzard",
+		"name"    : "暴风血雪",
 		"desc"    : "总共破坏50个暴雪维目尔的血液瞳孔（故事模式",
 	},
 	"DR_forma1" : {
-		"name"    : "Black Hole Sun",
+		"name"    : "黑洞之日",
 		"desc"    : "在等级至少为10的战斗中，击败形式且未破坏任何虚空团",
 	},
 	"DR_forma2" : {
-		"name"    : "Forma's Birthday Hug",
+		"name"    : "形式的生日拥抱",
 		"desc"    : "在与形式的单场战斗中，使用恐慌攻击破坏至少7个虚空团（故事模式）",
 	},
 	"DR_the_void1" : {
-		"name"    : "No Time At All",
+		"name"    : "没有时间了",
 		"desc"    : "在40秒之内击败虚空",
 	},
 	"DR_the_void2" : {
-		"name"    : "Through the Null and the Void",
+		"name"    : "于空无与虚空之间",
 		"desc"    : "击败虚空并达成100%连击，且未使用恐慌攻击（故事模式）",
 	},
 	"DR_totaria1" : {
-		"name"    : "Far Below Nothing",
+		"name"    : "远低于无",
 		"desc"    : "在等级为13的战斗中击败托塔莉娅",
 	},
 	"DR_totaria2" : {
-		"name"    : "Like It Was Nothing",
+		"name"    : "视若无睹",
 		"desc"    : "击败托塔莉娅并达成100%连击，且未使用恐慌攻击（故事模式）",
 	},
 	"DR_blue_veyeral1" : {
-		"name"    : "Blue's Perfect Party",
+		"name"    : "小蓝的完美排队",
 		"desc"    : "在等级至少为8的战斗中，帮手链内至少有8个帮手的情况下到达蓝色维目尔的第四阶段",
 	},
 	"DR_blue_veyeral2" : {
-		"name"    : "Perfected Perfection",
+		"name"    : "完美的完美",
 		"desc"    : "击败蓝色维目尔并达成100%连击，且未使用恐慌攻击（故事模式）",
 	},
 	
 	
 	
 	"DR_anomaly1" : {
-		"name"    : "Are You Even Trying?",
-		"desc"    : "不移动且击败异常Defeat Anomaly without even moving",
+		"name"    : "你有在尝试吗？",
+		"desc"    : "不移动且击败异常",
 	},
 	"DR_anomaly2" : {
-		"name"    : "Karmic Deficiency Disorder",
+		"name"    : "因果缺乏症",
 		"desc"    : "在故事模式中击败异常3次",
 	},
 	"DR_stella1" : {
-		"name"    : "Here Comes the Sun",
+		"name"    : "太阳降临",
 		"desc"    : "在与耀星的战斗中，不要恐慌且至少存活3分钟",
 	},
 	"DR_stella2" : {
-		"name"    : "Bright and Stellar",
+		"name"    : "明亮闪耀",
 		"desc"    : "在所有战斗中总共破坏24根耀星的日之齿（故事模式）",
 	},
 	"DR_celestia1" : {
-		"name"    : "Full Moon",
+		"name"    : "满月",
 		"desc"    : "击败邃星并达成100%连击，且未使用恐慌攻击",
 	},
 	"DR_celestia2" : {
-		"name"    : "Celestial Shine",
+		"name"    : "星界之光",
 		"desc"    : "在所有战斗中总共破坏24个邃星的月之宝石（故事模式）",
 	},
 	"DR_unity1" : {
-		"name"    : "All For One",
+		"name"    : "人人为我",
 		"desc"    : "击败团结并达成100%连击，且破坏她所有的石头",
 	},
 	"DR_unity2" : {
-		"name"    : "One For All",
+		"name"    : "我为人人",
 		"desc"    : "击败团结且未破坏任何石头（故事模式）",
 	},
 	"DR_chroma1" : {
-		"name"    : "Attack The Light",
+		"name"    : "袭击光芒",
 		"desc"    : "在单场战斗中破坏铬洛玛的彩虹屏障9次",
 	},
 	"DR_chroma2" : {
-		"name"    : "Ultra Vivid",
+		"name"    : "极度生动",
 		"desc"    : "在故事模式中击败等级超越的铬洛玛",
 	},
 	"DR_duality1" : {
-		"name"    : "Shine Brightly",
+		"name"    : "澄亮闪耀",
 		"desc"    : "击败等级超越的二相性",
 	},
 	"DR_duality2" : {
-		"name"    : "All I've Got Is Lunacy!",
+		"name"    : "我仅剩月之癫！",
 		"desc"    : "在破坏任何月之宝石之前破坏所有二相性的日之齿（故事模式）",
 	},
 	"DR_trinity1" : {
-		"name"    : "Flawless Jewelry",
+		"name"    : "无瑕珠宝",
 		"desc"    : "击败三体，且未破坏其身体部分上的宝石",
 	},
 	"DR_trinity2" : {
-		"name"    : "Thirty Trinity Treasures",
+		"name"    : "三十三体宝藏",
 		"desc"    : "在所有战斗中总共破坏30个三体的宝石（故事模式）",
 	},
 	"DR_nix_polyps1" : {
-		"name"    : "Hold Your Breath",
+		"name"    : "屏住呼吸",
 		"desc"    : "在等级至少为10的战斗中，击败倪克斯之瘤且未使用恐慌攻击",
 	},
 	"DR_nix_polyps2" : {
-		"name"    : "Panic Disorder",
+		"name"    : "恐慌障碍",
 		"desc"    : "在故事模式中击败倪克斯之瘤3次",
 	},
 	"DR_tox_polyps1" : {
-		"name"    : "Creeping Death",
+		"name"    : "死亡将至",
 		"desc"    : "在与托克斯之瘤的单场战斗中得到至少7500魔尘",
 	},
 	"DR_tox_polyps2" : {
-		"name"    : "Breathing Disorder",
+		"name"    : "呼吸障碍",
 		"desc"    : "在故事模式中击败托克斯之瘤3次",
 	},
 	
 	
 	
 	"DR_shiny_knots1" : {
-		"name"    : "Knot Knott Not Naught",
+		"name"    : "节结不是结",
 		"desc"    : "在与闪亮节结的单场战斗中得到至少4400魔尘",
 	},
 	"DR_shiny_knots2" : {
-		"name"    : "Slipknott",
+		"name"    : "活节",
 		"desc"    : "在与闪亮节结的战斗中，在恐惧条降至75%之前使结结现身（故事模式）",
 	},
 	"DR_shiny_joule1" : {
-		"name"    : "Kinetic Energy",
+		"name"    : "动能",
 		"desc"    : "在与闪亮焦耳的单场战斗中得到至少4200魔尘且未使用恐慌攻击",
 	},
 	"DR_shiny_joule2" : {
-		"name"    : "Asymptotic Vibes",
+		"name"    : "渐进情绪",
 		"desc"    : "在与闪亮焦耳的单场战斗中耗费至少99秒（故事模式）",
 	},
 	"DR_shiny_rendy1" : {
-		"name"    : "Radically Rendered Rendy Rending",
+		"name"    : "蓝调兰登兰迪兰顿",
 		"desc"    : "在与闪亮兰迪的单场战斗中得到至少5000魔尘",
 	},
 	"DR_shiny_rendy2" : {
-		"name"    : "Scuttles and Cuddles",
+		"name"    : "跑跑与抱抱",
 		"desc"    : "在与闪亮兰迪的单场战斗中击败30只眼魔（故事模式）",
 	},
 	"DR_shiny_snowball1" : {
-		"name"    : "She's A Killer Queen",
+		"name"    : "她是杀手女皇",
 		"desc"    : "在与闪亮雪球的单场战斗中得到至少4400魔尘且未使用恐慌攻击",
 	},
 	"DR_shiny_snowball2" : {
-		"name"    : "Where's Your Crown, Queen Nothing?",
+		"name"    : "你的皇冠呢，Queen Nothing？",
 		"desc"    : "击败闪亮雪球且未破坏任何腿部装甲，并获得至少2800魔尘（故事模式）",
 	},
 	"DR_philolu1" : {
-		"name"    : "The Things I Do For Love",
+		"name"    : "为爱所做之事",
 		"desc"    : "在与恋罗露的单场战斗中得到至少4400魔尘且未使用恐慌攻击",
 	},
 	"DR_philolu2" : {
-		"name"    : "That's The Way You Need It!",
+		"name"    : "所以你需要它！",
 		"desc"    : "在破坏恋罗露心之环上的所有部件后击败她，并达成100%连击（故事模式）",
 	},
 	"DR_shiny_syncron1" : {
-		"name"    : "Rage Against The Machines",
+		"name"    : "对机器的愤怒",
 		"desc"    : "在与闪亮甲虫的单场战斗中得到至少4400魔尘且未使用恐慌攻击",
 	},
 	"DR_shiny_syncron2" : {
-		"name"    : "Killswitches Engaged",
+		"name"    : "杀戮开关进入战斗",
 		"desc"    : "在与闪亮甲虫的战斗中，使所有四个单元同时处于破坏状态（故事模式）",
 	},
 	"DR_shiny_momo1" : {
-		"name"    : "Honorary Murder Blossom",
+		"name"    : "光荣的谋杀之花",
 		"desc"    : "在与闪亮茉茉的单场战斗中得到至少4400魔尘且未使用恐慌攻击",
 	},
 	"DR_shiny_momo2" : {
-		"name"    : "Simply Flourishing!",
+		"name"    : "心花怒放！",
 		"desc"    : "击败闪亮茉茉并达成100%连击，且破坏她所有的花瓣（故事模式）",
 	},
 	"DR_shiny_veyerals1" : {
-		"name"    : "Shine On You Crazy Veyerals",
+		"name"    : "照耀你疯狂的维目尔",
 		"desc"    : "在与闪亮维目尔的单场战斗中得到至少4800魔尘",
 	},
 	"DR_shiny_veyerals2" : {
-		"name"    : "Golden Experience",
+		"name"    : "黄金体验",
 		"desc"    : "在等级至少为6的战斗中，击败闪亮维目尔并达成100%连击（故事模式）",
 	},
 	"DR_shiny_anomaly1" : {
-		"name"    : "The Enigma at Iiry Forest",
+		"name"    : "鸢尾森林之谜",
 		"desc"    : "在与闪亮异常的单场战斗中得到至少6000魔尘",
 	},
 	"DR_shiny_anomaly2" : {
-		"name"    : "Field of Absolute Terror",
+		"name"    : "绝对恐惧领域",
 		"desc"    : "通过多次破坏彩虹屏障的方式解放闪亮异常的最强攻击（故事模式）",
 	},
 	
 	
 	
 	"DR_emerald1" : {
-		"name"    : "Emerald Splash!",
+		"name"    : "绿宝石水花！",
 		"desc"    : "在与绿宝石的战斗中，使用单个恐慌攻击吸收300颗子弹",
 	},
 	"DR_emerald2" : {
-		"name"    : "Mining Shame",
+		"name"    : "开采羞愧",
 		"desc"    : "在所有战斗中总共破坏40个绿宝石的石头（故事模式）",
 	},
 	"DR_ruby1" : {
-		"name"    : "It's Also a Gun",
+		"name"    : "那也是把枪",
 		"desc"    : "红宝石总共10000颗子弹之雨向你落去",
 	},
 	"DR_ruby2" : {
-		"name"    : "Mining Her Fury",
+		"name"    : "开采她的愤怒",
 		"desc"    : "在与红宝石的单场战斗中获得至少7000魔尘（故事模式）",
 	},
 	"DR_topaz1" : {
-		"name"    : "Golden Experience Requiem",
+		"name"    : "黄金体验镇魂曲",
 		"desc"    : "在等级至少为12的战斗中击败等级超越的黄宝石并达成100%连击",
 	},
 	"DR_topaz2" : {
-		"name"    : "Mining Denied",
+		"name"    : "开采否认",
 		"desc"    : "击败黄宝石且为破坏任何她的反弹石（故事模式）",
 	},
 	"DR_sapphire1" : {
-		"name"    : "Here Comes a Thought",
+		"name"    : "一个思绪降临",
 		"desc"    : "在等级至少为8的战斗中击败蓝宝石且未受到伤害或使用恐慌攻击",
 	},
 	"DR_sapphire2" : {
-		"name"    : "Mining Her Patience",
+		"name"    : "开采她的耐心",
 		"desc"    : "在所有战斗中总共破坏40个蓝宝石的石头（故事模式）",
 	},
 	"DR_citrine1" : {
-		"name"    : "Citrus Lump",
+		"name"    : "大橙子",
 		"desc"    : "在橙宝石离开屏幕前击败她",
 	},
 	"DR_citrine2" : {
-		"name"    : "Mining Fragments",
+		"name"    : "开采碎片",
 		"desc"    : "从橙宝石处提取30000魔尘（故事模式）",
 	},
 	"DR_amethyst1" : {
-		"name"    : "No Matter What",
+		"name"    : "无论如何",
 		"desc"    : "在单场战斗中受到伤害4次后击败紫宝石",
 	},
 	"DR_amethyst2" : {
-		"name"    : "Mining Nothing",
+		"name"    : "开采空无",
 		"desc"    : "击败紫宝石且未破坏她的任何反弹石（故事模式）",
 	},
 	"DR_nova1" : {
-		"name"    : "Taste The Rainbow",
+		"name"    : "品尝彩虹",
 		"desc"    : "在与超新星的单场战斗中，破坏全部6个宝石克隆体，所有克隆体的环绕物，以及每种颜色4块石头",
 	},
 	"DR_nova2" : {
-		"name"    : "Never Miss A Beat",
+		"name"    : "别错过任何一拍",
 		"desc"    : "击败超新星并达成100%连击（故事模式）",
 	},
 	
 	
 	
 	"DR_moss1" : {
-		"name"    : "Game Over",
+		"name"    : "游戏结束",
 		"desc"    : "在50秒内击败苔藓且未破坏超过3条藤蔓",
 	},
 	"DR_moss2" : {
-		"name"    : "Total Eclipse of the Heart",
+		"name"    : "心的完整日蚀",
 		"desc"    : "在苔藓错误的一边逗留连续5秒（故事模式）",
 	},
 	"DR_scarlet1" : {
-		"name"    : "I Won't See You Tonight 2",
+		"name"    : "我今晚不会再见你2",
 		"desc"    : "将绯红的恐惧削减至50%，且未收集任何宝藏子弹",
 	},
 	"DR_scarlet2" : {
-		"name"    : "Hearts Burst Into Fire",
+		"name"    : "我的心爆发如火",
 		"desc"    : "击败绯红并达成100%连击，且破坏至少5个宝珠（故事模式）",
 	},
 	"DR_dandy1" : {
-		"name"    : "Let It Burn Under My Skin",
+		"name"    : "让它在我的皮肤下燃烧",
 		"desc"    : "在等级至少为6的战斗中，击败丹迪且未破坏任何符文",
 	},
 	"DR_dandy2" : {
-		"name"    : "Tripping on a Hole in a Paper Heart",
+		"name"    : "在我的纸心上戳了个洞",
 		"desc"    : "在所有战斗中总共破坏60个丹迪的符文（故事模式）",
 	},
 
 	"DR_indigo1" : {
-		"name"    : "Restless Heart Syndrome",
+		"name"    : "无休止的心脏综合征",
 		"desc"    : "在等级至少为6的单场战斗中，完全破坏5个靛蓝的克隆体",
 	},
 	"DR_indigo2" : {
-		"name"    : "Leave How I Arrived, So Alive",
+		"name"    : "如我到达般离开，如此鲜活",
 		"desc"    : "击败靛蓝，且未完全破坏其任何克隆体（故事模式）",
 	},
 	"DR_amber1" : {
-		"name"    : "From Way Up Here, It's So Serene",
+		"name"    : "在那其上，如此安详",
 		"desc"    : "在琥珀战斗的第一阶段，触碰屏幕顶端且未受伤或恐慌",
 	},
 	"DR_amber2" : {
-		"name"    : "Heart of Glass",
+		"name"    : "玻璃之心",
 		"desc"    : "在与琥珀的单场战斗中破坏至少30个部件（故事模式）",
 	},
 	"DR_violet1" : {
-		"name"    : "I Won't See You Tonight 1",
+		"name"    : "我今晚不会再见你1",
 		"desc"    : "在未收集任何一个宝藏子弹的情况下将绛紫的生命削减至50%",
 	},
 	"DR_violet2" : {
-		"name"    : "Owner of a Lonely Heart",
+		"name"    : "孤独之心的拥有者",
 		"desc"    : "在单场战斗中，破坏绛紫的全部8个球型部件（故事模式）",
 	},
 	"DR_limbo1" : {
-		"name"    : "You're a Heartbreaker, Dream Maker",
+		"name"    : "你令人心碎，造梦者",
 		"desc"    : "在她的恐惧降至10%前击败黯驳的全部6种不同颜色形态",
 	},
 	"DR_limbo2" : {
-		"name"    : "Save Me",
+		"name"    : "拯救我",
 		"desc"    : "击败黯驳并达成全连击，且未让她重复任何颜色形态（故事模式）",
 	},
 
