@@ -36,7 +36,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我只想要放松一下，冷静下来。",
+			"dialog"			: "我现在只想放松一下，冷静下来。",
 		},
 	],
 	
@@ -132,7 +132,7 @@
 	"ask_where_cave" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "呃，我们去找一个|C3|小小洞窟|C0|来躲雨吧。",
+			"dialog"			: "啊，我们去找一个|C3|小小洞窟|C0|来躲雨吧。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
@@ -156,7 +156,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "在雨中就能够让我充能。",
+			"dialog"			: "在雨中能够让我充能。",
 		},
 	],
 	"ask_where_outside_done" : [
@@ -217,7 +217,7 @@
 	"to_wanted_cave" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这个舒适的洞穴能够帮助我降低充能水平。",
+			"dialog"			: "这个舒服的洞穴能够帮助我降低充能水平。",
 		},
 	],
 	"to_wanted_outside" 	: [
@@ -274,7 +274,7 @@
 	"to_unwanted_rain" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "哦，但是我觉得这里的雨水会让我一直充能过度。",
+			"dialog"			: "哦，但是我觉得这里的雨水会让我充能过度。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
@@ -284,11 +284,11 @@
 	"to_unwanted_dry" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "在这里和你呆在一起很舒服。",
+			"dialog"			: "在这里和你一起很舒服。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "但是，你觉得在雨中玩会帮助我更好的充能吗？",
+			"dialog"			: "但是，你会不会觉得在雨中玩能帮助我更好的充能？",
 		},
 	],
 	"to_already_visited" 	: [
@@ -450,7 +450,7 @@
 	"rain_gift_spot_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "|wave|我为我的阳光找到了闪闪发光。",
+			"dialog"			: "|wave|我为我的阳光找到了点闪闪发光的东西。",
 		},
 	],
 	"rain_gift_spot_devil" 	: [
@@ -462,7 +462,7 @@
 	"to_rain_reward" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "那些和我们一起玩维目尔之雨的维目尔们把这些留在了这里。",
+			"dialog"			: "那些和我们一起玩的维目尔们把这些东西留在了这。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
@@ -472,7 +472,7 @@
 	"to_rain_reward_devil" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我觉得是那些和我们一起玩维目尔之雨的维目尔们把这些留在了这里。",
+			"dialog"			: "我觉得是那些和我们一起玩的维目尔们把这些留在了这里。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
@@ -504,7 +504,7 @@
 	"rain_reward_gift_taken_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "真不敢相信她们就这样把这些东西留在那边的原野里了。",
+			"dialog"			: "真不敢相信她们就这样把东西留在原野里了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
@@ -674,7 +674,7 @@
 	
 	"comment_scavenge_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-		"dialog"	: "你找到的。你应该留下它！",
+		"dialog"	: "这是你找到的。你应该留下它！",
 	},
 	"comment_scavenge_unknown"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
@@ -687,7 +687,7 @@
 	"scavenge_gift_taken" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "真不敢相信它就只是在那里。",
+			"dialog"			: "真不敢相信它就在那里。",
 		},
 	],
 	
@@ -704,7 +704,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_normal"],
-			"dialog"			: "你需要做的是把它们反过来看看上面的符号是否一样。",
+			"dialog"			: "你需要做的是把它们翻过来，然后看看上面的符号是否匹配。",
 		},
 	],
 	"to_mg_cards_first_twins" 	: [
@@ -783,7 +783,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "你觉得我是否能足够明亮？",
+			"dialog"			: "你觉得我能否足够明亮？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
@@ -801,7 +801,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_sad"],
-			"dialog"			: "有时我感到孤独是因为我一直在打扰其他人。",
+			"dialog"			: "有时我会感到孤独，因为我一直在打扰其他人。",
 		},
 	],
 	"comment_burden_choice"	: {
@@ -855,7 +855,7 @@
 	"rain_power_blank_reply" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "我喜欢在外面下雨时舒舒服服地呆在这里。",
+			"dialog"			: "我喜欢外面下雨时舒舒服服地呆在这里。",
 		},
 		{
 			"love_hearts"		: 1,
@@ -1061,7 +1061,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "|wave|I see you.",
+			"dialog"			: "|wave|我的眼睛看到你了。",
 		},
 		{
 			"love_hearts"		: 1,
@@ -1106,7 +1106,7 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_voltage_veyeral_right", "MOOD_happy"],
-			"dialog"			: "Thank you for keeping me company!",
+			"dialog"			: "谢谢你陪伴我！",
 		},
 	],
 	"error_catch"	: "bonding_time/bonding_common_text",

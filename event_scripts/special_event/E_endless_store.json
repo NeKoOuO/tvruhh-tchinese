@@ -2,11 +2,11 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-			"dialog"			: "索拉纳在你梦魇的深处找到了一些礼物。",
+			"dialog"			: "索拉娜在你梦魇的深处找到了一些礼物。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|索拉纳可以把它们带给你！",
+			"dialog"			: "|wave|索拉娜可以把它们带给你！",
 		}
 	],
 	
@@ -14,15 +14,15 @@
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "索拉纳在这梦魇的深处找到了更多的礼物！",
+			"dialog_rand1"		: "索拉娜在这梦魇的深处找到了更多的礼物！",
 			"dialog_rand2"		: "|wave|欢迎回到你最开心的地方！",
-			"dialog_rand3"		: "索拉纳会为你找来更多礼物！",
+			"dialog_rand3"		: "索拉娜会为你找来更多礼物！",
 		}
 	],
 	
 	"shop_level"	: "商店等级[VAL1]",
 	"dream_petals"	: "点亮的梦境花瓣",
-	"list_title"	: "索拉纳的礼物",
+	"list_title"	: "索拉娜的礼物",
 	"player_gifts"	: "[NAME]的礼物",
 
 	"op_store"		: "获取礼物",
@@ -41,15 +41,15 @@
 	
 	"store_text"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "索拉纳可以为你带来礼物，但索拉纳会需要你的一些|C3|因果。|C0|",
+		"dialog"	: "索拉娜可以为你带来礼物，但索拉娜会需要你的一些|C3|因果。|C0|",
 	},
 	"remove_text"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "索拉纳可以移除你的一个礼物。",
+		"dialog"	: "索拉娜可以移除你的一个礼物。",
 	},
 	"upgrade_text"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-		"dialog"	: "索拉纳可以使用|C3|棱晶|C0|和|C3|梦境花瓣|C0|的力量找到更多礼物！",
+		"dialog"	: "索拉娜可以使用|C3|棱晶|C0|和|C3|梦境花瓣|C0|的力量找到更多礼物！",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
@@ -57,30 +57,30 @@
 	},
 	"leave_text"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "索拉纳会离开去寻找更多礼物。",
+		"dialog"	: "索拉娜会离开，去寻找更多礼物。",
 	},
 	
 	"comment_no_gifts"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "索拉纳现在找不到更多礼物了！",
+		"dialog"	: "索拉娜现在找不到更多礼物了！",
 	},
 	"comment_remove_done"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "你拜访时索拉纳只能移除你的一个礼物。",
+		"dialog"	: "你每次拜访时，索拉娜只能移除你的一个礼物。",
 	},
 	"comment_max_level"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-		"dialog"	: "索拉纳是历史上最强大的|C3|梦境女王|C0|！",
+		"dialog"	: "索拉娜是史上最强大的|C3|梦境女王|C0|！",
 	},
 	
-	"cost_line"		: "索拉纳会需要|C3|[VAL1]因果|C0|才能拿到它。",
+	"cost_line"		: "索拉娜会需要|C3|[VAL1]因果|C0|才能获取它。",
 	"comment_one"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
 		"dialog"	: "|wave|一个简单的礼物。|norm||L|[VAL1]",
 	},
 	"comment_two"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "|wave|一个可爱的礼物。|norm||L|[VAL1]",
+		"dialog"	: "|wave|一个美好的礼物。|norm||L|[VAL1]",
 	},
 	"comment_three"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
@@ -104,27 +104,27 @@
 	},
 	"comment_unknown"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "索拉纳分辨不出这是什么|L|[VAL1]",
+		"dialog"	: "索拉娜分辨不出这是什么|L|[VAL1]",
 	},
 	"comment_burden"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "如果你拿走这个负担，你会获得|C3|[VAL2]因果 。|C0|",
+		"dialog"	: "如果你收下这个负担，你会获得|C3|[VAL2]因果 。|C0|",
 	},
 	"comment_cant_afford"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
-		"dialog"	: "你没有足够的|C3|因果|C0|获得这个！|L|[VAL1]",
+		"dialog"	: "你没有足够的|C3|因果|C0|！|L|[VAL1]",
 	},	
 	"comment_quick_limit"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "你携带了太多的快速礼物，带不走这个。",
+		"dialog"	: "你携带了太多的快速礼物，带不走它。",
 	},
 	"comment_burden_limit"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
-		"dialog"	: "索拉纳现在不会让你背负另一个负担。",
+		"dialog"	: "索拉娜现在不会让你背负另一个负担。",
 	},
 	"comment_duplicate_limit"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "索拉纳没法再给你更多复制力量礼物。",
+		"dialog"	: "索拉娜没法再给你更多复制力量礼物。",
 	},
 	"blank_comment_box"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
@@ -132,7 +132,7 @@
 	},
 	"buy_confirm"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "你会给索拉纳|C3|[VAL1]因果？|C0|",
+		"dialog"	: "你会给索拉娜|C3|[VAL1]因果？|C0|",
 	},
 	"burden_confirm"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
@@ -141,44 +141,44 @@
 	"gift_bought" 		: [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|索拉纳为你取得了这个礼物！",
+			"dialog"			: "|wave|索拉娜为你取得了这个礼物！",
 		}
 	],
 	"final_gift_bought" : [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
-			"dialog"			: "索拉纳没有礼物了！",
+			"dialog"			: "索拉娜没有礼物了！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-			"dialog"			: "索拉纳会继续去搜寻礼物。",
+			"dialog"			: "索拉娜会继续去搜寻礼物。",
 		}
 	],
 	
 	"comment_remove_gift"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "索拉纳会需要|C3|[VAL1]因果|C0|来移除这个礼物。",
+		"dialog"	: "索拉娜会需要|C3|[VAL1]因果|C0|来移除这个礼物。",
 	},
 	"comment_remove_fail"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
-		"dialog"	: "索拉纳需要|C3|[VAL1]因果|C0|才能移除这个礼物。",
+		"dialog"	: "索拉娜需要|C3|[VAL1]因果|C0|才能移除这个礼物。",
 	},
 	"comment_remove_soon"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "索拉纳还不能移除这个礼物，但或许你下次拜访就可以了。",
+		"dialog"	: "索拉娜还不能移除这个礼物，但或许你下次拜访就可以了。",
 	},
 	"comment_remove_starter"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
-		"dialog"	: "索拉纳无法移除你心中的礼物。",
+		"dialog"	: "索拉娜无法移除你心中的礼物。",
 	},
 	"remove_confirm"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "你想要索拉纳移除这个礼物吗？",
+		"dialog"	: "你想要索拉娜移除这个礼物吗？",
 	},
 	"gift_removed" 			: [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|给索拉纳点时间来把这个礼物从你的心里撕裂出来！",
+			"dialog"			: "|shake|给索拉娜点时间来把这个礼物从你的心里撕裂出来！",
 		}
 	],
 	"first_remove" 			: [
@@ -186,7 +186,7 @@
 			"use_textbox"		: 1,
 			"play_music"		: "yellow_scene_music",
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "索拉纳可以移除任何你不再想要的礼物。",
+			"dialog"			: "索拉娜可以移除任何你不再想要的礼物。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
@@ -232,112 +232,112 @@
 	"bless_n" 		: "[VAL1]个祝福",
 	"comment_gift_lv0"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "使用一些棱晶的力量，索拉纳可以找到|C3|[VAL1]|C0|了！",
+		"dialog"	: "使用一些棱晶的力量，索拉娜可以找到|C3|[VAL1]|C0|了！",
 	},
 	"comment_gift_up"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "索拉纳现在可以拿到|C3|[VAL1]|C0|，但有着棱晶的力量，索拉纳可以再找到一个！",
+		"dialog"	: "索拉娜现在可以找到|C3|[VAL1]|C0|，但有着棱晶的力量，索拉娜可以再找到一个！",
 	},
 	"comment_gift_max"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "你每次来访时索拉纳可以拿到|C3|[VAL1]！|C0|",
+		"dialog"	: "你每次来访时，索拉娜可以找到|C3|[VAL1]！|C0|",
 	},
 	"comment_burden_lv0"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "使用一些棱晶的力量，可以为你找到一个|C3|负担|C0|来给你一些因果！",
+		"dialog"	: "使用一些棱晶的力量，可以为你找到一个|C3|负担|C0|来让你获取一些因果！",
 	},
 	"comment_burden_up"			: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "使用更多棱晶的力量，索拉纳能给你一个额外的|C3|负担|C0|选项来让你选择！",
+		"dialog"	: "使用更多棱晶的力量，索拉娜能给你一个额外的|C3|负担|C0|选项来让你选择！",
 	},
 	"comment_burden_max"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-		"dialog"	: "你每次来访时索拉纳可以找到|C3|[VAL2]负担|C0|来让你从中选择！",
+		"dialog"	: "你每次来访时索拉娜可以找到|C3|[VAL2]负担|C0|来让你从中选择！",
 	},
 	"comment_dup_stock_lv0"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "使用一些棱晶的力量，你每次拜访时索拉纳能够找到一个|C3|随机复制力量礼物！|C0|",
+		"dialog"	: "使用一些棱晶的力量，你每次拜访时索拉娜能够找到一个|C3|随机复制力量礼物！|C0|",
 	},
 	"comment_dup_stock_lv1"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "你每次拜访时索拉纳能够找到|C3|1个随机复制力量礼物|C0|，但索拉纳能找到另一个！",
+		"dialog"	: "你每次拜访时索拉娜能够找到|C3|1个随机复制力量礼物|C0|，但索拉娜能找到另一个！",
 	},
 	"comment_dup_stock_max"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-		"dialog"	: "你每次拜访时索拉纳能够找到|C3|[VAL2]个随机复制力量礼物|C0|，直到你无法携带更多！",
+		"dialog"	: "你每次拜访时索拉娜能够找到|C3|[VAL2]个随机复制力量礼物|C0|，直到你无法携带更多！",
 	},
 	"comment_dup_limit_lv1"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "每次无尽梦魇中索拉纳仅能够给你|C3|1个复制|C0|力量礼物，但索拉纳能做得更好！",
+		"dialog"	: "每次无尽梦魇中索拉娜仅能够给你|C3|1个复制|C0|力量礼物，但索拉娜能做得更好！",
 	},
 	"comment_dup_limit_up"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "每次无尽梦魇中索拉纳能够给你|C3|[VAL2]个复制|C0|力量礼物，但索拉纳能做得更好！",
+		"dialog"	: "每次无尽梦魇中索拉娜能够给你|C3|[VAL2]个复制|C0|力量礼物，但索拉娜能做得更好！",
 	},
 	"comment_dup_limit_max"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-		"dialog"	: "每次无尽梦魇中索拉纳能够给你|C3|[VAL2]个复制|C0|力量礼物！记得选择最好的那些！",
+		"dialog"	: "每次无尽梦魇中索拉娜能够给你|C3|[VAL2]个复制|C0|力量礼物！记得选择最好的那些！",
 	},
 	"comment_remove_lv0"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-		"dialog"	: "只要你把更多的棱晶力量交给索拉纳，索拉纳可以|C3|移除你不想要的礼物。|C0|",
+		"dialog"	: "只要你把更多的棱晶力量交给索拉娜，索拉娜可以|C3|移除你不想要的礼物。|C0|",
 	},
 	"comment_remove_max"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-		"dialog"	: "你每次拜访时索拉纳可以|C3|移除1个你的礼物！|C0|",
+		"dialog"	: "你每次拜访时索拉娜可以|C3|移除1个你的礼物！|C0|",
 	},
 	"comment_upgrade_fail"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
-		"dialog"	: "索拉纳需要你点亮|C3|[VAL1]个梦境花瓣|C0|来增强这个力量。",
+		"dialog"	: "索拉娜需要你点亮|C3|[VAL1]片梦境花瓣|C0|来增强这个力量。",
 	},
 	"comment_upgrade_fail_1"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
-		"dialog"	: "索拉纳需要你点亮至少|C3|1个梦境花瓣|C0|来增强这个力量。",
+		"dialog"	: "索拉娜需要你点亮至少|C3|1片梦境花瓣|C0|来增强这个力量。",
 	},
 	
 	"first_upgrade" 		: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|索拉纳现在比以前更加强大了！",
+			"dialog"			: "|shake|索拉娜现在比以前更加强大了！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-			"dialog"			: "要记得索拉纳需要先找到那些礼物。",
+			"dialog"			: "要记得索拉娜需要先找到那些礼物。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "|wave|索拉纳下次会有更多礼物的！",
+			"dialog"			: "|wave|索拉娜下次会有更多礼物的！",
 		}
 	],
 	"middle_upgrade" 		: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|索拉纳现在比以前更加强大！",
+			"dialog"			: "|shake|索拉娜现在比以前更加强大！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|梦魇在索拉纳的面前不值一提！",
+			"dialog"			: "|shake|梦魇在索拉娜的面前不值一提！",
 		}
 	],
 	"final_upgrade" 		: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|索拉纳是历史上最强大的|C3|梦境女王|C0|！",
+			"dialog"			: "|shake|索拉娜是史上最强大的|C3|梦境女王|C0|！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|甜美的梦境将会占领梦魇的地域！",
+			"dialog"			: "|shake|甜美的梦境将会占领梦魇的领域！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|当索拉纳完成之时，梦魇甚至会惊恐地检查床底寻找索拉纳！",
+			"dialog"			: "|shake|当索拉娜完成之时，梦魇甚至会惊恐地检查床底寻找索拉娜！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "|shake|索拉纳会保证你有足够的礼物以永远生存下去！",
+			"dialog"			: "|shake|索拉娜会保证你有足够的礼物以永远生存下去！",
 		},
 	],
 	
@@ -347,15 +347,15 @@
 	},
 	"red_comment"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
-		"dialog"	: "|shake|哎呦！|norm||L|这些好尖利！",
+		"dialog"	: "|shake|哎呦！|norm||L|这些好扎人！",
 	},
 	"yellow_comment"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-		"dialog"	: "|shake|黄色！|L||wave|这是索拉纳最喜欢的！|L||norm||C3|这些能够给索拉纳最多的力量！",
+		"dialog"	: "|shake|黄色！|L||wave|这是索拉娜最喜欢的！|L||norm||C3|这些能够给索拉娜最多的力量！",
 	},
 	"blue_comment"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
-		"dialog"	: "|shake|哎呦！|norm||L|这些把索拉纳电到了！",
+		"dialog"	: "|shake|哎呦！|norm||L|这些把索拉娜电到了！",
 	},
 	"orange_comment"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_upset"],
@@ -363,7 +363,7 @@
 	},
 	"purple_comment"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-		"dialog"	: "你确定这些是棱晶吗？|L|索拉纳感觉好像什么都没有。",
+		"dialog"	: "你确定这些是棱晶吗？|L|索拉娜感觉好像什么都没有。",
 	},
 	"radiant_comment"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
@@ -371,7 +371,7 @@
 	},
 	"upgrade_confirm"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-		"dialog"	: "你会给索拉纳这些|C3|棱晶吗？",
+		"dialog"	: "你会给索拉娜这些|C3|棱晶吗？",
 	},
 	
 	
@@ -379,7 +379,7 @@
 	"leaving" 	: [
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-			"dialog"			: "索拉纳现在会去找更多的礼物！",
+			"dialog"			: "索拉娜现在会去找更多的礼物！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
@@ -407,23 +407,23 @@
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-			"dialog"			: "幸运的是，|wave|索拉纳知道寻找它们的方法。",
+			"dialog"			: "幸运的是，|wave|索拉娜知道寻找它们的方法。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "索拉纳必须使用你|C3|因果|C0|的力量来|shake|将它们从你的头脑中扯出来！",
+			"dialog"			: "索拉娜必须使用你|C3|因果|C0|的力量来|shake|将它们从你的头脑中扯出来！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
-			"dialog"			: "但是...索拉纳现在找不到太多礼物。",
+			"dialog"			: "但是...索拉娜现在找不到太多礼物。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-			"dialog"			: "你必须先用你的棱晶来给索拉纳更多力量。",
+			"dialog"			: "你必须先用你的棱晶来给索拉娜更多力量。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "或许有着|shake|一千万|norm|棱晶，索拉纳就可以找到你想要的所有礼物！",
+			"dialog"			: "或许有着|shake|一千万|norm|棱晶，索拉娜就可以找到你想要的所有礼物！",
 		},
 	],
 	"intro_price1" : [
@@ -437,7 +437,7 @@
 		{
 			"unskippable"		: 0,
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "索拉纳为你找到了更多的礼物。",
+			"dialog"			: "索拉娜为你找到了更多的礼物。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
@@ -445,12 +445,12 @@
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
-			"dialog"			: "每次索拉纳给你一个礼物-",
+			"dialog"			: "每次索拉娜给你一个礼物-",
 			
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
-			"dialog"			: "索拉纳都会需要|C3|更多因果|C0|来找到下一个！",
+			"dialog"			: "索拉娜都会需要|C3|更多因果|C0|来找到下一个！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
@@ -463,12 +463,12 @@
 			"use_textbox"		: 1,
 			"play_music"		: "yellow_scene_music",
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|索拉纳找到了一种新类型的礼物！",
+			"dialog"			: "|wave|索拉娜找到了一种新类型的礼物！",
 		},
 		{
 			"unskippable"		: 0,
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "现在索拉纳知道|C3|额外礼物|C0|能在哪里找到了，索拉纳也知道了新的因果规律。",
+			"dialog"			: "现在索拉娜知道|C3|额外礼物|C0|能在哪里找到了，索拉娜也知道了新的因果规律。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
@@ -480,15 +480,15 @@
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-			"dialog"			: "你知道每次索拉纳给你礼物时，下一个礼物会需要更多因果。",
+			"dialog"			: "你知道每次索拉娜给你礼物时，下一个礼物会需要更多因果。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
-			"dialog"			: "但索拉纳发现同种类型的其他礼物会使得因果价格|C3|增长更快。|C0|",
+			"dialog"			: "但索拉娜发现同种类型的其他礼物会使得因果价格|C3|增长更快。|C0|",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_shocked"],
-			"dialog"			: "收下会让你的|C3|心之子弹|C0|变强的礼物，会使得|C3|其他心之子弹礼物|C0|的价格大幅增加！",
+			"dialog"			: "收下会让你的|C3|心之子弹|C0|变强的礼物，会使得|C3|其他心之子弹礼物|C0|的价格大幅上升！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
@@ -505,20 +505,20 @@
 			"use_textbox"		: 1,
 			"play_music"		: "yellow_scene_music",
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|索拉纳有个惊喜要给你！",
+			"dialog"			: "|wave|索拉娜有个惊喜要给你！",
 		},
 		{
 			"unskippable"		: 0,
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "索拉纳为你发明了一个|C3|爱之力量测量设备！|C0|",
+			"dialog"			: "索拉娜为你发明了一个|C3|爱之力量测量设备！|C0|",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-			"dialog"			: "索拉纳因为发明|wave|各种各样的设备|C0|而出名。",
+			"dialog"			: "索拉娜因为发明|wave|各种各样的设备|C0|而出名。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-			"dialog"			: "索拉纳会为你展示它的作用。",
+			"dialog"			: "索拉娜会为你展示它的作用。",
 		},
 		{
 			"show_tutorial"		: "endless_love_power",
@@ -527,11 +527,11 @@
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-			"dialog"			: "这个设备能够使用索拉纳的算法来计算出你的心相较于梦魇的力量如何。",
+			"dialog"			: "这个设备能够使用索拉娜的算法来计算出你的心相较于梦魇的力量如何。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "最重要的因子是你对那些怪物们所能倾泻的|C3|每秒的爱！|C0|",
+			"dialog"			: "最重要的因子是-你对那些怪物们所能倾泻的|C3|每秒的爱！|C0|",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_angry"],
@@ -547,7 +547,7 @@
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-			"dialog"			: "但是这就是最重要的部分。",
+			"dialog"			: "但是接下来就是最重要的部分。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_surprised"],
@@ -564,7 +564,7 @@
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|索拉纳对|C3|爱之力量测量设备|C0|非常自豪！",
+			"dialog"			: "|wave|索拉娜对|C3|爱之力量测量设备|C0|非常自豪！",
 		},
 	],
 	"intro_quick" : [
@@ -573,7 +573,7 @@
 			"use_textbox"		: 1,
 			"play_music"		: "yellow_scene_music",
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-			"dialog"			: "|wave|索拉纳现在可以为你找到|C3|快速礼物|C0|了！",
+			"dialog"			: "|wave|索拉娜现在可以为你找到|C3|快速礼物|C0|了！",
 		},
 		{
 			"unskippable"		: 0,
@@ -659,7 +659,7 @@
 			"use_textbox"		: 1,
 			"play_music"		: "yellow_scene_music",
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "索拉纳现在可以找到你的力量礼物的|C3|复制品！|C0|",
+			"dialog"			: "索拉娜现在可以找到你的力量礼物的|C3|复制品！|C0|",
 		},
 		{
 			"unskippable"		: 0,
@@ -668,7 +668,7 @@
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "你每次拜访时索拉纳能够复制的礼物都会是随机的。",
+			"dialog"			: "你每次拜访时索拉娜能够复制的礼物都会是随机的。",
 		},
 	],
 

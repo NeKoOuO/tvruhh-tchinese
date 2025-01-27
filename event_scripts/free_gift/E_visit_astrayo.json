@@ -109,7 +109,7 @@
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_aggressive"],
-			"dialog"			: "现在你必须带走一个。",
+			"dialog"			: "现在你必须收下一个。",
 		},
 	],
 	

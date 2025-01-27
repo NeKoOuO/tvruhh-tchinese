@@ -185,7 +185,7 @@
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|I see you.",
+			"dialog"			: "|wave|我的眼睛看到了你。",
 		},
 		{
 			"love_hearts"		: 1,
@@ -194,7 +194,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
-			"dialog"			: "哦。|!||L|抱歉我先入为主了。|!||L|我只是觉得你们美丽的眼睛--",
+			"dialog"			: "啊。|!||L|抱歉我先入为主了。|!||L|我只是觉得你们美丽的眼睛--",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
@@ -202,7 +202,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "哦。|!| I     see   you?",
+			"dialog"			: "哦。|!| 眼睛     看到了   你？",
 		},
 		{
 			"love_hearts"		: 1,

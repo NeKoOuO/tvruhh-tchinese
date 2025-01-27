@@ -51,7 +51,7 @@
 	},
 	"comment_quick_limit"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_sad"],
-		"dialog"	: "甚至我也不会让你承受这么大的负担。",
+		"dialog"	: "就算是我也不会让你承受这么大的负担。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_normal"],
@@ -104,7 +104,7 @@
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_angry"],
-			"dialog"			: "在你让我感觉如此美妙之后，你至少也该把这些东西从我这拿走了。",
+			"dialog"			: "在你让我感觉如此美妙之后，你至少也该把它们从我这拿走了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_upset"],
@@ -127,7 +127,7 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_angry"],
-			"dialog"			: "阳光！我真不敢相信你让她有这种感觉。|!|你要怎么修补这一切？",
+			"dialog"			: "阳光！我真不敢相信你让她有这种感觉。|!|你要怎么弥补这一切？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
@@ -172,12 +172,12 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_angry"],
-			"dialog"			: "Taking those is the least you can do after making me feel so nice.",
+			"dialog"			: "在让我感觉这么好之后，带走它们是你理应做的了。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|I guess I can forgive you now.",
+			"dialog"			: "|wave|我猜我可以原谅你了。",
 		},
 	],
 

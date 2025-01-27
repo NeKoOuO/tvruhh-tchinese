@@ -31,7 +31,7 @@
 		},
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_confused_blush"],
-			"dialog"			: "我知道个方法能让这个世界变得更好。",
+			"dialog"			: "我知道个办法能让这个世界变得更好。",
 		},
 		{
 			"character"			: ["VOICE_chemory", "CHAR_chemory_right", "MOOD_happy"],
@@ -80,7 +80,7 @@
 	
 	"mood_title"	: "化莫里的心情",
 	"monster_gifts"	: "化莫里的礼物",
-	"player_gifts"	: "[NAME]的现有礼物",
+	"player_gifts"	: "[NAME]的礼物列表",
 	"player_quicks"	: "[NAME]的快速礼物",
 
 	"op_trade"			: "化莫里的礼物",

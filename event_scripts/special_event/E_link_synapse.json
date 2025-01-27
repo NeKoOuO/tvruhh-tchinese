@@ -6,7 +6,7 @@
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她注意到了里面存有礼物。|L|礼物位于她能够伸手够到的地方。",
+			"dialog"			: "|C3|她注意到了里面存有礼物。|L|礼物位于她触手可及的地方。",
 		}
 	],
 	

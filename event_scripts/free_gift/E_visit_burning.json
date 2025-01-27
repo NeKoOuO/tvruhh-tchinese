@@ -57,7 +57,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
-			"dialog"			: "那你能猜猜现在是什么时间吗？",
+			"dialog"			: "那你再来猜猜现在是什么时间？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
@@ -70,7 +70,7 @@
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
 			"random"			: 4,
-			"dialog_rand1"		: "而且     也是阴燃的时间。",
+			"dialog_rand1"		: "而且     也是暗燃的时间。",
 			"dialog_rand2"		: "而且     也是灼燃的时间。",
 			"dialog_rand3"		: "而且     也是燃烧的时间。",
 			"dialog_rand4"		: "而且     也是滋滋作响的时间。",
@@ -89,7 +89,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
-			"dialog"			: "没必要这么做！|L||!||shake|自制一下！",
+			"dialog"			: "没必要这么做！|L||!||shake|克制一下！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
@@ -167,12 +167,12 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
-			"dialog"			: "Enjoy those charred gifts.",
+			"dialog"			: "享受这些烧焦的礼物。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|I love your fire.",
+			"dialog"			: "|wave|我爱你的火焰。",
 		},
 	],
 

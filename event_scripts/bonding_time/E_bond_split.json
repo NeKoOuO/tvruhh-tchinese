@@ -2,11 +2,11 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_sad"],
-			"dialog"			: "你有时间和我们一起玩吗？",
+			"dialog"			: "你有空和我们一起玩吗？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|Shake|好耶！|norm|我们想要一起玩！",
+			"dialog"			: "|Shake|好耶！|norm|我们想一起玩！",
 		},
 	],
 	
@@ -40,7 +40,7 @@
 	"to_minigame_first" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我们知道你会说好的！",
+			"dialog"			: "我们知道你会同意的！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
@@ -58,7 +58,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "没关系的，去加入他们吧。",
+			"dialog"			: "没关系的，去加入她们吧。",
 		},
 	],
 	"to_minigame" 	: [
@@ -75,7 +75,7 @@
 	"start_swap" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
-			"dialog"			: "这个游戏叫做|C3|维目尔置换！|C0|",
+			"dialog"			: "这个游戏叫做|C3|维目尔交换！|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
@@ -85,17 +85,17 @@
 	"start_blink" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
-			"dialog"			: "这一个叫做|C3|维目尔眨眼！|C0|",
+			"dialog"			: "这一个叫做|C3|维目尔闪烁！|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "看着我们睁开自己的眼睛然后数一数你看到了多少[VAL1]。",
+			"dialog"			: "看着我们睁开眼睛，然后数一数你看到了多少[VAL1]。",
 		},
 	],
 	"start_blink2" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
-			"dialog"			: "这一个有点难。|L|我们把它叫做|C3|维目尔眨眼！|C0|",
+			"dialog"			: "这一个有点难。|L|我们把它叫做|C3|维目尔闪烁！|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
@@ -105,7 +105,7 @@
 	"start_peek" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
-			"dialog"			: "这一个叫做|C3|维目尔之窥！|C0|",
+			"dialog"			: "这一个叫做|C3|维目尔窥视！|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
@@ -115,11 +115,11 @@
 	"start_peek2" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_normal"],
-			"dialog"			: "这一个有点难。|L|我们把它叫做|C3|维目尔之窥！|C0|",
+			"dialog"			: "这一个有点难。|L|我们把它叫做|C3|维目尔窥视！|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "请试着记起来你看到的所有颜色。|L|我们可能会问其中任何一个。",
+			"dialog"			: "请试着记住你看到的所有颜色。|L|我们可能会问其中任何一个。",
 		},
 	],
 	"start_rain" 	: [
@@ -133,7 +133,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "请数一下所有经过的带有[VAL1]的维目尔。",
+			"dialog"			: "请数一下经过的所有带有[VAL1]的维目尔。",
 		},
 	],
 	
@@ -285,7 +285,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "并且，我的妹妹都没在注意的。",
+			"dialog"			: "并且，我的妹妹都没在看的。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_angry"],
@@ -343,7 +343,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我下一个！",
+			"dialog"			: "我要下一个！",
 		},
 	],
 	"hug_defect" 	: [
@@ -442,7 +442,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "那是因为我和你分享了一部分的寒冷，亲爱的。",
+			"dialog"			: "那是因为我和你分享了一部分寒冷，亲爱的。",
 		},
 	],
 	"pet_twins" 	: [

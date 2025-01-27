@@ -126,7 +126,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_blush"],
-			"dialog"			: "|shake|哦，你知道我的。",
+			"dialog"			: "|shake|哦，你懂我的。",
 		},
 	],
 	
@@ -157,12 +157,12 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "Can I get like, a hug before you go    or whatever?",
+			"dialog"			: "在你走之前，我能否拥抱一下    之类的？",
 		},
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_blush"],
-			"dialog"			: "I like, totally needed that right now.",
+			"dialog"			: "我就是，现在完全需要它。",
 		},
 	],
 

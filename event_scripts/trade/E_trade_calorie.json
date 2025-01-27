@@ -93,7 +93,7 @@
 	
 	"mood_title"	: "卡洛里的心情",
 	"monster_gifts"	: "卡洛里的礼物",
-	"player_gifts"	: "[NAME]的现有礼物",
+	"player_gifts"	: "[NAME]的礼物列表",
 	"player_quicks"	: "[NAME]的快速礼物",
 
 	"op_trade"			: "卡洛里的礼物",
@@ -152,7 +152,7 @@
 	},
 	"comment_quick_limit"	: {
 		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
-		"dialog"	: "你没空间存放了。",
+		"dialog"	: "你没空间存放它了。",
 	},
 	"buy_confirm"		: {
 		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
@@ -215,7 +215,7 @@
 	},
 	"comment_give_starter"	: {
 		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
-		"dialog"	: "我们可不会把那个从你身边拿走。",
+		"dialog"	: "我们可不会把它从你身边拿走。",
 	},
 	"give_confirm"			: {
 		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
@@ -297,7 +297,7 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "说起来，我的姐姐真的很喜欢蓝色头发的女士。",
+			"dialog"			: "说起来，我的姐姐真的很喜欢蓝头发的女孩子。",
 		},
 		{
 			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],

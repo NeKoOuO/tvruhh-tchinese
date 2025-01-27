@@ -156,7 +156,7 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_happy"],
-			"dialog"			: "我真的可以收下这个吗？",
+			"dialog"			: "我真的可以收下它吗？",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_content"],

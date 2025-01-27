@@ -17,7 +17,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "但是，我们或许可以用一些更好的原材料。",
+			"dialog"			: "但是，我们或许可以用一些更好的原料。",
 		},
 	],
 	
@@ -143,7 +143,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|如果你赢得了我们的游戏的话我们会把它们给你。",
+			"dialog"			: "|wave|如果你赢得了我们的游戏，我们会把它们给你。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
@@ -160,7 +160,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|如果你玩了我们所有的游戏的话，我们会给你更多。",
+			"dialog"			: "|wave|如果你玩了我们所有的游戏，我们会给你更多。",
 		},
 	],
 	"to_vg_first_defect" 		: [
@@ -191,13 +191,13 @@
 	"start_swap" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "追踪带有|C3|白色眼睛|C0|的维目尔，在我们移动后选择正确的那个。",
+			"dialog"			: "追踪带有|C3|白色眼睛|C0|的维目尔，在我们移动后，选择正确的那个。",
 		},
 	],
 	"start_blink" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "仔细观察我们张开眼睛，数一数你看到了多少[VAL1]。",
+			"dialog"			: "在我们张开眼睛时仔细观察，数一数你看到了多少[VAL1]。",
 		},
 	],
 	"start_blink2" 	: [
@@ -213,7 +213,7 @@
 	"start_peek" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "仔细观察我们从藏身处出来，数一数你看到了多少[VAL1]。",
+			"dialog"			: "我们从藏身处出来时仔细观察，数一数你看到了多少[VAL1]。",
 		},
 	],
 	"start_peek2" 	: [
@@ -453,7 +453,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我们回到洞穴时我可以热个身。",
+			"dialog"			: "回到洞穴时我可以热个身。",
 		},
 	],
 	"explain_outside_low" 	: [
@@ -653,7 +653,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "等下！你看看那个。",
+			"dialog"			: "等下！你看那个。",
 		},
 	],
 	"min_heat_get_ingredient" : [
@@ -808,7 +808,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "并且，还有他的生日！",
+			"dialog"			: "并且，他的生日刚刚过去！",
 		},
 	],
 	"error_catch"	: "bonding_time/bonding_common_text",

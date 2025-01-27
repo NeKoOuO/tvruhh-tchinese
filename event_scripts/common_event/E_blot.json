@@ -51,7 +51,7 @@
 	},
 	"comment_cant_donate"	: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-		"dialog"	: "我们的人生摇摇欲坠一团糟，而且我们现在没地方存放你的捐赠品。",
+		"dialog"	: "我们现在摇摇欲坠一团糟，而且我们现在没地方存放你的捐赠品。",
 	},
 	"comment_donate_limit"	: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
@@ -68,12 +68,12 @@
 	
 	
 	
-	"cost_line"		: "你可以消耗|C3|[VAL1]个墨点信物|C0|拿走它。 ",
-	"cost_line_1"	: "你可以消耗|C3|1个墨点信物|C0|拿走它。 ",
-	"cost_line_0"	: "你可以免费带走它，小可爱。",
+	"cost_line"		: "你可以消耗|C3|[VAL1]个墨点信物|C0|带走它。 ",
+	"cost_line_1"	: "你可以消耗|C3|1个墨点信物|C0|带走它。 ",
+	"cost_line_0"	: "你可以直接带走它，小可爱。",
 	"comment_free"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-		"dialog"	: "|wave|你想要的话就直接拿走它吧，小可爱。",
+		"dialog"	: "|wave|你想要的话，就直接拿走它吧，小可爱。",
 	},
 	"comment_unknown"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
@@ -89,7 +89,7 @@
 	},
 	"comment_painting2"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-		"dialog"	: "这幅是一个皮肤没有颜色的小可爱画的！|L||wave|我们认为这是她的女朋友。|norm||L|[VAL1]",
+		"dialog"	: "这幅画是一个皮肤没有颜色的小可爱画的！|L||wave|我们认为这是她的女朋友。|norm||L|[VAL1]",
 	},
 	"comment_one"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
@@ -97,11 +97,11 @@
 	},
 	"comment_two"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-		"dialog"	: "如此美丽的作品|L|[VAL1]",
+		"dialog"	: "这作品真是出神入化。|L|[VAL1]",
 	},
 	"comment_three"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-		"dialog"	: "|wave|这幅几乎和你一样可爱了！|norm||L|[VAL1]",
+		"dialog"	: "|wave|它几乎和你一样可爱了！|norm||L|[VAL1]",
 	},
 	"comment_bonus"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
@@ -109,7 +109,7 @@
 	},
 	"comment_quick"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-		"dialog"	: "在它还在的时候享受吧|L|[VAL1]",
+		"dialog"	: "在它剩余的时间内享受吧|L|[VAL1]",
 	},
 	"comment_limit"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
@@ -185,7 +185,7 @@
 	},
 	"comment_donate_starter": {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-		"dialog"	: "我们不能从你那里带走这个，小可爱。",
+		"dialog"	: "我们不能从你那里带走它，小可爱。",
 	},
 	"donate_confirm"		: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
@@ -232,15 +232,15 @@
 	
 	"comment_upgrade_limit_first"	: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
-		"dialog"	: "每次来访我们只能给你|C3|1个礼物Gift|C0|，但有一些棱晶的话我们能够与另一个相别离。",
+		"dialog"	: "每次来访我们只能给你|C3|1个礼物，|C0|但有一些棱晶的话，我们能够与另一个相别离。",
 	},
 	"comment_upgrade_limit"			: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-		"dialog"	: "每次来访我们只能给你|C3|[VAL1]个礼物Gift|C0|，但有一些棱晶的话我们能够与另一个相别离！",
+		"dialog"	: "每次来访我们只能给你|C3|[VAL1]个礼物，|C0|但有一些棱晶的话，我们能够与另一个相别离！",
 	},
 	"comment_upgrade_limit_maxed"	: {
 		"character"	: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-		"dialog"	: "每次来访我们能够给你|C3|[VAL1]个礼物Gift|C0|！|L||wave|这已经尽善尽美了，小可爱。",
+		"dialog"	: "每次来访我们能够给你|C3|[VAL1]个礼物！|C0||L||wave|这已经尽善尽美了，小可爱。",
 	},
 	
 	"comment_upgrade_donate_none"	: {
@@ -453,7 +453,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "我…猜是吧。",
+			"dialog"			: "我...猜是吧。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
@@ -469,9 +469,9 @@
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
 			"random"			: 4,
-			"dialog_rand1"		: "我喜欢那个带眼球的黑暗画作。",
+			"dialog_rand1"		: "我喜欢那个带有眼球的黑暗画作。",
 			"dialog_rand2"		: "这里面有的作品|shake|太金属了！",
-			"dialog_rand3"		: "你看到那幅了吗，有着无可名状恐怖的那个？",
+			"dialog_rand3"		: "你看到那幅画了吗，有着无可名状恐怖的那个？",
 			"dialog_rand4"		: "我喜欢那些看起来像梦魇的。",
 		},
 		{

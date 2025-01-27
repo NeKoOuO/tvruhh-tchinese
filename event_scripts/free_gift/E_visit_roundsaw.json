@@ -145,12 +145,12 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_sad"],
-			"dialog"			: "Roundsaw wants hug.",
+			"dialog"			: "圆锯想要拥抱。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
-			"dialog"			: "|shake|Prrrrrrrrrrrr.",
+			"dialog"			: "|shake|呼噜呼噜呼噜。",
 		},
 	],
 

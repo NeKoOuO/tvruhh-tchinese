@@ -6,7 +6,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-			"dialog"			: "我的妹妹们在想...|L|你能来我们的地下城玩吗？",
+			"dialog"			: "我的妹妹们在想...|L|你想来我们的地下城玩吗？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -62,15 +62,15 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "这应该是   我吗？",
+			"dialog"			: "这应该就是   我吗？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "是呀，我们画的这些。",
+			"dialog"			: "是呀，这些是我们画的。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "|C3|(我非常努力的不要哭出来。)",
+			"dialog"			: "|C3|(我非常努力的不要哭出来)",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -78,7 +78,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "艺术家一开始会有|C3|许多生命值。|C0|",
+			"dialog"			: "艺术家在一开始会拥有|C3|许多生命值。|C0|",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
@@ -94,15 +94,15 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry2"],
-			"dialog"			: "哦，对不起。|L||!|大人们非常开心的时候有时就会大哭。",
+			"dialog"			: "哦，对不起。|L||!|大人们在非常开心时有可能会哭的。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "那既奇怪又有趣。",
+			"dialog"			: "奇怪又有趣。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
-			"dialog"			: "几维，你太有天分了！",
+			"dialog"			: "几维，你简直太有天分了！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -114,15 +114,15 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
-			"dialog"			: "嗯，我确实     非常擅长！",
+			"dialog"			: "是呀，我的确     非常擅长！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-			"dialog"			: "但是今天你会是|C3|艺术家|C0|职业，好吗？",
+			"dialog"			: "但今天你会是|C3|艺术家|C0|职业，好吗？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "不会再哭泣了。|!||L|我准备好一起玩了。",
+			"dialog"			: "我不会再哭泣了。|!||L|我准备好一起玩了。",
 		},
 	],
 	"talk_defect" 	: [
@@ -132,7 +132,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-			"dialog"			: "好哦，就是，你会是|C3|魔法师|C0|职业。",
+			"dialog"			: "好哦，就，你会是|C3|魔法师|C0|职业。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
@@ -152,7 +152,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-			"dialog"			: "魔法师通过她的魔法球使用法术战斗。",
+			"dialog"			: "魔法师用她的魔法球通过法术战斗。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],
@@ -160,7 +160,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "那就没有更好的球能胜任这个工作了。",
+			"dialog"			: "没有更好的球能胜任这个工作了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
@@ -176,11 +176,11 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "因为世间没有任何理论能够解释这种量级的完美。",
+			"dialog"			: "世间没有任何理论能够解释这种量级的完美。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
-			"dialog"			: "我不知道鲤数是什么。",
+			"dialog"			: "我不知道乌梨数是什么。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
@@ -278,11 +278,11 @@
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad"],
-			"dialog"			: "你喜欢我的笑话的。",
+			"dialog"			: "你喜欢我的笑话。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "我的妹妹们在说我们新的大姐姐们真有趣。",
+			"dialog"			: "我的妹妹们在说我们新的姐姐们真有趣。",
 		},
 	],
 	"talk_devil" 	: [
@@ -292,7 +292,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "这才是     邪恶的巢穴！",
+			"dialog"			: "这才称得上     邪恶的巢穴！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
@@ -300,7 +300,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
-			"dialog"			: "这是我以为的那个吗？",
+			"dialog"			: "这是我认为的那个吗？",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
@@ -328,11 +328,11 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "你会是|C3|金属领袖|C0|职业。",
+			"dialog"			: "你会是|C3|金属主唱|C0|职业。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
-			"dialog"			: "金属领袖在未强化时也可以|C3|同时攻击所有敌人|C0|。",
+			"dialog"			: "金属主唱在未强化时也可以|C3|同时攻击所有敌人|C0|。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
@@ -382,13 +382,13 @@
 			"random"			: 9,
 			"dialog_rand1"		: "然后你穿过了很长的走廊。",
 			"dialog_rand2"		: "你检查了左边的门，但是它锁上了！|L||!|所以你去了右边。",
-			"dialog_rand3"		: "你进入了它们出来的那个洞。",
+			"dialog_rand3"		: "你进入了她们出来的那个洞。",
 			"dialog_rand4"		: "|C3|[VAL2]|C0|分享了她带来的零食，然后你们进入了下个房间。",
 			"dialog_rand5"		: "你在下个房间听到了奇怪的噪音，你前往查看。",
 			"dialog_rand6"		: "唯一前进的道路是地板上的活版门。|!|所以你跳了进去。",
 			"dialog_rand7"		: "你找到了个进入另一个房间的梯子。|!|所以你爬了上去。",
-			"dialog_rand8"		: "看起来没有其他地方能去了。|!|然后你意外按下了一个按钮打开了门！",
-			"dialog_rand9"		: "光线变得越来越暗了，但是|C3|[VAL2]|C0|找到了个火把来照亮前路。",
+			"dialog_rand8"		: "看起来没有其他地方能去了。|!|然后你意外按下了一个按钮，打开了门！",
+			"dialog_rand9"		: "光线变得越来越暗了，但是|C3|[VAL2]|C0|找到了火把来照亮前路。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
@@ -408,11 +408,11 @@
 	"battle_mix1"		: "你被一群坏姑娘们袭击了！",
 	"battle_mix2"		: "坏女孩们跳出来准备攻击你！",
 	"battle_mites"		: "一群跳虫攻击了你！",
-	"battle_aviocs"		: "有一群眼魔！",
+	"battle_aviocs"		: "有一群眼蝠！",
 	"battle_stones"		: "你遇到了一群愤怒的心型石！",
 	"battle_dancers"	: "你被一群危险的舞者袭击了！",
-	"battle_nuggets"	: "你被一群僵尸大块头袭击了！",
-	"battle_slimes"		: "你被一大群史莱姆围起来了！",
+	"battle_nuggets"	: "你被一群僵尸袭击了！",
+	"battle_slimes"		: "你被一大群史莱姆包围了！",
 	"start_battle" 	: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
@@ -436,7 +436,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "小心！|C3|颜料史莱姆Paint Slimes|C0|很弱，但是它们能够让下一个敌人也进行一回合！！",
+			"dialog"			: "小心！|C3|颜料史莱姆|C0|很弱，但是它们能够让下一个敌人也进行一回合！！",
 		},
 	],
 	"start_battle_dancer" 	: [
@@ -582,7 +582,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_aggressive"],
-			"dialog"			: "她们在白天回到了地下城！",
+			"dialog"			: "她们在白天时回到了地下城！",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_sad"],
@@ -631,7 +631,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "|wave|那就是说你真的很喜欢我们的游戏。",
+			"dialog"			: "|wave|也就是说你真的很喜欢我们的游戏。",
 		},
 	],
 	"to_gift" 	: [
@@ -669,7 +669,7 @@
 	"to_last_gift" 		: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],
-			"dialog"			: "那一个是我的。",
+			"dialog"			: "那个是我的礼物。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
@@ -743,7 +743,7 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_happy"],
-			"dialog"			: "别担心。我们可以下次再把公主救下！",
+			"dialog"			: "别担心。我们可以下次再把公主救下来！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
@@ -756,13 +756,13 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "我的妹妹们怎么都这样？",
+			"dialog"			: "我的妹妹们怎么都这个样子？",
 		},
 	],
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "你看到我那部分了吗，就是-",
+			"dialog"			: "你看到我刚刚那部分了吗，就是-",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
@@ -770,11 +770,11 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_very_happy"],
-			"dialog"			: "耶！耶！我喜欢。",
+			"dialog"			: "耶！我喜欢。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "真的吗？我刚写的，不算什么的。",
+			"dialog"			: "真的吗？我刚写的，不算啥。",
 		},
 	],
 	"leave_default" : [

@@ -2,7 +2,7 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_confused"],
-			"dialog"			: "呃，我可以试个东西吗？",
+			"dialog"			: "啊，我可以尝试些什么吗？",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_surprised"],
@@ -47,7 +47,7 @@
 	},
 	"comment_take_stone"	: {
 		"character"	: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_blush"],
-		"dialog"	: "呃，那可不是相片。|L|我为你做了一个。",
+		"dialog"	: "呃，那可不是相片。|L|那是我为你做的。",
 	},
 	"comment_take_power_photo"	: {
 		"character"	: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_very_happy"],
@@ -191,16 +191,16 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_normal"],
-			"dialog"			: "Okay okay, now I get to keep a photo of you.",
+			"dialog"			: "好吧好吧，我现在想要一张你的照片。",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_normal"],
-			"dialog"			: "Three      |L|Two      |L|One",
+			"dialog"			: "三      |L|二      |L|一",
 		},
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
-			"dialog"			: "|wave|You are so pretty.",
+			"dialog"			: "|wave|你真美丽。",
 		},
 	],
 

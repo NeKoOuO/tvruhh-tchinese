@@ -6,7 +6,7 @@
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "吾可以增加你能收集的魔尘以及你的最高分数。",
+			"dialog"			: "吾能够增加可收集的魔尘以及你的最高分数。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
@@ -111,7 +111,7 @@
 	},
 	"comment_health_given"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "反正不需要那么多。",
+		"dialog"	: "反正你不需要那么多。",
 	},
 	"comment_cant_gifts"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
@@ -272,7 +272,7 @@
 			"random"			: 3,
 			"dialog_rand1"		: "如此美丽的分数。",
 			"dialog_rand2"		: "|wave|看看你拥有的这堆魔尘。",
-			"dialog_rand3"		: "每个魔尘都很重要。",
+			"dialog_rand3"		: "每粒魔尘都很重要。",
 		}
 	],
 	
@@ -403,7 +403,7 @@
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "吾能够改变你命运的许多方法中的一个。",
+			"dialog"			: "这是吾能够改变你命运的许多方法中的一个。",
 		},
 	],
 	"upgrade_bonuses_first" 	: [
@@ -478,7 +478,7 @@
 	},
 	"radiant_comment"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "|shake|如此庞大的力量！|norm||L|而你却拿着它仿若无物。",
+		"dialog"	: "|shake|如此庞大的力量！|norm||L|而你却拿着它，仿若无物。",
 	},
 	"upgrade_confirm"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],

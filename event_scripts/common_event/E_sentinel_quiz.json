@@ -88,8 +88,8 @@
 			"dialog"			: "[VAL1]",
 		}
 	],
-	"first_question" : "|C3|第一个问题：|C0| [VAL1]",
-	"next_question"  : "|C3|问题[VAL2]：|C0| [VAL1]",
+	"first_question" : "|C3|第一个问题:|C0|[VAL1]",
+	"next_question"  : "|C3|问题[VAL2]:|C0|[VAL1]",
 	
 	"default_correct_1"	: "这令本单元印象深刻。",
 	"default_correct_2"	: "你的记忆无可挑剔。",
@@ -107,7 +107,7 @@
 	
 	"correct_senti_1"	: "本单元因你对她如此了解而感到相当开心。",
 	"correct_senti_2"	: "只有真正的朋友才会对本单元了解到这种程度。",
-	"correct_senti_3"	: "你对本单元的了解令她的快乐值爆表。",
+	"correct_senti_3"	: "你对本单元的了解令她的快乐值超越计量。",
 	"wrong_sentinel"	: "本单元曾期待你对她有更多的记忆，但她已经原谅你了。",
 	"battle_sentinel"	: "与本单元的这场战斗最为酣畅，不是吗？",
 	"forgot_sentinel"	: "本单元如此容易被遗忘吗？",

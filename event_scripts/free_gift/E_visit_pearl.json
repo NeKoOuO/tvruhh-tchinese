@@ -2,7 +2,7 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
-			"dialog"			: "|C3|（一朵玻璃植物从她面前的地上钻出。）",
+			"dialog"			: "|C3|（一朵玻璃植物从她面前的地面上钻出。）",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
@@ -10,7 +10,7 @@
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
-			"dialog"			: "|C3|(当整个藤蔓完全升起时，一个熟悉的身影从地上钻出。）"
+			"dialog"			: "|C3|(当整个藤蔓完全升起时，一个熟悉的身影从其上出现。）"
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
@@ -92,7 +92,7 @@
 		},
 	],
 	
-	"monster_gifts"	: "Pearl's Gifts",
+	"monster_gifts"	: "珍珠的礼物",
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
@@ -134,7 +134,7 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "|wave|Eye see you！",
+			"dialog"			: "|wave|我的眼睛看到了你！",
 		},
 		{
 			"love_hearts"		: 1,

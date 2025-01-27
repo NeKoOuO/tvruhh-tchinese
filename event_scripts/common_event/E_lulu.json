@@ -24,7 +24,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现在会将数据编译成另一个|C3|恐惧感知|C0|礼物给你。",
+			"dialog"			: "本单元现在会将数据编译成另一个|C3|恐惧感知|C0|礼物送给你。",
 		},
 	],
 	
@@ -128,7 +128,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "不。我，恶魔，只有字面意义！",
+			"dialog"			: "不。我，恶魔，只会陈述事实！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -136,7 +136,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "不，我是说|wave|比喻性的|norm|字面意义。",
+			"dialog"			: "不，我是说|wave|比喻性的|norm|事实。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],

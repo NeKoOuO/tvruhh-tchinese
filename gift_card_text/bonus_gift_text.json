@@ -2,17 +2,17 @@
 	
 	"BNS_health_a" : {
 		"name"    : "小型治疗",
-		"memory"  : "似有怪物挠心百爪。|L|裂肺撕心残红少。|L|如抵此处无相邀，|L|难以见得何想要？|L|无故受此煎熬？",
+		"memory"  : "挠心百爪。|L|裂肺撕心残红少。|L|此处无相邀，|L|汝何想要？|L|无故煎熬？",
 		"card"    : "回复[VAL1]%生命",
 	},
 	"BNS_health_b" : {
 		"name"    : "半满治疗",
-		"memory"  : "【】我需要有人帮助我，|L|握住我的心让我来修复它，|L|并让怪物们远离我。|L|我将无恙。|L|我将无恙。",
+		"memory"  : "愿人助我，|L|修复之时与相望，|L|怪物离所相。|L|我将无恙。|L|我将无恙。",
 		"card"    : "回复[VAL1]%生命",
 	},
 	"BNS_health_c" : {
 		"name"    : "全满治疗",
-		"memory"  : "【】我可以为你提供这个拥抱，|L|在你修补你破碎的心之时。|L|我会让怪物们远离你。|L|你将无恙。|L|你将无恙。",
+		"memory"  : "吾愿相拥，|L|裂心相接小阑傍。|L|执手还惆怅。|L|你将无恙。|L|你将无恙。",
 		"card"    : "回复[VAL1]%生命",
 	},
 	"BNS_karma_a" : {
@@ -33,17 +33,17 @@
 	"BNS_damage_a" : {
 		"name"    : "过载之爱+",
 		"memory"  : "那个无翼的女孩似乎会爱一切。她爱那些花朵。她爱那些色彩。她爱这大雨。她甚至爱那些跳虫！我甚至要帮助她从树上下来，只因为她想要抚摸一只跳虫。",
-		"card"    : "总伤害+[VAL1]%",
+		"card"    : "整体伤害+[VAL1]%",
 	},
 	"BNS_damage_b" : {
 		"name"    : "过载之爱++",
 		"memory"  : "她告诉我她甚至会爱那些潜伏在下面的糟糕的怪物。我不知道怎么会有人爱那些东西！她说她只是想给它们一个拥抱。我告诉她如果她做出这种蠢事的话会让我心脏病突发的！",
-		"card"    : "总伤害+[VAL1]%",
+		"card"    : "整体伤害+[VAL1]%",
 	},
 	"BNS_damage_c" : {
 		"name"    : "过载之爱+++",
 		"memory"  : "她真的只是爱着一切，而...|L||L|我觉得我爱她。",
-		"card"    : "总伤害+[VAL1]%",
+		"card"    : "整体伤害+[VAL1]%",
 	},
 	"BNS_scribble" : {
 		"name"    : "草稿",
@@ -135,17 +135,17 @@
 	
 	"BNS_panic_a" : {
 		"name"    : "单个恐慌",
-		"memory"  : "There is just too much happening all at once.|L|I just need a moment,|L|For everything to silence,|L|For everything to back away,|L|Just a moment of peace.|L|Did I ask for too much?",
+		"memory"  : "一瞬千万共回想，|L|一刻喘息何思量。|L|一刹千言归百寂，|L|一寸万物犹未放，|L|一念半帆平风浪。|L|此一愿相请，过理过喻又何妨？",
 		"card"    : "+[VAL1]恐慌攻击",
 	},
 	"BNS_panic_b" : {
 		"name"    : "两个恐慌",
-		"memory"  : "I want it all to freeze.|L|Just give me a moment to breathe.|L|A temporary bubble to vent.|L|I will be okay.|L|I will be okay.",
+		"memory"  : "愿一切滞静如冰，|L|愿予我喘息一丈。|L|愿荫庇云满千嶂。|L|我将无恙。|L|我将无恙。",
 		"card"    : "+[VAL1]恐慌攻击",
 	},
 	"BNS_panic_c" : {
 		"name"    : "三个恐慌",
-		"memory"  : "Take a moment to breathe.|L|Take all the time you need.|L|I will be your bubble.|L|You will be okay.|L|You will be okay.",
+		"memory"  : "此一时嘘息如常。|L|此一刻如你所想。|L|此处我愿做你的屏障。|L|你将无恙。|L|你将无恙。",
 		"card"    : "+[VAL1]恐慌攻击",
 	},
 	"BNS_vial_a" : {
@@ -166,7 +166,7 @@
 	"BNS_glass_a" : {
 		"name"    : "玻璃之心",
 		"memory"  : "星川不小心撕下了她的一片花瓣。它变成了玻璃然后破碎了。我知道它们总会长回来，但她看起来像是心碎了一样。",
-		"card"    : "下次受击|L|伤害减半",
+		"card"    : "下次受到攻击|L|伤害减半",
 	},
 	"BNS_glass_b" : {
 		"name"    : "二重玻璃",
@@ -191,12 +191,12 @@
 	"BNS_undo" : {
 		"name"    : "撤销",
 		"memory"  : "那个不算！",
-		"card"    : "阻挡下一次受击",
+		"card"    : "阻挡下一次伤害",
 	},
 	"BNS_extra_undo" : {
 		"name"    : "额外撤销",
 		"memory"  : "我配不上第二次机会。",
-		"card"    : "阻挡后续[VAL1]次受击",
+		"card"    : "阻挡后续[VAL1]次伤害",
 	},
 	
 	

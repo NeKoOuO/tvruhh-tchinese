@@ -74,7 +74,7 @@
 	
 	"comment_starter"	: {
 		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-		"dialog"	: "则个礼物现在对你来说太重要了。",
+		"dialog"	: "则个礼物对你来说太重要了。",
 	},
 	"comment_link"	: {
 		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],
@@ -366,7 +366,7 @@
 	"come_back_ready" 		: [
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "好力！则些能让我们的|C3|连接突触|C0|保持开启到则一天结束。",
+			"dialog"			: "好耶！则些能让我们的|C3|连接突触|C0|保持开启到则一天结束。",
 		}
 	],
 	

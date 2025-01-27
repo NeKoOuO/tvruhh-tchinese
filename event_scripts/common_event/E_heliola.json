@@ -14,7 +14,7 @@
 			"dialog_rand1"		: "那我为你准备了一样东西！",
 			"dialog_rand2"		: "那么它会让你的一整天都明亮起来！",
 			"dialog_rand3"		: "那么让我在这阴雨天洒下光芒！",
-			"dialog_rand4"		: "我做了些东西，可能可以帮得上你！",
+			"dialog_rand4"		: "我做了些东西，可能会帮得上你！",
 		},
 	],
 	"intro_late" : [
@@ -152,12 +152,12 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_normal"],
-			"dialog"			: "I hope this can make your day a little brighter.",
+			"dialog"			: "我希望这能让你的今天更明亮一点。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_happy"],
-			"dialog"			: "|wave|I can't wait to see you again!",
+			"dialog"			: "|wave|真等不及再见到你了！",
 		},
 	],
 

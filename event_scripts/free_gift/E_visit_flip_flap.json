@@ -20,9 +20,9 @@
 			"fast_text"			: 0,
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_normal"],
 			"random"			: 3,
-			"dialog_rand1"		: "你的|C3|[纯粹之爱]|C0|已经影响到了这些单元。",
+			"dialog_rand1"		: "你的|C3|[纯粹爱恋]|C0|已经影响到了这些单元。",
 			"dialog_rand2"		: "你的爱已经占据了这些单元中的|C3|[纯粹恐惧]|C0|。",
-			"dialog_rand3"		: "|C3|[纯粹之爱]|C0|现在将这些单元维持在一起。",
+			"dialog_rand3"		: "|C3|[纯粹爱恋]|C0|现在将这些单元维持在一起。",
 		},
 		{
 			"fast_text"			: 1,
@@ -193,15 +193,15 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|Flip Flap.",
+			"dialog"			: "|wave|噼里啪啦。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|Flip Flap.",
+			"dialog"			: "|wave|噼里啪啦。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "These Units hope that our gifts are useful to you.",
+			"dialog"			: "这些单元希望我们的礼物对你有用。",
 		},
 	],
 

@@ -70,11 +70,11 @@
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
-		"dialog"	: "请带走其中一个吧。",
+		"dialog"	: "请收下其中一个吧。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_normal"],
-		"dialog"	: "要带走这个吗？",
+		"dialog"	: "要带走它吗？",
 	},
 	
 	"another_gift_1" 	: [
