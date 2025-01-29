@@ -368,7 +368,7 @@
 	"E_bond_molten" : {
 		"name"		: "和熔岩一起料理",
 		"hint"		: "[hint_chance]",
-		"details"	: "Coming Soon v8.19a",
+		"details"	: "熔融维目尔今天为我做了汤！但是她没有任何原料，所以我们要去找一些。我们还要确保她必须处在完美的温度来烹饪汤。不要太烫，也不要太冷！|L||L|我们找到的每|C3|5个原料|C0|都能被她用来做一锅汤。它们会给我的心随机的效果，但我喝完第三碗就喝不下了。",
 		"rule1"		: "[rule_bonding1]",
 		"rule2"		: "[rule_bonding2]",
 		"rule3"		: "[rule_bonding3]",

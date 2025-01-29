@@ -182,9 +182,15 @@
 	"craft_reserve_hp"		:	"+[VAL1]后备生命",
 	"craft_extra_mite"		:	"+[VAL1]跳虫帮手",
 	"craft_extra_magnet"	:	"+[VAL1]磁石帮手",
-	
+
+	"craft_radiant_hp"		:	"+[VAL1]光耀生命",
+	"craft_void_hp"			:	"+[VAL1]流血生命",
 	"craft_burn_hp"			:	"+[VAL1]燃烧生命",
+	"craft_zap_hp"			:	"+[VAL1]过载生命",
 	"craft_toxic_hp"		:	"+[VAL1]毒素生命",
+	"craft_bleed_heart"		:	"+[VAL1]流血之心",
+	"craft_stress_heart"	:	"+[VAL1]压力之心",
+	"craft_trauma_heart"	:	"+[VAL1]创伤之心",
 	
 	
 	"form_change_blank" 	: [
