@@ -38,6 +38,7 @@
 	
 	"op_picking"	: "检查树林里",
 	"op_jumping"	: "检查石头里",
+	"op_dodge"		: "检查树顶",
 	"op_return"		: "回去",
 	
 	"item_t0"		: "|I3||C16|简单原料|C0|",
@@ -575,7 +576,7 @@
 	"course_complete_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
-			"dialog"			: "我的妹妹又在飞来飞去，一点帮助都没有。",
+			"dialog"			: "我的妹妹又只是在飞来飞去，一点帮助都没有。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
@@ -737,6 +738,67 @@
 		},
 	],
 
+
+
+	
+	"to_dodge_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_angry"],
+			"dialog"			: "|shake|嘿！|norm|你能不能帮我在树冠里找一下，至少你现在在上面？ ",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_serious2"],
+			"dialog"			: "呃。   好吧！",
+		},
+	],
+	"comment_dodge_normal"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
+		"dialog"	: "小心那些|C3|松果！|C0|",
+	},
+	"comment_dodge_clear"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
+		"dialog"	: "你活下来了！",
+	},
+	"comment_dodge_hit"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
+		"dialog"	: "|shake|你没事吗？",
+	},
+	"dodge_win" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
+			"dialog"			: "你看！我挺有帮助的。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "那你能再多拿到一些吗？",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_despair"],
+			"dialog"			: "|shake|但是刚刚我已经干了许多活了。",
+		},
+	],
+	"dodge_lose" 		: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
+			"dialog"			: "|shake|你没事吗！？",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_pain"],
+			"dialog"			: "|shake|不，我快死了！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
+			"dialog"			: "|shake|哦不！",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "别相信她，她没事的。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "但她的帮助可能也到此为止了。",
+		},
+	],
 
 
 	"return_to_cave" 	: [
@@ -1032,8 +1094,44 @@
 	],
 	
 
-
 	"empty_soup"	: "清空大锅",
+	"basic_soup"			: "开水",
+	"soup_name_structure"	: "[VAL1] [VAL2] [NOUN] [SOUP]",
+	
+	"bdn_radiant_hp"	: "光耀的",
+	"bdn_burn_hp"		: "烧过头的",
+	"bdn_toxic_hp"		: "有毒的",
+	"bdn_bleed_heart"	: "满是荆棘的",
+	"bdn_trauma_heart"	: "糟糕的",
+	
+	"adj_radiant_res"	: "甜美",
+	"adj_void_res"		: "干硬",
+	"adj_burn_res"		: "火辣",
+	"adj_zap_res"		: "酸",
+	"adj_toxic_res"		: "奶油",
+	"adj_hp"			: "治愈",
+	"adj_max_hp"		: "丰盛",
+	"adj_max_en"		: "能量",
+	"adj_karma"			: "深情",
+	"adj_reserve_hp"	: "富营养",
+	"adj_glass_heart"	: "香脆",
+	"adj_chrome_heart"	: "闪亮",
+	
+	"noun_default"		: "蔬菜",
+	"noun_damage"		: "蘑菇",
+	"noun_crit_rate"	: "水果",
+	"noun_panic"		: "恐惧",
+	"noun_manic_panic"	: "糖果",
+	"noun_panic_polyp"	: "恐瘤",
+	"noun_revive"		: "拯救者",
+	"noun_denial"		: "护甲",
+	
+	"soup_1"			: "高汤",
+	"soup_2"			: "之汤",
+	"soup_3"			: "灵药",
+	"spec_mite"			: "跳虫诱饵",
+	"spec_magnet"		: "磁力合金",
+	
 	"leave_now"		: "现在离开",
 	"comment_soup_choosing_first"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
