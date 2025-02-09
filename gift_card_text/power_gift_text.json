@@ -130,7 +130,7 @@
 	},
 	"I_fear_sense" : {
 		"name"    : "感知恐惧",
-		"memory"  : "她们一直告诉我要惧怕怪物们。怪物们是邪恶的生物，一有机会就会杀了我们。但这让我意识到它们只是害怕我们。它们对于我们最基础的恐惧远远高于扎拉登的接受能力--而我们甚至不会体验到恐惧！ Their base level fear of us absolutely dwarfs a Zaraden's capacity to even experience fear!",
+		"memory"  : "她们一直告诉我要惧怕怪物们。怪物们是邪恶的生物，一有机会就会杀了我们。但这让我意识到它们只是害怕我们。它们对于我们最基础的恐惧远远高于扎拉登的接受能力--而我们甚至不会体验到恐惧！",
 		"card"    : "显示恐惧|L|展示一个额外怪物",
 	},
 	"I_plant_glyph" : {
@@ -427,7 +427,7 @@
 	},
 	"I_broken_glass" : {
 		"name"    : "破碎玻璃",
-		"memory"  : "入侵的想法。一个随机的事件Intrusive thoughts. A random occurrence will cause this glass to break suddenly. All of the pieces will come flying at me.",
+		"memory"  : "入侵的想法。一个随机的事件会让这块玻璃突然碎裂。所有碎片都会飞向我。",
 		"card"    : "恐慌伤害+[VAL1]|L|+[VAL2]恐慌",
 	},
 	"I_forest" : {

@@ -169,7 +169,7 @@
 		{
 			"character"			: ["VOICE_philolu", "CHAR_philolu_right", "MOOD_very_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "哇哦。,"
+			"dialog_rand1"		: "哇哦。",
 			"dialog_rand2"		: "甜心，那真是。",
 		},
 		{
