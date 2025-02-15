@@ -1,0 +1,67 @@
+{
+	"color_green"	: "绿色",
+	"color_red"		: "红色",
+	"color_yellow"	: "黄色",
+	"color_blue"	: "蓝色",
+	"color_orange"	: "橙色",
+	"color_purple"	: "紫色",
+	
+	"intro" : [
+		{
+			"center_text_x"		: 1,
+			"center_text_y"		: 0,
+			"text_x"			: 160,
+			"text_y"			: 48,
+			"text_w"			: 284,
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她的一个[VAL1]棱晶从她的心里跳了出来，向远方滚去。",
+		},
+		{
+			"dialog"			: "|C3|它不断向前滚动，而她在身后追寻。",
+		},
+		{
+			"dialog"			: "|C3|它在一个奇怪机器的底部停下了。",
+		},
+	],
+	
+	"ask_q1"		: "她要怎么处理这个棱晶呢？",
+	"ask1_a"		: "放进机器里（-1棱晶）",
+	"ask1_b"		: "收回它",
+
+	"ask_q2"		: "她会带走这个礼物吗？",
+	"ask2_a"		: "收下礼物",
+	"ask2_b"		: "留下礼物（+[VAL1]因果）",
+	
+	"feed_tetrid" : [
+		{
+			"dialog"			: "|C3|机器在数秒内发出了许多的光与声音。",
+		},
+	],
+	"keep_tetrid" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她把棱晶放回了她的心里。",
+		},
+	],
+	
+	"after_card" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|然后在机器的侧面开了一扇小门，里面有一个礼物。",
+		},
+	],
+	
+	"take_gift" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她选择收下礼物。",
+		},
+	],
+	"leave_gift" : [
+		{
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|她选择将礼物留在那里。",
+		},
+	],
+	
+}

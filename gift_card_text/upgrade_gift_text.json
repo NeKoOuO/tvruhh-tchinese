@@ -202,6 +202,16 @@
 		"card"    : "升级光耀花园",
 		"effect"  : "点亮的彩虹花瓣会使得光耀花园能够升级。",
 	},
+	"U_vault_key" : {
+		"name"    : "宝库钥匙",
+		"memory1" : "(Coming Soon v9)",
+		"memory2" : "(Coming Soon v9)",
+		"memory3" : "(Coming Soon v9)",
+		"memory4" : "(Coming Soon v9)",
+		"memory5" : "(Coming Soon v9)",
+		"card"    : "升级垃圾宝库",
+		"effect"  : "点亮的宝库钥匙能够使得垃圾宝库被升级。",
+	},
 	"U_dream_petal" : {
 		"name"    : "梦境花瓣",
 		"memory1" : "(Coming Soon v9)",

@@ -1,0 +1,433 @@
+{
+	"intro" : [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "恭喜你，你找到了垃圾宝库，之类的。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "我们把所有的垃圾放在这里。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "我应该在哪...",
+		},
+	],
+	
+	"gift_list_title"	: "垃圾宝库礼物",
+	"vault_level"		: "宝库等级[VAL1]",
+	"vault_keys"		: "点亮的宝库钥匙",
+	
+	"op_vaults"		: "垃圾宝库",
+	"op_upgrade"	: "升级",
+	"op_ask1"		: "你是谁？",
+	"op_ask2"		: "继续聊天",
+	"op_leave"		: "离开",
+	
+	"op_vault1"		: "宝库A",
+	"op_vault2"		: "宝库B",
+	"op_vault3"		: "宝库C",
+	
+	"comment_vault_open"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "你可以从这个宝库中带走恰好一件东西，之类的。",
+	},
+	"comment_vault_closed"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "这个宝库就是，已经完全关闭了。",
+	},
+	
+	"comment_vaults"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "你可以带走一些垃圾之类的。",
+	},
+	"comment_all_closed"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "今天所有的宝库就都关闭了，之类的。",
+	},
+	"comment_upgrades"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "你真的想要更好的垃圾宝库？就是，为什么？",
+	},
+	"comment_max_level"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "真不敢相信你把垃圾宝库完全优化了，之类的。",
+	},
+	"comment_misc"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "你想要什么？",
+	},
+	"leave_confirm"		: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "我们是说就，结束了？",
+	},
+	
+	
+	
+	"ask1_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "另一个全息影像？|L|你的名字是什么？",
+		},
+	],
+	"ask1_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "呃，你是谁？",
+		},
+	],
+	"ask1_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
+			"dialog"			: "我们认识你吗？",
+		},
+	],
+	"ask1_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
+			"dialog"			: "你看起来很眼熟。你之前有见过恶魔吗？",
+		},
+	],
+	"ask1_response" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "听着，所有这些信息就是都预先录制的。可能一大堆年以前了。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "我仅能回应就是，一部分指令，之类的。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "我知道你刚刚绝对问了我是谁，但就是，谁在乎呢？",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "拿上东西走人，好吗？",
+		},
+	],
+	
+	
+	
+	"ask2_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "我在乎你。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious2"],
+			"dialog"			: "她可能没能理解。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "哦，我明白的。|L|我只是不想谈论它。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
+			"dialog"			: "哦，那好吧。",
+		},
+	],
+	"ask2_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "请允许我试着问一个问题。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "你知道所有维目尔中最美丽的是谁吗？",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "|C3|错误:检测到未知材料。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
+			"dialog"			: "那是什么意思？",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "意思是我不知道这玩意是什么，好吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "她只是无法计算出我有多么完美。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "有许多这样的情况。",
+		},
+	],
+	"ask2_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_upset"],
+			"dialog"			: "嘿！别对我姐姐这么没礼貌！",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_angry"],
+			"dialog"			: "|shake|她想要的只有阳光以及所有人的爱！",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "但是，你却在这里，和剩下的所有垃圾一起。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_angry"],
+			"dialog"			: "|shake|我要杀了你！",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "我就是，现在完全不在这里。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "我可能已经是一堆废料，躺在我自己的垃圾宝库里了。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_sad2"],
+			"dialog"			: "小绿，就别管她了。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_serious2"],
+			"dialog"			: "那不是她。",
+		},
+	],
+	"ask2_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_angry"],
+			"dialog"			: "你有什么毛病？",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "无所谓。我不想与恶魔谈论此事。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
+			"dialog"			: "如果这些信息是预先录制的，那你怎么知道我的事情的呢？",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "我们就是想了一大堆所有的可能性，好吗？",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "预言说过了，之类的。|!||L|这是你想要的答案吗？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "|shake|但是怎么做到的？",
+		},
+	],
+	"ask2_response" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "无所谓...",
+		},
+	],
+	
+	
+	
+	"comment_take_normal"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "你完全可以带走那个垃圾，如果你想要的话。",
+	},
+	"comment_take_unknown"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "这个垃圾就是，完全无法认知。",
+	},
+	"comment_quick_limit"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "你带不下那么多。",
+	},
+	"take_confirm"		: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "你真的想要那玩意？",
+	},
+	
+	"gift_taken" 	: [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"random"			: 4,
+			"dialog_rand1"		: "好吧，如果你这样说的话。",
+			"dialog_rand2"		: "把它挑出来干得不错，之类的。",
+			"dialog_rand3"		: "这不是我会选的，但无所谓。",
+			"dialog_rand4"		: "你就是，真的很擅长挑选垃圾。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "这个宝库现在已经关闭了。",
+			"dialog_rand2"		: "我现在要关闭这个宝库。",
+			"dialog_rand3"		: "你从这个宝库中只能带走这么多了。",
+		},
+	],
+	
+	
+	
+	"comment_upgrade_vault_0"		: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "我可以就是，打开这个宝库，如果你想让我这样做的话。",
+	},
+	"comment_upgrade_vault_1"		: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "这个宝库可以存放|C3|1个垃圾|C0|，但我猜它可以再存放一个，之类的。",
+	},
+	"comment_upgrade_vault"			: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "这个宝库有空间存放|C3|[VAL1]个垃圾|C0|，但我猜我可以再腾出空间存放一个，之类的。",
+	},
+	"comment_upgrade_vault_maxed"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "|C3|[VAL1]个垃圾|C0|就是，这个宝库所能承载的全部了。",
+	},
+	"comment_upgrade_fail"			: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "你绝对需要找到更多|C3|高塔钥匙|C0|才能这样做。别问我它们在哪。",
+	},
+	
+	"green_comment"		: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "呃...",
+	},
+	"red_comment"		: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "无所谓...",
+	},
+	"yellow_comment"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "我猜...",
+	},
+	"blue_comment"		: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "我不喜欢这些。",
+	},
+	"orange_comment"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "好吧...",
+	},
+	"purple_comment"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "|C3|错误:缺失反应。|C0|",
+	},
+	"radiant_comment"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "这些就是，对这些垃圾而言太过好了。",
+	},
+	"upgrade_confirm"	: {
+		"character"	: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+		"dialog"	: "你真的想要浪费这些？",
+	},
+	
+	"upgrade_vault_first" 	: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "希望你开心，之类的。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "因为我为你打开了另一个垃圾宝库。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "并且它，实际上也是空的。",
+		}
+	],
+	"upgrade_vault" 		: [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "太棒了。就是，这个宝库有更多空间存放垃圾了。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "我绝对会确保你下次来的时候这里是满的。",
+		},
+	],
+	
+	
+	
+	"leave_default" : [
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "呃，我就是，完全等不及你下次拜访垃圾宝库了，之类的。",
+		},
+	],
+	"leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "我爱你。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "在这段语句录制时听到它一定会觉得完全很棒，但无所谓了。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "你可能只是在测试系统和垃圾之类的。我也不在乎。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "...但是谢谢，我就是，也爱你，之类的。",
+		},
+	],
+	"leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
+			"dialog"			: "在我看来这里没一样东西像是垃圾。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "请将对垃圾的赞誉留给就是，专业人员与垃圾。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
+			"dialog"			: "我觉得我还挺擅长的。",
+		},
+	],
+	"leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_upset"],
+			"dialog"			: "你应该别再这么没礼貌。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "无所谓。就是，你听到这条消息时我可能已经不再没礼貌了。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "或许我会就是，完全因为这个全息影像的行为而感到尴尬，之类的。",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "你又不是我的母亲。",
+		},
+	],
+	"leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"random"			: 4,
+			"dialog_rand1"		: "哦等下，你这里有录过玻璃收获的歌吗？",
+			"dialog_rand2"		: "哦等下，你这里有录过无尽爆炸的歌吗？",
+			"dialog_rand3"		: "哦等下，你这里有录过核子雨伞的歌吗？",
+			"dialog_rand4"		: "哦等下，你这里有录过终极女巫的歌吗？",
+		},
+		{
+			"character"			: ["VOICE_null_bot", "CHAR_null_holo_right", "MOOD_normal"],
+			"dialog"			: "我绝对有，但我就是，把它们全删了。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
+			"dialog"			: "你... 但是... 什么？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
+			"dialog"			: "这些信息真的是预先录制的吗？",
+		},
+	],
+
+}

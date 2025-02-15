@@ -582,7 +582,48 @@
 	],
 
 	
-	
+	"max_mood_end" 	: [
+		{
+			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
+			"dialog"			: "你猜怎样？我觉得这真的很棒。",
+		},
+		{
+			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
+			"dialog"			: "我觉得我今天已经练习得足够了。",
+		},
+		{
+			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
+			"dialog"			: "我们先停在这里吧。",
+		},
+	],
+	"max_mood_end_twins" 	: [
+		{
+			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
+			"dialog"			: "你猜怎样？我感觉真的很棒，并且觉得今天已经练习得足够了。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
+			"dialog"			: "你让她的好感度涨满了，阳光。",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "|wave|是时候去你的下一场约会了！",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
+			"dialog"			: "|shake|别听她瞎说！",
+		},
+		{
+			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
+			"dialog"			: "没，听起来就是这样。|L||!|我确实觉得心满意足！",
+		},
+	],
+	"max_mood_to_gift" 	: [
+		{
+			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_very_happy"],
+			"dialog"			: "但在你离开之前，我有些礼物要给你！",
+		},
+	],
 	
 	"times_up_blank"	: "bonding_time/bonding_common_text",
 	"times_up_defect"	: "bonding_time/bonding_common_text",
