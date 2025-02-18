@@ -17,8 +17,8 @@
 	"pupil_shape2"	: "|C3|圆圈瞳孔|C0|",
 	"pupil_shape3"	: "|C3|方块瞳孔|C0|",
 	
-	"pet_name_structure"	: "[VAL1] [VAL2] [VAL3] [VAL4]",
-	"scrap_name_structure"	: "[VAL1] [VAL2] [VAL3]",
+	"pet_name_structure"	: "[PREFIX] [MOD] [PET] [SUFFIX]",
+
 	
 	"t1_pet1"	: "摸摸",
 	"t1_pet2"	: "拍拍",
@@ -82,6 +82,8 @@
 	"t3_suffix2"	: "豪华",
 	"t3_suffix3"	: "特别",
 	
+	
+	"scrap_name_structure"	: "[PREFIX] [ADJ] [SCRAP]",
 	"t1_scrap1"	: 	"废料",
 	"t1_scrap2"	:	"废块",
 	"t1_scrap3"	:	"结块",

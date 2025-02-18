@@ -1096,7 +1096,7 @@
 
 	"empty_soup"	: "清空大锅",
 	"basic_soup"			: "开水",
-	"soup_name_structure"	: "[VAL1] [VAL2] [NOUN] [SOUP]",
+	"soup_name_structure"	: "[ADJ1] [ADJ2] [NOUN] [SOUP]",
 	
 	"bdn_radiant_hp"	: "光耀的",
 	"bdn_burn_hp"		: "烧过头的",
@@ -1116,6 +1116,13 @@
 	"adj_reserve_hp"	: "富营养",
 	"adj_glass_heart"	: "香脆",
 	"adj_chrome_heart"	: "闪亮",
+	"adj_damage"		: "伟大",
+	"adj_crit_rate"		: "暴击",
+	"adj_panic"			: "吓人",
+	"adj_manic_panic"	: "恐怖",
+	"adj_panic_polyp"	: "模糊",
+	"adj_revive"		: "新鲜",
+	"adj_denial"		: "硬的",
 	
 	"noun_default"		: "蔬菜",
 	"noun_damage"		: "蘑菇",
