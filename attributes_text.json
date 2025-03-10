@@ -111,6 +111,7 @@
 		"damage_bonus" 	: "整体伤害",
 		"crit_radius" 	: "暴击范围",
 		"crit_time" 	: "暴击时间",
+		"element_overload"  : "元素过载",
 	},
 	"ATTR_DESC_main" : {
 		"max_hp"   		: "[NAME]有着|C3|[VAL1]/[VAL2]生命。",
@@ -123,6 +124,7 @@
 		"damage_minus"  : "所有[NAME]的攻击会造成|C4|[VAL1]%更高伤害。|C0||L|所有显示的伤害数值都包含这一变动。",
 		"crit_radius"	: "当任何|C7|暴击子弹|C0|命中时，它会创造一个范围为|C3|[VAL1]像素的|C7|暴击泡泡|C0|",
 		"crit_time"		: "|C7|暴击泡泡|C0|会在|C3|[VAL1]秒|C0|内造成伤害。 ",
+		"element_overload"	: "所有[NAME]的子弹与恐慌会变为|EC[VAL1]|[TYPE[VAL1]]攻击。|C0||L|任何已经属于该元素的攻击类型会增加10%的伤害。",
 	},
 	 
 	"ATTR_NAMES_effect" : {
@@ -183,6 +185,7 @@
 		"screen_mirror"  	: "镜像之梦",
 		"screen_flip"  		: "翻转之梦",
 		"danger_bubbles"  	: "危险泡泡",
+		"wrath_battles"  	: "狂怒怪物",
 	},
 	"ATTR_DESC_effect" : {
 		"karma_bonus"		: "[NAME]每场战斗后会|C6|获得[VAL1]额外因果|C0|。",
@@ -250,8 +253,9 @@
 		"screen_mirror"  	: "|C4|[NAME]的梦境被水平翻转了。",
 		"screen_flip"  		: "|C4|[NAME]的梦境被垂直反转了。",
 		"danger_bubbles"  	: "|C4|全域攻击仅会在[NAME]位于黄色安全泡泡内时伤害她。",
+		"wrath_battles"  	: "|C4|所有怪物都会使用全域攻击，且创造出黄色安全泡泡。",
 	},
-	 
+	
 	"ATTR_NAMES_panic" : {
 		"damage_raw"  	: "伤害",
 		"radius" 		: "范围",

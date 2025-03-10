@@ -1,5 +1,9 @@
 {
 	
+	"normal_event_card"		: "事件",
+	"choose_event_card"		: "选择",
+	"stage_event_card"		: "特殊关卡",
+	
 	"encounter_rules"	: "遭遇规则",
 	"records_title"		: "事件记录",
 	
@@ -9,6 +13,7 @@
 	
 	"common_hints" : {
 		"[hint_common]"			: "这个事件可以在任意章节后发生",
+		"[hint_stage_common]"	: "这个事件可以在任何普通关卡中发生",
 		"[hint_monster]"		: "在单局故事模式中\n向[VAL1]展示爱",
 		"[hint_monster_multi]"	: "在单局故事模式中\n向[VAL1]的任意形态展示爱",
 		"[hint_chance]"			: "在单局故事模式中\n向[VAL1]展示爱后，\n这个事件有概率发生",
@@ -27,6 +32,7 @@
 		"[rule_token_shop]"		: "每局游戏|C3|仅能遭遇1个代币商店事件。|C0|如果你已经遭遇另一个类似事件，这个事件将不会再发生。",
 		"[rule_skip_one]"		: "在|C3|[VAL1]|C0|的任意形态被爱过后，这个事件会在下一场战斗后发生。",
 		"[rule_come_back]"		: "如果[VAL1]被给予棱晶，她会在成功完成的一局结束时归来。",
+		"[rule_one_tetrid]"		: "你必须至少有任意一种基础颜色的一个棱晶。",
 		"[rule_visit]"			: "在|C3|[VAL1]|C0|被爱过后，这个事件有概率在任意章节之间发生。",
 		"[rule_visit_multi]"	: "在|C3|[VAL1]|C0|的任意形态被爱过后，这个事件有概率在任意章节之间发生。",
 		"[rule_free1]"			: "每局游戏|C3|仅能遭遇1个免费礼物事件。|C0|其全部遵循|C3|\"无人的礼物\"|C0|这一事件的规则。",
@@ -45,6 +51,9 @@
 		"[rule_tower_vault1]"	: "遭遇这个事件的概率会随着当前怪物的基础等级增加。",
 		"[rule_tower_vault2]"	: "每局游戏|C3|仅能遭遇1个棱晶宝库事件。|C0|",
 		"[rule_tower_vault3]"	: "这种类型的每个事件被选中的概率均相等。",
+		"[rule_stage1]"			: "|C3|关卡事件|C0|可以在任意关卡中发生，除了每章节的第一个关卡。",
+		"[rule_stage2]"			: "|C3|多个独特的关卡事件|C0|可以在同一局游戏内出现，但仅会出现在不同的章节中。",
+		"[rule_bounty_limit]"	: "|C4|如果你在本局中已经通过馈赠礼物获得了过多的魔尘，这个事件将不会出现。",
 	},
 
 	"event_groups" : {
@@ -67,6 +76,9 @@
 		"group_treasure"	: "宝藏事件",
 		"found_treasure"	: "发现的宝藏事件",
 		"rad_treasure"		: "点亮的宝藏事件",
+		"group_stage"		: "关卡事件",
+		"found_stage"		: "发现的关卡事件",
+		"rad_stage"			: "点亮的关卡事件",
 		"group_special"		: "特别事件",
 		"found_special"		: "发现的特别事件",
 		"rad_special"		: "点亮的特别事件",
@@ -91,7 +103,7 @@
 		"rule2"		: "[rule_karma]",
 		"rule3"		: "每个失败的礼物挑战都会大幅增加发生概率。",
 		"rule4"		: "你必须尚未拥有|C3|心型钥匙|C0|礼物。",
-		"rule5"		: "你必须至少有任意基础颜色的1个棱晶。",
+		"rule5"		: "[rule_one_tetrid]",
 	},
 	"E_convert_tetrids" : {
 		"name"		: "光耀花园",
@@ -152,6 +164,28 @@
 		"rule2"		: "她会在1至5场战斗后任意时刻归来。",
 		"rule3"		: "在一局游戏至少4只怪物被爱过之前，她不会归来。",
 		"rule4"		: "如果下一场战斗是最终战斗，她将立刻开始问答。",
+	},
+	
+	
+	
+	
+	"E_stage_bounty" : {
+		"name"		: "魔尘馈赠",
+		"hint"		: "[hint_stage_common]",
+		"details"	: "我发现了一群怪物，她们全都为我带来了馈赠礼物与棱晶！|L||L|我注意到了我每天能够找到的额外魔尘有着一个上限。|C3|额外礼物与馈赠礼物有个各自的上限。|C0|如果我已经找到了许多这样的礼物，怪物们将不会再给出它们。对于馈赠礼物而言，如果当天的雨下的很大，那么上限似乎会更高一些。 ",
+		"rule1"		: "[rule_stage1]",
+		"rule2"		: "[rule_stage2]",
+		"rule3"		: "[rule_karma]",
+		"rule4"		: "[rule_bounty_limit]",
+	},
+	"E_stage_wrath" : {
+		"name"		: "狂怒怪物",
+		"hint"		: "[hint_stage_common]",
+		"details"	: "有一群怪物看起来似乎比平时要更生气！在我们的梦境中，她们都会使用|C3|全域攻击，|C0|即使这并非她们通常的攻击方式。她们比平时要更难对付，但我还是一如既往的设法使她们冷静了下来。",
+		"rule1"		: "[rule_stage1]",
+		"rule2"		: "[rule_stage2]",
+		"rule3"		: "[rule_karma]",
+		"rule4"		: "[rule_bounty_limit]",
 	},
 	
 	
@@ -501,12 +535,13 @@
 	
 	
 	"E_tower_free" : {
-		"name"		: "礼物发电机",
+		"name"		: "礼物发生器",
 		"hint"		: "[hint_tower]",
 		"details"	: "我的一个棱晶将我引向了高塔中一个奇怪的机器。我将棱晶放入了机器侧面上的一个小小的三角形凹槽中。它开始发出一大堆噪音。上面开始四处闪光。我开始有点担心了，但一切突然就停止了。|L||L|一扇可爱的小门在侧边开启了。里面有一个|C3|力量礼物！|C0|",
 		"rule1"		: "[rule_tower_chapter]",
 		"rule2"		: "[rule_karma]",
 		"rule3"		: "你拥有每个的|C3|力量礼物|C0|都会使得遭遇这个事件的概率下降。",
+		"rule4"		: "[rule_one_tetrid]",
 	},
 	"E_tower_vault" : {
 		"name"		: "高塔宝库",

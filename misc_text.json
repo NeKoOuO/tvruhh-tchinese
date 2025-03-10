@@ -29,8 +29,6 @@
 	"special_card"		: "特殊章节",
 	"extra_card"		: "额外章节",
 	"final_card"		: "最终章节",
-	"event_card"		: "事件",
-	"choose_card"		: "选择",
 	"cycle_card"		: "循环 [VAL1]",
 	"stage_card"		: "关卡 [VAL1]",
 	"bounty_card"		: "这个奖励礼物是为你准备的",
@@ -40,6 +38,9 @@
 	"very_long_time"	: "[VAL1] 分钟",
 	"abbrev_num_k"		: "[VAL1]K",
 	"abbrev_num_m"		: "[VAL1]M",
+	
+	"wrath_tag"			: "狂怒",
+	"repel_tag"			: "驱逐",
 	
 	"green_tet"			: "绿",
 	"red_tet"			: "红",

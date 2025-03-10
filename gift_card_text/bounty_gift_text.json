@@ -191,5 +191,37 @@
 		"memory"  : "我脑海中想的只有她了！啊啊！我到底怎么了？",
 		"card"    : "专注时无法移动|L|魔尘分数+[VAL2]%",
 	},
-	
+
+
+
+	"BNT_wrath_a" : {
+		"name"    : "狂怒碎片",
+		"memory"  : "(Coming Soon v8.21a)",
+		"card"    : "狂怒战斗！|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_wrath_b" : {
+		"name"    : "狂怒组块",
+		"memory"  : "(Coming Soon v8.21a)",
+		"card"    : "狂怒战斗！|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_wrath_c" : {
+		"name"    : "狂怒之球",
+		"memory"  : "(Coming Soon v8.21a)",
+		"card"    : "狂怒战斗！|L|魔尘分数+[VAL2]%",
+	},
+	"BNT_repel_a" : {
+		"name"    : "驱逐碎片",
+		"memory"  : "(Coming Soon v8.21a)",
+		"card"    : "离开安全泡泡！|L|魔尘分数+[VAL3]%",
+	},
+	"BNT_repel_b" : {
+		"name"    : "驱逐组块",
+		"memory"  : "(Coming Soon v8.21a)",
+		"card"    : "离开安全泡泡！|L|魔尘分数+[VAL3]%",
+	},
+	"BNT_repel_c" : {
+		"name"    : "驱逐之球",
+		"memory"  : "(Coming Soon v8.21a)",
+		"card"    : "离开安全泡泡！|L|魔尘分数+[VAL3]%",
+	},
 }
