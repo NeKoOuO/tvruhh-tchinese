@@ -2,179 +2,179 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她遇到了一个开启的连接突触。",
+			"dialog"			: "|C3|她遇到了一個開啟的連接突觸。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她注意到了里面存有礼物。|L|礼物位于她触手可及的地方。",
+			"dialog"			: "|C3|她注意到了裡面存有禮物。|L|禮物位於她觸手可及的地方。",
 		}
 	],
 	
-	"list_title"	: "连接突触",
+	"list_title"	: "連接突觸",
 
-	"op_take1"		: "带走一个礼物",
-	"op_take2"		: "带走另一个礼物",
-	"op_take3"		: "带走第三个礼物",
-	"op_take4"		: "带走第四个礼物",
-	"op_leave"		: "离开",
+	"op_take1"		: "帶走一個禮物",
+	"op_take2"		: "帶走另一個禮物",
+	"op_take3"		: "帶走第三個禮物",
+	"op_take4"		: "帶走第四個禮物",
+	"op_leave"		: "離開",
 	
 	"take_text1"		: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|这些礼物是被某对特别的晃晃姐妹送到这来的。",
+		"dialog"	: "|C3|這些禮物是被某對特別的晃晃姐妹送到這來的。",
 	},
 	"take_text2"		: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|她还可以从连接突触中带走另一个礼物",
+		"dialog"	: "|C3|她還可以從連接突觸中帶走另一個禮物",
 	},
 	"take_text3"		: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|在连接突触关闭之后，明天之前，她只能够再带走一个礼物。",
+		"dialog"	: "|C3|在連接突觸關閉之後，明天之前，她只能夠再帶走一個禮物。",
 	},
 	"leave_text"		: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|任何被留在连接突触中的礼物明天还会在这里。",
+		"dialog"	: "|C3|任何被留在連接突觸中的禮物明天還會在這裡。",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|她现在要离开吗？",
+		"dialog"	: "|C3|她現在要離開嗎？",
 	},
 	
 	"comment_scrambla"	: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|这个礼物上有一个圆形的咬痕。|L|她记得这是蛋花的标志。",
+		"dialog"	: "|C3|這個禮物上有一個圓形的咬痕。|L|她記得這是蛋花的標誌。",
 	},
 	"comment_boiler"	: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|这个礼物上有着几处焦痕。|L|她认出这是锅炉的标记。",
+		"dialog"	: "|C3|這個禮物上有著幾處焦痕。|L|她認出這是鍋爐的標記。",
 	},
 	"comment_inactive"	: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|这个礼物的效果适用于一种未启用的子弹类型，但如果愿意的话，她还是可以将其带走",
+		"dialog"	: "|C3|這個禮物的效果適用於一種未啟用的子彈類型，但如果願意的話，她還是可以將其帶走",
 	},
 	"comment_no_multi"	: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|这份礼物的多份复制将没有额外的效果，但如果愿意的话，她还是可以将其带走。",
+		"dialog"	: "|C3|這份禮物的多份複製將沒有額外的效果，但如果願意的話，她還是可以將其帶走。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-		"dialog"	: "|C3|她会带走这份礼物吗？",
+		"dialog"	: "|C3|她會帶走這份禮物嗎？",
 	},
 	
 	"gift_taken_first" 		: [
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她把这个礼物从连接突触中取了出来。",
+			"dialog"			: "|C3|她把這個禮物從連接突觸中取了出來。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
 			"random"			: 8,
-			"dialog_rand1"		: "|C3|上面有一点点口水。",
-			"dialog_rand2"		: "|C3|有一颗牙齿卡在上面。",
-			"dialog_rand3"		: "|C3|它还是温的。",
-			"dialog_rand4"		: "|C3|上面有着薄荷的清香。",
-			"dialog_rand5"		: "|C3|礼物的角有一些折痕，但几乎注意不到。",
-			"dialog_rand6"		: "|C3|背面粘了一朵被吃了一半的花。",
-			"dialog_rand7"		: "|C3|背面有一张字条，上面写着\"我们爱你！\"",
-			"dialog_rand8"		: "|C3|她突然有了一阵温暖的的感觉。就如同她刚刚被拥抱了一般。"
+			"dialog_rand1"		: "|C3|上面有一點點口水。",
+			"dialog_rand2"		: "|C3|有一顆牙齒卡在上面。",
+			"dialog_rand3"		: "|C3|它還是溫的。",
+			"dialog_rand4"		: "|C3|上面有著薄荷的清香。",
+			"dialog_rand5"		: "|C3|禮物的角有一些摺痕，但幾乎注意不到。",
+			"dialog_rand6"		: "|C3|背面黏了一朵被吃了一半的花。",
+			"dialog_rand7"		: "|C3|背面有一張字條，上面寫著\"我們愛你！\"",
+			"dialog_rand8"		: "|C3|她突然有了一陣溫暖的的感覺。就如同她剛剛被擁抱了一般。"
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|连接突触开始关闭了，但她还能够到里面。",
+			"dialog"			: "|C3|連接突觸開始關閉了，但她還能夠到裡面。",
 		}
 	],
 	"gift_taken_mid" 		: [
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她把这个礼物从连接突触中取了出来。",
+			"dialog"			: "|C3|她把這個禮物從連接突觸中取了出來。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
 			"random"			: 8,
-			"dialog_rand1"		: "|C3|上面有一点点口水。",
-			"dialog_rand2"		: "|C3|有一颗牙齿卡在上面。",
-			"dialog_rand3"		: "|C3|它还是温的。",
-			"dialog_rand4"		: "|C3|上面有着薄荷的清香。",
-			"dialog_rand5"		: "|C3|礼物的角有一些折痕，但几乎注意不到。",
-			"dialog_rand6"		: "|C3|背面粘了一朵被吃了一半的花。",
-			"dialog_rand7"		: "|C3|背面有一张字条，上面写着\"我们爱你！\"",
-			"dialog_rand8"		: "|C3|她突然有了一阵温暖的的感觉。就如同她刚刚被拥抱了一般。"
+			"dialog_rand1"		: "|C3|上面有一點點口水。",
+			"dialog_rand2"		: "|C3|有一顆牙齒卡在上面。",
+			"dialog_rand3"		: "|C3|它還是溫的。",
+			"dialog_rand4"		: "|C3|上面有著薄荷的清香。",
+			"dialog_rand5"		: "|C3|禮物的角有一些摺痕，但幾乎注意不到。",
+			"dialog_rand6"		: "|C3|背面黏了一朵被吃了一半的花。",
+			"dialog_rand7"		: "|C3|背面有一張字條，上面寫著\"我們愛你！\"",
+			"dialog_rand8"		: "|C3|她突然有了一陣溫暖的的感覺。就如同她剛剛被擁抱了一般。"
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|连接突触再次收缩，但她还是能够到里面。",
+			"dialog"			: "|C3|連接突觸再次收縮，但她還是能夠到裡面。",
 		}
 	],
 	"gift_taken_final" 		: [
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她把这个礼物从连接突触中取了出来。",
+			"dialog"			: "|C3|她把這個禮物從連接突觸中取了出來。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
 			"random"			: 8,
-			"dialog_rand1"		: "|C3|上面有一点点口水。",
-			"dialog_rand2"		: "|C3|有一颗牙齿卡在上面。",
-			"dialog_rand3"		: "|C3|它还是温的。",
-			"dialog_rand4"		: "|C3|上面有着薄荷的清香。",
-			"dialog_rand5"		: "|C3|礼物的角有一些折痕，但几乎注意不到。",
-			"dialog_rand6"		: "|C3|背面粘了一朵被吃了一半的花。",
-			"dialog_rand7"		: "|C3|背面有一张字条，上面写着\"我们爱你！\"",
-			"dialog_rand8"		: "|C3|她突然有了一阵温暖的的感觉。就如同她刚刚被拥抱了一般。"
+			"dialog_rand1"		: "|C3|上面有一點點口水。",
+			"dialog_rand2"		: "|C3|有一顆牙齒卡在上面。",
+			"dialog_rand3"		: "|C3|它還是溫的。",
+			"dialog_rand4"		: "|C3|上面有著薄荷的清香。",
+			"dialog_rand5"		: "|C3|禮物的角有一些摺痕，但幾乎注意不到。",
+			"dialog_rand6"		: "|C3|背面黏了一朵被吃了一半的花。",
+			"dialog_rand7"		: "|C3|背面有一張字條，上面寫著\"我們愛你！\"",
+			"dialog_rand8"		: "|C3|她突然有了一陣溫暖的的感覺。就如同她剛剛被擁抱了一般。"
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|突触完全闭合了。|L||!|它在明天之前不会再次开启。",
+			"dialog"			: "|C3|突觸完全閉合了。|L||!|它在明天之前不會再次開啟。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她离开寻找去爱的怪物们。",
+			"dialog"			: "|C3|她離開尋找去愛的怪物們。",
 		}
 	],
 	"gift_taken_single" 	: [
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她把这个礼物取了出来，而连接突触完全关闭了。",
+			"dialog"			: "|C3|她把這個禮物取了出來，而連接突觸完全關閉了。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|看起来在坍塌之前只有一个礼物能够被取出来。",
+			"dialog"			: "|C3|看起來在坍塌之前只有一個禮物能夠被取出來。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|或许未来有办法能让突触开启更长时间。",
+			"dialog"			: "|C3|或許未來有辦法能讓突觸開啟更長時間。",
 		}
 	],
 	"synapse_empty" 		: [
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她把最后一个剩下的礼物从突触中取了出来。",
+			"dialog"			: "|C3|她把最後一個剩下的禮物從突觸中取了出來。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
 			"random"			: 8,
-			"dialog_rand1"		: "|C3|里面唯一剩下的东西只有一堆蛋花的牙齿，以及一张字条，上面写着\"不要碰！\"",
-			"dialog_rand2"		: "|C3|里面唯一剩下的东西只有一张烧焦的纸，以及一张字条，上面写着\"不要玩火。\"",
-			"dialog_rand3"		: "|C3|里面唯一剩下的东西只有沾满口水的一束花，里面一半都有咬痕。",
-			"dialog_rand4"		: "|C3|里面唯一剩下的东西是一片完全烤焦的吐司。表面完全是黑色的。",
-			"dialog_rand5"		: "|C3|里面唯一剩下的东西只有一块被吃了一半的聚苯乙烯。",
-			"dialog_rand6"		: "|C3|里面唯一剩下的东西是一把被吃了一半的伞。它无法发挥应有的作用了。",
-			"dialog_rand7"		: "|C3|里面唯一剩下的东西是一束花，同样在着火。",
-			"dialog_rand8"		: "|C3|里面唯一剩下的东西是一板吃了一半的绿肥皂。",
+			"dialog_rand1"		: "|C3|裡面唯一剩下的東西只有一堆蛋花的牙齒，以及一張字條，上面寫著\"不要碰！\"",
+			"dialog_rand2"		: "|C3|裡面唯一剩下的東西只有一張燒焦的紙，以及一張字條，上面寫著\"不要玩火。\"",
+			"dialog_rand3"		: "|C3|裡面唯一剩下的東西只有沾滿口水的一束花，裡面一半都有咬痕。",
+			"dialog_rand4"		: "|C3|裡面唯一剩下的東西是一片完全烤焦的吐司。表面完全是黑色的。",
+			"dialog_rand5"		: "|C3|裡面唯一剩下的東西只有一塊被吃了一半的聚苯乙烯。",
+			"dialog_rand6"		: "|C3|裡面唯一剩下的東西是一把被吃了一半的傘。它無法發揮應有的作用了。",
+			"dialog_rand7"		: "|C3|裡面唯一剩下的東西是一束花，同樣在著火。",
+			"dialog_rand8"		: "|C3|裡面唯一剩下的東西是一板吃了一半的綠肥皂。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她决定不再管它。",
+			"dialog"			: "|C3|她決定不再管它。",
 		},
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她离开寻找去爱的怪物们。",
+			"dialog"			: "|C3|她離開尋找去愛的怪物們。",
 		}
 	],
 	
 	"leaving" 	: [
 		{
 			"character"			: ["VOICE_default", "CHAR_center", "MOOD_normal"],
-			"dialog"			: "|C3|她离开寻找去爱的怪物们。",
+			"dialog"			: "|C3|她離開尋找去愛的怪物們。",
 		}
 	],
 

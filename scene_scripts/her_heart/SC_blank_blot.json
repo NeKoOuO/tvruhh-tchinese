@@ -9,7 +9,7 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "我们很对不起。",
+			"dialog"			: "我們很對不起。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
@@ -17,24 +17,24 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
-			"dialog"			: "我们很害怕。",
+			"dialog"			: "我們很害怕。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious"],
-			"dialog"			: "告诉我一件事。",
+			"dialog"			: "告訴我一件事。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious2"],
-			"dialog"			: "你们怎么能-",
+			"dialog"			: "你們怎麼能-",
 		},
 		{
 			"play_music"		: "green_scene_music",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|shake|长得这么好看？",
+			"dialog"			: "|shake|長得這麼好看？",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
-			"dialog"			: "我们--",
+			"dialog"			: "我們--",
 		},
 		{
 			"love_hearts"		: 1,
@@ -43,43 +43,43 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "小可爱！",
+			"dialog"			: "小可愛！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "我们现在简直要融化成一滩颜料了！",
+			"dialog"			: "我們現在簡直要融化成一灘顏料了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "没时间这样做了。",
+			"dialog"			: "沒時間這樣做了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "我现在就想要去看你们的艺术展！",
+			"dialog"			: "我現在就想要去看你們的藝術展！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "哦对！|!||L|离这里没多远，小可爱。",
+			"dialog"			: "哦對！|!||L|離這裡沒多遠，小可愛。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "那里的艺术品都是你们制作的吗？",
+			"dialog"			: "那裡的藝術品都是你們製作的嗎？",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
-			"dialog"			: "我们画了其中的一些，但不知为何我们也在地上找到了很多被揉成一团的画作。",
+			"dialog"			: "我們畫了其中的一些，但不知為何我們也在地上找到了很多被揉成一團的畫作。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-			"dialog"			: "你也喜欢绘画，是吧小可爱？",
+			"dialog"			: "你也喜歡繪畫，是吧小可愛？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
-			"dialog"			: "呃...当然了。",
+			"dialog"			: "呃...當然了。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "我们绝对还有空间来展示一些你的作品的，小可爱！",
+			"dialog"			: "我們絕對還有空間來展示一些你的作品的，小可愛！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
@@ -88,19 +88,19 @@
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "怎么了，小可爱？",
+			"dialog"			: "怎麼了，小可愛？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
-			"dialog"			: "只是...|!||L|你一直叫我小可爱然后--",
+			"dialog"			: "只是...|!||L|你一直叫我小可愛然後--",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
-			"dialog"			: "哦！|!||L|我们很对不起，小--|!||L|哎呀。",
+			"dialog"			: "哦！|!||L|我們很對不起，小--|!||L|哎呀。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
-			"dialog"			: "你不喜欢吗？",
+			"dialog"			: "你不喜歡嗎？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
@@ -108,36 +108,36 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
-			"dialog"			: "你真的认为我很可爱吗？",
+			"dialog"			: "你真的認為我很可愛嗎？",
 		},
 		{
 			"play_music"		: "scene_music_b",
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
-			"dialog"			: "小可爱...",
+			"dialog"			: "小可愛...",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
-			"dialog"			: "你刚刚花了几分钟向我们展示了爱值得被接受的。",
+			"dialog"			: "你剛剛花了幾分鐘向我們展示了愛值得被接受的。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
-			"dialog"			: "即使这是我们做过的最吓人的事情。",
+			"dialog"			: "即使這是我們做過的最嚇人的事情。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
-			"dialog"			: "我们实际见到了你的灵魂之内是什么样的。",
+			"dialog"			: "我們實際見到了你的靈魂之內是什麼樣的。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_shocked"],
-			"dialog"			: "你知道这是我们所见过最美丽的吗？",
+			"dialog"			: "你知道這是我們所見過最美麗的嗎？",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_angry"],
-			"dialog"			: "你远超可爱！",
+			"dialog"			: "你遠超可愛！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "所以，请让我们也来爱你好吗，小可爱？",
+			"dialog"			: "所以，請讓我們也來愛你好嗎，小可愛？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
@@ -145,32 +145,32 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
-			"dialog"			: "你可以叫我小可爱。",
+			"dialog"			: "你可以叫我小可愛。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|小可爱！",
+			"dialog"			: "|wave|小可愛！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "你看！我们快到了。",
+			"dialog"			: "你看！我們快到了。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "我们很高兴为你展示--",
+			"dialog"			: "我們很高興為你展示--",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],
-			"dialog"			: "对了，墨点。",
+			"dialog"			: "對了，墨點。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry3"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "我们爱你，小可爱！",
+			"dialog"			: "我們愛你，小可愛！",
 		},
 	]
 }

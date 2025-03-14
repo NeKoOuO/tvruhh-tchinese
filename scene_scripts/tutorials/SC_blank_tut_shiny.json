@@ -5,97 +5,97 @@
 			"play_music"	: "tutorbot_scene_music",
 			"bg_image"		: "spr_tutorial_common",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元有重要的信息，必须打断你现在的梦境程序。",
+			"dialog"		: "本單元有重要的資訊，必須打斷你現在的夢境程序。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元现将解释|C3|闪亮战斗|C0|的独特规则。",
+			"dialog"		: "本單元現將解釋|C3|閃亮戰鬥|C0|的獨特規則。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|闪亮战斗|C0|总会对战一位你已经爱过的怪物。",
+			"dialog"		: "|C3|閃亮戰鬥|C0|總會對戰一位你已經愛過的怪物。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "正因如此，你的攻击将无法减少该怪物的|C3|恐惧|C0|。",
+			"dialog"		: "正因如此，你的攻擊將無法減少該怪物的|C3|恐懼|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "相对应的，你的存在就能够使怪物的|C3|恐惧|C0|随时间消失。",
+			"dialog"		: "相對應的，你的存在就能夠使怪物的|C3|恐懼|C0|隨時間消失。",
 		},
 		{
 			"show_tutorial"	: "love_bar_partial",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "在闪亮战斗中，你的攻击能够填充怪物的|C3|爱之量表|C0|。",
+			"dialog"		: "在閃亮戰鬥中，你的攻擊能夠填充怪物的|C3|愛之量表|C0|。",
 		},
 		{
 			"show_tutorial"	: "love_bar_full",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "当|C3|爱之量表|C0|已满时，怪物就会攻击你。",
+			"dialog"		: "當|C3|愛之量表|C0|已滿時，怪物就會攻擊你。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元感知到了你的疑惑，为什么你会想要怪物攻击你？",
+			"dialog"		: "本單元感知到了你的疑惑，為什麼你會想要怪物攻擊你？",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "这是因为在闪亮战斗中，怪物们会使用|C3|珍宝子弹|C0|攻击你。",
+			"dialog"		: "這是因為在閃亮戰鬥中，怪物們會使用|C3|珍寶子彈|C0|攻擊你。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|珍宝子弹|C0|不会伤害你，并且其中还含有|C3|魔尘|C0|。",
+			"dialog"		: "|C3|珍寶子彈|C0|不會傷害你，並且其中還含有|C3|魔塵|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|建议:|C0|让你的心接触到尽可能多的|C3|珍宝子弹|C0|以提取这些魔尘。",
-		},
-		{
-			"show_tutorial"	: "love_bar_full",
-			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "在怪物进行这段攻击时，|C3|恐惧|C0|也会停止流逝。",
+			"dialog"		: "|C3|建議:|C0|讓你的心接觸到盡可能多的|C3|珍寶子彈|C0|以提取這些魔塵。",
 		},
 		{
 			"show_tutorial"	: "love_bar_full",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "这将会延长战斗，从而让你能够有更多时间收集魔尘。",
+			"dialog"		: "在怪物進行這段攻擊時，|C3|恐懼|C0|也會停止流逝。",
+		},
+		{
+			"show_tutorial"	: "love_bar_full",
+			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
+			"dialog"		: "這將會延長戰鬥，從而讓你能夠有更多時間收集魔塵。",
 		},
 		{
 			"show_tutorial"	: "love_bar_empty",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "当怪物的攻击结束时，|C3|爱之量表|C0|会被清空，而|C3|恐惧|C0|也会继续开始流逝。",
+			"dialog"		: "當怪物的攻擊結束時，|C3|愛之量表|C0|會被清空，而|C3|恐懼|C0|也會繼續開始流逝。",
 		},
 		{
 			"show_tutorial"	: "love_bar_partial",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "每进行一次攻击，|C3|爱之量表|C0|都会需要更多的爱才能够填满。",
+			"dialog"		: "每進行一次攻擊，|C3|愛之量表|C0|都會需要更多的愛才能夠填滿。",
 		},
 		{
 			"show_tutorial"	: "combo_bar6",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "最后还有一件需要注意的事情，|C3|闪亮怪物|C0|会和|C3|羞涩怪物|C0|有着一样的连击维持机制。",
+			"dialog"		: "最後還有一件需要注意的事情，|C3|閃亮怪物|C0|會和|C3|羞澀怪物|C0|有著一樣的連擊維持機制。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "也就是说，仅当|C3|带有魔尘的小怪|C0|离开战斗区域时你的连击才会结束。",
+			"dialog"		: "也就是說，僅當|C3|帶有魔塵的小怪|C0|離開戰鬥區域時你的連擊才會結束。",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "这些就是关于|C3|闪亮战斗|C0|本单元为你准备的全部信息。",
+			"dialog"		: "這些就是關於|C3|閃亮戰鬥|C0|本單元為你準備的全部資訊。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "在这场|C3|闪亮战斗|C0|中，本单元将祝你好运。",
+			"dialog"		: "在這場|C3|閃亮戰鬥|C0|中，本單元將祝你好運。",
 		},
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "本单元感觉到温度突然上升。",
+			"dialog"		: "本單元感覺到溫度突然上升。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "这位扎拉登无边无际的爱是否无法逃离？",
+			"dialog"		: "這位扎拉登無邊無際的愛是否無法逃離？",
 		}
 	]
 }

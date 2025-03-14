@@ -7,86 +7,86 @@
 			"text_y"			: 80,
 			"text_w"			: 284,
 			"voice"				: "VOICE_default",
-			"dialog"			: "|C3|她发现了一个满是光耀花朵的花园。",
+			"dialog"			: "|C3|她發現了一個滿是光耀花朵的花園。",
 		},
 		{
-			"dialog"			: "|C3|她的棱晶被吸引向了这些花朵。",
+			"dialog"			: "|C3|她的稜晶被吸引向了這些花朵。",
 		},
 	],
 	
-	"op_radiate"	: "点亮棱晶",
-	"op_extract"	: "提取棱晶",
-	"op_gifts"		: "花园礼物",
-	"op_upgrade"	: "升级",
-	"op_leave"		: "离开",
+	"op_radiate"	: "點亮稜晶",
+	"op_extract"	: "提取稜晶",
+	"op_gifts"		: "花園禮物",
+	"op_upgrade"	: "升級",
+	"op_leave"		: "離開",
 	
-	"text_radiate"	: "花园能够将最多每种[VAL1]个棱晶转化为光耀魔尘",
-	"ask_radiate"	: "将这些棱晶转化为光耀魔尘？",
+	"text_radiate"	: "花園能夠將最多每種[VAL1]個稜晶轉化為光耀魔塵",
+	"ask_radiate"	: "將這些稜晶轉化為光耀魔塵？",
 	
-	"text_extract"	: "花园可以从一个光耀棱晶中提取任意颜色的魔尘",
-	"ask_extract"	: "从一个光耀棱晶中提取这些魔尘？",
+	"text_extract"	: "花園可以從一個光耀稜晶中提取任意顏色的魔塵",
+	"ask_extract"	: "從一個光耀稜晶中提取這些魔塵？",
 	
-	"list_title"	: "选择一个礼物",
-	"gift_cost"		: "花费",
-	"ask_buy"		: "使用这些棱晶交换这个礼物？",
+	"list_title"	: "選擇一個禮物",
+	"gift_cost"		: "花費",
+	"ask_buy"		: "使用這些稜晶交換這個禮物？",
 	
-	"garden_level"		: "花园等级[VAL1]",
-	"rainbow_petals"	: "点亮的彩虹花瓣",
+	"garden_level"		: "花園等級[VAL1]",
+	"rainbow_petals"	: "點亮的彩虹花瓣",
 	
-	"op_garden_radiate"	: "点亮比率",
+	"op_garden_radiate"	: "點亮比率",
 	"op_garden_extract"	: "提取比率",
-	"op_garden_bonus"	: "花园礼物",
-	"op_garden_overpay"	: "过度滋养",
+	"op_garden_bonus"	: "花園禮物",
+	"op_garden_overpay"	: "過度滋養",
 	
-	"current_radiate_rate"  : "花园可以将每批棱晶转化为[VAL1]光耀魔尘",
-	"upgrade_radiate_rate"  : "升级花园以将此增加为每批棱晶[VAL1]光耀魔尘",
-	"current_extract_rate"  : "花园可以将一个光耀棱晶转化为[VAL1]其他颜色魔尘",
-	"upgrade_extract_rate"  : "升级花园以将此增加为每个光耀棱晶棱晶[VAL1]魔尘",
-	"none_garden_gifts" 	: "升级花园以获得使用棱晶创造一个礼物的能力",
-	"first_garden_gifts" 	: "花园可以使用棱晶创造一个礼物",
-	"current_garden_gifts"  : "每次来访时花园有着[VAL1]个礼物可供选择",
-	"upgrade_garden_gifts"  : "升级花园以使得每次来访时花园有着[VAL1]个礼物可选",
-	"overpay_inactive" 		: "升级以使得花园能够在交换礼物时接受额外的棱晶以填充花园祝福进度。",
-	"overpay_active" 		: "花园能够在交换礼物时接受额外的棱晶以填充花园祝福进度。",
-	"upgrade_fail_one"  	: "你必须拥有1个点亮的彩虹花瓣才能升级！",
-	"upgrade_fail"    		: "你必须点亮[VAL1]个彩虹花瓣才能升级！",
+	"current_radiate_rate"  : "花園可以將每批稜晶轉化為[VAL1]光耀魔塵",
+	"upgrade_radiate_rate"  : "升級花園以將此增加為每批稜晶[VAL1]光耀魔塵",
+	"current_extract_rate"  : "花園可以將一個光耀稜晶轉化為[VAL1]其他顏色魔塵",
+	"upgrade_extract_rate"  : "升級花園以將此增加為每個光耀稜晶稜晶[VAL1]魔塵",
+	"none_garden_gifts" 	: "升級花園以獲得使用稜晶創造一個禮物的能力",
+	"first_garden_gifts" 	: "花園可以使用稜晶創造一個禮物",
+	"current_garden_gifts"  : "每次來訪時花園有著[VAL1]個禮物可供選擇",
+	"upgrade_garden_gifts"  : "升級花園以使得每次來訪時花園有著[VAL1]個禮物可選",
+	"overpay_inactive" 		: "升級以使得花園能夠在交換禮物時接受額外的稜晶以填充花園祝福進度。",
+	"overpay_active" 		: "花園能夠在交換禮物時接受額外的稜晶以填充花園祝福進度。",
+	"upgrade_fail_one"  	: "你必須擁有1個點亮的彩虹花瓣才能升級！",
+	"upgrade_fail"    		: "你必須點亮[VAL1]個彩虹花瓣才能升級！",
 	
-	"upgrade_normal" 	  : "花园需要[VAL1]个棱晶以完成此次升级",
-	"upgrade_radiant_one" : "花园需要1个光耀棱晶以完成此次升级",
-	"upgrade_radiant" 	  : "花园需要[VAL1]个光耀棱晶以完成此次升级",
-	"ask_upgrade"		  : "使用这些棱晶升级花园？",
+	"upgrade_normal" 	  : "花園需要[VAL1]個稜晶以完成此次升級",
+	"upgrade_radiant_one" : "花園需要1個光耀稜晶以完成此次升級",
+	"upgrade_radiant" 	  : "花園需要[VAL1]個光耀稜晶以完成此次升級",
+	"ask_upgrade"		  : "使用這些稜晶升級花園？",
 	
-	"bless_title"	: "花园祝福",
-	"ask_blessing"	: "她会接受花园的祝福吗？",
+	"bless_title"	: "花園祝福",
+	"ask_blessing"	: "她會接受花園的祝福嗎？",
 	"op_accept"		: "接受祝福",
 	
 	"gift_received" : [
 		{
-			"dialog"			: "|C3|她从花园里得到了一个礼物。",
+			"dialog"			: "|C3|她從花園裡得到了一個禮物。",
 		},
 	],
 	
 	"upgrade_complete" : [
 		{
-			"dialog"			: "|C3|花园的力量增长了。",
+			"dialog"			: "|C3|花園的力量增長了。",
 		},
 	],
 	
 	"ask_for_blessing" : [
 		{
-			"dialog"			: "|C3|花园想要给予另一个祝福。",
+			"dialog"			: "|C3|花園想要給予另一個祝福。",
 		},
 	],
 	
 	"accept_blessing" : [
 		{
-			"dialog"			: "|C3|她接受了花园的祝福。",
+			"dialog"			: "|C3|她接受了花園的祝福。",
 		},
 	],
 	
 	"leaving" : [
 		{
-			"dialog"			: "|C3|她离开了花园。",
+			"dialog"			: "|C3|她離開了花園。",
 		},
 	],
 }

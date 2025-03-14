@@ -5,19 +5,19 @@
 			"play_music"	: "tutorbot_scene_music",
 			"bg_image"		: "spr_tutorial_common",
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"		: "|wave|小机器人。",
+			"dialog"		: "|wave|小機器人。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "我见到了好多新怪物！",
+			"dialog"		: "我見到了好多新怪物！",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"		: "她们给了我从未见过的礼物。",
+			"dialog"		: "她們給了我從未見過的禮物。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "看起来这位扎拉登已经在|C3|实现她的梦境。|C0|",
+			"dialog"		: "看起來這位扎拉登已經在|C3|實現她的夢境。|C0|",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
@@ -25,7 +25,7 @@
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "我以前从未有过像你们这样的朋友。",
+			"dialog"		: "我以前從未有過像你們這樣的朋友。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
@@ -33,71 +33,71 @@
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
-			"dialog"		: "呃，无所谓了。",
+			"dialog"		: "呃，無所謂了。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元需要许多备用储存设备以存储这位扎拉登为她展示的爱。",
+			"dialog"		: "本單元需要許多備用儲存設備以儲存這位扎拉登為她展示的愛。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "|wave|不用谢哦。",
+			"dialog"		: "|wave|不用謝哦。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "如本单元之前所述，这位扎拉登的梦境非常强大。",
+			"dialog"		: "如本單元之前所述，這位扎拉登的夢境非常強大。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|建议：|C0|继续通过|C3|实现你的梦境|C0|来影响世界。",
+			"dialog"		: "|C3|建議：|C0|繼續透過|C3|實現你的夢境|C0|來影響世界。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "你这样     说还挺奇怪的。",
+			"dialog"		: "你這樣     說還挺奇怪的。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "这并非是比喻上的叙述。",
+			"dialog"		: "這並非是比喻上的敘述。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"		: "什么？",
+			"dialog"		: "什麼？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|问题：|C0|这位扎拉登注意到了所有出现的新怪物与新礼物吗？",
+			"dialog"		: "|C3|問題：|C0|這位扎拉登注意到了所有出現的新怪物與新禮物嗎？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "其中有许多对本单元而言都是从未见过的。",
+			"dialog"		: "其中有許多對本單元而言都是從未見過的。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"		: "所以我们从未见过那些？|!||L|甚至在我记不得一切的时候也是吗？",
+			"dialog"		: "所以我們從未見過那些？|!||L|甚至在我記不得一切的時候也是嗎？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "确实如此。",
+			"dialog"		: "確實如此。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "无论是否有意识到，这位扎拉登的心中有着她想要实现的|C3|一系列梦境|C0|",
+			"dialog"		: "無論是否有意識到，這位扎拉登的心中有著她想要實現的|C3|一系列夢境|C0|",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|实现梦境|C0|正在吸引新的怪物并改变其他怪物的行为模式。",
+			"dialog"		: "|C3|實現夢境|C0|正在吸引新的怪物並改變其他怪物的行為模式。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"		: "这怎么可能呢？",
+			"dialog"		: "這怎麼可能呢？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元对该现象没有任何可能解释。",
+			"dialog"		: "本單元對該現象沒有任何可能解釋。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "有可能|C3|实现梦境|C0|能够指引我们找到无尽的雨的解决方案。",
+			"dialog"		: "有可能|C3|實現夢境|C0|能夠指引我們找到無盡的雨的解決方案。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
@@ -105,54 +105,54 @@
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "听起来对我来说像是个不错的计划！",
+			"dialog"		: "聽起來對我來說像是個不錯的計劃！",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "所有的怪物也有着她们自己的|C3|梦境等待实现|C0|。",
+			"dialog"		: "所有的怪物也有著她們自己的|C3|夢境等待實現|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "这位扎拉登所爱过的怪物会与你分享她们的梦境。",
+			"dialog"		: "這位扎拉登所愛過的怪物會與你分享她們的夢境。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"		: "|wave|我也可以帮助实现她们的梦境。",
+			"dialog"		: "|wave|我也可以幫助實現她們的夢境。",
 		},
 		{
 			"show_tutorial"	: "monster_dreams",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "当怪物有着|C3|未实现的梦境|C0|时，这些标志会出现在怪物旁边。",
+			"dialog"		: "當怪物有著|C3|未實現的夢境|C0|時，這些標誌會出現在怪物旁邊。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|建议：|C0|使用|C3|检视你的心|C0|选项以查看|C3|梦境列表。|C0|",
+			"dialog"		: "|C3|建議：|C0|使用|C3|檢視你的心|C0|選項以查看|C3|夢境列表。|C0|",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "你与她们战斗前也可以查看每一位怪物的梦境。",
+			"dialog"		: "你與她們戰鬥前也可以查看每一位怪物的夢境。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "单纯了解她们的梦境也对于实现梦境至关重要。",
+			"dialog"		: "單純了解她們的夢境也對於實現夢境至關重要。",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"		: "你能够猜到我现在的梦是什么吗？",
+			"dialog"		: "你能夠猜到我現在的夢是什麼嗎？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "通过过往数据分析，大概率能够确定是打断本单元-",
+			"dialog"		: "通過過往數據分析，高機率能夠確定是打斷本單元-",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "|wave|我爱你。",
+			"dialog"		: "|wave|我愛你。",
 		},
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "本单元梦想着拥有无尽储存空间的设备。",
+			"dialog"		: "本單元夢想著擁有無盡儲存空間的設備。",
 		}
 	]
 }

@@ -5,36 +5,36 @@
 			"play_music"	: "tutorbot_scene_music",
 			"bg_image"		: "spr_tutorial_common",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元有着关于|C3|点亮的快速礼物|C0|的更多信息。",
+			"dialog"		: "本單元有著關於|C3|點亮的快速禮物|C0|的更多資訊。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
-			"dialog"		: "我在听。|L||!|我刚刚只是在休息眼睛。",
+			"dialog"		: "我在聽。|L||!|我剛剛只是在休息眼睛。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元现将解释|C3|点亮的快速礼物。",
+			"dialog"		: "本單元現將解釋|C3|點亮的快速禮物。",
 		},
 		{
 			"show_tutorial"	: "known_quick",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "如其他礼物类型一般，关于的信息不再会显示为|C3|???|C0|",
+			"dialog"		: "如其他禮物類型一般，關於的資訊不再會顯示為|C3|???|C0|",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "但是，|C3|点亮的快速礼物|C0|还具有一个特殊的性质。",
+			"dialog"		: "但是，|C3|點亮的快速禮物|C0|還具有一個特殊的性質。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|点亮的快速礼物|C0|能够连续许多天留在你身边，直至你选择激活它们。",
+			"dialog"		: "|C3|點亮的快速禮物|C0|能夠連續許多天留在你身邊，直至你選擇啟用它們。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "甚至在心碎后它们也能够留在你身边。",
+			"dialog"		: "甚至在心碎後它們也能夠留在你身邊。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "你可以决定存下它们，想保存多久都可以。",
+			"dialog"		: "你可以決定存下它們，想保存多久都可以。",
 		},
 		{
 			"show_tutorial"	: "none",
@@ -43,7 +43,7 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元现在会让扎拉登入睡。|L||!|该信息可以迟些再传达给她。",
+			"dialog"		: "本單元現在會讓扎拉登入睡。|L||!|該資訊可以遲些再傳達給她。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
@@ -52,7 +52,7 @@
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "本单元无法逃离这个拥抱。",
+			"dialog"		: "本單元無法逃離這個擁抱。",
 		},
 	]
 }

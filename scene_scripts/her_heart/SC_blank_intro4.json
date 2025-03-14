@@ -9,13 +9,13 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"voice"				: "VOICE_static",
-			"dialog"			: "请不要放弃！",
+			"dialog"			: "請不要放棄！",
 		},
 		{
-			"dialog"			: "事情会越来越艰难，但我知道你能做到的！",
+			"dialog"			: "事情會越來越艱難，但我知道你能做到的！",
 		},
 		{
-			"dialog"			: "请，     不要放弃。",
+			"dialog"			: "請，     不要放棄。",
 		},
 		{
 			"center_text_x"		: 1,
@@ -26,7 +26,7 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_blank_intro_wake_up1",
 			"voice"				: "VOICE_blank",
-			"dialog"			: "我不会的！",
+			"dialog"			: "我不會的！",
 		},
 		{
 			"transition_type"	: 1,
@@ -34,7 +34,7 @@
 			"dialog"			: ". . .",
 		},
 		{
-			"dialog"			: "外面天还黑着。",
+			"dialog"			: "外面天還黑著。",
 		},
 		{
 			"transition_type"	: 0,
@@ -48,7 +48,7 @@
 			"dialog"			: "今天又在下雨。",
 		},
 		{
-			"dialog"			: "小机器人错了。",
+			"dialog"			: "小機器人錯了。",
 		},
 		{
 			"dialog"			: ". . .",
@@ -62,51 +62,51 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元定位到了年幼的扎拉登。|L|她并非位于平常的位置。",
+			"dialog"			: "本單元定位到了年幼的扎拉登。|L|她並非位於平常的位置。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元即将激活恐慌模式。",
+			"dialog"			: "本單元即將啟用恐慌模式。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry2"],
-			"dialog"			: "今天还在下雨。",
+			"dialog"			: "今天還在下雨。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "你说过雨会停的。",
+			"dialog"			: "你說過雨會停的。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|更新:|C0|本单元计算出了正确的降雨概率。然而，她同样发现了一个异常现象。",
+			"dialog"			: "|C3|更新:|C0|本單元計算出了正確的降雨機率。然而，她同樣發現了一個異常現象。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本日昼夜循环开始约4小时后，本单元计算到降雨概率从0.01%突然跃升至100%。",
+			"dialog"			: "本日晝夜循環開始約4小時後，本單元計算到降雨機率從0.01%突然躍升至100%。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "现有环境读数表示明日降雨概率为0.01%。",
+			"dialog"			: "現有環境讀數表示明日降雨機率為0.01%。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|假说:|C0|降雨事件正被未知力量操控。",
+			"dialog"			: "|C3|假說:|C0|降雨事件正被未知力量操控。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry2"],
-			"dialog"			: "所以雨本来是要停的，   但是有什么东西让它继续下了？",
+			"dialog"			: "所以雨本來是要停的，   但是有什麼東西讓它繼續下了？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "而这种事情每天都在发生？",
+			"dialog"			: "而這種事情每天都在發生？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这是本单元认为的合理假说。",
+			"dialog"			: "這是本單元認為的合理假說。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_despair_cry"],
-			"dialog"			: "那么就没有希望了？|L||!|大雨永远不会停歇？",
+			"dialog"			: "那麼就沒有希望了？|L||!|大雨永遠不會停歇？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -114,11 +114,11 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "那我为什么还要再出去？|L|她们明天也会忘记我的。",
+			"dialog"			: "那我為什麼還要再出去？|L|她們明天也會忘記我的。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "大雨可能与怪物的记忆缺失有关。",
+			"dialog"			: "大雨可能與怪物的記憶缺失有關。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
@@ -126,31 +126,31 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "没关系的。|L||!|我们什么都做不到。",
+			"dialog"			: "沒關係的。|L||!|我們什麼都做不到。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元在140天内均遇见过这位扎拉登。她在这些天内放弃的总次数恰好为0。",
+			"dialog"			: "本單元在140天內均遇見過這位扎拉登。她在這些天內放棄的總次數恰好為0。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "但我记不得-",
+			"dialog"			: "但我記不得-",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "年幼的扎拉登已经克服了失忆状况。怪物们也存在克服本状况的可能性。",
+			"dialog"			: "年幼的扎拉登已經克服了失憶狀況。怪物們也存在克服本狀況的可能性。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "有可能年幼的扎拉登仍能够帮助那些怪物们。",
+			"dialog"			: "有可能年幼的扎拉登仍能夠幫助那些怪物們。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这位年幼的扎拉登现在拥有从先前尝试中保留知识的优势。",
+			"dialog"			: "這位年幼的扎拉登現在擁有從先前嘗試中保留知識的優勢。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元坚信我们能够找到大雨的起因。",
+			"dialog"			: "本單元堅信我們能夠找到大雨的起因。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
@@ -158,39 +158,39 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],
-			"dialog"			: "我们能做到的。",
+			"dialog"			: "我們能做到的。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised_cry"],
-			"dialog"			: "我在想我为何突然能够保留自己的记忆。",
+			"dialog"			: "我在想我為何突然能夠保留自己的記憶。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "对于此现象，本单元未保有相关数据。",
+			"dialog"			: "對於此現象，本單元未保有相關數據。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "但是，本单元确实注意到，相较于之前任何一天，年幼的扎拉登的心中闪耀着更多的光芒。",
+			"dialog"			: "但是，本單元確實注意到，相較於之前任何一天，年幼的扎拉登的心中閃耀著更多的光芒。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "而这种光芒持续到了之后的每一天。",
+			"dialog"			: "而這種光芒持續到了之後的每一天。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "它确实感觉更温暖了。|L|甚至比大雨之前还要温暖。",
+			"dialog"			: "它確實感覺更溫暖了。|L|甚至比大雨之前還要溫暖。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "小机器人-",
+			"dialog"			: "小機器人-",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "你每天都会教我如何使用我的爱之力量，即便你深知我会不断忘记？",
+			"dialog"			: "你每天都會教我如何使用我的愛之力量，即便你深知我會不斷忘記？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "没错。",
+			"dialog"			: "沒錯。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
@@ -198,16 +198,16 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "我也不能对怪物们放弃！",
+			"dialog"			: "我也不能對怪物們放棄！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "扎拉登感觉好点了，本单元感到欣慰。",
+			"dialog"			: "扎拉登感覺好點了，本單元感到欣慰。",
 		}
 	]
 }

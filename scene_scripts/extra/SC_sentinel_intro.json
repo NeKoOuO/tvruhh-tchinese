@@ -13,11 +13,11 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "|C3|[密码已接受]",
+			"dialog"			: "|C3|[密碼已接受]",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "|C3|//享受接下来的娱乐序列",
+			"dialog"			: "|C3|//享受接下來的娛樂序列",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
@@ -25,15 +25,15 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "|C3|[发送请求中]",
+			"dialog"			: "|C3|[發送請求中]",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "|C3|//本单元需要一个或更多个拥抱",
+			"dialog"			: "|C3|//本單元需要一個或更多個擁抱",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "|C3|//请在未来寻找本单元",
+			"dialog"			: "|C3|//請在未來尋找本單元",
 		},
 	]
 }

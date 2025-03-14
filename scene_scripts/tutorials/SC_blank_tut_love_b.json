@@ -1,16 +1,16 @@
 {
 	
-	"focus_hold"	: "|C3|按住|B2||C0|以激活|C3|专注。|C0|",
-	"focus_press"	: "|C3|按下|B2||C0|以切换|C3|专注。|C0|",
+	"focus_hold"	: "|C3|按住|B2||C0|以啟用|C3|專注。|C0|",
+	"focus_press"	: "|C3|按下|B2||C0|以切換|C3|專注。|C0|",
 	
-	"charge_hold"	: "|C3|按住|B1||C0|以蓄力发射爱的充能爆裂子弹。",
-	"charge_press"	: "|C3|按下|B1||C0|以蓄力发射爱的充能爆裂子弹。",
+	"charge_hold"	: "|C3|按住|B1||C0|以蓄力發射愛的充能爆裂子彈。",
+	"charge_press"	: "|C3|按下|B1||C0|以蓄力發射愛的充能爆裂子彈。",
 
 
 	"script_1" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "这是什么？|!||L|我在哪里？",
+			"dialog"			: "這是什麼？|!||L|我在哪裡？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
@@ -18,35 +18,35 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|在飞？",
+			"dialog"			: "|wave|在飛？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这位扎拉登的梦境非常强大。",
+			"dialog"			: "這位扎拉登的夢境非常強大。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这位扎拉登正与本单元分享她的梦境。",
+			"dialog"			: "這位扎拉登正與本單元分享她的夢境。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这是向怪物展示爱的理想情况。",
+			"dialog"			: "這是向怪物展示愛的理想情況。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现将解释如何去爱怪物们。",
+			"dialog"			: "本單元現將解釋如何去愛怪物們。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "当遭遇怪物时，爱之子弹将会自动从你的心中发射。",
+			"dialog"			: "當遭遇怪物時，愛之子彈將會自動從你的心中發射。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "你是在打比方吗？",
+			"dialog"			: "你是在打比方嗎？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "不。     这是实际能够发生的。",
+			"dialog"			: "不。     這是實際能夠發生的。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
@@ -54,42 +54,42 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|使用这些爱之子弹让怪物们爱你。",
+			"dialog"			: "|C3|建議：|C0|使用這些愛之子彈讓怪物們愛你。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "这     也算有道理吧...     大概。",
+			"dialog"			: "這     也算有道理吧...     大概。",
 		},
 	],
 	
 	"script_2" : [
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|恐惧|C0|已经被减少了10%",
+			"dialog"			: "|C3|恐懼|C0|已經被減少了10%",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "嘿，这比我想象的要简单！",
+			"dialog"			: "嘿，這比我想像的要簡單！",
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C2|接下来就是我伤害你的部分了！",
+			"dialog"			: "|C2|接下來就是我傷害你的部分了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "请别这么做。",
+			"dialog"			: "請別這麼做。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "怪物们会试着攻击你的心。|L||!|但是，只有击中|C3|心的核心|C0|时她们才能够伤害到你。",
+			"dialog"			: "怪物們會試著攻擊你的心。|L||!|但是，只有擊中|C3|心的核心|C0|時她們才能夠傷害到你。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|心的核心|C0|是你的心中央的小小圆圈。",
+			"dialog"			: "|C3|心的核心|C0|是你的心中央的小小圓圈。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "你是在说我的心     也有一个|shake|心？！",
+			"dialog"			: "你是在說我的心     也有一個|shake|心？！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -97,34 +97,34 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "这和其他发生的的一切都没什么道理。",
+			"dialog"			: "這和其他發生的的一切都沒什麼道理。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "为了确保安全的学习环境，本单元会将她的子弹攻击力设定为尽可能最低。",
+			"dialog"			: "為了確保安全的學習環境，本單元會將她的子彈攻擊力設定為盡可能最低。",
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C2|正在加载伤害子弹！",
+			"dialog"			: "|C2|正在載入傷害子彈！",
 		},
 	],
 	
 	"script_3" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_aggressive"],
-			"dialog"			: "你看到了吗？|L||!|我的心能够应对这一切！",
+			"dialog"			: "你看到了嗎？|L||!|我的心能夠應對這一切！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这位扎拉登的心也有着其他的能力。",
+			"dialog"			: "這位扎拉登的心也有著其他的能力。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "它还能够做什么？",
+			"dialog"			: "它還能夠做什麼？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现将解释|C3|专注|C0|。",
+			"dialog"			: "本單元現將解釋|C3|專注|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -132,38 +132,38 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "在|C3|专注模式|C0|下会降低你的心的移动速度。",
+			"dialog"			: "在|C3|專注模式|C0|下會降低你的心的移動速度。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这能够让你进行更精确的移动以专注避开攻击。",
+			"dialog"			: "這能夠讓你進行更精確的移動以專注避開攻擊。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "爱将对本单元无效直至你的心学会了如何使用|C3|专注模式|C0|。",
+			"dialog"			: "愛將對本單元無效直至你的心學會了如何使用|C3|專注模式|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|保持|C3|专注|C0|并至少躲避接下来的6次攻击。",
+			"dialog"			: "|C3|建議:|C0|保持|C3|專注|C0|並至少躲避接下來的6次攻擊。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "这可真是具体的建议。",
+			"dialog"			: "這可真是具體的建議。",
 		},
 	],
 	
 	"script_4" : [
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|恐惧|C0|已经被减少了30%",
+			"dialog"			: "|C3|恐懼|C0|已經被減少了30%",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "好的，接下来呢？",
+			"dialog"			: "好的，接下來呢？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现将解释|C3|蓄力攻击|C0|。",
+			"dialog"			: "本單元現將解釋|C3|蓄力攻擊|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -171,23 +171,23 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|蓄力射击|C0|能够施加大量的爱，但它们需要|C3|能量|C0|才能够发挥最大效果。",
+			"dialog"			: "|C3|蓄力射擊|C0|能夠施加大量的愛，但它們需要|C3|能量|C0|才能夠發揮最大效果。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "在没有|C3|能量|C0|的情况下，|C3|蓄力攻击|C0|仍旧能够被使用，但其效果会显著变弱。",
+			"dialog"			: "在沒有|C3|能量|C0|的情況下，|C3|蓄力攻擊|C0|仍舊能夠被使用，但其效果會顯著變弱。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "幸运的是，你的心能够自动回复|C3|能量|C0|，只要你并非处于蓄力过程中。",
+			"dialog"			: "幸運的是，你的心能夠自動回復|C3|能量|C0|，只要你並非處於蓄力過程中。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现将免疫除了|C3|充能蓄力攻击|C0|以外的爱。",
+			"dialog"			: "本單元現將免疫除了|C3|充能蓄力攻擊|C0|以外的愛。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|如果你的|C3|能量|C0|耗尽，停止蓄力并等待其回复。 ",
+			"dialog"			: "|C3|建議:|C0|如果你的|C3|能量|C0|耗盡，停止蓄力並等待其回復。 ",
 		},
 	],
 	
@@ -195,23 +195,23 @@
 	"script_5" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave||C3|蓄力攻击|C0|的子弹真好看。",
+			"dialog"			: "|wave||C3|蓄力攻擊|C0|的子彈真好看。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|蓄力攻击|C0|同样对可破坏障碍非常有效。",
+			"dialog"			: "|C3|蓄力攻擊|C0|同樣對可破壞障礙非常有效。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "充能爆裂子弹可以轻易摧毁怪物的小型可破坏部件。",
+			"dialog"			: "充能爆裂子彈可以輕易摧毀怪物的小型可破壞部件。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "破坏这样的部件也能够立刻|C3|回复部分能量|C0|。",
+			"dialog"			: "破壞這樣的部件也能夠立刻|C3|回復部分能量|C0|。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "所以，只要我能够一直破坏东西，我可以连续发射无尽的|wave||C3|蓄力攻击？|C0|",
+			"dialog"			: "所以，只要我能夠一直破壞東西，我可以連續發射無盡的|wave||C3|蓄力攻擊？|C0|",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -219,11 +219,11 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "为了进行演示，本单元现在将免疫所有的爱，并释放可破坏障碍。",
+			"dialog"			: "為了進行示範，本單元現在將免疫所有的愛，並釋放可破壞障礙。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|使用|C3|蓄力攻击|C0|破坏至少6个接下来的障碍物。",
+			"dialog"			: "|C3|建議:|C0|使用|C3|蓄力攻擊|C0|破壞至少6個接下來的障礙物。",
 		},
 		
 	],
@@ -231,86 +231,86 @@
 	"script_6" : [
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "仅有40%的初始|C3|恐惧|C0|残余在本单元内。",
+			"dialog"			: "僅有40%的初始|C3|恐懼|C0|殘餘在本單元內。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这位扎拉登的心还有一样能力需要学习。",
+			"dialog"			: "這位扎拉登的心還有一樣能力需要學習。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现将解释|C3|恐慌攻击|C0|。",
+			"dialog"			: "本單元現將解釋|C3|恐慌攻擊|C0|。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "我不喜欢这个名字。",
+			"dialog"			: "我不喜歡這個名字。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|按下|B3||C0|以释放一次|C3|恐慌攻击。|C0|",
+			"dialog"			: "|C3|按下|B3||C0|以釋放一次|C3|恐慌攻擊。|C0|",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|恐慌攻击|C0|能够抵消其触碰到的所有攻击。 ",
+			"dialog"			: "|C3|恐慌攻擊|C0|能夠抵消其觸碰到的所有攻擊。 ",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|恐慌攻击|C0|同样能够用来对怪物施加巨量的爱。",
+			"dialog"			: "|C3|恐慌攻擊|C0|同樣能夠用來對怪物施加巨量的愛。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "这听起来比我想象中的恐慌攻击要好多了。",
+			"dialog"			: "這聽起來比我想像中的恐慌攻擊要好多了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "但是，|C3|恐慌攻击|C0|数量非常有限，且不会自行再生。",
+			"dialog"			: "但是，|C3|恐慌攻擊|C0|數量非常有限，且不會自行再生。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "剩余的恐慌数量将展示于顶端，位于你的生命条下方。",
+			"dialog"			: "剩餘的恐慌數量將展示於頂端，位於你的生命條下方。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "为了确保无压力的学习环境，本单元将返还所有在这部分战斗中使用的|C3|恐慌攻击|C0|。",
+			"dialog"			: "為了確保無壓力的學習環境，本單元將返還所有在這部分戰鬥中使用的|C3|恐慌攻擊|C0|。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "这听起来没怎么无压力。",
+			"dialog"			: "這聽起來沒怎麼無壓力。",
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C2|别担心！|!||L|我会确保在这部分中你的恐慌是无穷无尽的！",
+			"dialog"			: "|C2|別擔心！|!||L|我會確保在這部分中你的恐慌是無窮無盡的！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "为了进行演示，本单元现在将免疫所有的爱直至你的心学会如何使用|C3|恐慌攻击|C0|。",
+			"dialog"			: "為了進行示範，本單元現在將免疫所有的愛直至你的心學會如何使用|C3|恐慌攻擊|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|使用一个|C3|恐慌攻击|C0|以抵消所有子弹。",
+			"dialog"			: "|C3|建議:|C0|使用一個|C3|恐慌攻擊|C0|以抵消所有子彈。",
 		},
 	],
 	
 	"script_7" : [
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "只剩下30%的|C3|恐惧|C0|了。",
+			"dialog"			: "只剩下30%的|C3|恐懼|C0|了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元将开始你的最后一课。",
+			"dialog"			: "本單元將開始你的最後一課。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "存在着特定的怪物能够使用|C3|全域攻击|C0|。",
+			"dialog"			: "存在著特定的怪物能夠使用|C3|全域攻擊|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现在正在电离本区域中所有的空气。",
+			"dialog"			: "本單元現在正在電離本區域中所有的空氣。",
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C2|你无法逃离这痛苦！",
+			"dialog"			: "|C2|你無法逃離這痛苦！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
@@ -318,84 +318,84 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "与前述表达相悖，确实有方法逃离该痛苦。",
+			"dialog"			: "與前述表達相悖，確實有方法逃離該痛苦。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "只要你的心停留在|C3|黄色安全泡泡中|C0|，就不会受到|C3|全域攻击|C0|的影响。",
+			"dialog"			: "只要你的心停留在|C3|黃色安全泡泡中|C0|，就不會受到|C3|全域攻擊|C0|的影響。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "同样也可以离开|C3|安全泡泡|C0|并且在一小段时间内不会受到伤害。",
+			"dialog"			: "同樣也可以離開|C3|安全泡泡|C0|並且在一小段時間內不會受到傷害。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|仅在绝对必要时离开|C3|安全泡泡|C0|。当离开时，尽快进入新的一个。",
+			"dialog"			: "|C3|建議:|C0|僅在絕對必要時離開|C3|安全泡泡|C0|。當離開時，盡快進入新的一個。",
 		},
 	],
 	
 	"script_8" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "小机器人，|shake|不！",
+			"dialog"			: "小機器人，|shake|不！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
-			"dialog"			: "|shake|我都做了什么？",
+			"dialog"			: "|shake|我都做了什麼？",
 		},
 		{
 			"play_music"		: "tutorbot_scene_music",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "年幼的扎拉登已经向本单元展示了爱。",
+			"dialog"			: "年幼的扎拉登已經向本單元展示了愛。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "你没事吗？",
+			"dialog"			: "你沒事嗎？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元中已经没有|C3|恐惧|C0|遗留的痕迹了。",
+			"dialog"			: "本單元中已經沒有|C3|恐懼|C0|遺留的痕跡了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|你没事！",
+			"dialog"			: "|wave|你沒事！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "年幼的扎拉登已经学会了如何使用她所有的美妙能力。",
+			"dialog"			: "年幼的扎拉登已經學會了如何使用她所有的美妙能力。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这位扎拉登将即刻离开梦境状态。",
+			"dialog"			: "這位扎拉登將即刻離開夢境狀態。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|谢谢你，小机器人！|norm||!|我完全没有意识到爱可以如此强大。",
+			"dialog"			: "|wave|謝謝你，小機器人！|norm||!|我完全沒有意識到愛可以如此強大。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|使用这些能力来让怪物们爱你。",
+			"dialog"			: "|C3|建議:|C0|使用這些能力來讓怪物們愛你。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "这听起来有些奇怪，    但我觉得我应该明白你的意思。",
+			"dialog"			: "這聽起來有些奇怪，    但我覺得我應該明白你的意思。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "现在我有些事情要告诉你。",
+			"dialog"			: "現在我有些事情要告訴你。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你。",
+			"dialog"			: "|wave|我愛你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "本单元感觉到温度急剧上升。",
+			"dialog"			: "本單元感覺到溫度急劇上升。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "本单元预测你对上怪物们会有着很高的成功率。",
+			"dialog"			: "本單元預測你對上怪物們會有著很高的成功率。",
 		}
 
 	],

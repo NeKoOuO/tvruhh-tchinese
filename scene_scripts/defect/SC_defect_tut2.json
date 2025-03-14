@@ -25,12 +25,12 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
-			"dialog"			: "|shake|别管我！",
+			"dialog"			: "|shake|別管我！",
 		},
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_angry"],
-			"dialog"			: "你怎么敢这样和我说话！|L||!|你知道我是谁吗？",
+			"dialog"			: "你怎麼敢這樣和我說話！|L||!|你知道我是誰嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
@@ -38,24 +38,24 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "真的吗？",
+			"dialog"			: "真的嗎？",
 		},
 		{
 			"play_music"		: "defect_scene_music",
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "但我是所有维目尔中最美丽的！|L||!|你不记得我吗？",
+			"dialog"			: "但我是所有維目爾中最美麗的！|L||!|你不記得我嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "我不记得，    抱歉。",
+			"dialog"			: "我不記得，    抱歉。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "没必要道歉。我应该预料到的。|!|显然我闪亮的色彩对你而言过于耀眼了。",
+			"dialog"			: "沒必要道歉。我應該預料到的。|!|顯然我閃亮的色彩對你而言過於耀眼了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我会给你点时间沐浴在我的荣光中。",
+			"dialog"			: "我會給你點時間沐浴在我的榮光中。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
@@ -63,23 +63,23 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "你现在一定记得我了。",
+			"dialog"			: "你現在一定記得我了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "我还是不记得你。",
+			"dialog"			: "我還是不記得你。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_angry"],
-			"dialog"			: "但我是你的维目尔！",
+			"dialog"			: "但我是你的維目爾！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "|shake|我的维目尔？",
+			"dialog"			: "|shake|我的維目爾？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "当然！|L||!|我一直和你说话的。",
+			"dialog"			: "當然！|L||!|我一直和你說話的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
@@ -87,23 +87,23 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "现在我明白了。|!|你不记得我是因为我之前看起来不像这样。",
+			"dialog"			: "現在我明白了。|!|你不記得我是因為我之前看起來不像這樣。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_upset"],
-			"dialog"			: "...你早该意识到的。",
+			"dialog"			: "...你早該意識到的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "看起来我们两个现在都有非常不同的地方。",
+			"dialog"			: "看起來我們兩個現在都有非常不同的地方。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我的光耀无以言表。",
+			"dialog"			: "我的光耀無以言表。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "而你...更加安静了。",
+			"dialog"			: "而你...更加安靜了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
@@ -111,55 +111,55 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "没错。",
+			"dialog"			: "沒錯。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "是我们观察到什么之后才开始这样的。|L||!|是那道闪耀的光。",
+			"dialog"			: "是我們觀察到什麼之後才開始這樣的。|L||!|是那道閃耀的光。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|那闪耀几乎和我一样美丽。",
+			"dialog"			: "|wave|那閃耀幾乎和我一樣美麗。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "现在说我来见你的原因。",
+			"dialog"			: "現在說我來見你的原因。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我决定赐予你2个  |C3|礼物。",
+			"dialog"			: "我決定賜予你2個  |C3|禮物。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "第一个礼物是我的存在。|L||!|是的，   这的确是最终级的礼物，    但还有更多！",
+			"dialog"			: "第一個禮物是我的存在。|L||!|是的，   這的確是最終級的禮物，    但還有更多！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "第二个礼物是|C3|不屈意志。",
+			"dialog"			: "第二個禮物是|C3|不屈意志。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "如果有任何事情发生在了你的心上，那么我    会自己修复它。",
+			"dialog"			: "如果有任何事情發生在了你的心上，那麼我    會自己修復它。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我会|C3|在每场战斗后修复你的心！",
+			"dialog"			: "我會|C3|在每場戰鬥後修復你的心！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "你会为了我这样做？",
+			"dialog"			: "你會為了我這樣做？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "当然会了，我的小小缺陷。",
+			"dialog"			: "當然會了，我的小小缺陷。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "来吧。     我们必须用我的存在赐福所有的怪物们。",
+			"dialog"			: "來吧。     我們必須用我的存在賜福所有的怪物們。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "那我们出发吧！",
+			"dialog"			: "那我們出發吧！",
 		}
 	]
 }

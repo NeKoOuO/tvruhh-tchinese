@@ -5,39 +5,39 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious"],
-			"dialog"			: "所以你想听我的故事吗？|L||!|恶魔的故事？",
+			"dialog"			: "所以你想聽我的故事嗎？|L||!|惡魔的故事？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "嗯，我现在还不能告诉你。",
+			"dialog"			: "嗯，我現在還不能告訴你。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
-			"dialog"			: "你看，有许多故事碎片已经被动来动去了。",
+			"dialog"			: "你看，有許多故事碎片已經被動來動去了。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
-			"dialog"			: "我不想告诉你会被改变的事情。",
+			"dialog"			: "我不想告訴你會被改變的事情。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
-			"dialog"			: "不过整个游戏快要做完了。|L||!|故事会最后加进去的。",
+			"dialog"			: "不過整個遊戲快要做完了。|L||!|故事會最後加進去的。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
-			"dialog"			: "我知道我已经这样说了很久了，但你看看我现在的样子！",
+			"dialog"			: "我知道我已經這樣說了很久了，但你看看我現在的樣子！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
-			"dialog"			: "总之，我没有你那样的耐心。",
+			"dialog"			: "總之，我沒有你那樣的耐心。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "我想赶快冲进去把怪物心里的那些恐惧赶出去！",
+			"dialog"			: "我想趕快衝進去把怪物心裡的那些恐懼趕出去！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "而且你会帮助我的！|L||!|现在就要！",
+			"dialog"			: "而且你會幫助我的！|L||!|現在就要！",
 		}
 	]
 }

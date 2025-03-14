@@ -2,11 +2,11 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_confused"],
-			"dialog"			: "啊，我可以尝试些什么吗？",
+			"dialog"			: "啊，我可以嘗試些什麼嗎？",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_surprised"],
-			"dialog"			: "可以给我看看你的礼物吗？",
+			"dialog"			: "可以給我看看你的禮物嗎？",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_very_happy"],
@@ -14,24 +14,24 @@
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
-			"dialog"			: "对，就那个！|L|还有这个。|L|哦哦，还有那个。",
+			"dialog"			: "對，就那個！|L|還有這個。|L|哦哦，還有那個。",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_normal"],
-			"dialog"			: "好的！把它们放在这，然后-",
+			"dialog"			: "好的！把它們放在這，然後-",
 		},
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
-			"dialog"			: "新的礼物！",
+			"dialog"			: "新的禮物！",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
-			"dialog"			: "没错，这些照片应该和正常的礼物一样。",
+			"dialog"			: "沒錯，這些照片應該和正常的禮物一樣。",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_content"],
-			"dialog"			: "你应该带走一个。",
+			"dialog"			: "你應該帶走一個。",
 		},
 	],
 	
@@ -39,48 +39,48 @@
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
-		"dialog"	: "哇哦，这个拍出来真棒！",
+		"dialog"	: "哇哦，這個拍出來真棒！",
 	},
 	"comment_take_unknown"	: {
 		"character"	: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_sad"],
-		"dialog"	: "为什么这张这么模糊？|L|应该还有同样的效果。",
+		"dialog"	: "為什麼這張這麼模糊？|L|應該還有同樣的效果。",
 	},
 	"comment_take_stone"	: {
 		"character"	: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_blush"],
-		"dialog"	: "呃，那可不是相片。|L|那是我为你做的。",
+		"dialog"	: "呃，那可不是相片。|L|那是我為你做的。",
 	},
 	"comment_take_power_photo"	: {
 		"character"	: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_very_happy"],
-		"dialog"	: "我为你拍了另一张照片！",
+		"dialog"	: "我為你拍了另一張照片！",
 	},
 	"comment_take_green"	: {
 		"character"	: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_blush"],
-		"dialog"	: "|shake|这张太美丽了，对吧？",
+		"dialog"	: "|shake|這張太美麗了，對吧？",
 	},
 	"comment_quick_limit"	: {
 		"character"	: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_sad"],
-		"dialog"	: "不要不要。这张拍出来太重了。",
+		"dialog"	: "不要不要。這張拍出來太重了。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_normal"],
-		"dialog"	: "你想要带走这个吗？",
+		"dialog"	: "你想要帶走這個嗎？",
 	},
 	
 	"another_gift_1" 	: [
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_surprised"],
-			"dialog"			: "哦，你还有空间存放快速礼物？",
+			"dialog"			: "哦，你還有空間存放快速禮物？",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_content"],
-			"dialog"			: "那我也想让你收下这里的一个！",
+			"dialog"			: "那我也想讓你收下這裡的一個！",
 		},
 	],
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_normal"],
-			"dialog"			: "好的好的，现在站在那里，准备好说自己最喜欢的事情，倒数-",
+			"dialog"			: "好的好的，現在站在那裡，準備好說自己最喜歡的事情，倒數-",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
@@ -89,19 +89,19 @@
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_content"],
-			"dialog"			: "哇哦，这张拍出来一定很棒。",
+			"dialog"			: "哇哦，這張拍出來一定很棒。",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
-			"dialog"			: "好的好的，现在就像那样拿着小蓝。",
+			"dialog"			: "好的好的，現在就像那樣拿著小藍。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
@@ -118,11 +118,11 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "如此... 美丽。    |L|无可言喻。",
+			"dialog"			: "如此... 美麗。    |L|無可言喻。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "那是    我们的样子吗？",
+			"dialog"			: "那是    我們的樣子嗎？",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_content"],
@@ -133,7 +133,7 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "跟你说，焦耳最喜欢有人摸她的头发了。",
+			"dialog"			: "跟你說，焦耳最喜歡有人摸她的頭髮了。",
 		},
 		{
 			"love_hearts"		: 1,
@@ -142,56 +142,56 @@
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_awkward"],
-			"dialog"			: "我没理由利用这种信息。",
+			"dialog"			: "我沒理由利用這種資訊。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
-			"dialog"			: "你们在说什么？",
+			"dialog"			: "你們在說什麼？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "哦阳光，等你再长大点我会告诉你的。",
+			"dialog"			: "哦陽光，等你再長大點我會告訴你的。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
-			"dialog"			: "我可比你大一小时。",
+			"dialog"			: "我可比你大一小時。",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
-			"dialog"			: "好吧好吧，现在我要给你拍一张照片。",
+			"dialog"			: "好吧好吧，現在我要給你拍一張照片。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "什么？你可以多拍几张的。",
+			"dialog"			: "什麼？你可以多拍幾張的。",
 		},
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "恶魔可是很好斗的。",
+			"dialog"			: "惡魔可是很好鬥的。",
 		},
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
-			"dialog"			: "恶魔处于痛苦之中。",
+			"dialog"			: "惡魔處於痛苦之中。",
 		},
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "恶魔-",
+			"dialog"			: "惡魔-",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
-			"dialog"			: "|wave|超级超级可爱！",
+			"dialog"			: "|wave|超級超級可愛！",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_normal"],
-			"dialog"			: "好吧好吧，我现在想要一张你的照片。",
+			"dialog"			: "好吧好吧，我現在想要一張你的照片。",
 		},
 		{
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_normal"],
@@ -200,7 +200,7 @@
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_photoxai", "CHAR_photoxai_right", "MOOD_happy"],
-			"dialog"			: "|wave|你真美丽。",
+			"dialog"			: "|wave|你真美麗。",
 		},
 	],
 

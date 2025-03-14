@@ -5,11 +5,11 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "年幼的扎拉登，本单元从你的心跳中侦测出了异常高的压力等级。",
+			"dialog"			: "年幼的扎拉登，本單元從你的心跳中偵測出了異常高的壓力等級。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元的程序能够提供帮助。|!||L|你需要任何帮助吗？",
+			"dialog"			: "本單元的程序能夠提供幫助。|!||L|你需要任何幫助嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
@@ -17,39 +17,39 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元正在等待答复。",
+			"dialog"			: "本單元正在等待答覆。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "...噢，   你是在和我说话吗？",
+			"dialog"			: "...噢，   你是在和我說話嗎？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "正确。",
+			"dialog"			: "正確。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "我是      正在找某个人。     |L|我觉得。",
+			"dialog"			: "我是      正在找某個人。     |L|我覺得。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "你在这附近见到过另一个扎拉登吗？",
+			"dialog"			: "你在這附近見到過另一個扎拉登嗎？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元今天没有见到另一个扎拉登。但是，本单元曾经见过许多扎拉登。",
+			"dialog"			: "本單元今天沒有見到另一個扎拉登。但是，本單元曾經見過許多扎拉登。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元或许能够协助你搜寻那位扎拉登。",
+			"dialog"			: "本單元或許能夠協助你搜尋那位扎拉登。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|描述扎拉登的发色与肤色。",
+			"dialog"			: "|C3|建議:|C0|描述扎拉登的髮色與膚色。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "我想想。   她的头发是...",
+			"dialog"			: "我想想。   她的頭髮是...",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
@@ -57,123 +57,123 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "哦！    她的头发是...   红色的？",
+			"dialog"			: "哦！    她的頭髮是...   紅色的？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "她的肤色是...    很像红色的颜色。",
+			"dialog"			: "她的膚色是...    很像紅色的顏色。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "扫描显示这位年幼扎拉登的眼睛中存在异常。",
+			"dialog"			: "掃描顯示這位年幼扎拉登的眼睛中存在異常。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "我      看不到颜色。",
+			"dialog"			: "我      看不到顏色。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元想要对此道歉。   或许本单元能够以其他方法进行协助。",
+			"dialog"			: "本單元想要對此道歉。   或許本單元能夠以其他方法進行協助。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "唔,   有一天，我在躲怪物们中的一个。|L||!|我还以为要被找到了。",
+			"dialog"			: "唔,   有一天，我在躲怪物們中的一個。|L||!|我還以為要被找到了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "然后我的心就开始朝着它射出一堆|shake|乱七八糟|norm|的东西！",
+			"dialog"			: "然後我的心就開始朝著它射出一堆|shake|亂七八糟|norm|的東西！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "然后她就不再想要杀我了，并且还给了我东西！",
+			"dialog"			: "然後她就不再想要殺我了，並且還給了我東西！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_very_happy"],
-			"dialog"			: "在那之后她只是想要整天待在我身边。",
+			"dialog"			: "在那之後她只是想要整天待在我身邊。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
-			"dialog"			: "但第二天她就不见了...|L||!|我也记不得她给了我什么。",
+			"dialog"			: "但第二天她就不見了...|L||!|我也記不得她給了我什麼。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "你能解释那是什么吗？",
+			"dialog"			: "你能解釋那是什麼嗎？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元获取到了能够协助你的信息。",
+			"dialog"			: "本單元獲取到了能夠協助你的資訊。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元认为你刚刚体验到了爱。",
+			"dialog"			: "本單元認為你剛剛體驗到了愛。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "所以那就是爱！",
+			"dialog"			: "所以那就是愛！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "怪物与扎拉登之间互相遗忘的机制于本单元仍是未知的。",
+			"dialog"			: "怪物與扎拉登之間互相遺忘的機制於本單元仍是未知的。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "但是，相较于活在对怪物们的恐惧之中，去爱那些健忘的怪物们算是更好的替代。",
+			"dialog"			: "但是，相較於活在對怪物們的恐懼之中，去愛那些健忘的怪物們算是更好的替代。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|继续去爱那些怪物们。",
+			"dialog"			: "|C3|建議:|C0|繼續去愛那些怪物們。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "这是个好主意。",
+			"dialog"			: "這是個好主意。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元在你的心中侦测到了部分特殊性质。",
+			"dialog"			: "本單元在你的心中偵測到了部分特殊性質。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "你的爱之子弹属于|C12||I12|虚空元素。",
+			"dialog"			: "你的愛之子彈屬於|C12||I12|虛空元素。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "然而，你的|C3|蓄力攻击|C0|却属于|C11||I11|光耀元素。",
+			"dialog"			: "然而，你的|C3|蓄力攻擊|C0|卻屬於|C11||I11|光耀元素。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "所有怪物对特定的|C3|爱之元素|C0|都有着对应的弱点与抗性。",
+			"dialog"			: "所有怪物對特定的|C3|愛之元素|C0|都有著對應的弱點與抗性。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|举例:|C0|大部分|C3|维目尔|C0|怪物对|C12||I12|虚空之爱|C0|存在抗性，然而她们更容易受到|C11||I11|光耀之爱|C0|的伤害。",
+			"dialog"			: "|C3|舉例:|C0|大部分|C3|維目爾|C0|怪物對|C12||I12|虛空之愛|C0|存在抗性，然而她們更容易受到|C11||I11|光耀之愛|C0|的傷害。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "甚至在能量耗尽时，你的|C3|蓄力攻击|C0|在这种情况下可能会更有效。",
+			"dialog"			: "甚至在能量耗盡時，你的|C3|蓄力攻擊|C0|在這種情況下可能會更有效。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|使用合适的能力更有效地去爱怪物们。",
+			"dialog"			: "|C3|建議：|C0|使用合適的能力更有效地去愛怪物們。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "|wave|非常感谢你，爱的机器人。",
+			"dialog"			: "|wave|非常感謝你，愛的機器人。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "我一开始还有点害怕和你说话。",
+			"dialog"			: "我一開始還有點害怕和你說話。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "但现在我很高兴我这样做了。",
+			"dialog"			: "但現在我很高興我這樣做了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元为这位年幼扎拉登感到由衷的开心。",
+			"dialog"			: "本單元為這位年幼扎拉登感到由衷的開心。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "我会将那种感觉传达给怪物们。",
+			"dialog"			: "我會將那種感覺傳達給怪物們。",
 		}
 	]
 }

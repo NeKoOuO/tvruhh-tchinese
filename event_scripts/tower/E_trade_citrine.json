@@ -4,15 +4,15 @@
 	"intro_blank" : [
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-			"dialog"			: "该球体与这位扎拉登之间感觉到强烈的共鸣。",
+			"dialog"			: "該球體與這位扎拉登之間感覺到強烈的共鳴。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "哦，呃...这是件好事吗？",
+			"dialog"			: "哦，呃...這是件好事嗎？",
 		},
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-			"dialog"			: "这意味着该球体能够更方便地为你制作礼物。",
+			"dialog"			: "這意味著該球體能夠更方便地為你製作禮物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
@@ -20,13 +20,13 @@
 		},
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-			"dialog"			: "需要注意的是，若提供足够的材料，该球体能够制作出更多的礼物。",
+			"dialog"			: "需要注意的是，若提供足夠的材料，該球體能夠製作出更多的禮物。",
 		},
 	],
 	
-	"mood_title"	: "橙宝石的力量",
-	"monster_gifts"	: "橙宝石的礼物",
-	"player_gifts"	: "[NAME]的现有礼物",
+	"mood_title"	: "橙寶石的力量",
+	"monster_gifts"	: "橙寶石的禮物",
+	"player_gifts"	: "[NAME]的現有禮物",
 
 	"gift_taken"	: "tower/tower_common_text",
 	"gift_given"	: "tower/tower_common_text",
@@ -34,23 +34,23 @@
 	
 	"comment_give_TAG_m_glass"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体和|C3|玻璃植物|C0|怪物家族的材料有着亲和性。",
+		"dialog"	: "該球體和|C3|玻璃植物|C0|怪物家族的材料有著親和性。",
 	},
 	"comment_give_TAG_space"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体对于|C3|宇宙|C0|的材料有着亲和性。",
+		"dialog"	: "該球體對於|C3|宇宙|C0|的材料有著親和性。",
 	},
 	"comment_give_TAG_scent"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体对于发散|C3|甜味香气|C0|的材料有着亲和性。",
+		"dialog"	: "該球體對於發散|C3|甜味香氣|C0|的材料有著親和性。",
 	},
 	"comment_give_TAG_water"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体对于|C3|雨和水|C0|相关的材料有着亲和性。",
+		"dialog"	: "該球體對於|C3|雨和水|C0|相關的材料有著親和性。",
 	},
 	"comment_give_FAV_citrine_part"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体对于她自己的部件有着极强的亲和性。",
+		"dialog"	: "該球體對於她自己的部件有著極強的親和性。",
 	},
 	
 	

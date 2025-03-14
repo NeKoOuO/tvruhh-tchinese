@@ -9,26 +9,26 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_nothing",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|这里没有温度。",
+			"dialog"			: "|C1|這裡沒有溫度。",
 		},
 		{
-			"dialog"			: "|C1|这里没有爱",
+			"dialog"			: "|C1|這裡沒有愛",
 		},
 		{
-			"dialog"			: "|C1|这里什么也没有。",
+			"dialog"			: "|C1|這裡什麼也沒有。",
 		},
 		{
-			"dialog"			: "|C1|虚空再次找上了她。",
+			"dialog"			: "|C1|虛空再次找上了她。",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|她应该向虚空屈服。",
+			"dialog"			: "|C2||shake|她應該向虛空屈服。",
 		},
 		{
-			"dialog"			: "|C2||shake|不再会有更多痛苦。",
+			"dialog"			: "|C2||shake|不再會有更多痛苦。",
 		},
 		{
-			"dialog"			: "|C2||shake|不再作为如此可怖的生物存在。",
+			"dialog"			: "|C2||shake|不再作為如此可怖的生物存在。",
 		},
 		{
 			"center_text_x"		: 1,
@@ -39,79 +39,79 @@
 			"play_music"		: "scene_music_b",
 			"bg_image"			: "spr_blank_end1_1",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|但她拒绝了。",
+			"dialog"			: "|C1|但她拒絕了。",
 		},
 		{
-			"dialog"			: "|C1|她获得了如此之多的爱。",
+			"dialog"			: "|C1|她獲得了如此之多的愛。",
 		},
 		{
-			"dialog"			: "|C1|她的心开始闪耀。",
+			"dialog"			: "|C1|她的心開始閃耀。",
 		},
 		{
 			"bg_image"			: "spr_blank_end1_2",
-			"dialog"			: "|C1|所有的爱无法被压抑其中。",
+			"dialog"			: "|C1|所有的愛無法被壓抑其中。",
 		},
 		{
-			"dialog"			: "|C1|她的心变得更加明亮。",
+			"dialog"			: "|C1|她的心變得更加明亮。",
 		},
 		{
-			"dialog"			: "|C1|黑暗被驱散开来。",
+			"dialog"			: "|C1|黑暗被驅散開來。",
 		},
 		{
 			"bg_image"			: "spr_blank_end1_3",
-			"dialog"			: "|C1|明亮的爱从她的心中喷泻而出。",
+			"dialog"			: "|C1|明亮的愛從她的心中噴瀉而出。",
 		},
 		{
-			"dialog"			: "|C1|整个虚空完全被照亮了。",
+			"dialog"			: "|C1|整個虛空完全被照亮了。",
 		},
 		{
-			"dialog"			: "|C1|虚空中充满了爱。",
+			"dialog"			: "|C1|虛空中充滿了愛。",
 		},
 		{
-			"dialog"			: "|C1|被填满的虚空无法存在。",
+			"dialog"			: "|C1|被填滿的虛空無法存在。",
 		},
 		{
 			"dialog"			: "|C1|它被完全抹除了。",
 		},
 		{
 			"bg_image"			: "spr_blank_end1_4",
-			"dialog"			: "|C1|她终于可以再次来到外界。",
+			"dialog"			: "|C1|她終於可以再次來到外界。",
 		},
 		{
-			"dialog"			: "|C1|她可以再次感觉到草地。",
+			"dialog"			: "|C1|她可以再次感覺到草地。",
 		},
 		{
 			"dialog"			: "|C1|她可以再次看到花朵。",
 		},
 		{
-			"dialog"			: "|C1||wave|她可以再次感到被爱。",
+			"dialog"			: "|C1||wave|她可以再次感到被愛。",
 		},
 		{
 			"bg_image"			: "spr_blank_end1_5",
-			"dialog"			: "|C1|但这只是暂时的。",
+			"dialog"			: "|C1|但這只是暫時的。",
 		},
 		{
-			"dialog"			: "|C1|到了早上，怪物们就会忘记她。",
+			"dialog"			: "|C1|到了早上，怪物們就會忘記她。",
 		},
 		{
-			"dialog"			: "|C1|她们一向如此。",
+			"dialog"			: "|C1|她們一向如此。",
 		},
 		{
 			"bg_image"			: "spr_blank_end1_6",
-			"dialog"			: "|C1|虚空会再次找上她。",
+			"dialog"			: "|C1|虛空會再次找上她。",
 		},
 		{
 			"dialog"			: "|C1|它一向如此。",
 		},
 		{
 			"bg_image"			: "spr_blank_end1_7",
-			"dialog"			: "|C1|但她仍会继续尝试。",
+			"dialog"			: "|C1|但她仍會繼續嘗試。",
 		},
 		{
-			"dialog"			: "|C1|她不会放弃。",
+			"dialog"			: "|C1|她不會放棄。",
 		},
 		{
-			"dialog"			: "|C1|她会找到一条出路。",
+			"dialog"			: "|C1|她會找到一條出路。",
 		}
 	]
 }

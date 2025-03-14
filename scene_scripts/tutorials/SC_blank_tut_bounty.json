@@ -5,81 +5,81 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元刚刚发现一种新的稀有类型礼物。",
+			"dialog"			: "本單元剛剛發現一種新的稀有類型禮物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "稀有礼物？",
+			"dialog"			: "稀有禮物？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元将解释|C3|馈赠礼物。",
+			"dialog"			: "本單元將解釋|C3|饋贈禮物。",
 		},
 		{
 			"show_tutorial"		: "small_bounty_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "怪物现在在少数情况下为你准备了|C3|馈赠礼物|C0|。",
+			"dialog"			: "怪物現在在少數情況下為你準備了|C3|饋贈禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "拥有更多的|C3|因果|C0|将会提高你找到它们的几率。",
+			"dialog"			: "擁有更多的|C3|因果|C0|將會提高你找到它們的機率。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "与其他礼物不同的是，|C3|馈赠礼物|C0|将会在战斗开始前收下。",
+			"dialog"			: "與其他禮物不同的是，|C3|饋贈禮物|C0|將會在戰鬥開始前收下。",
 		},
 		{
 			"show_tutorial"		: "example_bounty_card",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|馈赠礼物|C0|的效果将仅适用于该场战斗。",
+			"dialog"			: "|C3|饋贈禮物|C0|的效果將僅適用於該場戰鬥。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|馈赠礼物|C0|总会增加你所提取的魔尘。",
+			"dialog"			: "|C3|饋贈禮物|C0|總會增加你所提取的魔塵。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "有了这个，我能够取得更高的分数！",
+			"dialog"			: "有了這個，我能夠取得更高的分數！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "确实如此。",
+			"dialog"			: "確實如此。",
 		},
 		{
 			"show_tutorial"		: "small_red_bounty_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "同样存在着第二种类型的|C3|馈赠礼物。|C0|",
+			"dialog"			: "同樣存在著第二種類型的|C3|饋贈禮物。|C0|",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|负担馈赠礼物|C0|同样会增加你的分数。",
+			"dialog"			: "|C3|負擔饋贈禮物|C0|同樣會增加你的分數。",
 		},
 		{
 			"show_tutorial"		: "example_red_bounty_card",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "但是，它们也会向你施加一种负面效果。",
+			"dialog"			: "但是，它們也會向你施加一種負面效果。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "该负担效果仍只会施加于单次战斗。",
+			"dialog"			: "該負擔效果仍只會施加於單次戰鬥。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|在选择带有|C3|负担馈赠礼物|C0|的怪物的时候需要额外注意。",
+			"dialog"			: "|C3|建議：|C0|在選擇帶有|C3|負擔饋贈禮物|C0|的怪物的時候需要額外注意。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "我已经在承受她们的负担。|L|再多一个也无妨？",
+			"dialog"			: "我已經在承受她們的負擔。|L|再多一個也無妨？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你。",
+			"dialog"			: "|wave|我愛你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "本单元的极端温度故障导致了严重负担。",
+			"dialog"			: "本單元的極端溫度故障導致了嚴重負擔。",
 		}
 	]
 }

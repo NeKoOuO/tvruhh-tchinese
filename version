@@ -1,7 +1,7 @@
 [version]
-name="简体中文"
+name="正體中文"
 version="Early Access v8.20"
-message="这是简体中文的测试版"
+message="這是正體中文的測試版"
 [font_data]
 main_font="XiaolaiSC-Regular.ttf"
 main_size=20

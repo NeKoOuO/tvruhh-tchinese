@@ -9,39 +9,39 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "我们是墨点！",
+			"dialog"			: "我們是墨點！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "抱歉把颜料洒在你身上了。",
+			"dialog"			: "抱歉把顏料灑在你身上了。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "我们不是故意的。",
+			"dialog"			: "我們不是故意的。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_normal"],
-			"dialog"			: "不过...",
+			"dialog"			: "不過...",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|那些颜色在你身上好漂亮，小可爱！",
+			"dialog"			: "|wave|那些顏色在你身上好漂亮，小可愛！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-			"dialog"			: "当然，没有它你也已经很可爱了。",
+			"dialog"			: "當然，沒有它你也已經很可愛了。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "嗯，总之...",
+			"dialog"			: "嗯，總之...",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_happy"],
-			"dialog"			: "我们想要你来参观我们的|C3|艺术展！",
+			"dialog"			: "我們想要你來參觀我們的|C3|藝術展！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "如果你能来参观的话会对我们意义重大，小可爱。",
+			"dialog"			: "如果你能來參觀的話會對我們意義重大，小可愛。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
@@ -49,23 +49,23 @@
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_sad"],
-			"dialog"			: "当你见到我们的时候，我们可能还会陷在自己的其中一种情绪之中。",
+			"dialog"			: "當你見到我們的時候，我們可能還會陷在自己的其中一種情緒之中。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_confused"],
-			"dialog"			: "真对不起。|L||!|谢谢你那些时候都过来帮助我们。",
+			"dialog"			: "真對不起。|L||!|謝謝你那些時候都過來幫助我們。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_content"],
-			"dialog"			: "我们希望我们的|C3|艺术展|C0|能够帮助我们都感觉好一点。",
+			"dialog"			: "我們希望我們的|C3|藝術展|C0|能夠幫助我們都感覺好一點。",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "我们还会给你已知的最多彩的拥抱！",
+			"dialog"			: "我們還會給你已知的最多彩的擁抱！",
 		},
 		{
 			"character"			: ["VOICE_blot", "CHAR_blot_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|等下再见，小可爱！",
+			"dialog"			: "|wave|等一下再見，小可愛！",
 		},
 	]
 }

@@ -3,145 +3,145 @@
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "你是来拜访我的吗？",
-			"dialog_rand2"		: "你能在这里我真高兴！",
+			"dialog_rand1"		: "你是來拜訪我的嗎？",
+			"dialog_rand2"		: "你能在這裡我真高興！",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_normal"],
-			"dialog"			: "你觉得我的伞怎么样？",
+			"dialog"			: "你覺得我的傘怎麼樣？",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_confused"],
 			"random"			: 2,
-			"dialog_rand1"		: "这就是     我的家。",
-			"dialog_rand2"		: "我    住在这里。",
+			"dialog_rand1"		: "這就是     我的家。",
+			"dialog_rand2"		: "我    住在這裡。",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_happy"],
-			"dialog"			: "虽然不大，但至少我们可以免受雨水侵扰。",
+			"dialog"			: "雖然不大，但至少我們可以免受雨水侵擾。",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_confused"],
 			"random"			: 2,
-			"dialog_rand1"		: "你     能在这里，对我而言意义重大。",
-			"dialog_rand2"		: "你能来见我，我     真的很高兴。",
+			"dialog_rand1"		: "你     能在這裡，對我而言意義重大。",
+			"dialog_rand2"		: "你能來見我，我     真的很高興。",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_content"],
 			"random"			: 3,
-			"dialog_rand1"		: "事实上，我有东西要给你。",
-			"dialog_rand2"		: "我有个礼物，你说不定会喜欢。",
-			"dialog_rand3"		: "我有些很棒的东西，你可能会喜欢。",
+			"dialog_rand1"		: "事實上，我有東西要給你。",
+			"dialog_rand2"		: "我有個禮物，你說不定會喜歡。",
+			"dialog_rand3"		: "我有些很棒的東西，你可能會喜歡。",
 		},
 	],
 	
 	"intro_twins" : [
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_happy"],
-			"dialog"			: "很高兴能见到你们！",
+			"dialog"			: "很高興能見到你們！",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_confused"],
-			"dialog"			: "你们想要在我的雨伞下坐一会吗？",
+			"dialog"			: "你們想要在我的雨傘下坐一會嗎？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_sad2"],
-			"dialog"			: "呃... 当然。",
+			"dialog"			: "呃... 當然。",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_sad"],
-			"dialog"			: "你没事吗？",
+			"dialog"			: "你沒事嗎？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_upset"],
-			"dialog"			: "阳光！",
+			"dialog"			: "陽光！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
-			"dialog"			: "这位可爱的符文女士将你邀请进了她的家中。",
+			"dialog"			: "這位可愛的符文女士將你邀請進了她的家中。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "快进来！",
+			"dialog"			: "快進來！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "哦对哦，抱歉！",
+			"dialog"			: "哦對哦，抱歉！",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_confused"],
 			"random"			: 2,
-			"dialog_rand1"		: "你     能在这里，对我而言意义重大。",
-			"dialog_rand2"		: "你能来见我，我     真的很高兴。",
+			"dialog_rand1"		: "你     能在這裡，對我而言意義重大。",
+			"dialog_rand2"		: "你能來見我，我     真的很高興。",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_content"],
 			"random"			: 3,
-			"dialog_rand1"		: "事实上，我有东西要给你。",
-			"dialog_rand2"		: "我有个礼物，你说不定会喜欢。",
-			"dialog_rand3"		: "我有些很棒的东西，你可能会喜欢。",
+			"dialog_rand1"		: "事實上，我有東西要給你。",
+			"dialog_rand2"		: "我有個禮物，你說不定會喜歡。",
+			"dialog_rand3"		: "我有些很棒的東西，你可能會喜歡。",
 		},
 	],
 	
-	"monster_gifts"	: "雨布罗阿的礼物",
+	"monster_gifts"	: "雨布羅阿的禮物",
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_happy"],
-		"dialog"	: "你可以收下这个。",
+		"dialog"	: "你可以收下這個。",
 	},
 	"comment_take_stone"	: {
 		"character"	: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_content"],
-		"dialog"	: "我将我的心型石托付于你。",
+		"dialog"	: "我將我的心型石託付於你。",
 	},
 	"comment_quick_limit"	: {
 		"character"	: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_sad"],
-		"dialog"	: "抱歉，你没空间放得下那个了。",
+		"dialog"	: "抱歉，你沒空間放得下那個了。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_normal"],
-		"dialog"	: "你想要这个吗？",
+		"dialog"	: "你想要這個嗎？",
 	},
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "谢谢你给我的这些！",
+			"dialog"			: "謝謝你給我的這些！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "嗯... 话说，我能在这打个盹吗？",
+			"dialog"			: "嗯... 話說，我能在這打個瞌睡嗎？",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_content"],
-			"dialog"			: "当然。",
+			"dialog"			: "當然。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
-			"dialog"			: "我爱... 你。|L||!|抱抱。",
+			"dialog"			: "我愛... 你。|L||!|抱抱。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_surprised"],
-			"dialog"			: "她已经睡着了。",
+			"dialog"			: "她已經睡著了。",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "你太温柔了。",
+			"dialog"			: "你太溫柔了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "亲爱的缺陷，这下面的雨声不是非常完美吗？",
+			"dialog"			: "親愛的缺陷，這下面的雨聲不是非常完美嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_serious2"],
-			"dialog"			: "是呀，这让我觉得有些困倦了。",
+			"dialog"			: "是呀，這讓我覺得有些睏倦了。",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_confused"],
-			"dialog"			: "你可以在这小睡一下。|L||!|我会守望你的。",
+			"dialog"			: "你可以在這小睡一下。|L||!|我會守望你的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
@@ -156,75 +156,75 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_happy"],
-			"dialog"			: "我真的可以收下它吗？",
+			"dialog"			: "我真的可以收下它嗎？",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_content"],
-			"dialog"			: "这是只为你准备的。",
+			"dialog"			: "這是只為你準備的。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad"],
-			"dialog"			: "你还好吗，阳光？",
+			"dialog"			: "你還好嗎，陽光？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_serious2"],
-			"dialog"			: "当然，我只是突然有点困了。",
+			"dialog"			: "當然，我只是突然有點睏了。",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_happy"],
-			"dialog"			: "你可以在这休息一会。",
+			"dialog"			: "你可以在這休息一會。",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_confused"],
-			"dialog"			: "我不知道原因，但扎拉登们总是在我的的雨伞下睡觉。",
+			"dialog"			: "我不知道原因，但扎拉登們總是在我的的雨傘下睡覺。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_content"],
-			"dialog"			: "我从来没见到过她这么快入睡。|L||!|她一定在这里感到非常安心。",
+			"dialog"			: "我從來沒見到過她這麼快入睡。|L||!|她一定在這裡感到非常安心。",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
-			"dialog"			: "真不敢相信你会给我这个。",
+			"dialog"			: "真不敢相信你會給我這個。",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_happy"],
-			"dialog"			: "我只是想要帮忙。",
+			"dialog"			: "我只是想要幫忙。",
 		},
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_sad"],
-			"dialog"			: "尤其是因为我    差不多    之前攻击了你。",
+			"dialog"			: "尤其是因為我    差不多    之前攻擊了你。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "幸运的是，我--恶魔--是无法被打败的！",
+			"dialog"			: "幸運的是，我--惡魔--是無法被打敗的！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious"],
-			"dialog"			: "但是你可以为我做些其他事情。",
+			"dialog"			: "但是你可以為我做些其他事情。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
-			"dialog"			: "做我的枕头    一小会儿，    你愿意吗？",
+			"dialog"			: "做我的枕頭    一小會，    你願意嗎？",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_content"],
-			"dialog"			: "我可以这样做。",
+			"dialog"			: "我可以這樣做。",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_happy"],
-			"dialog"			: "希望这能够帮到你。",
+			"dialog"			: "希望這能夠幫到你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_ombroah", "CHAR_ombroah_right", "MOOD_content"],
-			"dialog"			: "你可以留在这里和我在雨伞下打个盹，如果你愿意的话。",
+			"dialog"			: "你可以留在這裡和我在雨傘下打個瞌睡，如果你願意的話。",
 		},
 	],
 

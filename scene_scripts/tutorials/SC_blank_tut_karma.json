@@ -5,105 +5,105 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "小机器人！    怪物们|wave|真的很爱我！",
+			"dialog"			: "小機器人！    怪物們|wave|真的很愛我！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "我感觉到了如此多的爱。",
+			"dialog"			: "我感覺到了如此多的愛。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元从这位扎拉登身上感受到了巨大的喜悦。",
+			"dialog"			: "本單元從這位扎拉登身上感受到了巨大的喜悅。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元也为你收集到了新的信息。",
+			"dialog"			: "本單元也為你收集到了新的資訊。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "好的！    我在听。",
+			"dialog"			: "好的！    我在聽。",
 		},
 		{
 			"show_tutorial"		: "karma_ring",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现将解释|C3|因果。",
+			"dialog"			: "本單元現將解釋|C3|因果。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "当怪物们感到被爱时，她们会给你|C3|因果|C0|。",
+			"dialog"			: "當怪物們感到被愛時，她們會給你|C3|因果|C0|。",
 		},
 		{
 			"show_tutorial"		: "karma_power_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "拥有|C3|因果|C0|能够增加你从怪物那里收到|C3|更高阶级礼物|C0|的概率。",
+			"dialog"			: "擁有|C3|因果|C0|能夠增加你從怪物那裡收到|C3|更高階級禮物|C0|的機率。",
 		},
 		{
 			"show_tutorial"		: "four_monster_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "拥有|C3|因果|C0|同样有几率能够增加怪物选项到至多四个。",
+			"dialog"			: "擁有|C3|因果|C0|同樣有機率能夠增加怪物選項到至多四個。",
 		},
 		{
 			"show_tutorial"		: "monster_preview_karma",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "去爱|C3|更高等级的怪物|C0|一般能够得到更多的|C3|因果|C0|。",
+			"dialog"			: "去愛|C3|更高等級的怪物|C0|一般能夠得到更多的|C3|因果|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|永远选择最高等级的怪物以|C3|最大化因果获取|C0|。",
+			"dialog"			: "|C3|建議：|C0|永遠選擇最高等級的怪物以|C3|最大化因果獲取|C0|。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "这    可能对我来说有一些难。",
+			"dialog"			: "這    可能對我來說有一些難。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|更新：|C0|本单元意识到你尚未完全开发出你的技术。",
+			"dialog"			: "|C3|更新：|C0|本單元意識到你尚未完全開發出你的技術。",
 		},
 		{
 			"show_tutorial"		: "karma_power_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "确实去爱更强的怪物能够获取更多的|C3|因果|C0|并得到|C3|更好的礼物|C0|。",
+			"dialog"			: "確實去愛更強的怪物能夠獲取更多的|C3|因果|C0|並得到|C3|更好的禮物|C0|。",
 		},
 		{
 			"show_tutorial"		: "higher_level_monsters",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "但是，爱更强的怪物也会导致未来关卡出现|C3|更高等级的怪物|C0|。",
+			"dialog"			: "但是，愛更強的怪物也會導致未來關卡出現|C3|更高等級的怪物|C0|。",
 		},
 		{
 			"show_tutorial"		: "lower_level_monsters",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "同理，爱更弱小的怪物会导致未来关卡出现|C3|较低等级的怪物|C0|。",
+			"dialog"			: "同理，愛更弱小的怪物會導致未來關卡出現|C3|較低等級的怪物|C0|。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|无视前述建议。",
+			"dialog"			: "|C3|建議：|C0|無視前述建議。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|修改后建议：|C0|请始终谨慎选择你的战斗。",
+			"dialog"			: "|C3|修改後建議：|C0|請始終謹慎選擇你的戰鬥。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "所以我能够控制战斗有多艰难？",
+			"dialog"			: "所以我能夠控制戰鬥有多艱難？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "没错。",
+			"dialog"			: "沒錯。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "对此我只有一件事想要说。",
+			"dialog"			: "對此我只有一件事想要說。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你。",
+			"dialog"			: "|wave|我愛你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "本单元已检测到一种固定行为模式。",
+			"dialog"			: "本單元已檢測到一種固定行為模式。",
 		}
 	]
 }

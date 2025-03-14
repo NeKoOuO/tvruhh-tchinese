@@ -4,64 +4,64 @@
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
 			"random"			: 2,
 			"dialog_rand1"		: "你好，扎拉登！",
-			"dialog_rand2"		: "我很高兴见到你！",
+			"dialog_rand2"		: "我很高興見到你！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
-			"dialog"			: "你来猜一猜现在是什么时间？",
+			"dialog"			: "你來猜一猜現在是什麼時間？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_angry"],
-			"dialog"			: "|shake|现在是燃烧时间！",
+			"dialog"			: "|shake|現在是燃燒時間！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
-			"dialog"			: "但是你已经知道了。",
+			"dialog"			: "但是你已經知道了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "我有些礼物给你",
-			"dialog_rand2"		: "我给你带了些礼物。",
-			"dialog_rand3"		: "我为你找来了些礼物。",
+			"dialog_rand1"		: "我有些禮物給你",
+			"dialog_rand2"		: "我給你帶了些禮物。",
+			"dialog_rand3"		: "我為你找來了些禮物。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
 			"random"			: 2,
-			"dialog_rand1"		: "它们    可能有点烧焦了。",
-			"dialog_rand2"		: "无视掉焦痕就好。",
+			"dialog_rand1"		: "它們    可能有點燒焦了。",
+			"dialog_rand2"		: "無視掉焦痕就好。",
 		},
 	],
 	
-	"monster_gifts"	: "燃烧维目尔的礼物",
+	"monster_gifts"	: "燃燒維目爾的禮物",
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
-		"dialog"	: "选择一个你想要的。",
+		"dialog"	: "選擇一個你想要的。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
-		"dialog"	: "你想要的是这个吗？",
+		"dialog"	: "你想要的是這個嗎？",
 	},
 	
 	"another_gift_1" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
-			"dialog"			: "希望那个没被烧的太严重。",
+			"dialog"			: "希望那個沒被燒的太嚴重。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "但你好像喜欢超级香脆的那种。",
-			"dialog_rand2"		: "但你好像喜欢又辣又热的那种。",
+			"dialog_rand1"		: "但你好像喜歡超級香脆的那種。",
+			"dialog_rand2"		: "但你好像喜歡又辣又熱的那種。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
-			"dialog"			: "那你再来猜猜现在是什么时间？",
+			"dialog"			: "那你再來猜猜現在是什麼時間？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|是额外礼物的时间。",
+			"dialog"			: "|wave|是額外禮物的時間。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
@@ -70,68 +70,68 @@
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
 			"random"			: 4,
-			"dialog_rand1"		: "而且     也是暗燃的时间。",
-			"dialog_rand2"		: "而且     也是灼燃的时间。",
-			"dialog_rand3"		: "而且     也是燃烧的时间。",
-			"dialog_rand4"		: "而且     也是滋滋作响的时间。",
+			"dialog_rand1"		: "而且     也是暗燃的時間。",
+			"dialog_rand2"		: "而且     也是灼燃的時間。",
+			"dialog_rand3"		: "而且     也是燃燒的時間。",
+			"dialog_rand4"		: "而且     也是滋滋作響的時間。",
 		},
 	],
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "是时候再点把火了。",
+			"dialog"			: "是時候再點把火了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
-			"dialog"			: "没必要这么做！|L||!||shake|克制一下！",
+			"dialog"			: "沒必要這麼做！|L||!||shake|克制一下！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
-			"dialog"			: "...我也爱你",
+			"dialog"			: "...我也愛你",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
-			"dialog"			: "没有任何的火，你如何闪耀的如此明亮？",
+			"dialog"			: "沒有任何的火，你如何閃耀的如此明亮？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "哦，这只是我的完美在闪耀。",
+			"dialog"			: "哦，這只是我的完美在閃耀。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
-			"dialog"			: "那么你的朋友又是怎么做到的呢？",
+			"dialog"			: "那麼你的朋友又是怎麼做到的呢？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "哦，我吗？",
+			"dialog"			: "哦，我嗎？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "原理基本是一样的。",
+			"dialog"			: "原理基本是一樣的。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "我的姐姐刚刚跟我说，她特别喜欢被火焰包裹。",
+			"dialog"			: "我的姐姐剛剛跟我說，她特別喜歡被火焰包裹。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
-			"dialog"			: "|shake|什么？",
+			"dialog"			: "|shake|什麼？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
-			"dialog"			: "刚好让我尝试新的拥抱技巧！|L||!|我要把它叫做灼燃地狱火。",
+			"dialog"			: "剛好讓我嘗試新的擁抱技巧！|L||!|我要把它叫做灼燃地獄火。",
 		},
 		{
 			"love_hearts"		: 1,
@@ -140,39 +140,39 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "实际上，这还挺舒服的。",
+			"dialog"			: "實際上，這還挺舒服的。",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "两个礼物，价格为零？",
+			"dialog"			: "兩個禮物，價格為零？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "我要为此用两倍的力度拥抱你！",
+			"dialog"			: "我要為此用兩倍的力度擁抱你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
-			"dialog"			: "小心点！|L||!|太多燃烧对你身体不好。",
+			"dialog"			: "小心點！|L||!|太多燃燒對你身體不好。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "一点自燃伤不到任何人。",
+			"dialog"			: "一點自燃傷不到任何人。",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
-			"dialog"			: "享受这些烧焦的礼物。",
+			"dialog"			: "享受這些燒焦的禮物。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|我爱你的火焰。",
+			"dialog"			: "|wave|我愛你的火焰。",
 		},
 	],
 

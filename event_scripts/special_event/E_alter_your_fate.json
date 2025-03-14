@@ -2,179 +2,179 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "今天，你会改变你的命运吗？",
+			"dialog"			: "今天，你會改變你的命運嗎？",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "吾能够增加可收集的魔尘以及你的最高分数。",
+			"dialog"			: "吾能夠增加可收集的魔塵以及你的最高分數。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
 			"random"			: 3,
-			"dialog_rand1"		: "|wave|你有这么多可以献祭的东西。",
-			"dialog_rand2"		: "|wave|但请试着不要过于贪婪。",
-			"dialog_rand3"		: "|wave|吾可以让这一切对你而言更加困难。",
+			"dialog_rand1"		: "|wave|你有這麼多可以獻祭的東西。",
+			"dialog_rand2"		: "|wave|但請試著不要過於貪婪。",
+			"dialog_rand3"		: "|wave|吾可以讓這一切對你而言更加困難。",
 		},
 	],
 	
-	"event_level"	: "异相等级[VAL1]",
-	"total_roses"	: "总玫瑰徽章",
+	"event_level"	: "異相等級[VAL1]",
+	"total_roses"	: "總玫瑰徽章",
 	
 	"mood_title"	: "阿比斯的力量",
-	"monster_gifts"	: "阿比斯的礼物",
-	"player_gifts"	: "[NAME]的礼物",
+	"monster_gifts"	: "阿比斯的禮物",
+	"player_gifts"	: "[NAME]的禮物",
 
-	"op_alter"			: "改变命运",
-	"op_sacrifice"		: "献祭",
-	"op_upgrade"		: "升级",
-	"op_leave"			: "离开",
-	"op_dont_leave"		: "先不离开",
+	"op_alter"			: "改變命運",
+	"op_sacrifice"		: "獻祭",
+	"op_upgrade"		: "升級",
+	"op_leave"			: "離開",
+	"op_dont_leave"		: "先不離開",
 	
-	"op_gifts"			: "带走礼物",
-	"op_battles_1"		: "1场额外战斗",
-	"op_battles_2"		: "2场额外战斗",
-	"op_battles_3"		: "3场额外战斗",
-	"op_added"			: "战斗已增加",
+	"op_gifts"			: "帶走禮物",
+	"op_battles_1"		: "1場額外戰鬥",
+	"op_battles_2"		: "2場額外戰鬥",
+	"op_battles_3"		: "3場額外戰鬥",
+	"op_added"			: "戰鬥已增加",
 	
-	"op_give_panic"		: "献祭恐慌",
-	"op_give_health"	: "献祭生命",
-	"op_give_gifts"		: "献祭礼物",
+	"op_give_panic"		: "獻祭恐慌",
+	"op_give_health"	: "獻祭生命",
+	"op_give_gifts"		: "獻祭禮物",
 	
 	"op_power"			: "最大力量",
-	"op_quicks"			: "快速礼物",
-	"op_bonuses"		: "额外礼物",
-	"op_tetrids"		: "棱晶礼物",
+	"op_quicks"			: "快速禮物",
+	"op_bonuses"		: "額外禮物",
+	"op_tetrids"		: "稜晶禮物",
 	
 	
 	"comment_alter"			: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "做出牺牲，吾便会改变你的命运。",
+		"dialog"	: "做出犧牲，吾便會改變你的命運。",
 	},
 	"comment_sacrifice"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "你的献祭会给予吾更多力量。",
+		"dialog"	: "你的獻祭會給予吾更多力量。",
 	},
 	"comment_upgrade"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾能够使用|C3|棱晶|C0|的力量更大幅改变你的命运。",
+		"dialog"	: "吾能夠使用|C3|稜晶|C0|的力量更大幅改變你的命運。",
 	},
 	"comment_max_level"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾的力量已经达到极限。",
+		"dialog"	: "吾的力量已經達到極限。",
 	},
 	"comment_leave_none"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾不会强制你改变命运。",
+		"dialog"	: "吾不會強制你改變命運。",
 	},
 	"comment_leave_extra"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "享受你新的命运。",
+		"dialog"	: "享受你新的命運。",
 	},
 	"comment_leave_warning"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "你真的要离开？",
+		"dialog"	: "你真的要離開？",
 	},
 	
 	
 	
 	"comment_low_panic"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "你的恐慌不足以作为有价值的献祭。",
+		"dialog"	: "你的恐慌不足以作為有價值的獻祭。",
 	},
 	"comment_give_panic"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "吾会收下你全部的|C3|恐慌攻击|C0|作为祭品。",
+		"dialog"	: "吾會收下你全部的|C3|恐慌攻擊|C0|作為祭品。",
 	},
 	"comment_give_panic_high"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "你今天有许多的|C3|恐慌攻击|C0|。|L|吾会收下全部。",
+		"dialog"	: "你今天有許多的|C3|恐慌攻擊|C0|。|L|吾會收下全部。",
 	},
 	"comment_panic_given"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "解放了这么多的恐慌，感觉不好吗？",
+		"dialog"	: "解放了這麼多的恐慌，感覺不好嗎？",
 	},
 	"comment_low_health"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "你的生命不足以作为有价值的献祭。",
+		"dialog"	: "你的生命不足以作為有價值的獻祭。",
 	},
 	"comment_half_hp_error"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "不如将你的|C3|防御礼物|C0|交给吾。",
+		"dialog"	: "不如將你的|C3|防禦禮物|C0|交給吾。",
 	},
 	"comment_give_health"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "吾会收下你|C3|一半的生命条|C0|作为献祭。",
+		"dialog"	: "吾會收下你|C3|一半的生命條|C0|作為獻祭。",
 	},
 	"comment_give_health_high"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "你的生命条今天非常长。|L|吾认为吾会收下|C3|一半|C0|。",
+		"dialog"	: "你的生命條今天非常長。|L|吾認為吾會收下|C3|一半|C0|。",
 	},
 	"comment_health_given"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "反正你不需要那么多。",
+		"dialog"	: "反正你不需要那麼多。",
 	},
 	"comment_cant_gifts"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "不如先献祭一些别的东西？",
+		"dialog"	: "不如先獻祭一些別的東西？",
 	},
 	"comment_give_gifts"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "吾会收下你的礼物作为献祭。",
+		"dialog"	: "吾會收下你的禮物作為獻祭。",
 	},
 	
 	
 	
 	"comment_gifts"			: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "吾有着能够改变你命运的礼物。",
+		"dialog"	: "吾有著能夠改變你命運的禮物。",
 	},
 	"comment_no_gifts"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "吾没有能给你的了。",
+		"dialog"	: "吾沒有能給你的了。",
 	},
 	"comment_extra_battles_1"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾可以为你今天增加|C3|1场额外战斗|C0|，以改变你的命运。",
+		"dialog"	: "吾可以為你今天增加|C3|1場額外戰鬥|C0|，以改變你的命運。",
 	},
 	"comment_extra_battles"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾可以为你今天增加|C3|[VAL1]场额外战斗|C0|，以改变你的命运。",
+		"dialog"	: "吾可以為你今天增加|C3|[VAL1]場額外戰鬥|C0|，以改變你的命運。",
 	},
 	"comment_added_battles_1"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "你的命运已经被改变了，在你离开此处之后会有着|C3|1场额外战斗|C0|。",
+		"dialog"	: "你的命運已經被改變了，在你離開此處之後會有著|C3|1場額外戰鬥|C0|。",
 	},
 	"comment_added_battles"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "你的命运已经被改变了，在你离开此处之后会有着|C3|[VAL1]场额外战斗|C0|。",
+		"dialog"	: "你的命運已經被改變了，在你離開此處之後會有著|C3|[VAL1]場額外戰鬥|C0|。",
 	},
 	"comment_cant_add_battle"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "吾需要更多力量才能达成此事。",
+		"dialog"	: "吾需要更多力量才能達成此事。",
 	},
 	
 	"battle_confirm"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "你会改变自己的命运吗？",
+		"dialog"	: "你會改變自己的命運嗎？",
 	},
 	"panic_confirm"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "将你所有的恐慌给予吾？",
+		"dialog"	: "將你所有的恐慌給予吾？",
 	},
 	"health_confirm"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "将你一半的最大生命给予吾？",
+		"dialog"	: "將你一半的最大生命給予吾？",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "你要离开了吗？",
+		"dialog"	: "你要離開了嗎？",
 	},
 	
 	"panics_given" 		: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "抛下这么多恐慌不也算是一种解脱吗？",
+			"dialog"			: "拋下這麼多恐慌不也算是一種解脫嗎？",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
@@ -185,30 +185,30 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "抛下这么多恐慌不算是一种解脱吗？",
+			"dialog"			: "拋下這麼多恐慌不算是一種解脫嗎？",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-			"dialog"			: "什么？     你是在期待吾获得比这更多的力量？",
+			"dialog"			: "什麼？     你是在期待吾獲得比這更多的力量？",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "我们是否过于贪婪？",
+			"dialog"			: "我們是否過於貪婪？",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "吾确信你一定有许多|C3|恐慌礼物|C0|作为完美的献祭材料。",
+			"dialog"			: "吾確信你一定有許多|C3|恐慌禮物|C0|作為完美的獻祭材料。",
 		},
 	],
 	"health_given" 		: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "如此有价值的祭品。",
+			"dialog"			: "如此有價值的祭品。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "你不会被击中的，无所谓。",
+			"dialog"			: "你不會被擊中的，無所謂。",
 		},
 	],
 	"battle_added" 		: [
@@ -216,16 +216,16 @@
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "你的未来被转向了更多的战斗与爱。",
-			"dialog_rand2"		: "你现在命定与更多怪物相遇。",
-			"dialog_rand3"		: "你的未来会有着更多的爱。|L||!|只要你能够在额外战斗中存活下去。",
+			"dialog_rand1"		: "你的未來被轉向了更多的戰鬥與愛。",
+			"dialog_rand2"		: "你現在命定與更多怪物相遇。",
+			"dialog_rand3"		: "你的未來會有著更多的愛。|L||!|只要你能夠在額外戰鬥中存活下去。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
 			"random"			: 3,
-			"dialog_rand1"		: "你一定深爱挑战。",
-			"dialog_rand2"		: "仅仅接受挑战就使你显得如此强大。",
-			"dialog_rand3"		: "更多的怪物代表着更多的魔尘以供提取。",
+			"dialog_rand1"		: "你一定深愛挑戰。",
+			"dialog_rand2"		: "僅僅接受挑戰就使你顯得如此強大。",
+			"dialog_rand3"		: "更多的怪物代表著更多的魔塵以供提取。",
 		},
 	],
 	
@@ -234,45 +234,45 @@
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "你可以带走这个礼物。",
+		"dialog"	: "你可以帶走這個禮物。",
 	},
 	"comment_take_unknown"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "要带走这个的话，风险自负。",
+		"dialog"	: "要帶走這個的話，風險自負。",
 	},
 	"comment_take_karma"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "你今天从礼物中获取了太多的棱晶。|L|吾找不到足够的礼物以带给你。",
+		"dialog"	: "你今天從禮物中獲取了太多的稜晶。|L|吾找不到足夠的禮物以帶給你。",
 	},
 	"comment_take_over"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "你必须为此献祭更多。",
+		"dialog"	: "你必須為此獻祭更多。",
 	},
 	"comment_quick_limit"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "你带不下。",
+		"dialog"	: "你帶不下。",
 	},
 	"buy_confirm"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "你确定吗？",
+		"dialog"	: "你確定嗎？",
 	},
 	"gift_taken" 		: [
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "你通过献祭获得了它。",
-			"dialog_rand2"		: "你的命运已经被改变了。",
-			"dialog_rand3"		: "愿你心想事成。",
-			"dialog_rand4"		: "你掌控着自己的命运。",
+			"dialog_rand1"		: "你通過獻祭獲得了它。",
+			"dialog_rand2"		: "你的命運已經被改變了。",
+			"dialog_rand3"		: "願你心想事成。",
+			"dialog_rand4"		: "你掌控著自己的命運。",
 		}
 	],
 	"tetrid_taken" 		: [
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "如此美丽的分数。",
-			"dialog_rand2"		: "|wave|看看你拥有的这堆魔尘。",
-			"dialog_rand3"		: "每粒魔尘都很重要。",
+			"dialog_rand1"		: "如此美麗的分數。",
+			"dialog_rand2"		: "|wave|看看你擁有的這堆魔塵。",
+			"dialog_rand3"		: "每粒魔塵都很重要。",
 		}
 	],
 	
@@ -282,43 +282,43 @@
 	
 	"comment_give_normal"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "吾将接受这个祭品。",
+		"dialog"	: "吾將接受這個祭品。",
 	},
 	"comment_give_traded"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "你曾通过交易获得了这个礼物，而现在你仍愿献祭它？",
+		"dialog"	: "你曾通過交易獲得了這個禮物，而現在你仍願獻祭它？",
 	},
 	"comment_give_panic_error"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "吾需要先收下你全部的|C3|恐慌攻击|C0|从而让这件礼物变为有价值的祭品。",
+		"dialog"	: "吾需要先收下你全部的|C3|恐慌攻擊|C0|從而讓這件禮物變為有價值的祭品。",
 	},
 	"comment_give_rank_error"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "你今天有着许多|C3|奇妙礼物|C0|。|L|我们从其中一个开始吧。",
+		"dialog"	: "你今天有著許多|C3|奇妙禮物|C0|。|L|我們從其中一個開始吧。",
 	},
 	"comment_give_quick"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_angry"],
-		"dialog"	: "这算不上什么祭品。",
+		"dialog"	: "這算不上什麼祭品。",
 	},
 	"comment_give_starter"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "你命中注定要留下它。|L|吾无法带走它。",
+		"dialog"	: "你命中注定要留下它。|L|吾無法帶走它。",
 	},
 	"give_confirm"			: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "献祭这个礼物？",
+		"dialog"	: "獻祭這個禮物？",
 	},
 	"gift_given" 		: [
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
 			"random"			: 7,
-			"dialog_rand1"		: "你可能会让事情对你而言更加困难。",
-			"dialog_rand2"		: "吾会收下这份祭品。",
+			"dialog_rand1"		: "你可能會讓事情對你而言更加困難。",
+			"dialog_rand2"		: "吾會收下這份祭品。",
 			"dialog_rand3"		: "你可能也不需要它。",
-			"dialog_rand4"		: "你今天剩下的时间可能会变得更加困难。",
-			"dialog_rand5"		: "不要为你的决定后悔。",
-			"dialog_rand6"		: "你的命运如此易变。",
-			"dialog_rand7"		: "让我们看看你的适应能力。",
+			"dialog_rand4"		: "你今天剩下的時間可能會變得更加困難。",
+			"dialog_rand5"		: "不要為你的決定後悔。",
+			"dialog_rand6"		: "你的命運如此易變。",
+			"dialog_rand7"		: "讓我們看看你的適應能力。",
 		},
 	],
 
@@ -328,161 +328,161 @@
 	
 	"comment_upgrade_power"			: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾可以使用|C3|[VAL1]单位的力量|C0|以改变你的命运，但可以通过更多棱晶来增加。",
+		"dialog"	: "吾可以使用|C3|[VAL1]單位的力量|C0|以改變你的命運，但可以透過更多稜晶來增加。",
 	},
 	"comment_upgrade_power_maxed"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "吾可以使用|C3|[VAL1]单位的力量|C0|以改变你的命运|L|这是吾绝对的极限。",
+		"dialog"	: "吾可以使用|C3|[VAL1]單位的力量|C0|以改變你的命運|L|這是吾絕對的極限。",
 	},
 	
 	"comment_upgrade_quicks"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾为你准备了|C3|[VAL1]个快速礼物|C0|，但有着更多棱晶吾可以为你带来更多。",
+		"dialog"	: "吾為你準備了|C3|[VAL1]個快速禮物|C0|，但有著更多稜晶吾可以為你帶來更多。",
 	},
 	"comment_upgrade_quicks_maxed"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "吾将一直准备|C3|[VAL1]个快速礼物|C0|供你选取。",
+		"dialog"	: "吾將一直準備|C3|[VAL1]個快速禮物|C0|供你選取。",
 	},
 	
 	"comment_upgrade_bonuses_0"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "有着棱晶的力量，吾能为你带来一个|C3|额外礼物|C0|。",
+		"dialog"	: "有著稜晶的力量，吾能為你帶來一個|C3|額外禮物|C0|。",
 	},
 	"comment_upgrade_bonuses_1"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾为你准备了|C3|1个额外礼物|C0|，但有着更多棱晶吾可以为你带来另一个。",
+		"dialog"	: "吾為你準備了|C3|1個額外禮物|C0|，但有著更多稜晶吾可以為你帶來另一個。",
 	},
 	"comment_upgrade_bonuses"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾为你准备了|C3|[VAL1]个额外礼物|C0|，但有着更多棱晶吾可以为你带来更多。",
+		"dialog"	: "吾為你準備了|C3|[VAL1]個額外禮物|C0|，但有著更多稜晶吾可以為你帶來更多。",
 	},
 	"comment_upgrade_bonuses_maxed"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "吾将一直准备|C3|[VAL1]个额外礼物|C0|供你选取。",
+		"dialog"	: "吾將一直準備|C3|[VAL1]個額外禮物|C0|供你選取。",
 	},
 	
 	"comment_upgrade_tetrids_0"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "吾可以为你带来一个|C3|棱晶额外礼物|C0|以增加你的分数，但吾需要大量棱晶以达成此事。",
+		"dialog"	: "吾可以為你帶來一個|C3|稜晶額外禮物|C0|以增加你的分數，但吾需要大量稜晶以達成此事。",
 	},
 	"comment_upgrade_tetrids_1"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾为你准备了|C3|1个棱晶额外礼物|C0|，但吾可以为你带来另一个。",
+		"dialog"	: "吾為你準備了|C3|1個稜晶額外禮物|C0|，但吾可以為你帶來另一個。",
 	},
 	"comment_upgrade_tetrids"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾为你准备了|C3|[VAL1]个棱晶额外礼物|C0|，但吾可以为你带来另一个。",
+		"dialog"	: "吾為你準備了|C3|[VAL1]個稜晶額外禮物|C0|，但吾可以為你帶來另一個。",
 	},
 	"comment_upgrade_tetrids_maxed"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-		"dialog"	: "吾你准备了|C3|[VAL1]个棱晶额外礼物|C0||L|这是吾力量的极限。",
+		"dialog"	: "吾你準備了|C3|[VAL1]個稜晶額外禮物|C0||L|這是吾力量的極限。",
 	},
 	
 	
 	"comment_upgrade_fail"			: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "你需要从怪物中收下更多|C3|玫瑰徽章|C0|，从而让吾更大程度改变你的命运。",
+		"dialog"	: "你需要從怪物中收下更多|C3|玫瑰徽章|C0|，從而讓吾更大程度改變你的命運。",
 	},
 	
 	"upgrade_power" 			: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "吾能够使用更多力量改变你这一天。",
+			"dialog"			: "吾能夠使用更多力量改變你這一天。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "想想你的分数能变得多高吧。",
+			"dialog"			: "想想你的分數能變得多高吧。",
 		},
 	],
 	"upgrade_quicks" 			: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "吾每天会为你多带来一个|C3|快速礼物|C0|。",
+			"dialog"			: "吾每天會為你多帶來一個|C3|快速禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "这是吾能够改变你命运的许多方法中的一个。",
+			"dialog"			: "這是吾能夠改變你命運的許多方法中的一個。",
 		},
 	],
 	"upgrade_bonuses_first" 	: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "吾下次会为你带来一个|C3|额外礼物|C0|。",
+			"dialog"			: "吾下次會為你帶來一個|C3|額外禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "以及之后的每一天。",
+			"dialog"			: "以及之後的每一天。",
 		},
 	],
 	"upgrade_bonuses" 			: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "吾每天会为你带来一个更多的|C3|额外礼物|C0|。",
+			"dialog"			: "吾每天會為你帶來一個更多的|C3|額外禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "你将有如此多的选择去改变你的命运。",
+			"dialog"			: "你將有如此多的選擇去改變你的命運。",
 		},
 	],
 	"upgrade_tetrids_first" 	: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "吾下次会为你带来一个|C3|棱晶额外礼物|C0|。",
+			"dialog"			: "吾下次會為你帶來一個|C3|稜晶額外禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "你很快就将拥有成山的魔尘。",
+			"dialog"			: "你很快就將擁有成山的魔塵。",
 		},
 	],
 	"upgrade_tetrids" 			: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "吾每天会为你带来一个更多的|C3|棱晶额外礼物|C0|。",
+			"dialog"			: "吾每天會為你帶來一個更多的|C3|稜晶額外禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "你很快就将拥有繁星一般的魔尘。",
+			"dialog"			: "你很快就將擁有繁星一般的魔塵。",
 		},
 	],
 	
 	
 	"green_comment"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "这些感觉如此恶心，或只是吾的想法？",
+		"dialog"	: "這些感覺如此噁心，或只是吾的想法？",
 	},
 	"red_comment"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_angry"],
-		"dialog"	: "|shake|吾没事！|norm||L|将它们交予吾吧。",
+		"dialog"	: "|shake|吾沒事！|norm||L|將它們交予吾吧。",
 	},
 	"yellow_comment"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾甚至不愿去想它。",
+		"dialog"	: "吾甚至不願去想它。",
 	},
 	"blue_comment"		: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "吾真的能用这些帮助你吗？|L|如果吾让你的命运变得更糟糕了？",
+		"dialog"	: "吾真的能用這些幫助你嗎？|L|如果吾讓你的命運變得更糟糕了？",
 	},
 	"orange_comment"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-		"dialog"	: "这些感觉如吾一般，如同破碎的玻璃。",
+		"dialog"	: "這些感覺如吾一般，如同破碎的玻璃。",
 	},
 	"purple_comment"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "源于虚空她自己的空无。|L||C3|这些能给予吾最多力量。",
+		"dialog"	: "源於虛空她自己的空無。|L||C3|這些能給予吾最多力量。",
 	},
 	"radiant_comment"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "|shake|如此庞大的力量！|norm||L|而你却拿着它，仿若无物。",
+		"dialog"	: "|shake|如此龐大的力量！|norm||L|而你卻拿著它，彷若無物。",
 	},
 	"upgrade_confirm"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-		"dialog"	: "你会让吾收下这些吗？",
+		"dialog"	: "你會讓吾收下這些嗎？",
 	},
 
 
@@ -490,69 +490,69 @@
 	"leave_warning" : [
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "你给予了吾如此多的力量，而你却不愿让吾使用全部？",
+			"dialog"			: "你給予了吾如此多的力量，而你卻不願讓吾使用全部？",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "你可无法带走这些力量，你知道的吧？",
+			"dialog"			: "你可無法帶走這些力量，你知道的吧？",
 		},
 	],
 
 	"leave_blank" : [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "将会有着|wave|更多的|norm|怪物去爱？",
+			"dialog"			: "將會有著|wave|更多的|norm|怪物去愛？",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "|wave|没错。",
+			"dialog"			: "|wave|沒錯。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_angry"],
-			"dialog"			: "试着别被|shake|杀掉！",
+			"dialog"			: "試著別被|shake|殺掉！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "哦，别担心。|!||L||wave|我爱你！",
+			"dialog"			: "哦，別擔心。|!||L||wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "这位女士无所畏惧。",
+			"dialog"			: "這位女士無所畏懼。",
 		},
 	],
 	
 	"leave_defect" : [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "将会有着更多的怪物？|L||!|我希望我能够应付的来。",
+			"dialog"			: "將會有著更多的怪物？|L||!|我希望我能夠應付的來。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "这仅仅意味着有更多怪物会得恩于我的存在。",
+			"dialog"			: "這僅僅意味著有更多怪物會得恩於我的存在。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "这个小家伙如此闪耀。",
+			"dialog"			: "這個小傢伙如此閃耀。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "在她们攻击之前，你就能让她们目眩。",
+			"dialog"			: "在她們攻擊之前，你就能讓她們目眩。",
 		},
 	],
 	
 	"leave_twins" : [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "你知道阳光会亲吻哪只怪物吗？",
+			"dialog"			: "你知道陽光會親吻哪隻怪物嗎？",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "|wave|吾确实知道。",
+			"dialog"			: "|wave|吾確實知道。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|什么？！|norm||!||L|那不是-",
+			"dialog"			: "|shake|什麼？！|norm||!||L|那不是-",
 		},
 		{
 			"character"			: ["VOICE_none", "CHAR_center", "MOOD_normal"],
@@ -560,22 +560,22 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
-			"dialog"			: "她去哪里了？",
+			"dialog"			: "她去哪裡了？",
 		},
 	],
 	
 	"leave_devil" : [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "这正是我所追寻的那种挑战。",
+			"dialog"			: "這正是我所追尋的那種挑戰。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "|wave|你确定你能应对这一切吗？",
+			"dialog"			: "|wave|你確定你能應對這一切嗎？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "你确定你能应对|shake|这个吗？",
+			"dialog"			: "你確定你能應對|shake|這個嗎？",
 		},
 		{
 			"love_hearts"		: 1,
@@ -584,19 +584,19 @@
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "一些额外的怪物对你而言不成问题。",
+			"dialog"			: "一些額外的怪物對你而言不成問題。",
 		},
 	],
 
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "你的命运掌握在自己手中。",
+			"dialog"			: "你的命運掌握在自己手中。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "看看你已经为我们做的一切。",
+			"dialog"			: "看看你已經為我們做的一切。",
 		},
 	],
 

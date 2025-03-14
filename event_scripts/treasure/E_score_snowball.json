@@ -3,127 +3,127 @@
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
 			"random"			: 2,
-			"dialog_rand1"		: "见到忠诚的臣民，我们倍感欢欣。",
-			"dialog_rand2"		: "这不是我们最忠诚的臣民吗。",
+			"dialog_rand1"		: "見到忠誠的臣民，我們倍感歡欣。",
+			"dialog_rand2"		: "這不是我們最忠誠的臣民嗎。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "女皇陛下,雪球一世,将她存在之赐福施加于汝。",
+			"dialog"			: "女皇陛下,雪球一世,將她存在之賜福施加於汝。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-			"dialog"			: "女皇陛下有一项任务，只有汝等民族才可完成。",
+			"dialog"			: "女皇陛下有一項任務，只有汝等民族才可完成。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_sad"],
 			"random"			: 2,
-			"dialog_rand1"		: "看起来我们的皇家藏宝者，我本人，错放了我们最为皇家的财宝。",
-			"dialog_rand2"		: "看起来我们最皇家财宝的地点已经由于无尽大雨的循环而遗失了。",
+			"dialog_rand1"		: "看起來我們的皇家藏寶者，我本人，錯放了我們最為皇家的財寶。",
+			"dialog_rand2"		: "看起來我們最皇家財寶的地點已經由於無盡大雨的循環而遺失了。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-			"dialog"			: "作为我们最忠诚的臣民，汝的协助对我们的搜寻而言不可或缺。",
+			"dialog"			: "作為我們最忠誠的臣民，汝的協助對我們的搜尋而言不可或缺。",
 		},
 	],
 	
 	"intro_defect" : [
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "吾眼前的不是虚空公主与她的女伴吗。",
+			"dialog"			: "吾眼前的不是虛空公主與她的女伴嗎。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "女皇陛下，冰霜跳虫之主。|L||!||wave|向您请安。",
+			"dialog"			: "女皇陛下，冰霜跳蟲之主。|L||!||wave|向您請安。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "我有点搞不清状况...",
+			"dialog"			: "我有點搞不清狀況...",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_sad"],
-			"dialog"			: "汝等也有重要的事物没能明晰？",
+			"dialog"			: "汝等也有重要的事物沒能明晰？",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_sad"],
 			"random"			: 2,
-			"dialog_rand1"		: "看起来我们的皇家藏宝者，我本人，错放了我们最为皇家的财宝。",
-			"dialog_rand2"		: "看起来我们最皇家财宝的地点已经由于无尽大雨的循环而遗失了。",
+			"dialog_rand1"		: "看起來我們的皇家藏寶者，我本人，錯放了我們最為皇家的財寶。",
+			"dialog_rand2"		: "看起來我們最皇家財寶的地點已經由於無盡大雨的循環而遺失了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "亲爱的缺陷，我们必须帮助女皇陛下寻找皇家的财宝。",
+			"dialog"			: "親愛的缺陷，我們必須幫助女皇陛下尋找皇家的財寶。",
 		},
 	],
 	
-	"monster_gifts"	: "雪球的宝藏",
+	"monster_gifts"	: "雪球的寶藏",
 	
-	"op_start"		: "寻找宝藏",
-	"op_leave"		: "这里没有宝藏",
+	"op_start"		: "尋找寶藏",
+	"op_leave"		: "這裡沒有寶藏",
 	
 	"comment_start"		: {
 		"character"	: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-		"dialog"	: "汝等的劳作将得到奖赏。",
+		"dialog"	: "汝等的勞作將得到獎賞。",
 	},
 	"comment_leave"		: {
 		"character"	: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_sad"],
-		"dialog"	: "女皇陛下担心宝藏可能不在这里。",
+		"dialog"	: "女皇陛下擔心寶藏可能不在這裡。",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-		"dialog"	: "皇家宝藏在其他地方吗？",
+		"dialog"	: "皇家寶藏在其他地方嗎？",
 	},
 	
 	"start_battle" 	: [
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "很棒的选择。",
+			"dialog"			: "很棒的選擇。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-			"dialog"			: "我们会允许你再次进入我们的梦境。",
+			"dialog"			: "我們會允許你再次進入我們的夢境。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "当然，我们所寻求的答案就在其中。",
+			"dialog"			: "當然，我們所尋求的答案就在其中。",
 		},
 	],
 	
 	"no_battle" 	: [
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_sad"],
-			"dialog"			: "看起来女皇陛下犯了重大的错误。",
+			"dialog"			: "看起來女皇陛下犯了重大的錯誤。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_sad"],
-			"dialog"			: "皇家宝藏在另一个完全不同的地方。",
+			"dialog"			: "皇家寶藏在另一個完全不同的地方。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "请不要担心！未来会有另一次机会的。",
+			"dialog"			: "請不要擔心！未來會有另一次機會的。",
 		},
 	],
 	
 	"return_intro" : [
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "这是你美妙睡眠症的非凡展示。",
+			"dialog"			: "這是你美妙睡眠症的非凡展示。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-			"dialog"			: "随着皇家宝藏的地点，一同有|C3|[VAL1]皇家魔尘|C0|也被发现。",
+			"dialog"			: "隨著皇家寶藏的地點，一同有|C3|[VAL1]皇家魔塵|C0|也被發現。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "女皇陛下愿将汝封为，梦境的寻宝者！",
-			"dialog_rand2"		: "女皇陛下愿将汝封为，安眠的会计师！",
-			"dialog_rand3"		: "女皇陛下愿将汝封为，沉眠的鉴赏家！",
-			"dialog_rand4"		: "女皇陛下愿将汝封为，催眠的寻宝者！",
+			"dialog_rand1"		: "女皇陛下願將汝封為，夢境的尋寶者！",
+			"dialog_rand2"		: "女皇陛下願將汝封為，安眠的會計師！",
+			"dialog_rand3"		: "女皇陛下願將汝封為，沉眠的鑑賞家！",
+			"dialog_rand4"		: "女皇陛下願將汝封為，催眠的尋寶者！",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-			"dialog"			: "现在。让我们来发现皇家宝藏是什么。",
+			"dialog"			: "現在。讓我們來發現皇家寶藏是什麼。",
 		},
 		{
 			"character"			: ["VOICE_static", "CHAR_snowball_right", "MOOD_angry"],
@@ -132,32 +132,32 @@
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "如同预言一般！",
-			"dialog_rand2"		: "地点是正确的！",
+			"dialog_rand1"		: "如同預言一般！",
+			"dialog_rand2"		: "地點是正確的！",
 		},
 	],
 	
 	
 	"comment_take_first"	: {
 		"character"	: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-		"dialog"	: "接受你的奖赏！",
+		"dialog"	: "接受你的獎賞！",
 	},
 	"comment_take_another"	: {
 		"character"	: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-		"dialog"	: "接受另一个奖赏！",
+		"dialog"	: "接受另一個獎賞！",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-		"dialog"	: "汝会收下这份财宝吗？",
+		"dialog"	: "汝會收下這份財寶嗎？",
 	},
 	"gift_taken" 		: [
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
 			"random"			: 4,
-			"dialog_rand1"		: "女皇陛下坚持你必须收下另一份宝藏。",
-			"dialog_rand2"		: "皇家宝藏非常丰富。|L||!|请再分担一份吧。",
-			"dialog_rand3"		: "女皇陛下总是会与她的臣民分享财富。",
-			"dialog_rand4"		: "皇家宝藏非常丰富。|L||!|你必须再收下一份。 ",
+			"dialog_rand1"		: "女皇陛下堅持你必須收下另一份寶藏。",
+			"dialog_rand2"		: "皇家寶藏非常豐富。|L||!|請再分擔一份吧。",
+			"dialog_rand3"		: "女皇陛下總是會與她的臣民分享財富。",
+			"dialog_rand4"		: "皇家寶藏非常豐富。|L||!|你必須再收下一份。 ",
 		}
 	],
 	
@@ -165,35 +165,35 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-			"dialog"			: "汝的温暖超越了女皇陛下的任何词汇。",
+			"dialog"			: "汝的溫暖超越了女皇陛下的任何詞彙。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-			"dialog"			: "汝现在将成为她的皇家恒温器。",
+			"dialog"			: "汝現在將成為她的皇家恆溫器。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious3"],
-			"dialog"			: "我知道你想要什么。",
+			"dialog"			: "我知道你想要什麼。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "其他否决这种温暖的冰霜跳虫真是愚蠢。",
+			"dialog"			: "其他否決這種溫暖的冰霜跳蟲真是愚蠢。",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-			"dialog"			: "这些皇家礼物已经被赠与汝了。|!|有了这些，汝必须保护虚空公主。",
+			"dialog"			: "這些皇家禮物已經被贈與汝了。|!|有了這些，汝必須保護虛空公主。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "就如同她用她最皇家的礼物保护自己一样。",
+			"dialog"			: "就如同她用她最皇家的禮物保護自己一樣。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
@@ -201,22 +201,22 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "我们必须保护彼此，我的小小缺陷。",
+			"dialog"			: "我們必須保護彼此，我的小小缺陷。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "我们会尽力的...女皇    陛下？",
+			"dialog"			: "我們會盡力的...女皇    陛下？",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "说的好，我最忠实的臣民。",
+			"dialog"			: "說的好，我最忠實的臣民。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-			"dialog"			: "女皇陛下感知到了对于最高等级跳虫的崇敬，来自发色最为鲜绿的扎拉登。",
+			"dialog"			: "女皇陛下感知到了對於最高等級跳蟲的崇敬，來自髮色最為鮮綠的扎拉登。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
@@ -225,55 +225,55 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "无需担心。女王陛下会允许你接触，皇家拥抱者。",
+			"dialog"			: "無需擔心。女王陛下會允許你接觸，皇家擁抱者。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "我们要在这里待一会了，是吧？",
+			"dialog"			: "我們要在這裡待一會了，是吧？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_content"],
-			"dialog"			: "再五个小时就好。",
+			"dialog"			: "再五個小時就好。",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
-			"dialog"			: "我希望有一位像你这样的扎拉登统治者。",
+			"dialog"			: "我希望有一位像你這樣的扎拉登統治者。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
-			"dialog"			: "我们的谁都不愿意帮助。",
+			"dialog"			: "我們的誰都不願意幫助。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_sad"],
-			"dialog"			: "不用担心，我忠诚的臣民，女皇陛下，雪球一世，从现在开始将成为你的统治者。",
+			"dialog"			: "不用擔心，我忠誠的臣民，女皇陛下，雪球一世，從現在開始將成為你的統治者。",
 		},
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "女皇陛下愿将汝封为,毁灭交响曲。",
-			"dialog_rand2"		: "女皇陛下愿将汝封为,神圣潜水员。",
-			"dialog_rand3"		: "女皇陛下愿将汝封为,不应成就之事。",
-			"dialog_rand4"		: "女皇陛下愿将汝封为，地狱的阶梯。",
+			"dialog_rand1"		: "女皇陛下願將汝封為,毀滅交響曲。",
+			"dialog_rand2"		: "女皇陛下願將汝封為,神聖潛水員。",
+			"dialog_rand3"		: "女皇陛下願將汝封為,不應成就之事。",
+			"dialog_rand4"		: "女皇陛下願將汝封為，地獄的階梯。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "好耶！忘掉那些又老又蠢的扎拉登！|L||!|这坑里可比高塔里的所有东西酷多了。",
+			"dialog"			: "好耶！忘掉那些又老又蠢的扎拉登！|L||!|這坑裡可比高塔裡的所有東西酷多了。",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_normal"],
-			"dialog"			: "女皇陛下得到了一个启示。",
+			"dialog"			: "女皇陛下得到了一個啟示。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_snowball", "CHAR_snowball_right", "MOOD_happy"],
-			"dialog"			: "女皇陛下真正的皇家宝藏一直都是她最忠诚的臣民。",
+			"dialog"			: "女皇陛下真正的皇家寶藏一直都是她最忠誠的臣民。",
 		},
 	],
 

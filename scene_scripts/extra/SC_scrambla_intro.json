@@ -5,11 +5,11 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "你好，扎拉登梦者！",
+			"dialog"			: "你好，扎拉登夢者！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
-			"dialog"			: "哦。则个梦是共享的。",
+			"dialog"			: "哦。則個夢是共享的。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
@@ -17,71 +17,71 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "我们是蛋花！",
+			"dialog"			: "我們是蛋花！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "但是你可能已经知道则个了。",
+			"dialog"			: "但是你可能已經知道則個了。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
-			"dialog"			: "真对不起，我们做过的，     或者将要做的事情？",
+			"dialog"			: "真對不起，我們做過的，     或者將要做的事情？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "对于我们则些晃晃而言时间有些难以捉摸。",
+			"dialog"			: "對於我們則些晃晃而言時間有些難以捉摸。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
-			"dialog"			: "我们是晃晃。|L||!|则意味着我们的一部分存在于更高维度。",
+			"dialog"			: "我們是晃晃。|L||!|則意味著我們的一部分存在於更高維度。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
-			"dialog"			: "但我们可以使用则种晃晃力量来帮助你！",
+			"dialog"			: "但我們可以使用則種晃晃力量來幫助你！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "请帮助我们蛋花来再次去爱。|L||!|如果你这样做，我们会和你分享自己的力量！",
+			"dialog"			: "請幫助我們蛋花來再次去愛。|L||!|如果你這樣做，我們會和你分享自己的力量！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "我们可以打开，呃，通往另一个时间的传送门。|L||!|则个传送门一样的东西叫做|C3|连接突触。",
+			"dialog"			: "我們可以打開，呃，通往另一個時間的傳送門。|L||!|則個傳送門一樣的東西叫做|C3|連接突觸。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "你把礼物给我们，我们会把它们放进我们的|C3|连接突触。",
+			"dialog"			: "你把禮物給我們，我們會把它們放進我們的|C3|連接突觸。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "则些礼物第二天早上会等着你！",
+			"dialog"			: "則些禮物第二天早上會等著你！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "你可以把辣些礼物拿出来，在第一场战斗之前久变得更强！",
+			"dialog"			: "你可以把辣些禮物拿出來，在第一場戰鬥之前久變得更強！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_normal"],
-			"dialog"			: "你也可以选择把则些礼物留在我们的突触里从而另一天再拿出来。",
+			"dialog"			: "你也可以選擇把則些禮物留在我們的突觸裡從而另一天再拿出來。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "你可以储存许多礼物直至你拥有|C3|超级强大的组合|C0|来开始游戏！",
+			"dialog"			: "你可以儲存許多禮物直至你擁有|C3|超級強大的組合|C0|來開始遊戲！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "我们希望则些力量能够帮助到你！",
+			"dialog"			: "我們希望則些力量能夠幫助到你！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_normal"],
-			"dialog"			: "哦对吖，还有件事。",
+			"dialog"			: "哦對吖，還有件事。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "|wave|我们见到你时想要一个拥抱！",
+			"dialog"			: "|wave|我們見到你時想要一個擁抱！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "好吖！     |wave|先再见了！",
+			"dialog"			: "好吖！     |wave|先再見了！",
 		}
 	]
 }

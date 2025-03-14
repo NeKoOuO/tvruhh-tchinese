@@ -2,7 +2,7 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "欢迎来到-",
+			"dialog"			: "歡迎來到-",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
@@ -11,46 +11,46 @@
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
 			"random"			: 3,
-			"dialog_rand1"		: "今天会发现什么呢？",
-			"dialog_rand2"		: "你准备好拍摄群星了吗？",
-			"dialog_rand3"		: "希望你今天能找到有趣的东西。",
+			"dialog_rand1"		: "今天會發現什麼呢？",
+			"dialog_rand2"		: "你準備好拍攝群星了嗎？",
+			"dialog_rand3"		: "希望你今天能找到有趣的東西。",
 		}
 	],
 	
-	"shop_level"		: "天文台等级[VAL1]",
-	"total_tokens"		: "使用的总透镜代币",
-	"telescope_gifts"	: "[VAL1]礼物",
-	"player_gifts"		: "[NAME]的礼物",
+	"shop_level"		: "天文台等級[VAL1]",
+	"total_tokens"		: "使用的總透鏡代幣",
+	"telescope_gifts"	: "[VAL1]禮物",
+	"player_gifts"		: "[NAME]的禮物",
 
 	"op_scopes"		: "天文台",
-	"op_donate"		: "捐赠礼物",
-	"op_upgrade"	: "升级",
-	"op_leave"		: "离开",
+	"op_donate"		: "捐贈禮物",
+	"op_upgrade"	: "升級",
+	"op_leave"		: "離開",
 	
-	"op_telescope_1"	: "天文望远镜 A",
-	"op_telescope_2"	: "天文望远镜 B",
-	"op_telescope_3"	: "天文望远镜 C",
-	"op_donate_limit"	: "后室大小",
+	"op_telescope_1"	: "天文望遠鏡 A",
+	"op_telescope_2"	: "天文望遠鏡 B",
+	"op_telescope_3"	: "天文望遠鏡 C",
+	"op_donate_limit"	: "後室大小",
 	
 	"comment_scopes"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-		"dialog"	: "透过天文望远镜进行观测，将你的发现变为礼物吧。",
+		"dialog"	: "透過天文望遠鏡進行觀測，將你的發現變為禮物吧。",
 	},
 	"comment_donate"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-		"dialog"	: "把你的礼物捐赠给天文台吧！|L|我会给你|C3|透镜代币|C0|和|C3|因果。|C0|",
+		"dialog"	: "把你的禮物捐贈給天文台吧！|L|我會給你|C3|透鏡代幣|C0|和|C3|因果。|C0|",
 	},
 	"comment_donate_limit"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-		"dialog"	: "我今天没有空间存放捐赠品了。",
+		"dialog"	: "我今天沒有空間存放捐贈品了。",
 	},
 	"comment_token_limit"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_upset"],
-		"dialog"	: "使用一些已有的|C3|透镜代币|C0|吧！",
+		"dialog"	: "使用一些已有的|C3|透鏡代幣|C0|吧！",
 	},
 	"comment_upgrades"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-		"dialog"	: "我可以用你的那些|C3|棱晶|C0|来改进天文台！",
+		"dialog"	: "我可以用你的那些|C3|稜晶|C0|來改進天文台！",
 	},
 	"comment_max_level"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
@@ -58,53 +58,53 @@
 	},
 	"comment_leave"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-		"dialog"	: "如果你现在要走，我可以将你所有的|C3|透镜代币|C0|留到下一次拜访。",
+		"dialog"	: "如果你現在要走，我可以將你所有的|C3|透鏡代幣|C0|留到下一次拜訪。",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-		"dialog"	: "你这么快就要走了吗？",
+		"dialog"	: "你這麼快就要走了嗎？",
 	},
 	
 	"comment_open_telescope"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-		"dialog"	: "每个天文望远镜都能从群星中拍摄出一个礼物。",
+		"dialog"	: "每個天文望遠鏡都能從群星中拍攝出一個禮物。",
 	},
 	"comment_used_telescope"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-		"dialog"	: "你无法从这个望远镜里得到另一个礼物，但你还是可以透过它看一看。",
+		"dialog"	: "你無法從這個望遠鏡裡得到另一個禮物，但你還是可以透過它看一看。",
 	},
 	"comment_empty_telescope"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-		"dialog"	: "这里面没剩下什么能看到了。",
+		"dialog"	: "這裡面沒剩下什麼能看到了。",
 	},
 	"comment_locked_telescope"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious"],
-		"dialog"	: "这个望远镜尚未准备好，无法使用。",
+		"dialog"	: "這個望遠鏡尚未準備好，無法使用。",
 	},
 	
 	
 	
-	"cost_line"		: "使用|C3|[VAL1]个透镜代币|C0|拍摄这个礼物。",
-	"cost_line_1"	: "使用|C3|1个透镜代币|C0|拍摄这个礼物。",
+	"cost_line"		: "使用|C3|[VAL1]個透鏡代幣|C0|拍攝這個禮物。",
+	"cost_line_1"	: "使用|C3|1個透鏡代幣|C0|拍攝這個禮物。",
 	"comment_unknown"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked"],
-		"dialog"	: "看起来望远镜无法聚焦到上面！|L|[VAL1]",
+		"dialog"	: "看起來望遠鏡無法聚焦到上面！|L|[VAL1]",
 	},
 	"comment_one"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-		"dialog"	: "这只是颗恒星。|L|[VAL1]",
+		"dialog"	: "這只是顆恆星。|L|[VAL1]",
 	},
 	"comment_two"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-		"dialog"	: "一团可爱的宇宙。|L|[VAL1]",
+		"dialog"	: "一團可愛的宇宙。|L|[VAL1]",
 	},
 	"comment_three"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-		"dialog"	: "这真让我敬叹。|L|[VAL1]",
+		"dialog"	: "這真讓我敬嘆。|L|[VAL1]",
 	},
 	"comment_bonus"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-		"dialog"	: "额外的星星！|L|[VAL1]",
+		"dialog"	: "額外的星星！|L|[VAL1]",
 	},
 	"comment_quick"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
@@ -112,192 +112,192 @@
 	},
 	"comment_limit"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-		"dialog"	: "拿不下的话就没必要拍下它了。",
+		"dialog"	: "拿不下的話就沒必要拍下它了。",
 	},
 	"comment_over"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious"],
-		"dialog"	: "你需要|C3|[VAL2]个透镜代币|C0|来拍下它。",
+		"dialog"	: "你需要|C3|[VAL2]個透鏡代幣|C0|來拍下它。",
 	},
 	"comment_over_1"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious"],
-		"dialog"	: "你需要|C3|1个透镜代币|C0|来拍下它。",
+		"dialog"	: "你需要|C3|1個透鏡代幣|C0|來拍下它。",
 	},
 	"comment_closed"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-		"dialog"	: "你已经使用这个望远镜拍摄了1个礼物。",
+		"dialog"	: "你已經使用這個望遠鏡拍攝了1個禮物。",
 	},
 	"buy_confirm"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-		"dialog"	: "要拍摄这个礼物吗？",
+		"dialog"	: "要拍攝這個禮物嗎？",
 	},
 	
 	"gift_bought" 		: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
 			"random"			: 4,
-			"dialog_rand1"		: "|shake|好的好的！|norm||L|把这团宇宙带在你身边吧。",
-			"dialog_rand2"		: "|wave|明亮   而   闪耀。",
-			"dialog_rand3"		: "哦哦，我喜欢那个。",
-			"dialog_rand4"		: "这是我最喜欢的一个！",
+			"dialog_rand1"		: "|shake|好的好的！|norm||L|把這團宇宙帶在你身邊吧。",
+			"dialog_rand2"		: "|wave|明亮   而   閃耀。",
+			"dialog_rand3"		: "哦哦，我喜歡那個。",
+			"dialog_rand4"		: "這是我最喜歡的一個！",
 		}
 	],
 	
 	
 	
-	"donate_line"	: "我会给你|C3|[VAL1]个透镜代币|C0|和|C3|[VAL2]因果|C0|来交换它。",
-	"donate_line_1"	: "我会给你|C3|1个透镜代币|C0|和|C3|[VAL2]因果|C0|来交换它。",
+	"donate_line"	: "我會給你|C3|[VAL1]個透鏡代幣|C0|和|C3|[VAL2]因果|C0|來交換它。",
+	"donate_line_1"	: "我會給你|C3|1個透鏡代幣|C0|和|C3|[VAL2]因果|C0|來交換它。",
 	"comment_donate_normal"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-		"dialog"	: "我会接受这个捐赠。|L|[VAL1]",
+		"dialog"	: "我會接受這個捐贈。|L|[VAL1]",
 	},
 	"comment_donate_cosmic"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-		"dialog"	: "我想要将它加入我的收藏！|L|[VAL1]",
+		"dialog"	: "我想要將它加入我的收藏！|L|[VAL1]",
 	},
 	"comment_donate_special"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-		"dialog"	: "我觉得我|shake|需要|norm|那个！|L|[VAL1]",
+		"dialog"	: "我覺得我|shake|需要|norm|那個！|L|[VAL1]",
 	},
 	"comment_donate_I_little_sister"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-		"dialog"	: "|wave|这是我最喜欢的星座里小的那一部分。|norm||L|[VAL1]",
+		"dialog"	: "|wave|這是我最喜歡的星座裡小的那一部分。|norm||L|[VAL1]",
 	},
 	"comment_donate_I_big_sister"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-		"dialog"	: "|wave|这是我最喜欢的星座里大的那一部分。|norm||L|[VAL1]",
+		"dialog"	: "|wave|這是我最喜歡的星座裡大的那一部分。|norm||L|[VAL1]",
 	},
 	"comment_donate_TAG_vitrea_part"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush"],
-		"dialog"	: "我还在想把它放哪了呢。|L|[VAL1]",
+		"dialog"	: "我還在想把它放哪了呢。|L|[VAL1]",
 	},
 	"comment_donate_TAG_glacia_part"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_too_happy"],
-		"dialog"	: "|shake|我能收下它吗？|norm||L|[VAL1]",
+		"dialog"	: "|shake|我能收下它嗎？|norm||L|[VAL1]",
 	},
 	"comment_donate_quick"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-		"dialog"	: "快点，在它消失之前！|L|[VAL1]",
+		"dialog"	: "快點，在它消失之前！|L|[VAL1]",
 	},
 	"comment_donate_blessing"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-		"dialog"	: "那是什么？纯粹的情感吗？|L|[VAL1]",
+		"dialog"	: "那是什麼？純粹的情感嗎？|L|[VAL1]",
 	},
 	"comment_donate_cosmic_blessing"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-		"dialog"	: "它们|wave|有星星的感觉！|norm||L|[VAL1]",
+		"dialog"	: "它們|wave|有星星的感覺！|norm||L|[VAL1]",
 	},
 	"comment_donate_burden"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-		"dialog"	: "你真的不会把它给我吗？|L|啊，你足够了解我，知道它对我不好。",
+		"dialog"	: "你真的不會把它給我嗎？|L|啊，你足夠了解我，知道它對我不好。",
 	},
 	"comment_donate_taken": {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-		"dialog"	: "你刚拿到它。|L|我想让你留下它。",
+		"dialog"	: "你剛拿到它。|L|我想讓你留下它。",
 	},
 	"comment_donate_starter": {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_upset"],
-		"dialog"	: "我不会把那个从你身边拿走的。",
+		"dialog"	: "我不會把那個從你身邊拿走的。",
 	},
 	"donate_confirm"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-		"dialog"	: "我真的可以收下它吗？",
+		"dialog"	: "我真的可以收下它嗎？",
 	},
 	
 	"gift_donated" 		: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "|wave|谢谢你给我这个！",
-			"dialog_rand2"		: "我超爱它！",
-			"dialog_rand3"		: "你一定非常想要拍摄群星。",
-			"dialog_rand4"		: "我现在非常开心。",
+			"dialog_rand1"		: "|wave|謝謝你給我這個！",
+			"dialog_rand2"		: "我超愛它！",
+			"dialog_rand3"		: "你一定非常想要拍攝群星。",
+			"dialog_rand4"		: "我現在非常開心。",
 		}
 	],
 	"cosmic_donated" 	: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
 			"random"			: 3,
-			"dialog_rand1"		: "繁星如此美丽。",
+			"dialog_rand1"		: "繁星如此美麗。",
 			"dialog_rand2"		: "宇宙中有如此多的秘密。",
-			"dialog_rand3"		: "我喜欢看星星。",
+			"dialog_rand3"		: "我喜歡看星星。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
 			"random"			: 8,
-			"dialog_rand1"		: "你知道在800年前，有一个距离足够近的超新星爆炸，如同月亮一样明亮？",
-			"dialog_rand2"		: "你知道我们的星星比99%已知的彩虹之星都要小吗？真等不及再看到它了。",
-			"dialog_rand3"		: "你知道我们现在看到的一些星星实际上百万年前就爆炸了？",
-			"dialog_rand4"		: "你知道在我们的太阳系里苜里斯星一天的时间比所有其他星球都要短吗？",
-			"dialog_rand5"		: "你知道我们的宇宙仅存在了285亿年吗？",
-			"dialog_rand6"		: "你知道流星仅仅只是太空岩石在落向苜里斯星燃烧起来的样子吗？",
-			"dialog_rand7"		: "你知道苜里斯星是来自我们星星的第四颗星球吗？",
-			"dialog_rand8"		: "你知道在100亿年内，我们的星星会开始膨胀并爆炸吗？在那之前我们最好离开这个星球。",
+			"dialog_rand1"		: "你知道在800年前，有一個距離足夠近的超新星爆炸，如同月亮一樣明亮？",
+			"dialog_rand2"		: "你知道我們的星星比99%已知的彩虹之星都要小嗎？真等不及再看到它了。",
+			"dialog_rand3"		: "你知道我們現在看到的一些星星實際上百萬年前就爆炸了？",
+			"dialog_rand4"		: "你知道在我們的太陽系裡苜里斯星一天的時間比所有其他星球都要短嗎？",
+			"dialog_rand5"		: "你知道我們的宇宙僅存在了285億年嗎？",
+			"dialog_rand6"		: "你知道流星僅僅只是太空岩石在落向苜里斯星燃燒起來的樣子嗎？",
+			"dialog_rand7"		: "你知道苜里斯星是來自我們星星的第四顆星球嗎？",
+			"dialog_rand8"		: "你知道在100億年內，我們的星星會開始膨脹並爆炸嗎？在那之前我們最好離開這個星球。",
 		}
 	],
 	"special_donated" 	: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "happy_glare"],
-			"dialog"			: "这看起来像是来自一个完全不同的宇宙！",
+			"dialog"			: "這看起來像是來自一個完全不同的宇宙！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "你知道可能有无限数量的平行宇宙吗？",
+			"dialog"			: "你知道可能有無限數量的平行宇宙嗎？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "如果是这样的话，那么你能够想象的一切     |shake|一定会   存在！",
+			"dialog"			: "如果是這樣的話，那麼你能夠想像的一切     |shake|一定會   存在！",
 		}
 	],
 	"I_little_sister_donated" 	: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "我特别喜欢这一对星座！",
+			"dialog"			: "我特別喜歡這一對星座！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "你知道所有玻璃植物的花瓣都能够反射天空中实际的星星吗？",
+			"dialog"			: "你知道所有玻璃植物的花瓣都能夠反射天空中實際的星星嗎？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-			"dialog"			: "但我希望我映射的是这对星座。",
+			"dialog"			: "但我希望我映射的是這對星座。",
 		},
 	],
 	"I_big_sister_donated" 	: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "我特别喜欢这一对星座！",
+			"dialog"			: "我特別喜歡這一對星座！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "你知道把它给我，我会更加爱你吗？",
+			"dialog"			: "你知道把它給我，我會更加愛你嗎？",
 		},
 	],
 	"TAG_vitrea_part_donated" 	: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
-			"dialog"			: "我应该更小心处理这些的！",
+			"dialog"			: "我應該更小心處理這些的！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush"],
-			"dialog"			: "我不想任何人踩到它们上面伤到自己。",
+			"dialog"			: "我不想任何人踩到它們上面傷到自己。",
 		},
 	],
 	"TAG_glacia_part_donated" 	: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
-			"dialog"			: "真的，我能够收下它吗？",
+			"dialog"			: "真的，我能夠收下它嗎？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
-			"dialog"			: "这闻起来仍和她一样。",
+			"dialog"			: "這聞起來仍和她一樣。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
-			"dialog"			: "哦！ 我不小心说出来了。",
+			"dialog"			: "哦！ 我不小心說出來了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_too_happy"],
-			"dialog"			: "你为什么在那样看着我？",
+			"dialog"			: "你為什麼在那樣看著我？",
 		},
 	],
 	
@@ -306,70 +306,70 @@
 	
 	"comment_upgrade_scope_0"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-		"dialog"	: "给我一些棱晶，我就能激活这些望远镜。",
+		"dialog"	: "給我一些稜晶，我就能啟用這些望遠鏡。",
 	},
 	"comment_upgrade_scope_1"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-		"dialog"	: "这个望远镜现在仅能够观测|C3|1个宇宙天体|C0|，但我可以用一些棱晶升级它！",
+		"dialog"	: "這個望遠鏡現在僅能夠觀測|C3|1個宇宙天體|C0|，但我可以用一些稜晶升級它！",
 	},
 	"comment_upgrade_scope"			: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-		"dialog"	: "这个望远镜能够观测|C3|[VAL1]个宇宙天体|C0|，但我可以用更多棱晶升级它！",
+		"dialog"	: "這個望遠鏡能夠觀測|C3|[VAL1]個宇宙天體|C0|，但我可以用更多稜晶升級它！",
 	},
 	"comment_upgrade_scope_maxed"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-		"dialog"	: "这个望远镜已经达到最大的力量！|L|每次拜访时它能够观测|C3|[VAL1]个宇宙天体|C0|。",
+		"dialog"	: "這個望遠鏡已經達到最大的力量！|L|每次拜訪時它能夠觀測|C3|[VAL1]個宇宙天體|C0|。",
 	},
 	
 	"comment_upgrade_donate_1"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-		"dialog"	: "每次拜访时，后室仅能放得下|C3|1个捐赠品|C0|，但我可以腾出空间再放一个。",
+		"dialog"	: "每次拜訪時，後室僅能放得下|C3|1個捐贈品|C0|，但我可以騰出空間再放一個。",
 	},
 	"comment_upgrade_donate"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-		"dialog"	: "每次拜访时，后室能放得下|C3|[VAL1]个捐赠品|C0|，但我可以腾出空间存放更多！",
+		"dialog"	: "每次拜訪時，後室能放得下|C3|[VAL1]個捐贈品|C0|，但我可以騰出空間存放更多！",
 	},
 	"comment_upgrade_donate_maxed"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-		"dialog"	: "我可以在阿玛加的后室维度中存放|C3|[VAL1]个捐赠品|C0|。这看起来是绝对的上限了。",
+		"dialog"	: "我可以在阿瑪加的後室維度中存放|C3|[VAL1]個捐贈品|C0|。這看起來是絕對的上限了。",
 	},
 	
 	"comment_upgrade_fail"			: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-		"dialog"	: "我们慢点来，好吗？|L|尝试在望远镜里使用更多的|C3|透镜代币|C0|，这样我才能搞明白怎么提升它。",
+		"dialog"	: "我們慢點來，好嗎？|L|嘗試在望遠鏡裡使用更多的|C3|透鏡代幣|C0|，這樣我才能搞明白怎麼提升它。",
 	},
 	
 	"upgrade_telescope_first" 	: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-			"dialog"			: "|shake|好的！|norm|我可以用它激活另一个望远镜！",
+			"dialog"			: "|shake|好的！|norm|我可以用它啟用另一個望遠鏡！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "实际上，你现在就能使用它！",
+			"dialog"			: "實際上，你現在就能使用它！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "虽然现在它只能够观察到1件事物。",
+			"dialog"			: "雖然現在它只能夠觀察到1件事物。",
 		}
 	],
 	"upgrade_telescope" 		: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-			"dialog"			: "你下次拜访时这个望远镜能够观察到更多的宇宙天体！",
+			"dialog"			: "你下次拜訪時這個望遠鏡能夠觀察到更多的宇宙天體！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "在选择拍摄礼物时你会有更多选项。",
+			"dialog"			: "在選擇拍攝禮物時你會有更多選項。",
 		},
 	],
 	"upgrade_telescope_final" 	: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "下次你拜访时，这个望远镜会有着最大力量！",
+			"dialog"			: "下次你拜訪時，這個望遠鏡會有著最大力量！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
@@ -377,15 +377,15 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
-			"dialog"			: "光是想一想我就非常兴奋了。",
+			"dialog"			: "光是想一想我就非常興奮了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_too_happy"],
-			"dialog"			: "|shake|想一想你所能够观测到的所有宇宙天体。",
+			"dialog"			: "|shake|想一想你所能夠觀測到的所有宇宙天體。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "我等不及为你展示了！",
+			"dialog"			: "我等不及為你展示了！",
 		},
 	],
 	"upgrade_donation_first" : [
@@ -394,12 +394,12 @@
 			"play_music"		: "orange_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "我们看看我能否自己这么做。",
+			"dialog"			: "我們看看我能否自己這麼做。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-			"dialog"			: "|shake|后室扩展！",
+			"dialog"			: "|shake|後室擴展！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
@@ -407,27 +407,27 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-			"dialog"			: "我的朋友，阿玛加，正在让我使用某种叫后室维度的东西。",
+			"dialog"			: "我的朋友，阿瑪加，正在讓我使用某種叫後室維度的東西。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "这就像是她能够在第四维度打开的小口袋。",
+			"dialog"			: "這就像是她能夠在第四維度打開的小口袋。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "我也可以把你的捐赠品与额外的透镜代币放在这里，毕竟你也不想带着那些到处晃。",
+			"dialog"			: "我也可以把你的捐贈品與額外的透鏡代幣放在這裡，畢竟你也不想帶著那些到處晃。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "那些代币仅在这里可用，对吧？",
+			"dialog"			: "那些代幣僅在這裡可用，對吧？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "你知道吗，大部分晃晃都能够开启通往第四维度的洞？",
+			"dialog"			: "你知道嗎，大部分晃晃都能夠開啟通往第四維度的洞？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "阿玛加把她的一小块给了我，所以我随时都能开启这个裂隙。",
+			"dialog"			: "阿瑪加把她的一小塊給了我，所以我隨時都能開啟這個裂隙。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
@@ -435,26 +435,26 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
-			"dialog"			: "呃，事实上...|L||!|我继续讲的话要占用你的一整天了。",
+			"dialog"			: "呃，事實上...|L||!|我繼續講的話要占用你的一整天了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "基本上，我现在每天能够从你这里收下1个额外的捐赠物。",
+			"dialog"			: "基本上，我現在每天能夠從你這裡收下1個額外的捐贈物。",
 		}
 	],
 	"upgrade_donation" 			: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-			"dialog"			: "|shake|后室扩张！",
+			"dialog"			: "|shake|後室擴張！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-			"dialog"			: "我可以把更多的捐赠物放入后室维度。",
+			"dialog"			: "我可以把更多的捐贈物放入後室維度。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "现在你每次拜访时我能够收下更多捐赠品了！",
+			"dialog"			: "現在你每次拜訪時我能夠收下更多捐贈品了！",
 		}
 	],
 	"upgrade_donation_final" 	: [
@@ -463,20 +463,20 @@
 			"play_music"		: "orange_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "看起来这是我最后一次能这么做了。",
+			"dialog"			: "看起來這是我最後一次能這麼做了。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-			"dialog"			: "|shake|后室扩张！",
+			"dialog"			: "|shake|後室擴張！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-			"dialog"			: "我现在可以在里面放超级多的东西了。",
+			"dialog"			: "我現在可以在裡面放超級多的東西了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "真不敢相信阿玛加如此信任我给了我这么多空间。",
+			"dialog"			: "真不敢相信阿瑪加如此信任我給了我這麼多空間。",
 		},
 		{
 			"play_music"		: "silence",
@@ -489,7 +489,7 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
-			"dialog"			: "你是不是刚刚往里面看了一眼？",
+			"dialog"			: "你是不是剛剛往裡面看了一眼？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
@@ -498,31 +498,31 @@
 		{
 			"play_music"		: "nightmare_music_c",
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "你     看到了什么？",
+			"dialog"			: "你     看到了什麼？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "我真不敢相信你会这样做。",
+			"dialog"			: "我真不敢相信你會這樣做。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "这完全是我的错。|L||!|我应该警告你不要往里看的。",
+			"dialog"			: "這完全是我的錯。|L||!|我應該警告你不要往裡看的。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "你知道我现在必须要做什么吗？",
+			"dialog"			: "你知道我現在必須要做什麼嗎？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "我不能让阿玛加发现这一切。",
+			"dialog"			: "我不能讓阿瑪加發現這一切。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "我不能让|shake|任何人|norm|     发现这一切。",
+			"dialog"			: "我不能讓|shake|任何人|norm|     發現這一切。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "我不想这么做，但现在我别无选择。",
+			"dialog"			: "我不想這麼做，但現在我別無選擇。",
 		},
 		{
 			"play_music"		: "silence",
@@ -536,59 +536,59 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|亲爱的，亲爱的，请不要告诉任何人！",
+			"dialog"			: "|shake|親愛的，親愛的，請不要告訴任何人！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "|shake|如果你这样做的话会让我哭的！",
+			"dialog"			: "|shake|如果你這樣做的話會讓我哭的！",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
-			"dialog"			: "哭会对你有好处的，琉璃。",
+			"dialog"			: "哭會對你有好處的，琉璃。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|阿玛加！",
+			"dialog"			: "|shake|阿瑪加！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
-			"dialog"			: "你从哪里来的？",
+			"dialog"			: "你從哪裡來的？",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
-			"dialog"			: "这是我们的后室维度。",
+			"dialog"			: "這是我們的後室維度。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
-			"dialog"			: "我们知道你在里面放的一切，而且打开时我们也能够听到你，小傻瓜。",
+			"dialog"			: "我們知道你在裡面放的一切，而且打開時我們也能夠聽到你，小傻瓜。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_angry"],
-			"dialog"			: "我们把它给你的时候就跟你说了！",
+			"dialog"			: "我們把它給你的時候就跟你說了！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_awkward"],
-			"dialog"			: "哦，没错。|L||!|我就知道我忘记了些什么。",
+			"dialog"			: "哦，沒錯。|L||!|我就知道我忘記了些什麼。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-			"dialog"			: "所以     你已经知道了？",
+			"dialog"			: "所以     你已經知道了？",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "你的第一幅画作不可能是完美的。|L||!|你仍然在学习中。",
+			"dialog"			: "你的第一幅畫作不可能是完美的。|L||!|你仍然在學習中。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_aggressive"],
-			"dialog"			: "或者你是在说你在星川的所有照片上练习亲吻的事情？",
+			"dialog"			: "或者你是在說你在星川的所有照片上練習親吻的事情？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
-			"dialog"			: "|shake|我可不会那样做！",
+			"dialog"			: "|shake|我可不會那樣做！",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|只是开玩笑啦！",
+			"dialog"			: "|wave|只是開玩笑啦！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
@@ -596,7 +596,7 @@
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "你应该告诉她你的感受。",
+			"dialog"			: "你應該告訴她你的感受。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_blush"],
@@ -604,11 +604,11 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-			"dialog"			: "她不会有同样的感觉的。",
+			"dialog"			: "她不會有同樣的感覺的。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "你又无法确定。",
+			"dialog"			: "你又無法確定。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
@@ -620,38 +620,38 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-			"dialog"			: "我之前从未这样做过。",
+			"dialog"			: "我之前從未這樣做過。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_normal"],
-			"dialog"			: "没关系的。",
+			"dialog"			: "沒關係的。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
-			"dialog"			: "你也没必要今天就去。",
+			"dialog"			: "你也沒必要今天就去。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
-			"dialog"			: "但相信我们，这么多年都不知道比被拒绝更糟糕。",
+			"dialog"			: "但相信我們，這麼多年都不知道比被拒絕更糟糕。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
-			"dialog"			: "或许知道我们大家都在支持你，也会有帮助。",
+			"dialog"			: "或許知道我們大家都在支持你，也會有幫助。",
 		},
 		{
 			"love_hearts"		: 1,
 			"play_music"		: "silence",
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "啊，谢谢你，阿玛加。",
+			"dialog"			: "啊，謝謝你，阿瑪加。",
 		},
 		{
 			"play_music"		: "orange_scene_music",
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "我们现在要走了！|!||L|我们要在自己的宇宙中给那个苍白的扎拉登一大堆礼物。",
+			"dialog"			: "我們現在要走了！|!||L|我們要在自己的宇宙中給那個蒼白的扎拉登一大堆禮物。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked"],
-			"dialog"			: "你甚至不是这个宇宙的阿玛加？",
+			"dialog"			: "你甚至不是這個宇宙的阿瑪加？",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
@@ -659,7 +659,7 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-			"dialog"			: "|wave|之后和你的某些版本再见。",
+			"dialog"			: "|wave|之後和你的某些版本再見。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
@@ -667,93 +667,93 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-			"dialog"			: "很抱歉耽误了你这么久！",
+			"dialog"			: "很抱歉耽誤了你這麼久！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush"],
-			"dialog"			: "我猜你现在知道我的秘密了。|L||!|我这样其实感觉轻松多了。",
+			"dialog"			: "我猜你現在知道我的秘密了。|L||!|我這樣其實感覺輕鬆多了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
-			"dialog"			: "星川她，真的也会有同样的感受吗？",
+			"dialog"			: "星川她，真的也會有同樣的感受嗎？",
 		},
 	],
 	
 	"green_comment"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_angry"],
-		"dialog"	: "这些太粘了！",
+		"dialog"	: "這些太黏了！",
 	},
 	"red_comment"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-		"dialog"	: "我好像在里面听到了吉他独奏？",
+		"dialog"	: "我好像在裡面聽到了吉他獨奏？",
 	},
 	"yellow_comment"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-		"dialog"	: "这些闻起来像日之花。",
+		"dialog"	: "這些聞起來像日之花。",
 	},
 	"blue_comment"		: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-		"dialog"	: "夜空的颜色。|L|它们感觉像玻璃一样光滑。|L||C3|这些能给我最多的力量。",
+		"dialog"	: "夜空的顏色。|L|它們感覺像玻璃一樣光滑。|L||C3|這些能給我最多的力量。",
 	},
 	"orange_comment"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-		"dialog"	: "这些感觉像破碎的花瓣。",
+		"dialog"	: "這些感覺像破碎的花瓣。",
 	},
 	"purple_comment"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked"],
-		"dialog"	: "这些和太空的真空一样冰冷。",
+		"dialog"	: "這些和太空的真空一樣冰冷。",
 	},
 	"radiant_comment"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-		"dialog"	: "|shake|这些如同星星一般闪耀！",
+		"dialog"	: "|shake|這些如同星星一般閃耀！",
 	},
 	"upgrade_confirm"	: {
 		"character"	: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-		"dialog"	: "我真的能够收下这些吗？",
+		"dialog"	: "我真的能夠收下這些嗎？",
 	},
 	
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "谢谢你今天让我透过云层看到星空。",
+			"dialog"			: "謝謝你今天讓我透過雲層看到星空。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "如果我的计算无误，大雨明天就会停止。",
+			"dialog"			: "如果我的計算無誤，大雨明天就會停止。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
-			"dialog"			: "是呀,    你大概是对的吧。",
+			"dialog"			: "是呀,    你大概是對的吧。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "每个雨天我都会在这里等你。",
+			"dialog"			: "每個雨天我都會在這裡等你。",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "你究竟是怎么运作的？|L||!|你怎么会是活着的？|L||!|你真的是由物质构成的吗？",
+			"dialog"			: "你究竟是怎麼運作的？|L||!|你怎麼會是活著的？|L||!|你真的是由物質構成的嗎？",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "真正重要的是我何等美丽。",
+			"dialog"			: "真正重要的是我何等美麗。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "那种辐射对称。",
+			"dialog"			: "那種輻射對稱。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "呃，我能让她回来了吗？",
+			"dialog"			: "呃，我能讓她回來了嗎？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
@@ -764,15 +764,15 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "这些透镜用的玻璃你是从哪里得到的？",
+			"dialog"			: "這些透鏡用的玻璃你是從哪裡得到的？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "我知道那个表情。",
+			"dialog"			: "我知道那個表情。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
-			"dialog"			: "嗯，我的玻璃用不了，所以...    我的朋友让我用了一些她的玻璃。",
+			"dialog"			: "嗯，我的玻璃用不了，所以...    我的朋友讓我用了一些她的玻璃。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
@@ -788,36 +788,36 @@
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "高塔里的那些人也有望远镜吗？",
+			"dialog"			: "高塔裡的那些人也有望遠鏡嗎？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "那些可悲的存在无法与你相提并论。",
+			"dialog"			: "那些可悲的存在無法與你相提並論。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "哦，真的吗？",
+			"dialog"			: "哦，真的嗎？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
-			"dialog"			: "当我回到上面的时候，我会让那些人为你准备一整座高塔来放你的望远镜。",
+			"dialog"			: "當我回到上面的時候，我會讓那些人為你準備一整座高塔來放你的望遠鏡。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
-			"dialog"			: "你没必要这样做的。",
+			"dialog"			: "你沒必要這樣做的。",
 		},
 	],
 	
 	"leave_default" 	: [
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "我希望你尽快回来。",
+			"dialog"			: "我希望你盡快回來。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-			"dialog"			: "我会在这里向你展示群星。",
+			"dialog"			: "我會在這裡向你展示群星。",
 		},
 	],
 

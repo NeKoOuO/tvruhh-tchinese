@@ -22,55 +22,55 @@
 		{
 			"play_music"		: "orange_scene_music",
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-			"dialog"			: "|shake|你刚刚对我做了什么？",
+			"dialog"			: "|shake|你剛剛對我做了什麼？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-			"dialog"			: "|shake|我是说，那究竟是什么？",
+			"dialog"			: "|shake|我是說，那究竟是什麼？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "有星星，云和月亮，还有--",
+			"dialog"			: "有星星，雲和月亮，還有--",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
-			"dialog"			: "等下，你能看到我！|L||!||shake|我没穿衣服！",
+			"dialog"			: "等一下，你能看到我！|L||!||shake|我沒穿衣服！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "你什么？",
+			"dialog"			: "你什麼？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused_blush"],
-			"dialog"			: "我看起来不应该是这样的。|L||!|对你而言我应该看起来像一朵花。",
+			"dialog"			: "我看起來不應該是這樣的。|L||!|對你而言我應該看起來像一朵花。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-			"dialog"			: "我不应该向扎拉登这样展示自己。",
+			"dialog"			: "我不應該向扎拉登這樣展示自己。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "哦，为什么？",
+			"dialog"			: "哦，為什麼？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_angry"],
-			"dialog"			: "因为你会试着破坏我！",
+			"dialog"			: "因為你會試著破壞我！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|什么？|norm|我为什么要这么做？",
+			"dialog"			: "|shake|什麼？|norm|我為什麼要這麼做？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious"],
-			"dialog"			: "我...   不知道。|L||!|有次你们其中一个向我扔了块石头。",
+			"dialog"			: "我...   不知道。|L||!|有次你們其中一個向我扔了塊石頭。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "是呀，她们也对我这么做过。",
+			"dialog"			: "是呀，她們也對我這麼做過。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_angry"],
-			"dialog"			: "|shake|她们对你做了什么？|!||L|我会杀了她们！",
+			"dialog"			: "|shake|她們對你做了什麼？|!||L|我會殺了她們！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
@@ -90,24 +90,24 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "|wave|我爱你。",
+			"dialog"			: "|wave|我愛你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "我也爱你！|L||!|就好像我们一直是永远的朋友。",
+			"dialog"			: "我也愛你！|L||!|就好像我們一直是永遠的朋友。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-			"dialog"			: "我觉得    我可以向你展示这个形态。",
+			"dialog"			: "我覺得    我可以向你展示這個形態。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked"],
-			"dialog"			: "但我为什么这么害怕你？",
+			"dialog"			: "但我為什麼這麼害怕你？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_aggressive2"],
-			"dialog"			: "因为我很吓人！",
+			"dialog"			: "因為我很嚇人！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
@@ -119,31 +119,31 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "嘿，你是不是想给我展示什么来着，比如说天文望远镜？",
+			"dialog"			: "嘿，你是不是想給我展示什麼來著，比如說天文望遠鏡？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "你是怎么知道我的望远镜的？",
+			"dialog"			: "你是怎麼知道我的望遠鏡的？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "你和阿玛加在昨晚的梦里和我说过了。",
+			"dialog"			: "你和阿瑪加在昨晚的夢裡和我說過了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "又或者，   那是个梦吗？",
+			"dialog"			: "又或者，   那是個夢嗎？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious"],
-			"dialog"			: "嗯...阿玛加确实能这么做。",
+			"dialog"			: "嗯...阿瑪加確實能這麼做。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "但是，   我不是刚刚才见到你？",
+			"dialog"			: "但是，   我不是剛剛才見到你？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush"],
-			"dialog"			: "哦，我一定是忘记了。",
+			"dialog"			: "哦，我一定是忘記了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
@@ -151,55 +151,55 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "不知从什么时候开始我的脑子就乱的像一团云一样。",
+			"dialog"			: "不知從什麼時候開始我的腦子就亂的像一團雲一樣。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy"],
-			"dialog"			: "但现在感觉一切都很清晰了！",
+			"dialog"			: "但現在感覺一切都很清晰了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "这真不错。",
+			"dialog"			: "這真不錯。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-			"dialog"			: "哦，我的天文台就在那边。",
+			"dialog"			: "哦，我的天文台就在那邊。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "云不会挡住望远镜吗？",
+			"dialog"			: "雲不會擋住望遠鏡嗎？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "不     成     问     题。",
+			"dialog"			: "不     成     問     題。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "你看，我的望远镜很特别。",
+			"dialog"			: "你看，我的望遠鏡很特別。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "它们可以向云朵发射音波，在它们之间暂时开一个洞！",
+			"dialog"			: "它們可以向雲朵發射音波，在它們之間暫時開一個洞！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "我可不会让阴雨天阻止我看星星的！",
+			"dialog"			: "我可不會讓陰雨天阻止我看星星的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "琉璃，这太棒了。",
+			"dialog"			: "琉璃，這太棒了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_too_happy"],
-			"dialog"			: "其实没什么特别的。|L||!|其中有的还没有在正常工作。",
+			"dialog"			: "其實沒什麼特別的。|L||!|其中有的還沒有在正常工作。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "嗯，总之我很期待去看看。",
+			"dialog"			: "嗯，總之我很期待去看看。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "然后我们到了。",
+			"dialog"			: "然後我們到了。",
 		},
 	]
 }

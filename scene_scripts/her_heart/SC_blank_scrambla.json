@@ -13,12 +13,12 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious"],
-			"dialog"			: "你|!|现在|!|超级...",
+			"dialog"			: "你|!|現在|!|超級...",
 		},
 		{
 			"play_music"		: "green_scene_music",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|shake|可爱！",
+			"dialog"			: "|shake|可愛！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
@@ -26,27 +26,27 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "则是我们的拥抱模式。",
+			"dialog"			: "則是我們的擁抱模式。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "你觉得则很可爱？",
+			"dialog"			: "你覺得則很可愛？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "实际上，是的。",
+			"dialog"			: "實際上，是的。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "我们想要看起来更像则位扎拉登一样。",
+			"dialog"			: "我們想要看起來更像則位扎拉登一樣。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "|wave|我们认为则位扎拉登很可爱！",
+			"dialog"			: "|wave|我們認為則位扎拉登很可愛！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "哦，你想要看起来像我一样吗？",
+			"dialog"			: "哦，你想要看起來像我一樣嗎？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
@@ -58,7 +58,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "但是，     有很多     比我更好的选择。",
+			"dialog"			: "但是，     有很多     比我更好的選擇。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_normal"],
@@ -66,7 +66,7 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_upset"],
-			"dialog"			: "不不！|L||!|则位扎拉登很棒，你不许说她的坏话！",
+			"dialog"			: "不不！|L||!|則位扎拉登很棒，你不許說她的壞話！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
@@ -78,35 +78,35 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "我们想要用晃晃的力量帮助你！",
+			"dialog"			: "我們想要用晃晃的力量幫助你！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "哦！    我记得我梦到过你跟我说这个？",
+			"dialog"			: "哦！    我記得我夢到過你跟我說這個？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "是吖！你收到我们的消息了。",
+			"dialog"			: "是吖！你收到我們的消息了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "我猜你也有某种梦境力量吗？",
+			"dialog"			: "我猜你也有某種夢境力量嗎？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "是吖！你记得则个？",
+			"dialog"			: "是吖！你記得則個？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "所以我可以把礼物给你，然后你会把它们送向未来，让我可以在明天早上把它们取出来？",
+			"dialog"			: "所以我可以把禮物給你，然後你會把它們送向未來，讓我可以在明天早上把它們取出來？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "是吖！|L||!|但你也可以把它们留到另一天。",
+			"dialog"			: "是吖！|L||!|但你也可以把它們留到另一天。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "而且我可以每天给你不同的礼物，直至我能有|C3|超级礼物组合？",
+			"dialog"			: "而且我可以每天給你不同的禮物，直至我能有|C3|超級禮物組合？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
@@ -114,15 +114,15 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "好吧，那我们开始吧！",
+			"dialog"			: "好吧，那我們開始吧！",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "呃，实际上我们还需要点时间来为则个|C3|连接突触|C0|充能。",
+			"dialog"			: "呃，實際上我們還需要點時間來為則個|C3|連接突觸|C0|充能。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "先去为另一位怪物展示爱。|L||!|我们会在则之后来找你，   好吖？",
+			"dialog"			: "先去為另一位怪物展示愛。|L||!|我們會在則之後來找你，   好吖？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
@@ -130,27 +130,27 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
-			"dialog"			: "哦，还有件事。",
+			"dialog"			: "哦，還有件事。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
-			"dialog"			: "锅炉姐姐可能有点被吓到了。",
+			"dialog"			: "鍋爐姐姐可能有點被嚇到了。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "请你也去爱她，好吖？|L||!|我们没有心，不能则么做。",
+			"dialog"			: "請你也去愛她，好吖？|L||!|我們沒有心，不能則嗎做。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "我们都有则种同样的突触。|L||!|她也会帮助你的！",
+			"dialog"			: "我們都有則種同樣的突觸。|L||!|她也會幫助你的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "蛋花，我知道你姐姐和你一样可爱。",
+			"dialog"			: "蛋花，我知道你姐姐和你一樣可愛。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "但是你没有忘记什么吗？",
+			"dialog"			: "但是你沒有忘記什麼嗎？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_surprised"],
@@ -158,7 +158,7 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "拥抱！",
+			"dialog"			: "擁抱！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -167,11 +167,11 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-			"dialog"			: "|wave|我们爱你！",
+			"dialog"			: "|wave|我們愛你！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		}
 	]
 }

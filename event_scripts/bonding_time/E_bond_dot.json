@@ -2,7 +2,7 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "哦！我刚刚在找你。",
+			"dialog"			: "哦！我剛剛在找你。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
@@ -10,7 +10,7 @@
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "我可以再次和你拥抱吗？|!||L|我知道我这次能够做的更好。",
+			"dialog"			: "我可以再次和你擁抱嗎？|!||L|我知道我這次能夠做的更好。",
 		},
 	],
 	"intro_defect" : [
@@ -20,102 +20,102 @@
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "我能否和你练习拥抱？",
+			"dialog"			: "我能否和你練習擁抱？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "我担心你尚未准备好接受我的完美拥抱。",
+			"dialog"			: "我擔心你尚未準備好接受我的完美擁抱。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "为什么不去问问我亲爱的缺陷呢？",
+			"dialog"			: "為什麼不去問問我親愛的缺陷呢？",
 		},
 	],
 	"intro_twins" : [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
-			"dialog"			: "哦！我又找到你们了。",
+			"dialog"			: "哦！我又找到你們了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "我可以和你们其中一位练习拥抱吗？",
+			"dialog"			: "我可以和你們其中一位練習擁抱嗎？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
-			"dialog"			: "我当然可以，但是--",
+			"dialog"			: "我當然可以，但是--",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "我姐姐刚刚告诉我说她也想要多练一下。",
+			"dialog"			: "我姐姐剛剛告訴我說她也想要多練一下。",
 		},
 	],
 	
-	"monster_mood"		: "点点的心情",
-	"monster_stuff"		: "点点的[VAL1]",
-	"healing_gifts"		: "治愈礼物",
-	"rating_title"		: "拥抱评分[VAL1]%",
+	"monster_mood"		: "點點的心情",
+	"monster_stuff"		: "點點的[VAL1]",
+	"healing_gifts"		: "治癒禮物",
+	"rating_title"		: "擁抱評分[VAL1]%",
 	
-	"op_power"		: "练习抓握",
-	"op_pendulum"	: "练习平衡",
-	"op_circle"		: "练习优雅",
-	"op_dodge"		: "练习精细",
-	"op_big_hug"	: "最终拥抱",
-	"op_burden"		: "收下一个负担",
+	"op_power"		: "練習抓握",
+	"op_pendulum"	: "練習平衡",
+	"op_circle"		: "練習優雅",
+	"op_dodge"		: "練習精細",
+	"op_big_hug"	: "最終擁抱",
+	"op_burden"		: "收下一個負擔",
 	"op_sleep"		: "小睡一下",
 	
-	"op_hold"		: "再抱一会",
-	"op_stop"		: "练习另一个拥抱",
+	"op_hold"		: "再抱一會",
+	"op_stop"		: "練習另一個擁抱",
 	
-	"op_heal"		: "治愈流血",
-	"op_ignore"		: "无视它",
+	"op_heal"		: "治癒流血",
+	"op_ignore"		: "無視它",
 	
 	"comment_first"		: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-		"dialog"	: "我会达成一个完美的拥抱。",
+		"dialog"	: "我會達成一個完美的擁抱。",
 	},
 	"comment_normal"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-		"dialog"	: "接下来应该练习什么？",
+		"dialog"	: "接下來應該練習什麼？",
 	},
 	"comment_hold"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain"],
-		"dialog"	: "请先不要放手。",
+		"dialog"	: "請先不要放手。",
 	},
 	"comment_bleed"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-		"dialog"	: "请让我治愈你。",
+		"dialog"	: "請讓我治癒你。",
 	},
 	
 	"to_hug_first_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "点点，   你跟着我快一个小时了。",
+			"dialog"			: "點點，   你跟著我快一個小時了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "我在等你问我！",
+			"dialog"			: "我在等你問我！",
 		},
 	],
 	"to_hug_first_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "快来这里，点点。",
+			"dialog"			: "快來這裡，點點。",
 		},
 	],
 	"to_hug_first_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "哦，当然了。   你可以用我来练习。",
+			"dialog"			: "哦，當然了。   你可以用我來練習。",
 		},
 	],
 	"to_hug_first_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "首先，你必须同意给我你的灵魂。",
+			"dialog"			: "首先，你必須同意給我你的靈魂。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-			"dialog"			: "|wave|当然了！",
+			"dialog"			: "|wave|當然了！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
@@ -125,17 +125,17 @@
 	"to_hug_first_reply" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "你真的愿意让我这样做！",
+			"dialog"			: "你真的願意讓我這樣做！",
 		},
 	],
 	"to_hug" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "准备好！",
-			"dialog_rand2"		: "我来了！",
-			"dialog_rand3"		: "这次会是完美的！",
-			"dialog_rand4"		: "这次我会做对的！",
+			"dialog_rand1"		: "準備好！",
+			"dialog_rand2"		: "我來了！",
+			"dialog_rand3"		: "這次會是完美的！",
+			"dialog_rand4"		: "這次我會做對的！",
 		},
 	],
 	"to_big_hug_first" 	: [
@@ -145,17 +145,17 @@
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-			"dialog"			: "这次我会连续使用两个技巧。",
+			"dialog"			: "這次我會連續使用兩個技巧。",
 		},
 	],
 	"to_big_hug" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_very_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "|wave|最终抱抱！|L|最终抱抱！|L|最终抱抱！",
-			"dialog_rand2"		: "我们再来抱一下！",
+			"dialog_rand1"		: "|wave|最終抱抱！|L|最終抱抱！|L|最終抱抱！",
+			"dialog_rand2"		: "我們再來抱一下！",
 			"dialog_rand3"		: "|wave|啦 啦 啦 啦 啦--",
-			"dialog_rand4"		: "|wave|嘟-嘟-嘟--|L|是最终拥抱时间！",
+			"dialog_rand4"		: "|wave|嘟-嘟-嘟--|L|是最終擁抱時間！",
 		},
 	],
 	
@@ -163,32 +163,32 @@
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
 			"random"			: 2,
-			"dialog_rand1"		: "我现在想练习我的|C3|抓握。|C0|",
-			"dialog_rand2"		: "我的|C3|抓握|C0|技巧需要一些练习。",
+			"dialog_rand1"		: "我現在想練習我的|C3|抓握。|C0|",
+			"dialog_rand2"		: "我的|C3|抓握|C0|技巧需要一些練習。",
 		},
 	],
 	"start_pendulum" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
 			"random"			: 2,
-			"dialog_rand1"		: "我的|C3|平衡|C0|技巧需要练习一下。",
-			"dialog_rand2"		: "这次我要练习我的|C3|平衡。|C0|",
+			"dialog_rand1"		: "我的|C3|平衡|C0|技巧需要練習一下。",
+			"dialog_rand2"		: "這次我要練習我的|C3|平衡。|C0|",
 		},
 	],
 	"start_circle" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
 			"random"			: 2,
-			"dialog_rand1"		: "我的|C3|优雅|C0|还能够提高。",
-			"dialog_rand2"		: "我需要更多的练习我的|C3|优雅。|C0|",
+			"dialog_rand1"		: "我的|C3|優雅|C0|還能夠提高。",
+			"dialog_rand2"		: "我需要更多的練習我的|C3|優雅。|C0|",
 		},
 	],
 	"start_dodge" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
 			"random"			: 2,
-			"dialog_rand1"		: "我需要练习拥抱的|C3|精细|C0|程度。",
-			"dialog_rand2"		: "我要练习我的|C3|精细。|C0|",
+			"dialog_rand1"		: "我需要練習擁抱的|C3|精細|C0|程度。",
+			"dialog_rand2"		: "我要練習我的|C3|精細。|C0|",
 		},
 	],
 	
@@ -202,7 +202,7 @@
 	},
 	"comment_hug_bad"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain_blush"],
-		"dialog"	: "有伤到你吗？",
+		"dialog"	: "有傷到你嗎？",
 	},
 	"comment_perfect_rating"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain"],
@@ -210,7 +210,7 @@
 	},
 	"comment_win"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-		"dialog"	: "刚刚真不错。",
+		"dialog"	: "剛剛真不錯。",
 	},
 	"comment_lose"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
@@ -227,9 +227,9 @@
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_very_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "我很喜欢这次的结果！",
-			"dialog_rand2"		: "比我预料的要好多了！",
-			"dialog_rand3"		: "我觉得我正变得更擅长！",
+			"dialog_rand1"		: "我很喜歡這次的結果！",
+			"dialog_rand2"		: "比我預料的要好多了！",
+			"dialog_rand3"		: "我覺得我正變得更擅長！",
 			"dialog_rand4"		: "我提高了好多！",
 		},
 	],
@@ -237,27 +237,27 @@
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
 			"random"			: 4,
-			"dialog_rand1"		: "现在进行下一个技巧！",
-			"dialog_rand2"		: "我们继续吧！",
-			"dialog_rand3"		: "|wave|现在来更多的拥抱--",
-			"dialog_rand4"		: "继续继续！",
+			"dialog_rand1"		: "現在進行下一個技巧！",
+			"dialog_rand2"		: "我們繼續吧！",
+			"dialog_rand3"		: "|wave|現在來更多的擁抱--",
+			"dialog_rand4"		: "繼續繼續！",
 		},
 	],
 	"you_win" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "刚刚很不错，但我觉得我能做的更好。",
-			"dialog_rand2"		: "我还能够提高这个技巧。",
-			"dialog_rand3"		: "我知道我能够做的更好。",
+			"dialog_rand1"		: "剛剛很不錯，但我覺得我能做的更好。",
+			"dialog_rand2"		: "我還能夠提高這個技巧。",
+			"dialog_rand3"		: "我知道我能夠做的更好。",
 		},
 	],
 	"you_lose" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_angry"],
 			"random"			: 2,
-			"dialog_rand1"		: "我怎么会这么糟糕？",
-			"dialog_rand2"		: "我怎么就做不对呢？",
+			"dialog_rand1"		: "我怎麼會這麼糟糕？",
+			"dialog_rand2"		: "我怎麼就做不對呢？",
 		},
 	],
 	
@@ -265,20 +265,20 @@
 	"after_unlocking_big_hug" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
-			"dialog"			: "我觉得我准备好-",
+			"dialog"			: "我覺得我準備好-",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_aggressive"],
-			"dialog"			: "|shake||C3|最终拥抱！|C0|",
+			"dialog"			: "|shake||C3|最終擁抱！|C0|",
 		},
 	],
 	"after_perfect_hug" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain_blush"],
 			"random"			: 3,
-			"dialog_rand1"		: "等下，先不要放手。",
-			"dialog_rand2"		: "我还没准备好放手。",
-			"dialog_rand3"		: "让我们再拥抱一会。",
+			"dialog_rand1"		: "等一下，先不要放手。",
+			"dialog_rand2"		: "我還沒準備好放手。",
+			"dialog_rand3"		: "讓我們再擁抱一會。",
 		},
 	],
 	"after_bleeding_first" 	: [
@@ -288,7 +288,7 @@
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain"],
-			"dialog"			: "我伤害到你了。",
+			"dialog"			: "我傷害到你了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
@@ -302,7 +302,7 @@
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "这次请你一定要让我治好你。",
+			"dialog"			: "這次請你一定要讓我治好你。",
 		},
 	],
 	"after_bleeding" 	: [
@@ -312,7 +312,7 @@
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "我不是故意的，    我保证。",
+			"dialog"			: "我不是故意的，    我保證。",
 		},
 	],
 	
@@ -328,24 +328,24 @@
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
 			"random"			: 2,
-			"dialog_rand1"		: "|wave|感觉--现在如此平衡--",
-			"dialog_rand2"		: "|wave|超级--完美的对称--",
+			"dialog_rand1"		: "|wave|感覺--現在如此平衡--",
+			"dialog_rand2"		: "|wave|超級--完美的對稱--",
 		},
 	],
 	"hold_continue_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],
-			"dialog"			: "你准备好之前我是不会放手的。",
+			"dialog"			: "你準備好之前我是不會放手的。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain"],
-			"dialog"			: "太感谢你了。",
+			"dialog"			: "太感謝你了。",
 		},
 	],
 	"hold_continue_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "她可能已经准备好接受我的拥抱了。",
+			"dialog"			: "她可能已經準備好接受我的擁抱了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
@@ -355,21 +355,21 @@
 	"hold_continue_end" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "好吧，这应该足够久了。",
+			"dialog"			: "好吧，這應該足夠久了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
-			"dialog"			: "我还有更多需要练习。",
+			"dialog"			: "我還有更多需要練習。",
 		},
 	],
 	"hold_stop" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-			"dialog"			: "你说的对--",
+			"dialog"			: "你說的對--",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_aggressive"],
-			"dialog"			: "我需要尽可能多练习一下，|shake|在你试着逃离之前。",
+			"dialog"			: "我需要盡可能多練習一下，|shake|在你試著逃離之前。",
 		},
 	],
 	
@@ -378,39 +378,39 @@
 	"bleed_heal" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "你先不要动，好吗？",
+			"dialog"			: "你先不要動，好嗎？",
 		},
 	],
 	"bleed_heal_defect" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "我会帮你补上的。",
+			"dialog"			: "我會幫你補上的。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "哦，你的爪子好长。",
+			"dialog"			: "哦，你的爪子好長。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
-			"dialog"			: "|shake|不，才没有！",
+			"dialog"			: "|shake|不，才沒有！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "请不要看它们。",
+			"dialog"			: "請不要看它們。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
-			"dialog"			: "|wave|我什么都没看到。",
+			"dialog"			: "|wave|我什麼都沒看到。",
 		},
 	],
 	"bleed_heal_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "你要怎么治疗？",
+			"dialog"			: "你要怎麼治療？",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
-			"dialog"			: "我花朵里的花蜜能够停止流血。",
+			"dialog"			: "我花朵裡的花蜜能夠停止流血。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
@@ -418,27 +418,27 @@
 		},
 		{
 			"character"			: ["VOICE_thought", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "|C3|（小绿又做出那种表情了）",
+			"dialog"			: "|C3|（小綠又做出那種表情了）",
 		},
 	],
 	"bleed_ignore" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-			"dialog"			: "你确定吗？",
+			"dialog"			: "你確定嗎？",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "好吧，我相信你知道自己能应对的程度。",
+			"dialog"			: "好吧，我相信你知道自己能應對的程度。",
 		},
 	],
 	"bleed_ignore_devil" 		: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "你在担心那个小擦伤？",
+			"dialog"			: "你在擔心那個小擦傷？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "甚至都没在流血。",
+			"dialog"			: "甚至都沒在流血。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
@@ -448,41 +448,41 @@
 	"bleed_ignore_again" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "好吧...如果你确定的话。",
+			"dialog"			: "好吧...如果你確定的話。",
 		},
 	],
 	"to_heal_gift" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
 			"random"			: 3,
-			"dialog_rand1"		: "这样应该就好了。",
-			"dialog_rand2"		: "好吧，流血应该已经停下了。",
-			"dialog_rand3"		: "我已经把流血停下了。",
+			"dialog_rand1"		: "這樣應該就好了。",
+			"dialog_rand2"		: "好吧，流血應該已經停下了。",
+			"dialog_rand3"		: "我已經把流血停下了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
 			"random"			: 3,
-			"dialog_rand1"		: "哦，我还有点东西可能会帮到你。",
-			"dialog_rand2"		: "等下，你也把这个带走吧。",
-			"dialog_rand3"		: "这能够帮助你减轻痛苦。",
+			"dialog_rand1"		: "哦，我還有點東西可能會幫到你。",
+			"dialog_rand2"		: "等一下，你也把這個帶走吧。",
+			"dialog_rand3"		: "這能夠幫助你減輕痛苦。",
 		},
 	],
 	"comment_heal_normal"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-		"dialog"	: "请收下一个。",
+		"dialog"	: "請收下一個。",
 	},
 	"comment_heal_unknown"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-		"dialog"	: "等下，这是什么？",
+		"dialog"	: "等一下，這是什麼？",
 	},
 	"heal_confirm"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
-		"dialog"	: "这会帮到你吗？",
+		"dialog"	: "這會幫到你嗎？",
 	},
 	"heal_gift_taken" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "...对不起。",
+			"dialog"			: "...對不起。",
 		},
 	],
 	
@@ -491,41 +491,41 @@
 	"to_devil_pass_out" 		: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "我告诉过你，几乎没--",
+			"dialog"			: "我告訴過你，幾乎沒--",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
-			"dialog"			: "哦，    这好像有点过头...",
+			"dialog"			: "哦，    這好像有點過頭...",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
-			"dialog"			: "我等下回来...",
+			"dialog"			: "我等下回來...",
 		},
 	],
 	"after_devil_pass_out" 		: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "刚刚发生了什么？",
+			"dialog"			: "剛剛發生了什麼事？",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain_blush"],
-			"dialog"			: "|shake|对不起。",
+			"dialog"			: "|shake|對不起。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "我让流血停下了，但你睡着了一会。",
+			"dialog"			: "我讓流血停下了，但你睡著了一會。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad"],
-			"dialog"			: "我浪费了所有的羁绊时间？",
+			"dialog"			: "我浪費了所有的羈絆時間？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
-			"dialog"			: "正如预言所说...",
+			"dialog"			: "正如預言所說...",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "我必须要走了。",
+			"dialog"			: "我必須要走了。",
 		},
 	],
 	
@@ -535,11 +535,11 @@
 	"to_burden" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-			"dialog"			: "我们现在究竟在做什么？",
+			"dialog"			: "我們現在究竟在做什麼？",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
-			"dialog"			: "你没必要这么做的，如果你不想的话。",
+			"dialog"			: "你沒必要這麼做的，如果你不想的話。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_sad"],
@@ -558,15 +558,15 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "你为什么要这样？",
+			"dialog"			: "你為什麼要這樣？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "我可能会比你更喜欢它。",
+			"dialog"			: "我可能會比你更喜歡它。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "我们可以都自私一点，好吗？",
+			"dialog"			: "我們可以都自私一點，好嗎？",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
@@ -577,7 +577,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-			"dialog"			: "你怎么一直都可以带走我的坏心情？",
+			"dialog"			: "你怎麼一直都可以帶走我的壞心情？",
 		},
 	],
 
@@ -585,43 +585,43 @@
 	"max_mood_end" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
-			"dialog"			: "你猜怎样？我觉得这真的很棒。",
+			"dialog"			: "你猜怎樣？我覺得這真的很棒。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
-			"dialog"			: "我觉得我今天已经练习得足够了。",
+			"dialog"			: "我覺得我今天已經練習得足夠了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
-			"dialog"			: "我们先停在这里吧。",
+			"dialog"			: "我們先停在這裡吧。",
 		},
 	],
 	"max_mood_end_twins" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-			"dialog"			: "你猜怎样？我感觉真的很棒，并且觉得今天已经练习得足够了。",
+			"dialog"			: "你猜怎樣？我感覺真的很棒，並且覺得今天已經練習得足夠了。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "你让她的好感度涨满了，阳光。",
+			"dialog"			: "你讓她的好感度漲滿了，陽光。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "|wave|是时候去你的下一场约会了！",
+			"dialog"			: "|wave|是時候去你的下一場約會了！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|别听她瞎说！",
+			"dialog"			: "|shake|別聽她胡說！",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
-			"dialog"			: "没，听起来就是这样。|L||!|我确实觉得心满意足！",
+			"dialog"			: "沒，聽起來就是這樣。|L||!|我確實覺得心滿意足！",
 		},
 	],
 	"max_mood_to_gift" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_very_happy"],
-			"dialog"			: "但在你离开之前，我有些礼物要给你！",
+			"dialog"			: "但在你離開之前，我有些禮物要給你！",
 		},
 	],
 	
@@ -632,45 +632,45 @@
 	"to_gift" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_awkward"],
-			"dialog"			: "等下，我有东西要给你。",
+			"dialog"			: "等一下，我有東西要給你。",
 		},
 	],
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-		"dialog"	: "你可以拿走其中任何一个！",
+		"dialog"	: "你可以拿走其中任何一個！",
 	},
 	"comment_take_unknown"	: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised"],
-		"dialog"	: "你看这个也很模糊吗？",
+		"dialog"	: "你看這個也很模糊嗎？",
 	},
 	"gift_confirm"		: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_normal"],
-		"dialog"	: "你想要这个吗？",
+		"dialog"	: "你想要這個嗎？",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-		"dialog"	: "你不想要吗？",
+		"dialog"	: "你不想要嗎？",
 	},
 	"to_another_gift" 		: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_aggressive"],
-			"dialog"			: "很高兴你喜欢它，因为你要再收下一个。",
+			"dialog"			: "很高興你喜歡它，因為你要再收下一個。",
 		},
 	],
 	"to_last_gift" 		: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-			"dialog"			: "我知道你会带走它的。",
+			"dialog"			: "我知道你會帶走它的。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_very_happy"],
-			"dialog"			: "并且你还要再拿一个！",
+			"dialog"			: "並且你還要再拿一個！",
 		}
 	],
 	"to_the_end" 		: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
-			"dialog"			: "希望它能为你带来完美的平衡。",
+			"dialog"			: "希望它能為你帶來完美的平衡。",
 		},
 	],
 	
@@ -684,11 +684,11 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
-			"dialog"			: "哦！你差点要摔倒了。",
+			"dialog"			: "哦！你差點要摔倒了。",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content_blush"],
-			"dialog"			: "大概我可以尝试练习当一个枕头。",
+			"dialog"			: "大概我可以嘗試練習當一個枕頭。",
 		},
 	],
 	
@@ -697,12 +697,12 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "你忘记了惊喜的技巧。",
+			"dialog"			: "你忘記了驚喜的技巧。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
-			"dialog"			: "哦，确实！",
+			"dialog"			: "哦，確實！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_aggressive2"],
@@ -710,36 +710,36 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 	],
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "你向我证明了你应得我完美的拥抱。",
+			"dialog"			: "你向我證明了你應得我完美的擁抱。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "来吧，点点。",
+			"dialog"			: "來吧，點點。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_pain_blush"],
-			"dialog"			: "|shake|好冷！|L||!|你说的对。|L||!|我还没准备好。",
+			"dialog"			: "|shake|好冷！|L||!|你說的對。|L||!|我還沒準備好。",
 		},
 	],
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "是时候让你们两个练习亲吻了！",
+			"dialog"			: "是時候讓你們兩個練習親吻了！",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_surprised_blush"],
-			"dialog"			: "|shake|我...我是说...|L||norm|我   准备好    练习那个了吗？",
+			"dialog"			: "|shake|我...我是說...|L||norm|我   準備好    練習那個了嗎？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
-			"dialog"			: "小绿，是你说的该走了。",
+			"dialog"			: "小綠，是你說的該走了。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad"],
@@ -749,29 +749,29 @@
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_confused"],
-			"dialog"			: "所以，你要我的灵魂是什么意思？",
+			"dialog"			: "所以，你要我的靈魂是什麼意思？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "嗯，我注意到在我们拥抱时你很喜欢唱歌。",
+			"dialog"			: "嗯，我注意到在我們擁抱時你很喜歡唱歌。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "所以有一天，恶魔会召唤你。",
+			"dialog"			: "所以有一天，惡魔會召喚你。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "而你会在她的     |shake|乐队里演唱！",
+			"dialog"			: "而你會在她的     |shake|樂隊裡演唱！",
 		},
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_content"],
-			"dialog"			: "这听起来还挺有趣的！",
+			"dialog"			: "這聽起來還挺有趣的！",
 		},
 	],
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_dot", "CHAR_dot_right", "MOOD_happy"],
-			"dialog"			: "有你教我，我很快就能成为大师了。",
+			"dialog"			: "有你教我，我很快就能成為大師了。",
 		},
 	],
 	"error_catch"	: "bonding_time/bonding_common_text",

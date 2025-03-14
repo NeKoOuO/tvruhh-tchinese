@@ -5,85 +5,85 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "|wave|小机器人！|norm||L||!|你就是我一直想见的那个机器人。",
+			"dialog"			: "|wave|小機器人！|norm||L||!|你就是我一直想見的那個機器人。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "请暂缓该想法。|L||!|本单元侦测到另一种新类型的|C3|礼物。",
+			"dialog"			: "請暫緩該想法。|L||!|本單元偵測到另一種新類型的|C3|禮物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "另一种类型的|C3|礼物？",
+			"dialog"			: "另一種類型的|C3|禮物？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "她们真的太溺爱我了。",
+			"dialog"			: "她們真的太溺愛我了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现将解释|C3|快速礼物。",
+			"dialog"			: "本單元現將解釋|C3|快速禮物。",
 		},
 		{
 			"show_tutorial"		: "small_quick_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "有些怪物现在会有着|C3|快速礼物|C0|给你。",
+			"dialog"			: "有些怪物現在會有著|C3|快速禮物|C0|給你。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "拥有更多的|C3|因果|C0|同样能够增加找到它们的几率。",
+			"dialog"			: "擁有更多的|C3|因果|C0|同樣能夠增加找到它們的機率。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "与其他礼物类型不同，|C3|快速礼物|C0|的效果不会自动生效。",
+			"dialog"			: "與其他禮物類型不同，|C3|快速禮物|C0|的效果不會自動生效。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "相对的，|C3|快速礼物|C0|必须在开始战斗前激活。",
+			"dialog"			: "相對的，|C3|快速禮物|C0|必須在開始戰鬥前啟用。",
 		},
 		{
 			"show_tutorial"		: "example_quick_card1",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|快速礼物|C0|的效果将会在礼物上显示的战斗场数后失效。",
+			"dialog"			: "|C3|快速禮物|C0|的效果將會在禮物上顯示的戰鬥場數後失效。",
 		},
 		{
 			"show_tutorial"		: "example_quick_card2",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "其中有些仅会持续一场战斗。",
+			"dialog"			: "其中有些僅會持續一場戰鬥。",
 		},
 		{
 			"show_tutorial"		: "small_quick_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "你仅能够持有并激活有限的|C3|快速礼物|C0|。",
+			"dialog"			: "你僅能夠持有並啟用有限的|C3|快速禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "如果你已经持有过多的话，怪物们将不会为你展示她们的|C3|快速礼物|C0|。",
+			"dialog"			: "如果你已經持有過多的話，怪物們將不會為你展示她們的|C3|快速禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|不要忘记使用你收到的任何|C3|快速礼物|C0|。",
+			"dialog"			: "|C3|建議:|C0|不要忘記使用你收到的任何|C3|快速禮物|C0|。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "谢谢你小机器人！|L||!|我一定会使用它们的。",
+			"dialog"			: "謝謝你小機器人！|L||!|我一定會使用它們的。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "关于其他事情，为什么这位扎拉登想要见到本单元呢？",
+			"dialog"			: "關於其他事情，為什麼這位扎拉登想要見到本單元呢？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "哦，我有非常重要的事情要告诉你。",
+			"dialog"			: "哦，我有非常重要的事情要告訴你。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你。",
+			"dialog"			: "|wave|我愛你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "本单元正感受到温度突然上升。|L||!|所有冷却风扇故障。",
+			"dialog"			: "本單元正感受到溫度突然上升。|L||!|所有冷卻風扇故障。",
 		}
 	]
 }

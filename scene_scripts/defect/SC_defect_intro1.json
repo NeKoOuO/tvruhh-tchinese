@@ -9,14 +9,14 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_defect_intro1_1",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|这是一位年幼扎拉登女性的故事。",
+			"dialog"			: "|C1|這是一位年幼扎拉登女性的故事。",
 		},
 		{
-			"dialog"			: "|C1|她居住在远离任何人的洞窟之中。",
+			"dialog"			: "|C1|她居住在遠離任何人的洞窟之中。",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|扎拉登应该拥有翅膀。",
+			"dialog"			: "|C2||shake|扎拉登應該擁有翅膀。",
 		},
 		{
 			"dialog"			: "|C2||shake|她的翅膀有缺陷！",
@@ -28,67 +28,67 @@
 			"dialog"			: "|C2||shake|她的心？     |L|缺陷！",
 		},
 		{
-			"dialog"			: "|C2||shake|不！     这玩意是伪装的怪物。",
+			"dialog"			: "|C2||shake|不！     這東西是偽裝的怪物。",
 		},
 		{
 			"bg_image"			: "spr_defect_intro1_2",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|她住在洞穴里，太久太久。",
+			"dialog"			: "|C1|她住在洞穴裡，太久太久。",
 		},
 		{
-			"dialog"			: "|C1|怪物对她而言变得过于强大。",
+			"dialog"			: "|C1|怪物對她而言變得過於強大。",
 		},
 		{
 			"dialog"			: "|C1|她的心被撕成了碎片。",
 		},
 		{
 			"bg_image"			: "spr_defect_intro1_3",
-			"dialog"			: "|C1|虚空前来带走她。",
+			"dialog"			: "|C1|虛空前來帶走她。",
 		},
 		{
-			"dialog"			: "|C1|她已经放弃了。",
+			"dialog"			: "|C1|她已經放棄了。",
 		},
 		{
-			"dialog"			: "|C1|她准备好投降了。",
+			"dialog"			: "|C1|她準備好投降了。",
 		},
 		{
 			"bg_image"			: "spr_defect_intro1_4",
-			"dialog"			: "|C1|但然后，她看到了奇迹般的事物。",
+			"dialog"			: "|C1|但然後，她看到了奇蹟般的事物。",
 		},
 		{
-			"dialog"			: "|C1|一道闪耀的光明穿过虚空。",
+			"dialog"			: "|C1|一道閃耀的光明穿過虛空。",
 		},
 		{
-			"dialog"			: "|C1|虚空在她面前瓦解了。",
+			"dialog"			: "|C1|虛空在她面前瓦解了。",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|那个傻瓜拒绝了终极的礼物。",
+			"dialog"			: "|C2||shake|那個傻瓜拒絕了終極的禮物。",
 		},
 		{
 			"bg_image"			: "spr_defect_intro1_5",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|她体验到了全新的感觉。",
+			"dialog"			: "|C1|她體驗到了全新的感覺。",
 		},
 		{
-			"dialog"			: "|C1|这和她曾感受到的一切截然不同。",
+			"dialog"			: "|C1|這和她曾感受到的一切截然不同。",
 		},
 		{
-			"dialog"			: "|C1|她的心开始自我修复。",
+			"dialog"			: "|C1|她的心開始自我修復。",
 		},
 		{
-			"dialog"			: "|C1||wave|那就是爱！",
+			"dialog"			: "|C1||wave|那就是愛！",
 		},
 		{
-			"dialog"			: "|C1|但这对她自己而言太多了。",
+			"dialog"			: "|C1|但這對她自己而言太多了。",
 		},
 		{
-			"dialog"			: "|C1||wave|她只能去和其他所有怪物们分享。",
+			"dialog"			: "|C1||wave|她只能去和其他所有怪物們分享。",
 		},
 		{
 			"play_music"		: "silence",
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|其他人为什么会想要她缺陷的爱？",
+			"dialog"			: "|C2||shake|其他人為什麼會想要她缺陷的愛？",
 		},
 		{
 			"dialog"			: "|C2||shake|HAAhahAhaHaha HAahAhahaHAha haHAhaHaHaha hahAahaHaAhaa",

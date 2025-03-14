@@ -17,11 +17,11 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元为你获取了新的信息。",
+			"dialog"		: "本單元為你獲取了新的資訊。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
-			"dialog"		: "树木... 也可以很可怕...",
+			"dialog"		: "樹木... 也可以很可怕...",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
@@ -30,98 +30,98 @@
 		{
 			"play_music"	: "tutorbot_scene_music",
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "哦抱歉。      小机器人？|!||L|你这么早在这里做什么？",
+			"dialog"		: "哦抱歉。      小機器人？|!||L|你這麼早在這裡做什麼？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元为你获取了新的信息。",
+			"dialog"		: "本單元為你獲取了新的資訊。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"		: "好的，是什么？",
+			"dialog"		: "好的，是什麼？",
 		},
 		{
 			"show_tutorial"	: "all_tetrids",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元现将解释|C3|棱晶。",
+			"dialog"		: "本單元現將解釋|C3|稜晶。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "所有尚未被爱的怪物现在都正在受到|C3|恐惧|C0|的折磨。",
+			"dialog"		: "所有尚未被愛的怪物現在都正在受到|C3|恐懼|C0|的折磨。",
 		},
 		{
 			"show_tutorial"	: "all_motes",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "当|C3|恐惧|C0|在怪物体内结晶时，就会形成|C3|棱晶魔尘|C0|。",
+			"dialog"		: "當|C3|恐懼|C0|在怪物體內結晶時，就會形成|C3|稜晶魔塵|C0|。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"		: "那就是怪物身上飘落的|C3|闪亮的小小尘粒|C0|的名字？",
+			"dialog"		: "那就是怪物身上飄落的|C3|閃亮的小小塵粒|C0|的名字？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "确实如此。",
+			"dialog"		: "確實如此。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "这位扎拉登的心有着从怪物那里提取这些|C3|魔尘|C0|的能力。",
+			"dialog"		: "這位扎拉登的心有著從怪物那裡提取這些|C3|魔塵|C0|的能力。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "当感到被爱时，每种类型的怪物都会掉落特定颜色的|C3|棱晶魔尘|C0|。",
+			"dialog"		: "當感到被愛時，每種類型的怪物都會掉落特定顏色的|C3|稜晶魔塵|C0|。",
 		},
 		{
 			"show_tutorial"	: "purple_motes",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|示例:|C0||C3|维目尔|C0|类型的怪物总会有|C3|紫色魔尘|C0|。",
+			"dialog"		: "|C3|範例:|C0||C3|維目爾|C0|類型的怪物總會有|C3|紫色魔塵|C0|。",
 		},
 		{
 			"show_tutorial"	: "all_tetrids_and_motes",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "你的心会自动将这些|C3|魔尘|C0|精炼为同种颜色的强大|C3|棱晶|C0|。",
+			"dialog"		: "你的心會自動將這些|C3|魔塵|C0|精煉為同種顏色的強大|C3|稜晶|C0|。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "|wave|这太奇妙了",
+			"dialog"		: "|wave|這太奇妙了",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "但是，    我要用这些做什么呢？",
+			"dialog"		: "但是，    我要用這些做什麼呢？",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元现将解释如何|C3|点亮礼物与怪物。",
+			"dialog"		: "本單元現將解釋如何|C3|點亮禮物與怪物。",
 		},
 		{
 			"show_tutorial"	: "unknown_cards",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "当你爱一个新的怪物或收下新的礼物时，其会被加入到|C3|收藏菜单|C0|中。",
+			"dialog"		: "當你愛一個新的怪物或收下新的禮物時，其會被加入到|C3|收藏菜單|C0|中。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "在这个时点，你每次醒来时仍会忘记那个礼物或者怪物。",
+			"dialog"		: "在這個時點，你每次醒來時仍會忘記那個禮物或者怪物。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
-			"dialog"		: "我...     好像...     记不清... 各种事情。",
+			"dialog"		: "我...     好像...     記不清... 各種事情。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "如果你有着足够的对应|C3|棱晶|C0|，那么你就可以在|C3|收藏菜单中点亮一张卡片。",
+			"dialog"		: "如果你有著足夠的對應|C3|稜晶|C0|，那麼你就可以在|C3|收藏菜單中點亮一張卡片。",
 		},
 		{
 			"show_tutorial"	: "known_cards",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "在点亮后，礼物与怪物的信息将不再表现为|C3|？？？|C0|。",
+			"dialog"		: "在點亮後，禮物與怪物的資訊將不再表現為|C3|？？？|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "点亮时的闪光会将该物件的记忆永久烙印在你的大脑里。",
+			"dialog"		: "點亮時的閃光會將該物件的記憶永久烙印在你的大腦裡。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_sleepy"],
-			"dialog"		: "闪亮。     烧灼。     懂了。",
+			"dialog"		: "閃亮。     燒灼。     懂了。",
 		},
 		{
 			"show_tutorial"	: "none",
@@ -130,7 +130,7 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "点亮时的闪光同样能够完全唤醒年幼的扎拉登。",
+			"dialog"		: "點亮時的閃光同樣能夠完全喚醒年幼的扎拉登。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
@@ -138,44 +138,44 @@
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"		: "嘿小机器人，     这些建议你是从哪里找来的？",
+			"dialog"		: "嘿小機器人，     這些建議你是從哪裡找來的？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元在她的记忆体中一直存有这些信息。",
+			"dialog"		: "本單元在她的記憶體中一直存有這些資訊。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元的程序设置为会在最佳时间传达这些信息。",
+			"dialog"		: "本單元的程序設定為會在最佳時間傳達這些資訊。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
-			"dialog"		: "而你决定现在把我叫醒告诉我？",
+			"dialog"		: "而你決定現在把我叫醒告訴我？",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "确实如此",
+			"dialog"		: "確實如此",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"		: "|wave|谢谢你。|norm||!||L|我喜欢早起。",
+			"dialog"		: "|wave|謝謝你。|norm||!||L|我喜歡早起。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "本单元担心她打扰到了你。",
+			"dialog"		: "本單元擔心她打擾到了你。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"		: "当然没有。",
+			"dialog"		: "當然沒有。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"		: "|wave|我爱你。",
+			"dialog"		: "|wave|我愛你。",
 		},
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "本单元现在将坠入烈火之中。",
+			"dialog"		: "本單元現在將墜入烈火之中。",
 		}
 	]
 }

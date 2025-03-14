@@ -5,76 +5,76 @@
 			"play_music"	: "tutorbot_scene_music",
 			"bg_image"		: "spr_tutorial_common",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元有重要的信息，必须打断你现在的梦境程序。",
+			"dialog"		: "本單元有重要的資訊，必須打斷你現在的夢境程序。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本单元现将解释|C3|羞涩战斗|C0|的独特规则。",
+			"dialog"		: "本單元現將解釋|C3|羞澀戰鬥|C0|的獨特規則。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "在|C3|羞涩战斗|C0|中，怪物们会派出许多小型怪物攻击你。",
+			"dialog"		: "在|C3|羞澀戰鬥|C0|中，怪物們會派出許多小型怪物攻擊你。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "如果|C3|羞涩怪物|C0|没有在战斗开始时出现，那么你需要先向她的小型怪物展示爱从而引诱她现身。",
+			"dialog"		: "如果|C3|羞澀怪物|C0|沒有在戰鬥開始時出現，那麼你需要先向她的小型怪物展示愛從而引誘她現身。",
 		},
 		{
 			"show_tutorial"	: "combo_bar6",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "羞涩怪物会一直维持|C3|爱之连击|C0|并将其变为绿色。",
+			"dialog"		: "羞澀怪物會一直維持|C3|愛之連擊|C0|並將其變為綠色。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "当变为绿色时，不断施加连续的爱对维持连击而言并非必要。",
+			"dialog"		: "當變為綠色時，不斷施加連續的愛對維持連擊而言並非必要。",
 		},
 		{
 			"show_tutorial"	: "combo_bar7",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "相对应的，仅当|C3|带有魔尘的小型怪物|C0|离开战斗区域时，绿色连击才会结束。",
+			"dialog"		: "相對應的，僅當|C3|帶有魔塵的小型怪物|C0|離開戰鬥區域時，綠色連擊才會結束。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "羞涩怪物的小型怪物在攻击时经常会尝试|C3|离开战斗区域|C0|。",
+			"dialog"		: "羞澀怪物的小型怪物在攻擊時經常會嘗試|C3|離開戰鬥區域|C0|。",
 		},
 		{
 			"show_tutorial"	: "combo_bar8",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "为了达成|C3|全连击|C0|，你必须阻止所有小型怪物逃离。",
+			"dialog"		: "為了達成|C3|全連擊|C0|，你必須阻止所有小型怪物逃離。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|建议:|C0|别让任何一只小型怪物逃离。",
+			"dialog"		: "|C3|建議:|C0|別讓任何一隻小型怪物逃離。",
 		},
 		{
 			"show_tutorial"	: "none",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "作为提醒，|C3|蓄力攻击|C0|对于快速施加大量的爱非常有效。",
+			"dialog"		: "作為提醒，|C3|蓄力攻擊|C0|對於快速施加大量的愛非常有效。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "破坏部位与爱小型怪物同样能够|C3|回复一部分能量|C0|。",
+			"dialog"		: "破壞部位與愛小型怪物同樣能夠|C3|回復一部分能量|C0|。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "|C3|建议:|C0|在羞涩战斗中使用许多蓄力攻击以确保无人能够逃离你的爱。",
+			"dialog"		: "|C3|建議:|C0|在羞澀戰鬥中使用許多蓄力攻擊以確保無人能夠逃離你的愛。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "这些就是关于|C3|羞涩战斗|C0|本单元为你准备的全部信息。",
+			"dialog"		: "這些就是關於|C3|羞澀戰鬥|C0|本單元為你準備的全部資訊。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "在这场|C3|羞涩战斗|C0|中，本单元将祝你好运。",
+			"dialog"		: "在這場|C3|羞澀戰鬥|C0|中，本單元將祝你好運。",
 		},
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "本单元感觉到温度突然上升。",
+			"dialog"		: "本單元感覺到溫度突然上升。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "本单元有0%的逃离概率。",
+			"dialog"		: "本單元有0%的逃離機率。",
 		}
 	]
 }

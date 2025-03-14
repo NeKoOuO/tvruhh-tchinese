@@ -5,55 +5,55 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "所以...我很抱歉这样说，但是我们的故事还没有完成。",
+			"dialog"			: "所以...我很抱歉這樣說，但是我們的故事還沒有完成。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
-			"dialog"			: "|shake|什么？！",
+			"dialog"			: "|shake|什麼？！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
-			"dialog"			: "你为什么这么惊讶？",
+			"dialog"			: "你為什麼這麼驚訝？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad2"],
-			"dialog"			: "我只是没准备好听到这个消息...",
+			"dialog"			: "我只是沒準備好聽到這個消息...",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
-			"dialog"			: "我只是很想看到哪个怪物会和你调情，阳光。",
+			"dialog"			: "我只是很想看到哪個怪物會和你調情，陽光。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "你-你在说什么？",
+			"dialog"			: "你-你在說什麼？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "没错。|L||!|我知道人们想看什么。",
+			"dialog"			: "沒錯。|L||!|我知道人們想看什麼。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "别说这种离谱的事情。|L||!|别听她的。|L||!|那才不会发生。",
+			"dialog"			: "別說這種離譜的事情。|L||!|別聽她的。|L||!|那才不會發生。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "|wave|你说说就好。",
+			"dialog"			: "|wave|你說說就好。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "总之...",
+			"dialog"			: "總之...",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_sad2"],
-			"dialog"			: "你短时间内不会再看到我们了，但是--",
+			"dialog"			: "你短時間內不會再看到我們了，但是--",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_content"],
-			"dialog"			: "我们先去向怪物们展示爱吧，好吗？",
+			"dialog"			: "我們先去向怪物們展示愛吧，好嗎？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我跟着你，阳光。",
+			"dialog"			: "|wave|我跟著你，陽光。",
 		},
 	]
 }

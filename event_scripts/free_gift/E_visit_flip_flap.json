@@ -3,148 +3,148 @@
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "|wave|请聆听我们美妙的音乐。",
-			"dialog_rand2"		: "|wave|请聆听我们动人的歌曲。",
-			"dialog_rand3"		: "|wave|这些单元必须唱起我们的歌。",
+			"dialog_rand1"		: "|wave|請聆聽我們美妙的音樂。",
+			"dialog_rand2"		: "|wave|請聆聽我們動人的歌曲。",
+			"dialog_rand3"		: "|wave|這些單元必須唱起我們的歌。",
 		},
 		{
 			"fast_text"			: 1,
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|噼里啪啦。          ",
+			"dialog"			: "|wave|劈哩啪啦。          ",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|噼里啪啦。          ",
+			"dialog"			: "|wave|劈哩啪啦。          ",
 		},
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_normal"],
 			"random"			: 3,
-			"dialog_rand1"		: "你的|C3|[纯粹爱恋]|C0|已经影响到了这些单元。",
-			"dialog_rand2"		: "你的爱已经占据了这些单元中的|C3|[纯粹恐惧]|C0|。",
-			"dialog_rand3"		: "|C3|[纯粹爱恋]|C0|现在将这些单元维持在一起。",
+			"dialog_rand1"		: "你的|C3|[純粹愛戀]|C0|已經影響到了這些單元。",
+			"dialog_rand2"		: "你的愛已經占據了這些單元中的|C3|[純粹恐懼]|C0|。",
+			"dialog_rand3"		: "|C3|[純粹愛戀]|C0|現在將這些單元維持在一起。",
 		},
 		{
 			"fast_text"			: 1,
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|噼里啪啦。          ",
+			"dialog"			: "|wave|劈哩啪啦。          ",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|噼里啪啦。          ",
+			"dialog"			: "|wave|劈哩啪啦。          ",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_normal"],
-			"dialog"			: "|wave|这些单元-          ",
+			"dialog"			: "|wave|這些單元-          ",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_normal"],
-			"dialog"			: "|wave|为你准备了-          ",
+			"dialog"			: "|wave|為你準備了-          ",
 		},
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|一个礼物。",
+			"dialog"			: "|wave|一個禮物。",
 		},
 	],
 	
-	"title_flip"	: "噼里的礼物",
-	"title_flap"	: "啪啦的礼物",
+	"title_flip"	: "噼裡的禮物",
+	"title_flap"	: "啪啦的禮物",
 	
 	"comment_take_flip"	: {
 		"character"	: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_normal"],
-		"dialog"	: "本单元会确保|C3|[纯粹正能量]|C0|充满你。",
+		"dialog"	: "本單元會確保|C3|[純粹正能量]|C0|充滿你。",
 	},
 	"take_confirm_flip"		: {
 		"character"	: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_normal"],
-		"dialog"	: "你现在感觉充满正能量吗？",
+		"dialog"	: "你現在感覺充滿正能量嗎？",
 	},
 	"comment_take_flap"	: {
 		"character"	: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_normal"],
-		"dialog"	: "本单元会确保|C3|[纯粹负能量]|C0|远离你。",
+		"dialog"	: "本單元會確保|C3|[純粹負能量]|C0|遠離你。",
 	},
 	"take_confirm_flap"		: {
 		"character"	: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_normal"],
-		"dialog"	: "你现在感觉充满正能量吗？",
+		"dialog"	: "你現在感覺充滿正能量嗎？",
 	},
 	
 	"next_to_flap" 	: [
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "这个单元已经给了你一个礼物，|!||L|但我们还没有结束。",
+			"dialog"			: "這個單元已經給了你一個禮物，|!||L|但我們還沒有結束。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|你必须从这个单元处也收下一个礼物。",
+			"dialog"			: "|wave|你必須從這個單元處也收下一個禮物。",
 		},
 	],
 	"next_to_flip" 	: [
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "你已经从这个单元处收下了一个礼物，|!||L|但我们还没有结束。",
+			"dialog"			: "你已經從這個單元處收下了一個禮物，|!||L|但我們還沒有結束。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|这个单元确信你也会喜欢她的礼物。",
+			"dialog"			: "|wave|這個單元確信你也會喜歡她的禮物。",
 		},
 	],
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "谢谢你们！|L||!|你们的歌声也很美妙。",
+			"dialog"			: "謝謝你們！|L||!|你們的歌聲也很美妙。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你们！",
+			"dialog"			: "|wave|我愛你們！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_blush"],
-			"dialog"			: "侦测到|C3|[纯粹温暖]|C0|。",
+			"dialog"			: "偵測到|C3|[純粹溫暖]|C0|。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_blush"],
-			"dialog"			: "噼里啪啦，正在打开所有接口，噼里啪啦。",
+			"dialog"			: "劈哩啪啦，正在打開所有介面，劈哩啪啦。",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|这些单元必须歌颂赞誉-",
+			"dialog"			: "|wave|這些單元必須歌頌讚譽-",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave||C3|[纯粹虚空]|C0|的存在与完美。",
+			"dialog"			: "|wave||C3|[純粹虛空]|C0|的存在與完美。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_blush"],
-			"dialog"			: "抱歉试着|shake|杀了|norm|你。",
+			"dialog"			: "抱歉試著|shake|殺了|norm|你。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "哦，她认为那是种夸奖。",
+			"dialog"			: "哦，她認為那是種誇獎。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "但说真的，谁没有至少试过杀我一次呢？",
+			"dialog"			: "但說真的，誰沒有至少試過殺我一次呢？",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|噼里啪啦。",
+			"dialog"			: "|wave|劈哩啪啦。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|噼里啪啦。",
+			"dialog"			: "|wave|劈哩啪啦。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|噼里啪啦，|L|噼里啪啦。",
+			"dialog"			: "|wave|劈哩啪啦，|L|劈哩啪啦。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_despair"],
@@ -152,56 +152,56 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "她会整天都唱那个。",
+			"dialog"			: "她會整天都唱那個。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|噼里啪啦，|L|噼里啪啦。",
+			"dialog"			: "|wave|劈哩啪啦，|L|劈哩啪啦。",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "我可以把你的歌声放进我的歌曲里！",
+			"dialog"			: "我可以把你的歌聲放進我的歌曲裡！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
-			"dialog"			: "这会和我的新歌很配，它叫做-",
+			"dialog"			: "這會和我的新歌很配，它叫做-",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
 			"random"			: 3,
-			"dialog_rand1"		: "\"防御机制\"",
-			"dialog_rand2"		: "\"焦虑屹立\"",
-			"dialog_rand3"		: "\"标记删除\"",
+			"dialog_rand1"		: "\"防禦機制\"",
+			"dialog_rand2"		: "\"焦慮屹立\"",
+			"dialog_rand3"		: "\"標記刪除\"",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "就是我们的梦境战斗中那首，记得吗？",
+			"dialog"			: "就是我們的夢境戰鬥中那首，記得嗎？",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|这些单元很高兴-",
+			"dialog"			: "|wave|這些單元很高興-",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|能够为你唱一首歌。",
+			"dialog"			: "|wave|能夠為你唱一首歌。",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|噼里啪啦。",
+			"dialog"			: "|wave|劈哩啪啦。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|噼里啪啦。",
+			"dialog"			: "|wave|劈哩啪啦。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "这些单元希望我们的礼物对你有用。",
+			"dialog"			: "這些單元希望我們的禮物對你有用。",
 		},
 	],
 

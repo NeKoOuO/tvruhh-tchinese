@@ -5,45 +5,45 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元侦测到了相较从前携带有更多礼物的怪物。",
+			"dialog"			: "本單元偵測到了相較從前攜帶有更多禮物的怪物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "她们还想再给我更多礼物？",
+			"dialog"			: "她們還想再給我更多禮物？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
-			"dialog"			: "这对于我来说可能太多了。",
+			"dialog"			: "這對於我來說可能太多了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "怪物们现在可以有|C3|最多3个礼物|C0|送给你。",
+			"dialog"			: "怪物們現在可以有|C3|最多3個禮物|C0|送給你。",
 		},
 		{
 			"show_tutorial"		: "small_challenge_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "但是，她们不会轻易与这些额外礼物分别。",
+			"dialog"			: "但是，她們不會輕易與這些額外禮物分別。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "你可能需要通过|C3|挑战|C0|以折服她们赠与你这些礼物。",
+			"dialog"			: "你可能需要通過|C3|挑戰|C0|以折服她們贈與你這些禮物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "那我大概就会爱她们|wave|更多。",
+			"dialog"			: "那我大概就會愛她們|wave|更多。",
 		},
 		{
 			"show_tutorial"		: "example_challenge_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "在你开始战斗前，怪物们会展示她们的|C3|挑战|C0|。",
+			"dialog"			: "在你開始戰鬥前，怪物們會展示她們的|C3|挑戰|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "如果你未能完成|C3|挑战|C0|上的任务，那么怪物们就不会给你那个礼物。",
+			"dialog"			: "如果你未能完成|C3|挑戰|C0|上的任務，那麼怪物們就不會給你那個禮物。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|完成所有|C3|挑战|C0|上的任务。 ",
+			"dialog"			: "|C3|建議：|C0|完成所有|C3|挑戰|C0|上的任務。 ",
 		},
 		{
 			"show_tutorial"		: "none",
@@ -52,33 +52,33 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "无论她们需要什么来感受到爱， |L||wave|我都能够做到的！",
+			"dialog"			: "無論她們需要什麼來感受到愛， |L||wave|我都能夠做到的！",
 		},
 		{
 			"show_tutorial"		: "karma_ring",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "拥有更多的|C3|因果|C0|能够增加找到带有额外礼物的怪物的几率。",
+			"dialog"			: "擁有更多的|C3|因果|C0|能夠增加找到帶有額外禮物的怪物的機率。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "拥有更多的|C3|因果|C0|同样能够减少礼物上带有|C3|挑战|C0|的概率。",
+			"dialog"			: "擁有更多的|C3|因果|C0|同樣能夠減少禮物上帶有|C3|挑戰|C0|的機率。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "谢谢你，小机器人！|!||L|你帮助了我更好的理解了这些怪物。",
+			"dialog"			: "謝謝你，小機器人！|!||L|你幫助了我更好的理解了這些怪物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "嗯，我现在要走了。|!||L|我还有怪物等着去爱。",
+			"dialog"			: "嗯，我現在要走了。|!||L|我還有怪物等著去愛。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "|wave|再见",
+			"dialog"			: "|wave|再見",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元为您提供再见。",
+			"dialog"			: "本單元為您提供再見。",
 		},
 		{
 			"play_music"		: "silence",
@@ -91,7 +91,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "年幼的扎拉登再次离去了，     但本单元正感受到记录上最低的温度。",
+			"dialog"			: "年幼的扎拉登再次離去了，     但本單元正感受到記錄上最低的溫度。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -104,28 +104,28 @@
 		{
 			"play_music"		: "scene_music_b",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|开玩笑啦！",
+			"dialog"			: "|wave|開玩笑啦！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你。",
+			"dialog"			: "|wave|我愛你。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|给与本单元一个拥抱。",
+			"dialog"			: "|C3|建議：|C0|給與本單元一個擁抱。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "没问题。",
+			"dialog"			: "沒問題。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "本单元感受到温度急剧攀升。",
+			"dialog"			: "本單元感受到溫度急劇攀升。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "所有冷却风扇已失效。|L||!|本单元无怨无悔。",
+			"dialog"			: "所有冷卻風扇已失效。|L||!|本單元無怨無悔。",
 		},
 	]
 }

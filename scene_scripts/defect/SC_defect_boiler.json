@@ -5,15 +5,15 @@
 			"play_music"		: "green_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "我们真的很对不起。|L||!|我们好害怕...",
+			"dialog"			: "我們真的很對不起。|L||!|我們好害怕...",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "没关系的，锅炉。|L||!|你不是故意的。",
+			"dialog"			: "沒關係的，鍋爐。|L||!|你不是故意的。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
-			"dialog"			: "我知道这种感觉...",
+			"dialog"			: "我知道這種感覺...",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
@@ -29,67 +29,67 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "哦对了，    我做了个关于你的梦！",
+			"dialog"			: "哦對了，    我做了個關於你的夢！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "要是我也能做梦的话...",
+			"dialog"			: "要是我也能做夢的話...",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "|wave|我就能真正成为完美的顶端了。",
+			"dialog"			: "|wave|我就能真正成為完美的頂端了。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "则个女孩超级辣。",
+			"dialog"			: "則個女孩超級辣。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "是呀，她确实...",
+			"dialog"			: "是呀，她確實...",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "我无法完全理解这赞誉，但我必须同意。|L||!|我一定是辣的典范。",
+			"dialog"			: "我無法完全理解這讚譽，但我必須同意。|L||!|我一定是辣的典範。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "但我已经占据足够的焦点了。|L||!|你们刚刚在谈论梦境的事情？",
+			"dialog"			: "但我已經占據足夠的焦點了。|L||!|你們剛剛在談論夢境的事情？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "辣个我们告诉你|C3|连接突触|C0|的梦？",
+			"dialog"			: "辣個我們告訴你|C3|連接突觸|C0|的夢？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "所以那确实是来自你的信息。",
+			"dialog"			: "所以那確實是來自你的資訊。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "所以，我可以现在把礼物给你，然后你的力量能让我在任一天的开始把它们取出来？",
+			"dialog"			: "所以，我可以現在把禮物給你，然後你的力量能讓我在任一天的開始把它們取出來？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "是吖。|L||!|不过我们还需要点时间来为我们的|C3|连接突触|C0|充能。",
+			"dialog"			: "是吖。|L||!|不過我們還需要點時間來為我們的|C3|連接突觸|C0|充能。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "或许等我再向另一位怪物展示爱之后？",
+			"dialog"			: "或許等我再向另一位怪物展示愛之後？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "好吖。|L||!|我们会回来找你的，好吖？",
+			"dialog"			: "好吖。|L||!|我們會回來找你的，好吖？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "要小心点，好吖？|L||!|我们想看到你安全回来。",
+			"dialog"			: "要小心點，好吖？|L||!|我們想看到你安全回來。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "当然了，锅炉。",
+			"dialog"			: "當然了，鍋爐。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "哦，   还有一件事。",
+			"dialog"			: "哦，   還有一件事。",
 		},
 		{
 			"love_hearts"		: 1,

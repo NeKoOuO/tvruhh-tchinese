@@ -5,47 +5,47 @@
 			"play_music"		: "creepy_scene_music",
 			"bg_image"			: "spr_scene_darkness",
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "你来到这里是为了给我你的心吗？",
+			"dialog"			: "你來到這裡是為了給我你的心嗎？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "不。事实上我现在需要我的心，但|wave|我是来和你分享我的爱的！",
+			"dialog"			: "不。事實上我現在需要我的心，但|wave|我是來和你分享我的愛的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "我现在觉得有点冷了。    |L|天气是在变冷吗？    |L|你需要一个拥抱暖和一下吗？",
+			"dialog"			: "我現在覺得有點冷了。    |L|天氣是在變冷嗎？    |L|你需要一個擁抱暖和一下嗎？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "啊，当然，你是想要爱我的那个。|L||!|你又回来了。",
+			"dialog"			: "啊，當然，你是想要愛我的那個。|L||!|你又回來了。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "我看到你的心相较从前更加闪耀。|L||!|但这无所谓。",
+			"dialog"			: "我看到你的心相較從前更加閃耀。|L||!|但這無所謂。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "我们之前有见过吗？",
+			"dialog"			: "我們之前有見過嗎？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "你为何抵抗？|L||!|你明知你身处痛苦之中。",
+			"dialog"			: "你為何抵抗？|L||!|你明知你身處痛苦之中。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "其实我现在感觉非常不错！",
+			"dialog"			: "其實我現在感覺非常不錯！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "看看你的翅膀。|L||!|你无法飞翔。|L||!|你一定感到一无是处。",
+			"dialog"			: "看看你的翅膀。|L||!|你無法飛翔。|L||!|你一定感到一無是處。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "把你的心给我，这种孤独就能结束。",
+			"dialog"			: "把你的心給我，這種孤獨就能結束。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "所有其他怪物都会倾向于选择爱，相较于她们之前的感受。|L||!|或许我们可以先试一试？",
+			"dialog"			: "所有其他怪物都會傾向於選擇愛，相較於她們之前的感受。|L||!|或許我們可以先試一試？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
@@ -53,11 +53,11 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "扎拉登女孩，我无法感受到爱。",
+			"dialog"			: "扎拉登女孩，我無法感受到愛。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
-			"dialog"			: "|shake|我什么都不是！|L||!|我什么都    感觉不到！|L||!|我就是虚空！",
+			"dialog"			: "|shake|我什麼都不是！|L||!|我什麼都    感覺不到！|L||!|我就是虛空！",
 		}
 	]
 }

@@ -5,59 +5,59 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_happy"],
-			"dialog"			: "哦，你好。我是雪奥诺托。",
+			"dialog"			: "哦，你好。我是雪奧諾托。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_confused"],
-			"dialog"			: "如果你从未见到过我，你应该去和冰封维目尔|C3|交易|C0|一些东西。",
+			"dialog"			: "如果你從未見到過我，你應該去和冰封維目爾|C3|交易|C0|一些東西。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_blush"],
-			"dialog"			: "你至少见过她了，是吧？",
+			"dialog"			: "你至少見過她了，是吧？",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_normal"],
-			"dialog"			: "总之，我是来告诉你关于|C3|高塔|C0|的事情的。",
+			"dialog"			: "總之，我是來告訴你關於|C3|高塔|C0|的事情的。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_surprised"],
-			"dialog"			: "你能够在这里找到2中新类型的礼物。",
+			"dialog"			: "你能夠在這裡找到2中新類型的禮物。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_happy"],
-			"dialog"			: "|C3|祝福|C0|能够像力量礼物那样帮助你，但它们在几场战斗后就失效了。",
+			"dialog"			: "|C3|祝福|C0|能夠像力量禮物那樣幫助你，但它們在幾場戰鬥後就失效了。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_sad"],
-			"dialog"			: "然后这里有|C3|负担。",
+			"dialog"			: "然後這裡有|C3|負擔。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_aggressive"],
-			"dialog"			: "|C3|负担|C0|总会有负面的效果，但它们也只会持续几场战斗。",
+			"dialog"			: "|C3|負擔|C0|總會有負面的效果，但它們也只會持續幾場戰鬥。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_confused"],
-			"dialog"			: "大部分怪物都会同时给你|C3|祝福和负担，|C0|所以要小心。",
+			"dialog"			: "大部分怪物都會同時給你|C3|祝福和負擔，|C0|所以要小心。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_normal"],
-			"dialog"			: "高塔还有另一个重要的规则。",
+			"dialog"			: "高塔還有另一個重要的規則。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_surprised"],
-			"dialog"			: "只有你在战斗中获得高分时怪物的等级才会提升。",
+			"dialog"			: "只有你在戰鬥中獲得高分時怪物的等級才會提升。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_happy"],
-			"dialog"			: "在高等级怪物面前表现良好能够快速提升你的等级。",
+			"dialog"			: "在高等級怪物面前表現良好能夠快速提升你的等級。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_surprised"],
-			"dialog"			: "除此之外，你也应该注意有些高塔目前仍缺失最终战斗。",
+			"dialog"			: "除此之外，你也應該注意有些高塔目前仍缺失最終戰鬥。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_very_happy"],
-			"dialog"			: "但它们很快就会被加进去。",
+			"dialog"			: "但它們很快就會被加進去。",
 		},
 		{
 			"character"			: ["VOICE_chionotoh", "CHAR_chionotoh_right", "MOOD_happy"],

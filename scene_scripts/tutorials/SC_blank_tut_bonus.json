@@ -5,72 +5,72 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元侦测到了一种新类型的|C3|礼物。",
+			"dialog"			: "本單元偵測到了一種新類型的|C3|禮物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "新类型的|C3|礼物？",
+			"dialog"			: "新類型的|C3|禮物？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现在将解释|C3|额外礼物。",
+			"dialog"			: "本單元現在將解釋|C3|額外禮物。",
 		},
 		{
 			"show_tutorial"		: "small_bonus_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "除了|C3|力量礼物|C0|之外，有些怪物会有着多出来的|C3|额外礼物|C0|赠与你。",
+			"dialog"			: "除了|C3|力量禮物|C0|之外，有些怪物會有著多出來的|C3|額外禮物|C0|贈與你。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "拥有更多的|C3|因果|C0|会提高你从怪物手中收到|C3|额外礼物|C0|的概率。",
+			"dialog"			: "擁有更多的|C3|因果|C0|會提高你從怪物手中收到|C3|額外禮物|C0|的機率。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "如同力量礼物一样，|C3|额外礼物|C0|会在你收下时自动生效。",
+			"dialog"			: "如同力量禮物一樣，|C3|額外禮物|C0|會在你收下時自動生效。",
 		},
 		{
 			"show_tutorial"		: "example_bonus_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "但是，与力量礼物相比，|C3|额外礼物|C0|有着更加简单或者一次性的效果。",
+			"dialog"			: "但是，與力量禮物相比，|C3|額外禮物|C0|有著更加簡單或者一次性的效果。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|额外礼物|C0|同样也能够被多次收下。",
+			"dialog"			: "|C3|額外禮物|C0|同樣也能夠被多次收下。",
 		},
 		{
 			"show_tutorial"		: "gift_preview_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "在选择爱的目标时，会有一个|C3|预览|C0|界面显示每一只怪物的|C3|礼物|C0|。",
+			"dialog"			: "在選擇愛的目標時，會有一個|C3|預覽|C0|界面顯示每一隻怪物的|C3|禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|当选择爱的目标时细心检视每只怪物能够给予你的|C3|礼物|C0|。",
+			"dialog"			: "|C3|建議：|C0|當選擇愛的目標時細心檢視每隻怪物能夠給予你的|C3|禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "要根据她们的礼物来选择吗？",
+			"dialog"			: "要根據她們的禮物來選擇嗎？",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元依据你的表达，确认了刚刚的表述过于漠不关心。",
+			"dialog"			: "本單元依據你的表達，確認了剛剛的表述過於漠不關心。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "该情况已被记录用于未来参考。",
+			"dialog"			: "該情況已被記錄用於未來參考。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "没关系的，小机器人。",
+			"dialog"			: "沒關係的，小機器人。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你。",
+			"dialog"			: "|wave|我愛你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "以该速率估算，本单元需安装新的散热风扇。",
+			"dialog"			: "以該速率估算，本單元需安裝新的散熱風扇。",
 		}
 	]
 }

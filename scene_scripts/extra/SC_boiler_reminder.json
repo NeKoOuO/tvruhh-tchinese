@@ -5,7 +5,7 @@
 			"play_music"		: "green_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "我们会去准备我们的|C3|连接突触。|C0||L||!|我们等下见，好吖？",
+			"dialog"			: "我們會去準備我們的|C3|連接突觸。|C0||L||!|我們等一下見，好吖？",
 		}
 	]
 }

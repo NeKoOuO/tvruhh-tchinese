@@ -2,15 +2,15 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
-			"dialog"			: "|C3|（一朵玻璃植物从她面前的地面上钻出。）",
+			"dialog"			: "|C3|（一朵玻璃植物從她面前的地面上鑽出。）",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
-			"dialog"			: "|C3|（花朵激动地扭动着，它的藤蔓从地面上向外延展。）",
+			"dialog"			: "|C3|（花朵激動地扭動著，它的藤蔓從地面上向外延展。）",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
-			"dialog"			: "|C3|(当整个藤蔓完全升起时，一个熟悉的身影从其上出现。）"
+			"dialog"			: "|C3|(當整個藤蔓完全升起時，一個熟悉的身影從其上出現。）"
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
@@ -18,18 +18,18 @@
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(珍珠在她的面前出现了。)",
+			"dialog"			: "|C3|(珍珠在她的面前出現了。)",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(她的手中递出了一些礼物。)",
+			"dialog"			: "|C3|(她的手中遞出了一些禮物。)",
 		},
 	],
 	
 	"intro_blank" : [
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
-			"dialog"			: "|C3|(一朵玻璃植物从扎拉登面前的土地中钻出。）",
+			"dialog"			: "|C3|(一朵玻璃植物從扎拉登面前的土地中鑽出。）",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
@@ -37,7 +37,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "你吓到我了！",
+			"dialog"			: "你嚇到我了！",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
@@ -45,18 +45,18 @@
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(珍珠的身体迅速从地上钻出，并散发着自责的气息。)",
+			"dialog"			: "|C3|(珍珠的身體迅速從地上鑽出，並散發著自責的氣息。)",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(然后她拿出了些礼物。)",
+			"dialog"			: "|C3|(然後她拿出了些禮物。)",
 		},
 	],
 	
 	"intro_twins" : [
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
-			"dialog"			: "|C3|(一朵玻璃植物从双子面前的地上钻出。)",
+			"dialog"			: "|C3|(一朵玻璃植物從雙子面前的地上鑽出。)",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
@@ -64,11 +64,11 @@
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "你知道应该做什么的。",
+			"dialog"			: "你知道應該做什麼的。",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
-			"dialog"			: "|C3|(花朵开心地摇晃着，然后从地面上伸展开来。)",
+			"dialog"			: "|C3|(花朵開心地搖晃著，然後從地面上伸展開來。)",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
@@ -76,15 +76,15 @@
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
-			"dialog"			: "|C3|(藤蔓卷绕在无翼的扎拉登周围，将她向前拉去。)",
+			"dialog"			: "|C3|(藤蔓卷繞在無翼的扎拉登周圍，將她向前拉去。)",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(珍珠从地上钻出，她握着许多礼物。)",
+			"dialog"			: "|C3|(珍珠從地上鑽出，她握著許多禮物。)",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "你-你想让我带走其中一个吗？",
+			"dialog"			: "你-你想讓我帶走其中一個嗎？",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
@@ -92,33 +92,33 @@
 		},
 	],
 	
-	"monster_gifts"	: "珍珠的礼物",
+	"monster_gifts"	: "珍珠的禮物",
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-		"dialog"	: "|C3|(珍珠伸出了几个礼物，她似乎想要其中一个礼物被选择。)",
+		"dialog"	: "|C3|(珍珠伸出了幾個禮物，她似乎想要其中一個禮物被選擇。)",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-		"dialog"	: "|C3|(她正期待地看着。)",
+		"dialog"	: "|C3|(她正期待地看著。)",
 	},
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "嘿，没事的。|L||!|你又不是故意要吓我。",
+			"dialog"			: "嘿，沒事的。|L||!|你又不是故意要嚇我。",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(珍珠看起来想要把自己永远埋进地里。)",
+			"dialog"			: "|C3|(珍珠看起來想要把自己永遠埋進地裡。)",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
-			"dialog"			: "不，不要这样。",
+			"dialog"			: "不，不要這樣。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -130,7 +130,7 @@
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_tail_right", "MOOD_normal"],
-			"dialog"			: "|C3|(珍珠的眼睛正盯着维目尔看。)",
+			"dialog"			: "|C3|(珍珠的眼睛正盯著維目爾看。)",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
@@ -150,15 +150,15 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(珍珠缓慢地接近了扎拉登。她们的脸几乎贴在了一起，但扎拉登反射性地避开了。)",
+			"dialog"			: "|C3|(珍珠緩慢地接近了扎拉登。她們的臉幾乎貼在了一起，但扎拉登反射性地避開了。)",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|谢谢你，珍珠。",
+			"dialog"			: "|shake|謝謝你，珍珠。",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(气馁而尴尬，珍珠将自己从扎拉登身边拉远。)",
+			"dialog"			: "|C3|(氣餒而尷尬，珍珠將自己從扎拉登身邊拉遠。)",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised"],
@@ -166,35 +166,35 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_blush"],
-			"dialog"			: "...你真可爱，珍珠。",
+			"dialog"			: "...你真可愛，珍珠。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_happy"],
-			"dialog"			: "|C3|(在听到这些话语之后，珍珠的整个身体僵住了，她昏厥了过去，脸上带着微笑。)",
+			"dialog"			: "|C3|(在聽到這些話語之後，珍珠的整個身體僵住了，她昏厥了過去，臉上帶著微笑。)",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "谢谢你，珍珠。",
+			"dialog"			: "謝謝你，珍珠。",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(看起来珍珠想要什么东西。)",
+			"dialog"			: "|C3|(看起來珍珠想要什麼東西。)",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "你看起来想要什么。",
+			"dialog"			: "你看起來想要什麼。",
 		},
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(看起来珍珠想要一个来自这位扎拉登的拥抱。)",
+			"dialog"			: "|C3|(看起來珍珠想要一個來自這位扎拉登的擁抱。)",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "看起来你想要来自我--恶魔--的拥抱。",
+			"dialog"			: "看起來你想要來自我--惡魔--的擁抱。",
 		},
 		{
 			"love_hearts"		: 1,
@@ -206,12 +206,12 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_normal"],
-			"dialog"			: "|C3|(珍珠看起来想要什么东西。)",
+			"dialog"			: "|C3|(珍珠看起來想要什麼東西。)",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_pearl", "CHAR_pearl_right", "MOOD_happy"],
-			"dialog"			: "|C3|(拥抱让她的脸上出现了少有的微笑。)",
+			"dialog"			: "|C3|(擁抱讓她的臉上出現了少有的微笑。)",
 		},
 	],
 

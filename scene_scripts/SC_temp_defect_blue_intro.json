@@ -9,39 +9,39 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "怎么了，|C3|小蓝？",
+			"dialog"			: "怎麼了，|C3|小藍？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_angry"],
-			"dialog"			: "|shake|我们现在要战斗了！",
+			"dialog"			: "|shake|我們現在要戰鬥了！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "|shake|为什么？！",
+			"dialog"			: "|shake|為什麼？！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "因为这部分故事还没有完成，  |wave|但是我的战斗已经准备好了。",
+			"dialog"			: "因為這部分故事還沒有完成，  |wave|但是我的戰鬥已經準備好了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "你必须体验一下。|L||!|实在是太宏大了。|L||!|真的，这是完美的战斗。",
+			"dialog"			: "你必須體驗一下。|L||!|實在是太宏大了。|L||!|真的，這是完美的戰鬥。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "别担心，我永远不会背叛你的。|L||!|那也太...不完美了。",
+			"dialog"			: "別擔心，我永遠不會背叛你的。|L||!|那也太...不完美了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "如果你这样说的话。|L||!|但准备好。",
+			"dialog"			: "如果你這樣說的話。|L||!|但準備好。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_angry"],
-			"dialog"			: "我不会输的！",
+			"dialog"			: "我不會輸的！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_angry"],
-			"dialog"			: "|shake|我也不会的！",
+			"dialog"			: "|shake|我也不會的！",
 		},
 	]
 }

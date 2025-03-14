@@ -5,11 +5,11 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_scene_raining_outside",
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "|C3|开始重启    .    .    .",
+			"dialog"			: "|C3|開始重啟    .    .    .",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "哨卫，你没事吗？",
+			"dialog"			: "哨衛，你沒事嗎？",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
@@ -17,7 +17,7 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "本单元现在感觉没事了。",
+			"dialog"			: "本單元現在感覺沒事了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
@@ -25,11 +25,11 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "显然，我的形象对她的视觉感受器而言太难处理了。",
+			"dialog"			: "顯然，我的形象對她的視覺感受器而言太難處理了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "再给她点时间来处理我的美貌。",
+			"dialog"			: "再給她點時間來處理我的美貌。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
@@ -37,86 +37,86 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
-			"dialog"			: "哨卫？",
+			"dialog"			: "哨衛？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
-			"dialog"			: "|shake|哨卫？|norm||L||!|我开始有点担心了！",
+			"dialog"			: "|shake|哨衛？|norm||L||!|我開始有點擔心了！",
 		},
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
-			"dialog"			: "|C3|检测到虚空眷族",
+			"dialog"			: "|C3|檢測到虛空眷族",
 		},
 		{
 			"play_music"		: "creepy_scene_music",
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
-			"dialog"			: "本单元现在将启动战斗模式。",
+			"dialog"			: "本單元現在將啟動戰鬥模式。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "你在干什么？",
+			"dialog"			: "你在幹什麼？",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
-			"dialog"			: "|C3|虚空眷族|C0|必须被消灭。",
+			"dialog"			: "|C3|虛空眷族|C0|必須被消滅。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_upset"],
-			"dialog"			: "你是在说小蓝吗？",
+			"dialog"			: "你是在說小藍嗎？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "这比我预想的更加糟糕。",
+			"dialog"			: "這比我預想的更加糟糕。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "仅仅只是我的优雅就把她的电路完全烧坏了。",
+			"dialog"			: "僅僅只是我的優雅就把她的電路完全燒壞了。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
-			"dialog"			: "这个虚空生物必须从这个世界被清除掉。",
+			"dialog"			: "這個虛空生物必須從這個世界被清除掉。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_angry"],
-			"dialog"			: "你为什么想要伤害小蓝？|L||!|我不会让你这么做的！",
+			"dialog"			: "你為什麼想要傷害小藍？|L||!|我不會讓你這麼做的！",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
-			"dialog"			: "请站到一边，本单元必须执行她的职责并摧毁|C3|虚空眷族。|C0|",
+			"dialog"			: "請站到一邊，本單元必須執行她的職責並摧毀|C3|虛空眷族。|C0|",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
-			"dialog"			: "别这样做，哨卫。",
+			"dialog"			: "別這樣做，哨衛。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_upset"],
-			"dialog"			: "你为何要保护|C3|虚空眷族？|C0|",
+			"dialog"			: "你為何要保護|C3|虛空眷族？|C0|",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_upset"],
-			"dialog"			: "它们太危险了，无法容许存在。",
+			"dialog"			: "它們太危險了，無法容許存在。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
-			"dialog"			: "她不会伤害任何人的！",
+			"dialog"			: "她不會傷害任何人的！",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
-			"dialog"			: "它们是威胁，本单元的程序不愿接受。",
+			"dialog"			: "它們是威脅，本單元的程序不願接受。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry2"],
-			"dialog"			: "求你了，我不想再战斗了。",
+			"dialog"			: "求你了，我不想再戰鬥了。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
-			"dialog"			: "|shake|它们必须被毁灭。",
+			"dialog"			: "|shake|它們必須被毀滅。",
 		},
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry3"],
-			"dialog"			: "|shake|她是我的朋友，我爱她！",
+			"dialog"			: "|shake|她是我的朋友，我愛她！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
@@ -128,15 +128,15 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry1"],
-			"dialog"			: "如果你伤害她，那也会伤害我。",
+			"dialog"			: "如果你傷害她，那也會傷害我。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
-			"dialog"			: "本单元不想伤害你。",
+			"dialog"			: "本單元不想傷害你。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry1"],
-			"dialog"			: "关掉你的武器吧，哨卫。|L||!|你不再需要它们了。",
+			"dialog"			: "關掉你的武器吧，哨衛。|L||!|你不再需要它們了。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
@@ -144,85 +144,85 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
-			"dialog"			: "本单元会接受这一请求。",
+			"dialog"			: "本單元會接受這一請求。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "你已经被加入了文件夹，|C3|所爱之人。|C0|",
+			"dialog"			: "你已經被加入了文件夾，|C3|所愛之人。|C0|",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "名为小蓝的虚空眷族，位于你的|C3|所爱之人|C0|文件夹中。",
+			"dialog"			: "名為小藍的虛空眷族，位於你的|C3|所愛之人|C0|文件夾中。",
 		},
 		{
 			"play_music"		: "tutorbot_scene_music",
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "可以将小蓝加入本单元的|C3|所爱之人|C0|文件夹中。",
+			"dialog"			: "可以將小藍加入本單元的|C3|所愛之人|C0|文件夾中。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content_cry"],
-			"dialog"			: "谢谢你，哨卫。",
+			"dialog"			: "謝謝你，哨衛。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy_cry1"],
-			"dialog"			: "我也爱你。",
+			"dialog"			: "我也愛你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元在心型驱动上有着许多的空间。",
+			"dialog"			: "本單元在心型驅動上有著許多的空間。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "蓝色同样也是本单元最喜欢的颜色。",
+			"dialog"			: "藍色同樣也是本單元最喜歡的顏色。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "这真是美妙的巧合！|L||!|蓝色恰好也是我最喜欢的颜色。",
+			"dialog"			: "這真是美妙的巧合！|L||!|藍色恰好也是我最喜歡的顏色。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
-			"dialog"			: "你没有对本单元生气吗？",
+			"dialog"			: "你沒有對本單元生氣嗎？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "我为什么会对你生气呢？",
+			"dialog"			: "我為什麼會對你生氣呢？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "你们两个为我争吵是再自然不过的了。",
+			"dialog"			: "你們兩個為我爭吵是再自然不過的了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "我们没有人能够阻止这一切。",
+			"dialog"			: "我們沒有人能夠阻止這一切。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "我随时都会为你而战的，小蓝。",
+			"dialog"			: "我隨時都會為你而戰的，小藍。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_confused"],
-			"dialog"			: "哦...本单元同样有一个请求。",
+			"dialog"			: "哦...本單元同樣有一個請求。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "是什么呢，哨卫？",
+			"dialog"			: "是什麼呢，哨衛？",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_confused"],
-			"dialog"			: "本单元想要和你玩一个游戏。",
+			"dialog"			: "本單元想要和你玩一個遊戲。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "是一个简单的游戏。|L||!|本单元会问问题，然后你来回答。",
+			"dialog"			: "是一個簡單的遊戲。|L||!|本單元會問問題，然後你來回答。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "我当然会来玩的！",
+			"dialog"			: "我當然會來玩的！",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "在准备好问题之后，本单元会回来找你。",
+			"dialog"			: "在準備好問題之後，本單元會回來找你。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],

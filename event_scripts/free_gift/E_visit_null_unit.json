@@ -4,23 +4,23 @@
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
 			"random"			: 3,
 			"dialog_rand1"		: "哦，嘿... 你好像就是，找到我了。",
-			"dialog_rand2"		: "你似乎找到了就是，我的废料堆。",
-			"dialog_rand3"		: "我似乎就是，很高兴见到你，之类的。",
+			"dialog_rand2"		: "你似乎找到了就是，我的廢料堆。",
+			"dialog_rand3"		: "我似乎就是，很高興見到你，之類的。",
 		},
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
 			"random"			: 3,
-			"dialog_rand1"		: "你想要就是，   某样东西    之类的？",
-			"dialog_rand2"		: "你是在找就是,  什么东西   或者其他的？",
-			"dialog_rand3"		: "你想要什么就是，  东西   和垃圾之类的？",
+			"dialog_rand1"		: "你想要就是，   某樣東西    之類的？",
+			"dialog_rand2"		: "你是在找就是,  什麼東西   或者其他的？",
+			"dialog_rand3"		: "你想要什麼就是，  東西   和垃圾之類的？",
 		},
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "我有这么多不知道该怎么办的垃圾。",
+			"dialog"			: "我有這麼多不知道該怎麼辦的垃圾。",
 		},
 	],
 	
-	"monster_gifts"	: "空无单元的礼物",
+	"monster_gifts"	: "空無單元的禮物",
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
@@ -28,45 +28,45 @@
 	},
 	"comment_take_unknown"	: {
 		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-		"dialog"	: "我甚至不知道就是，那是什么或怎么到那的。",
+		"dialog"	: "我甚至不知道就是，那是什麼或怎麼到那的。",
 	},
 	"comment_quick_limit"	: {
 		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-		"dialog"	: "你没办法就是，带的下那个了。|L|所以，你也一直不想把自己的东西用掉，是吧？",
+		"dialog"	: "你沒辦法就是，帶的下那個了。|L|所以，你也一直不想把自己的東西用掉，是吧？",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-		"dialog"	: "你要带走那个？",
+		"dialog"	: "你要帶走那個？",
 	},
 	
 	"another_gift_1" 	: [
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "哇哦。你现在完全可以带着一大堆东西了。",
+			"dialog"			: "哇哦。你現在完全可以帶著一大堆東西了。",
 		},
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "你可以从这一堆里再拿一个，或者都行。",
+			"dialog"			: "你可以從這一堆裡再拿一個，或者都行。",
 		},
 	],
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "你能不能就是，稍微拿住我一会？",
+			"dialog"			: "你能不能就是，稍微拿住我一會？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "当然可以。",
+			"dialog"			: "當然可以。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "我爱你。",
+			"dialog"			: "我愛你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "你真的很容易哭，你知道吗？",
+			"dialog"			: "你真的很容易哭，你知道嗎？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content_cry"],
@@ -77,35 +77,35 @@
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "我能不能就是，握住你的|C3|虚空衍体|C0|   或者之类的？",
+			"dialog"			: "我能不能就是，握住你的|C3|虛空衍體|C0|   或者之類的？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_upset"],
-			"dialog"			: "你可没有试着杀了她，是吧？",
+			"dialog"			: "你可沒有試著殺了她，是吧？",
 		},
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "什么？不可能！",
+			"dialog"			: "什麼？不可能！",
 		},
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "我不明白为什么老机器一直会就是，被那些小女孩之类的吓坏。",
+			"dialog"			: "我不明白為什麼老機器一直會就是，被那些小女孩之類的嚇壞。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "现在你一定明白了。",
+			"dialog"			: "現在你一定明白了。",
 		},
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "是呀，我会就是，现在直接杀了你。",
+			"dialog"			: "是呀，我會就是，現在直接殺了你。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_upset"],
-			"dialog"			: "阳光，快去抱她。",
+			"dialog"			: "陽光，快去抱她。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
@@ -113,7 +113,7 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "万一她不喜欢那样呢？",
+			"dialog"			: "萬一她不喜歡那樣呢？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
@@ -122,7 +122,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "哎呀。这可就是，那人太好了之类的。",
+			"dialog"			: "哎呀。這可就是，那人太好了之類的。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_blush"],
@@ -133,11 +133,11 @@
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "我能否就是，从你那里得到个温暖的拥抱？",
+			"dialog"			: "我能否就是，從你那裡得到個溫暖的擁抱？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "你真的准备好接受来自我--恶魔--的拥抱吗？",
+			"dialog"			: "你真的準備好接受來自我--惡魔--的擁抱嗎？",
 		},
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
@@ -145,24 +145,24 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "我警告过你了！",
+			"dialog"			: "我警告過你了！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_blush"],
-			"dialog"			: "哇！这可跟我预料的完全不同。",
+			"dialog"			: "哇！這可跟我預料的完全不同。",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_normal"],
-			"dialog"			: "在你走之前，我能否拥抱一下    之类的？",
+			"dialog"			: "在你走之前，我能否擁抱一下    之類的？",
 		},
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_null_bot", "CHAR_null_unit_right", "MOOD_blush"],
-			"dialog"			: "我就是，现在完全需要它。",
+			"dialog"			: "我就是，現在完全需要它。",
 		},
 	],
 

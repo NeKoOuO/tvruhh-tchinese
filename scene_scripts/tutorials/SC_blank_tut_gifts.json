@@ -5,69 +5,69 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_tutorial_common",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|小机器人！|norm|   其中一个怪物现在爱我了！",
+			"dialog"			: "|wave|小機器人！|norm|   其中一個怪物現在愛我了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "她甚至给了我什么东西。",
+			"dialog"			: "她甚至給了我什麼東西。",
 		},
 		{
 			"show_tutorial"		: "example_power_card",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "该物件确认为一个|C3|力量礼物。",
+			"dialog"			: "該物件確認為一個|C3|力量禮物。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "看起来这位怪物想要帮助你去爱下一位。",
+			"dialog"			: "看起來這位怪物想要幫助你去愛下一位。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "这个礼物可以帮助我？",
+			"dialog"			: "這個禮物可以幫助我？",
 		},
 		{
 			"show_tutorial"		: "small_power_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现将解释|C3|力量礼物。",
+			"dialog"			: "本單元現將解釋|C3|力量禮物。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "当怪物们感到被爱时，她们会给你|C3|力量礼物|C0|。",
+			"dialog"			: "當怪物們感到被愛時，她們會給你|C3|力量禮物|C0|。",
 		},
 		{
 			"show_tutorial"		: "example_power_card",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|力量礼物|C0|的效果在你收下时会自动激活。",
+			"dialog"			: "|C3|力量禮物|C0|的效果在你收下時會自動啟用。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "我确实已经感觉到我的心变强了。",
+			"dialog"			: "我確實已經感覺到我的心變強了。",
 		},
 		{
 			"show_tutorial"		: "small_power_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|力量礼物|C0|上的星星数量决定了其阶级。|L||!|高阶级的礼物具有更加强大的效果。",
+			"dialog"			: "|C3|力量禮物|C0|上的星星數量決定了其階級。|L||!|高階級的禮物具有更加強大的效果。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|接受每个怪物给予你的礼物并使用其效果去爱更多怪物。",
+			"dialog"			: "|C3|建議：|C0|接受每個怪物給予你的禮物並使用其效果去愛更多怪物。",
 		},
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|谢谢你，小机器人！|norm||L||!|我会这样做的！",
+			"dialog"			: "|wave|謝謝你，小機器人！|norm||L||!|我會這樣做的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "我说不定需要先测试一下，以确保它已经生效了。",
+			"dialog"			: "我說不定需要先測試一下，以確保它已經生效了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你。",
+			"dialog"			: "|wave|我愛你。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "本单元感觉到温度急剧上升。|L||!|你的力量确实已经增长了。",
+			"dialog"			: "本單元感覺到溫度急劇上升。|L||!|你的力量確實已經增長了。",
 		}
 	]
 }

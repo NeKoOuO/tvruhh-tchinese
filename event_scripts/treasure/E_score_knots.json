@@ -2,198 +2,198 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
-			"dialog"			: "呃... 你能帮我们个忙吗？",
+			"dialog"			: "呃... 你能幫我們個忙嗎？",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
 			"random"			: 3,
-			"dialog_rand1"		: "我们找不到我们的妻子了！",
-			"dialog_rand2"		: "你看到我们的妻子了吗？",
-			"dialog_rand3"		: "我们觉得我们的妻子不见了！",
+			"dialog_rand1"		: "我們找不到我們的妻子了！",
+			"dialog_rand2"		: "你看到我們的妻子了嗎？",
+			"dialog_rand3"		: "我們覺得我們的妻子不見了！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
-			"dialog"			: "她回到自己的宇宙去拿... 东西了。",
+			"dialog"			: "她回到自己的宇宙去拿... 東西了。",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-			"dialog"			: "如果我们跟着她穿过传送突触，我们可能就再也回不来了。",
+			"dialog"			: "如果我們跟著她穿過傳送突觸，我們可能就再也回不來了。",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "但她已经离开快5分钟了！",
+			"dialog"			: "但她已經離開快5分鐘了！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
 			"random"			: 3,
-			"dialog_rand1"		: "要是她身上发生了什么呢？",
-			"dialog_rand2"		: "要是她再也不回来了呢？",
-			"dialog_rand3"		: "要是她处于困境中呢？",
+			"dialog_rand1"		: "要是她身上發生了什麼事呢？",
+			"dialog_rand2"		: "要是她再也不回來了呢？",
+			"dialog_rand3"		: "要是她處於困境中呢？",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-			"dialog"			: "你一定要帮助我们把她找回来！",
+			"dialog"			: "你一定要幫助我們把她找回來！",
 		},
 	],
 	
 	"intro_devil" : [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "这不是节结吗！",
+			"dialog"			: "這不是節結嗎！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "没有我们的妻子，我们只是节节而已。",
+			"dialog"			: "沒有我們的妻子，我們只是節節而已。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad"],
-			"dialog"			: "不是节结吗？|L|你们没事吗？",
+			"dialog"			: "不是節結嗎？|L|你們沒事嗎？",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
-			"dialog"			: "我们的妻子回到自己的宇宙去拿... 东西了。",
+			"dialog"			: "我們的妻子回到自己的宇宙去拿... 東西了。",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "但她已经离开快5分钟了！",
+			"dialog"			: "但她已經離開快5分鐘了！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
 			"random"			: 3,
-			"dialog_rand1"		: "要是她身上发生了什么呢？",
-			"dialog_rand2"		: "要是她再也不回来了呢？",
-			"dialog_rand3"		: "要是她处于困境中呢？",
+			"dialog_rand1"		: "要是她身上發生了什麼事呢？",
+			"dialog_rand2"		: "要是她再也不回來了呢？",
+			"dialog_rand3"		: "要是她處於困境中呢？",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-			"dialog"			: "你一定要帮助我们把她找回来！",
+			"dialog"			: "你一定要幫助我們把她找回來！",
 		},
 	],
 	
-	"monster_gifts"	: "节结的礼物",
+	"monster_gifts"	: "節結的禮物",
 	
-	"op_start"		: "帮助节节找到结结",
-	"op_leave"		: "结结自己回来了",
+	"op_start"		: "幫助節節找到結結",
+	"op_leave"		: "結結自己回來了",
 	
 	"comment_start"		: {
 		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
-		"dialog"	: "你会帮助我们的，对吧？",
+		"dialog"	: "你會幫助我們的，對吧？",
 	},
 	"comment_leave"		: {
 		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-		"dialog"	: "我们觉得她好像要回来了！",
+		"dialog"	: "我們覺得她好像要回來了！",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-		"dialog"	: "是她吗？",
+		"dialog"	: "是她嗎？",
 	},
 	
 	"start_battle" 	: [
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "太谢谢你了。",
+			"dialog"			: "太謝謝你了。",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
-			"dialog"			: "我们可以通过梦境来观察她的情况。",
+			"dialog"			: "我們可以透過夢境來觀察她的情況。",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "我们无法再忍受一分钟不在她身边的时间了！",
+			"dialog"			: "我們無法再忍受一分鐘不在她身邊的時間了！",
 		},
 	],
 	
 	"start_battle_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "别担心，节节！|L||!|我们会找到你们的妻子的。",
+			"dialog"			: "別擔心，節節！|L||!|我們會找到你們的妻子的。",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "要是她永远离开了呢？",
+			"dialog"			: "要是她永遠離開了呢？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
-			"dialog"			: "我们会拯救她的，好吗！",
+			"dialog"			: "我們會拯救她的，好嗎！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
-			"dialog"			: "我们无法忍受离她这么远了。",
+			"dialog"			: "我們無法忍受離她這麼遠了。",
 		},
 	],
 	
 	"start_battle_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "等下，所以你并非不是节节？",
+			"dialog"			: "等一下，所以你並非不是節節？",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-			"dialog"			: "不，我们是节节！",
+			"dialog"			: "不，我們是節節！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
-			"dialog"			: "所以你们不是节节？",
+			"dialog"			: "所以你們不是節節？",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_surprised"],
-			"dialog"			: "不。和妻子在一起时我们是节结。|L||!|没有她，我们就是节节！",
+			"dialog"			: "不。和妻子在一起時我們是節結。|L||!|沒有她，我們就是節節！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
-			"dialog"			: "我完全没搞明白。",
+			"dialog"			: "我完全沒搞明白。",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "先帮我们找到我们的妻子吧！",
+			"dialog"			: "先幫我們找到我們的妻子吧！",
 		},
 	],
 	
 	"no_battle" 	: [
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
-			"dialog"			: "我们回来了。",
+			"dialog"			: "我們回來了。",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_sad"],
-			"dialog"			: "但是我们找不到我们的惊喜。",
+			"dialog"			: "但是我們找不到我們的驚喜。",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "|shake|亲爱的！",
+			"dialog"			: "|shake|親愛的！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
-			"dialog"			: "我们只离开了一分钟左右。",
+			"dialog"			: "我們只離開了一分鐘左右。",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
-			"dialog"			: "但是我们也很想念你们。",
+			"dialog"			: "但是我們也很想念你們。",
 		},
 	],
 	
 	"return_intro" : [
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
-			"dialog"			: "嘿，我们回来了。",
+			"dialog"			: "嘿，我們回來了。",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "|shake|亲爱的！",
+			"dialog"			: "|shake|親愛的！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_surprised"],
-			"dialog"			: "是你在拉我们吗？",
+			"dialog"			: "是你在拉我們嗎？",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_sad"],
-			"dialog"			: "我们感到正好有|C3|[VAL1]魔尘|C0|通过传送突触被从我们身上拉了出来。",
+			"dialog"			: "我們感到正好有|C3|[VAL1]魔塵|C0|透過傳送突觸被從我們身上拉了出來。",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
-			"dialog"			: "要知道，我们才离开了五分钟左右！",
+			"dialog"			: "要知道，我們才離開了五分鐘左右！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
@@ -201,47 +201,47 @@
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
-			"dialog"			: "但是我们太想念你了，亲爱的！",
+			"dialog"			: "但是我們太想念你了，親愛的！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "你们找到了我们的惊喜吗？",
+			"dialog"			: "你們找到了我們的驚喜嗎？",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
-			"dialog"			: "当然了！",
+			"dialog"			: "當然了！",
 		},
 	],
 	
 	
 	"comment_take_first"	: {
 		"character"	: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
-		"dialog"	: "这些礼物是给我们的朋友们的。",
+		"dialog"	: "這些禮物是給我們的朋友們的。",
 	},
 	"comment_take_another"	: {
 		"character"	: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
-		"dialog"	: "请再带走一个。",
+		"dialog"	: "請再帶走一個。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
-		"dialog"	: "你想要这个吗？",
+		"dialog"	: "你想要這個嗎？",
 	},
 	"gift_taken" 		: [
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "我们不远万里只为了你把它带来。",
-			"dialog_rand2"		: "朋友们会给对方跨维度的礼物。",
-			"dialog_rand3"		: "享受这个来自另一宇宙的礼物吧。",
-			"dialog_rand4"		: "我们的妻子知道你会喜欢那个的。",
+			"dialog_rand1"		: "我們不遠萬里只為了你把它帶來。",
+			"dialog_rand2"		: "朋友們會給對方跨維度的禮物。",
+			"dialog_rand3"		: "享受這個來自另一宇宙的禮物吧。",
+			"dialog_rand4"		: "我們的妻子知道你會喜歡那個的。",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_surprised"],
 			"random"			: 3,
-			"dialog_rand1"		: "你想要另一个吗？",
-			"dialog_rand2"		: "我们想要你再收下另一个。",
-			"dialog_rand3"		: "我们再给她一个吧。",
+			"dialog_rand1"		: "你想要另一個嗎？",
+			"dialog_rand2"		: "我們想要你再收下另一個。",
+			"dialog_rand3"		: "我們再給她一個吧。",
 		}
 	],
 	
@@ -249,48 +249,48 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "你看，节节？你根本没什么好担心的。",
+			"dialog"			: "你看，節節？你根本沒什麼好擔心的。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "谢谢你救了我们的妻子！",
+			"dialog"			: "謝謝你救了我們的妻子！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
-			"dialog"			: "等下，发生什么了？",
+			"dialog"			: "等一下，發生什麼事了？",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_normal"],
-			"dialog"			: "哦老婆快看，你们掉了其中一只眼睛。",
+			"dialog"			: "哦老婆快看，你們掉了其中一隻眼睛。",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_suprised"],
-			"dialog"			: "不，那个太完美了，一定是你们中的一个。",
+			"dialog"			: "不，那個太完美了，一定是你們中的一個。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "实际上，这个好像是我的。",
+			"dialog"			: "實際上，這個好像是我的。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "是的，对我的争夺实属常见现象。",
+			"dialog"			: "是的，對我的爭奪實屬常見現象。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "所以，你们两个是怎么遇见对方的？",
+			"dialog"			: "所以，你們兩個是怎麼遇見對方的？",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
@@ -298,62 +298,62 @@
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "我们同时把我们的感受器放进了多元宇宙中。",
+			"dialog"			: "我們同時把我們的感受器放進了多元宇宙中。",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_happy"],
-			"dialog"			: "然后我们就粘在一起了，字面意义上。",
+			"dialog"			: "然後我們就黏在一起了，字面意義上。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "原来是这样。感谢你告诉我。",
+			"dialog"			: "原來是這樣。感謝你告訴我。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "你在计划什么吗？",
+			"dialog"			: "你在計劃什麼嗎？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
-			"dialog"			: "我才没有！",
+			"dialog"			: "我才沒有！",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "所以你是节结！",
+			"dialog"			: "所以你是節結！",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "在一起，我们就是节结。|!||L|没有我们，她们只是结结！",
+			"dialog"			: "在一起，我們就是節結。|!||L|沒有我們，她們只是結結！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_sad2"],
-			"dialog"			: "我还以为全明白了呢，结果还是搞不懂谁是节结。",
+			"dialog"			: "我還以為全明白了呢，結果還是搞不懂誰是節結。",
 		},
 		{
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
-			"dialog"			: "哪个节节?",
+			"dialog"			: "哪個節節?",
 		},
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_sad"],
-			"dialog"			: "你也别再结结了！",
+			"dialog"			: "你也別再結結了！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
-			"dialog"			: "我不愿再想关于节结的事情了。",
+			"dialog"			: "我不願再想關於節結的事情了。",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_knot", "CHAR_knot_right", "MOOD_happy"],
-			"dialog"			: "感谢你救了我们的妻子！",
+			"dialog"			: "感謝你救了我們的妻子！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_knott", "CHAR_knott_right", "MOOD_normal"],
-			"dialog"			: "等下，发生什么了？",
+			"dialog"			: "等一下，發生什麼事了？",
 		},
 	],
 

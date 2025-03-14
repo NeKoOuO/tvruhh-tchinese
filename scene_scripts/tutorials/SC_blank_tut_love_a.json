@@ -5,100 +5,100 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "|wave|你好，小机器人。 ",
+			"dialog"			: "|wave|你好，小機器人。 ",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "你好，年幼的扎拉登。|L||!|本单元的程序能够为任何需要的人提供信息。",
+			"dialog"			: "你好，年幼的扎拉登。|L||!|本單元的程序能夠為任何需要的人提供資訊。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "好的！      你有什么要告诉我的吗？",
+			"dialog"			: "好的！      你有什麼要告訴我的嗎？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现在将指导这位扎拉登如何去爱怪物们。",
+			"dialog"			: "本單元現在將指導這位扎拉登如何去愛怪物們。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|这太完美了！|norm|     我刚还在想怎么做呢。",
+			"dialog"			: "|wave|這太完美了！|norm|     我剛還在想怎麼做呢。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "为了指导这位扎拉登如何去爱怪物们，本单元现在将模拟一位尚未被爱的怪物。",
+			"dialog"			: "為了指導這位扎拉登如何去愛怪物們，本單元現在將模擬一位尚未被愛的怪物。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "为了达成这一目标，|C3|恐惧|C0|将被安装到本单元上。",
+			"dialog"			: "為了達成這一目標，|C3|恐懼|C0|將被安裝到本單元上。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现在即将运行|C3|存在主义恐惧.prog|C0|",
+			"dialog"			: "本單元現在即將運行|C3|存在主義恐懼.prog|C0|",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "这听上去可不妙。",
+			"dialog"			: "這聽起來可不妙。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|正在安装       .       .       .|L||!|安装完成。|C0|",
+			"dialog"			: "|C3|正在安裝       .       .       .|L||!|安裝完成。|C0|",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "你没事吗？",
+			"dialog"			: "你沒事嗎？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元刚刚在她的系统上安装了2700单位的|C3|恐惧|C0|。",
+			"dialog"			: "本單元剛剛在她的系統上安裝了2700單位的|C3|恐懼|C0|。",
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C2|正在将快乐.prog移动至回收站。|!||L|正在清空回收站。",
+			"dialog"			: "|C2|正在將快樂.prog移動至回收站。|!||L|正在清空回收站。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "别这样做！",
+			"dialog"			: "別這樣做！",
 		},
 		{
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C2|没有人爱我，无所谓，这个宇宙只是个漠不关心的虚空。",
+			"dialog"			: "|C2|沒有人愛我，無所謂，這個宇宙只是個漠不關心的虛空。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|你为什么要这样说？",
+			"dialog"			: "|shake|你為什麼要這樣說？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元想要为此道歉。|!||L|这是本单元上所安装|C3|恐惧|C0|带来的小型副作用。",
+			"dialog"			: "本單元想要為此道歉。|!||L|這是本單元上所安裝|C3|恐懼|C0|帶來的小型副作用。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "请无视一切未来可能出现的|C3|恐惧|C0|主导言论。",
+			"dialog"			: "請無視一切未來可能出現的|C3|恐懼|C0|主導言論。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "好吧...   既然你都这样说了。",
+			"dialog"			: "好吧...   既然你都這樣說了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议：|C0|使用你的能力移除本单元上所安装的|C3|恐惧|C0|。",
+			"dialog"			: "|C3|建議：|C0|使用你的能力移除本單元上所安裝的|C3|恐懼|C0|。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "我要怎么做？",
+			"dialog"			: "我要怎麼做？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|第一步:|C0|闭上眼睛，想象一些美妙的事物。",
+			"dialog"			: "|C3|第一步:|C0|閉上眼睛，想像一些美妙的事物。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "|wave|这个很简单！      下一步呢？",
+			"dialog"			: "|wave|這個很簡單！      下一步呢？",
 		},
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_evil_bot", "CHAR_tutor_right", "MOOD_corrupt"],
-			"dialog"			: "|C3|第二步:|C2||shake|伤害你之后我就能感觉好多了！",
+			"dialog"			: "|C3|第二步:|C2||shake|傷害你之後我就能感覺好多了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_power"],

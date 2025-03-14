@@ -5,11 +5,11 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "你好。|L||!|欢迎来到|C3|异相故事|C0|模式。",
+			"dialog"			: "你好。|L||!|歡迎來到|C3|異相故事|C0|模式。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "你一定在想我是谁？",
+			"dialog"			: "你一定在想我是誰？",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
@@ -17,35 +17,35 @@
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_sad"],
-			"dialog"			: "在抢先体验结束前你都不会知道太多我的事情。",
+			"dialog"			: "在搶先體驗結束前你都不會知道太多我的事情。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "但是现在，我在这里为你解释|C3|异相故事|C0|是什么。",
+			"dialog"			: "但是現在，我在這裡為你解釋|C3|異相故事|C0|是什麼。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "它和正常的故事模式几乎一样，但可能比你熟悉的要更长。",
+			"dialog"			: "它和正常的故事模式幾乎一樣，但可能比你熟悉的要更長。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "|shake|并且我可以让它对你而言变得更加困难。",
+			"dialog"			: "|shake|並且我可以讓它對你而言變得更加困難。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
-			"dialog"			: "只要，你想要一个非常高的分数。",
+			"dialog"			: "只要，你想要一個非常高的分數。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "每个怪物都有一个|C3|玫瑰心型徽章|C0|给每一位扎拉登。",
+			"dialog"			: "每個怪物都有一個|C3|玫瑰心型徽章|C0|給每一位扎拉登。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-			"dialog"			: "请帮我收集那些。",
+			"dialog"			: "請幫我收集那些。",
 		},
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_normal"],
-			"dialog"			: "愿命运倾向于你。",
+			"dialog"			: "願命運傾向於你。",
 		},
 	]
 }

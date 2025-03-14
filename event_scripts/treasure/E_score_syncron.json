@@ -2,140 +2,140 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-			"dialog"			: "本单元需要紧急协助！",
+			"dialog"			: "本單元需要緊急協助！",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_angry"],
-			"dialog"			: "以下单元被限制在永久恐慌模式下:",
+			"dialog"			: "以下單元被限制在永久恐慌模式下:",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
 			"random"			: 4,
-			"dialog_rand1"		: "|C3|同步甲虫-01    |L|同步甲虫-02    |L|同步甲虫-03",
-			"dialog_rand2"		: "|C3|同步甲虫-01    |L|同步甲虫-02    |L|同步甲虫-04",
-			"dialog_rand3"		: "|C3|同步甲虫-01    |L|同步甲虫-03    |L|同步甲虫-04",
-			"dialog_rand4"		: "|C3|同步甲虫-02    |L|同步甲虫-03    |L|同步甲虫-04",
+			"dialog_rand1"		: "|C3|同步甲蟲-01    |L|同步甲蟲-02    |L|同步甲蟲-03",
+			"dialog_rand2"		: "|C3|同步甲蟲-01    |L|同步甲蟲-02    |L|同步甲蟲-04",
+			"dialog_rand3"		: "|C3|同步甲蟲-01    |L|同步甲蟲-03    |L|同步甲蟲-04",
+			"dialog_rand4"		: "|C3|同步甲蟲-02    |L|同步甲蟲-03    |L|同步甲蟲-04",
 		},
 		{
 			"fast_text"			: 1,
 			"character"			: ["VOICE_syncron_panic", "CHAR_syncb_right", "MOOD_panic"],
-			"dialog"			: "|C2||shake|恐慌警报恐慌警报恐慌警报",
+			"dialog"			: "|C2||shake|恐慌警報恐慌警報恐慌警報",
 		},
 		{
 			"character"			: ["VOICE_syncron_panic", "CHAR_syncr_right", "MOOD_panic"],
-			"dialog"			: "|C2||shake|恐慌警报恐慌警报恐慌警报",
+			"dialog"			: "|C2||shake|恐慌警報恐慌警報恐慌警報",
 		},
 		{
 			"character"			: ["VOICE_syncron_panic", "CHAR_syncb_right", "MOOD_panic"],
-			"dialog"			: "|C2||shake|恐慌警报恐慌警报恐慌警报",
+			"dialog"			: "|C2||shake|恐慌警報恐慌警報恐慌警報",
 		},
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_sad"],
 			"random"			: 2,
-			"dialog_rand1"		: "若没有进一步行动，本单元即将加入其中。",
-			"dialog_rand2"		: "对于本单元而言，加入其中无可避免。",
+			"dialog_rand1"		: "若沒有進一步行動，本單元即將加入其中。",
+			"dialog_rand2"		: "對於本單元而言，加入其中無可避免。",
 		},
 	],
 	
 	"intro_defect" : [
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-			"dialog"			: "本单元需要紧急协助！",
+			"dialog"			: "本單元需要緊急協助！",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_sad"],
-			"dialog"			: "本单元收集了礼物来表达我们的悔恨。",
+			"dialog"			: "本單元收集了禮物來表達我們的悔恨。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_sad"],
-			"dialog"			: "向|C3|名为小蓝的虚空种族|C0|进行道歉。",
+			"dialog"			: "向|C3|名為小藍的虛空種族|C0|進行道歉。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_very_happy"],
-			"dialog"			: "你们不会是第一个想要尝试杀死她的。",
+			"dialog"			: "你們不會是第一個想要嘗試殺死她的。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_sad"],
-			"dialog"			: "然而，其他3个单元被突然限制在了恐慌模式下。",
+			"dialog"			: "然而，其他3個單元被突然限制在了恐慌模式下。",
 		},
 		{
 			"fast_text"			: 1,
 			"character"			: ["VOICE_syncron_panic", "CHAR_syncb_right", "MOOD_panic"],
-			"dialog"			: "|C2||shake|恐慌警报恐慌警报恐慌警报",
+			"dialog"			: "|C2||shake|恐慌警報恐慌警報恐慌警報",
 		},
 		{
 			"character"			: ["VOICE_syncron_panic", "CHAR_syncr_right", "MOOD_panic"],
-			"dialog"			: "|C2||shake|恐慌警报恐慌警报恐慌警报",
+			"dialog"			: "|C2||shake|恐慌警報恐慌警報恐慌警報",
 		},
 		{
 			"character"			: ["VOICE_syncron_panic", "CHAR_syncb_right", "MOOD_panic"],
-			"dialog"			: "|C2||shake|恐慌警报恐慌警报恐慌警报",
+			"dialog"			: "|C2||shake|恐慌警報恐慌警報恐慌警報",
 		},
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "这都是我的错。|!||L|我们必须做点什么来帮助她们。",
+			"dialog"			: "這都是我的錯。|!||L|我們必須做點什麼來幫助她們。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "她们由于看到我的美而发狂。",
+			"dialog"			: "她們由於看到我的美而發狂。",
 		},
 	],
 	
-	"monster_gifts"	: "同步甲虫的礼物",
+	"monster_gifts"	: "同步甲蟲的禮物",
 	
-	"op_start"		: "帮助解决恐慌模式",
+	"op_start"		: "幫助解決恐慌模式",
 	"op_leave"		: "恐慌模式自我解除",
 	
 	"comment_start"		: {
 		"character"	: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-		"dialog"	: "你可以帮助这些单元重新同步。",
+		"dialog"	: "你可以幫助這些單元重新同步。",
 	},
 	"comment_leave"		: {
 		"character"	: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_panic"],
-		"dialog"	: "|C2||shake|正在生成打断序列",
+		"dialog"	: "|C2||shake|正在生成打斷序列",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_sad"],
-		"dialog"	: "这些单元正在解除恐慌模式吗？",
+		"dialog"	: "這些單元正在解除恐慌模式嗎？",
 	},
 	
 	"start_battle" 	: [
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-			"dialog"			: "这些单元可以被你的梦境再次拯救。",
+			"dialog"			: "這些單元可以被你的夢境再次拯救。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_sad"],
-			"dialog"			: "不要让|C3|蓝色单元|C0|离开你的视线.",
+			"dialog"			: "不要讓|C3|藍色單元|C0|離開你的視線.",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_panic"],
-			"dialog"			: "如果她们在你身后过远，|L||shake|她们可能会爆炸。",
+			"dialog"			: "如果她們在你身後過遠，|L||shake|她們可能會爆炸。",
 		},
 	],
 	
 	"start_battle_devil" 	: [
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-			"dialog"			: "你已经证明了你解除恐慌模式的能力。",
+			"dialog"			: "你已經證明了你解除恐慌模式的能力。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "我完全知道我应该怎么做。",
+			"dialog"			: "我完全知道我應該怎麼做。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-			"dialog"			: "这些单元可以被你的梦境再次拯救。",
+			"dialog"			: "這些單元可以被你的夢境再次拯救。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "啊对哦！",
+			"dialog"			: "啊對哦！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "我差点就尝试重启你了。",
+			"dialog"			: "我差點就嘗試重啟你了。",
 		},
 	],
 	
@@ -156,12 +156,12 @@
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_happy"],
-			"dialog"			: "本单元刚刚也快要启动恐慌模式了。",
+			"dialog"			: "本單元剛剛也快要啟動恐慌模式了。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_happy"],
-			"dialog"			: "这些单元现在已经再次同步。",
+			"dialog"			: "這些單元現在已經再次同步。",
 		},
 	],
 	
@@ -182,59 +182,59 @@
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_happy"],
-			"dialog"			: "本单元刚刚也快要启动恐慌模式了。",
+			"dialog"			: "本單元剛剛也快要啟動恐慌模式了。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_sad"],
-			"dialog"			: "本单元在她25%的排气孔处存在拥堵。",
+			"dialog"			: "本單元在她25%的排氣孔處存在擁堵。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-			"dialog"			: "共同提取出的|C3|[VAL1]魔尘|C0|解决了这些单元中的所有魔尘拥堵。",
+			"dialog"			: "共同提取出的|C3|[VAL1]魔塵|C0|解決了這些單元中的所有魔塵擁堵。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_angry"],
-			"dialog"			: "本单元评估了拥堵的源头。",
+			"dialog"			: "本單元評估了擁堵的源頭。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-			"dialog"			: "源头似乎是这些单元找到的一些额外礼物。",
+			"dialog"			: "源頭似乎是這些單元找到的一些額外禮物。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_happy"],
-			"dialog"			: "这些礼物是这些单元带来给你作为惊喜的。",
+			"dialog"			: "這些禮物是這些單元帶來給你作為驚喜的。",
 		},
 	],
 	
 	
 	"comment_take_first"	: {
 		"character"	: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_happy"],
-		"dialog"	: "本单元为你展示一个礼物。",
+		"dialog"	: "本單元為你展示一個禮物。",
 	},
 	"comment_take_another"	: {
 		"character"	: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_happy"],
-		"dialog"	: "本单元为你展示另一个礼物。",
+		"dialog"	: "本單元為你展示另一個禮物。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_normal"],
-		"dialog"	: "你会收下这个礼物吗",
+		"dialog"	: "你會收下這個禮物嗎",
 	},
 	"gift_taken" 		: [
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_happy"],
 			"random"			: 5,
-			"dialog_rand1"		: "你已经多次将这些单元从恐慌模式中拯救出来。.",
-			"dialog_rand2"		: "同步甲虫-02为你找到了那个。",
-			"dialog_rand3"		: "同步甲虫-03为你找到了那个。",
-			"dialog_rand4"		: "你再次帮助这些单元进行了同步。",
-			"dialog_rand5"		: "本单元正确预测到了你会选择这一个。",
+			"dialog_rand1"		: "你已經多次將這些單元從恐慌模式中拯救出來。.",
+			"dialog_rand2"		: "同步甲蟲-02為你找到了那個。",
+			"dialog_rand3"		: "同步甲蟲-03為你找到了那個。",
+			"dialog_rand4"		: "你再次幫助這些單元進行了同步。",
+			"dialog_rand5"		: "本單元正確預測到了你會選擇這一個。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_surprised"],
 			"random"			: 3,
-			"dialog_rand1"		: "这些单元有更多礼物要给你。",
-			"dialog_rand2"		: "这些单元为你带来了更多的礼物。",
-			"dialog_rand3"		: "这些单元同意给你另一个。",
+			"dialog_rand1"		: "這些單元有更多禮物要給你。",
+			"dialog_rand2"		: "這些單元為你帶來了更多的禮物。",
+			"dialog_rand3"		: "這些單元同意給你另一個。",
 		}
 	],
 	
@@ -242,11 +242,11 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_panic"],
-			"dialog"			: "|shake|她要说那句话了。",
+			"dialog"			: "|shake|她要說那句話了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"fast_text"			: 1,
@@ -268,72 +268,72 @@
 			"fast_text"			: 0,
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_happy"],
-			"dialog"			: "她说了那句话。",
+			"dialog"			: "她說了那句話。",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_sad"],
-			"dialog"			: "蓝色的虚空种族会原谅我们吗？",
+			"dialog"			: "藍色的虛空種族會原諒我們嗎？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "嗯，这里有4个你们，只有1个完美存在。",
+			"dialog"			: "嗯，這裡有4個你們，只有1個完美存在。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "|wave|为了我而争抢是无可避免的。",
+			"dialog"			: "|wave|為了我而爭搶是無可避免的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "我对于简单的数学可没有怨言。",
+			"dialog"			: "我對於簡單的數學可沒有怨言。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_happy"],
-			"dialog"			: "这逻辑真是合理。",
+			"dialog"			: "這邏輯真是合理。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_surprised"],
-			"dialog"			: "顺便，我姐姐想问你们是否需要一个共同的女朋友？",
+			"dialog"			: "順便，我姐姐想問你們是否需要一個共同的女朋友？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|我才没有！",
+			"dialog"			: "|shake|我才沒有！",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_happy"],
-			"dialog"			: "这些单元目前正接受二进制形式的请求。",
+			"dialog"			: "這些單元目前正接受二進制形式的請求。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "这样。|L|或许之后吧。",
+			"dialog"			: "這樣。|L|或許之後吧。",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "你们这些机器人总是这么同步。.|L||!|并且还有那些酷炫的激光。",
+			"dialog"			: "你們這些機器人總是這麼同步。.|L||!|並且還有那些酷炫的雷射。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "我猜你肯定能在我的演唱会上演一场|shake|killer|norm|灯光秀。",
+			"dialog"			: "我猜你肯定能在我的演唱會上演一場|shake|killer|norm|燈光秀。",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_sad"],
-			"dialog"			: "这些单元不再愿意将我们的激光用于暴力。",
+			"dialog"			: "這些單元不再願意將我們的雷射用於暴力。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "不，不是那样。",
+			"dialog"			: "不，不是那樣。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "我只是说你真的能帮我|shake|把他们的意识从头骨中轰炸出来！",
+			"dialog"			: "我只是說你真的能幫我|shake|把他們的意識從頭骨中轟炸出來！",
 		},
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_panic"],
@@ -344,12 +344,12 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_syncron", "CHAR_syncr_right", "MOOD_happy"],
-			"dialog"			: "这些单元感谢你帮我们解除恐慌模式。",
+			"dialog"			: "這些單元感謝你幫我們解除恐慌模式。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_syncron", "CHAR_syncb_right", "MOOD_normal"],
-			"dialog"			: "这些单元现在已经再次同步。",
+			"dialog"			: "這些單元現在已經再次同步。",
 		},
 	],
 

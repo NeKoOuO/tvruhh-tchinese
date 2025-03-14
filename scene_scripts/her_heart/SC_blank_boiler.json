@@ -5,11 +5,11 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "我们...  配不上--|L||!|我们试着烧伤你...",
+			"dialog"			: "我們...  配不上--|L||!|我們試著燒傷你...",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious"],
-			"dialog"			: "锅炉，   如果我现在不拥抱你的话，那我就太不辣了。",
+			"dialog"			: "鍋爐，   如果我現在不擁抱你的話，那我就太不辣了。",
 		},
 		{
 			"love_hearts"		: 1,
@@ -19,31 +19,31 @@
 		{
 			"play_music"		: "green_scene_music",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "好吖，      超级辣。",
+			"dialog"			: "好吖，      超級辣。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
-			"dialog"			: "则位扎拉登是怎么知道辣的？",
+			"dialog"			: "則位扎拉登是怎麼知道辣的？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "你就是用辣组成的！",
+			"dialog"			: "你就是用辣組成的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "并且，我很确定你使用了晃晃力量之类的进入了我的梦境。",
+			"dialog"			: "並且，我很確定你使用了晃晃力量之類的進入了我的夢境。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "你收到了我们的消息！|L||!|那你知道了我们的|C3|连接突触，|C0|是吖？",
+			"dialog"			: "你收到了我們的消息！|L||!|那你知道了我們的|C3|連接突觸，|C0|是吖？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "我可以把我的礼物给你，然后你会把它们放进一个传送门一样的地方。",
+			"dialog"			: "我可以把我的禮物給你，然後你會把它們放進一個傳送門一樣的地方。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "然后，我可以在任何一天的开始取出这些礼物？",
+			"dialog"			: "然後，我可以在任何一天的開始取出這些禮物？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
@@ -51,11 +51,11 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "我们会需要点时间来准备我们的|C3|连接突触。|C0|",
+			"dialog"			: "我們會需要點時間來準備我們的|C3|連接突觸。|C0|",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "在下场战斗后我们会来找你的，好吖？",
+			"dialog"			: "在下場戰鬥後我們會來找你的，好吖？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
@@ -63,23 +63,23 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "怎么了？",
+			"dialog"			: "怎麼了？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "如果你见到了妹妹蛋花，    请将爱给她，好吖？",
+			"dialog"			: "如果你見到了妹妹蛋花，    請將愛給她，好吖？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "我当然会的。",
+			"dialog"			: "我當然會的。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "我们也想要为她展示爱。|L||!|但是我们没有心。",
+			"dialog"			: "我們也想要為她展示愛。|L||!|但是我們沒有心。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "嘿，   我相信蛋花会认为你是最辣的。",
+			"dialog"			: "嘿，   我相信蛋花會認為你是最辣的。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
@@ -87,11 +87,11 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "要小心，好吖？|L||!|我们想看到你安全回来。",
+			"dialog"			: "要小心，好吖？|L||!|我們想看到你安全回來。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,

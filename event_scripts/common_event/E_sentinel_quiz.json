@@ -3,67 +3,67 @@
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "你的出现为本单元带来了无法计量的愉悦感。",
-			"dialog_rand2"		: "本单元正在经历强度足以触发溢出错误的快乐。",
-			"dialog_rand3"		: "本单元没有能力处理她正在体验的激动之情。",
+			"dialog_rand1"		: "你的出現為本單元帶來了無法計量的愉悅感。",
+			"dialog_rand2"		: "本單元正在經歷強度足以觸發溢出錯誤的快樂。",
+			"dialog_rand3"		: "本單元沒有能力處理她正在體驗的激動之情。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "你可以通过本单元的面部表情分辨出上述状况。",
+			"dialog"			: "你可以通過本單元的臉部表情分辨出上述狀況。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "今天你想测试你的知识储备吗？",
+			"dialog"			: "今天你想測試你的知識儲備嗎？",
 		},
 	],
 	
-	"op_round1"		: "开始问答",
-	"op_round2"		: "开始第二轮",
-	"op_round3"		: "开始最后一轮",
-	"op_end"		: "结束问答",
-	"op_leave"		: "离开",
+	"op_round1"		: "開始問答",
+	"op_round2"		: "開始第二輪",
+	"op_round3"		: "開始最後一輪",
+	"op_end"		: "結束問答",
+	"op_leave"		: "離開",
 	
 	"round1_text"		: {
 		"character"	: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-		"dialog"	: "在触发|C3|三次错误|C0|前|C3|正确回答四个问题|C0|，本单元便会提供给你一份奖励。",
+		"dialog"	: "在觸發|C3|三次錯誤|C0|前|C3|正確回答四個問題|C0|，本單元便會提供給你一份獎勵。",
 	},
 	"round2_text"		: {
 		"character"	: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-		"dialog"	: "继续|C3|正确回答四个问题|C0|以获得一份额外奖励。|L|这些问题将会更加困难。",
+		"dialog"	: "繼續|C3|正確回答四個問題|C0|以獲得一份額外獎勵。|L|這些問題將會更加困難。",
 	},
 	"round3_text"		: {
 		"character"	: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-		"dialog"	: "继续|C3|正确回答四个问题|C0|以获得一份最终奖励。|L|这些问题将会最为困难。",
+		"dialog"	: "繼續|C3|正確回答四個問題|C0|以獲得一份最終獎勵。|L|這些問題將會最為困難。",
 	},
 	"end_text"		: {
 		"character"	: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-		"dialog"	: "你今天测试累了吗？",
+		"dialog"	: "你今天測試累了嗎？",
 	},
 	"leave_text"		: {
 		"character"	: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
-		"dialog"	: "你今天不想玩吗？",
+		"dialog"	: "你今天不想玩嗎？",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_upset"],
-		"dialog"	: "你确定你必须现在离开吗？",
+		"dialog"	: "你確定你必須現在離開嗎？",
 	},
 	
-	"reward_title"	: "选择一项奖励",
+	"reward_title"	: "選擇一項獎勵",
 	
 	"comment_reward"	: {
 		"character"	: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-		"dialog"	: "选择一件礼物带走。本选择不存在错误答案。",
+		"dialog"	: "選擇一件禮物帶走。本選擇不存在錯誤答案。",
 	},
 	"reward_confirm"	: {
 		"character"	: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-		"dialog"	: "你要带走这件礼物吗？",
+		"dialog"	: "你要帶走這件禮物嗎？",
 	},
 	
 	"correct_answer" : [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "回答|C3|正确|C0|！",
+			"dialog"			: "回答|C3|正確|C0|！",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
@@ -74,7 +74,7 @@
 	"incorrect_answer" : [
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
-			"dialog"			: "回答|shake||C4|错误|C0|。",
+			"dialog"			: "回答|shake||C4|錯誤|C0|。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_confused"],
@@ -88,393 +88,393 @@
 			"dialog"			: "[VAL1]",
 		}
 	],
-	"first_question" : "|C3|第一个问题:|C0|[VAL1]",
-	"next_question"  : "|C3|问题[VAL2]:|C0|[VAL1]",
+	"first_question" : "|C3|第一個問題:|C0|[VAL1]",
+	"next_question"  : "|C3|問題[VAL2]:|C0|[VAL1]",
 	
-	"default_correct_1"	: "这令本单元印象深刻。",
-	"default_correct_2"	: "你的记忆无可挑剔。",
-	"default_correct_3"	: "本单元的快乐值已提升。",
-	"default_correct_4"	: "快乐水平已上升。",
-	"default_correct_5"	: "本单元识别到了你的欢欣。",
-	"default_correct_6"	: "识别到喜悦感。",
-	"default_correct_7"	: "满足感已产生。",
-	"default_correct_8"	: "令人愉悦的结果。",
+	"default_correct_1"	: "這令本單元印象深刻。",
+	"default_correct_2"	: "你的記憶無可挑剔。",
+	"default_correct_3"	: "本單元的快樂值已提升。",
+	"default_correct_4"	: "快樂水平已上升。",
+	"default_correct_5"	: "本單元識別到了你的歡欣。",
+	"default_correct_6"	: "識別到喜悅感。",
+	"default_correct_7"	: "滿足感已產生。",
+	"default_correct_8"	: "令人愉悅的結果。",
 	
-	"default_incorrect_1"	: "快乐水平已下降。",
-	"default_incorrect_2"	: "你可以暂停，伤心一下。",
-	"default_incorrect_3"	: "本单元识别到了你的悲伤。",
-	"default_incorrect_4"	: "本单元将这一问题设置地过难。",
+	"default_incorrect_1"	: "快樂水平已下降。",
+	"default_incorrect_2"	: "你可以暫停，傷心一下。",
+	"default_incorrect_3"	: "本單元識別到了你的悲傷。",
+	"default_incorrect_4"	: "本單元將這一問題設置地過難。",
 	
-	"correct_senti_1"	: "本单元因你对她如此了解而感到相当开心。",
-	"correct_senti_2"	: "只有真正的朋友才会对本单元了解到这种程度。",
-	"correct_senti_3"	: "你对本单元的了解令她的快乐值超越计量。",
-	"wrong_sentinel"	: "本单元曾期待你对她有更多的记忆，但她已经原谅你了。",
-	"battle_sentinel"	: "与本单元的这场战斗最为酣畅，不是吗？",
-	"forgot_sentinel"	: "本单元如此容易被遗忘吗？",
-	"remember_zaramech"	: "本单元会因你忘记她是一名扎拉机兵而不安。",
-	"forgot_zaramech"	: "你真的忘记本单元是一名扎拉机兵了吗？",
-	"blue_mote_o"		: "本单元很幸运能被她被最喜欢颜色的魔尘充满",
-	"blue_mote_x"		: "本单元体内被充满了|C3|蓝色|C0|魔尘。",
-	"senti_love_o"		: "本单元的所言均为真情实感。",
-	"senti_fear_o"		: "请忽略本单元的对话中任何由恐惧所导致的错误。",
-	"senti_said_x"		: "本单元在以|C3|[VAL1]|C0|的形象出现时将会说\"[VAL3]\"。 ",
+	"correct_senti_1"	: "本單元因你對她如此了解而感到相當開心。",
+	"correct_senti_2"	: "只有真正的朋友才會對本單元了解到這種程度。",
+	"correct_senti_3"	: "你對本單元的了解令她的快樂值超越計量。",
+	"wrong_sentinel"	: "本單元曾期待你對她有更多的記憶，但她已經原諒你了。",
+	"battle_sentinel"	: "與本單元的這場戰鬥最為酣暢，不是嗎？",
+	"forgot_sentinel"	: "本單元如此容易被遺忘嗎？",
+	"remember_zaramech"	: "本單元會因你忘記她是一名扎拉機兵而不安。",
+	"forgot_zaramech"	: "你真的忘記本單元是一名扎拉機兵了嗎？",
+	"blue_mote_o"		: "本單元很幸運能被她被最喜歡顏色的魔塵充滿",
+	"blue_mote_x"		: "本單元體內被充滿了|C3|藍色|C0|魔塵。",
+	"senti_love_o"		: "本單元的所言均為真情實感。",
+	"senti_fear_o"		: "請忽略本單元的對話中任何由恐懼所導致的錯誤。",
+	"senti_said_x"		: "本單元在以|C3|[VAL1]|C0|的形象出現時將會說\"[VAL3]\"。 ",
 	
 	"seriesA_00"		: {
-		"question"	: "本单元最喜欢某种颜色，它是？",
-		"correct"	: "你对本单元很了解。",
-		"incorrect"	: "本单元最喜欢的颜色是蓝色。",
+		"question"	: "本單元最喜歡某種顏色，它是？",
+		"correct"	: "你對本單元很了解。",
+		"incorrect"	: "本單元最喜歡的顏色是藍色。",
 	},
 	"seriesA_01"		: {
-		"question"	: "你左手上的手指数目是？",
-		"correct"	: "你对手上手指的计数能力无与伦比。",
-		"incorrect"	: "本单元现在遇到了一位无法数自己手指的扎拉登。",
+		"question"	: "你左手上的手指數目是？",
+		"correct"	: "你對手上手指的計數能力無與倫比。",
+		"incorrect"	: "本單元現在遇到了一位無法數自己手指的扎拉登。",
 	},
 	"seriesA_02"		: {
-		"question"	: "你两只手上总共的手指数目是？",
-		"correct"	: "本单元有时希望她拥有能握持物体的手指，而不是造成暴力的爪子。",
-		"incorrect"	: "本单元现在遇到了一位无法数自己手指的扎拉登。",
+		"question"	: "你兩隻手上總共的手指數目是？",
+		"correct"	: "本單元有時希望她擁有能握持物體的手指，而不是造成暴力的爪子。",
+		"incorrect"	: "本單元現在遇到了一位無法數自己手指的扎拉登。",
 	},
 	"seriesA_03"		: {
-		"question"	: "我们的星球，苜里斯星上的月亮数目是？",
-		"correct"	: "本单元很高兴能看到月亮依然在你的梦中",
-		"incorrect"	: "本单元推测你已经忘记了被永恒的云雾所遮蔽的3轮月亮。",
+		"question"	: "我們的星球，苜里斯星上的月亮數目是？",
+		"correct"	: "本單元很高興能看到月亮依然在你的夢中",
+		"incorrect"	: "本單元推測你已經忘記了被永恆的雲霧所遮蔽的3輪月亮。",
 	},
 	"seriesA_04"		: {
-		"question"	: "|C3|[VAL1]乘以[VAL2]|C0|的结果是？",
-		"correct"	: "乘法对你来说没有困难。",
-		"incorrect"	: "[VAL1]乘以[VAL2]的结果是[VAL3].",
+		"question"	: "|C3|[VAL1]乘以[VAL2]|C0|的結果是？",
+		"correct"	: "乘法對你來說沒有困難。",
+		"incorrect"	: "[VAL1]乘以[VAL2]的結果是[VAL3].",
 	},
 	"seriesA_05"		: {
-		"question"	: "|C3|蛋花|C0|最喜欢的颜色是？",
-		"incorrect"	: "试着想想哪种颜色的棱晶会给她最多的力量。",
+		"question"	: "|C3|蛋花|C0|最喜歡的顏色是？",
+		"incorrect"	: "試著想想哪種顏色的稜晶會給她最多的力量。",
 	},
 	"seriesA_06"		: {
-		"question"	: "|C3|锅炉|C0|最喜欢的颜色是？",
-		"incorrect"	: "试着想想哪种颜色的棱晶会给她最多的力量。",
+		"question"	: "|C3|鍋爐|C0|最喜歡的顏色是？",
+		"incorrect"	: "試著想想哪種顏色的稜晶會給她最多的力量。",
 	},
 	"seriesA_07"		: {
-		"question"	: "|C3|墨点|C0|最喜欢的颜色是？",
-		"correct"	: "本单元在发现她有最喜欢的颜色时也很惊讶。",
-		"incorrect"	: "这件事很让人惊讶，但试着想想哪种颜色的棱晶会给她最多的力量。",
+		"question"	: "|C3|墨點|C0|最喜歡的顏色是？",
+		"correct"	: "本單元在發現她有最喜歡的顏色時也很驚訝。",
+		"incorrect"	: "這件事很讓人驚訝，但試著想想哪種顏色的稜晶會給她最多的力量。",
 	},
 	"seriesA_08"		: {
-		"question"	: "|C3|莱拉|C0|最喜欢的颜色是？",
-		"correct"	: "她说这些颜色尝起来像是甘甜的水果，但本单元检测不到任何味觉信息。",
-		"incorrect"	: "试着想想哪种颜色的棱晶有她最喜欢的味道。",
+		"question"	: "|C3|萊拉|C0|最喜歡的顏色是？",
+		"correct"	: "她說這些顏色嘗起來像是甘甜的水果，但本單元檢測不到任何味覺資訊。",
+		"incorrect"	: "試著想想哪種顏色的稜晶有她最喜歡的味道。",
 	},
 	"seriesA_09"		: {
-		"question"	: "|C3|琉璃|C0|最喜欢的颜色是？",
-		"correct"	: "她自称是因为夜空的颜色，但本单元在想是否有另一个原因。",
-		"incorrect"	: "试着想想哪种颜色的棱晶会给她最多的力量。",
+		"question"	: "|C3|琉璃|C0|最喜歡的顏色是？",
+		"correct"	: "她自稱是因為夜空的顏色，但本單元在想是否有另一個原因。",
+		"incorrect"	: "試著想想哪種顏色的稜晶會給她最多的力量。",
 	},
 	"seriesA_10"		: {
-		"question"	: "|C3|索拉纳|C0|最喜欢的颜色是？",
-		"incorrect"	: "试着想想哪种颜色的棱晶会给她最多的力量。",
+		"question"	: "|C3|索拉納|C0|最喜歡的顏色是？",
+		"incorrect"	: "試著想想哪種顏色的稜晶會給她最多的力量。",
 	},
 	"seriesA_11"		: {
-		"question"	: "|C3|阿比斯|C0|最喜欢的颜色是？",
-		"incorrect"	: "试着想想哪种颜色的棱晶会给她最多的力量。",
+		"question"	: "|C3|阿比斯|C0|最喜歡的顏色是？",
+		"incorrect"	: "試著想想哪種顏色的稜晶會給她最多的力量。",
 	},
 	"seriesA_12"		: {
-		"question"	: "|C3|蓝色维目尔|C0|最喜欢的颜色是？",
-		"correct"	: "这是已知宇宙中最简单的问题了。",
-		"incorrect"	: "你的答案的唯一解释就是你想要看到本单元的戏剧性反应。",
+		"question"	: "|C3|藍色維目爾|C0|最喜歡的顏色是？",
+		"correct"	: "這是已知宇宙中最簡單的問題了。",
+		"incorrect"	: "你的答案的唯一解釋就是你想要看到本單元的戲劇性反應。",
 	},
 	"seriesA_13"		: {
-		"question"	: "当扎拉登感到|C3|羞愧|C0|时，她的心中会形成什么颜色的魔尘？",
-		"incorrect"	: "看看你点亮的|C3|棱晶额外礼物|C0|解锁的记忆。",
+		"question"	: "當扎拉登感到|C3|羞愧|C0|時，她的心中會形成什麼顏色的魔塵？",
+		"incorrect"	: "看看你點亮的|C3|稜晶額外禮物|C0|解鎖的記憶。",
 	},
 	"seriesA_14"		: {
-		"question"	: "当扎拉登感到|C3|沮丧|C0|时，她的心中会形成什么颜色的魔尘？",
-		"incorrect"	: "看看你点亮的|C3|棱晶额外礼物|C0|解锁的记忆。",
+		"question"	: "當扎拉登感到|C3|沮喪|C0|時，她的心中會形成什麼顏色的魔塵？",
+		"incorrect"	: "看看你點亮的|C3|稜晶額外禮物|C0|解鎖的記憶。",
 	},
 	"seriesA_15"		: {
-		"question"	: "当扎拉登感到|C3|否认|C0|时，她的心中会形成什么颜色的魔尘？",
-		"incorrect"	: "看看你点亮的|C3|棱晶额外礼物|C0|解锁的记忆。",
+		"question"	: "當扎拉登感到|C3|否認|C0|時，她的心中會形成什麼顏色的魔塵？",
+		"incorrect"	: "看看你點亮的|C3|稜晶額外禮物|C0|解鎖的記憶。",
 	},
 	"seriesA_16"		: {
-		"question"	: "当扎拉登感到|C3|焦虑|C0|时，她的心中会形成什么颜色的魔尘？",
-		"incorrect"	: "看看你点亮的|C3|棱晶额外礼物|C0|解锁的记忆。",
+		"question"	: "當扎拉登感到|C3|焦慮|C0|時，她的心中會形成什麼顏色的魔塵？",
+		"incorrect"	: "看看你點亮的|C3|稜晶額外禮物|C0|解鎖的記憶。",
 	},
 	"seriesA_17"		: {
-		"question"	: "当扎拉登感到|C3|不安|C0|时，她的心中会形成什么颜色的魔尘？",
-		"incorrect"	: "看看你点亮的|C3|棱晶额外礼物|C0|解锁的记忆。",
+		"question"	: "當扎拉登感到|C3|不安|C0|時，她的心中會形成什麼顏色的魔塵？",
+		"incorrect"	: "看看你點亮的|C3|稜晶額外禮物|C0|解鎖的記憶。",
 	},
 	"seriesA_18"		: {
-		"question"	: "当扎拉登感到|C3|孤独|C0|时，她的心中会形成什么颜色的魔尘？",
-		"incorrect"	: "看看你点亮的|C3|棱晶额外礼物|C0|解锁的记忆。",
+		"question"	: "當扎拉登感到|C3|孤獨|C0|時，她的心中會形成什麼顏色的魔塵？",
+		"incorrect"	: "看看你點亮的|C3|稜晶額外禮物|C0|解鎖的記憶。",
 	},
 	"seriesA_19"		: {
-		"question"	: "有|C3|[VAL1]块蛋糕|C0|，当每块蛋糕都被切成了|C3|[VAL2]片|C0|后，蛋糕的总片数是？",
-		"correct"	: "本单元不喜欢蛋糕，但她愿意分享自己的每一片蛋糕。",
-		"incorrect"	: "蛋糕的总片数是[VAL3]。",
+		"question"	: "有|C3|[VAL1]塊蛋糕|C0|，當每塊蛋糕都被切成了|C3|[VAL2]片|C0|後，蛋糕的總片數是？",
+		"correct"	: "本單元不喜歡蛋糕，但她願意分享自己的每一片蛋糕。",
+		"incorrect"	: "蛋糕的總片數是[VAL3]。",
 	},
 	"seriesA_20"		: {
-		"question"	: "来自|C3|[VAL1]个宇宙|C0|的蛋花们各吃了|C3|[VAL2]块肥皂。|C0|被吃掉的肥皂的总块数是？",
-		"correct"	: "蛋花的食谱相当之简洁。",
-		"incorrect"	: "蛋花们总共会吃掉[VAL3]块肥皂。",
+		"question"	: "來自|C3|[VAL1]個宇宙|C0|的蛋花們各吃了|C3|[VAL2]塊肥皂。|C0|被吃掉的肥皂的總塊數是？",
+		"correct"	: "蛋花的食譜相當之簡潔。",
+		"incorrect"	: "蛋花們總共會吃掉[VAL3]塊肥皂。",
 	},
 	"seriesA_21"		: {
-		"question"	: "如果再次见面，以下哪种怪物想要和你|C3|交易礼物？|C0|",
-		"incorrect"	: "|C3|[VAL3]|C0|有着可以交易的礼物。",
+		"question"	: "如果再次見面，以下哪種怪物想要和你|C3|交易禮物？|C0|",
+		"incorrect"	: "|C3|[VAL3]|C0|有著可以交易的禮物。",
 	},
 	"seriesA_22"		: {
-		"question"	: "如果再次见面，以下哪种怪物会给你|C3|免费礼物？|C0|",
-		"incorrect"	: "|C3|[VAL3]|C0|会给你免费礼物。",
+		"question"	: "如果再次見面，以下哪種怪物會給你|C3|免費禮物？|C0|",
+		"incorrect"	: "|C3|[VAL3]|C0|會給你免費禮物。",
 	},
 	"seriesA_23"		: {
-		"question"	: "是谁为艺术馆提供了存储空间？",
-		"incorrect"	: "|C3|墨点|C0|用她自己的后室维度作为存储。",
+		"question"	: "是誰為藝術館提供了儲存空間？",
+		"incorrect"	: "|C3|墨點|C0|用她自己的後室維度作為儲存。",
 	},
 	"seriesA_24"		: {
-		"question"	: "是谁为天文台提供了存储空间？",
-		"correct"	: "琉璃和阿玛加是很亲近的朋友。",
-		"incorrect"	: "琉璃使用了|C3|阿玛加的|C0|后室维度作为存储。",
+		"question"	: "是誰為天文台提供了儲存空間？",
+		"correct"	: "琉璃和阿瑪加是很親近的朋友。",
+		"incorrect"	: "琉璃使用了|C3|阿瑪加的|C0|後室維度作為儲存。",
 	},
 	"seriesA_25"		: {
-		"question"	: "|C3|星川|C0|想要为谁寻找宇宙礼物？",
-		"correct"	: "本单元从她的行为中侦测到了爱意的表现。",
+		"question"	: "|C3|星川|C0|想要為誰尋找宇宙禮物？",
+		"correct"	: "本單元從她的行為中偵測到了愛意的表現。",
 	},
 	"seriesA_26"		: {
-		"question"	: "当|C3|阿玛加|C0|为你展示她的热情时，她会给你多少个礼物？",
-		"correct"	: "在那之上她愿给你一臂一腿。",
+		"question"	: "當|C3|阿瑪加|C0|為你展示她的熱情時，她會給你多少個禮物？",
+		"correct"	: "在那之上她願給你一臂一腿。",
 	},
 	"seriesA_27"		: {
-		"question"	: "|C3|雨布罗阿|C0|在你拜访她的雨伞时会给你多少个礼物？",
+		"question"	: "|C3|雨布羅阿|C0|在你拜訪她的雨傘時會給你多少個禮物？",
 	},
 	"seriesA_28"		: {
-		"question"	: "|C3|圆锯|C0|在你拜访她时会给你多少个免费礼物？",
+		"question"	: "|C3|圓鋸|C0|在你拜訪她時會給你多少個免費禮物？",
 	},
 	"seriesA_29"		: {
-		"question"	: "|C3|燃烧维目尔|C0|在燃烧时间时会给你多少个礼物？你拜访她的雨伞时会给你多少个礼物？",
+		"question"	: "|C3|燃燒維目爾|C0|在燃燒時間時會給你多少個禮物？你拜訪她的雨傘時會給你多少個禮物？",
 	},
 	"seriesA_30"		: {
-		"question"	: "|C3|寞诺唯|C0|在你再次拜访她时会给你多少个|C3|免费礼物|C0|作为报复？",
-		"correct"	: "|C3|寞诺唯|C0|只会在交易后给你礼物。",
-		"incorrect"	: "|C3|寞诺唯|C0|不会免费给出任何礼物。",
+		"question"	: "|C3|寞諾唯|C0|在你再次拜訪她時會給你多少個|C3|免費禮物|C0|作為報復？",
+		"correct"	: "|C3|寞諾唯|C0|只會在交易後給你禮物。",
+		"incorrect"	: "|C3|寞諾唯|C0|不會免費給出任何禮物。",
 	},
 	"seriesA_31"		: {
-		"question"	: "你可以从|C3|棱镜的复制器|C0|处收到多少|C3|免费礼物|C0|？",
-		"correct"	: "|C3|棱镜的复制器|C0|总会需要一些物质作为交换。",
-		"incorrect"	: "|C3|棱镜的复制器|C0|不会免费创造任何礼物。",
+		"question"	: "你可以從|C3|稜鏡的複製器|C0|處收到多少|C3|免費禮物|C0|？",
+		"correct"	: "|C3|稜鏡的複製器|C0|總會需要一些物質作為交換。",
+		"incorrect"	: "|C3|稜鏡的複製器|C0|不會免費創造任何禮物。",
 	},
 	"seriesA_32"		: {
-		"question"	: "|C3|卡洛里|C0|最想要哪种类型的礼物？",
-		"incorrect"	: "|C3|卡洛里|C0|想要|C3|[VAL3]礼物|C0|来帮她冷却下来。",
+		"question"	: "|C3|卡洛裡|C0|最想要哪種類型的禮物？",
+		"incorrect"	: "|C3|卡洛裡|C0|想要|C3|[VAL3]禮物|C0|來幫她冷卻下來。",
 	},
 	"seriesA_33"		: {
-		"question"	: "|C3|冰封维目尔|C0|最想要什么类型的礼物？",
-		"incorrect"	: "|C3|冰封维目尔|C0|想要|C3|[VAL3]礼物|C0|来帮助她温暖起来。",
+		"question"	: "|C3|冰封維目爾|C0|最想要什麼類型的禮物？",
+		"incorrect"	: "|C3|冰封維目爾|C0|想要|C3|[VAL3]禮物|C0|來幫助她溫暖起來。",
 	},
 	"seriesA_34"		: {
-		"question"	: "|C3|寞诺唯|C0|最想要什么类型的礼物？",
-		"correct"	: "|C3|[VAL3]礼物|C0|能够从|C3|寞诺唯|C0|处带来最严重的后果。",
-		"incorrect"	: "|C3|寞诺唯|C0|想要|C3|[VAL3]礼物|C0|来照亮夜晚。",
+		"question"	: "|C3|寞諾唯|C0|最想要什麼類型的禮物？",
+		"correct"	: "|C3|[VAL3]禮物|C0|能夠從|C3|寞諾唯|C0|處帶來最嚴重的後果。",
+		"incorrect"	: "|C3|寞諾唯|C0|想要|C3|[VAL3]禮物|C0|來照亮夜晚。",
 	},
 	"seriesA_35"		: {
-		"question"	: "什么类型的礼物能够为|C3|棱镜的复制器|C0|提供最多能量？",
-		"correct"	: "尝试将你送进复制器的|C3|[VAL3]礼物|C0|回收来获取免费能量。",
+		"question"	: "什麼類型的禮物能夠為|C3|稜鏡的複製器|C0|提供最多能量？",
+		"correct"	: "嘗試將你送進複製器的|C3|[VAL3]禮物|C0|回收來獲取免費能量。",
 	},
 	"seriesA_36"		: {
-		"question"	: "|C3|卡洛里|C0|会拒绝什么类型的礼物？",
-		"incorrect"	: "她会拒绝|C3|[VAL3]礼物|C0|，因为它们无法帮助她冷却下来。",
+		"question"	: "|C3|卡洛裡|C0|會拒絕什麼類型的禮物？",
+		"incorrect"	: "她會拒絕|C3|[VAL3]禮物|C0|，因為它們無法幫助她冷卻下來。",
 	},
 	"seriesA_37"		: {
-		"question"	: "|C3|冰封维目尔|C0|会拒绝什么类型的礼物？",
-		"incorrect"	: "她会拒绝|C3|[VAL3]礼物|C0|，因为它们无法帮助她温暖起来。",
+		"question"	: "|C3|冰封維目爾|C0|會拒絕什麼類型的禮物？",
+		"incorrect"	: "她會拒絕|C3|[VAL3]禮物|C0|，因為它們無法幫助她溫暖起來。",
 	},
 	"seriesA_38"		: {
-		"question"	: "|C3|寞诺唯|C0|会拒绝什么类型的礼物？",
-		"correct"	: "|C3|寞诺唯|C0|很高兴为你展示任何礼物的后果。",
-		"incorrect"	: "|C3|寞诺唯|C0|不会拒绝任何类型的礼物。",
+		"question"	: "|C3|寞諾唯|C0|會拒絕什麼類型的禮物？",
+		"correct"	: "|C3|寞諾唯|C0|很高興為你展示任何禮物的後果。",
+		"incorrect"	: "|C3|寞諾唯|C0|不會拒絕任何類型的禮物。",
 	},
 	"seriesA_39"		: {
-		"question"	: "|C3|棱镜的复制器|C0|会拒绝什么类型的礼物作为能量源？",
-		"incorrect"	: "|C3|棱镜的复制器|C0|会接受任何类型的礼物作为能量源。",
+		"question"	: "|C3|稜鏡的複製器|C0|會拒絕什麼類型的禮物作為能量源？",
+		"incorrect"	: "|C3|稜鏡的複製器|C0|會接受任何類型的禮物作為能量源。",
 	},
 	"seriesA_40"		: {
-		"question"	: "|C3|晃晃|C0|战斗音乐的名字是什么？",
-		"incorrect"	: "|C3|\"[VAL3]\"|C0|是晃晃战斗音乐的名字。",
+		"question"	: "|C3|晃晃|C0|戰鬥音樂的名字是什麼？",
+		"incorrect"	: "|C3|\"[VAL3]\"|C0|是晃晃戰鬥音樂的名字。",
 	},
 	"seriesA_41"		: {
-		"question"	: "|C3|守护者|C0|战斗音乐的名字是什么？",
-		"incorrect"	: "|C3|\"[VAL3]\"|C0|是守护者战斗音乐的名字。",
+		"question"	: "|C3|守護者|C0|戰鬥音樂的名字是什麼？",
+		"incorrect"	: "|C3|\"[VAL3]\"|C0|是守護者戰鬥音樂的名字。",
 	},
 	"seriesA_42"		: {
-		"question"	: "|C3|眼睛符文|C0|战斗音乐的名字是什么？",
-		"incorrect"	: "|C3|\"[VAL3]\"|C0|是眼睛符文战斗音乐的名字。",
+		"question"	: "|C3|眼睛符文|C0|戰鬥音樂的名字是什麼？",
+		"incorrect"	: "|C3|\"[VAL3]\"|C0|是眼睛符文戰鬥音樂的名字。",
 	},
 	"seriesA_43"		: {
-		"question"	: "|C3|扎拉机械|C0|战斗音乐的名字是什么？",
-		"incorrect"	: "|C3|\"[VAL3]\"|C0|是扎拉机械战斗音乐的名字。",
+		"question"	: "|C3|扎拉機械|C0|戰鬥音樂的名字是什麼？",
+		"incorrect"	: "|C3|\"[VAL3]\"|C0|是扎拉機械戰鬥音樂的名字。",
 	},
 	"seriesA_44"		: {
-		"question"	: "|C3|玻璃植物|C0|战斗音乐的名字是什么？",
-		"incorrect"	: "|C3|\"[VAL3]\"|C0|是玻璃植物战斗音乐的名字。",
+		"question"	: "|C3|玻璃植物|C0|戰鬥音樂的名字是什麼？",
+		"incorrect"	: "|C3|\"[VAL3]\"|C0|是玻璃植物戰鬥音樂的名字。",
 	},
 	"seriesA_45"		: {
-		"question"	: "|C3|维目尔|C0|战斗音乐的名字是什么？",
-		"incorrect"	: "|C3|\"[VAL3]\"|C0|是维目尔战斗音乐的名字。",
+		"question"	: "|C3|維目爾|C0|戰鬥音樂的名字是什麼？",
+		"incorrect"	: "|C3|\"[VAL3]\"|C0|是維目爾戰鬥音樂的名字。",
 	},
 	"seriesA_46"		: {
-		"question"	: "在和|C3|特殊怪物|C0|战斗时的战斗音乐名字是什么？",
-		"incorrect"	: "|C3|\"[VAL3]\"|C0|是特殊怪物战斗音乐的名字。",
+		"question"	: "在和|C3|特殊怪物|C0|戰鬥時的戰鬥音樂名字是什麼？",
+		"incorrect"	: "|C3|\"[VAL3]\"|C0|是特殊怪物戰鬥音樂的名字。",
 	},
 	"seriesA_47"		: {
-		"question"	: "在和|C3|新生怪物|C0|战斗时的战斗音乐名字是什么？",
-		"incorrect"	: "|C3|\"[VAL3]\"|C0|是新生怪物战斗音乐的名字。",
+		"question"	: "在和|C3|新生怪物|C0|戰鬥時的戰鬥音樂名字是什麼？",
+		"incorrect"	: "|C3|\"[VAL3]\"|C0|是新生怪物戰鬥音樂的名字。",
 	},
 	"seriesA_48"		: {
-		"question"	: "本单元现在正在为你播放一首音乐，这首音乐的名字是什么？",
-		"correct"	: "本单元相信这个名字完全符合现在的情况。",
-		"incorrect"	: "|C3|\"[VAL3]\"|C0|是这首歌的名字。",
+		"question"	: "本單元現在正在為你播放一首音樂，這首音樂的名字是什麼？",
+		"correct"	: "本單元相信這個名字完全符合現在的情況。",
+		"incorrect"	: "|C3|\"[VAL3]\"|C0|是這首歌的名字。",
 	},
 	"seriesA_49"		: {
-		"question"	: "|C3|化莫里|C0|最想要什么类型的礼物？",
-		"incorrect"	: "|C3|化莫里|C0|最想要将|C3|[VAL3]礼物|C0|转化为香水。",
+		"question"	: "|C3|化莫里|C0|最想要什麼類型的禮物？",
+		"incorrect"	: "|C3|化莫里|C0|最想要將|C3|[VAL3]禮物|C0|轉化為香水。",
 	},
 	"seriesA_50"		: {
-		"question"	: "|C3|化莫里|C0|会拒绝什么类型的礼物？",
-		"incorrect"	: "她会拒绝|C3|[VAL3]礼物|C0|，因为电流会扰乱她的转化过程。",
+		"question"	: "|C3|化莫里|C0|會拒絕什麼類型的禮物？",
+		"incorrect"	: "她會拒絕|C3|[VAL3]禮物|C0|，因為電流會擾亂她的轉化過程。",
 	},
 	
 	
 	
 	"seriesB_00"		: {
-		"question"	: "|C3|\"[VAL1]\"|C0|是否是[VAL2]符文的一种可能的含义？",
-		"correct"	: "你真的很懂眼睛符文的语言。",
-		"incorrect"	: "那个符文对于本单元而言同样难以解读。",
+		"question"	: "|C3|\"[VAL1]\"|C0|是否是[VAL2]符文的一種可能的含義？",
+		"correct"	: "你真的很懂眼睛符文的語言。",
+		"incorrect"	: "那個符文對於本單元而言同樣難以解讀。",
 	},
 	"seriesB_01"		: {
-		"question"	: "[VAL1]符文有许多可能的含义。[VAL1]符文其中一个可能的含义是？",
-		"correct"	: "你真的很懂眼睛符文的语言。",
-		"incorrect"	: "[VAL1]符文其中一个可能的含义是\"[VAL3].\"",
+		"question"	: "[VAL1]符文有許多可能的含義。[VAL1]符文其中一個可能的含義是？",
+		"correct"	: "你真的很懂眼睛符文的語言。",
+		"incorrect"	: "[VAL1]符文其中一個可能的含義是\"[VAL3].\"",
 	},
 	
 	
 	
 	"seriesC_00"		: {
-		"question"	: "包括任何变种在内，你今天爱过了|C3|[VAL1]|C0|吗？",
+		"question"	: "包括任何變種在內，你今天愛過了|C3|[VAL1]|C0|嗎？",
 		"senti_o"	: "[battle_sentinel]",
 		"senti_x"	: "[forgot_sentinel]",
 	},
 	"seriesC_01"		: {
-		"question"	: "你今天向|C3|[VAL1]|C0|类型的怪物展示爱意了吗？",
+		"question"	: "你今天向|C3|[VAL1]|C0|類型的怪物展示愛意了嗎？",
 		"senti_o"	: "[remember_zaramech]",
 		"senti_x"	: "[forgot_zaramech]",
 	},
 	"seriesC_02"		: {
-		"question"	: "你今天存活了多少场和怪物们的战斗？",
-		"incorrect"	: "你今天存活的战斗场数是|C3|[VAL3].",
+		"question"	: "你今天存活了多少場和怪物們的戰鬥？",
+		"incorrect"	: "你今天存活的戰鬥場數是|C3|[VAL3].",
 	},
 	"seriesC_03"		: {
-		"question"	: "你今天和|C3|[VAL1]|C0|怪物战斗了多少次？",
-		"incorrect"	: "你今天和[VAL1]怪物战斗的次数是|C3|[VAL3]。",
-		"senti_o"	: "你确实将本单元包括进了记录中。",
-		"senti_x"	: "包括本单元在内，你今天和[VAL1]怪物战斗的次数是|C3|[VAL3]。",
+		"question"	: "你今天和|C3|[VAL1]|C0|怪物戰鬥了多少次？",
+		"incorrect"	: "你今天和[VAL1]怪物戰鬥的次數是|C3|[VAL3]。",
+		"senti_o"	: "你確實將本單元包括進了記錄中。",
+		"senti_x"	: "包括本單元在內，你今天和[VAL1]怪物戰鬥的次數是|C3|[VAL3]。",
 	},
 	"seriesC_04"		: {
-		"question"	: "以下怪物中，谁是你今天爱过了的？",
-		"incorrect"	: "你今天爱过了|C3|[VAL3]|C0|。",
+		"question"	: "以下怪物中，誰是你今天愛過了的？",
+		"incorrect"	: "你今天愛過了|C3|[VAL3]|C0|。",
 		"senti_o"	: "[battle_sentinel]",
-		"senti_x"	: "你忘记了本单元今天展示了哪种形态，对吗？",
+		"senti_x"	: "你忘記了本單元今天展示了哪種形態，對嗎？",
 	},
 	"seriesC_05"		: {
-		"question"	: "以下怪物中，谁是你今天尚未爱过的？",
-		"incorrect"	: "你今天尚未爱过|C3|[VAL3]|C0|。",
-		"senti_o"	: "本单元知道你会看穿这个耍了小花招的问题。",
-		"senti_x"	: "本单元今天没有以|C3|[VAL3]|C0|形态出现，因此这一形态尚未被爱过。",
+		"question"	: "以下怪物中，誰是你今天尚未愛過的？",
+		"incorrect"	: "你今天尚未愛過|C3|[VAL3]|C0|。",
+		"senti_o"	: "本單元知道你會看穿這個耍了小花招的問題。",
+		"senti_x"	: "本單元今天沒有以|C3|[VAL3]|C0|形態出現，因此這一形態尚未被愛過。",
 	},
 	
 	
 	
 	"seriesD_00"		: {
-		"question"	: "今天你第一个爱过的怪物是？",
-		"correct"	: "本单元一直在观察。",
-		"incorrect"	: "你今天第一个爱过的怪物是|C3|[VAL3]。",
-		"senti_o"	: "本单元确保今天第一个来见你。",
-		"senti_x"	: "你忘记本单元是你今天第一场战斗了？",
+		"question"	: "今天你第一個愛過的怪物是？",
+		"correct"	: "本單元一直在觀察。",
+		"incorrect"	: "你今天第一個愛過的怪物是|C3|[VAL3]。",
+		"senti_o"	: "本單元確保今天第一個來見你。",
+		"senti_x"	: "你忘記本單元是你今天第一場戰鬥了？",
 	},
 	"seriesD_01"		: {
-		"question"	: "你最近和谁战斗了？",
-		"correct"	: "本单元见证了那场激烈的战斗。",
-		"incorrect"	: "你刚刚和|C3|[VAL3]|C0|战斗过了。",
-		"senti_o"	: "本单元来迟了，差点错过你了。",
+		"question"	: "你最近和誰戰鬥了？",
+		"correct"	: "本單元見證了那場激烈的戰鬥。",
+		"incorrect"	: "你剛剛和|C3|[VAL3]|C0|戰鬥過了。",
+		"senti_o"	: "本單元來遲了，差點錯過你了。",
 		"senti_x"	: "[forgot_sentinel]",
 	},
 	"seriesD_02"		: {
-		"question"	: "在战斗之前，|C3|[VAL1]|C0|会对你说什么？",
-		"incorrect"	: "|C3|[VAL1]|C0|在你和她战斗之前会说\"[VAL3]\"。",
+		"question"	: "在戰鬥之前，|C3|[VAL1]|C0|會對你說什麼？",
+		"incorrect"	: "|C3|[VAL1]|C0|在你和她戰鬥之前會說\"[VAL3]\"。",
 		"senti_o"	: "[senti_fear_o]",
-		"senti_x"	: "本单元在感到恐惧时会说\"[VAL3]\"。",
+		"senti_x"	: "本單元在感到恐懼時會說\"[VAL3]\"。",
 	},
 	"seriesD_03"		: {
-		"question"	: "在你向她展示过爱之后，|C3|[VAL1]|C0|会对你说什么？",
-		"incorrect"	: "|C3|[VAL1]|C0|在你向她展示过爱之后会说\"[VAL3]\"。",
+		"question"	: "在你向她展示過愛之後，|C3|[VAL1]|C0|會對你說什麼？",
+		"incorrect"	: "|C3|[VAL1]|C0|在你向她展示過愛之後會說\"[VAL3]\"。",
 		"senti_o"	: "[senti_love_o]",
-		"senti_x"	: "你忘记本单元今天早些时候对你说过\"[VAL3]\"了吗？",
+		"senti_x"	: "你忘記本單元今天早些時候對你說過\"[VAL3]\"了嗎？",
 	},
 	
 	
 	
 	"seriesE_00"		: {
-		"question"	: "今天的天气是？",
-		"correct"	: "你看向外面的能力真是无与伦比。",
-		"incorrect"	: "你今天忘记看雨有多大了吗？",
+		"question"	: "今天的天氣是？",
+		"correct"	: "你看向外面的能力真是無與倫比。",
+		"incorrect"	: "你今天忘記看雨有多大了嗎？",
 	},
 	"seriesE_01"		: {
-		"question"	: "你的|C3|帮手链|C0|里现在有多少帮手跟着你？",
-		"incorrect"	: "你的帮手链里的帮手数量现在是|C3|[VAL3]。",
+		"question"	: "你的|C3|幫手鍊|C0|裡現在有多少幫手跟著你？",
+		"incorrect"	: "你的幫手鍊裡的幫手數量現在是|C3|[VAL3]。",
 	},
 	"seriesE_02"		: {
-		"question"	: "你现在拥有的恐慌攻击数是？",
-		"incorrect"	: "你现在拥有的恐慌攻击数量是|C3|[VAL3]。",
+		"question"	: "你現在擁有的恐慌攻擊數是？",
+		"incorrect"	: "你現在擁有的恐慌攻擊數量是|C3|[VAL3]。",
 	},
 	"seriesE_03"		: {
-		"question"	: "你的礼物中现在有|C3|[VAL1]|C0|吗？",
+		"question"	: "你的禮物中現在有|C3|[VAL1]|C0|嗎？",
 	},
 	"seriesE_04"		: {
-		"question"	: "你今天在任何战斗中达成过|C3|全连击|C0|吗？",
+		"question"	: "你今天在任何戰鬥中達成過|C3|全連擊|C0|嗎？",
 	},
 	"seriesE_05"		: {
-		"question"	: "你现在有任何|C3|奇妙力量礼物吗？",
+		"question"	: "你現在有任何|C3|奇妙力量禮物嗎？",
 	},
 	"seriesE_06"		: {
-		"question"	: "你现在有其中的哪一个力量礼物？",
-		"incorrect"	: "|C3|[VAL3]|C0|是你拥有的一个力量礼物。",
+		"question"	: "你現在有其中的哪一個力量禮物？",
+		"incorrect"	: "|C3|[VAL3]|C0|是你擁有的一個力量禮物。",
 	},
 	"seriesE_07"		: {
-		"question"	: "哪一个力量礼物不在你拥有的礼物中？",
-		"incorrect"	: "你的力量礼物中没有|C3|[VAL3]|C0|。",
+		"question"	: "哪一個力量禮物不在你擁有的禮物中？",
+		"incorrect"	: "你的力量禮物中沒有|C3|[VAL3]|C0|。",
 	},
 	
 	
 	
 	"seriesF_00"		: {
-		"question"	: "|C3|[VAL1]|C0|是|C3|[VAL2]|C0|类型的怪物吗？",
+		"question"	: "|C3|[VAL1]|C0|是|C3|[VAL2]|C0|類型的怪物嗎？",
 		"senti_o"	: "[remember_zaramech]",
 		"senti_x"	: "[forgot_zaramech]",
 	},
 	"seriesF_01"		: {
-		"question"	: "你可以从|C3|[VAL1]|C0|处提取|C3|[VAL2]|C0|魔尘吗？",
+		"question"	: "你可以從|C3|[VAL1]|C0|處提取|C3|[VAL2]|C0|魔塵嗎？",
 		"senti_o"	: "[blue_mote_o]",
 		"senti_x"	: "[blue_mote_x]",
 	},
 	"seriesF_02"		: {
-		"question"	: "|C3|[VAL1]|C0|是什么类型的怪物？",
-		"incorrect"	: "|C3|[VAL1]|C0|是|C3|[VAL3]|C0|种类的怪物。",
+		"question"	: "|C3|[VAL1]|C0|是什麼類型的怪物？",
+		"incorrect"	: "|C3|[VAL1]|C0|是|C3|[VAL3]|C0|種類的怪物。",
 		"senti_o"	: "[remember_zaramech]",
 		"senti_x"	: "[forgot_zaramech]",
 	},
 	"seriesF_03"		: {
-		"question"	: "以下哪种怪物属于|C3|[VAL1]|C0|类型？",
-		"incorrect"	: "|C3|[VAL3]|C0|是|C3|[VAL1]|C0|类型。",
+		"question"	: "以下哪種怪物屬於|C3|[VAL1]|C0|類型？",
+		"incorrect"	: "|C3|[VAL3]|C0|是|C3|[VAL1]|C0|類型。",
 		"senti_o"	: "[remember_zaramech]",
 		"senti_x"	: "[forgot_zaramech]",
 	},
 	"seriesF_04"		: {
-		"question"	: "你可以从|C3|[VAL1]|C0|处提取什么类型的魔尘？",
-		"incorrect"	: "你可以从|C3|[VAL1]|C0|处提取|C3|[VAL3]|C0|魔尘。",
+		"question"	: "你可以從|C3|[VAL1]|C0|處提取什麼類型的魔塵？",
+		"incorrect"	: "你可以從|C3|[VAL1]|C0|處提取|C3|[VAL3]|C0|魔塵。",
 		"senti_o"	: "[blue_mote_o]",
 		"senti_x"	: "[blue_mote_x]",
 	},
@@ -482,327 +482,327 @@
 	
 	
 	"seriesG_00"		: {
-		"question"	: "|C3|兰迪|C0|有多少眼睛？",
+		"question"	: "|C3|蘭迪|C0|有多少眼睛？",
 	},
 	"seriesG_01"		: {
 		"question"	: "|C3|雪球|C0|有多少眼睛？",
 	},
 	"seriesG_02"		: {
-		"question"	: "每朵|C3|几维|C0|的花朵有多少花瓣？",
+		"question"	: "每朵|C3|幾維|C0|的花朵有多少花瓣？",
 	},
 	"seriesG_03"		: {
-		"question"	: "在|C3|树途之亥|C0|的战斗中会出现多少安全泡泡？",
+		"question"	: "在|C3|樹途之亥|C0|的戰鬥中會出現多少安全泡泡？",
 	},
 	"seriesG_04"		: {
-		"question"	: "以下哪个维目尔不是|C3|维目尔四重奏|C0|的一部分？",
+		"question"	: "以下哪個維目爾不是|C3|維目爾四重奏|C0|的一部分？",
 	},
 	"seriesG_05"		: {
-		"question"	: "以下哪个不是|C3|超新星|C0|的拟像之一？",
+		"question"	: "以下哪個不是|C3|超新星|C0|的擬像之一？",
 	},
 	"seriesG_06"		: {
-		"question"	: "|C3|圆锯|C0|的头和尾锯之间有多少节护甲？",
+		"question"	: "|C3|圓鋸|C0|的頭和尾鋸之間有多少節護甲？",
 	},
 	"seriesG_07"		: {
-		"question"	: "在|C3|燃怒锅炉|C0|的战斗中会出现多少安全泡泡？",
+		"question"	: "在|C3|燃怒鍋爐|C0|的戰鬥中會出現多少安全泡泡？",
 	},
 	"seriesG_08"		: {
-		"question"	: "|C3|结结|C0|有多少眼睛？",
-		"correct"	: "你注意到了本单元仅注明了|C3|结结|C0|，而并非|C3|节结。|C0|",
-		"incorrect"	: "请注意，本单元仅注明了|C3|结结|C0|，而并非|C3|节结。|C0|",
+		"question"	: "|C3|結結|C0|有多少眼睛？",
+		"correct"	: "你注意到了本單元僅註明了|C3|結結|C0|，而並非|C3|節結。|C0|",
+		"incorrect"	: "請注意，本單元僅註明了|C3|結結|C0|，而並非|C3|節結。|C0|",
 	},
 	"seriesG_09"		: {
-		"question"	: "|C3|卡洛里|C0|的尾巴共有多少节？",
+		"question"	: "|C3|卡洛裡|C0|的尾巴共有多少節？",
 	},
 	"seriesG_10"		: {
-		"question"	: "|C3|焦耳|C0|的尾巴共有多少节？",
+		"question"	: "|C3|焦耳|C0|的尾巴共有多少節？",
 	},
 	"seriesG_11"		: {
-		"question"	: "|C3|莱拉|C0|在她的战斗中会飞走多少次？",
+		"question"	: "|C3|萊拉|C0|在她的戰鬥中會飛走多少次？",
 	},
 	"seriesG_12"		: {
-		"question"	: "|C3|羞涩莱拉|C0|在战斗中会召唤几种小型眼魔？",
-		"incorrect"	: "|C3|羞涩莱拉|C0|会召唤三种眼魔，分别是绿色，红色和紫色。",
+		"question"	: "|C3|羞澀萊拉|C0|在戰鬥中會召喚幾種小型眼魔？",
+		"incorrect"	: "|C3|羞澀萊拉|C0|會召喚三種眼魔，分別是綠色，紅色和紫色。",
 	},
 	"seriesG_13"		: {
-		"question"	: "|C3|沙之症候群|C0|在任何等级都是同一长度吗？",
+		"question"	: "|C3|沙之症候群|C0|在任何等級都是同一長度嗎？",
 	},
 	"seriesG_14"		: {
-		"question"	: "|C3|熔岩症候群|C0|在任何等级都是同一长度吗？",
+		"question"	: "|C3|熔岩症候群|C0|在任何等級都是同一長度嗎？",
 	},
 	"seriesG_15"		: {
-		"question"	: "|C3|单元露露|C0|在战斗中有多少条手臂？",
+		"question"	: "|C3|單元露露|C0|在戰鬥中有多少條手臂？",
 	},
 	"seriesG_16"		: {
-		"question"	: "|C3|棱镜|C0|在战斗中会离开初始位置吗？",
+		"question"	: "|C3|稜鏡|C0|在戰鬥中會離開初始位置嗎？",
 	},
 	"seriesG_17"		: {
-		"question"	: "|C3|阿玛加|C0|在战斗中会离开初始位置吗？",
+		"question"	: "|C3|阿瑪加|C0|在戰鬥中會離開初始位置嗎？",
 	},
 	"seriesG_18"		: {
-		"question"	: "|C3|燃怒棱镜|C0|在战斗中会离开初始位置吗？",
+		"question"	: "|C3|燃怒稜鏡|C0|在戰鬥中會離開初始位置嗎？",
 	},
 	"seriesG_19"		: {
-		"question"	: "|C3|同步甲虫|C0|的恐慌模式在所有难度下都会发射全部四条激光吗？",
-		"incorrect"	: "低等级的|C3|同步甲虫|C0|在恐慌模式下仅会发射两条激光。",
+		"question"	: "|C3|同步甲蟲|C0|的恐慌模式在所有難度下都會發射全部四條雷射嗎？",
+		"incorrect"	: "低等級的|C3|同步甲蟲|C0|在恐慌模式下僅會發射兩條雷射。",
 	},
 	"seriesG_20"		: {
-		"question"	: "|C3|异相同步甲虫|C0|的恐慌模式在所有难度下都会发射全部四条激光吗？",
+		"question"	: "|C3|異相同步甲蟲|C0|的恐慌模式在所有難度下都會發射全部四條雷射嗎？",
 	},
 	"seriesG_21"		: {
-		"question"	: "|C3|噼里啪啦|C0|的线缆长度会根据等级改变吗？",
+		"question"	: "|C3|劈哩啪啦|C0|的線纜長度會根據等級改變嗎？",
 	},
 	"seriesG_22"		: {
-		"question"	: "|C3|默认|C0|会随机选择她的形态吗？",
-		"incorrect"	: "|C3|默认|C0|会基于她的等级选择形态。",
+		"question"	: "|C3|默認|C0|會隨機選擇她的形態嗎？",
+		"incorrect"	: "|C3|默認|C0|會基於她的等級選擇形態。",
 	},
 	"seriesG_23"		: {
-		"question"	: "|C3|默认|C0|可以全息投影多少种不同的形态？",
+		"question"	: "|C3|默認|C0|可以全像投影多少種不同的形態？",
 	},
 	"seriesG_24"		: {
-		"question"	: "|C3|光影之楔|C0|整场战斗都会保持你的连击吗？",
+		"question"	: "|C3|光影之楔|C0|整場戰鬥都會保持你的連擊嗎？",
 	},
 	"seriesG_25"		: {
-		"question"	: "|C3|熔岩之林|C0|整场战斗都会保持你的连击吗？",
+		"question"	: "|C3|熔岩之林|C0|整場戰鬥都會保持你的連擊嗎？",
 	},
 	"seriesG_26"		: {
-		"question"	: "|C3|赫日欧拉|C0|整场战斗都会保持你的连击吗？",
+		"question"	: "|C3|赫日歐拉|C0|整場戰鬥都會保持你的連擊嗎？",
 	},
 	"seriesG_27"		: {
-		"question"	: "|C3|血玛托壬|C0|有多少羽毛环？",
+		"question"	: "|C3|血瑪托壬|C0|有多少羽毛環？",
 	},
 	"seriesG_28"		: {
-		"question"	: "|C3|雨布罗阿|C0|有多少羽毛环？",
+		"question"	: "|C3|雨布羅阿|C0|有多少羽毛環？",
 	},
 	"seriesG_29"		: {
-		"question"	: "|C3|炼狱之梭|C0|能够吸收多少小型符文？",
+		"question"	: "|C3|煉獄之梭|C0|能夠吸收多少小型符文？",
 	},
 	"seriesG_30"		: {
-		"question"	: "|C3|化莫里|C0|能够吸收多少小型符文？",
+		"question"	: "|C3|化莫里|C0|能夠吸收多少小型符文？",
 	},
 	"seriesG_31"		: {
-		"question"	: "|C3|雷斯塔尤|C0|能够吸收多少小型符文？",
-		"incorrect"	: "|C3|雷斯塔尤|C0|不会吸收任何小型符文球。",
+		"question"	: "|C3|雷斯塔尤|C0|能夠吸收多少小型符文？",
+		"incorrect"	: "|C3|雷斯塔尤|C0|不會吸收任何小型符文球。",
 	},
 	"seriesG_32"		: {
-		"question"	: "|C3|寞诺唯|C0|可以从上方降下血雨吗？",
+		"question"	: "|C3|寞諾唯|C0|可以從上方降下血雨嗎？",
 	},
 	"seriesG_33"		: {
-		"question"	: "|C3|寞诺唯|C0|可以从下方发射血雨吗？",
-		"incorrect"	: "|C3|寞诺唯|C0|只能从上方降下血雨。",
+		"question"	: "|C3|寞諾唯|C0|可以從下方發射血雨嗎？",
+		"incorrect"	: "|C3|寞諾唯|C0|只能從上方降下血雨。",
 	},
 	"seriesG_34"		: {
-		"question"	: "|C3|点点|C0|有多少可破坏的花瓣？",
+		"question"	: "|C3|點點|C0|有多少可破壞的花瓣？",
 	},
 	"seriesG_35"		: {
-		"question"	: "|C3|星川|C0|在高等级会有更多的花瓣吗？",
+		"question"	: "|C3|星川|C0|在高等級會有更多的花瓣嗎？",
 	},
 	"seriesG_36"		: {
-		"question"	: "|C3|空无星川|C0|在战斗中会降下虚空子弹雨吗？",
+		"question"	: "|C3|空無星川|C0|在戰鬥中會降下虛空子彈雨嗎？",
 	},
 	"seriesG_37"		: {
-		"question"	: "|C3|琉璃|C0|有多少可破坏的电弧棘刺？",
+		"question"	: "|C3|琉璃|C0|有多少可破壞的電弧棘刺？",
 	},
 	"seriesG_38"		: {
-		"question"	: "|C3|珍珠的|C0|尾部藤蔓有多少节？",
+		"question"	: "|C3|珍珠的|C0|尾部藤蔓有多少節？",
 	},
 	"seriesG_39"		: {
-		"question"	: "在离|C3|茉茉|C0|最近的环里有多少|C3|谋杀之华|C0|围绕着她舞蹈？",
+		"question"	: "在離|C3|茉茉|C0|最近的環裡有多少|C3|謀殺之華|C0|圍繞著她舞蹈？",
 	},
 	"seriesG_40"		: {
-		"question"	: "|C3|羞涩茉茉|C0|的每个黄金花朵有多少花瓣？",
+		"question"	: "|C3|羞澀茉茉|C0|的每個黃金花朵有多少花瓣？",
 	},
 	"seriesG_41"		: {
-		"question"	: "|C3|回声|C0|在高等级会有更多花瓣吗？",
+		"question"	: "|C3|回聲|C0|在高等級會有更多花瓣嗎？",
 	},
 	"seriesG_42"		: {
-		"question"	: "|C3|分裂维目尔|C0|在任何等级都会一开始分裂成四个维目尔吗？",
+		"question"	: "|C3|分裂維目爾|C0|在任何等級都會一開始分裂成四個維目爾嗎？",
 	},
 	"seriesG_43"		: {
-		"question"	: "|C3|燃烧维目尔|C0|的大型火焰石攻击周围围绕着多少小型子弹？",
+		"question"	: "|C3|燃燒維目爾|C0|的大型火焰石攻擊周圍圍繞著多少小型子彈？",
 	},
 	"seriesG_44"		: {
-		"question"	: "|C3|剧毒维目尔|C0|的大型毒素石攻击周围围绕着多少小型子弹？",
+		"question"	: "|C3|劇毒維目爾|C0|的大型毒素石攻擊周圍圍繞著多少小型子彈？",
 	},
 	"seriesG_45"		: {
-		"question"	: "|C3|熔融维目尔|C0|在第二阶段开始时会分裂出多少小型维目尔？",
+		"question"	: "|C3|熔融維目爾|C0|在第二階段開始時會分裂出多少小型維目爾？",
 	},
 	"seriesG_46"		: {
-		"question"	: "|C3|虚空|C0|的战斗有多少阶段？",
+		"question"	: "|C3|虛空|C0|的戰鬥有多少階段？",
 	},
 	"seriesG_47"		: {
-		"question"	: "在|C3|托塔莉娅|C0|用墙将你四面围绕起来前有多少阶段？",
+		"question"	: "在|C3|托塔莉婭|C0|用牆將你四面圍繞起來前有多少階段？",
 	},
 	"seriesG_48"		: {
-		"question"	: "|C3|蓝色维目尔|C0|战斗的最后有多少小型维目尔围绕着你？",
+		"question"	: "|C3|藍色維目爾|C0|戰鬥的最後有多少小型維目爾圍繞著你？",
 	},
 	"seriesG_49"		: {
-		"question"	: "|C3|维目尔之雨|C0|可以使用虚空尖刺攻击吗？",
-		"incorrect"	: "|C3|维目尔之雨|C0|仅会使用电击尖刺攻击。",
+		"question"	: "|C3|維目爾之雨|C0|可以使用虛空尖刺攻擊嗎？",
+		"incorrect"	: "|C3|維目爾之雨|C0|僅會使用電擊尖刺攻擊。",
 	},
 	"seriesG_50"		: {
-		"question"	: "|C3|冰封维目尔|C0|的战斗中有多少安全泡泡？",
+		"question"	: "|C3|冰封維目爾|C0|的戰鬥中有多少安全泡泡？",
 	},
 	"seriesG_51"		: {
-		"question"	: "|C3|异常|C0|的战斗有多少阶段？",
+		"question"	: "|C3|異常|C0|的戰鬥有多少階段？",
 	},
 	"seriesG_52"		: {
-		"question"	: "|C3|耀星|C0|有多少可破坏的叉齿？",
+		"question"	: "|C3|耀星|C0|有多少可破壞的叉齒？",
 	},
 	"seriesG_53"		: {
-		"question"	: "|C3|邃星|C0|周围有多少可破坏的宝石围绕着她？",
+		"question"	: "|C3|邃星|C0|周圍有多少可破壞的寶石圍繞著她？",
 	},
 	"seriesG_54"		: {
-		"question"	: "|C3|团结|C0|有多少翅膀？",
+		"question"	: "|C3|團結|C0|有多少翅膀？",
 	},
 	"seriesG_55"		: {
-		"question"	: "|C3|二相性|C0|在开始相撞时会保持你的连击吗？",
+		"question"	: "|C3|二相性|C0|在開始相撞時會保持你的連擊嗎？",
 	},
 	"seriesG_56"		: {
-		"question"	: "|C3|三体|C0|的每个身体在两个头之间有多少节？",
+		"question"	: "|C3|三體|C0|的每個身體在兩個頭之間有多少節？",
 	},
 	"seriesG_57"		: {
-		"question"	: "|C3|倪克斯之瘤|C0|的身体上是否印着|ah|符文？",
+		"question"	: "|C3|倪克斯之瘤|C0|的身體上是否印著|ah|符文？",
 	},
 	"seriesG_58"		: {
-		"question"	: "|C3|托克斯之瘤|C0|的身体上是否印着|ry|符文？",
+		"question"	: "|C3|托克斯之瘤|C0|的身體上是否印著|ry|符文？",
 	},
 	"seriesG_59"		: {
-		"question"	: "|C3|闪亮焦耳|C0|在战斗时是否会召唤|xai|符文？",
-		"correct"	: "本单元在想光影之楔为什么允许焦耳借走她的|xai|符文，即使是在梦中。",
+		"question"	: "|C3|閃亮焦耳|C0|在戰鬥時是否會召喚|xai|符文？",
+		"correct"	: "本單元在想光影之楔為什麼允許焦耳借走她的|xai|符文，即使是在夢中。",
 	},
 	"seriesG_60"		: {
-		"question"	: "|C3|闪亮焦耳|C0|在战斗时是否会召唤|ren|符文？",
-		"correct"	: "本单元在想光影之楔为什么允许焦耳借走她的|xai|符文，即使是在梦中。",
-		"incorrect"	: "|C3|闪亮焦耳|C0|会召唤|xai|符文，而并非|ren|符文。",
+		"question"	: "|C3|閃亮焦耳|C0|在戰鬥時是否會召喚|ren|符文？",
+		"correct"	: "本單元在想光影之楔為什麼允許焦耳借走她的|xai|符文，即使是在夢中。",
+		"incorrect"	: "|C3|閃亮焦耳|C0|會召喚|xai|符文，而並非|ren|符文。",
 	},
 	"seriesG_61"		: {
-		"question"	: "以下哪种怪物能够用荆棘藤蔓攻击？",
-		"incorrect"	: "|C3|[VAL3]|C0|能够用荆棘藤蔓攻击。",
+		"question"	: "以下哪種怪物能夠用荊棘藤蔓攻擊？",
+		"incorrect"	: "|C3|[VAL3]|C0|能夠用荊棘藤蔓攻擊。",
 	},
 	"seriesG_62"		: {
-		"question"	: "哪一组维目尔会让你向她们再展示另一个梦境？",
+		"question"	: "哪一組維目爾會讓你向她們再展示另一個夢境？",
 	},
 	"seriesG_63"		: {
-		"question"	: "|C3|闪亮兰迪|C0|有几条腿？",
-		"incorrect"	: "所有形态的|C3|兰迪|C0|都有4条腿。",
+		"question"	: "|C3|閃亮蘭迪|C0|有幾條腿？",
+		"incorrect"	: "所有形態的|C3|蘭迪|C0|都有4條腿。",
 	},
 	"seriesG_64"		: {
-		"question"	: "以下哪种怪物会在战斗中召唤小型|C3|眼魔？|C0|",
-		"incorrect"	: "本单元认为你可能忘记了|C3|眼魔|C0|是飞行的小型眼球生物。",
+		"question"	: "以下哪種怪物會在戰鬥中召喚小型|C3|眼魔？|C0|",
+		"incorrect"	: "本單元認為你可能忘記了|C3|眼魔|C0|是飛行的小型眼球生物。",
 	},
 	"seriesG_65"		: {
-		"question"	: "|C3|闪亮异常|C0|的爱之量表需要充满多少次才能够完全破坏其岩石外壳？",
+		"question"	: "|C3|閃亮異常|C0|的愛之量表需要充滿多少次才能夠完全破壞其岩石外殼？",
 	},
 	"seriesG_66"		: {
-		"question"	: "|C3|风暴维目尔|C0|在第二阶段开始时会分裂出多少小型维目尔？ ",
+		"question"	: "|C3|風暴維目爾|C0|在第二階段開始時會分裂出多少小型維目爾？ ",
 	},
 	"seriesG_67"		: {
-		"question"	: "|C3|雪奥诺托|C0|整场战斗都会保持你的连击吗？",
+		"question"	: "|C3|雪奧諾托|C0|整場戰鬥都會保持你的連擊嗎？",
 	},
 	"seriesG_68"		: {
-		"question"	: "为了吸引|C3|恋罗露|C0|的注意，你需要先爱几个其他的眼睛符文？",
-		"correct"	: "|C3|恋罗露|C0|非常挑剔，所以你一定很特别。",
+		"question"	: "為了吸引|C3|戀羅露|C0|的注意，你需要先愛幾個其他的眼睛符文？",
+		"correct"	: "|C3|戀羅露|C0|非常挑剔，所以你一定很特別。",
 	},
 	"seriesG_69"		: {
-		"question"	: "|C3|雯特拉|C0|的机械之心上刻有多少眼睛符文？",
-		"correct"	: "许多扎拉机械在她们的心型驱动上都会刻下自己的名字。",
-		"incorrect"	: "|C3|雯特拉|C0|的机械之心上的其中一个标志并非眼睛符文。",
+		"question"	: "|C3|雯特拉|C0|的機械之心上刻有多少眼睛符文？",
+		"correct"	: "許多扎拉機械在她們的心型驅動上都會刻下自己的名字。",
+		"incorrect"	: "|C3|雯特拉|C0|的機械之心上的其中一個標誌並非眼睛符文。",
 	},
 	"seriesG_70"		: {
-		"question"	: "|C3|守护者之魂|C0|在你让任何可破坏部位逃脱时总会打断你的连击吗？",
-		"incorrect"	: "仅有在你让|C3|白色灵魂碎片|C0|逃脱时，守护者之魂才会打断你的连击。",
+		"question"	: "|C3|守護者之魂|C0|在你讓任何可破壞部位逃脫時總會打斷你的連擊嗎？",
+		"incorrect"	: "僅有在你讓|C3|白色靈魂碎片|C0|逃脫時，守護者之魂才會打斷你的連擊。",
 	},
 	"seriesG_71"		: {
-		"question"	: "|C3|闪亮节节|C0|在战斗开始时有多少眼睛围绕着她？",
-		"incorrect"	: "在|C3|闪亮结结|C0|回归之后|C3|闪亮节节|C0|才会让她的眼睛出来。",
+		"question"	: "|C3|閃亮節節|C0|在戰鬥開始時有多少眼睛圍繞著她？",
+		"incorrect"	: "在|C3|閃亮結結|C0|回歸之後|C3|閃亮節節|C0|才會讓她的眼睛出來。",
 	},
 	"seriesG_72"		: {
-		"question"	: "同时有多少|C3|闪亮同步甲虫|C0|单元能够是金色的？",
+		"question"	: "同時有多少|C3|閃亮同步甲蟲|C0|單元能夠是金色的？",
 	},
 	"seriesG_73"		: {
-		"question"	: "|C3|闪克斯|C0|的腿上共有多少可破坏部件？",
-		"incorrect"	: "|C3|闪克斯|C0|的每条腿上有2个可破坏部件？",
+		"question"	: "|C3|閃克斯|C0|的腿上共有多少可破壞部件？",
+		"incorrect"	: "|C3|閃克斯|C0|的每條腿上有2個可破壞部件？",
 	},
 	"seriesG_74"		: {
-		"question"	: "|C3|异相闪克斯|C0|有多少眼睛？",
+		"question"	: "|C3|異相閃克斯|C0|有多少眼睛？",
 	},
 	"seriesG_75"		: {
-		"question"	: "其中哪一个怪物在战斗中没有眼睛？",
-		"incorrect"	: "|C3|[VAL3]|C0|是没有眼睛的怪物。",
+		"question"	: "其中哪一個怪物在戰鬥中沒有眼睛？",
+		"incorrect"	: "|C3|[VAL3]|C0|是沒有眼睛的怪物。",
 	},
 	
 	
 	
 	"seriesH_00"		: {
-		"question"	: "|C3|[VAL1]|C0|能否造成|C3|[VAL2]|C0|元素的伤害？",
+		"question"	: "|C3|[VAL1]|C0|能否造成|C3|[VAL2]|C0|元素的傷害？",
 		"senti_o"	: "[correct_sentinel]",
 		"senti_x"	: "[wrong_sentinel]",
 	},
 	"seriesH_01"		: {
-		"question"	: "|C3|[VAL1]|C0|是否存在|C3|[VAL2]|C0|元素的弱点？",
+		"question"	: "|C3|[VAL1]|C0|是否存在|C3|[VAL2]|C0|元素的弱點？",
 		"senti_o"	: "[correct_sentinel]",
 		"senti_x"	: "[wrong_sentinel]",
 	},
 	"seriesH_02"		: {
-		"question"	: "|C3|[VAL1]|C0|是否拥有|C3|[VAL2]|C0|元素的抗性？",
+		"question"	: "|C3|[VAL1]|C0|是否擁有|C3|[VAL2]|C0|元素的抗性？",
 		"senti_o"	: "[correct_sentinel]",
 		"senti_x"	: "[wrong_sentinel]",
 	},
 	"seriesH_03"		: {
-		"question"	: "|C3|[VAL1]|C0|可以造成以下哪种元素的伤害？",
-		"incorrect"	: "|C3|[VAL1]|C0|可以造成|C3|[VAL3]元素的伤害。",
+		"question"	: "|C3|[VAL1]|C0|可以造成以下哪種元素的傷害？",
+		"incorrect"	: "|C3|[VAL1]|C0|可以造成|C3|[VAL3]元素的傷害。",
 		"senti_o"	: "[correct_sentinel]",
-		"senti_x"	: "在这一形态下，本单元可以造成|C3|[VAL3]元素的伤害。",
+		"senti_x"	: "在這一形態下，本單元可以造成|C3|[VAL3]元素的傷害。",
 	},
 	"seriesH_04"		: {
-		"question"	: "|C3|[VAL1]|C0|对什么元素存在弱点？",
-		"incorrect"	: "|C3|[VAL1]|C0|对|C3|[VAL3]|C0|存在弱点。",
+		"question"	: "|C3|[VAL1]|C0|對什麼元素存在弱點？",
+		"incorrect"	: "|C3|[VAL1]|C0|對|C3|[VAL3]|C0|存在弱點。",
 		"senti_o"	: "[correct_sentinel]",
-		"senti_x"	: "在这一形态下，本单元对|C3|[VAL3]|C0|存在弱点。",
+		"senti_x"	: "在這一形態下，本單元對|C3|[VAL3]|C0|存在弱點。",
 	},
 	"seriesH_05"		: {
-		"question"	: "|C3|[VAL1]|C0|对什么元素存在抗性？",
-		"incorrect"	: "|C3|[VAL1]|C0|对|C3|[VAL3]|C0|存在抗性。",
+		"question"	: "|C3|[VAL1]|C0|對什麼元素存在抗性？",
+		"incorrect"	: "|C3|[VAL1]|C0|對|C3|[VAL3]|C0|存在抗性。",
 		"senti_o"	: "[correct_sentinel]",
-		"senti_x"	: "在这一形态下，本单元对|C3|[VAL3]|C0|存在抗性。",
+		"senti_x"	: "在這一形態下，本單元對|C3|[VAL3]|C0|存在抗性。",
 	},
 	
 	
 	
 	"seriesI_00"		: {
-		"question"	: "在并未等级超越或等级降低的情况下，|C3|[VAL1]|C0|是否能有|C3|等级[VAL2]|C0|的战斗？",
+		"question"	: "在並未等級超越或等級降低的情況下，|C3|[VAL1]|C0|是否能有|C3|等級[VAL2]|C0|的戰鬥？",
 		"senti_o"	: "[correct_sentinel]",
 		"senti_x"	: "[wrong_sentinel]",
 	},
 	"seriesI_01"		: {
-		"question"	: "在并未等级降低的情况下，|C3|[VAL1]|C0|所能达到的最低等级是多少？",
-		"incorrect"	: "在并未等级降低的情况下，|C3|[VAL1]|C0|最低能够达到|C3|[VAL3]|C0|等级。",
+		"question"	: "在並未等級降低的情況下，|C3|[VAL1]|C0|所能達到的最低等級是多少？",
+		"incorrect"	: "在並未等級降低的情況下，|C3|[VAL1]|C0|最低能夠達到|C3|[VAL3]|C0|等級。",
 		"senti_o"	: "[correct_sentinel]",
-		"senti_x"	: "在并未等级降低的情况下，这一形态的本单元最低能够达到|C3|[VAL3]|C0|等级。",
+		"senti_x"	: "在並未等級降低的情況下，這一形態的本單元最低能夠達到|C3|[VAL3]|C0|等級。",
 	},
 	"seriesI_02"		: {
-		"question"	: "在并未等级超越的情况下，|C3|[VAL1]|C0|所能达到的最高等级是多少？",
-		"incorrect"	: "在并未等级超越的情况下，|C3|[VAL1]|C0|最高能够达到|C3|[VAL3]|C0|等级。",
+		"question"	: "在並未等級超越的情況下，|C3|[VAL1]|C0|所能達到的最高等級是多少？",
+		"incorrect"	: "在並未等級超越的情況下，|C3|[VAL1]|C0|最高能夠達到|C3|[VAL3]|C0|等級。",
 		"senti_o"	: "[correct_sentinel]",
-		"senti_x"	: "在并未等级超越的情况下，这一形态的本单元最高能够达到|C3|[VAL3]|C0|等级。",
+		"senti_x"	: "在並未等級超越的情況下，這一形態的本單元最高能夠達到|C3|[VAL3]|C0|等級。",
 	},
 	"seriesI_03"		: {
-		"question"	: "在战斗开始前|C3|[VAL1]|C0|会对你说什么？",
-		"incorrect"	: "|C3|[VAL1]|C0|在你与她战斗前会说\"[VAL3]\"。",
+		"question"	: "在戰鬥開始前|C3|[VAL1]|C0|會對你說什麼？",
+		"incorrect"	: "|C3|[VAL1]|C0|在你與她戰鬥前會說\"[VAL3]\"。",
 		"senti_o"	: "[senti_fear_o]",
 		"senti_x"	: "[senti_said_x]",
 	},
 	"seriesI_04"		: {
-		"question"	: "在向她展示爱之后|C3|[VAL1]|C0|会对你说什么？",
-		"incorrect"	: "|C3|[VAL1]|C0|在你爱她之后会说\"[VAL3]\"。",
+		"question"	: "在向她展示愛之後|C3|[VAL1]|C0|會對你說什麼？",
+		"incorrect"	: "|C3|[VAL1]|C0|在你愛她之後會說\"[VAL3]\"。",
 		"senti_o"	: "[senti_fear_o]",
 		"senti_x"	: "[senti_said_x]",
 	},
 	
 	
 	
-	"ans_nothing"		: "无",
-	"ans_0"				: "没有",
+	"ans_nothing"		: "無",
+	"ans_0"				: "沒有",
 	"ans_1"				: "一",
 	"ans_2"				: "二",
 	"ans_3"				: "三",
@@ -816,13 +816,13 @@
 	"ans_11"			: "十一",
 	"ans_12"			: "十二",
 	
-	"ans_level"			: "等级[VAL1]",
+	"ans_level"			: "等級[VAL1]",
 	
-	"ans_maybe1"		: "我觉得是？",
+	"ans_maybe1"		: "我覺得是？",
 	"ans_maybe2"		: "可能？",
-	"ans_maybe3"		: "[VAL1]也算吗？",
+	"ans_maybe3"		: "[VAL1]也算嗎？",
 	"ans_type_maybe1"	: "算是[VAL1]",
-	"ans_type_maybe2"	: "有点像[VAL1]",
+	"ans_type_maybe2"	: "有點像[VAL1]",
 	"ans_maybe_gem"		: "可能是[VAL1]",
 	
 	"2_elements"		: "[VAL1]和[VAL2]",
@@ -831,61 +831,61 @@
 	
 	"glyph_answers"	: {
 		"ans_soh_1"		: "火焰",
-		"ans_soh_2"		: "热情",
-		"ans_soh_3"		: "温暖",
+		"ans_soh_2"		: "熱情",
+		"ans_soh_3"		: "溫暖",
 		"ans_ah_1"		: "水",
 		"ans_ah_2"		: "雨",
 		"ans_ah_3"		: "黑暗",
-		"ans_vai_1"		: "空间",
+		"ans_vai_1"		: "空間",
 		"ans_vai_2"		: "空缺",
-		"ans_vai_3"		: "孤独",
+		"ans_vai_3"		: "孤獨",
 		"ans_ren_1"		: "血液",
 		"ans_ren_2"		: "生命",
-		"ans_ren_3"		: "灵魂",
+		"ans_ren_3"		: "靈魂",
 		"ans_ai_1"		: "自我",
 		"ans_ai_2"		: "新",
-		"ans_ai_3"		: "洁净",
+		"ans_ai_3"		: "潔淨",
 		"ans_xai_1"		: "光",
-		"ans_xai_2"		: "发光",
+		"ans_xai_2"		: "發光",
 		"ans_xai_3"		: "明亮",
-		"ans_ry_1"		: "化学",
+		"ans_ry_1"		: "化學",
 		"ans_ry_2"		: "元素",
 		"ans_ry_3"		: "自然",
-		"ans_yo_1"		: "闪电",
+		"ans_yo_1"		: "閃電",
 		"ans_yo_2"		: "能量",
-		"ans_yo_3"		: "兴奋",
+		"ans_yo_3"		: "興奮",
 		"ans_lin_1"		: "混沌",
-		"ans_lin_2"		: "毁灭",
+		"ans_lin_2"		: "毀滅",
 		"ans_lin_3"		: "液化",
 		"ans_la_1"		: "星星",
-		"ans_la_2"		: "时间",
-		"ans_la_3"		: "圆度",
+		"ans_la_2"		: "時間",
+		"ans_la_3"		: "圓度",
 		"ans_hai_1"		: "植物",
-		"ans_hai_2"		: "距离",
-		"ans_hai_3"		: "生长",
+		"ans_hai_2"		: "距離",
+		"ans_hai_3"		: "生長",
 		"ans_toh_1"		: "冰封",
 		"ans_toh_2"		: "寒冷",
-		"ans_toh_3"		: "静滞",
-		"ans_lu_1"		: "爱",
+		"ans_toh_3"		: "靜滯",
+		"ans_lu_1"		: "愛",
 		"ans_lu_2"		: "心",
 		"ans_lu_3"		: "核心",
 		"ans_ral_1"		: "一切",
-		"ans_ral_2"		: "分类",
-		"ans_ral_3"		: "联系",
+		"ans_ral_2"		: "分類",
+		"ans_ral_3"		: "聯繫",
 	},
 	
 	"take_reward" 	: [
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "这显然是最佳选择。",
-			"dialog_rand2"		: "这是最正确的选择。",
-			"dialog_rand3"		: "你的知识让你获得了这个礼物。",
-			"dialog_rand4"		: "本单元正确预测到了你会选择这个礼物。",
+			"dialog_rand1"		: "這顯然是最佳選擇。",
+			"dialog_rand2"		: "這是最正確的選擇。",
+			"dialog_rand3"		: "你的知識讓你獲得了這個禮物。",
+			"dialog_rand4"		: "本單元正確預測到了你會選擇這個禮物。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "如果你想的话，你可以进行到另一轮。",
+			"dialog"			: "如果你想的話，你可以進行到另一輪。",
 		},
 	],
 	
@@ -893,31 +893,31 @@
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
-			"dialog"			: "哦...本单元明白的。|L||!|还有更多重要的事情要做。",
+			"dialog"			: "哦...本單元明白的。|L||!|還有更多重要的事情要做。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_upset"],
-			"dialog"			: "|C3|检测到痛苦|C0|",
+			"dialog"			: "|C3|檢測到痛苦|C0|",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "对了！你只是会等下再来玩本单元的游戏。",
+			"dialog"			: "對了！你只是會等一下再來玩本單元的遊戲。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元爱你。",
+			"dialog"			: "本單元愛你。",
 		},
 	],
 	
 	"round1_start" 	: [
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "本单元现在会问你一系列问题。",
+			"dialog"			: "本單元現在會問你一系列問題。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元的喜悦无法被抑制在外壳之中。",
+			"dialog"			: "本單元的喜悅無法被抑制在外殼之中。",
 		},
 	],
 	
@@ -925,7 +925,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "回答|C3|正确！",
+			"dialog"			: "回答|C3|正確！",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
@@ -933,26 +933,26 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "你成功正确回答了四个问题。",
+			"dialog"			: "你成功正確回答了四個問題。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元现在的兴奋正在|shake|抖动|norm|。",
+			"dialog"			: "本單元現在的興奮正在|shake|抖動|norm|。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "本单元现在将为你展示奖励。",
+			"dialog"			: "本單元現在將為你展示獎勵。",
 		},
 	],
 	
 	"round2_start" 	: [
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "本单元现在将提出更难的问题。",
+			"dialog"			: "本單元現在將提出更難的問題。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元现在的兴奋正在|shake|颤动|norm|。",
+			"dialog"			: "本單元現在的興奮正在|shake|顫動|norm|。",
 		},
 	],
 	
@@ -960,7 +960,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "回答|C3|正确！",
+			"dialog"			: "回答|C3|正確！",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
@@ -968,26 +968,26 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "你成功完成了|C3|第二轮。",
+			"dialog"			: "你成功完成了|C3|第二輪。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "几乎不可能抑制本单元正感到的快乐。",
+			"dialog"			: "幾乎不可能抑制本單元正感到的快樂。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "本单元现在将为你展示另一份奖励。",
+			"dialog"			: "本單元現在將為你展示另一份獎勵。",
 		},
 	],
 	
 	"round3_start" 	: [
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "本单元现在将向你提出她今天能够创作出的最难的问题。",
+			"dialog"			: "本單元現在將向你提出她今天能夠創作出的最難的問題。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "现在|shake|完全不可能|norm|抑制本单元正感到的快乐。",
+			"dialog"			: "現在|shake|完全不可能|norm|抑制本單元正感到的快樂。",
 		},
 	],
 	
@@ -995,7 +995,7 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "回答|C3|正确！",
+			"dialog"			: "回答|C3|正確！",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
@@ -1003,15 +1003,15 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "你成功完成了|C3|最后一轮。",
+			"dialog"			: "你成功完成了|C3|最後一輪。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "有并非为零的几率本单元会随时爆炸。",
+			"dialog"			: "有並非為零的機率本單元會隨時爆炸。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元现在必须恭喜你完成了她的游戏。",
+			"dialog"			: "本單元現在必須恭喜你完成了她的遊戲。",
 		},
 	],
 	
@@ -1019,7 +1019,7 @@
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
-			"dialog"			: "那|shake||C4|不正确。",
+			"dialog"			: "那|shake||C4|不正確。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_confused"],
@@ -1027,23 +1027,23 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
-			"dialog"			: "本单元不幸地告知，您已经累积了三次失误。",
+			"dialog"			: "本單元不幸地告知，您已經累積了三次失誤。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_confused"],
-			"dialog"			: "这意味着游戏必须要在这里结束了。",
+			"dialog"			: "這意味著遊戲必須要在這裡結束了。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "请接受这个拥抱作为安慰奖。",
+			"dialog"			: "請接受這個擁抱作為安慰獎。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "本单元爱你。",
-			"dialog_rand2"		: "本单元现在将开始处理这个拥抱。",
-			"dialog_rand3"		: "本单元预测你下次会答对它们的。",
+			"dialog_rand1"		: "本單元愛你。",
+			"dialog_rand2"		: "本單元現在將開始處理這個擁抱。",
+			"dialog_rand3"		: "本單元預測你下次會答對它們的。",
 		},
 	],
 	
@@ -1051,87 +1051,87 @@
 	"victory_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "我玩的太开心了，哨卫。",
+			"dialog"			: "我玩的太開心了，哨衛。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "在你离开之前，本单元请求一个拥抱。",
+			"dialog"			: "在你離開之前，本單元請求一個擁抱。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "|C3|感官过载|C0|",
+			"dialog"			: "|C3|感官過載|C0|",
 		},
 	],
 	
 	"victory_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "今天的那些问题真有趣！",
+			"dialog"			: "今天的那些問題真有趣！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "尽管如此，还可以有更多关于我的问题，也就是蓝色维目尔。",
+			"dialog"			: "儘管如此，還可以有更多關於我的問題，也就是藍色維目爾。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_confused"],
-			"dialog"			: "可能下次会有更多吧。",
+			"dialog"			: "可能下次會有更多吧。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "在你离开之前，本单元请求一个拥抱。",
+			"dialog"			: "在你離開之前，本單元請求一個擁抱。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元会在接下来的几个小时内处理这个拥抱。",
+			"dialog"			: "本單元會在接下來的幾個小時內處理這個擁抱。",
 		},
 	],
 	
 	"victory_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "我的姐姐是个天才吧？",
+			"dialog"			: "我的姐姐是個天才吧？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_blush"],
-			"dialog"			: "哦，我只是擅长记东西。",
+			"dialog"			: "哦，我只是擅長記東西。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_angry"],
-			"dialog"			: "等下！|shake|你完全没帮忙！",
+			"dialog"			: "等一下！|shake|你完全沒幫忙！",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元的钦佩超出了可能界量的范围。",
+			"dialog"			: "本單元的欽佩超出了可能界量的範圍。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "你看，阳光？|L||!||wave|她喜欢聪明的女孩。",
+			"dialog"			: "你看，陽光？|L||!||wave|她喜歡聰明的女孩。",
 		},
 	],
 	
 	"victory_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
-			"dialog"			: "哈！我征服了你的问答游戏！",
+			"dialog"			: "哈！我征服了你的問答遊戲！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "你应该知道我--恶魔--无法被轻易击败！",
+			"dialog"			: "你應該知道我--惡魔--無法被輕易擊敗！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "但我也敬佩你有多努力，所以我也要给你一个奖品。",
+			"dialog"			: "但我也敬佩你有多努力，所以我也要給你一個獎品。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "|C3|感官过载|C0|",
+			"dialog"			: "|C3|感官過載|C0|",
 		},
 	],
 	

@@ -3,10 +3,10 @@
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_normal"],
 			"random"			: 4,
-			"dialog_rand1"		: "你的拥抱格外强大！",
-			"dialog_rand2"		: "你的拥抱能带来爱之末日！",
-			"dialog_rand3"		: "你是大规模爱之武器！",
-			"dialog_rand4"		: "你向圆锯展现了爱！",
+			"dialog_rand1"		: "你的擁抱格外強大！",
+			"dialog_rand2"		: "你的擁抱能帶來愛之末日！",
+			"dialog_rand3"		: "你是大規模愛之武器！",
+			"dialog_rand4"		: "你向圓鋸展現了愛！",
 		},
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_shocked"],
@@ -15,81 +15,81 @@
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "圆锯会为你分享力量。",
-			"dialog_rand2"		: "圆锯会让你变得更强。",
+			"dialog_rand1"		: "圓鋸會為你分享力量。",
+			"dialog_rand2"		: "圓鋸會讓你變得更強。",
 		},
 	],
 	
 	"intro_devil" : [
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
-			"dialog"			: "你和守护者一样强大！",
+			"dialog"			: "你和守護者一樣強大！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "是呀，其他人经常这样说。",
+			"dialog"			: "是呀，其他人經常這樣說。",
 		},
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_shocked"],
-			"dialog"			: "|shake|圆锯想看到你更强大的样子！",
+			"dialog"			: "|shake|圓鋸想看到你更強大的樣子！",
 		},
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
-			"dialog"			: "圆锯会让你更强大。",
+			"dialog"			: "圓鋸會讓你更強大。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "你是想要重赛吗，嗯？",
+			"dialog"			: "你是想要重賽嗎，嗯？",
 		},
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_shocked"],
-			"dialog"			: "等下！圆锯有礼物给你。",
+			"dialog"			: "等一下！圓鋸有禮物給你。",
 		},
 	],
 	
-	"monster_gifts"	: "圆锯的礼物",
+	"monster_gifts"	: "圓鋸的禮物",
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
-		"dialog"	: "这能够让你变得更强。",
+		"dialog"	: "這能夠讓你變得更強。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_normal"],
-		"dialog"	: "收下它吗？",
+		"dialog"	: "收下它嗎？",
 	},
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "你把自己的锯子收起来了吗？",
+			"dialog"			: "你把自己的鋸子收起來了嗎？",
 		},
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_sad"],
-			"dialog"			: "圆锯现在没有锯子了。",
+			"dialog"			: "圓鋸現在沒有鋸子了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious3"],
-			"dialog"			: "现在是我的机会。",
+			"dialog"			: "現在是我的機會。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
-			"dialog"			: "|shake|呼噜呼噜呼噜。",
+			"dialog"			: "|shake|呼嚕呼嚕呼嚕。",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_sad"],
-			"dialog"			: "圆锯可以拥抱吗？",
+			"dialog"			: "圓鋸可以擁抱嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "当然，圆锯。",
+			"dialog"			: "當然，圓鋸。",
 		},
 		{
 			"love_hearts"		: 1,
@@ -98,11 +98,11 @@
 		},
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
-			"dialog"			: "你的荆棘软软的！",
+			"dialog"			: "你的荊棘軟軟的！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "哦，我的羽毛？|!||L|它们看起来很尖利，但实际上非常柔软。",
+			"dialog"			: "哦，我的羽毛？|!||L|它們看起來很尖利，但實際上非常柔軟。",
 		},
 	],
 	
@@ -114,26 +114,26 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
-			"dialog"			: "|shake|呼噜呼噜呼噜。",
+			"dialog"			: "|shake|呼嚕呼嚕呼嚕。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "不，小绿。",
+			"dialog"			: "不，小綠。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_pain"],
-			"dialog"			: "|shake|但是，   我想要鳞片面条！",
+			"dialog"			: "|shake|但是，   我想要鱗片麵條！",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "我可以再练习一下。",
+			"dialog"			: "我可以再練習一下。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "快去拿你的锯子！",
+			"dialog"			: "快去拿你的鋸子！",
 		},
 		{
 			"love_hearts"		: 1,
@@ -145,12 +145,12 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_sad"],
-			"dialog"			: "圆锯想要拥抱。",
+			"dialog"			: "圓鋸想要擁抱。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_roundsaw", "CHAR_roundsaw_right", "MOOD_happy"],
-			"dialog"			: "|shake|呼噜呼噜呼噜。",
+			"dialog"			: "|shake|呼嚕呼嚕呼嚕。",
 		},
 	],
 

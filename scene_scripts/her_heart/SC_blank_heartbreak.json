@@ -12,18 +12,18 @@
 			"dialog"			: "|C1|她的心碎裂了。",
 		},
 		{
-			"dialog"			: "|C1|但这并非是第一次。",
+			"dialog"			: "|C1|但這並非是第一次。",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|它的上面有着这么多裂痕。",
+			"dialog"			: "|C2||shake|它的上面有著這麼多裂痕。",
 		},
 		{
-			"dialog"			: "|C2||shake|没有人能够去爱如此丑陋的心",
+			"dialog"			: "|C2||shake|沒有人能夠去愛如此醜陋的心",
 		},
 		{
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|但是她会再次修复这颗心的。",
+			"dialog"			: "|C1|但是她會再次修復這顆心的。",
 		},
 		{
 			"dialog"			: "|C1|她一向如此。",

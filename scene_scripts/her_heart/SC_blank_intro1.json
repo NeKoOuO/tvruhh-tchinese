@@ -9,67 +9,67 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_blank_intro1_1",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|这是一位年幼扎拉登女性的故事。",
+			"dialog"			: "|C1|這是一位年幼扎拉登女性的故事。",
 		},
 		{
-			"dialog"			: "|C1|她住在某个远离其他人的洞窟里。",
+			"dialog"			: "|C1|她住在某個遠離其他人的洞窟裡。",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|她如此苍白与丑陋。",
+			"dialog"			: "|C2||shake|她如此蒼白與醜陋。",
 		},
 		{
-			"dialog"			: "|C2||shake|没有人爱她。",
+			"dialog"			: "|C2||shake|沒有人愛她。",
 		},
 		{
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|她独自一人。",
+			"dialog"			: "|C1|她獨自一人。",
 		},
 		{
 			"bg_image"			: "spr_blank_intro1_2",
-			"dialog"			: "|C1|除了怪物们。",
+			"dialog"			: "|C1|除了怪物們。",
 		},
 		{
-			"dialog"			: "|C1|她无法离开她的洞窟太久。",
+			"dialog"			: "|C1|她無法離開她的洞窟太久。",
 		},
 		{
-			"dialog"			: "|C1|怪物们会找到她的。",
+			"dialog"			: "|C1|怪物們會找到她的。",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|她只配活在那洞里。",
+			"dialog"			: "|C2||shake|她只配活在那洞裡。",
 		},
 		{
 			"bg_image"			: "spr_blank_intro1_3",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|她无法逃离。",
+			"dialog"			: "|C1|她無法逃離。",
 		},
 		{
-			"dialog"			: "|C1|她想要飞走，但是...",
+			"dialog"			: "|C1|她想要飛走，但是...",
 		},
 		{
 			"voice"				: "VOICE_red",
-			"dialog"			: "|C2||shake|她畸形的翅膀一无是处。",
+			"dialog"			: "|C2||shake|她畸形的翅膀一無是處。",
 		},
 		{
-			"dialog"			: "|C2||shake|她就该早点放弃。",
+			"dialog"			: "|C2||shake|她就該早點放棄。",
 		},
 		{
 			"bg_image"			: "spr_blank_intro1_4",
 			"voice"				: "VOICE_blue",
-			"dialog"			: "|C1|但是她不会放弃。",
+			"dialog"			: "|C1|但是她不會放棄。",
 		},
 		{
-			"dialog"			: "|C1|她已经找到了最终极的力量。",
+			"dialog"			: "|C1|她已經找到了最終極的力量。",
 		},
 		{
 			"text_x"			: 144,
 			"text_w"			: 256,
 			"bg_image"			: "spr_blank_intro1_5",
-			"dialog"			: "|C1||wave|她可以去爱那些怪物们。",
+			"dialog"			: "|C1||wave|她可以去愛那些怪物們。",
 		},
 		{
-			"dialog"			: "|C1||wave|她也可以帮助她们去理解爱！",
+			"dialog"			: "|C1||wave|她也可以幫助她們去理解愛！",
 		},
 		{
 			"play_music"		: "silence",

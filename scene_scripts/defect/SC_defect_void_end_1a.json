@@ -5,7 +5,7 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_scene_darkness",
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "你为何抵抗？",
+			"dialog"			: "你為何抵抗？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
@@ -13,11 +13,11 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "一切都没事了。|L||!|你并非独自一人。|L||!|我在这里，和你一起。",
+			"dialog"			: "一切都沒事了。|L||!|你並非獨自一人。|L||!|我在這裡，和你一起。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "来吧,      和我一起成为虚无。",
+			"dialog"			: "來吧,      和我一起成為虛無。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
@@ -29,7 +29,7 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "你已经走了这么长的路。|L||!|你想要化为空无吗？",
+			"dialog"			: "你已經走了這麼長的路。|L||!|你想要化為空無嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_pain"],
@@ -37,11 +37,11 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
-			"dialog"			: "不,      我不想要那样。",
+			"dialog"			: "不,      我不想要那樣。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "那么    你为什么在这里？",
+			"dialog"			: "那麼    你為什麼在這裡？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
@@ -49,15 +49,15 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "你身处痛苦之中。    我知道的。|L||!|所有人来找我都只有这个原因。",
+			"dialog"			: "你身處痛苦之中。    我知道的。|L||!|所有人來找我都只有這個原因。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry1"],
-			"dialog"			: "或许有一点,    但这并非我的理由...",
+			"dialog"			: "或許有一點,    但這並非我的理由...",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "|shake|你很孤独。",
+			"dialog"			: "|shake|你很孤獨。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry2"],
@@ -66,23 +66,23 @@
 		{
 			"play_music"		: "nightmare_music_c",
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
-			"dialog"			: "|C2||shake|没人爱你！",
+			"dialog"			: "|C2||shake|沒人愛你！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry3"],
-			"dialog"			: "不是这样的！    |shake|停下！",
+			"dialog"			: "不是這樣的！    |shake|停下！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_smile"],
-			"dialog"			: "|C2||shake|就是这样！",
+			"dialog"			: "|C2||shake|就是這樣！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2||shake|你是个怪物！",
+			"dialog"			: "|C2||shake|你是個怪物！",
 		},
 		{
 			"character"			: ["VOICE_totaria", "CHAR_totaria_right", "MOOD_angry"],
-			"dialog"			: "|C2||shake|你被留在这里去死！",
+			"dialog"			: "|C2||shake|你被留在這裡去死！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry3"],

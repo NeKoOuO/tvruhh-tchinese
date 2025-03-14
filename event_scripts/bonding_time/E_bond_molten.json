@@ -2,174 +2,174 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "来加入我们。",
+			"dialog"			: "來加入我們。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|我们要一起做汤！",
+			"dialog"			: "|wave|我們要一起做湯！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
 			"random"			: 3,
-			"dialog_rand1"		: "|shake|汤！汤！汤！汤！",
-			"dialog_rand2"		: "我们爱汤！  |L|我们爱汤！",
-			"dialog_rand3"		: "我们迫切的需要   |shake|汤！",
+			"dialog_rand1"		: "|shake|湯！湯！湯！湯！",
+			"dialog_rand2"		: "我們愛湯！  |L|我們愛湯！",
+			"dialog_rand3"		: "我們迫切的需要   |shake|湯！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "但是，我们或许可以用一些更好的原料。",
+			"dialog"			: "但是，我們或許可以用一些更好的原料。",
 		},
 	],
 	
 	"item_title"		: "原料",
 	"monster_stuff"		: "熔融的[VAL1]",
 	
-	"op_outside"	: "在外面寻找",
-	"op_ask_where"	: "我们要去哪里找呢？",
-	"op_storage"	: "检查储藏室",
-	"op_ask_game"	: "玩一局游戏？",
-	"op_game_blink"	: "玩维目尔闪烁",
-	"op_game_peek"	: "玩维目尔窥视",
-	"op_game_swap"	: "玩维目尔交换",
-	"op_devil"		: "恶魔交易",
-	"op_warm_up"	: "加热",
-	"op_cool_off"	: "冷却",
+	"op_outside"	: "在外面尋找",
+	"op_ask_where"	: "我們要去哪裡找呢？",
+	"op_storage"	: "檢查儲藏室",
+	"op_ask_game"	: "玩一局遊戲？",
+	"op_game_blink"	: "玩維目爾閃爍",
+	"op_game_peek"	: "玩維目爾窺視",
+	"op_game_swap"	: "玩維目爾交換",
+	"op_devil"		: "惡魔交易",
+	"op_warm_up"	: "加熱",
+	"op_cool_off"	: "冷卻",
 	"op_sleep"		: "小睡一下",
 	
-	"op_picking"	: "检查树林里",
-	"op_jumping"	: "检查石头里",
-	"op_dodge"		: "检查树顶",
+	"op_picking"	: "檢查樹林裡",
+	"op_jumping"	: "檢查石頭裡",
+	"op_dodge"		: "檢查樹頂",
 	"op_return"		: "回去",
 	
-	"item_t0"		: "|I3||C16|简单原料|C0|",
+	"item_t0"		: "|I3||C16|簡單原料|C0|",
 	"item_t1"		: "|I4||C17|美好原料|C0|",
 	"item_t2"		: "|I5||C18|奇妙原料|C0|",
 	
 	"main_comment_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-		"dialog"	: "我们需要更多原料。",
+		"dialog"	: "我們需要更多原料。",
 	},
 	"main_comment_returned"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "我们的原料永远不嫌多。",
+		"dialog"	: "我們的原料永遠不嫌多。",
 	},
 	"main_comment_outside"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-		"dialog"	: "我们应该去哪里找呢？",
+		"dialog"	: "我們應該去哪裡找呢？",
 	},
 	"main_comment_late"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-		"dialog"	: "我们可能应该等下再回来。",
+		"dialog"	: "我們可能應該等一下再回來。",
 	},
 	
 	"ask_where_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "你那里有什么？",
+			"dialog"			: "你那裡有什麼？",
 		},
 	],
 	"ask_where_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "那个房间里有什么好东西吗？",
+			"dialog"			: "那個房間裡有什麼好東西嗎？",
 		},
 	],
 	"ask_where_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "我希望你没把东西放进那个看起来很恐怖的房间里。",
+			"dialog"			: "我希望你沒把東西放進那個看起來很恐怖的房間裡。",
 		},
 	],
 	"ask_where_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "在那个看起来很正义的地下城里你放了什么？",
+			"dialog"			: "在那個看起來很正義的地下城裡你放了什麼？",
 		},
 	],
 	"ask_where_luck0" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "我觉得在储藏室地下城里应该没什么好东西。",
+			"dialog"			: "我覺得在儲藏室地下城裡應該沒什麼好東西。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我们可能还是去外面找吧。",
+			"dialog"			: "我們可能還是去外面找吧。",
 		},
 	],
 	"ask_where_luck1" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "储藏室地下城里可能有些东西，如果我记得我把东西放哪了的话。",
+			"dialog"			: "儲藏室地下城裡可能有些東西，如果我記得我把東西放哪了的話。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "但可能去外面找会更好一点。",
+			"dialog"			: "但可能去外面找會更好一點。",
 		},
 	],
 	"ask_where_luck2" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我确实记得在储藏室地下城里放了点好东西。",
+			"dialog"			: "我確實記得在儲藏室地下城裡放了點好東西。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "但我很不擅长整理。",
+			"dialog"			: "但我很不擅長整理。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "如果你想的话可以进去看看。",
+			"dialog"			: "如果你想的話可以進去看看。",
 		},
 	],
 	"ask_where_luck3" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "哦！我确实记得我在储藏室地下城里放了些非常好的东西！",
+			"dialog"			: "哦！我確實記得我在儲藏室地下城裡放了些非常好的東西！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我确信如果我们在里面深入寻找的话一定能找到的。",
+			"dialog"			: "我確信如果我們在裡面深入尋找的話一定能找到的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "无视掉里面的一团乱麻就好。",
+			"dialog"			: "無視掉裡面的一團亂麻就好。",
 		},
 	],
 	"ask_game" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我们藏了一些原料。",
+			"dialog"			: "我們藏了一些原料。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_angry"],
-			"dialog"			: "|shake|但我们需要那些来做汤！",
+			"dialog"			: "|shake|但我們需要那些來做湯！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|如果你赢得了我们的游戏，我们会把它们给你。",
+			"dialog"			: "|wave|如果你贏得了我們的遊戲，我們會把它們給你。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "真对不起。   她们平时就这样。",
+			"dialog"			: "真對不起。   她們平時就這樣。",
 		},
 	],
 	"to_vg_first" 				: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "你获胜的话我们会给你一个原料。",
+			"dialog"			: "你獲勝的話我們會給你一個原料。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|如果你玩了我们所有的游戏，我们会给你更多。",
+			"dialog"			: "|wave|如果你玩了我們所有的遊戲，我們會給你更多。",
 		},
 	],
 	"to_vg_first_defect" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "来加入我们，小蓝。",
+			"dialog"			: "來加入我們，小藍。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "看起来这是唯一的方式了，我的缺陷。",
+			"dialog"			: "看起來這是唯一的方式了，我的缺陷。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
@@ -180,59 +180,59 @@
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "|shake|为了汤！",
-			"dialog_rand2"		: "|shake|汤！汤！汤！",
-			"dialog_rand3"		: "我们的游戏会让汤尝起来更美味。",
-			"dialog_rand4"		: "是时候再来一轮了。",
+			"dialog_rand1"		: "|shake|為了湯！",
+			"dialog_rand2"		: "|shake|湯！湯！湯！",
+			"dialog_rand3"		: "我們的遊戲會讓湯嘗起來更美味。",
+			"dialog_rand4"		: "是時候再來一輪了。",
 		},
 	],
 	
 	"start_swap" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "追踪带有|C3|白色眼睛|C0|的维目尔，在我们移动后，选择正确的那个。",
+			"dialog"			: "追蹤帶有|C3|白色眼睛|C0|的維目爾，在我們移動後，選擇正確的那個。",
 		},
 	],
 	"start_blink" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "在我们张开眼睛时仔细观察，数一数你看到了多少[VAL1]。",
+			"dialog"			: "在我們張開眼睛時仔細觀察，數一數你看到了多少[VAL1]。",
 		},
 	],
 	"start_blink2" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这是一轮特殊的|C3|维目尔闪烁！|C0|",
+			"dialog"			: "這是一輪特殊的|C3|維目爾閃爍！|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "请试着记住你看到的所有颜色。|L|我们可能会问其中任何一个。",
+			"dialog"			: "請試著記住你看到的所有顏色。|L|我們可能會問其中任何一個。",
 		},
 	],
 	"start_peek" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我们从藏身处出来时仔细观察，数一数你看到了多少[VAL1]。",
+			"dialog"			: "我們從藏身處出來時仔細觀察，數一數你看到了多少[VAL1]。",
 		},
 	],
 	"start_peek2" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这是一轮特殊的|C3|维目尔窥视！|C0|",
+			"dialog"			: "這是一輪特殊的|C3|維目爾窺視！|C0|",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "试着记住你看到的所有颜色。|L|我们可能会问其中任何一个。",
+			"dialog"			: "試著記住你看到的所有顏色。|L|我們可能會問其中任何一個。",
 		},
 	],
 	
 	"comment_vg_swap_choose"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-		"dialog"	: "哪只维目尔有着|C3|白色眼睛？|C0|",
+		"dialog"	: "哪隻維目爾有著|C3|白色眼睛？|C0|",
 	},
 	"comment_vg_type_count"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-		"dialog"	: "你看到了多少有着[VAL1]的维目尔？",
+		"dialog"	: "你看到了多少有著[VAL1]的維目爾？",
 	},
 	"comment_vg_win"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
@@ -246,94 +246,94 @@
 	"vg_win" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "你答对了！",
+			"dialog"			: "你答對了！",
 		},
 	],
 	"vg_lose" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "抱歉，你答错了。",
+			"dialog"			: "抱歉，你答錯了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|没有原料给你了。",
+			"dialog"			: "|wave|沒有原料給你了。",
 		},
 	],
 	"vg_blue_lose" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我知道抵抗选择我是不可能的事情。",
+			"dialog"			: "我知道抵抗選擇我是不可能的事情。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "但是，哎呀，在这种情况下我可不是正确答案。",
+			"dialog"			: "但是，哎呀，在這種情況下我可不是正確答案。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|没有原料给你了。",
+			"dialog"			: "|wave|沒有原料給你了。",
 		},
 	],
 	"vg_get_ingredient" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我们有这个[VAL1]要给你！",
+			"dialog"			: "我們有這個[VAL1]要給你！",
 		},
 	],
 	"vg_all_done" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "好耶！你玩了我们所有的游戏！",
+			"dialog"			: "好耶！你玩了我們所有的遊戲！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我们会告诉你我们在哪里藏了一大堆原料。",
+			"dialog"			: "我們會告訴你我們在哪裡藏了一大堆原料。",
 		},
 	],
 	"vg_all_done_lose_final" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "你答错了，    但你确实玩了我们所有的游戏。",
+			"dialog"			: "你答錯了，    但你確實玩了我們所有的遊戲。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "所以，我们会告诉你我们在哪里藏了一大堆原料。",
+			"dialog"			: "所以，我們會告訴你我們在哪裡藏了一大堆原料。",
 		},
 	],
 	"vg_all_win" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "你赢得了我们所有的游戏！",
+			"dialog"			: "你贏得了我們所有的遊戲！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我们会向你展示我们在哪里藏了一大堆原料！",
+			"dialog"			: "我們會向你展示我們在哪裡藏了一大堆原料！",
 		},
 	],
 	
 	"to_devil_deal" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
-			"dialog"			: "我们进行一场小小的恶魔交易怎么样？",
+			"dialog"			: "我們進行一場小小的惡魔交易怎麼樣？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "如果我赢下了你们所有的游戏，那么你们就必须给我一大堆原料，还有全部的灵魂。",
+			"dialog"			: "如果我贏下了你們所有的遊戲，那麼你們就必須給我一大堆原料，還有全部的靈魂。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "但要是你其中一个失败了？",
+			"dialog"			: "但要是你其中一個失敗了？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "啊...你们想要什么？",
+			"dialog"			: "啊...你們想要什麼？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "你必须要和我们玩捉迷藏！",
+			"dialog"			: "你必須要和我們玩捉迷藏！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_angry"],
-			"dialog"			: "并且我们不会对你放水的。",
+			"dialog"			: "並且我們不會對你放水的。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
@@ -343,41 +343,41 @@
 	"to_next_devil_game" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "下一场游戏！",
+			"dialog"			: "下一場遊戲！",
 		},
 	],
 	"devil_deal_lose" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
-			"dialog"			: "恶魔被击败了？怎么会这样？",
+			"dialog"			: "惡魔被擊敗了？怎麼會這樣？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|现在你必须要和我们玩捉迷藏了。",
+			"dialog"			: "|wave|現在你必須要和我們玩捉迷藏了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "你找到我们的话，我们每人会给你一个原料。",
+			"dialog"			: "你找到我們的話，我們每人會給你一個原料。",
 		},
 	],
 	"devil_deal_win" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "我征服了你们所有的游戏！",
+			"dialog"			: "我征服了你們所有的遊戲！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "现在我将收下我的奖励。",
+			"dialog"			: "現在我將收下我的獎勵。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我们在这里藏了一大堆原料。",
+			"dialog"			: "我們在這裡藏了一大堆原料。",
 		},
 	],
 
 	"comment_stash_correct"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-		"dialog"	: "我们把它们放在了这里！",
+		"dialog"	: "我們把它們放在了這裡！",
 	},
 	"comment_stash_miss"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
@@ -385,33 +385,33 @@
 	},
 	"comment_stash_win"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-		"dialog"	: "这些就是全部了！",
+		"dialog"	: "這些就是全部了！",
 	},
 	
 	"stash_win" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我们还藏了更多的原料。",
+			"dialog"			: "我們還藏了更多的原料。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|你想要更多的话就再来玩我们的游戏吧。",
+			"dialog"			: "|wave|你想要更多的話就再來玩我們的遊戲吧。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_angry"],
-			"dialog"			: "你们为什么要这样？",
+			"dialog"			: "你們為什麼要這樣？",
 		},
 	],
 	"stash_lose" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_sad"],
-			"dialog"			: "我们可能把那些藏的太好了。",
+			"dialog"			: "我們可能把那些藏的太好了。",
 		},
 	],
 	"stash_devil_deal" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我们要怎么把灵魂给你呢？",
+			"dialog"			: "我們要怎麼把靈魂給你呢？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
@@ -419,23 +419,23 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "哦对，我会需要后勤人员。",
+			"dialog"			: "哦對，我會需要後勤人員。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "你们会为乐队搬运乐器和设备！",
+			"dialog"			: "你們會為樂隊搬運樂器和設備！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "我不觉得那是个好主意。",
+			"dialog"			: "我不覺得那是個好主意。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|我们会把你的乐器好好藏起来的！",
+			"dialog"			: "|wave|我們會把你的樂器好好藏起來的！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious"],
-			"dialog"			: "嗯哼。|!||L|没关系的。",
+			"dialog"			: "嗯哼。|!||L|沒關係的。",
 		},
 	],
 	
@@ -444,43 +444,43 @@
 	"to_mg_scavenge" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这里就是储藏室地下城。",
+			"dialog"			: "這裡就是儲藏室地下城。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "把那些垃圾移开就好。",
+			"dialog"			: "把那些垃圾移開就好。",
 		},
 	],
 	
 	"comment_scavenge_correct"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-		"dialog"	: "这里可能有东西。",
+		"dialog"	: "這裡可能有東西。",
 	},
 	"comment_scavenge_find"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|你找到了一个！",
+		"dialog"	: "|wave|你找到了一個！",
 	},
 	"comment_scavenge_miss"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-		"dialog"	: "|shake|抱歉这里一团乱！",
+		"dialog"	: "|shake|抱歉這裡一團亂！",
 	},
 	
 	"scavenge_good_find" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我就知道这里藏着好东西！",
+			"dialog"			: "我就知道這裡藏著好東西！",
 		},
 	],
 	"scavenge_bad_find" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "我真的该把这地方打扫打扫了。",
+			"dialog"			: "我真的該把這地方打掃打掃了。",
 		},
 	],
 	
 	"comment_hideseek_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-		"dialog"	: "|wave|我们可能会在任何地方。",
+		"dialog"	: "|wave|我們可能會在任何地方。",
 	},
 	"comment_hideseek_find"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_veyeral_right", "MOOD_happy"],
@@ -490,13 +490,13 @@
 	"hideseek_win" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|你找到了我们所有人。",
+			"dialog"			: "|wave|你找到了我們所有人。",
 		},
 	],
 	"hideseek_lose" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|我们太擅长躲藏了。",
+			"dialog"			: "|wave|我們太擅長躲藏了。",
 		},
 	],
 
@@ -506,101 +506,101 @@
 	"to_mg_course" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我们去外面看看吧！",
+			"dialog"			: "我們去外面看看吧！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我好像在那边看到过有一大堆材料的地方。",
+			"dialog"			: "我好像在那邊看到過有一大堆材料的地方。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "路上捡一些你看到的吧。",
+			"dialog"			: "路上撿一些你看到的吧。",
 		},
 	],
 	"to_mg_course_twins" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我们看看外面吧！",
+			"dialog"			: "我們看看外面吧！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "你来检查地面，我会观察天空。",
+			"dialog"			: "你來檢查地面，我會觀察天空。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "为什么会有东西在天空上？",
+			"dialog"			: "為什麼會有東西在天空上？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_content"],
-			"dialog"			: "难说哦。",
+			"dialog"			: "難說哦。",
 		},
 	],
 
 	"comment_course_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-		"dialog"	: "它们就在这附近。",
+		"dialog"	: "它們就在這附近。",
 	},
 	"comment_course_find"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|你找到了一个！",
+		"dialog"	: "|wave|你找到了一個！",
 	},
 	"comment_course_hit"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-		"dialog"	: "|shake|你受伤了吗？",
+		"dialog"	: "|shake|你受傷了嗎？",
 	},
 	"comment_course_win"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|我们到了！",
+		"dialog"	: "|wave|我們到了！",
 	},
 	
 	"course_win" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "是的！就是这个地方。",
+			"dialog"			: "是的！就是這個地方。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这附近有许多材料。",
+			"dialog"			: "這附近有許多材料。",
 		},
 	],
 	"course_lose" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我觉得好像不是这里，但看起来也不错。",
+			"dialog"			: "我覺得好像不是這裡，但看起來也不錯。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这附近应该有许多材料。",
+			"dialog"			: "這附近應該有許多材料。",
 		},
 	],
 	"course_complete_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
-			"dialog"			: "我的妹妹又只是在飞来飞去，一点帮助都没有。",
+			"dialog"			: "我的妹妹又只是在飛來飛去，一點幫助都沒有。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "没关系的，这附近会有很多材料。",
+			"dialog"			: "沒關係的，這附近會有很多材料。",
 		},
 	],
 	"explain_outside_high" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "但是大雨会降低我的温度。",
+			"dialog"			: "但是大雨會降低我的溫度。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "回到洞穴时我可以热个身。",
+			"dialog"			: "回到洞穴時我可以熱個身。",
 		},
 	],
 	"explain_outside_low" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "哦不！我没意识到我的温度有多低了。",
+			"dialog"			: "哦不！我沒意識到我的溫度有多低了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我们还是确保回去后有足够的时间让我在家里热身吧。",
+			"dialog"			: "我們還是確保回去後有足夠的時間讓我在家裡熱身吧。",
 		},
 	],
 	
@@ -609,21 +609,21 @@
 	"to_mg_picking_first" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这些树能够掉下优质的原料。",
+			"dialog"			: "這些樹能夠掉下優質的原料。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_angry"],
-			"dialog"			: "但是小心那些|C3|松果，|C0|它们也会从上面掉下来！",
+			"dialog"			: "但是小心那些|C3|松果，|C0|它們也會從上面掉下來！",
 		},
 	],
 	"to_mg_picking_first_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "哦，我知道这种树！|L||!|我们可以摇下来很多美味的东西。",
+			"dialog"			: "哦，我知道這種樹！|L||!|我們可以搖下來很多美味的東西。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
-			"dialog"			: "但它们也会掉落|C3|松果|C0|砸到我！",
+			"dialog"			: "但它們也會掉落|C3|松果|C0|砸到我！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
@@ -634,40 +634,40 @@
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "我们可以继续在树林里寻找。",
-			"dialog_rand2"		: "我相信这次会有更多的。",
+			"dialog_rand1"		: "我們可以繼續在樹林裡尋找。",
+			"dialog_rand2"		: "我相信這次會有更多的。",
 		},
 	],
 	"comment_picking_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|为了汤！",
+		"dialog"	: "|wave|為了湯！",
 	},
 	"comment_picking_hit"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-		"dialog"	: "|shake|你受伤了吗？",
+		"dialog"	: "|shake|你受傷了嗎？",
 	},
 	"picking_win" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|你获得了很多原料。",
+			"dialog"			: "|wave|你獲得了很多原料。",
 		},
 	],
 	"picking_miss" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "你错过了一些，但你还是拿到了许多。",
+			"dialog"			: "你錯過了一些，但你還是拿到了許多。",
 		},
 	],
 	"picking_none" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "你全都错过了...",
+			"dialog"			: "你全都錯過了...",
 		},
 	],
 	"picking_lose" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "或许不值得为了汤而受伤。",
+			"dialog"			: "或許不值得為了湯而受傷。",
 		},
 	],
 	
@@ -676,65 +676,65 @@
 	"to_mg_jumping_first" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "这些石头里总会有着好东西。",
+			"dialog"			: "這些石頭裡總會有著好東西。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "你可以跳在它们上面打碎它们！",
+			"dialog"			: "你可以跳在它們上面打碎它們！",
 		},
 	],
 	"to_mg_jumping_first_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "|shake|我超爱破坏这些石头！",
+			"dialog"			: "|shake|我超愛破壞這些石頭！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "它们里面有着美味的原料，不知为何。",
+			"dialog"			: "它們裡面有著美味的原料，不知為何。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
-			"dialog"			: "是时候开始表演了！",
+			"dialog"			: "是時候開始表演了！",
 		},
 	],
 	"to_mg_jumping" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|打碎更多的石头！",
+			"dialog"			: "|wave|打碎更多的石頭！",
 		},
 	],
 	"comment_jumping_start"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-		"dialog"	: "准备好时就跳。",
+		"dialog"	: "準備好時就跳。",
 	},
 	"comment_jumping_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_angry"],
-		"dialog"	: "打碎那些石头！",
+		"dialog"	: "打碎那些石頭！",
 	},
 	"comment_jumping_win"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "你找到了什么！",
+		"dialog"	: "你找到了什麼！",
 	},
 	"comment_jumping_lose"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-		"dialog"	: "什么都没有？",
+		"dialog"	: "什麼都沒有？",
 	},
 	"jumping_win_high" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|你在那找到了个好东西！",
+			"dialog"			: "|wave|你在那找到了個好東西！",
 		},
 	],
 	"jumping_win" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这些石头我没说错吧。",
+			"dialog"			: "這些石頭我沒說錯吧。",
 		},
 	],
 	"jumping_lose" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "全都是空的吗？",
+			"dialog"			: "全都是空的嗎？",
 		},
 	],
 
@@ -744,7 +744,7 @@
 	"to_dodge_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_angry"],
-			"dialog"			: "|shake|嘿！|norm|你能不能帮我在树冠里找一下，至少你现在在上面？ ",
+			"dialog"			: "|shake|嘿！|norm|你能不能幫我在樹冠裡找一下，至少你現在在上面？ ",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_serious2"],
@@ -757,30 +757,30 @@
 	},
 	"comment_dodge_clear"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "你活下来了！",
+		"dialog"	: "你活下來了！",
 	},
 	"comment_dodge_hit"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-		"dialog"	: "|shake|你没事吗？",
+		"dialog"	: "|shake|你沒事嗎？",
 	},
 	"dodge_win" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "你看！我挺有帮助的。",
+			"dialog"			: "你看！我挺有幫助的。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "那你能再多拿到一些吗？",
+			"dialog"			: "那你能再多拿到一些嗎？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_despair"],
-			"dialog"			: "|shake|但是刚刚我已经干了许多活了。",
+			"dialog"			: "|shake|但是剛剛我已經做了許多活了。",
 		},
 	],
 	"dodge_lose" 		: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
-			"dialog"			: "|shake|你没事吗！？",
+			"dialog"			: "|shake|你沒事嗎！？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_pain"],
@@ -792,11 +792,11 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "别相信她，她没事的。",
+			"dialog"			: "別相信她，她沒事的。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "但她的帮助可能也到此为止了。",
+			"dialog"			: "但她的幫助可能也到此為止了。",
 		},
 	],
 
@@ -804,61 +804,61 @@
 	"return_to_cave" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我们回我的洞穴吧。",
+			"dialog"			: "我們回我的洞穴吧。",
 		},
 	],
 	"return_to_cave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_content"],
-			"dialog"			: "天空中除了雨水什么都没有。",
+			"dialog"			: "天空中除了雨水什麼都沒有。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "谁猜得到哦。",
+			"dialog"			: "誰猜得到哦。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我们准备好返回洞穴里了。",
+			"dialog"			: "我們準備好返回洞穴裡了。",
 		},
 	],
 	"return_get_ingredient" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "哦，我们在路上错过了这个[VAL1]的？",
+			"dialog"			: "哦，我們在路上錯過了這個[VAL1]的？",
 		},
 	],
 	"forced_return_to_cave" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "是时候回去了！",
+			"dialog"			: "是時候回去了！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "要做这么多汤，剩下的时间还这么少！",
+			"dialog"			: "要做這麼多湯，剩下的時間還這麼少！",
 		},
 	],
 	"return_complete" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "|shake|我们到家了！",
+			"dialog"			: "|shake|我們到家了！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "汤的时间又近了一步。",
+			"dialog"			: "湯的時間又近了一步。",
 		},
 	],
 	"return_last_minute" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "|shake|我们到家了！|L||!|并且是做汤的时间了！",
+			"dialog"			: "|shake|我們到家了！|L||!|並且是做湯的時間了！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|shake|汤！汤！汤！",
+			"dialog"			: "|shake|湯！湯！湯！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我们来把所有的原料放进我的大锅。",
+			"dialog"			: "我們來把所有的原料放進我的大鍋。",
 		},
 	],
 	
@@ -867,18 +867,18 @@
 	"warm_up" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "我一天只能这样做一次。",
+			"dialog"			: "我一天只能這樣做一次。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_angry"],
-			"dialog"			: "|shake|超辣双倍熔融力量！",
+			"dialog"			: "|shake|超辣雙倍熔融力量！",
 		},
 	],
 	"warm_up_done" 	: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "虽然没多少，但也有帮助吧。",
+			"dialog"			: "雖然沒多少，但也有幫助吧。",
 		},
 	],
 	"warm_up_devil" 	: [
@@ -895,62 +895,62 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我感觉暖一点了。",
+			"dialog"			: "我感覺暖一點了。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
-			"dialog"			: "|shake|你必须要教我要怎么做！",
+			"dialog"			: "|shake|你必須要教我要怎麼做！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "但是我一天只能这样一次。",
+			"dialog"			: "但是我一天只能這樣一次。",
 		},
 	],
 	"cool_off_first" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "完美的汤需要我处于完美的温度。",
+			"dialog"			: "完美的湯需要我處於完美的溫度。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "没时间去外面寻找材料了。",
+			"dialog"			: "沒時間去外面尋找材料了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "但我们可以在洞里找一些，在我冷下来的时候。",
+			"dialog"			: "但我們可以在洞裡找一些，在我冷下來的時候。",
 		},
 	],
 	"cool_off_first_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "真可惜，汤的完美温度不同于完美的我的温度。",
+			"dialog"			: "真可惜，湯的完美溫度不同於完美的我的溫度。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "总有一天，你会两种都是的。",
+			"dialog"			: "總有一天，你會兩種都是的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "你说得对！只要是我所在的温度，所有的温度都是完美温度。",
+			"dialog"			: "你說得對！只要是我所在的溫度，所有的溫度都是完美溫度。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "而对于我来说，我要牺牲一点热量来做汤了。",
+			"dialog"			: "而對於我來說，我要犧牲一點熱量來做湯了。",
 		},
 	],
 	"cool_off" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "这是我愿意为了汤而做出的牺牲。",
-			"dialog_rand2"		: "我喜欢比熔岩更热的温度，但我会为了汤这么做的！",
-			"dialog_rand3"		: "熔融了一整天之后能冷下来还挺舒服的。",
+			"dialog_rand1"		: "這是我願意為了湯而做出的犧牲。",
+			"dialog_rand2"		: "我喜歡比熔岩更熱的溫度，但我會為了湯這麼做的！",
+			"dialog_rand3"		: "熔融了一整天之後能冷下來還挺舒服的。",
 		},
 	],
 	"cool_off_get_ingredient" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "并且我在这找到了一个[VAL1]！",
+			"dialog"			: "並且我在這找到了一個[VAL1]！",
 		},
 	],
 
@@ -963,36 +963,36 @@
 	"reach_min_heat" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
-			"dialog"			: "哦，这太糟糕了..",
+			"dialog"			: "哦，這太糟糕了..",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_sad"],
-			"dialog"			: "热量不足以烹饪汤。",
+			"dialog"			: "熱量不足以烹飪湯。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_burning_veyeral_right", "MOOD_normal"],
-			"dialog"			: "让我试着加热一下。",
+			"dialog"			: "讓我試著加熱一下。",
 		},
 	],
 	"back_to_normal_form" : [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "这是我在外面能维持的最高温度了。",
+			"dialog"			: "這是我在外面能維持的最高溫度了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "我们可能应该尽快回到洞穴里。",
+			"dialog"			: "我們可能應該盡快回到洞穴裡。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "等下！你看那个。",
+			"dialog"			: "等一下！你看那個。",
 		},
 	],
 	"min_heat_get_ingredient" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这个[VAL1]就在这里！",
+			"dialog"			: "這個[VAL1]就在這裡！",
 		},
 	],
 	"reach_max_heat" : [
@@ -1002,11 +1002,11 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我已经达到了我的最大温度！",
+			"dialog"			: "我已經達到了我的最大溫度！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "唯一的问题是，我   会   |shake|把汤全部烧掉的，|norm|如果这样的话。",
+			"dialog"			: "唯一的問題是，我   會   |shake|把湯全部燒掉的，|norm|如果這樣的話。",
 		},
 	],
 	
@@ -1015,93 +1015,93 @@
 	"soup_time" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "是时候制作汤了！",
+			"dialog"			: "是時候製作湯了！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|shake|做汤的时间到了！",
+			"dialog"			: "|shake|做湯的時間到了！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "首先，我们要把所有的原料放进我的大锅中。",
+			"dialog"			: "首先，我們要把所有的原料放進我的大鍋中。",
 		},
 	],
 	"comment_soup_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|正在准备做汤。",
+		"dialog"	: "|wave|正在準備做湯。",
 	},
 	"comment_soup_done"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-		"dialog"	: "然后，这就是我们能做的所有的汤了。",
+		"dialog"	: "然後，這就是我們能做的所有的湯了。",
 	},
 	"comment_soup_none"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-		"dialog"	: "我们真的什么都没找到吗？",
+		"dialog"	: "我們真的什麼都沒找到嗎？",
 	},
 	
 	"to_mg_cooking" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "现在是时候进行烹饪了！",
+			"dialog"			: "現在是時候進行烹飪了！",
 		},
 	],
 	"to_mg_cooking_low_temp" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "但我必须警告你我的温度现在有点偏低。",
+			"dialog"			: "但我必須警告你我的溫度現在有點偏低。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "这个汤   |shake|尝起来可能会有点糟糕。",
+			"dialog"			: "這個湯   |shake|嘗起來可能會有點糟糕。",
 		},
 	],
 	"to_mg_cooking_good_temp" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|并且我的温度很完美！",
+			"dialog"			: "|wave|並且我的溫度很完美！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "这会是我最棒的汤。",
+			"dialog"			: "這會是我最棒的湯。",
 		},
 	],
 	"to_mg_cooking_high_temp" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我的温度超级高！",
+			"dialog"			: "我的溫度超級高！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "有可能会把汤烧过头。",
+			"dialog"			: "有可能會把湯燒過頭。",
 		},
 	],
 	
 	"soup_is_ready"	: "Soup Is Ready!",
 	"comment_soup_cooking"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|正在做汤。|L|正在做汤。|L|我爱做汤。",
+		"dialog"	: "|wave|正在做湯。|L|正在做湯。|L|我愛做湯。",
 	},
 	
 	"cooking_done" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|汤准备好了！",
+			"dialog"			: "|wave|湯準備好了！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "你要先尝试哪一个呢？",
+			"dialog"			: "你要先嘗試哪一個呢？",
 		},
 	],
 	
 
-	"empty_soup"	: "清空大锅",
-	"basic_soup"			: "开水",
+	"empty_soup"	: "清空大鍋",
+	"basic_soup"			: "開水",
 	"soup_name_structure"	: "[ADJ1] [ADJ2] [NOUN] [SOUP]",
 	
 	"bdn_radiant_hp"	: "光耀的",
-	"bdn_burn_hp"		: "烧过头的",
+	"bdn_burn_hp"		: "燒過頭的",
 	"bdn_toxic_hp"		: "有毒的",
-	"bdn_bleed_heart"	: "满是荆棘的",
+	"bdn_bleed_heart"	: "滿是荊棘的",
 	"bdn_trauma_heart"	: "糟糕的",
 	
 	"adj_radiant_res"	: "甜美",
@@ -1109,96 +1109,96 @@
 	"adj_burn_res"		: "火辣",
 	"adj_zap_res"		: "酸",
 	"adj_toxic_res"		: "奶油",
-	"adj_hp"			: "治愈",
-	"adj_max_hp"		: "丰盛",
+	"adj_hp"			: "治癒",
+	"adj_max_hp"		: "豐盛",
 	"adj_max_en"		: "能量",
 	"adj_karma"			: "深情",
-	"adj_reserve_hp"	: "富营养",
+	"adj_reserve_hp"	: "富營養",
 	"adj_glass_heart"	: "香脆",
-	"adj_chrome_heart"	: "闪亮",
-	"adj_damage"		: "伟大",
-	"adj_crit_rate"		: "暴击",
-	"adj_panic"			: "吓人",
+	"adj_chrome_heart"	: "閃亮",
+	"adj_damage"		: "偉大",
+	"adj_crit_rate"		: "暴擊",
+	"adj_panic"			: "嚇人",
 	"adj_manic_panic"	: "恐怖",
 	"adj_panic_polyp"	: "模糊",
-	"adj_revive"		: "新鲜",
+	"adj_revive"		: "新鮮",
 	"adj_denial"		: "硬的",
 	
 	"noun_default"		: "蔬菜",
 	"noun_damage"		: "蘑菇",
 	"noun_crit_rate"	: "水果",
-	"noun_panic"		: "恐惧",
+	"noun_panic"		: "恐懼",
 	"noun_manic_panic"	: "糖果",
 	"noun_panic_polyp"	: "恐瘤",
 	"noun_revive"		: "拯救者",
-	"noun_denial"		: "护甲",
+	"noun_denial"		: "護甲",
 	
-	"soup_1"			: "高汤",
-	"soup_2"			: "之汤",
-	"soup_3"			: "灵药",
-	"spec_mite"			: "跳虫诱饵",
+	"soup_1"			: "高湯",
+	"soup_2"			: "之湯",
+	"soup_3"			: "靈藥",
+	"spec_mite"			: "跳蟲誘餌",
 	"spec_magnet"		: "磁力合金",
 	
-	"leave_now"		: "现在离开",
+	"leave_now"		: "現在離開",
 	"comment_soup_choosing_first"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|你要先尝试哪一个？",
+		"dialog"	: "|wave|你要先嘗試哪一個？",
 	},
 	"comment_soup_choosing_next"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-		"dialog"	: "|wave|你接下来要尝试哪一个？",
+		"dialog"	: "|wave|你接下來要嘗試哪一個？",
 	},
 	
 	"bad_soup_blank" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "你没事吗？",
+			"dialog"			: "你沒事嗎？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
-			"dialog"			: "|shake|是呀。没事的，很美味。",
+			"dialog"			: "|shake|是呀。沒事的，很美味。",
 		},
 	],
 	"bad_soup_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_pain"],
-			"dialog"			: "|shake|哎哟。",
+			"dialog"			: "|shake|哎喲。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "很不错，是吧？",
+			"dialog"			: "很不錯，是吧？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "当然了。",
+			"dialog"			: "當然了。",
 		},
 	],
 	"bad_soup_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_pain"],
-			"dialog"			: "|shake|哦，有点不太对。",
+			"dialog"			: "|shake|哦，有點不太對。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "|wave|她很喜欢。",
+			"dialog"			: "|wave|她很喜歡。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_aggressive"],
-			"dialog"			: "是呀，超棒的！来尝一点。",
+			"dialog"			: "是呀，超棒的！來嚐一點。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
-			"dialog"			: "|shake|我现在不饿！",
+			"dialog"			: "|shake|我現在不餓！",
 		},
 	],
 	"bad_soup_devil" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "味道怎么样？",
+			"dialog"			: "味道怎麼樣？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_pain"],
-			"dialog"			: "|shake|它只会让我更加强大！",
+			"dialog"			: "|shake|它只會讓我更加強大！",
 		},
 	],
 	
@@ -1211,11 +1211,11 @@
 	"sleep_response" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "好吧，你先在这里睡。",
+			"dialog"			: "好吧，你先在這裡睡。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|我会去做汤的！",
+			"dialog"			: "|wave|我會去做湯的！",
 		},
 	],
 	
@@ -1224,20 +1224,20 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "我很久没有这么饱了。|!||L|我不可能吃得下更多了。",
+			"dialog"			: "我很久沒有這麼飽了。|!||L|我不可能吃得下更多了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_normal"],
-			"dialog"			: "别担心，我们会从这里接手的。",
+			"dialog"			: "別擔心，我們會從這裡接手的。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你们所有人！",
+			"dialog"			: "|wave|我愛你們所有人！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_normal"],
-			"dialog"			: "你怎么会知道秘密原料？",
+			"dialog"			: "你怎麼會知道秘密原料？",
 		},
 	],
 	"leave_defect" 	: [
@@ -1247,61 +1247,61 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这是对汤的极高赞誉？",
+			"dialog"			: "這是對湯的極高讚譽？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "对不起。   我还没有尝过汤。",
+			"dialog"			: "對不起。   我還沒有嚐過湯。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "|wave|我是在说我自己。",
+			"dialog"			: "|wave|我是在說我自己。",
 		},
 	],
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "|wave|好的，是时候吃甜点了！|L||!|她就在这。",
+			"dialog"			: "|wave|好的，是時候吃甜點了！|L||!|她就在這。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked"],
-			"dialog"			: "别指着我！",
+			"dialog"			: "別指著我！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|甜点！|L|甜点！|L|甜点！",
+			"dialog"			: "|wave|甜點！|L|甜點！|L|甜點！",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|我们现在得走了！",
+			"dialog"			: "|shake|我們現在得走了！",
 		},
 	],
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "好吧，女士们。|L|我只能喝的下这么多汤了。",
+			"dialog"			: "好吧，女士們。|L|我只能喝的下這麼多湯了。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "我可以拜托你们完成剩下的工作吗？",
+			"dialog"			: "我可以拜託你們完成剩下的工作嗎？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_multi_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|shake|为了汤！",
+			"dialog"			: "|shake|為了湯！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_angry"],
-			"dialog"			: "|shake|为了汤！",
+			"dialog"			: "|shake|為了湯！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],
-			"dialog"			: "我才是要打扫这一团乱的人。",
+			"dialog"			: "我才是要打掃這一團亂的人。",
 		},
 	],
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_happy"],
-			"dialog"			: "希望你喜欢我的汤！",
+			"dialog"			: "希望你喜歡我的湯！",
 		},
 	],
 	"error_catch"	: "bonding_time/bonding_common_text",

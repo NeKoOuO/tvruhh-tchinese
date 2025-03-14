@@ -3,10 +3,10 @@
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_angry"],
 			"random"			: 4,
-			"dialog_rand1"		: "兰迪的宝藏在哪里？",
-			"dialog_rand2"		: "兰迪把它藏在哪里了？",
-			"dialog_rand3"		: "兰迪把它埋在哪里了？",
-			"dialog_rand4"		: "兰迪的宝藏一定就在这附近。",
+			"dialog_rand1"		: "蘭迪的寶藏在哪裡？",
+			"dialog_rand2"		: "蘭迪把它藏在哪裡了？",
+			"dialog_rand3"		: "蘭迪把它埋在哪裡了？",
+			"dialog_rand4"		: "蘭迪的寶藏一定就在這附近。",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
@@ -14,131 +14,131 @@
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-			"dialog"			: "|wave|兰迪喜欢见到你！",
+			"dialog"			: "|wave|蘭迪喜歡見到你！",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_sad"],
 			"random"			: 2,
-			"dialog_rand1"		: "但兰迪现在有个麻烦。",
-			"dialog_rand2"		: "但兰迪现在有点沮丧。",
+			"dialog_rand1"		: "但蘭迪現在有個麻煩。",
+			"dialog_rand2"		: "但蘭迪現在有點沮喪。",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_sad"],
 			"random"			: 3,
-			"dialog_rand1"		: "兰迪找不到她埋藏的财宝。",
-			"dialog_rand2"		: "兰迪忘记了她把财宝埋藏在哪里了。",
-			"dialog_rand3"		: "兰迪记不得兰迪的财宝埋藏在哪里了。",
+			"dialog_rand1"		: "蘭迪找不到她埋藏的財寶。",
+			"dialog_rand2"		: "蘭迪忘記了她把財寶埋藏在哪裡了。",
+			"dialog_rand3"		: "蘭迪記不得蘭迪的財寶埋藏在哪裡了。",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-			"dialog"			: "你能帮助兰迪找到它吗？",
+			"dialog"			: "你能幫助蘭迪找到它嗎？",
 		},
 	],
 	
 	"intro_twins" : [
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-			"dialog"			: "|shake|扎拉双子。",
+			"dialog"			: "|shake|扎拉雙子。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_normal"],
-			"dialog"			: "你好兰迪。",
+			"dialog"			: "你好蘭迪。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "我们完美的小小宝藏。",
+			"dialog"			: "我們完美的小小寶藏。",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-			"dialog"			: "|wave|兰迪很高兴能见到你们！",
+			"dialog"			: "|wave|蘭迪很高興能見到你們！",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_sad"],
 			"random"			: 2,
-			"dialog_rand1"		: "但兰迪现在有个麻烦。",
-			"dialog_rand2"		: "但兰迪现在有点沮丧。",
+			"dialog_rand1"		: "但蘭迪現在有個麻煩。",
+			"dialog_rand2"		: "但蘭迪現在有點沮喪。",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_sad"],
 			"random"			: 3,
-			"dialog_rand1"		: "兰迪找不到她埋藏的财宝。",
-			"dialog_rand2"		: "兰迪忘记了她把财宝埋藏在哪里了。",
-			"dialog_rand3"		: "兰迪记不得兰迪的财宝埋藏在哪里了。",
+			"dialog_rand1"		: "蘭迪找不到她埋藏的財寶。",
+			"dialog_rand2"		: "蘭迪忘記了她把財寶埋藏在哪裡了。",
+			"dialog_rand3"		: "蘭迪記不得蘭迪的財寶埋藏在哪裡了。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_shocked"],
-			"dialog"			: "我们现在要帮助兰迪！",
+			"dialog"			: "我們現在要幫助蘭迪！",
 		},
 	],
 	
-	"monster_gifts"	: "兰迪的宝藏",
+	"monster_gifts"	: "蘭迪的寶藏",
 	
-	"op_start"		: "寻找宝藏",
-	"op_leave"		: "这里没有宝藏",
+	"op_start"		: "尋找寶藏",
+	"op_leave"		: "這裡沒有寶藏",
 	
 	"comment_start"		: {
 		"character"	: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-		"dialog"	: "|shake|兰迪会和你分享！",
+		"dialog"	: "|shake|蘭迪會和你分享！",
 	},
 	"comment_leave"		: {
 		"character"	: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-		"dialog"	: "等下！兰迪的财宝真的被埋在这里了吗？",
+		"dialog"	: "等一下！蘭迪的財寶真的被埋在這裡了嗎？",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-		"dialog"	: "兰迪的宝藏不在这里？",
+		"dialog"	: "蘭迪的寶藏不在這裡？",
 	},
 	
 	"start_battle" 	: [
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-			"dialog"			: "兰迪有个主意！",
+			"dialog"			: "蘭迪有個主意！",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-			"dialog"			: "你再看看兰迪的梦境，找找兰迪埋藏的宝藏在哪里！",
+			"dialog"			: "你再看看蘭迪的夢境，找找蘭迪埋藏的寶藏在哪裡！",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "兰迪的主意真不错。",
-			"dialog_rand2"		: "这真有道理，一定能成功的。",
-			"dialog_rand3"		: "兰迪会让这变得有趣的！",
+			"dialog_rand1"		: "蘭迪的主意真不錯。",
+			"dialog_rand2"		: "這真有道理，一定能成功的。",
+			"dialog_rand3"		: "蘭迪會讓這變得有趣的！",
 		},
 	],
 	
 	"no_battle" 	: [
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-			"dialog"			: "兰迪想起来了！",
+			"dialog"			: "蘭迪想起來了！",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_sad"],
-			"dialog"			: "兰迪真傻...",
+			"dialog"			: "蘭迪真傻...",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-			"dialog"			: "|wave|你一直就是兰迪的宝藏。",
+			"dialog"			: "|wave|你一直就是蘭迪的寶藏。",
 		},
 	],
 	
 	"return_intro" : [
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-			"dialog"			: "这|C3|[VAL1]兰迪魔尘|C0|一定就是线索。",
+			"dialog"			: "這|C3|[VAL1]蘭迪魔塵|C0|一定就是線索。",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "兰迪现在会应用算数。",
-			"dialog_rand2"		: "是时候来点兰迪代数了。",
-			"dialog_rand3"		: "兰迪几何学其实还挺简单了的。",
-			"dialog_rand4"		: "一点兰迪三角学，没什么无法解决的。",
+			"dialog_rand1"		: "蘭迪現在會應用算數。",
+			"dialog_rand2"		: "是時候來點蘭迪代數了。",
+			"dialog_rand3"		: "蘭迪幾何學其實還挺簡單了的。",
+			"dialog_rand4"		: "一點蘭迪三角學，沒什麼無法解決的。",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-			"dialog"			: "兰迪现在想起来了！|!||L|兰迪的财宝应该就在这里。",
+			"dialog"			: "蘭迪現在想起來了！|!||L|蘭迪的財寶應該就在這裡。",
 		},
 		{
 			"character"			: ["VOICE_static", "CHAR_rendy_right", "MOOD_angry"],
@@ -149,39 +149,39 @@
 			"random"			: 4,
 			"dialog_rand1"		: "A Rending success！",
 			"dialog_rand2"		: "Another successful Rending！",
-			"dialog_rand3"		: "兰迪的财宝！",
-			"dialog_rand4"		: "兰迪的宝藏！",
+			"dialog_rand3"		: "蘭迪的財寶！",
+			"dialog_rand4"		: "蘭迪的寶藏！",
 		},
 	],
 	
 	
 	"comment_take_first"	: {
 		"character"	: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-		"dialog"	: "你必须收下一个！",
+		"dialog"	: "你必須收下一個！",
 	},
 	"comment_take_another"	: {
 		"character"	: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-		"dialog"	: "为你准备的更多财宝！",
+		"dialog"	: "為你準備的更多財寶！",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-		"dialog"	: "收下这个宝藏？",
+		"dialog"	: "收下這個寶藏？",
 	},
 	"gift_taken" 		: [
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "这次有这么多宝藏。",
-			"dialog_rand2"		: "兰迪在这里埋藏了太多宝藏！",
-			"dialog_rand3"		: "兰迪忘记了这里藏了这么多宝藏。",
-			"dialog_rand4"		: "兰迪是怎么把这么多宝藏都放在这里的？",
+			"dialog_rand1"		: "這次有這麼多寶藏。",
+			"dialog_rand2"		: "蘭迪在這裡埋藏了太多寶藏！",
+			"dialog_rand3"		: "蘭迪忘記了這裡藏了這麼多寶藏。",
+			"dialog_rand4"		: "蘭迪是怎麼把這麼多寶藏都放在這裡的？",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
 			"random"			: 3,
-			"dialog_rand1"		: "你可以再收下一个。",
-			"dialog_rand2"		: "兰迪会给你另一个。",
-			"dialog_rand3"		: "请再带走一个。",
+			"dialog_rand1"		: "你可以再收下一個。",
+			"dialog_rand2"		: "蘭迪會給你另一個。",
+			"dialog_rand3"		: "請再帶走一個。",
 		}
 	],
 	
@@ -189,63 +189,63 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_angry"],
-			"dialog"			: "等下，这根本不是兰迪的财宝！",
+			"dialog"			: "等一下，這根本不是蘭迪的財寶！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|不是吗？！",
+			"dialog"			: "|shake|不是嗎？！",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_sad"],
-			"dialog"			: "兰迪怎么会犯这样的错误？",
+			"dialog"			: "蘭迪怎麼會犯這樣的錯誤？",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-			"dialog"			: "兰迪的宝藏一直以来都是你呀。",
+			"dialog"			: "蘭迪的寶藏一直以來都是你呀。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious3"],
-			"dialog"			: "兰迪。",
+			"dialog"			: "蘭迪。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-			"dialog"			: "那是你的兰迪财宝吗？|L||!|她的红色眼睛真漂亮。",
+			"dialog"			: "那是你的蘭迪財寶嗎？|L||!|她的紅色眼睛真漂亮。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "我的宝藏？|L||!|哦，你是说小蓝吗？",
+			"dialog"			: "我的寶藏？|L||!|哦，你是說小藍嗎？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "当然是了。",
+			"dialog"			: "當然是了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "|wave|缺陷是我最完美的宝藏。|norm||L||!|对我来说是最棒的。",
+			"dialog"			: "|wave|缺陷是我最完美的寶藏。|norm||L||!|對我來說是最棒的。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "我们也把这个宝藏拿走吧。",
+			"dialog"			: "我們也把這個寶藏拿走吧。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-			"dialog"			: "是时候来跳虫抱抱了。",
+			"dialog"			: "是時候來跳蟲抱抱了。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "我们可不能把路上碰到的每一只跳虫都带走。",
+			"dialog"			: "我們可不能把路上碰到的每一隻跳蟲都帶走。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_content"],
@@ -256,36 +256,36 @@
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_normal"],
-			"dialog"			: "你为什么要把这些东西埋起来呢？",
+			"dialog"			: "你為什麼要把這些東西埋起來呢？",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-			"dialog"			: "兰迪     |shake|必须|norm|     挖掘。",
+			"dialog"			: "蘭迪     |shake|必須|norm|     挖掘。",
 		},
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_sad"],
-			"dialog"			: "并且，兰迪是从那些又大又吓人的高塔里偷走的兰迪宝藏，兰迪必须把它藏起来。",
+			"dialog"			: "並且，蘭迪是從那些又大又嚇人的高塔裡偷走的蘭迪寶藏，蘭迪必須把它藏起來。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "等一下，你这个小海盗！",
+			"dialog"			: "等一下，你這個小海盜！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-			"dialog"			: "兰迪做了什么好事吗？",
+			"dialog"			: "蘭迪做了什麼好事嗎？",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
-			"dialog"			: "兰迪刚刚意识到了。",
+			"dialog"			: "蘭迪剛剛意識到了。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
-			"dialog"			: "|wave|你一直就是兰迪的宝藏。",
+			"dialog"			: "|wave|你一直就是蘭迪的寶藏。",
 		},
 	],
 

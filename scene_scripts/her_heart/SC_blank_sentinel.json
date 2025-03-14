@@ -5,15 +5,15 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_scene_raining_outside",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "哨卫？",
+			"dialog"			: "哨衛？",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "|C3|开始重启    .    .    .",
+			"dialog"			: "|C3|開始重啟    .    .    .",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "这是件好事吗？",
+			"dialog"			: "這是件好事嗎？",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
@@ -21,121 +21,121 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|哨卫？",
+			"dialog"			: "|shake|哨衛？",
 		},
 		{
 			"play_music"		: "tutorbot_scene_music",
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_upset"],
-			"dialog"			: "本单元不应该攻击你的。",
+			"dialog"			: "本單元不應該攻擊你的。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
-			"dialog"			: "别像这样吓我。",
+			"dialog"			: "別像這樣嚇我。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_upset"],
-			"dialog"			: "本单元展示出了极高等级的悔恨。",
+			"dialog"			: "本單元展示出了極高等級的悔恨。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
-			"dialog"			: "本单元现在会将她放入所属的垃圾站文件夹。",
+			"dialog"			: "本單元現在會將她放入所屬的垃圾站文件夾。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_angry"],
-			"dialog"			: "|shake|嘿！|norm||!||L|不要这样说！",
+			"dialog"			: "|shake|嘿！|norm||!||L|不要這樣說！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious2"],
-			"dialog"			: "不要让我回去重新接一下线路。",
+			"dialog"			: "不要讓我回去重新接一下線路。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_confused"],
-			"dialog"			: "本单元不明白。|!||L|她仅仅侮辱了自己，但这不知为何冒犯到了你。",
+			"dialog"			: "本單元不明白。|!||L|她僅僅侮辱了自己，但這不知為何冒犯到了你。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
-			"dialog"			: "我还能会有什么感受？|!||L|你刚刚侮辱了我的朋友！",
+			"dialog"			: "我還能會有什麼感受？|!||L|你剛剛侮辱了我的朋友！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious2"],
-			"dialog"			: "你这样对自己说话也会伤害我。",
+			"dialog"			: "你這樣對自己說話也會傷害我。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "|C3|正在处理    .    .    .",
+			"dialog"			: "|C3|正在處理    .    .    .",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元未考虑到扎拉登会关心扎拉机械的可能性。",
+			"dialog"			: "本單元未考慮到扎拉登會關心扎拉機械的可能性。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_confused"],
-			"dialog"			: "本单元不想要让你沮丧。",
+			"dialog"			: "本單元不想要讓你沮喪。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "我没有很沮丧。|L||!|请试着对自己好一点，好吗？",
+			"dialog"			: "我沒有很沮喪。|L||!|請試著對自己好一點，好嗎？",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "该请求将会被立即执行。",
+			"dialog"			: "該請求將會被立即執行。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "本单元同样对你有一个请求。",
+			"dialog"			: "本單元同樣對你有一個請求。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "哦，是什么？",
+			"dialog"			: "哦，是什麼？",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元想要你和她一起玩一个游戏。",
+			"dialog"			: "本單元想要你和她一起玩一個遊戲。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "是一个简单的游戏。|L||!|本单元会问问题，然后你来回答。",
+			"dialog"			: "是一個簡單的遊戲。|L||!|本單元會問問題，然後你來回答。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "通过测试其他人的知识，本单元能够获得极大的满足感。",
+			"dialog"			: "通過測試其他人的知識，本單元能夠獲得極大的滿足感。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "当然了，哨卫！",
+			"dialog"			: "當然了，哨衛！",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元正体验到的纯粹欢喜能够为最近的高塔充能数百年。",
+			"dialog"			: "本單元正體驗到的純粹歡喜能夠為最近的高塔充能數百年。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|这才是我想要听到的。",
+			"dialog"			: "|wave|這才是我想要聽到的。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元现在将为你准备问题。",
+			"dialog"			: "本單元現在將為你準備問題。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "所需的时间无法预料。",
+			"dialog"			: "所需的時間無法預料。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "今天晚些时候本单元会回来找你。",
+			"dialog"			: "今天晚些時候本單元會回來找你。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "等下，在你离开之前！",
+			"dialog"			: "等一下，在你離開之前！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "在可能的时间框架内无法计算出这种爱慕。",
+			"dialog"			: "在可能的時間框架內無法計算出這種愛慕。",
 		}
 	]
 }

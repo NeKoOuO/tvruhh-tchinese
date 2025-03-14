@@ -4,7 +4,7 @@
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
 			"random"			: 2,
 			"dialog_rand1"		: "|wave|哦，是扎拉登。",
-			"dialog_rand2"		: "|wave|我们将欢迎这位扎拉登。",
+			"dialog_rand2"		: "|wave|我們將歡迎這位扎拉登。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
@@ -12,33 +12,33 @@
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "你会没事的，对吗？",
+			"dialog"			: "你會沒事的，對嗎？",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "|shake|哦，|norm|你需要水。|!||L|来，快坐下。|!||L|我们会照顾好你的。",
+			"dialog"			: "|shake|哦，|norm|你需要水。|!||L|來，快坐下。|!||L|我們會照顧好你的。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "我们要给你一些东西。",
-			"dialog_rand2"		: "我们有东西要给你。",
-			"dialog_rand3"		: "我们想让你带走点东西。",
+			"dialog_rand1"		: "我們要給你一些東西。",
+			"dialog_rand2"		: "我們有東西要給你。",
+			"dialog_rand3"		: "我們想讓你帶走點東西。",
 		},
 	],
 	
 	"intro_twins" : [
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
-			"dialog"			: "|wave|我们欢迎双子扎拉登们。",
+			"dialog"			: "|wave|我們歡迎雙子扎拉登們。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "我们给你们两位都上点水吧。|!||L|快坐下休息一会。|!||L|我们会照顾好你们的。",
+			"dialog"			: "我們給你們兩位都上點水吧。|!||L|快坐下休息一會。|!||L|我們會照顧好你們的。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "我觉得我们没事--",
+			"dialog"			: "我覺得我們沒事--",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_surprised"],
@@ -46,7 +46,7 @@
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "事实上，阳光的脚擦伤了。",
+			"dialog"			: "事實上，陽光的腳擦傷了。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
@@ -54,33 +54,33 @@
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
-			"dialog"			: "你在说什么？",
+			"dialog"			: "你在說什麼？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad2"],
-			"dialog"			: "是呀，超级严重。|L||!|她都快走不动路了。",
+			"dialog"			: "是呀，超級嚴重。|L||!|她都快走不動路了。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "赶快坐下。|L||!|让我们来照顾你。",
+			"dialog"			: "趕快坐下。|L||!|讓我們來照顧你。",
 		},
 	],
 	
-	"monster_gifts"	: "阿玛加的礼物",
+	"monster_gifts"	: "阿瑪加的禮物",
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
-		"dialog"	: "请收下其中一个吧。",
+		"dialog"	: "請收下其中一個吧。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_normal"],
-		"dialog"	: "要带走它吗？",
+		"dialog"	: "要帶走它嗎？",
 	},
 	
 	"another_gift_1" 	: [
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
-			"dialog"			: "我们希望你喜欢它。",
+			"dialog"			: "我們希望你喜歡它。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
@@ -88,18 +88,18 @@
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "|shake|等下，|norm| 你还需要再休息一会。",
+			"dialog"			: "|shake|等一下，|norm| 你還需要再休息一會。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
-			"dialog"			: "我们再给你拿点别的吧。",
+			"dialog"			: "我們再給你拿點別的吧。",
 		},
 	],
 	
 	"another_gift_2" 	: [
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
-			"dialog"			: "是的，我们知道你也会喜欢它的。",
+			"dialog"			: "是的，我們知道你也會喜歡它的。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
@@ -107,65 +107,65 @@
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "我们不能够放任你让自己被伤害到。",
+			"dialog"			: "我們不能夠放任你讓自己被傷害到。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "我们知道有其他东西可以保护你。",
+			"dialog"			: "我們知道有其他東西可以保護你。",
 		},
 	],
 	
 	"another_gift_3" 	: [
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
-			"dialog"			: "请带走它吧。",
+			"dialog"			: "請帶走它吧。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "这还有一个。|L||!|以防万一。",
+			"dialog"			: "這還有一個。|L||!|以防萬一。",
 		},
 	],
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_despair"],
-			"dialog"			: "阿玛加，别这样！",
+			"dialog"			: "阿瑪加，別這樣！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "你都开始四分五裂了。",
+			"dialog"			: "你都開始四分五裂了。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
-			"dialog"			: "哦，那只手是可拆卸的。",
+			"dialog"			: "哦，那隻手是可拆卸的。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
-			"dialog"			: "我们只是想让你更安全。",
+			"dialog"			: "我們只是想讓你更安全。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "阿玛加，我会没事的。|L||!|你也要照顾好你自己。",
+			"dialog"			: "阿瑪加，我會沒事的。|L||!|你也要照顧好你自己。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "我们，呃-",
+			"dialog"			: "我們，呃-",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_happy"],
-			"dialog"			: "我们也爱你。",
+			"dialog"			: "我們也愛你。",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "阿玛加，我觉得这样就足够了。",
+			"dialog"			: "阿瑪加，我覺得這樣就足夠了。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
@@ -173,67 +173,67 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "并且，她还有我在身边。",
+			"dialog"			: "並且，她還有我在身邊。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
-			"dialog"			: "我的缺陷身上不会发生糟糕的事情！|L||!||shake|至少我还在的时候不会！",
+			"dialog"			: "我的缺陷身上不會發生糟糕的事情！|L||!||shake|至少我還在的時候不會！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "看到了吗？我被照顾的很好。|L||!|现在来这边抱抱。",
+			"dialog"			: "看到了嗎？我被照顧的很好。|L||!|現在來這邊抱抱。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_very_happy"],
-			"dialog"			: "小心。这根胳膊连接的不是很紧。",
+			"dialog"			: "小心。這根手臂連接的不是很緊。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused"],
-			"dialog"			: "阿玛加，这样就够了。|L||!|我没事的，看吧？",
+			"dialog"			: "阿瑪加，這樣就夠了。|L||!|我沒事的，看吧？",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "你确定吗？",
+			"dialog"			: "你確定嗎？",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_despair"],
-			"dialog"			: "|shake|她觉得非常痛！",
+			"dialog"			: "|shake|她覺得非常痛！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "她可能需要和你|wave|搂在一起|norm|几个小时",
+			"dialog"			: "她可能需要和你|wave|摟在一起|norm|幾個小時",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
-			"dialog"			: "以防万一。",
+			"dialog"			: "以防萬一。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "嗯...|L||!|那就一小会，好吗？",
+			"dialog"			: "嗯...|L||!|那就一小會，好嗎？",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "慢一点！",
+			"dialog"			: "慢一點！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_upset"],
-			"dialog"			: "我可再不想让女仆为我安排一切了。",
+			"dialog"			: "我可再不想讓女僕為我安排一切了。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
-			"dialog"			: "我们只是想保证你的安全，好吗？",
+			"dialog"			: "我們只是想保證你的安全，好嗎？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "你已经见识过我战斗的样子了。|!||L|你应该更担心担心其他的怪物们。",
+			"dialog"			: "你已經見識過我戰鬥的樣子了。|!||L|你應該更擔心擔心其他的怪物們。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_surprised"],
@@ -241,19 +241,19 @@
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_aggressive"],
-			"dialog"			: "你说的对。|!||L|你最好对她们温柔点，不然我们会找到你-",
+			"dialog"			: "你說的對。|!||L|你最好對她們溫柔點，不然我們會找到你-",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "哎呀，你也太可爱了。",
+			"dialog"			: "哎呀，你也太可愛了。",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_sad"],
-			"dialog"			: "哦，让我顺便去给你拿个-",
+			"dialog"			: "哦，讓我順便去給你拿個-",
 		},
 		{
 			"love_hearts"		: 1,
@@ -262,11 +262,11 @@
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_confused"],
-			"dialog"			: "我们又有点太过兴奋了。",
+			"dialog"			: "我們又有點太過興奮了。",
 		},
 		{
 			"character"			: ["VOICE_amalga", "CHAR_amalga_right", "MOOD_content"],
-			"dialog"			: "我们知道你能够应对这一切的。",
+			"dialog"			: "我們知道你能夠應對這一切的。",
 		},
 	],
 

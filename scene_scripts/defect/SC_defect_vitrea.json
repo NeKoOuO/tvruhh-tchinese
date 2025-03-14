@@ -9,7 +9,7 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shy"],
-			"dialog"			: "琉璃，你没事吗？",
+			"dialog"			: "琉璃，你沒事嗎？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
@@ -17,31 +17,31 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "它们怎么了？",
+			"dialog"			: "它們怎麼了？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "狭长，数值的瞳孔。|L||!|红色且清晰可见的巩膜。",
+			"dialog"			: "狹長，數值的瞳孔。|L||!|紅色且清晰可見的鞏膜。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "这些是维目尔眼睛的特征！",
+			"dialog"			: "這些是維目爾眼睛的特徵！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "而你是一个扎拉登？",
+			"dialog"			: "而你是一個扎拉登？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "是呀，我觉得？|L||!|我一定是的，对吧？",
+			"dialog"			: "是呀，我覺得？|L||!|我一定是的，對吧？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "你为什么看起来像那样？",
+			"dialog"			: "你為什麼看起來像那樣？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
-			"dialog"			: "看起来像什么？",
+			"dialog"			: "看起來像什麼？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad"],
@@ -49,19 +49,19 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised_blush"],
-			"dialog"			: "哦不！|L||!|那太没礼貌了。",
+			"dialog"			: "哦不！|L||!|那太沒禮貌了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-			"dialog"			: "对不起。对不起。对不起。",
+			"dialog"			: "對不起。對不起。對不起。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_awkward"],
-			"dialog"			: "有时有的话在我思考前就会脱口而出。",
+			"dialog"			: "有時有的話在我思考前就會脫口而出。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "没关系的。|L||!|我也不知道我的眼睛为什么是这个样子。",
+			"dialog"			: "沒關係的。|L||!|我也不知道我的眼睛為什麼是這個樣子。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush"],
@@ -69,11 +69,11 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "看到她的眼睛和我如此相像，自然能够被称为苜里斯星上最美丽的眼睛。",
+			"dialog"			: "看到她的眼睛和我如此相像，自然能夠被稱為苜里斯星上最美麗的眼睛。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "当然，仅排在我下面。",
+			"dialog"			: "當然，僅排在我下面。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
@@ -81,12 +81,12 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|是一只小维目尔。",
+			"dialog"			: "|wave|是一隻小維目爾。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "她们的手已经离不开我了。",
+			"dialog"			: "她們的手已經離不開我了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
@@ -94,19 +94,19 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "完美的温度，不是吗？",
+			"dialog"			: "完美的溫度，不是嗎？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_normal"],
-			"dialog"			: "真的很难看到你。|L||!|你看上去就像我眼睛里的一个盲点。",
+			"dialog"			: "真的很難看到你。|L||!|你看起來就像我眼睛裡的一個盲點。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_content"],
-			"dialog"			: "除了，你好像是蓝色的？|L||!|和我看到过的其他维目尔都不一样。",
+			"dialog"			: "除了，你好像是藍色的？|L||!|和我看到過的其他維目爾都不一樣。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "你知道黑洞是什么吗？",
+			"dialog"			: "你知道黑洞是什麼嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
@@ -114,79 +114,79 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "当星星爆炸时，有些会留下一团致密的物质。",
+			"dialog"			: "當星星爆炸時，有些會留下一團緻密的物質。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "它们的密度太高了，有着非常强大的重力。",
+			"dialog"			: "它們的密度太高了，有著非常強大的重力。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "并且相较于其中的物质含量，它们相对而言非常小。",
+			"dialog"			: "並且相較於其中的物質含量，它們相對而言非常小。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "就好像把我们整个星球压缩到这个维目尔的大小。|L||!|甚至还要更小！",
+			"dialog"			: "就好像把我們整個星球壓縮到這個維目爾的大小。|L||!|甚至還要更小！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "这些初生儿们能够在极小的空间储存这么多东西。",
+			"dialog"			: "這些初生兒們能夠在極小的空間儲存這麼多東西。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "想象一下，这个维目尔能够用整个星球的力量将你拉向她！",
+			"dialog"			: "想像一下，這個維目爾能夠用整個星球的力量將你拉向她！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_very_happy"],
-			"dialog"			: "我觉得她已经能这样做了。",
+			"dialog"			: "我覺得她已經能這樣做了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "然后，这些黑洞太大了，即使是光也会被拉向它们。",
+			"dialog"			: "然後，這些黑洞太大了，即使是光也會被拉向它們。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_shocked_glare"],
-			"dialog"			: "如果某样东西完全无法散发光芒，那么我们就完全无法看到它！",
+			"dialog"			: "如果某樣東西完全無法散發光芒，那麼我們就完全無法看到它！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "所以我们才把它们叫做黑洞。",
+			"dialog"			: "所以我們才把它們叫做黑洞。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "维目尔同样能够捕捉光芒，但没有黑洞那么巨大。",
+			"dialog"			: "維目爾同樣能夠捕捉光芒，但沒有黑洞那麼巨大。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_glare"],
-			"dialog"			: "仅有一小部分光能够从你的边缘逃脱。",
+			"dialog"			: "僅有一小部分光能夠從你的邊緣逃脫。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_serious_glare"],
-			"dialog"			: "你是怎么做到的呢，小小维目尔？",
+			"dialog"			: "你是怎麼做到的呢，小小維目爾？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "其实很简单。",
+			"dialog"			: "其實很簡單。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "为什么任何东西会想要离开完美的存在，包括光芒在内？",
+			"dialog"			: "為什麼任何東西會想要離開完美的存在，包括光芒在內？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "这个逻辑确实无可反驳。",
+			"dialog"			: "這個邏輯確實無可反駁。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_blush_glare"],
-			"dialog"			: "并且，呃...|L||!|抱歉说了这么多。",
+			"dialog"			: "並且，呃...|L||!|抱歉說了這麼多。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "我又有点不由自主了。",
+			"dialog"			: "我又有點不由自主了。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
-			"dialog"			: "如果我开始说太多话了，你可以直接打断我的。",
+			"dialog"			: "如果我開始說太多話了，你可以直接打斷我的。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
@@ -194,11 +194,11 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
-			"dialog"			: "为什么呢？",
+			"dialog"			: "為什麼呢？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "刚刚还挺有趣的。",
+			"dialog"			: "剛剛還挺有趣的。",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_sad"],
@@ -206,27 +206,27 @@
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_confused"],
-			"dialog"			: "真的吗？",
+			"dialog"			: "真的嗎？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_very_happy"],
-			"dialog"			: "你们要来看看我的天文台吗？",
+			"dialog"			: "你們要來看看我的天文台嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "当然了！",
+			"dialog"			: "當然了！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "但是，     天文台是什么？",
+			"dialog"			: "但是，     天文台是什麼？",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_surprised"],
-			"dialog"			: "|shake|我可以向你解释天文台了！",
+			"dialog"			: "|shake|我可以向你解釋天文台了！",
 		},
 		{
 			"character"			: ["VOICE_vitrea", "CHAR_vitrea_right", "MOOD_happy_glare"],
-			"dialog"			: "我在路上会和你说的。",
+			"dialog"			: "我在路上會和你說的。",
 		},
 	]
 }

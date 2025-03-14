@@ -9,22 +9,22 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_defect_end1_1",
 			"voice"				: "VOICE_defect",
-			"dialog"			: "我被赐予了爱的力量。",
+			"dialog"			: "我被賜予了愛的力量。",
 		},
 		{
-			"dialog"			: "这是一种极为美妙的感觉。",
+			"dialog"			: "這是一種極為美妙的感覺。",
 		},
 		{
-			"dialog"			: "有那么一刻，我感到很开心。",
+			"dialog"			: "有那麼一刻，我感到很開心。",
 		},
 		{
-			"dialog"			: "但我不配得到那种力量。",
+			"dialog"			: "但我不配得到那種力量。",
 		},
 		{
-			"dialog"			: "我不配得到那种爱。",
+			"dialog"			: "我不配得到那種愛。",
 		},
 		{
-			"dialog"			: "我  不配   得到    任何    爱。",
+			"dialog"			: "我  不配   得到    任何    愛。",
 		},
 		{
 			"dialog"			: "我...",
@@ -36,23 +36,23 @@
 			"use_textbox"		: 1,
 			"play_music"		: "silence",
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "我能否问一下，       你为何要收下那些扎拉登？",
+			"dialog"			: "我能否問一下，       你為何要收下那些扎拉登？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "我不会收下任何没有被给我的东西。",
+			"dialog"			: "我不會收下任何沒有被給我的東西。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "她们全部选择了找到我。    她们全部选择成为空无。",
+			"dialog"			: "她們全部選擇了找到我。    她們全部選擇成為空無。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "她们全都想要在这里。",
+			"dialog"			: "她們全都想要在這裡。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "唔。     作为你最美丽的衍体，我非常抱歉的通知你，我不会允许你带走这个女孩。",
+			"dialog"			: "唔。     作為你最美麗的衍體，我非常抱歉的通知你，我不會允許你帶走這個女孩。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
@@ -60,32 +60,32 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "你想做什么就做吧。    我不会阻止你的。",
+			"dialog"			: "你想做什麼就做吧。    我不會阻止你的。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_cry"],
-			"dialog"			: "你做什么都无所谓。",
+			"dialog"			: "你做什麼都無所謂。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile_cry"],
-			"dialog"			: "她明天就会回来的。|L||!|后天也是。|L||!|再后一天也是。",
+			"dialog"			: "她明天就會回來的。|L||!|後天也是。|L||!|再後一天也是。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry_cry"],
-			"dialog"			: "你无法阻止她。",
+			"dialog"			: "你無法阻止她。",
 		},
 		{
 			"bg_image"			: "spr_defect_end1_2",
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
-			"dialog"			: "我们走着瞧吧。",
+			"dialog"			: "我們走著瞧吧。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
-			"dialog"			: "我会帮助她修复这一切。",
+			"dialog"			: "我會幫助她修復這一切。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_angry"],
-			"dialog"			: "无论这会需要多少次！",
+			"dialog"			: "無論這會需要多少次！",
 		}
 	]
 }

@@ -2,7 +2,7 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_surprised"],
-			"dialog"			: "哦对了-",
+			"dialog"			: "哦對了-",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_confused"],
@@ -11,82 +11,82 @@
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_sparkle1"],
 			"random"			: 4,
-			"dialog_rand1"		: "那我为你准备了一样东西！",
-			"dialog_rand2"		: "那么它会让你的一整天都明亮起来！",
-			"dialog_rand3"		: "那么让我在这阴雨天洒下光芒！",
-			"dialog_rand4"		: "我做了些东西，可能会帮得上你！",
+			"dialog_rand1"		: "那我為你準備了一樣東西！",
+			"dialog_rand2"		: "那麼它會讓你的一整天都明亮起來！",
+			"dialog_rand3"		: "那麼讓我在這陰雨天灑下光芒！",
+			"dialog_rand4"		: "我做了些東西，可能會幫得上你！",
 		},
 	],
 	"intro_late" : [
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_confused"],
-			"dialog"			: "我早些时候想要给你|C3|日之石|C0|的，但是-",
+			"dialog"			: "我早些時候想要給你|C3|日之石|C0|的，但是-",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_awkward"],
-			"dialog"			: "我看到你已经有了一个，再给你一个感觉怪怪的。",
+			"dialog"			: "我看到你已經有了一個，再給你一個感覺怪怪的。",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_surprised"],
-			"dialog"			: "看起来是我看错了，或是你遗失了它？",
+			"dialog"			: "看起來是我看錯了，或是你遺失了它？",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_content_blush"],
-			"dialog"			: "总之，我为你做了另一个！",
+			"dialog"			: "總之，我為你做了另一個！",
 		},
 	],
 	
-	"monster_gifts"	: "赫日欧拉的礼物",
+	"monster_gifts"	: "赫日歐拉的禮物",
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_happy"],
-		"dialog"	: "没人能够抵抗光的诱惑！",
+		"dialog"	: "沒人能夠抵抗光的誘惑！",
 	},
 	"comment_take_bonus"	: {
 		"character"	: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_normal"],
-		"dialog"	: "哦，你想要这个吗？",
+		"dialog"	: "哦，你想要這個嗎？",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_sparkle2"],
-		"dialog"	: "你真的想要它吗？",
+		"dialog"	: "你真的想要它嗎？",
 	},
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_confused"],
-			"dialog"			: "但你要小心，小星尘。",
+			"dialog"			: "但你要小心，小星塵。",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_awkward"],
-			"dialog"			: "有时它会吸引来一大群。",
+			"dialog"			: "有時它會吸引來一大群。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "别担心。|L||wave|那正是我想要的！",
+			"dialog"			: "別擔心。|L||wave|那正是我想要的！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_starstruck"],
-			"dialog"			: "我想和你一样。",
+			"dialog"			: "我想和你一樣。",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "有我在身边，可能没什么区别。",
+			"dialog"			: "有我在身邊，可能沒什麼區別。",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_sparkle1"],
-			"dialog"			: "你是怎么保持这种人气的呢，小星尘？",
+			"dialog"			: "你是怎麼保持這種人氣的呢，小星塵？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "重力的存在可没法\"保持\"。|!||L|只能接受这一无法避免的事实了。",
+			"dialog"			: "重力的存在可沒辦法\"保持\"。|!||L|只能接受這一無法避免的事實了。",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_starstruck"],
@@ -94,70 +94,70 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "我躲在她后面就好。",
+			"dialog"			: "我躲在她後面就好。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "你是为了我     做了这个？",
+			"dialog"			: "你是為了我     做了這個？",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_sparkle2"],
-			"dialog"			: "是我为你做出来的，|wave|阳光！",
+			"dialog"			: "是我為你做出來的，|wave|陽光！",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_content_blush"],
-			"dialog"			: "真等不及再见到你了！|L||!||wave|再见，阳光！",
+			"dialog"			: "真等不及再見到你了！|L||!||wave|再見，陽光！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised_blush"],
-			"dialog"			: "|shake|哦，呃-      |L||norm|再见。",
+			"dialog"			: "|shake|哦，呃-      |L||norm|再見。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious"],
-			"dialog"			: "有点太简单了。",
+			"dialog"			: "有點太簡單了。",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "我知道，在大家的专注中心可能会有点吓人-",
+			"dialog"			: "我知道，在大家的專注中心可能會有點嚇人-",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
-			"dialog"			: "但我能看出，你天生就适合在聚光灯下！",
+			"dialog"			: "但我能看出，你天生就適合在聚光燈下！",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_starstruck"],
-			"dialog"			: "你真的这样想吗，小星尘？",
+			"dialog"			: "你真的這樣想嗎，小星塵？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "你开始喜欢这种注意了，是吧？",
+			"dialog"			: "你開始喜歡這種注意了，是吧？",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_awkward"],
-			"dialog"			: "有一点点。",
+			"dialog"			: "有一點點。",
 		},
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_content_blush"],
-			"dialog"			: "好吧，|wave|我确实喜欢。",
+			"dialog"			: "好吧，|wave|我確實喜歡。",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_normal"],
-			"dialog"			: "我希望这能让你的今天更明亮一点。",
+			"dialog"			: "我希望這能讓你的今天更明亮一點。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_heliola", "CHAR_heliola_right", "MOOD_happy"],
-			"dialog"			: "|wave|真等不及再见到你了！",
+			"dialog"			: "|wave|真等不及再見到你了！",
 		},
 	],
 

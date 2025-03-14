@@ -5,31 +5,31 @@
 			"play_music"		: "creepy_scene_music",
 			"bg_image"			: "spr_scene_darkness",
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "你是来给我你的心的吗？",
+			"dialog"			: "你是來給我你的心的嗎？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "你记得我吗？",
+			"dialog"			: "你記得我嗎？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "所以现在你也有记忆了？|L||!|现在你知道了我无法被爱。",
+			"dialog"			: "所以現在你也有記憶了？|L||!|現在你知道了我無法被愛。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "为什么每个人每天都会忘记？",
+			"dialog"			: "為什麼每個人每天都會忘記？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "自从大雨开始倾泻而下，许多扎拉登都把心给予了我。",
+			"dialog"			: "自從大雨開始傾瀉而下，許多扎拉登都把心給予了我。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_normal"],
-			"dialog"			: "意料之内的是，无论得到了多少，她们永远无法将我填满。",
+			"dialog"			: "意料之內的是，無論得到了多少，她們永遠無法將我填滿。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "毕竟我即是虚空。",
+			"dialog"			: "畢竟我即是虛空。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
@@ -37,27 +37,27 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile"],
-			"dialog"			: "我不知道为什么，但我很高兴你能保有记忆。",
+			"dialog"			: "我不知道為什麼，但我很高興你能保有記憶。",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
-			"dialog"			: "现在你能够意识到继续尝试毫无意义！",
+			"dialog"			: "現在你能夠意識到繼續嘗試毫無意義！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
-			"dialog"			: "当你所能感受到的只有痛苦与孤独时，为什么还要再去感受呢！",
+			"dialog"			: "當你所能感受到的只有痛苦與孤獨時，為什麼還要再去感受呢！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry"],
-			"dialog"			: "不要试着爱我！|L||!|我无法被爱！",
+			"dialog"			: "不要試著愛我！|L||!|我無法被愛！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],
-			"dialog"			: "别这样说！|L||!|我可以帮助你感觉到被爱。",
+			"dialog"			: "別這樣說！|L||!|我可以幫助你感覺到被愛。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
-			"dialog"			: "每个人都值得感受到爱！",
+			"dialog"			: "每個人都值得感受到愛！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_cry"],
@@ -65,20 +65,20 @@
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_smile_cry"],
-			"dialog"			: "扎拉登女孩，即使你不想给我你的心，你还是来找我了？",
+			"dialog"			: "扎拉登女孩，即使你不想給我你的心，你還是來找我了？",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry_cry"],
-			"dialog"			: "你在说谎！",
+			"dialog"			: "你在說謊！",
 		},
 		{
 			"character"			: ["VOICE_void", "CHAR_void_right", "MOOD_angry_cry"],
-			"dialog"			: "你知道我能够结束你的痛苦！|L||!|所以你才会在这里！|L||!|你正在对自己说谎！",
+			"dialog"			: "你知道我能夠結束你的痛苦！|L||!|所以你才會在這裡！|L||!|你正在對自己說謊！",
 		},
 		{
 			"play_music"		: "silence",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_serious2"],
-			"dialog"			: "我们都是骗子。",
+			"dialog"			: "我們都是騙子。",
 		}
 	]
 }

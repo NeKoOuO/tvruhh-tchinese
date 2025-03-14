@@ -13,11 +13,11 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
-			"dialog"			: "|shake|...则是...",
+			"dialog"			: "|shake|...則是...",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
-			"dialog"			: "你想要来见我，    是吗？",
+			"dialog"			: "你想要來見我，    是嗎？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
@@ -29,15 +29,15 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "啊对，    我已经完全明白了。|L||!|我从一开始就应该知道了的。",
+			"dialog"			: "啊對，    我已經完全明白了。|L||!|我從一開始就應該知道了的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "她站在那里脸红的样子。|L||!|她看起来支支吾吾的样子。",
+			"dialog"			: "她站在那裡臉紅的樣子。|L||!|她看起來支支吾吾的樣子。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "她用那些牙齿眼洞渴望地看着的样子。",
+			"dialog"			: "她用那些牙齒眼洞渴望地看著的樣子。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
@@ -45,55 +45,55 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "我已经见过一百万次了。",
+			"dialog"			: "我已經見過一百萬次了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "这个可怜的小家伙迷上了我。",
+			"dialog"			: "這個可憐的小傢伙迷上了我。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "我无法因此指责她。|L||!|这种事情就是会发生的。",
+			"dialog"			: "我無法因此指責她。|L||!|這種事情就是會發生的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "我可能也会迷上自己的。|L||!|如果我是两个不同的存在。",
+			"dialog"			: "我可能也會迷上自己的。|L||!|如果我是兩個不同的存在。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_awkward"],
-			"dialog"			: "你在说什么？很显然她只是害羞而已。",
+			"dialog"			: "你在說什麼？很顯然她只是害羞而已。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "有时我也会那样子。",
+			"dialog"			: "有時我也會那樣子。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],
-			"dialog"			: "|shake||C3|连接突触！",
+			"dialog"			: "|shake||C3|連接突觸！",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_shocked"],
-			"dialog"			: "什么？",
+			"dialog"			: "什麼？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "|shake|你-|norm|你收到我们梦里的信息了吗？",
+			"dialog"			: "|shake|你-|norm|你收到我們夢裡的資訊了嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "就是你告诉我礼物传送门的事情？",
+			"dialog"			: "就是你告訴我禮物傳送門的事情？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "我可以现在把礼物给你，然后你的力量能让我在任一天的开始把它们取出来？",
+			"dialog"			: "我可以現在把禮物給你，然後你的力量能讓我在任一天的開始把它們取出來？",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "是吖。|L||!|不过，我们还需要点时间来为我们的|C3|连接突触|C0|充能。 ",
+			"dialog"			: "是吖。|L||!|不過，我們還需要點時間來為我們的|C3|連接突觸|C0|充能。 ",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "在下场战斗后我们应该就准备好了。|L||!|我们会来找你的，好吖？",
+			"dialog"			: "在下場戰鬥後我們應該就準備好了。|L||!|我們會來找你的，好吖？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
@@ -101,23 +101,23 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "你看到了吗？她只是需要点时间来和我们熟络起来。",
+			"dialog"			: "你看到了嗎？她只是需要點時間來和我們熟絡起來。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
-			"dialog"			: "简单的错误并非最糟糕的事情。",
+			"dialog"			: "簡單的錯誤並非最糟糕的事情。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "有些错误只会凸显出我其他的完美特质。",
+			"dialog"			: "有些錯誤只會凸顯出我其他的完美特質。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
-			"dialog"			: "哦！    我差点忘了。",
+			"dialog"			: "哦！    我差點忘了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],
-			"dialog"			: "我必须要给你这个拥抱。",
+			"dialog"			: "我必須要給你這個擁抱。",
 		},
 		{
 			"love_hearts"		: 1,
@@ -126,11 +126,11 @@
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
-			"dialog"			: "等下再见，蛋花。",
+			"dialog"			: "等一下再見，蛋花。",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
-			"dialog"			: "...再见。",
+			"dialog"			: "...再見。",
 		},
 	]
 }

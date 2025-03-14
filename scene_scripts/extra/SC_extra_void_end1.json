@@ -13,37 +13,37 @@
 		},
 		{
 			"play_music"		: "nightmare_music_c",
-			"dialog"			: "|C2||shake|这是什么多愁善感的胡言乱语？",
+			"dialog"			: "|C2||shake|這是什麼多愁善感的胡言亂語？",
 		},
 		{
-			"dialog"			: "|C2||shake|虚空无法被击败。",
+			"dialog"			: "|C2||shake|虛空無法被擊敗。",
 		},
 		{
-			"dialog"			: "|C2||shake|在这个世界上一切都没有意义。",
+			"dialog"			: "|C2||shake|在這個世界上一切都沒有意義。",
 		},
 		{
-			"dialog"			: "|C2||shake|一切都完全没有意义！",
+			"dialog"			: "|C2||shake|一切都完全沒有意義！",
 		},
 		{
-			"dialog"			: "|C2||shake|你所做的一切都是无谓的。",
+			"dialog"			: "|C2||shake|你所做的一切都是無謂的。",
 		},
 		{
-			"dialog"			: "|C2||shake|一切都会死亡。",
+			"dialog"			: "|C2||shake|一切都會死亡。",
 		},
 		{
-			"dialog"			: "|C2||shake|放弃是唯一的解脱。",
+			"dialog"			: "|C2||shake|放棄是唯一的解脫。",
 		},
 		{
 			"dialog"			: "|C2||shake|HahAHAhaHahaaHAHahaHahAahAHaha",
 		},
 		{
-			"dialog"			: "|C2||shake|她还能坚持多久？",
+			"dialog"			: "|C2||shake|她還能堅持多久？",
 		},
 		{
-			"dialog"			: "|C2||shake|她为什么不直接放弃？",
+			"dialog"			: "|C2||shake|她為什麼不直接放棄？",
 		},
 		{
-			"dialog"			: "|C2||shake|我   会   让   她   解   脱。",
+			"dialog"			: "|C2||shake|我   會   讓   她   解   脫。",
 		},
 		{
 			"play_music"		: "silence",

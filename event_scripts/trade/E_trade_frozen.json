@@ -4,23 +4,23 @@
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
 			"random"			: 3,
 			"dialog_rand1"		: "|shake|我... 好冷。",
-			"dialog_rand2"		: "|shake|我要   冻-冻僵了。",
-			"dialog_rand3"		: "|shake|你也觉得冷-冷吗？",
+			"dialog_rand2"		: "|shake|我要   凍-凍僵了。",
+			"dialog_rand3"		: "|shake|你也覺得冷-冷嗎？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
 			"random"			: 3,
-			"dialog_rand1"		: "|shake|我很久没有感受过温暖了。",
-			"dialog_rand2"		: "|shake|我不习惯感受到任何温暖。",
-			"dialog_rand3"		: "|shake|温暖的感觉对于我来说如此新鲜。",
+			"dialog_rand1"		: "|shake|我很久沒有感受過溫暖了。",
+			"dialog_rand2"		: "|shake|我不習慣感受到任何溫暖。",
+			"dialog_rand3"		: "|shake|溫暖的感覺對於我來說如此新鮮。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-			"dialog"			: "你有什么东西能够让我|C3|温暖|C0|起来吗？",
+			"dialog"			: "你有什麼東西能夠讓我|C3|溫暖|C0|起來嗎？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-			"dialog"			: "即使没那么温暖，它身上仍然会残留着来自你的暖意",
+			"dialog"			: "即使沒那麼溫暖，它身上仍然會殘留著來自你的暖意",
 		},
 	],
 	
@@ -31,73 +31,73 @@
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-			"dialog"			: "哦，你好温暖...",
+			"dialog"			: "哦，你好溫暖...",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
-			"dialog"			: "你等一下！|L||!||shake|你冰凉冰凉的！",
+			"dialog"			: "你等一下！|L||!||shake|你冰涼冰涼的！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-			"dialog"			: "|shake|哦... 对不起。",
+			"dialog"			: "|shake|哦... 對不起。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "没关系的！|L||!|我会驱逐你身上的寒冷。",
+			"dialog"			: "沒關係的！|L||!|我會驅逐你身上的寒冷。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-			"dialog"			: "你有其他的东西能够让我|C3|温暖|C0|起来吗？",
+			"dialog"			: "你有其他的東西能夠讓我|C3|溫暖|C0|起來嗎？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-			"dialog"			: "来自你的东西感觉都暖暖的。",
+			"dialog"			: "來自你的東西感覺都暖暖的。",
 		},
 	],
 	
 	"mood_title"	: "冰封的心情",
-	"monster_gifts"	: "冰封的礼物",
-	"player_gifts"	: "[NAME]的现有礼物",
-	"player_quicks"	: "[NAME]的快速礼物",
+	"monster_gifts"	: "冰封的禮物",
+	"player_gifts"	: "[NAME]的現有禮物",
+	"player_quicks"	: "[NAME]的快速禮物",
 
-	"op_trade"			: "冰封的礼物",
-	"op_give_active"	: "给予现有礼物",
-	"op_give_quick"		: "给予快速礼物",
-	"op_leave"			: "离开",
+	"op_trade"			: "冰封的禮物",
+	"op_give_active"	: "給予現有禮物",
+	"op_give_quick"		: "給予快速禮物",
+	"op_leave"			: "離開",
 	
 	"comment_trade"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-		"dialog"	: "我有礼物给你！虽然它们可能有点冷。",
+		"dialog"	: "我有禮物給你！雖然它們可能有點冷。",
 	},
 	"comment_active"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
-		"dialog"	: "请让我温暖起来。",
+		"dialog"	: "請讓我溫暖起來。",
 	},
 	"comment_quick"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
-		"dialog"	: "你有暖暖的果汁吗？",
+		"dialog"	: "你有暖暖的果汁嗎？",
 	},
 	"comment_leave"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-		"dialog"	: "仅仅是看到你就能带来暖意。",
+		"dialog"	: "僅僅是看到你就能帶來暖意。",
 	},
 	
 	"comment_closed"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-		"dialog"	: "我已经没有礼物了。",
+		"dialog"	: "我已經沒有禮物了。",
 	},
 	"comment_give_limit"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-		"dialog"	: "我已经感觉足够温暖了，谢谢！",
+		"dialog"	: "我已經感覺足夠溫暖了，謝謝！",
 	},
 	"comment_give_empty"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-		"dialog"	: "你没有任何这种东西。",
+		"dialog"	: "你沒有任何這種東西。",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
-		"dialog"	: "是时候离开了吗？",
+		"dialog"	: "是時候離開了嗎？",
 	},
 	
 	
@@ -109,11 +109,11 @@
 	},
 	"comment_take_unknown"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_angry"],
-		"dialog"	: "你可以收下...它。|L|寒冷一定是在影响我的记忆。",
+		"dialog"	: "你可以收下...它。|L|寒冷一定是在影響我的記憶。",
 	},
 	"comment_take_over"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-		"dialog"	: "这个被粘在我冰封的躯体上了。|L|再多一点温暖，你就可以带走它了。",
+		"dialog"	: "這個被黏在我冰封的軀體上了。|L|再多一點溫暖，你就可以帶走它了。",
 	},
 	"comment_quick_limit"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
@@ -121,16 +121,16 @@
 	},
 	"buy_confirm"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
-		"dialog"	: "你想要这个吗？",
+		"dialog"	: "你想要這個嗎？",
 	},
 	"gift_taken" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "|wave|和你在一起，它已经开始发暖了。",
-			"dialog_rand2"		: "把上面的冰砾扫掉就好。",
-			"dialog_rand3"		: "没有太冷吧？",
-			"dialog_rand4"		: "希望它能像你温暖我一样，让你也感到温暖。",
+			"dialog_rand1"		: "|wave|和你在一起，它已經開始發暖了。",
+			"dialog_rand2"		: "把上面的冰礫掃掉就好。",
+			"dialog_rand3"		: "沒有太冷吧？",
+			"dialog_rand4"		: "希望它能像你溫暖我一樣，讓你也感到溫暖。",
 		}
 	],
 	
@@ -140,15 +140,15 @@
 	
 	"comment_give_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
-		"dialog"	: "因为你曾拥有它，仅仅这样也会感觉很温暖。",
+		"dialog"	: "因為你曾擁有它，僅僅這樣也會感覺很溫暖。",
 	},
 	"comment_give_special"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-		"dialog"	: "这会让我非常温暖。",
+		"dialog"	: "這會讓我非常溫暖。",
 	},
 	"comment_give_favorite"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-		"dialog"	: "我会珍惜这种温暖！",
+		"dialog"	: "我會珍惜這種溫暖！",
 	},
 	"comment_give_TAG_boiler_part"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
@@ -156,51 +156,51 @@
 	},
 	"comment_give_dislike"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-		"dialog"	: "这现在对我而言太冷了。",
+		"dialog"	: "這現在對我而言太冷了。",
 	},
 	"comment_give_quick"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-		"dialog"	: "虽然没有很温暖，但我会收下的。",
+		"dialog"	: "雖然沒有很溫暖，但我會收下的。",
 	},
 	"comment_give_blessing"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-		"dialog"	: "这种感觉可能会让我稍微暖起来。",
+		"dialog"	: "這種感覺可能會讓我稍微暖起來。",
 	},
 	"comment_give_burden"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-		"dialog"	: "|shake|我为什么突然这-这么冷-冷？",
+		"dialog"	: "|shake|我為什麼突然這-這麼冷-冷？",
 	},
 	"comment_give_taken"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-		"dialog"	: "我好像已经有这个了。",
+		"dialog"	: "我好像已經有這個了。",
 	},
 	"comment_give_starter"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_angry"],
-		"dialog"	: "这对你而言太重要了！",
+		"dialog"	: "這對你而言太重要了！",
 	},
 	"give_confirm"			: {
 		"character"	: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-		"dialog"	: "我能收下它吗？",
+		"dialog"	: "我能收下它嗎？",
 	},
 	"gift_given" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "|wave|我感觉好温暖。",
-			"dialog_rand2"		: "我还能感觉到你在上面残留的温暖。",
-			"dialog_rand3"		: "这感觉真不错。",
-			"dialog_rand4"		: "你对我真好。",
+			"dialog_rand1"		: "|wave|我感覺好溫暖。",
+			"dialog_rand2"		: "我還能感覺到你在上面殘留的溫暖。",
+			"dialog_rand3"		: "這感覺真不錯。",
+			"dialog_rand4"		: "你對我真好。",
 		}
 	],
 	"favorite_given" 		: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-			"dialog"			: "我真的值得这么多的温暖与善意吗？",
+			"dialog"			: "我真的值得這麼多的溫暖與善意嗎？",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-			"dialog"			: "你的论点非常有说服力。",
+			"dialog"			: "你的論點非常有說服力。",
 		}
 	],
 
@@ -210,82 +210,82 @@
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_suspicious3"],
-			"dialog"			: "小机器人还教会了我另一个技巧。",
+			"dialog"			: "小機器人還教會了我另一個技巧。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-			"dialog"			: "这   太   温   暖   了！",
+			"dialog"			: "這   太   溫   暖   了！",
 		},
 	],
 	
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-			"dialog"			: "你是如何一直那么温暖的",
+			"dialog"			: "你是如何一直那麼溫暖的",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "哦，我吗？那当然是因为我亲爱的缺陷了。",
+			"dialog"			: "哦，我嗎？那當然是因為我親愛的缺陷了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "|shake|什么？|!||L|我们走吧，小蓝。",
+			"dialog"			: "|shake|什麼？|!||L|我們走吧，小藍。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "你看？赞美她的时候她会变得特别温暖。",
+			"dialog"			: "你看？讚美她的時候她會變得特別溫暖。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad"],
-			"dialog"			: "你不去给她一个小小的拥抱吗？|!||L|她看起来好冷。",
+			"dialog"			: "你不去給她一個小小的擁抱嗎？|!||L|她看起來好冷。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
-			"dialog"			: "|shake|什么！",
+			"dialog"			: "|shake|什麼！",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "还有一个小小的吻？",
+			"dialog"			: "還有一個小小的吻？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
-			"dialog"			: "别说了，小绿！",
+			"dialog"			: "別說了，小綠！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_happy"],
-			"dialog"			: "好温暖。",
+			"dialog"			: "好溫暖。",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "我要离开了。",
+			"dialog"			: "我要離開了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_sad"],
-			"dialog"			: "...再待一会。",
+			"dialog"			: "...再待一會。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
-			"dialog"			: "我最好别在这里又待一个小时。",
+			"dialog"			: "我最好別在這裡又待一個小時。",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_frozen_veyeral_right", "MOOD_normal"],
-			"dialog"			: "你的到来让我如此温暖。",
+			"dialog"			: "你的到來讓我如此溫暖。",
 		},
 		{
 			"love_hearts"		: 1,

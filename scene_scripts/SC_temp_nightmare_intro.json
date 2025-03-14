@@ -5,35 +5,35 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-			"dialog"			: "所以你已经到这里了？",
+			"dialog"			: "所以你已經到這裡了？",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|这让索拉纳非常开心！",
+			"dialog"			: "|wave|這讓索拉納非常開心！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_confused"],
-			"dialog"			: "你可能注意到了这里还少了点东西。",
+			"dialog"			: "你可能注意到了這裡還少了點東西。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
-			"dialog"			: "故事都还不在这里。",
+			"dialog"			: "故事都還不在這裡。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_sad"],
-			"dialog"			: "你甚至不知道索拉纳是谁。",
+			"dialog"			: "你甚至不知道索拉納是誰。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
-			"dialog"			: "但故事会有的！",
+			"dialog"			: "但故事會有的！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "它们现在正在写！|L||!|你最终会知道索拉纳的！",
+			"dialog"			: "它們現在正在寫！|L||!|你最終會知道索拉納的！",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|总之，|norm|索拉纳祝愿你在无尽梦魇中能够有美好的时光！",
+			"dialog"			: "|wave|總之，|norm|索拉納祝願你在無盡夢魘中能夠有美好的時光！",
 		},
 	]
 }

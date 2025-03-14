@@ -7,61 +7,61 @@
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "|wave|你又来了！",
+			"dialog_rand1"		: "|wave|你又來了！",
 			"dialog_rand2"		: "|wave|我找到你了！",
-			"dialog_rand3"		: "|wave|我刚刚在找你！",
+			"dialog_rand3"		: "|wave|我剛剛在找你！",
 		},
 		{
 			"fast_text"			: 1,
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_very_happy"],
 			"random"			: 4,
 			"dialog_rand1"		: "|shake|是的。是的。是的。是的。是的。|L|是的。是的。是的。是的。是的。|L|是的。是的。是的。",
-			"dialog_rand2"		: "|shake|对。对。对。对。对。对。|L|对。对。对。对。对。|L|对。对。对。对。",
-			"dialog_rand3"		: "|shake|对。对。对。对。对。对。|L|是的。是的。是的。是的。|L||wave|耶--！",
-			"dialog_rand4"		: "|shake|是的。是的。是的。是的。|L|对。对。对。对。对。对。|L||wave|耶----！",
+			"dialog_rand2"		: "|shake|對。對。對。對。對。對。|L|對。對。對。對。對。|L|對。對。對。對。",
+			"dialog_rand3"		: "|shake|對。對。對。對。對。對。|L|是的。是的。是的。是的。|L||wave|耶--！",
+			"dialog_rand4"		: "|shake|是的。是的。是的。是的。|L|對。對。對。對。對。對。|L||wave|耶----！",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
-			"dialog"			: "我早些时候有些害怕，就跑走了。",
+			"dialog"			: "我早些時候有些害怕，就跑走了。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised"],
 			"random"			: 2,
-			"dialog_rand1"		: "但是然后我就记起来我还有一个想要给你的东西。",
-			"dialog_rand2"		: "但然后我就在地板上发现了这个东西，而它让我想到了你。",
+			"dialog_rand1"		: "但是然後我就記起來我還有一個想要給你的東西。",
+			"dialog_rand2"		: "但然後我就在地板上發現了這個東西，而它讓我想到了你。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_confused"],
-			"dialog"			: "然后我就找不到你在哪里了。",
+			"dialog"			: "然後我就找不到你在哪裡了。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
-			"dialog"			: "但然后我确实找到了你，而现在我就在这了。",
+			"dialog"			: "但然後我確實找到了你，而現在我就在這了。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_awkward"],
 			"random"			: 3,
-			"dialog_rand1"		: "而然后我就不知道发生什么了因为都还没有发生。",
-			"dialog_rand2"		: "我不知道接下来发生了什么因为还没有发生。",
-			"dialog_rand3"		: "再然后我就不知道了，我可没办法预知未来。",
+			"dialog_rand1"		: "而然後我就不知道發生什麼事了因為都還沒有發生。",
+			"dialog_rand2"		: "我不知道接下來發生了什麼因為還沒有發生。",
+			"dialog_rand3"		: "再然後我就不知道了，我可沒辦法預知未來。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
 			"random"			: 2,
-			"dialog_rand1"		: "|shake|对。对。对。对。对。对。|L||wave|对--！",
+			"dialog_rand1"		: "|shake|對。對。對。對。對。對。|L||wave|對--！",
 			"dialog_rand2"		: "|shake|是的。是的。是的。是的。是的。|L||wave|耶------！",
 		},
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_content"],
 			"random"			: 3,
-			"dialog_rand1"		: "现在我可以把这个给你了！",
-			"dialog_rand2"		: "我可以给你一个礼物！",
-			"dialog_rand3"		: "我希望你收下其中一个！",
+			"dialog_rand1"		: "現在我可以把這個給你了！",
+			"dialog_rand2"		: "我可以給你一個禮物！",
+			"dialog_rand3"		: "我希望你收下其中一個！",
 		},
 	],
 	
-	"monster_gifts"	: "雷斯塔尤的礼物",
+	"monster_gifts"	: "雷斯塔尤的禮物",
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
@@ -69,21 +69,21 @@
 	},
 	"comment_take_stone"	: {
 		"character"	: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_very_happy"],
-		"dialog"	: "只为你准备的！",
+		"dialog"	: "只為你準備的！",
 	},
 	"comment_take_astrayo_part"	: {
 		"character"	: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
-		"dialog"	: "它怎么到那的？",
+		"dialog"	: "它怎麼到那的？",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
-		"dialog"	: "对，对，对，这个吗？",
+		"dialog"	: "對，對，對，這個嗎？",
 	},
 	
 	"another_gift_1" 	: [
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
-			"dialog"			: "我...  希望你喜欢它。",
+			"dialog"			: "我...  希望你喜歡它。",
 		},
 		{
 			"fast_text"			: 1,
@@ -92,24 +92,24 @@
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_awkward"],
-			"dialog"			: "|shake|你不该看到那些的！",
+			"dialog"			: "|shake|你不該看到那些的！",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised_blush"],
-			"dialog"			: "我好尴尬。|L|这太尴尬了。|L|这太尴尬了。",
+			"dialog"			: "我好尷尬。|L|這太尷尬了。|L|這太尷尬了。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
-			"dialog"			: "|shake|我不想做这么多的！",
+			"dialog"			: "|shake|我不想做這麼多的！",
 		},
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
-			"dialog"			: "没必要继续藏着了。",
+			"dialog"			: "沒必要繼續藏著了。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_aggressive"],
-			"dialog"			: "现在你必须收下一个。",
+			"dialog"			: "現在你必須收下一個。",
 		},
 	],
 	
@@ -122,14 +122,14 @@
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
-			"dialog"			: "我也找到了其他一些你可能会喜欢的东西。",
+			"dialog"			: "我也找到了其他一些你可能會喜歡的東西。",
 		},
 	],
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
-			"dialog"			: "你没必要因为过于开心而感到尴尬的。",
+			"dialog"			: "你沒必要因為過於開心而感到尷尬的。",
 		},
 		{
 			"fast_text"			: 1,
@@ -138,7 +138,7 @@
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_very_happy"],
-			"dialog"			: "我爱你！",
+			"dialog"			: "我愛你！",
 		},
 		{
 			"fast_text"			: 0,
@@ -148,7 +148,7 @@
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised_blush"],
-			"dialog"			: "对不起...",
+			"dialog"			: "對不起...",
 		},
 	],
 	
@@ -156,28 +156,28 @@
 		{
 			"fast_text"			: 1,
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
-			"dialog"			: "对不起。对不起。对不起。对不起。|L|对不起。对不起。对不起。对不起。",
+			"dialog"			: "對不起。對不起。對不起。對不起。|L|對不起。對不起。對不起。對不起。",
 		},
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
-			"dialog"			: "真对不起，那些心型石的事情。",
+			"dialog"			: "真對不起，那些心型石的事情。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused_blush"],
-			"dialog"			: "要知道，当我太激动的时候，我的爪子就会长得特别长。",
+			"dialog"			: "要知道，當我太激動的時候，我的爪子就會長得特別長。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised"],
-			"dialog"			: "哦，真的吗？",
+			"dialog"			: "哦，真的嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
-			"dialog"			: "当然，它们会变成三倍长。|L||!|真的很尴尬。",
+			"dialog"			: "當然，它們會變成三倍長。|L||!|真的很尷尬。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
-			"dialog"			: "不，这其实挺棒的！",
+			"dialog"			: "不，這其實挺棒的！",
 		},
 	],
 	
@@ -185,20 +185,20 @@
 		{
 			"fast_text"			: 1,
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_blush"],
-			"dialog"			: "对不起。对不起。对不起。对不起。|L|对不起。对不起。对不起。对不起。",
+			"dialog"			: "對不起。對不起。對不起。對不起。|L|對不起。對不起。對不起。對不起。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_awkward"],
-			"dialog"			: "我不是想做出这么多心型石的。这是意外。",
+			"dialog"			: "我不是想做出這麼多心型石的。這是意外。",
 		},
 		{
 			"fast_text"			: 0,
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
-			"dialog"			: "哇哦，你一定非常喜欢我的姐姐。",
+			"dialog"			: "哇哦，你一定非常喜歡我的姐姐。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_suspicious2"],
-			"dialog"			: "快去给她个拥抱。她可不会咬人。|L||!|至少到现在还没有过。",
+			"dialog"			: "快去給她個擁抱。她可不會咬人。|L||!|至少到現在還沒有過。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_surprised_blush"],
@@ -207,18 +207,18 @@
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "哦...谢谢你，雷斯塔尤。",
+			"dialog"			: "哦...謝謝你，雷斯塔尤。",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
-			"dialog"			: "所以，那些心型石是怎么回事？",
+			"dialog"			: "所以，那些心型石是怎麼回事？",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_angry"],
-			"dialog"			: "我真不敢相信你直接就这样问我！",
+			"dialog"			: "我真不敢相信你直接就這樣問我！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_shocked"],
@@ -226,15 +226,15 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_confused"],
-			"dialog"			: "你们这些符文每次做出一大堆到处都是，然后任何人去碰的时候都会生气。",
+			"dialog"			: "你們這些符文每次做出一大堆到處都是，然後任何人去碰的時候都會生氣。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_angry_blush"],
-			"dialog"			: "这些只是为我喜欢的人做的！",
+			"dialog"			: "這些只是為我喜歡的人做的！",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "哈哈，你爱我！",
+			"dialog"			: "哈哈，你愛我！",
 		},
 	],
 	
@@ -242,11 +242,11 @@
 		{
 			"fast_text"			: 1,
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_happy"],
-			"dialog"			: "|shake|对。对。对。对。对。对。|L|对。对。对。对。对。|L|对。对。对。对。",
+			"dialog"			: "|shake|對。對。對。對。對。對。|L|對。對。對。對。對。|L|對。對。對。對。",
 		},
 		{
 			"character"			: ["VOICE_astrayo", "CHAR_astrayo_right", "MOOD_aggressive"],
-			"dialog"			: "我现在要抱你了！",
+			"dialog"			: "我現在要抱你了！",
 		},
 		{
 			"fast_text"			: 0,

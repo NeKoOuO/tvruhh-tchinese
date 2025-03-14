@@ -9,13 +9,13 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"voice"				: "VOICE_static",
-			"dialog"			: "请记住！",
+			"dialog"			: "請記住！",
 		},
 		{
-			"dialog"			: "有人一直爱着你。",
+			"dialog"			: "有人一直愛著你。",
 		},
 		{
-			"dialog"			: "请不要放弃。",
+			"dialog"			: "請不要放棄。",
 		},
 		{
 			"center_text_x"		: 1,
@@ -26,30 +26,30 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_blank_intro_wake_up1",
 			"voice"				: "VOICE_blank",
-			"dialog"			: "我不会放弃！",
+			"dialog"			: "我不會放棄！",
 		},
 		{
 			"dialog"			: ". . .",
 		},
 		{
-			"dialog"			: "又是那个梦吗？",
+			"dialog"			: "又是那個夢嗎？",
 		},
 		{
 			"transition_type"	: 1,
 			"bg_image"			: "spr_blank_intro_wake_up2",
-			"dialog"			: "不。    刚刚那不是梦。",
+			"dialog"			: "不。    剛剛那不是夢。",
 		},
 		{
-			"dialog"			: "我现在能够回忆起过去的几天了。",
+			"dialog"			: "我現在能夠回憶起過去的幾天了。",
 		},
 		{
-			"dialog"			: "但是怪物们估计已经忘记我了。",
+			"dialog"			: "但是怪物們估計已經忘記我了。",
 		},
 		{
 			"dialog"			: ". . .",
 		},
 		{
-			"dialog"			: "我会去外面看看。",
+			"dialog"			: "我會去外面看看。",
 		},
 		{
 			"transition_type"	: 0,
@@ -62,17 +62,17 @@
 			"dialog"			: "又在下雨。",
 		},
 		{
-			"dialog"			: "这可不正常。",
+			"dialog"			: "這可不正常。",
 		},
 		{
-			"dialog"			: "雨已经下的太久太久了。",
+			"dialog"			: "雨已經下的太久太久了。",
 		},
 		{
 			"use_textbox"		: 1,
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
-			"dialog"			: "你好，小机器人。",
+			"dialog"			: "你好，小機器人。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -80,43 +80,43 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元从年幼的扎拉登身上检测出了不寻常的感受。",
+			"dialog"			: "本單元從年幼的扎拉登身上檢測出了不尋常的感受。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
-			"dialog"			: "我感觉不太好。|L||!|我喜欢雨，但这也下的太多了。",
+			"dialog"			: "我感覺不太好。|L||!|我喜歡雨，但這也下的太多了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad2"],
-			"dialog"			: "感觉就像它永远不会停止一样。",
+			"dialog"			: "感覺就像它永遠不會停止一樣。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "而雷声响起时我也不太安心。",
+			"dialog"			: "而雷聲響起時我也不太安心。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "对于扎拉登而言，雷电恐惧症是很常见的。",
+			"dialog"			: "對於扎拉登而言，雷電恐懼症是很常見的。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|在看到闪电后，用手握住你的两个触角。",
+			"dialog"			: "|C3|建議:|C0|在看到閃電後，用手握住你的兩個觸角。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这会抑制接下来所接收到的雷声音量。",
+			"dialog"			: "這會抑制接下來所接收到的雷聲音量。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "谢谢你，小机器人。",
+			"dialog"			: "謝謝你，小機器人。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_surprised"],
-			"dialog"			: "你知道雨下了多久了吗？",
+			"dialog"			: "你知道雨下了多久了嗎？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元现在将搜寻她的记忆以确定自从大雨开始经过了几日。",
+			"dialog"			: "本單元現在將搜尋她的記憶以確定自從大雨開始經過了幾日。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -128,7 +128,7 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|一百四十什么？",
+			"dialog"			: "|shake|一百四十什麼？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
@@ -136,40 +136,40 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元根据你的表情判断，连续148天下雨时间过长，非常罕见。",
+			"dialog"			: "本單元根據你的表情判斷，連續148天下雨時間過長，非常罕見。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "我还以为只有10天左右。|L|148天根本不可能！",
+			"dialog"			: "我還以為只有10天左右。|L|148天根本不可能！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_cry"],
-			"dialog"			: "这也太久了，而其中大部分我都不记得。|L||!|这有点吓人了。",
+			"dialog"			: "這也太久了，而其中大部分我都不記得。|L||!|這有點嚇人了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|更新:|C0|通过环境读数分析，本单元计算得到明早下雨的几率约为0.01%。",
+			"dialog"			: "|C3|更新:|C0|通過環境讀數分析，本單元計算得到明早下雨的機率約為0.01%。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
-			"dialog"			: "所以雨明天会停吗？",
+			"dialog"			: "所以雨明天會停嗎？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "明天下雨的可能性接近于零。",
+			"dialog"			: "明天下雨的可能性接近於零。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],
-			"dialog"			: "这真是好消息。|L||!|谢谢你为了我这么做。",
+			"dialog"			: "這真是好消息。|L||!|謝謝你為了我這麼做。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry2"],
-			"dialog"			: "|wave|我爱你，小机器人！",
+			"dialog"			: "|wave|我愛你，小機器人！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元感觉到非常高兴。",
+			"dialog"			: "本單元感覺到非常高興。",
 		}
 	]
 }

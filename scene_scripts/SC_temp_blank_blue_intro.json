@@ -5,43 +5,43 @@
 			"play_music"		: "defect_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|真是只可爱的蓝色维目尔。",
+			"dialog"			: "|wave|真是只可愛的藍色維目爾。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "是的，所有维目尔中最美丽的！",
+			"dialog"			: "是的，所有維目爾中最美麗的！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "请允许我介绍自己。|!||L|我即是   |C3|那位      蓝色维目尔。",
+			"dialog"			: "請允許我介紹自己。|!||L|我即是   |C3|那位      藍色維目爾。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "|C3|那位蓝色维目尔？",
+			"dialog"			: "|C3|那位藍色維目爾？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_angry"],
-			"dialog"			: "|shake|我们现在要战斗了！",
+			"dialog"			: "|shake|我們現在要戰鬥了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|什么？！    |norm|为什么？",
+			"dialog"			: "|shake|什麼？！    |norm|為什麼？",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "因为这部分故事还没有完成，  |wave|但是我的战斗已经准备好了。",
+			"dialog"			: "因為這部分故事還沒有完成，  |wave|但是我的戰鬥已經準備好了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_happy"],
-			"dialog"			: "你必须体验一下。|L||!|实在是太宏大了。|L||!|真的，这是完美的战斗。",
+			"dialog"			: "你必須體驗一下。|L||!|實在是太宏大了。|L||!|真的，這是完美的戰鬥。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "哦，我已经爱你了！",
+			"dialog"			: "哦，我已經愛你了！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_right", "MOOD_normal"],
-			"dialog"			: "我知道的！我也已经爱我自己了。",
+			"dialog"			: "我知道的！我也已經愛我自己了。",
 		},
 	]
 }

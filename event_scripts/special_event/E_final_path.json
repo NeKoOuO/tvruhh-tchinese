@@ -8,36 +8,36 @@
 			"text_w"			: 284,
 			"voice"				: "VOICE_default",
 			"random"			: 3,
-			"dialog_rand1"		: "|C3|另一日的结末将近。",
-			"dialog_rand2"		: "|C3|另一日的太阳即将升起。",
-			"dialog_rand3"		: "|C3|她即将度过另一日。",
+			"dialog_rand1"		: "|C3|另一日的結末將近。",
+			"dialog_rand2"		: "|C3|另一日的太陽即將升起。",
+			"dialog_rand3"		: "|C3|她即將度過另一日。",
 		},
 		{
 			"random"			: 3,
-			"dialog_rand1"		: "|C3|大雨再一次无穷无尽。",
+			"dialog_rand1"		: "|C3|大雨再一次無窮無盡。",
 			"dialog_rand2"		: "|C3|又一次，大雨似乎永不停歇。",
-			"dialog_rand3"		: "|C3|大雨的暗随着夜色增长。",
+			"dialog_rand3"		: "|C3|大雨的暗隨著夜色增長。",
 		},
 		{
 			"random"			: 3,
-			"dialog_rand1"		: "|C3|选择道路的时候到了。",
-			"dialog_rand2"		: "|C3|她必须选择一条最终的道路。",
-			"dialog_rand3"		: "|C3|她今天会选择什么样的道路呢？",
+			"dialog_rand1"		: "|C3|選擇道路的時候到了。",
+			"dialog_rand2"		: "|C3|她必須選擇一條最終的道路。",
+			"dialog_rand3"		: "|C3|她今天會選擇什麼樣的道路呢？",
 		}
 	],
 	
 	"???_name"	: "？？？",
 	"???_path"	: "未知",
 	
-	"1_battle"	: "1场战斗",
-	"x_battles"	: "[VAL1]场战斗",
+	"1_battle"	: "1場戰鬥",
+	"x_battles"	: "[VAL1]場戰鬥",
 	
-	"max_warning"	: "[VAL1]必须被点亮以到达等级[VAL2]",
+	"max_warning"	: "[VAL1]必須被點亮以到達等級[VAL2]",
 	
 	"chosen" : [
 		{
 			"voice"				: "VOICE_default",
-			"dialog"			: "|C3|她踏上了自己选择的道路。",
+			"dialog"			: "|C3|她踏上了自己選擇的道路。",
 		},
 	],
 

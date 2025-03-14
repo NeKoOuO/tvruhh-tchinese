@@ -4,27 +4,27 @@
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_normal"],
 			"random"			: 2,
 			"dialog_rand1"		: "哦，又是你。",
-			"dialog_rand2"		: "没想到这么快又能见到你。",
+			"dialog_rand2"		: "沒想到這麼快又能見到你。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_normal"],
-			"dialog"			: "既然你已经来了，我可以告诉你-",
+			"dialog"			: "既然你已經來了，我可以告訴你-",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_angry"],
-			"dialog"			: "|shake|我对你非常生气！",
+			"dialog"			: "|shake|我對你非常生氣！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_angry"],
 			"random"			: 2,
-			"dialog_rand1"		: "|shake|你让我感觉到这么多爱，我的东西尝起来都像垃圾了！",
-			"dialog_rand2"		: "|shake|我的东西尝起来都像垃圾了，因为你让我感觉到了这么多爱！",
+			"dialog_rand1"		: "|shake|你讓我感覺到這麼多愛，我的東西嘗起來都像垃圾了！",
+			"dialog_rand2"		: "|shake|我的東西嘗起來都像垃圾了，因為你讓我感覺到了這麼多愛！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_sad"],
 			"random"			: 2,
-			"dialog_rand1"		: "我刚想把东西全部丢掉。",
-			"dialog_rand2"		: "我刚要把它扔掉的。",
+			"dialog_rand1"		: "我剛想把東西全部丟掉。",
+			"dialog_rand2"		: "我剛要把它扔掉的。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_sad"],
@@ -33,9 +33,9 @@
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_happy"],
 			"random"			: 3,
-			"dialog_rand1"		: "我要让你收下！",
-			"dialog_rand2"		: "现在你必须收下它！",
-			"dialog_rand3"		: "我现在要把它给你了！",
+			"dialog_rand1"		: "我要讓你收下！",
+			"dialog_rand2"		: "現在你必須收下它！",
+			"dialog_rand3"		: "我現在要把它給你了！",
 		},
 	],
 	
@@ -43,57 +43,57 @@
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_happy"],
-		"dialog"	: "请把它从我身边带走，好好使用。",
+		"dialog"	: "請把它從我身邊帶走，好好使用。",
 	},
 	"comment_take_unknown"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_normal"],
-		"dialog"	: "我甚至不知道这是什么！",
+		"dialog"	: "我甚至不知道這是什麼！",
 	},
 	"comment_quick_limit"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_sad"],
-		"dialog"	: "就算是我也不会让你承受这么大的负担。",
+		"dialog"	: "就算是我也不會讓你承受這麼大的負擔。",
 	},
 	"take_confirm"		: {
 		"character"	: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_normal"],
-		"dialog"	: "你要收下这个吗？",
+		"dialog"	: "你要收下這個嗎？",
 	},
 	
 	"another_gift_1" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_angry"],
-			"dialog"			: "哦不，还没结束！",
+			"dialog"			: "哦不，還沒結束！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_sad"],
 			"random"			: 4,
-			"dialog_rand1"		: "这些东西现在也让我害怕了。",
-			"dialog_rand2"		: "这些东西尝起来也糟糕起来了。",
-			"dialog_rand3"		: "这些现在也让我难受了。",
-			"dialog_rand4"		: "我不再喜欢这些东西了。",
+			"dialog_rand1"		: "這些東西現在也讓我害怕了。",
+			"dialog_rand2"		: "這些東西嘗起來也糟糕起來了。",
+			"dialog_rand3"		: "這些現在也讓我難受了。",
+			"dialog_rand4"		: "我不再喜歡這些東西了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我要让你带走其中一个！",
+			"dialog"			: "我要讓你帶走其中一個！",
 		},
 	],
 	
 	"leave_blank" 	: [
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "我觉得是祛毒的时间了。",
+			"dialog"			: "我覺得是祛毒的時間了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_happy"],
-			"dialog"			: "好棒！现在我知道这感觉有多好了。",
+			"dialog"			: "好棒！現在我知道這感覺有多好了。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_angry"],
-			"dialog"			: "我要怎么样才能再成为    剧毒    维目尔？",
+			"dialog"			: "我要怎麼樣才能再成為    劇毒    維目爾？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
@@ -104,80 +104,80 @@
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_angry"],
-			"dialog"			: "在你让我感觉如此美妙之后，你至少也该把它们从我这拿走了。",
+			"dialog"			: "在你讓我感覺如此美妙之後，你至少也該把它們從我這拿走了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_upset"],
-			"dialog"			: "现在你懂我的感觉了！|!||L|自从我获得这些力量之后，我甚至完全无法享受自我贬低了。",
+			"dialog"			: "現在你懂我的感覺了！|!||L|自從我獲得這些力量之後，我甚至完全無法享受自我貶低了。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_yell"],
-			"dialog"			: "而小蓝甚至更糟糕！",
+			"dialog"			: "而小藍甚至更糟糕！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
-			"dialog"			: "我被诅咒了，无法拥有任何的缺陷。",
+			"dialog"			: "我被詛咒了，無法擁有任何的缺陷。",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|哇哦，你们两个都比我糟糕多了。",
+			"dialog"			: "|wave|哇哦，你們兩個都比我糟糕多了。",
 		},
 	],
 	
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_angry"],
-			"dialog"			: "阳光！我真不敢相信你让她有这种感觉。|!|你要怎么弥补这一切？",
+			"dialog"			: "陽光！我真不敢相信你讓她有這種感覺。|!|你要怎麼彌補這一切？",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_confused_blush"],
-			"dialog"			: "一个小小的吻可以吗？",
+			"dialog"			: "一個小小的吻可以嗎？",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_sad"],
-			"dialog"			: "那大概可以算是开始补偿我吧。",
+			"dialog"			: "那大概可以算是開始補償我吧。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_content"],
-			"dialog"			: "你闻起来真的很棒。",
+			"dialog"			: "你聞起來真的很棒。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|好吧，已经够了。",
+			"dialog"			: "|wave|好吧，已經夠了。",
 		},
 	],
 	
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "你可以放心的把你的负担交给我，我可是恶魔。",
+			"dialog"			: "你可以放心的把你的負擔交給我，我可是惡魔。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "我会用这些让其他怪物清醒一下。",
+			"dialog"			: "我會用這些讓其他怪物清醒一下。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_happy"],
-			"dialog"			: "我的垃圾真的那么有用吗？",
+			"dialog"			: "我的垃圾真的那麼有用嗎？",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_very_happy"],
-			"dialog"			: "当然！     只要是来自心中，我可以用任何垃圾来让你感到被爱。",
+			"dialog"			: "當然！     只要是來自心中，我可以用任何垃圾來讓你感到被愛。",
 		},
 	],
 	
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_angry"],
-			"dialog"			: "在让我感觉这么好之后，带走它们是你理应做的了。",
+			"dialog"			: "在讓我感覺這麼好之後，帶走它們是你理應做的了。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_happy"],
-			"dialog"			: "|wave|我猜我可以原谅你了。",
+			"dialog"			: "|wave|我猜我可以原諒你了。",
 		},
 	],
 

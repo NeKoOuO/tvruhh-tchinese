@@ -9,22 +9,22 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"voice"				: "VOICE_static",
-			"dialog"			: "请试着想起",
+			"dialog"			: "請試著想起",
 		},
 		{
-			"dialog"			: "无论这一切变得有多么困难",
+			"dialog"			: "無論這一切變得有多麼困難",
 		},
 		{
-			"dialog"			: "当你想要放弃的时候",
+			"dialog"			: "當你想要放棄的時候",
 		},
 		{
-			"dialog"			: "请记得",
+			"dialog"			: "請記得",
 		},
 		{
-			"dialog"			: "有人一直爱着你。",
+			"dialog"			: "有人一直愛著你。",
 		},
 		{
-			"dialog"			: "请无视任何否决这一点的声音！",
+			"dialog"			: "請無視任何否決這一點的聲音！",
 		},
 		{
 			"center_text_x"		: 1,
@@ -35,30 +35,30 @@
 			"play_music"		: "scene_music_a",
 			"bg_image"			: "spr_blank_intro_wake_up1",
 			"voice"				: "VOICE_blank",
-			"dialog"			: "刚刚是什么！？",
+			"dialog"			: "剛剛是什麼！？",
 		},
 		{
-			"dialog"			: "刚刚发生了什么！？",
+			"dialog"			: "剛剛發生了什麼事！？",
 		},
 		{
-			"dialog"			: "我怎么到这里的？",
+			"dialog"			: "我怎麼到這裡的？",
 		},
 		{
 			"transition_type"	: 1,
 			"bg_image"			: "spr_blank_intro_wake_up2",
-			"dialog"			: "刚刚只是梦吗？",
+			"dialog"			: "剛剛只是夢嗎？",
 		},
 		{
-			"dialog"			: "但它感觉太真实了。",
+			"dialog"			: "但它感覺太真實了。",
 		},
 		{
-			"dialog"			: "而现在我又在这了...|L||L|只有我独自一人。",
+			"dialog"			: "而現在我又在這了...|L||L|只有我獨自一人。",
 		},
 		{
 			"dialog"			: ". . .",
 		},
 		{
-			"dialog"			: "我应该去看看外面。",
+			"dialog"			: "我應該去看看外面。",
 		},
 		{
 			"transition_type"	: 0,
@@ -71,44 +71,44 @@
 			"dialog"			: "今天也在下雨。",
 		},
 		{
-			"dialog"			: "这场雨已经持续多久了？",
+			"dialog"			: "這場雨已經持續多久了？",
 		},
 		{
-			"dialog"			: "我记不得了，     但感觉像是很长很长一段时间。",
+			"dialog"			: "我記不得了，     但感覺像是很長很長一段時間。",
 		},
 		{
-			"dialog"			: "希望明天会好点。",
+			"dialog"			: "希望明天會好點。",
 		},
 		{
 			"use_textbox"		: 1,
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_scene_raining_cave",
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "|wave|你好，小机器人！",
+			"dialog"			: "|wave|你好，小機器人！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "你好，年幼的扎拉登。|L||!|本单元的程序能够-",
+			"dialog"			: "你好，年幼的扎拉登。|L||!|本單元的程序能夠-",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "你昨天跟我说过了。",
+			"dialog"			: "你昨天跟我說過了。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|更新:|C0|年幼的扎拉登记得本单元。",
+			"dialog"			: "|C3|更新:|C0|年幼的扎拉登記得本單元。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我当然记得你！",
+			"dialog"			: "|wave|我當然記得你！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
-			"dialog"			: "我怎么会忘记小机器人？|L|你昨天帮了我这么多！",
+			"dialog"			: "我怎麼會忘記小機器人？|L|你昨天幫了我這麼多！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元刚刚假定年幼的扎拉登会再次忘记她。",
+			"dialog"			: "本單元剛剛假定年幼的扎拉登會再次忘記她。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
@@ -116,23 +116,23 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "正确。     |L|于昨天之前，本单元已经与年幼的扎拉登相遇了许多次。",
+			"dialog"			: "正確。     |L|於昨天之前，本單元已經與年幼的扎拉登相遇了許多次。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这是首次这位扎拉登仍记得本单元。",
+			"dialog"			: "這是首次這位扎拉登仍記得本單元。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "|shake|什么？！",
+			"dialog"			: "|shake|什麼？！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
-			"dialog"			: "这可不好。|L|我怎么能够忘记这么多事情？",
+			"dialog"			: "這可不好。|L|我怎麼能夠忘記這麼多事情？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元没有关于该现象的任何信息。",
+			"dialog"			: "本單元沒有關於該現象的任何資訊。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
@@ -140,27 +140,27 @@
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "嗯，至少我现在记得你了！",
+			"dialog"			: "嗯，至少我現在記得你了！",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_pain"],
-			"dialog"			: "而且我保证我明天还会记得你！|L||!||shake|我每天都会记得你！",
+			"dialog"			: "而且我保證我明天還會記得你！|L||!||shake|我每天都會記得你！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元从该保证中侦测到了不必要的激烈语气。",
+			"dialog"			: "本單元從該保證中偵測到了不必要的激烈語氣。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
-			"dialog"			: "哦，对不起，    我刚刚有点不由自主了。",
+			"dialog"			: "哦，對不起，    我剛剛有點不由自主了。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad_blush"],
-			"dialog"			: "只是... 我怎么会忘记我爱的人？",
+			"dialog"			: "只是... 我怎麼會忘記我愛的人？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "这种记忆缺失并非在年幼扎拉登的控制之内。",
+			"dialog"			: "這種記憶缺失並非在年幼扎拉登的控制之內。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
@@ -168,48 +168,48 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "怪物们大概率也忘记了之前所发生的事件。",
+			"dialog"			: "怪物們高機率也忘記了之前所發生的事件。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "怪物们会忘记爱是什么。",
+			"dialog"			: "怪物們會忘記愛是什麼。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_shocked"],
-			"dialog"			: "那么我就必须要再次向她们展示爱！",
+			"dialog"			: "那麼我就必須要再次向她們展示愛！",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建议:|C0|使用你的能力让怪物们爱你。",
+			"dialog"			: "|C3|建議:|C0|使用你的能力讓怪物們愛你。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused_blush"],
-			"dialog"			: "或者我为她们展示爱是什么，然后让她们自己决定？",
+			"dialog"			: "或者我為她們展示愛是什麼，然後讓她們自己決定？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|错误:|C0|本单元无法计算出区别。",
+			"dialog"			: "|C3|錯誤:|C0|本單元無法計算出區別。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
-			"dialog"			: "没事的。     |L|我相信有一天你会搞明白的。",
+			"dialog"			: "沒事的。     |L|我相信有一天你會搞明白的。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
-			"dialog"			: "嘿小机器人，你觉得冷吗？",
+			"dialog"			: "嘿小機器人，你覺得冷嗎？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本单元在寒冷环境下能够以最佳效率-",
+			"dialog"			: "本單元在寒冷環境下能夠以最佳效率-",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|我爱你！",
+			"dialog"			: "|wave|我愛你！",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"			: "本单元理解了年幼的扎拉登所做的事情。",
+			"dialog"			: "本單元理解了年幼的扎拉登所做的事情。",
 		}
 	]
 }

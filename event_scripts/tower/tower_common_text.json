@@ -3,93 +3,93 @@
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
 			"random"			: 4,
-			"dialog_rand1"		: "不要恐惧。",
-			"dialog_rand2"		: "不要害怕这个球体。",
-			"dialog_rand3"		: "不要害怕你面前的球体。",
-			"dialog_rand4"		: "无需惧怕这个球体。",
+			"dialog_rand1"		: "不要恐懼。",
+			"dialog_rand2"		: "不要害怕這個球體。",
+			"dialog_rand3"		: "不要害怕你面前的球體。",
+			"dialog_rand4"		: "無需懼怕這個球體。",
 		},
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
 			"random"			: 4,
-			"dialog_rand1"		: "这个球体可以为你制造礼物与祝福。",
-			"dialog_rand2"		: "这个球体可以为你施加祝福。",
-			"dialog_rand3"		: "这个球体可以为你生成礼物。",
-			"dialog_rand4"		: "这个球体可以为你构建礼物。",
+			"dialog_rand1"		: "這個球體可以為你製造禮物與祝福。",
+			"dialog_rand2"		: "這個球體可以為你施加祝福。",
+			"dialog_rand3"		: "這個球體可以為你生成禮物。",
+			"dialog_rand4"		: "這個球體可以為你構建禮物。",
 		},
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
 			"random"			: 4,
-			"dialog_rand1"		: "但是，这会需要一定的情绪建设补给。",
-			"dialog_rand2"		: "然而，构建的过程需要一些补给。",
-			"dialog_rand3"		: "但是，该球体需要特定的材料才能创造这种礼物。",
-			"dialog_rand4"		: "情绪材料对这种礼物的创造是必要的。",
+			"dialog_rand1"		: "但是，這會需要一定的情緒建設補給。",
+			"dialog_rand2"		: "然而，構建的過程需要一些補給。",
+			"dialog_rand3"		: "但是，該球體需要特定的材料才能創造這種禮物。",
+			"dialog_rand4"		: "情緒材料對這種禮物的創造是必要的。",
 		},
 	],
 	
-	"op_trade"			: "创造礼物",
-	"op_give_active"	: "给予现有礼物",
-	"op_give_panic"		: "给予恐慌",
-	"op_give_maxhp"		: "给予血液",
-	"op_give_hp"		: "给予生命",
-	"op_give_charge"	: "给予能量",
-	"op_leave"			: "离开",
+	"op_trade"			: "創造禮物",
+	"op_give_active"	: "給予現有禮物",
+	"op_give_panic"		: "給予恐慌",
+	"op_give_maxhp"		: "給予血液",
+	"op_give_hp"		: "給予生命",
+	"op_give_charge"	: "給予能量",
+	"op_leave"			: "離開",
 	
 	"comment_trade"		: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "这些是今天该球体能为你创造的礼物。",
+		"dialog"	: "這些是今天該球體能為你創造的禮物。",
 	},
 	"comment_give_gift"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "使用你其中一个|C3|礼物|C0|作为材料。",
+		"dialog"	: "使用你其中一個|C3|禮物|C0|作為材料。",
 	},
 	"comment_give_panic"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "使用你的|C3|恐慌|C0|作为材料。",
+		"dialog"	: "使用你的|C3|恐慌|C0|作為材料。",
 	},
 	"comment_give_maxhp"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "将你的|C3|最大生命|C0|转化为材料。",
+		"dialog"	: "將你的|C3|最大生命|C0|轉化為材料。",
 	},
 	"comment_give_hp"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "将你的|C3|现有生命|C0|转化为材料。",
+		"dialog"	: "將你的|C3|現有生命|C0|轉化為材料。",
 	},
 	"comment_give_charge"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "将你的|C3|最大能量|C0|转化为材料。",
+		"dialog"	: "將你的|C3|最大能量|C0|轉化為材料。",
 	},
 	"comment_leave"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "你准备好离开时请告诉该球体。",
+		"dialog"	: "你準備好離開時請告訴該球體。",
 	},
 	
 	"comment_empty_trade"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "没有剩下的了。",
+		"dialog"	: "沒有剩下的了。",
 	},
 	"comment_no_gift"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "没有更多可用礼物。",
+		"dialog"	: "沒有更多可用禮物。",
 	},
 	"comment_no_panic"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "没有更多可用恐慌。",
+		"dialog"	: "沒有更多可用恐慌。",
 	},
 	"comment_no_hp"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "没有更多可用生命。",
+		"dialog"	: "沒有更多可用生命。",
 	},
 	"comment_no_charge"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "没有更多可用能量。",
+		"dialog"	: "沒有更多可用能量。",
 	},
 	"comment_max_power"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体无法再接受更多材料。",
+		"dialog"	: "該球體無法再接受更多材料。",
 	},
 	"leave_confirm"		: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "你要离开了吗?",
+		"dialog"	: "你要離開了嗎?",
 	},
 	
 	
@@ -97,33 +97,33 @@
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该礼物可被构建。",
+		"dialog"	: "該禮物可被構建。",
 	},
 	"comment_take_unknown"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "你相信该球体创造一个你不记得的东西吗？",
+		"dialog"	: "你相信該球體創造一個你不記得的東西嗎？",
 	},
 	"comment_take_over"		: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体需要更多材料。",
+		"dialog"	: "該球體需要更多材料。",
 	},
 	"comment_quick_limit"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "若是制造出来，你将无法携带它。",
+		"dialog"	: "若是製造出來，你將無法攜帶它。",
 	},
 	"buy_confirm"		: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "这是你想要的吗？",
+		"dialog"	: "這是你想要的嗎？",
 	},
 	"gift_taken" 		: [
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
 			"random"			: 5,
-			"dialog_rand1"		: "该球体希望这个造物可以被你接受。",
-			"dialog_rand2"		: "精准按照蓝图标注构建。",
-			"dialog_rand3"		: "创造的行为带来了非凡的感觉。",
-			"dialog_rand4"		: "该球体愿意为了他人而创造。",
-			"dialog_rand5"		: "该球体构建出了完美的复制品。",
+			"dialog_rand1"		: "該球體希望這個造物可以被你接受。",
+			"dialog_rand2"		: "精準按照藍圖標註構建。",
+			"dialog_rand3"		: "創造的行為帶來了非凡的感覺。",
+			"dialog_rand4"		: "該球體願意為了他人而創造。",
+			"dialog_rand5"		: "該球體構建出了完美的複製品。",
 		}
 	],
 	
@@ -133,52 +133,52 @@
 	
 	"comment_give_normal"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体可以接受这个材料。",
+		"dialog"	: "該球體可以接受這個材料。",
 	},
 	"comment_give_special"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体和这个材料有很强的亲和性。",
+		"dialog"	: "該球體和這個材料有很強的親和性。",
 	},
 	"comment_give_favorite"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体和这个情绪材料有着极强的亲和性。",
+		"dialog"	: "該球體和這個情緒材料有著極強的親和性。",
 	},
 	"comment_give_quick"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "若想的话，还有时间使用它。",
+		"dialog"	: "若想的話，還有時間使用它。",
 	},
 	"comment_give_blessing"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "其中的正面情绪可以被用作材料。",
+		"dialog"	: "其中的正面情緒可以被用作材料。",
 	},
 	"comment_give_TAG_nova_part"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体和她自己的其他部件有着很强的亲和性。",
+		"dialog"	: "該球體和她自己的其他部件有著很強的親和性。",
 	},
 	"comment_give_burden"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体不建议使用负面情绪作为材料。",
+		"dialog"	: "該球體不建議使用負面情緒作為材料。",
 	},
 	"comment_give_taken"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "这仅为你而制造。",
+		"dialog"	: "這僅為你而製造。",
 	},
 	"comment_give_starter"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体不会将它从你身边拿走。",
+		"dialog"	: "該球體不會將它從你身邊拿走。",
 	},
 	"give_confirm"			: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "使用它作为材料？",
+		"dialog"	: "使用它作為材料？",
 	},
 	"gift_given" 		: [
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
 			"random"			: 4,
-			"dialog_rand1"		: "已收到礼物构建材料。",
-			"dialog_rand2"		: "该材料已被接受。",
-			"dialog_rand3"		: "该礼物的形态可被变为另一种。",
-			"dialog_rand4"		: "该礼物材料会变为全新的东西。",
+			"dialog_rand1"		: "已收到禮物構建材料。",
+			"dialog_rand2"		: "該材料已被接受。",
+			"dialog_rand3"		: "該禮物的形態可被變為另一種。",
+			"dialog_rand4"		: "該禮物材料會變為全新的東西。",
 		}
 	],
 
@@ -186,32 +186,32 @@
 	
 	"comment_giving_panic"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "你会给出多少|C3|恐慌攻击？|C0|",
+		"dialog"	: "你會給出多少|C3|恐慌攻擊？|C0|",
 	},
 	"comment_giving_maxhp"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "你会给出多少|C3|最大生命？|C0|",
+		"dialog"	: "你會給出多少|C3|最大生命？|C0|",
 	},
 	"comment_giving_hp"		: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "你会给出多少|C3|生命？|C0|",
+		"dialog"	: "你會給出多少|C3|生命？|C0|",
 	},
 	"comment_giving_charge"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "你会给出多少|C3|最大能量？|C0|",
+		"dialog"	: "你會給出多少|C3|最大能量？|C0|",
 	},
 	"comment_low_charge"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "你最后几单位的|C3|蓄力能量|C0|能够作为双倍材料。",
+		"dialog"	: "你最後幾單位的|C3|蓄力能量|C0|能夠作為雙倍材料。",
 	},
 	"stats_given" 		: [
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
 			"random"			: 3,
-			"dialog_rand1"		: "该球体为你提取出了礼物材料。",
-			"dialog_rand2"		: "该球体可以用这情绪材料制作出精美的礼物。",
-			"dialog_rand3"		: "你的情绪材料将会被制作成强大的礼物。",
+			"dialog_rand1"		: "該球體為你提取出了禮物材料。",
+			"dialog_rand2"		: "該球體可以用這情緒材料製作出精美的禮物。",
+			"dialog_rand3"		: "你的情緒材料將會被製作成強大的禮物。",
 		}
 	],
 	
@@ -220,12 +220,12 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-			"dialog"			: "该球体希望她的协助令人满意。",
+			"dialog"			: "該球體希望她的協助令人滿意。",
 		},
 		{
 			"love_hearts"		: 1,
 			"character"			: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-			"dialog"			: "那在该球体中创造出了非凡的感觉。",
+			"dialog"			: "那在該球體中創造出了非凡的感覺。",
 		},
 	],
 

@@ -2,9 +2,9 @@
 
 	"intro"	: "tower/tower_common_text",
 	
-	"mood_title"	: "蓝宝石的力量",
-	"monster_gifts"	: "蓝宝石的礼物",
-	"player_gifts"	: "[NAME]的现有礼物",
+	"mood_title"	: "藍寶石的力量",
+	"monster_gifts"	: "藍寶石的禮物",
+	"player_gifts"	: "[NAME]的現有禮物",
 	
 	"gift_taken"	: "tower/tower_common_text",
 	"gift_given"	: "tower/tower_common_text",
@@ -12,23 +12,23 @@
 	
 	"comment_give_TAG_m_zaramech"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体和|C3|扎拉机械|C0|怪物家族的材料有着亲和性。",
+		"dialog"	: "該球體和|C3|扎拉機械|C0|怪物家族的材料有著親和性。",
 	},
 	"comment_give_TAG_ZAP"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体对于|C3|电|C0|的材料有着亲和性。",
+		"dialog"	: "該球體對於|C3|電|C0|的材料有著親和性。",
 	},
 	"comment_give_TAG_mech"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体对于|C3|机械|C0|的材料有着亲和性。",
+		"dialog"	: "該球體對於|C3|機械|C0|的材料有著親和性。",
 	},
 	"comment_give_TAG_danger"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体对于|C3|尖利与危险|C0|的材料有着亲和性。",
+		"dialog"	: "該球體對於|C3|尖利與危險|C0|的材料有著親和性。",
 	},
 	"comment_give_FAV_sapphire_part"	: {
 		"character"	: ["VOICE_gem", "CHAR_gem_right", "MOOD_normal"],
-		"dialog"	: "该球体对于她自己的部件有着极强的亲和性。",
+		"dialog"	: "該球體對於她自己的部件有著極強的親和性。",
 	},
 	
 

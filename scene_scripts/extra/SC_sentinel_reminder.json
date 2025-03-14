@@ -5,11 +5,11 @@
 			"play_music"		: "tutorbot_scene_music",
 			"bg_image"			: "spr_scene_raining_outside",
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "本单元现在将为你准备问题。|L||!|准备问题需要的时间暂不确定。",
+			"dialog"			: "本單元現在將為你準備問題。|L||!|準備問題需要的時間暫不確定。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "本单元可能会因为兴奋而爆炸。|L|当她爆炸时请亲切怀念她。",
+			"dialog"			: "本單元可能會因為興奮而爆炸。|L|當她爆炸時請親切懷念她。",
 		},
 	]
 }

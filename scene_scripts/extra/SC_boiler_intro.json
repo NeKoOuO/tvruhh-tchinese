@@ -5,67 +5,67 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "哦，   呃，   你好。|L||!|则是扎拉登的梦境，是吖？",
+			"dialog"			: "哦，   呃，   你好。|L||!|則是扎拉登的夢境，是吖？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "我们是锅炉。",
+			"dialog"			: "我們是鍋爐。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "我们现在看起来有点不一样，是吖？",
+			"dialog"			: "我們現在看起來有點不一樣，是吖？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "火的事情我们很对不起。|L||!|...以及想要用火烧伤你的事情。",
+			"dialog"			: "火的事情我們很對不起。|L||!|...以及想要用火燒傷你的事情。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "我们只是很害怕。",
+			"dialog"			: "我們只是很害怕。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "但我们现在想要帮助你。",
+			"dialog"			: "但我們現在想要幫助你。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
-			"dialog"			: "我们可以和你分享我们强大的|C3|连接突触。",
+			"dialog"			: "我們可以和你分享我們強大的|C3|連接突觸。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "你只需要...   爱我们？    再次？       是吖？",
+			"dialog"			: "你只需要...   愛我們？    再次？       是吖？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "我们的|C3|连接突触|C0|是一个通向另一个时间的传送门。|L||!|我们将则个时间设定为了每个早晨。",
+			"dialog"			: "我們的|C3|連接突觸|C0|是一個通向另一個時間的傳送門。|L||!|我們將則個時間設定為了每個早晨。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "你可以把你的礼物给我们，然后我们会把它们放进我们的|C3|连接突触。",
+			"dialog"			: "你可以把你的禮物給我們，然後我們會把它們放進我們的|C3|連接突觸。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "你可以在任意一天开始时取出则些礼物。",
+			"dialog"			: "你可以在任意一天開始時取出則些禮物。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "你可以在第一场战斗开始之前就有超辣的力量！",
+			"dialog"			: "你可以在第一場戰鬥開始之前就有超辣的力量！",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "你也可以选择把则些礼物留在|C3|连接突触|C0|里。",
+			"dialog"			: "你也可以選擇把則些禮物留在|C3|連接突觸|C0|裡。",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "你可以则样保留礼物直到你有一个|C3|超辣的礼物组合！|C0|",
+			"dialog"			: "你可以則樣保留禮物直到你有一個|C3|超辣的禮物組合！|C0|",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "但是，呃...   实际上，要小心火，好吖？",
+			"dialog"			: "但是，呃...   實際上，要小心火，好吖？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "我们想看到你安全回来，好吖？",
+			"dialog"			: "我們想看到你安全回來，好吖？",
 		}
 	]
 }

@@ -9,16 +9,16 @@
 			"play_music"		: "silence",
 			"bg_image"			: "spr_blank_totaria_end1_1",
 			"voice"				: "VOICE_totaria",
-			"dialog"			: "|C2|她仍旧认为我能够被爱。",
+			"dialog"			: "|C2|她仍舊認為我能夠被愛。",
 		},
 		{
-			"dialog"			: "|C2|我与其他人不一样。",
+			"dialog"			: "|C2|我與其他人不一樣。",
 		},
 		{
-			"dialog"			: "|C2|这种力量对我无效。",
+			"dialog"			: "|C2|這種力量對我無效。",
 		},
 		{
-			"dialog"			: "|C2|当她仍在梦中时，我会收获她的心。",
+			"dialog"			: "|C2|當她仍在夢中時，我會收穫她的心。",
 		},
 		{
 			"transition_type"	: 1,
@@ -26,50 +26,50 @@
 			"dialog"			: "|C2||shake|AaaAaAhHH！",
 		},
 		{
-			"dialog"			: "|C2|这是什么力量？",
+			"dialog"			: "|C2|這是什麼力量？",
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_3",
-			"dialog"			: "|C2||shake|爱可无法做到这一切！",
+			"dialog"			: "|C2||shake|愛可無法做到這一切！",
 		},
 		{
-			"dialog"			: "|C2|这是某种异界的东西！",
+			"dialog"			: "|C2|這是某種異界的東西！",
 		},
 		{
-			"dialog"			: "|C2|我觉得这颗心绝对能够用来修复她们。",
+			"dialog"			: "|C2|我覺得這顆心絕對能夠用來修復她們。",
 		},
 		{
-			"dialog"			: "|C2|我必须要带走它！",
+			"dialog"			: "|C2|我必須要帶走它！",
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_4",
 			"dialog"			: "|C2||shake|AaAAaaHhH！",
 		},
 		{
-			"dialog"			: "|C2||shake|我甚至无法触碰它！",
+			"dialog"			: "|C2||shake|我甚至無法觸碰它！",
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_5",
-			"dialog"			: "|C2|这不可能。",
+			"dialog"			: "|C2|這不可能。",
 		},
 		{
 			"dialog"			: "|C2|. . .",
 		},
 		{
-			"dialog"			: "|C2|雨正在逐渐停息。",
+			"dialog"			: "|C2|雨正在逐漸停息。",
 		},
 		{
-			"dialog"			: "|C2|那么一切随时都可能重置了。",
+			"dialog"			: "|C2|那麼一切隨時都可能重設了。",
 		},
 		{
 			"bg_image"			: "spr_blank_totaria_end1_6",
-			"dialog"			: "|C2|看起来我的时间所剩无几。",
+			"dialog"			: "|C2|看起來我的時間所剩無幾。",
 		},
 		{
-			"dialog"			: "|C2|但我知道她会回来的。",
+			"dialog"			: "|C2|但我知道她會回來的。",
 		},
 		{
-			"dialog"			: "|C2|她一向会的。",
+			"dialog"			: "|C2|她一向會的。",
 		}
 	]
 }
