@@ -245,7 +245,7 @@
 		"tag_official"	: "- 官方語言 -",
 		"tag_custom"	: "- 社區語言 -",
 		"custom_desc"	: "社區語言為非官方翻譯，\n且並不一定隨遊戲更新！",
-		"custom_error"	: "該社區語言僅適用於遊戲的另一個版本!",
+		"custom_error"	: "該社區語言僅適用於\n遊戲的另一個版本!",
 		"custom_warning": "這有可能會造成\n錯誤、崩潰、以及跳過事件等情況!",
 		"custom_version": "語言版本: [VAL1]\n遊戲版本: [VAL2]",
 	},
