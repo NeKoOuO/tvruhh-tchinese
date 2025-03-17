@@ -1,4 +1,4 @@
-## A repository for TVRUHH Traditional Chinese translation files
+## A repository for [TVRUHH](https://steamcommunity.com/app/790060) Traditional Chinese translation files
 
 # 食用方法
 
