@@ -3,9 +3,9 @@ name="正體中文"
 version="Early Access v8.21a"
 message="這是正體中文的測試版"
 [font_data]
-main_font="LXGWWenKaiMonoTC-Regular.ttf"
+main_font="Iansui-Regular.ttf"
 main_size=20
-small_font="forsungnew.ttf"
+small_font="NotoSansTC-Regular.ttf"
 small_size=12
 tiny_font="test3.ttf"
 tiny_size=9
