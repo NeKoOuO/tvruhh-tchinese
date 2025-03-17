@@ -46,7 +46,7 @@
 	"red_tet"			: "紅",
 	"yellow_tet"		: "黃",
 	"blue_tet"			: "藍",
-	"orange_tet"		: "橙",
+	"orange_tet"		: "橘",
 	"purple_tet"		: "紫",
 	"radiant_tet"		: "光耀",
 	
@@ -303,7 +303,7 @@
 	},
 	"SG_orange_scene" : {
 		"name"		: "小心輕放",
-		"desc"		: "\"橙色\"主題曲",
+		"desc"		: "\"橘色\"主題曲",
 	},
 	"SG_purple_scene" : {
 		"name"		: "獨自同行",

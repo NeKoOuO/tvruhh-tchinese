@@ -223,7 +223,7 @@
 	},
 	"orange_comment"	: {
 		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
-		"dialog"	: "橙色的感覺格外柔軟。|L|我們喜歡用臉頰去感覺它",
+		"dialog"	: "橘色的感覺格外柔軟。|L|我們喜歡用臉頰去感覺它",
 	},
 	"purple_comment"	: {
 		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],

@@ -235,7 +235,7 @@
 	},
 	"orange_comment"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-		"dialog"	: "橙色的應該會是辣的，是呀？|L|但實際上非常甜。",
+		"dialog"	: "橘色的應該會是辣的，是呀？|L|但實際上非常甜。",
 	},
 	"purple_comment"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_shocked"],
