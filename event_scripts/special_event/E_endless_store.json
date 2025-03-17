@@ -510,11 +510,11 @@
 		{
 			"unskippable"		: 0,
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "索拉娜為你發明了一個|C3|愛之力量測量設備！|C0|",
+			"dialog"			: "索拉娜為你發明了一個|C3|愛之力量測量裝置！|C0|",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_content"],
-			"dialog"			: "索拉娜因為發明|wave|各式各樣的設備|C0|而出名。",
+			"dialog"			: "索拉娜因為發明|wave|各式各樣的裝置|C0|而出名。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
@@ -527,7 +527,7 @@
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_normal"],
-			"dialog"			: "這個設備能夠使用索拉娜的算法來計算出你的心相較於夢魘的力量如何。",
+			"dialog"			: "這個裝置能夠使用索拉娜的算法來計算出你的心相較於夢魘的力量如何。",
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_aggressive"],
@@ -564,7 +564,7 @@
 		{
 			"show_tutorial"		: "none",
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_very_happy"],
-			"dialog"			: "|wave|索拉娜對|C3|愛之力量測量設備|C0|非常自豪！",
+			"dialog"			: "|wave|索拉娜對|C3|愛之力量測量裝置|C0|非常自豪！",
 		},
 	],
 	"intro_quick" : [
@@ -590,7 +590,7 @@
 		},
 		{
 			"character"			: ["VOICE_solara", "CHAR_solara_right", "MOOD_happy"],
-			"dialog"			: "在你啟用快速禮物時，|C3|愛之力量測量設備|C0|仍然會顯示你的心有多強。",
+			"dialog"			: "在你啟用快速禮物時，|C3|愛之力量測量裝置|C0|仍然會顯示你的心有多強。",
 		},
 	],
 	"intro_blessings" : [

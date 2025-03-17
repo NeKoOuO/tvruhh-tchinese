@@ -9,7 +9,7 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "你可以通過本單元的臉部表情分辨出上述狀況。",
+			"dialog"			: "你可以透過本單元的臉部表情分辨出上述狀況。",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],

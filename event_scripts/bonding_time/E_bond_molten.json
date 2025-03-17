@@ -423,7 +423,7 @@
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
-			"dialog"			: "你們會為樂隊搬運樂器和設備！",
+			"dialog"			: "你們會為樂隊搬運樂器和裝置！",
 		},
 		{
 			"character"			: ["VOICE_veyeral", "CHAR_molten_veyeral_right", "MOOD_sad"],

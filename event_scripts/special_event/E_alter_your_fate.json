@@ -260,7 +260,7 @@
 		{
 			"character"			: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_happy"],
 			"random"			: 4,
-			"dialog_rand1"		: "你通過獻祭獲得了它。",
+			"dialog_rand1"		: "你透過獻祭獲得了它。",
 			"dialog_rand2"		: "你的命運已經被改變了。",
 			"dialog_rand3"		: "願你心想事成。",
 			"dialog_rand4"		: "你掌控著自己的命運。",
@@ -286,7 +286,7 @@
 	},
 	"comment_give_traded"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],
-		"dialog"	: "你曾通過交易獲得了這個禮物，而現在你仍願獻祭它？",
+		"dialog"	: "你曾透過交易獲得了這個禮物，而現在你仍願獻祭它？",
 	},
 	"comment_give_panic_error"	: {
 		"character"	: ["VOICE_abyss", "CHAR_abyss_right", "MOOD_laugh"],

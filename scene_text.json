@@ -248,12 +248,12 @@
 	
 	"SC_mysterious_intro" : {
 		"name"		: "神秘的訊息",
-		"desc"		: "一段訊息，來自一個可以通過夢境進行通訊的設備。",
+		"desc"		: "一段訊息，來自一個可以透過夢境進行通訊的裝置。",
 		"hint"		: "[hint_story_any]",
 	},
 	"SC_scrambla_intro" : {
 		"name"		: "蛋花的夢境",
-		"desc"		: "蛋花通過夢境向你交談。她想要幫助你。",
+		"desc"		: "蛋花透過夢境向你交談。她想要幫助你。",
 		"hint"		: "[hint_unlock_event]",
 	},
 	"SC_scrambla_max_synapse" : {
@@ -263,7 +263,7 @@
 	},
 	"SC_boiler_intro" : {
 		"name"		: "鍋爐的夢境",
-		"desc"		: "鍋爐通過夢境和你交談。她想要幫助你。",
+		"desc"		: "鍋爐透過夢境和你交談。她想要幫助你。",
 		"hint"		: "[hint_unlock_event]",
 	},
 	"SC_boiler_max_synapse" : {
@@ -273,12 +273,12 @@
 	},
 	"SC_blot_intro" : {
 		"name"		: "墨點的夢境",
-		"desc"		: "墨點通過夢境與你交談。她想要你拜訪她的藝術展。",
+		"desc"		: "墨點透過夢境與你交談。她想要你拜訪她的藝術展。",
 		"hint"		: "[hint_unlock_event]",
 	},
 	"SC_vitrea_intro" : {
 		"name"		: "琉璃的夢境",
-		"desc"		: "有著阿瑪加的幫助，琉璃通過夢境與你交談。她想要你拜訪她的天文觀測站。",
+		"desc"		: "有著阿瑪加的幫助，琉璃透過夢境與你交談。她想要你拜訪她的天文觀測站。",
 		"hint"		: "[hint_unlock_event]",
 	},
 	"SC_vitrea_upgrade1" : {
@@ -293,7 +293,7 @@
 	},
 	"SC_sentinel_intro" : {
 		"name"		: "哨衛的夢境",
-		"desc"		: "哨衛4X通過夢境向你發送了友誼邀請。",
+		"desc"		: "哨衛4X透過夢境向你發送了友誼邀請。",
 		"hint"		: "[hint_unlock_event]",
 	},
 	"SC_anomaly_intro" : {
@@ -315,7 +315,7 @@
 		"name"		: "Credits A",
 		"desc"		: "Simple ending credits",
 		"hint"		: "[hint_story_any]",
-		"credit"	: "遊戲製作人                  正體中文本地化\nAngel Polanco             NeKo、赤銅·Syakudo",
+		"credit"	: "遊戲製作人                  正體中文在地化\nAngel Polanco             NeKo、赤銅·Syakudo",
 	},
 	
 	

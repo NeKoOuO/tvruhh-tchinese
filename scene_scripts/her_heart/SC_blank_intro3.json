@@ -148,7 +148,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|更新:|C0|通過環境讀數分析，本單元計算得到明早下雨的機率約為0.01%。",
+			"dialog"			: "|C3|更新:|C0|透過環境讀數分析，本單元計算得到明早下雨的機率約為0.01%。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy_cry1"],

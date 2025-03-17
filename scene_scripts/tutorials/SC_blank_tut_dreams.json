@@ -37,7 +37,7 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本單元需要許多備用儲存設備以儲存這位扎拉登為她展示的愛。",
+			"dialog"		: "本單元需要許多備用儲存裝置以儲存這位扎拉登為她展示的愛。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
@@ -143,7 +143,7 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "通過過往數據分析，高機率能夠確定是打斷本單元-",
+			"dialog"		: "透過以往資料分析，高機率能夠確定是打斷本單元-",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
@@ -152,7 +152,7 @@
 		{
 			"love_hearts"	: 1,
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_blush"],
-			"dialog"		: "本單元夢想著擁有無盡儲存空間的設備。",
+			"dialog"		: "本單元夢想著擁有無盡儲存空間的裝置。",
 		}
 	]
 }

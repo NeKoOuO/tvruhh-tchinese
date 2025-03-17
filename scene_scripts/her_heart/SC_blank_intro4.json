@@ -166,7 +166,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "對於此現象，本單元未保有相關數據。",
+			"dialog"			: "對於此現象，本單元未保有相關資料。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],

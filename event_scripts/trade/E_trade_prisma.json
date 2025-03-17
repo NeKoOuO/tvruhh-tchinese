@@ -158,7 +158,7 @@
 	},
 	"comment_give_taken"	: {
 		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_sad"],
-		"dialog"	: "將本設備已經生成的物品轉化為能源並非明智之舉。",
+		"dialog"	: "將本裝置已經生成的物品轉化為能源並非明智之舉。",
 	},
 	"comment_give_starter"	: {
 		"character"	: ["VOICE_prisma", "CHAR_prisma_right", "MOOD_normal"],

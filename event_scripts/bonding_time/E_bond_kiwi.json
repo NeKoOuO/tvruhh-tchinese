@@ -152,7 +152,7 @@
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_normal"],
-			"dialog"			: "魔法師用她的魔法球通過法術戰鬥。",
+			"dialog"			: "魔法師用她的魔法球透過法術戰鬥。",
 		},
 		{
 			"character"			: ["VOICE_kiwi", "CHAR_kiwi_right", "MOOD_content"],

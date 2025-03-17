@@ -98,7 +98,7 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "通過測試其他人的知識，本單元能夠獲得極大的滿足感。",
+			"dialog"			: "透過測試其他人的知識，本單元能夠獲得極大的滿足感。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],

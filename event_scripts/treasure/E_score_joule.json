@@ -19,7 +19,7 @@
 		{
 			"character"			: ["VOICE_joule", "CHAR_joule_right", "MOOD_normal"],
 			"random"			: 2,
-			"dialog_rand1"		: "我們在嘗試通過頭髮中的微塵把能量傳遞給其他宇宙的其他焦耳。",
+			"dialog_rand1"		: "我們在嘗試透過頭髮中的微塵把能量傳遞給其他宇宙的其他焦耳。",
 			"dialog_rand2"		: "我們頭髮中的魔塵可能可以將能量在宇宙間傳遞。",
 		},
 		{

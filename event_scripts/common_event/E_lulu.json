@@ -2,11 +2,11 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本單元已經採集了更多關於怪物恐懼的數據。",
+			"dialog"			: "本單元已經採集了更多關於怪物恐懼的資料。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "|C3|建議:|C0|接受本單元將數據編譯後的|C3|恐懼感知|C0|禮物。",
+			"dialog"			: "|C3|建議:|C0|接受本單元將資料編譯後的|C3|恐懼感知|C0|禮物。",
 		},
 	],
 	"intro_late" : [
@@ -24,7 +24,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本單元現在會將數據編譯成另一個|C3|恐懼感知|C0|禮物送給你。",
+			"dialog"			: "本單元現在會將資料編譯成另一個|C3|恐懼感知|C0|禮物送給你。",
 		},
 	],
 	
@@ -32,7 +32,7 @@
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-		"dialog"	: "本單元希望能夠提供盡可能多的數據。",
+		"dialog"	: "本單元希望能夠提供盡可能多的資料。",
 	},
 	"comment_take_bonus"	: {
 		"character"	: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -101,11 +101,11 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_confused"],
-			"dialog"			: "你有沒有設備可以看出來別人是否被你吸引？",
+			"dialog"			: "你有沒有裝置可以看出來別人是否被你吸引？",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本單元確實有創造出該設備的可能性。",
+			"dialog"			: "本單元確實有創造出該裝置的可能性。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_shocked_blush"],
