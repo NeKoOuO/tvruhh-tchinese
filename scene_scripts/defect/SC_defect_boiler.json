@@ -69,7 +69,7 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "是吖。|L||!|不過我們還需要點時間來為我們的|C3|連接突觸|C0|充能。",
+			"dialog"			: "是呀。|L||!|不過我們還需要點時間來為我們的|C3|連接突觸|C0|充能。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],

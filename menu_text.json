@@ -548,14 +548,14 @@
 		"run_level"		: "等級 [VAL1]",
 		"best_level"	: "最高等級 [VAL1]",
 		
-		"win_light"     : "[NAME]在細雨難度下\n擊敗了[VAL1]！",
+		"win_light"     : "[NAME]在毛毛雨難度下\n擊敗了[VAL1]！",
 		"win_heavy"     : "[NAME]在大雨難度下\n擊敗了[VAL1]！",
 		"win_torrent"   : "[NAME]在暴雨難度下\n擊敗了[VAL1]！",
 		"win_maxlv"   	: "[VAL1]在等級[VAL2]被擊敗了！",
-		"medal_light1"		: "細雨徽章！",
+		"medal_light1"		: "毛毛雨徽章！",
 		"medal_heavy1"		: "大雨徽章！",
 		"medal_torrent1"	: "暴雨徽章！！！",
-		"medal_light2"		: "光耀細雨徽章！",
+		"medal_light2"		: "光耀毛毛雨徽章！",
 		"medal_heavy2"		: "光耀大雨徽章！",
 		"medal_torrent2"	: "光耀暴雨徽章！！！",
 		

@@ -5,7 +5,7 @@
 			"play_music"		: "dreaming_scene_music",
 			"bg_image"			: "spr_scene_dreaming",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-			"dialog"			: "哦，   呃，   你好。|L||!|則是扎拉登的夢境，是吖？",
+			"dialog"			: "哦，   呃，   你好。|L||!|則是扎拉登的夢境，是呀？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
@@ -13,7 +13,7 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "我們現在看起來有點不一樣，是吖？",
+			"dialog"			: "我們現在看起來有點不一樣，是呀？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
@@ -33,7 +33,7 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "你只需要...   愛我們？    再次？       是吖？",
+			"dialog"			: "你只需要...   愛我們？    再次？       是呀？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],

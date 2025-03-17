@@ -2,7 +2,7 @@
 	"intro" : [
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
-			"dialog"			: "我們之前試著燒傷你。|L||!|我們則樣太辣了，是吖？",
+			"dialog"			: "我們之前試著燒傷你。|L||!|我們則樣太辣了，是呀？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
@@ -25,7 +25,7 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_upset"],
-			"dialog"			: "沒人把你燒傷了，是吖？",
+			"dialog"			: "沒人把你燒傷了，是呀？",
 		}
 	],
 	
@@ -86,7 +86,7 @@
 	},
 	"comment_link"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_upset"],
-		"dialog"	: "你早上把則個帶走了，是吖？|L|你想要在我們的宇宙中有一個通往|shake|無盡火焰維度|norm|的洞嗎！？",
+		"dialog"	: "你早上把則個帶走了，是呀？|L|你想要在我們的宇宙中有一個通往|shake|無盡火焰維度|norm|的洞嗎！？",
 	},
 	"comment_one"		: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
@@ -110,19 +110,19 @@
 	},
 	"comment_TAG_boiler_part"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-		"dialog"	: "我們給了你最辣的一塊，是吖？",
+		"dialog"	: "我們給了你最辣的一塊，是呀？",
 	},
 	"comment_TAG_scrambla_part"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-		"dialog"	: "妹妹蛋花。|L|她還好吧，是吖？",
+		"dialog"	: "妹妹蛋花。|L|她還好吧，是呀？",
 	},
 	"comment_I_link_synapse"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-		"dialog"	: "我們會把則個宇宙循環成可愛的結，是吖？|L|這很安全，而且你注意不到的。",
+		"dialog"	: "我們會把則個宇宙循環成可愛的結，是呀？|L|這很安全，而且你注意不到的。",
 	},
 	"comment_duplicate"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-		"dialog"	: "你今天找到了則個的複製，是吖？|L|則些存起來應該是安全的。",
+		"dialog"	: "你今天找到了則個的複製，是呀？|L|則些存起來應該是安全的。",
 	},
 	"comment_over"		: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_despair"],
@@ -134,7 +134,7 @@
 	},
 	"store_confirm"		: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-		"dialog"	: "我們應該儲存則個禮物，是吖？",
+		"dialog"	: "我們應該儲存則個禮物，是呀？",
 	},
 	
 	"gift_stored" 		: [
@@ -154,7 +154,7 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "等一下，     則個沒有被點亮。|L||!|你記得則是什麼，是吖？",
+			"dialog"			: "等一下，     則個沒有被點亮。|L||!|你記得則是什麼，是呀？",
 		}
 	],
 	
@@ -223,7 +223,7 @@
 	},
 	"red_comment"		: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-		"dialog"	: "你應該多給我則些，因為它們... 呃， |C3|能給我更多力量，|C0|是吖？",
+		"dialog"	: "你應該多給我則些，因為它們... 呃， |C3|能給我更多力量，|C0|是呀？",
 	},
 	"yellow_comment"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
@@ -235,7 +235,7 @@
 	},
 	"orange_comment"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
-		"dialog"	: "橙色的應該會是辣的，是吖？|L|但實際上非常甜。",
+		"dialog"	: "橙色的應該會是辣的，是呀？|L|但實際上非常甜。",
 	},
 	"purple_comment"	: {
 		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_shocked"],
@@ -379,7 +379,7 @@
 		{
 			"play_music"		: "green_scene_music",
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "我們知道則顆心會讓你|wave|完全失去理智，|norm| 是吖？",
+			"dialog"			: "我們知道則顆心會讓你|wave|完全失去理智，|norm| 是呀？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
@@ -418,7 +418,7 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_upset"],
-			"dialog"			: "有人想要燒傷你時，你會和我們說的，是吖？",
+			"dialog"			: "有人想要燒傷你時，你會和我們說的，是呀？",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_aggressive"],
@@ -449,7 +449,7 @@
 	"leave_defect" 	: [
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_confused"],
-			"dialog"			: "你看起來有點，呃...   冷，是吖？",
+			"dialog"			: "你看起來有點，呃...   冷，是呀？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_happy"],

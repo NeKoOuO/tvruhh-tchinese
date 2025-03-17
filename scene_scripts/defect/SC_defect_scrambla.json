@@ -89,7 +89,7 @@
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],
-			"dialog"			: "是吖。|L||!|不過，我們還需要點時間來為我們的|C3|連接突觸|C0|充能。 ",
+			"dialog"			: "是呀。|L||!|不過，我們還需要點時間來為我們的|C3|連接突觸|C0|充能。 ",
 		},
 		{
 			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_confused"],

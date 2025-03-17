@@ -91,12 +91,12 @@
 		},
 	],
 	
-	"mood_title"	: "卡洛裡的心情",
-	"monster_gifts"	: "卡洛裡的禮物",
+	"mood_title"	: "卡洛莉的心情",
+	"monster_gifts"	: "卡洛莉的禮物",
 	"player_gifts"	: "[NAME]的禮物列表",
 	"player_quicks"	: "[NAME]的快速禮物",
 
-	"op_trade"			: "卡洛裡的禮物",
+	"op_trade"			: "卡洛莉的禮物",
 	"op_give_active"	: "給予現有禮物",
 	"op_give_quick"		: "給予快速禮物",
 	"op_leave"			: "離開",
@@ -324,7 +324,7 @@
 	"leave_devil" 	: [
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_content"],
-			"dialog"			: "祝你有個好夢，卡洛裡。",
+			"dialog"			: "祝你有個好夢，卡洛莉。",
 		},
 		{
 			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],

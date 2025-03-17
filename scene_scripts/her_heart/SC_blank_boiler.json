@@ -35,7 +35,7 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "你收到了我們的消息！|L||!|那你知道了我們的|C3|連接突觸，|C0|是吖？",
+			"dialog"			: "你收到了我們的消息！|L||!|那你知道了我們的|C3|連接突觸，|C0|是呀？",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
@@ -47,7 +47,7 @@
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
-			"dialog"			: "是吖！",
+			"dialog"			: "是呀！",
 		},
 		{
 			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],

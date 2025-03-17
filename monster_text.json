@@ -695,7 +695,7 @@
 	},
 	
 	"B_calorie" : {
-		"name"    : "卡洛裡",
+		"name"    : "卡洛莉",
 		"eyeric"  : "|foh||hai| (Fohai)",
 		"before"  : "為我們燃燒！",
 		"after"   : "你加劇了我們的烈火！",
@@ -704,7 +704,7 @@
 	},
 	
 	"B_flip_flap" : {
-		"name"    : "劈哩啪啦",
+		"name"    : "啪嗒啪嗒",
 		"eyeric"  : "|yih||kah||-||nu||kah| (Yika Nuka)",
 		"before"  : "檢測到纏結電線",
 		"after"   : "檢測到純粹喜愛",

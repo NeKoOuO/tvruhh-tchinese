@@ -10,11 +10,11 @@
 		{
 			"fast_text"			: 1,
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|劈哩啪啦。          ",
+			"dialog"			: "|wave|啪嗒啪嗒。          ",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|劈哩啪啦。          ",
+			"dialog"			: "|wave|啪嗒啪嗒。          ",
 		},
 		{
 			"fast_text"			: 0,
@@ -27,11 +27,11 @@
 		{
 			"fast_text"			: 1,
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|劈哩啪啦。          ",
+			"dialog"			: "|wave|啪嗒啪嗒。          ",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|劈哩啪啦。          ",
+			"dialog"			: "|wave|啪嗒啪嗒。          ",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_normal"],
@@ -105,7 +105,7 @@
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_blush"],
-			"dialog"			: "劈哩啪啦，正在打開所有介面，劈哩啪啦。",
+			"dialog"			: "啪嗒啪嗒，正在打開所有介面，啪嗒啪嗒。",
 		},
 	],
 	
@@ -136,15 +136,15 @@
 	"leave_twins" 	: [
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|劈哩啪啦。",
+			"dialog"			: "|wave|啪嗒啪嗒。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|劈哩啪啦。",
+			"dialog"			: "|wave|啪嗒啪嗒。",
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|劈哩啪啦，|L|劈哩啪啦。",
+			"dialog"			: "|wave|啪嗒啪嗒，|L|啪嗒啪嗒。",
 		},
 		{
 			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_despair"],
@@ -156,7 +156,7 @@
 		},
 		{
 			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_very_happy"],
-			"dialog"			: "|wave|劈哩啪啦，|L|劈哩啪啦。",
+			"dialog"			: "|wave|啪嗒啪嗒，|L|啪嗒啪嗒。",
 		},
 	],
 	
@@ -193,11 +193,11 @@
 	"leave_default" : [
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
-			"dialog"			: "|wave|劈哩啪啦。",
+			"dialog"			: "|wave|啪嗒啪嗒。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flap_right", "MOOD_happy"],
-			"dialog"			: "|wave|劈哩啪啦。",
+			"dialog"			: "|wave|啪嗒啪嗒。",
 		},
 		{
 			"character"			: ["VOICE_flip_flap", "CHAR_flip_right", "MOOD_happy"],
