@@ -9,7 +9,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "你好，年幼的扎拉登。|L||!|本單元的程序能夠為任何需要的人提供資訊。",
+			"dialog"			: "你好，年幼的扎拉登。|L||!|本單元的程式能夠為任何需要的人提供資訊。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
@@ -33,7 +33,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本單元現在即將運行|C3|存在主義恐懼.prog|C0|",
+			"dialog"			: "本單元現在即將執行|C3|存在主義恐懼.prog|C0|",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],

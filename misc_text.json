@@ -103,7 +103,7 @@
 	"music_groups" : {
 		"songs_unlocked"	: "解鎖的音樂",
 		"group_all"			: "所有音樂",
-		"group_menu"		: "菜單音樂",
+		"group_menu"		: "選單音樂",
 		"group_scene"		: "場景音樂",
 		"group_common"		: "普通戰鬥主題",
 		"group_rare"		: "稀有戰鬥主題",
@@ -111,7 +111,7 @@
 	},
 	"SG_title" : {
 		"name"		: "空白旋律",
-		"desc"		: "主界面主題曲",
+		"desc"		: "主介面主題曲",
 	},
 	"SG_scene_a" : {
 		"name"		: "地下脈動",

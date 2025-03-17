@@ -59,7 +59,7 @@
 		{
 			"show_tutorial"	: "combo_bar1",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "當前的|C3|愛之連擊|C0|會在怪物的|C3|恐懼條|C0|上以白色部分表示。",
+			"dialog"		: "目前的|C3|愛之連擊|C0|會在怪物的|C3|恐懼條|C0|上以白色部分表示。",
 		},
 		{
 			"show_tutorial"	: "combo_bar2",

@@ -5,7 +5,7 @@
 			"play_music"	: "tutorbot_scene_music",
 			"bg_image"		: "spr_tutorial_common",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本單元有重要的資訊，必須打斷你現在的夢境程序。",
+			"dialog"		: "本單元有重要的資訊，必須打斷你現在的夢境程式。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],

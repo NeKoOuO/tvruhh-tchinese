@@ -45,7 +45,7 @@
 	"keep_tetrid" : [
 		{
 			"voice"				: "VOICE_default",
-			"dialog"			: "|C3|她將稜晶安全地保存在她的心裡。",
+			"dialog"			: "|C3|她將稜晶安全地儲存在她的心裡。",
 		},
 	],
 	

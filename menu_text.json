@@ -76,8 +76,8 @@
 	
 	"MENU_fps_warning" : {
 		"title"    		: "檢測到幀率異常!",
-		"desc1" 		: "本遊戲應該在60fps環境下運行\n現在的FPS: [VAL1]",
-		"desc2"     	: "該情況一般可以透過重新開關全螢幕或垂直同步以解決，但也有可能是您的電腦或顯示卡的其他設置所導致。",
+		"desc1" 		: "本遊戲應該在60fps環境下執行\n現在的FPS: [VAL1]",
+		"desc2"     	: "該情況一般可以透過重新開關全螢幕或垂直同步以解決，但也有可能是您的電腦或顯示卡的其他設定所導致。",
 		"op_vsync"  	: "調整垂直同步",
 		"op_fullscr"	: "調整全螢幕",
 		"op_continue"  	: "繼續",
@@ -87,23 +87,23 @@
 		"title"    		: "本遊戲含有部分\n非性表現的裸體場景",
 		"option1"  		: "我能夠接受",
 		"option2"  		: "請用某種霧氣\n遮擋一下",
-		"footnote" 		: "該選項可以在設置中改變",
+		"footnote" 		: "該選項可以在設定中改變",
 	},
 	
 	"MENU_controller_warning" : {
 		"title"    		: "檢測到遊戲手把\n這是哪一種手把？",
-		"footnote" 		: "該選項可以在設置中改變",
+		"footnote" 		: "該選項可以在設定中改變",
 	},
 	
 	"MENU_language_warning" : {
 		"title"    		: "你所使用的社區語言\n僅適用於遊戲的另一個版本！",
 		"version"    	: "[VAL1]\n語言版本: [VAL2]\n遊戲版本: [VAL3]",
-		"text"    		: "該翻譯不會包含所有遊戲內新加入的文本，這有可能會造成錯誤、崩潰、以及跳過事件等情況。\n\n推薦您更新您的社區語言版本，或轉為官方支持的語言，直至該語言的最新版本可用。",
+		"text"    		: "該翻譯不會包含所有遊戲內新加入的文字，這有可能會造成錯誤、崩潰、以及跳過事件等情況。\n\n推薦您更新您的社區語言版本，或轉為官方支援的語言，直至該語言的最新版本可用。",
 	},
 	
 	"MENU_main_menu" : {
 		"op_start" 		: "開始",
-		"op_options" 	: "設置",
+		"op_options" 	: "設定",
 		"op_exit"  		: "退出",
 	},
 	
@@ -117,7 +117,7 @@
 	
 	"MENU_options_audio" : {
 		"tag_volume"	: "- 音量 -",
-		"tag_other"		: "- 其他設置 -",
+		"tag_other"		: "- 其他設定 -",
 		"op_music_vol" 	: "音樂音量",
 		"op_sound_fx" 	: "音效音量",
 		"op_voices" 	: "場景語音音量",
@@ -126,15 +126,15 @@
 	},
 	
 	"MENU_options_display" : {
-		"tag_display"		: "- 顯示設置 -",
+		"tag_display"		: "- 顯示設定 -",
 		"op_fullscr"    	: "全螢幕",
-		"op_window" 		: "窗口大小",
+		"op_window" 		: "視窗大小",
 		"op_borderless" 	: "無邊框",
 		"op_vsync" 			: "垂直同步",
 		"op_aa" 			: "反鋸齒",
 		"desc_fullscr"  	: "開啟全螢幕模式",
-		"desc_window" 		: "窗口模式下的遊戲顯示比例",
-		"desc_borderless" 	: "在窗口模式下隱藏邊框",
+		"desc_window" 		: "視窗模式下的遊戲顯示比例",
+		"desc_borderless" 	: "在視窗模式下隱藏邊框",
 		"desc_vsync" 		: "避免螢幕撕裂，\n但有可能導致顯示速度下降",
 		"desc_aa" 			: "開啟反鋸齒\n不推薦打開",
 	},
@@ -167,9 +167,9 @@
 		"op_spooky"   	: "嚇人的皮納塔",
 		
 		"desc_flash"    : "開關敵人受到傷害時的閃爍效果",
-		"shader_failed" : "該裝置不支持著色器！",
+		"shader_failed" : "該裝置不支援著色器！",
 		"desc_shake" 	: "開啟螢幕抖動",
-		"desc_anxious" 	: "開啟菜單及場景的文字抖動",
+		"desc_anxious" 	: "開啟選單及場景的文字抖動",
 		"desc_blur"     : "開啟你的子彈的動態模糊",
 		"desc_c_bullet" : "讓你的子彈變得透明",
 		"desc_c_helper" : "讓你的幫手變得透明",
@@ -184,7 +184,7 @@
 		"desc_poison" 	: "在你的心旁邊顯示全域攻擊\n造成傷害所需累積時間的時間條",
 		"desc_star" 	: "在你的心旁邊顯示星星子彈射速條",
 		"desc_low_q" 	: "這會關閉部分視覺效果以提升性能",
-		"desc_foolish" 	: "你現在正在某個蠢蠢的一天遊玩，\n或者你在標題畫面輸入了秘密代碼",
+		"desc_foolish" 	: "你現在正在某個蠢蠢的一天遊玩，\n或者你在標題畫面輸入了秘密程式碼",
 		"desc_spooky" 	: "你現在正在某個恐怖的一天遊玩，\n或者在標題畫面上放了個500公斤的炸彈",
 	},
 	
@@ -193,7 +193,7 @@
 		"tag_other"		: "- 操控設定 -",
 		"tag_move"		: "- 移動操控 -",
 		"tag_battle"	: "- 戰鬥操控 -",
-		"tag_menu"		: "- 菜單操控 -",
+		"tag_menu"		: "- 選單操控 -",
 		"tag_advanced"	: "- 進階設定 -",
 	
 		"key_up"      	: "上",
@@ -210,10 +210,10 @@
 		
 		"control_type"	: "控制器",
 		"deadzone"		: "死區",
-		"default_reset" : "恢復默認",
+		"default_reset" : "復原預設",
 		
-		"reset_keys" 	: "將所有鍵位綁定恢復默認",
-		"reset_buttons" : "將所有按鈕綁定恢復默認",
+		"reset_keys" 	: "將所有鍵位綁定復原預設",
+		"reset_buttons" : "將所有按鈕綁定復原預設",
 		"desc_deadzone" : "當手把搖杆距離中心點位置超過該設定時才能被識別",
 		
 		"focus_type" 	: "專注類型",
@@ -317,7 +317,7 @@
 		"op_scenes"		: "場景",
 		"op_music"		: "音樂",
 		"op_stats"		: "統計",
-		"op_options"	: "設置",
+		"op_options"	: "設定",
 		"op_freeplay"	: "自由模式",
 		"op_upgrades"	: "升級",
 	},
@@ -374,7 +374,7 @@
 		"total_wins"	: "總勝場",
 		"best_time"		: "最佳時間",
 		"best_streak"	: "最佳連勝",
-		"curr_streak"	: "當前連勝",
+		"curr_streak"	: "目前連勝",
 		"no_score"		: "---",
 		"one_love"		: "1次愛",
 		"multi_loves"	: "[VAL1]次愛",
@@ -477,7 +477,7 @@
 	
 	"MENU_status_main" : {
 		"op_attributes"	: "屬性",
-		"op_gifts"		: "當前禮物",
+		"op_gifts"		: "目前禮物",
 		"op_tetrids"	: "稜晶",
 		"op_dreams"		: "夢境列表",
 		"op_roses"		: "玫瑰徽章",
@@ -491,8 +491,8 @@
 	},
 	
 	"MENU_run_options" : {
-		"op_options" 		: "設置",
-		"op_suspend"	 	: "保存並退出",
+		"op_options" 		: "設定",
+		"op_suspend"	 	: "儲存並退出",
 		"op_give_up"	 	: "放棄",
 		"give_up_ask" 		: "你真的要放棄嗎？",
 		"give_up_desc" 		: "本輪遊戲會失敗，但你獲得的稜晶與夢境將被保留",
@@ -503,7 +503,7 @@
 		"suspend_yes" 		: "是",
 		"suspend_no" 		: "否",
 		
-		"run_score"			: "當前分數",
+		"run_score"			: "目前分數",
 		"run_time"			: "戰鬥時間",
 		"best_score"		: "最佳分數",
 		"best_time"			: "最佳時間",
@@ -688,7 +688,7 @@
 		"loadout_empty"	: "這個快捷裝備欄是空的",
 		"loadout_extra"	: "+[VAL1]個更多禮物",
 		"op_load_slot"	: "從該欄位讀取",
-		"op_save_slot"	: "保存到該欄位",
+		"op_save_slot"	: "儲存到該欄位",
 		"op_clear_slot"	: "清空該欄位",
 		"load_confirm"	: "載入這些禮物？",
 		"save_confirm"	: "覆蓋這個欄位？",
@@ -720,9 +720,9 @@
 		"duplicate_0"	: "解鎖裝備重複力量禮物的能力",
 		"duplicate_1"	: "可裝備1個重複禮物",
 		"duplicate_n"	: "最多可裝備[VAL1]個重複禮物",
-		"loadout_0"		: "解鎖將你的現有禮物組合\n保存在快捷裝備欄的能力",
-		"loadout_1"		: "禮物組合可以保存在1個快捷欄內",
-		"loadout_n"		: "禮物組合可以保存在[VAL1]個快捷欄內",
+		"loadout_0"		: "解鎖將你的現有禮物組合\n儲存在快捷裝備欄的能力",
+		"loadout_1"		: "禮物組合可以儲存在1個快捷欄內",
+		"loadout_n"		: "禮物組合可以儲存在[VAL1]個快捷欄內",
 		"panic_limit_0"	: "提升分數減免前的恐慌攻擊個數限制",
 		"panic_limit_1"	: "在分數減免前可額外裝備1個恐慌",
 		"panic_limit_n"	: "在分數減免前可額外裝備[VAL1]個恐慌",
@@ -736,7 +736,7 @@
 		"star_rank_up"		: "這個升級可以讓你裝備\n[VAL1]星級點亮的任意力量禮物",
 		"duplicate_up_1"	: "這個升級可以讓你裝備\n一個重複的力量禮物",
 		"duplicate_up_n"	: "這個升級可以讓你裝備\n[VAL1]個重複的力量禮物",
-		"loadout_up"		: "這個升級可以解鎖一個\n快捷裝備欄以保存禮物組合",
+		"loadout_up"		: "這個升級可以解鎖一個\n快捷裝備欄以儲存禮物組合",
 		"panic_limit_up"	: "這個升級可以提升1個\n分數減免前可以裝備的恐慌數量",
 		"power_limit_up"	: "這個升級可以提升1點\n分數減免前可以裝備的力量星數",
 		"upgrade_info"	: "選擇任意顏色組合的\n[VAL1]個稜晶為此次升級提供能量",

@@ -88,7 +88,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "你好，年幼的扎拉登。|L||!|本單元的程序能夠-",
+			"dialog"			: "你好，年幼的扎拉登。|L||!|本單元的程式能夠-",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],

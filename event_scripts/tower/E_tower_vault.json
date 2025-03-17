@@ -11,7 +11,7 @@
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
-			"dialog"			: "這位扎拉登的檔案被儲存於|C3|受信任的用戶|C0|文件夾。",
+			"dialog"			: "這位扎拉登的檔案被儲存於|C3|受信任的用戶|C0|資料夾。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
@@ -31,7 +31,7 @@
 		{
 			"scene_flash"		: 1,
 			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],
-			"dialog"			: "兩位扎拉登的檔案被儲存於|C3|受信任的用戶|C0|文件夾。",
+			"dialog"			: "兩位扎拉登的檔案被儲存於|C3|受信任的用戶|C0|資料夾。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_holo_unit_right", "MOOD_normal"],

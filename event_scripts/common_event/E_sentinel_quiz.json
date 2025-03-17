@@ -103,7 +103,7 @@
 	"default_incorrect_1"	: "快樂水平已下降。",
 	"default_incorrect_2"	: "你可以暫停，傷心一下。",
 	"default_incorrect_3"	: "本單元識別到了你的悲傷。",
-	"default_incorrect_4"	: "本單元將這一問題設置地過難。",
+	"default_incorrect_4"	: "本單元將這一問題設定地過難。",
 	
 	"correct_senti_1"	: "本單元因你對她如此了解而感到相當開心。",
 	"correct_senti_2"	: "只有真正的朋友才會對本單元了解到這種程度。",
@@ -552,11 +552,11 @@
 		"question"	: "|C3|啪嗒啪嗒|C0|的線纜長度會根據等級改變嗎？",
 	},
 	"seriesG_22"		: {
-		"question"	: "|C3|默認|C0|會隨機選擇她的形態嗎？",
-		"incorrect"	: "|C3|默認|C0|會基於她的等級選擇形態。",
+		"question"	: "|C3|預設|C0|會隨機選擇她的形態嗎？",
+		"incorrect"	: "|C3|預設|C0|會基於她的等級選擇形態。",
 	},
 	"seriesG_23"		: {
-		"question"	: "|C3|默認|C0|可以全像投影多少種不同的形態？",
+		"question"	: "|C3|預設|C0|可以全像投影多少種不同的形態？",
 	},
 	"seriesG_24"		: {
 		"question"	: "|C3|光影之楔|C0|整場戰鬥都會保持你的連擊嗎？",

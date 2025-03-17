@@ -96,7 +96,7 @@
 		{
 			"show_tutorial"	: "unknown_cards",
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "當你愛一個新的怪物或收下新的禮物時，其會被加入到|C3|收藏菜單|C0|中。",
+			"dialog"		: "當你愛一個新的怪物或收下新的禮物時，其會被加入到|C3|收藏選單|C0|中。",
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
@@ -108,7 +108,7 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "如果你有著足夠的對應|C3|稜晶|C0|，那麼你就可以在|C3|收藏菜單中點亮一張卡片。",
+			"dialog"		: "如果你有著足夠的對應|C3|稜晶|C0|，那麼你就可以在|C3|收藏選單中點亮一張卡片。",
 		},
 		{
 			"show_tutorial"	: "known_cards",
@@ -146,7 +146,7 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "本單元的程序設定為會在最佳時間傳達這些資訊。",
+			"dialog"		: "本單元的程式設定為會在最佳時間傳達這些資訊。",
 		},
 		{
 			"character"		: ["VOICE_blank", "CHAR_blank_left", "MOOD_upset"],

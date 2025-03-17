@@ -9,7 +9,7 @@
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "本單元的程序能夠提供幫助。|!||L|你需要任何幫助嗎？",
+			"dialog"			: "本單元的程式能夠提供幫助。|!||L|你需要任何幫助嗎？",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],

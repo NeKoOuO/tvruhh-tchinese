@@ -40,7 +40,7 @@
 		{
 			"show_tutorial"		: "gift_preview_cards",
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"			: "在選擇愛的目標時，會有一個|C3|預覽|C0|界面顯示每一隻怪物的|C3|禮物|C0|。",
+			"dialog"			: "在選擇愛的目標時，會有一個|C3|預覽|C0|介面顯示每一隻怪物的|C3|禮物|C0|。",
 		},
 		{
 			"character"			: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],

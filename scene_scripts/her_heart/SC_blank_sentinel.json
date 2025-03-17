@@ -38,7 +38,7 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_sad"],
-			"dialog"			: "本單元現在會將她放入所屬的垃圾站文件夾。",
+			"dialog"			: "本單元現在會將她放入所屬的垃圾站資料夾。",
 		},
 		{
 			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_angry"],

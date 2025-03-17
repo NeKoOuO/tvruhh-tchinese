@@ -34,7 +34,7 @@
 		},
 		{
 			"character"		: ["VOICE_bot", "CHAR_tutor_right", "MOOD_normal"],
-			"dialog"		: "你可以決定存下它們，想保存多久都可以。",
+			"dialog"		: "你可以決定存下它們，想儲存多久都可以。",
 		},
 		{
 			"show_tutorial"	: "none",

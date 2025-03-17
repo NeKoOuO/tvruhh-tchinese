@@ -103,7 +103,7 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_angry"],
-			"dialog"			: "它們是威脅，本單元的程序不願接受。",
+			"dialog"			: "它們是威脅，本單元的程式不願接受。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_sad_cry2"],
@@ -148,16 +148,16 @@
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "你已經被加入了文件夾，|C3|所愛之人。|C0|",
+			"dialog"			: "你已經被加入了資料夾，|C3|所愛之人。|C0|",
 		},
 		{
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_normal"],
-			"dialog"			: "名為小藍的虛空眷族，位於你的|C3|所愛之人|C0|文件夾中。",
+			"dialog"			: "名為小藍的虛空眷族，位於你的|C3|所愛之人|C0|資料夾中。",
 		},
 		{
 			"play_music"		: "tutorbot_scene_music",
 			"character"			: ["VOICE_sentinel", "CHAR_sentinel_right", "MOOD_happy"],
-			"dialog"			: "可以將小藍加入本單元的|C3|所愛之人|C0|文件夾中。",
+			"dialog"			: "可以將小藍加入本單元的|C3|所愛之人|C0|資料夾中。",
 		},
 		{
 			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content_cry"],
