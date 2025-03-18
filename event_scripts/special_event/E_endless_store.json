@@ -288,7 +288,7 @@
 	},
 	"comment_upgrade_fail"		: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],
-		"dialog"	: "索拉娜需要你点亮|C3|[VAL1]片梦境花瓣|C0|来增强这个力量。",
+		"dialog"	: "索拉娜需要你点亮|C3|[VAL3]片梦境花瓣|C0|来增强这个力量。",
 	},
 	"comment_upgrade_fail_1"	: {
 		"character"	: ["VOICE_solara", "CHAR_solara_right", "MOOD_despair"],

@@ -39,7 +39,7 @@
 		},
 	],
 	
-	"monster_gifts"	: "Venom Veyeral's Gifts",
+	"monster_gifts"	: "剧毒维目尔的礼物",
 	
 	"comment_take_normal"	: {
 		"character"	: ["VOICE_veyeral", "CHAR_venom_veyeral_right", "MOOD_happy"],
