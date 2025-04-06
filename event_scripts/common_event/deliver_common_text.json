@@ -1,0 +1,217 @@
+{
+	"nobody"			: "无人",
+	"monster_gifts"		: "[VAL1]的礼物",
+	"delivery_gifts"	: "礼物快送",
+	
+	"comment_pickup_B_sandrome"	: {
+		"character"	: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+		"dialog"	: "扎拉登们喜欢礼物。",
+	},
+	"confirm_pickup_B_sandrome"		: {
+		"character"	: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+		"dialog"	: "她会喜欢这个吗？",
+	},
+	
+	"comment_pickup_B_storm_veyeral"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+		"dialog"	: "我在想她会不会喜欢这种。",
+	},
+	"confirm_pickup_B_storm_veyeral"		: {
+		"character"	: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+		"dialog"	: "这真的能行吗？",
+	},
+	
+	"step1_response_B_scrambla" : [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],
+			"dialog"			: "我们知道则个扎拉登！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "你可以给她则些礼物。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "我们知道她会喜欢则些！",
+		},
+	],
+	"comment_pickup_B_scrambla"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+		"dialog"	: "她喜欢则些。",
+	},
+	"comment_pickup_B_scrambla_I_heart_cookie"	: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy_blush"],
+		"dialog"	: "我们只是咬了一小口。",
+	},
+	"confirm_pickup_B_scrambla"		: {
+		"character"	: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_normal"],
+		"dialog"	: "则个？",
+	},
+	"pickup_next_B_scrambla" : [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy_blush"],
+			"dialog"			: "哦，    还有...把则个也给她吧。",
+		},
+	],
+	"step1_bye_B_scrambla" : [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "好耶，记得代我们给她个拥抱！",
+		},
+	],
+	"step1_bye_B_scrambla_twins" : [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "好耶，记得代我们给她们都来个拥抱！",
+		},
+	],
+	
+	
+	"step1_response_B_boiler" : [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "哦，则位扎拉登很不错。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_upset"],
+			"dialog"			: "但是她玩了太多火，是吖？",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "会让我们担心。",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+			"dialog"			: "但你应该给她则些礼物。",
+		},
+	],
+	"comment_pickup_B_boiler"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_happy"],
+		"dialog"	: "给她则些里的一个吧。",
+	},
+	"comment_pickup_B_boiler_I_boiler_maw"	: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_surprised"],
+		"dialog"	: "有我们看着，她会很安全的。",
+	},
+	"confirm_pickup_B_boiler"		: {
+		"character"	: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_normal"],
+		"dialog"	: "则个，是吖？",
+	},
+	"step1_bye_B_boiler" : [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_angry"],
+			"dialog"			: "告诉她要小心火焰，好吖？",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "很危险的。",
+		},
+	],
+	"step1_bye_B_boiler_twins" : [
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_angry"],
+			"dialog"			: "告诉她们对待火焰更小心一点，好吖？",
+		},
+		{
+			"character"			: ["VOICE_boiler", "CHAR_boiler_right", "MOOD_sad"],
+			"dialog"			: "辣个有小翅膀的最让我们担心。",
+		},
+	],
+	
+	"step1_response_B_calorie" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+			"dialog"			: "哦，我们知道该做什么！",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "你应该给她一些食物！",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_aggressive"],
+			"dialog"			: "那也能为我们补充能量。",
+		},
+	],
+	"step1_response_B_calorie_twins" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+			"dialog"			: "哦，她吗？我们之前看到过她。",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+			"dialog"			: "她真的很可爱！",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_sad"],
+			"dialog"			: "不过我们也袭击了她。",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+			"dialog"			: "我们觉得给她一些食物可能会有帮助。",
+		},
+	],
+	"comment_pickup_B_calorie"	: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+		"dialog"	: "把这些给她吧。",
+	},
+	"confirm_pickup_B_calorie"		: {
+		"character"	: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_normal"],
+		"dialog"	: "这个看起来怎么样？",
+	},
+	"pickup_next_B_calorie" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_content"],
+			"dialog"			: "我们觉得她|wave|真的很可爱，|norm|所以让我们再给她一个吧。",
+		},
+	],
+	"step1_bye_B_calorie" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_happy"],
+			"dialog"			: "别担心，她不会对你生气的。",
+		},
+	],
+	"step1_bye_B_calorie_twins" : [
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_shocked"],
+			"dialog"			: "我们差点忘了她的妹妹！",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_confused"],
+			"dialog"			: "我们一直都只在想她。",
+		},
+		{
+			"character"			: ["VOICE_calorie", "CHAR_calorie_right", "MOOD_aggressive"],
+			"dialog"			: "假装我们说给她们每人一个，好吗？",
+		},
+	],
+	
+	"step1_response_B_rendy" : [
+		{
+			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
+			"dialog"			: "你好，[VAL3]！",
+		},
+		{
+			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
+			"dialog"			: "别担心，兰迪已经进行了数学计算。",
+		},
+		{
+			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
+			"dialog"			: "兰迪发现扎拉登女孩喜欢被跳虫包裹！",
+		},
+	],
+	"comment_pickup_B_rendy"	: {
+		"character"	: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
+		"dialog"	: "兰迪知道扎拉登女孩想要什么。",
+	},
+	"confirm_pickup_B_rendy"		: {
+		"character"	: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_normal"],
+		"dialog"	: "你想要把这个给她吗？",
+	},
+	"step1_bye_B_rendy" : [
+		{
+			"character"			: ["VOICE_rendy", "CHAR_rendy_right", "MOOD_happy"],
+			"dialog"			: "这会让扎拉登女孩开心的。|L|相信兰迪！",
+		},
+	],
+
+}

@@ -1,0 +1,479 @@
+{
+	"big_text_intro" : [
+		{
+			"play_music"		: "silence",
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 320,
+			"text_y"			: 180,
+			"text_w"			: 400,
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|一段时间后，|L|在附近的某处。",
+		},
+		{
+			"dialog"			: "|C3|[VAL2]恰巧遇到了...",
+		},
+	],
+	
+	"my_name"		: "沙之症候群",
+	"my_nickname"	: "沙沙",
+	
+	"step1_ask_generic" : [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_normal"],
+			"random"			: 2,
+			"dialog_rand1"		: "|wave|[VAL1]在这！|norm||L|光是见到你就给了我许多开心！",
+			"dialog_rand2"		: "|wave|是我的朋友[VAL1]！|norm||L|看到你就给了我许多开心！",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_sad"],
+			"random"			: 2,
+			"dialog_rand1"		: "但是，我现在在大悲伤，需要帮助。",
+			"dialog_rand2"		: "但是，我做了坏事，需要帮助弥补。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_shocked"],
+			"random"			: 2,
+			"dialog_rand1"		: "扎拉登献上了友谊，但我只回应了   |shake|暴力！",
+			"dialog_rand2"		: "扎拉登分享了爱，但我只懂得   |shake|扎扎！",
+		},
+	],
+	"step1_ask_generic_twins" : [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_sad"],
+			"random"			: 2,
+			"dialog_rand1"		: "[VAL1]，我正需要帮助。",
+			"dialog_rand2"		: "[VAL1]会分出时间来帮我吗？",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_normal"],
+			"dialog"			: "有对扎拉登姐妹，但我做了坏事。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_shocked"],
+			"random"			: 2,
+			"dialog_rand1"		: "一个扎拉登献上了友谊，但我只回应了   |shake|暴力！",
+			"dialog_rand2"		: "一个扎拉登分享了爱，但我只懂得   |shake|扎扎！",
+		},
+	],
+	"step1_leave_generic" : [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "这要送到最快。",
+			"dialog_rand2"		: "这会给扎拉登我罪过的遗忘。",
+			"dialog_rand3"		: "这会给扎拉登我罪过的原谅。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "会有许多赞美。",
+			"dialog_rand2"		: "我在期待许多对我的称赞。",
+			"dialog_rand3"		: "扎拉登会许多赞扬。",
+		},
+	],
+	"step1_leave_generic_twins" : [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_normal"],
+			"dialog"			: "如果这份快送能够带来原谅，那么就意味着-",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "两位扎拉登都会许多赞美。",
+			"dialog_rand2"		: "两位扎拉登都会许多称赞。",
+			"dialog_rand3"		: "两位扎拉登都会大赞扬。",
+		},
+	],
+	
+	
+	"step1_ask_B_sandrome" : [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+			"dialog"			: "我感到许多复杂。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "扎拉登给了我大开心。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "但也有许多后悔，来自我做过的暴力。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+			"dialog"			: "这是什么？",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "我的幸运日！|L||!|其中一个礼物会带来许多原谅。",
+		},
+	],
+	"step1_leave_B_sandrome" : [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "扎拉登会为此给我许多赞美和赞美！",
+		},
+	],
+	
+	"step1_ask_B_scrambla_defect" : [
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
+			"dialog"			: "[VAL3]，你现在能帮我吗？",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
+			"dialog"			: "我们想要把东西给则个扎拉登。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
+			"dialog"			: "她有辣很漂亮的头发，还有辣很美丽的脸颊，还有，呃-",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_normal"],
+			"dialog"			: "红色的眼睛？",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy_blush"],
+			"dialog"			: "对吖！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
+			"dialog"			: "但我们害怕把则个礼物给她。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_sad"],
+			"dialog"			: "扎拉登提供了许多友谊-",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_shocked"],
+			"dialog"			: "但我只回应了暴力！B",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_sad"],
+			"dialog"			: "我会被许多惩罚！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_shocked"],
+			"dialog"			: "不，则个扎拉登没有对你生气。",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy_blush"],
+			"dialog"			: "把我们的礼物给她，你就知道了。",
+		},
+	],
+	"step1_leave_B_scrambla_defect" : [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_normal"],
+			"dialog"			: "你确定会有原谅？",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy_blush"],
+			"dialog"			: "是吖！她人很好的！",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_shocked"],
+			"dialog"			: "我看到了许多的心从你漂浮的眼球中爆裂而出！",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_left", "MOOD_shocked"],
+			"dialog"			: "|shake|你病了吗？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy_blush"],
+			"dialog"			: "我们没看到则个？",
+		},
+	],
+	
+	
+	
+	
+	"step2_intro_generic" : [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "给扎拉登的特别快送！",
+			"dialog_rand2"		: "我带快送礼物！",
+			"dialog_rand3"		: "你今天会有许多收下！",
+		},
+	],
+	"step2_intro_single" : [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "[VAL1]在给你送礼物！",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+			"random"			: 2,
+			"dialog_rand1"		: "我完成了这个任务的完成。",
+			"dialog_rand2"		: "我在给你这个礼物的交接。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "你会原谅我的许多扎扎，是吧？",
+		},
+	],
+	"step2_intro_multi" : [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "[VAL1]在给你送许多礼物。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+			"dialog"			: "我在给你这些礼物的交接。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "你会原谅我的许多锯齿，是吧？",
+		},
+	],
+	"step2_intro_B_sandrome"		: "step2_intro_self",
+	"step2_intro_self" 	: [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "我非常对不起许多尝试扎扎。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+			"dialog"			: "我带这个快送礼物给你！",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "会有给我原谅，是吧？",
+		},
+	],
+	"step2_intro_B_boiler"				: "step2_intro_worry",
+	"step2_intro_B_amalga"				: "step2_intro_worry",
+	"step2_intro_worry" 	: [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+			"dialog"			: "我带来自[VAL1]的快送礼物！",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "她为你感到许多关心。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "|shake|但我知道你非常强！",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "而你会有原谅给任何有许多扎扎的人，是吧？",
+		},
+	],
+	"step2_intro_B_calorie_twins"		: "step2_intro_crush",
+	"step2_intro_crush" 	: [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+			"dialog"			: "[VAL1]送许多礼物给你！",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "|wave|我看到她的眼里爆出了许多心。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_shocked"],
+			"dialog"			: "我一开始感到许多担心。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "但那看起来给她带来了许多开心。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "送这个礼物会为我过去的扎扎带来原谅，是吧？",
+		},
+	],
+	"comment_delivery_single"	: {
+		"character"	: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+		"dialog"	: "为你！",
+	},
+	"comment_delivery_multi"	: {
+		"character"	: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+		"dialog"	: "带走所有快送！",
+	},
+	"step2_another_gift" 	: [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+			"dialog"			: "还有更多！",
+		},
+	],
+	
+	"step2_leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "你想要让我原谅你？",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_sad"],
+			"dialog"			: "但你做的只有给我抱抱，然后就逃跑了。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "这不是扎扎？",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "哦，[VAL1]，我爱你。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "这一定是原谅。",
+		},
+	],
+	"step2_leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "告诉[VAL1]我说：“谢谢你！”",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "你给了我原谅？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "来自最完美的维目尔，给世界上最长的海德龙。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "你被原谅了。",
+		},
+	],
+	"step2_leave_twins" 	: [
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
+			"dialog"			: "小绿，不要！",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad"],
+			"dialog"			: "为什么？",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_pain"],
+			"dialog"			: "我们不能留下这个大虫子！",
+		},
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_sad2"],
+			"dialog"			: "那就只骑一下？",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "我非常擅长交通。",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_upset"],
+			"dialog"			: "别鼓励她了。",
+		},
+	],
+	"step2_leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive"],
+			"dialog"			: "你真的想要我的原谅？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "很简单！加入我的乐队。",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "|shake|好耶？",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "但是，怎么乐队？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_surprised"],
+			"dialog"			: "呃呃...你会是巡回载具！",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "剩下的乐队会骑在你身上，我们一起|shake|征服世界！",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "|shake|好耶！",
+		},
+	],
+	"step2_leave_default" : [
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "我就当这是是了。",
+		},
+	],
+	
+	
+	
+	
+	"step2_leave_B_sandrome_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "你来找我，只是为了道歉？",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_sad"],
+			"dialog"			: "我在乞求任何原谅。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "哦，呃-|L||!|没关系？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused_blush"],
+			"dialog"			: "我不知道我应该说什么。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "新的情感让我亲爱的缺陷坏掉了。",
+		},
+	],
+	
+	"step2_intro_B_scrambla_defect" 	: [
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_normal"],
+			"dialog"			: "我给扎拉登带来了非常特别的快送！",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "蛋花花真的真的送这些礼物给你！",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "[VAL1]送给我这个？",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "是的，就是那些晃晃！",
+		},
+	],
+	"step2_leave_B_scrambla_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "我之后要去谢谢[VAL1]。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "但是她为什么不自己带来呢？",
+		},
+		{
+			"character"			: ["VOICE_sandrome", "CHAR_sandrome_right", "MOOD_happy"],
+			"dialog"			: "|wave|我对于这个秘密有些知道。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "比我所恐惧的还要更糟糕。|!||L|她完全爱上了我完美的形态。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "我要慢慢的让她放下。",
+		},
+	],
+}

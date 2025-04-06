@@ -1,0 +1,509 @@
+{
+	"big_text_intro" : [
+		{
+			"play_music"		: "silence",
+			"center_text_x"		: 1,
+			"center_text_y"		: 1,
+			"text_x"			: 320,
+			"text_y"			: 180,
+			"text_w"			: 400,
+			"voice"				: "VOICE_default",
+			"dialog"			: "|C3|一段时间后，|L|在附近的某个地方。",
+		},
+		{
+			"dialog"			: "|C3|[VAL2]有机会遇到了...",
+		},
+	],
+	
+	"my_name"	: "风暴维目尔",
+	"my_nickname"	: "小风",
+	
+	"step1_ask_generic" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "呃，你好，[VAL1]。|!||L|你现在忙吗？",
+			"dialog_rand2"		: "你好，[VAL1].我，呃，可能需要点帮助。",
+			"dialog_rand3"		: "呃，[VAL1]？你能帮我点事情吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_normal"],
+			"random"			: 3,
+			"dialog_rand1"		: "所以，有个扎拉登，我想向她道歉-",
+			"dialog_rand2"		: "我对这个扎拉登有点过分。我想向她道歉。",
+			"dialog_rand3"		: "我需要补偿对这个扎拉登做的事情-",
+		},
+	],
+	"step1_ask_generic_twins" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "你能帮助我吗，[VAL1]？",
+			"dialog_rand2"		: "你好，[VAL1].我，呃，可能需要点帮助。",
+			"dialog_rand3"		: "呃，[VAL1]？你能帮我点事情吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_normal"],
+			"random"			: 2,
+			"dialog_rand1"		: "所以，有两个扎拉登-",
+			"dialog_rand2"		: "这两位扎拉登双子-",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_sad"],
+			"dialog"			: "我需要向她们道歉。|L||!|不过，主要是绿色的，有着阳光发色的那个。",
+		},
+	],
+	"step1_leave_generic" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_happy"],
+			"random"			: 3,
+			"dialog_rand1"		: "谢谢你！|L||!|我现在就去把这个送给她。",
+			"dialog_rand2"		: "我会确保她能够收到的！",
+			"dialog_rand3"		: "我现在就把这个带给她！",
+		},
+	],
+	"step1_leave_generic_twins" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_happy"],
+			"random"			: 2,
+			"dialog_rand1"		: "我会确保她们收到的！",
+			"dialog_rand2"		: "我现在就去把这个带给她们！",
+		},
+	],
+	
+	
+	"step1_ask_B_storm_veyeral" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "她拥有的是什么力量？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|感觉起来真棒。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "我现在就像是个不同的人了。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_angry"],
+			"dialog"			: "我袭击她到底是在想什么？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "...",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我应该向她道歉。",
+		},
+	],
+	"step1_leave_B_storm_veyeral" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "希望她心里能原谅我。",
+		},
+	],
+	"step1_leave_B_storm_veyeral_twins" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "她妹妹看上去也像是准备要攻击我的样子。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "希望她们能原谅我。",
+		},
+	],
+	
+	"step1_ask_B_scrambla_defect" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_sad"],
+			"dialog"			: "嘿，[VAL1]，你认识那个有红色眼睛的扎拉登吗？",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
+			"dialog"			: "我们...知道则个扎拉登。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_sad"],
+			"dialog"			: "我之前可能就是袭击了她，然后-",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_normal"],
+			"dialog"			: "[VAL1]，你没事吗？",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
+			"dialog"			: "呃...",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_despair"],
+			"dialog"			: "|shake|我们不知道！|norm||!||L|则个扎拉登让我们感觉怪怪的！",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_sad"],
+			"dialog"			: "她让我们感到伤心，就好像我们想要...什么一样？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_happy"],
+			"dialog"			: "你想要    给她点什么吗？",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy_blush"],
+			"dialog"			: "对！    但我们很害怕则样做。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_happy"],
+			"dialog"			: "那我来帮你怎么样？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_normal"],
+			"dialog"			: "这样如何？",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy"],
+			"dialog"			: "好耶！",
+		},
+	],
+	"step1_leave_B_scrambla_defect" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_normal"],
+			"dialog"			: "我会告诉她是你送的，好吗？",
+		},
+		{
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_blush"],
+			"dialog"			: "呃...好耶。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_left", "MOOD_happy"],
+			"dialog"			: "她一定会超喜欢的。",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_scrambla", "CHAR_scrambla_right", "MOOD_happy_blush"],
+			"dialog"			: "我们就去永远躲在则个角落里了，好耶？",
+		},
+	],
+	
+	
+	
+	
+	"step2_intro_generic" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "|shake|呃，扎拉登小姐？",
+			"dialog_rand2"		: "|shake|你-你好，    我正在找你。",
+			"dialog_rand3"		: "|shake|你还记得我，   是吧？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "|shake|对不起！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我之前不应该袭击你。",
+		},
+	],
+	"step2_intro_single" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "呃，[VAL1]跟我说我应该把这个交给你。",
+			"dialog_rand2"		: "我为你带来了一个礼物。|L|实际上是来自[VAL1]的。",
+			"dialog_rand3"		: "[VAL1]认为把这个给你可能会-   |L|我不知道。",
+		},
+	],
+	"step2_intro_multi" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"random"			: 3,
+			"dialog_rand1"		: "[VAL1]想要我把这些给你。",
+			"dialog_rand2"		: "我为你带来了一些礼物。|L|实际上是来自[VAL1]的。",
+			"dialog_rand3"		: "[VAL1]认为把这些给你可能会-   |L|我不知道。",
+		},
+	],
+	"step2_intro_B_storm_veyeral"		: "step2_intro_self",
+	"step2_intro_self" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "|shake|呃，  扎拉登小姐？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "我，呃，    为你带来了一个礼物。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我只是想说-",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "|shake|对不起，我攻击了你！",
+		},
+	],
+	"step2_intro_B_boiler"				: "step2_intro_worry",
+	"step2_intro_B_amalga"				: "step2_intro_worry",
+	"step2_intro_worry" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "呃，   [VAL1]想让我把这个给你。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "她真的很担心你，你知道吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "并且，我还想说-",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "|shake|对不起我之前攻击了你！",
+		},
+	],
+	"step2_intro_B_calorie_twins"		: "step2_intro_crush",
+	"step2_intro_crush" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我只是想说， 对不起我攻击了你们。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "但是，我给你们带来了你们会喜欢的东西！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+			"dialog"			: "[VAL1]|wave|真的|norm|想让我把这些给你们。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+			"dialog"			: "谈论到你们时，她看起来|wave|真的真的很开心。|norm|",
+		},
+	],
+	"comment_delivery_single"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+		"dialog"	: "请收下吧。",
+	},
+	"comment_delivery_multi"	: {
+		"character"	: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+		"dialog"	: "这些都是给你的！",
+	},
+	"step2_another_gift" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+			"dialog"			: "另一个也是给你的。",
+		},
+	],
+	
+	"step2_leave_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_normal"],
+			"dialog"			: "你还要为我做点什么。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "你必须要告诉[VAL1]说“我爱你！”|L||!|并且-",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_very_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+			"dialog"			: "让我看看我能做什么。",
+		},
+	],
+	"step2_leave_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "告诉[VAL1]我对她说：“谢谢你！”",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "所以你原谅我了？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "你已经被原谅了，我的风暴姐妹。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "你不可能知道你的对手是|wave|完美无缺的。",
+		},
+	],
+	"step2_leave_twins" 	: [
+		{
+			"character"			: ["VOICE_ryden", "CHAR_ryden_left", "MOOD_happy"],
+			"dialog"			: "你的女朋友们又给你更多礼物了吗，阳光？",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_suspicious"],
+			"dialog"			: "不是那回事。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "我们不是朋友？",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_surprised_blush"],
+			"dialog"			: "|shake|不，等一下！|norm|    就是那回事，    我是说-",
+		},
+		{
+			"character"			: ["VOICE_xaila", "CHAR_xaila_left", "MOOD_pain"],
+			"dialog"			: "|shake|小绿！",
+		},
+	],
+	"step2_leave_devil" 	: [
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_happy"],
+			"dialog"			: "没什么需要道歉的，我的风暴朋友。",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_aggressive2"],
+			"dialog"			: "传说中预言到了我们光荣的战斗！",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "真的吗？",
+		},
+		{
+			"character"			: ["VOICE_devil", "CHAR_devil_left", "MOOD_serious2"],
+			"dialog"			: "完全正义，我们没什么办法能够避免它。",
+		},
+	],
+	"step2_leave_default" : [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "你原谅我了吗？",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+			"dialog"			: "我就当这是个肯定的回答了。",
+		},
+	],
+	
+	
+	"step2_leave_B_storm_veyeral_blank" 	: [
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_confused"],
+			"dialog"			: "你没必要这样做的。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_content"],
+			"dialog"			: "但我知道那对你来说非常难。",
+		},
+		{
+			"character"			: ["VOICE_blank", "CHAR_blank_left", "MOOD_happy"],
+			"dialog"			: "|wave|我爱你！",
+		},
+		{
+			"love_hearts"		: 1,
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+			"dialog"			: "哦，有那么简单吗？",
+		},
+	],
+	"step2_leave_B_storm_veyeral_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "你来找我，只为了道歉？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "是啊？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_blush"],
+			"dialog"			: "哦，   呃-|L||!|没关系？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused_blush"],
+			"dialog"			: "我不知道我应该说什么。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "新的情感让我亲爱的缺陷坏掉了。",
+		},
+	],
+	
+	
+	"step2_intro_B_scrambla_defect" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+			"dialog"			: "扎拉登小姐？你知道名为[VAL1]的晃晃吗？",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_normal"],
+			"dialog"			: "我确实认识她，怎么了？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+			"dialog"			: "她|wave|真的|norm|    想要把这些给你。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_surprised"],
+			"dialog"			: "给我的，真的吗？",
+		},
+	],
+	"step2_leave_B_scrambla_defect" 	: [
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_content"],
+			"dialog"			: "我之后要去感谢[VAL1]。",
+		},
+		{
+			"character"			: ["VOICE_defect", "CHAR_defect_left", "MOOD_confused"],
+			"dialog"			: "但为什么她不自己把这些带来呢？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_happy"],
+			"dialog"			: "|wave|嗯，|norm|  我觉得-",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_normal"],
+			"dialog"			: "这比我恐惧的还要糟糕。|!||L|完全爱上了我完美的形态。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_blue_veyeral_left", "MOOD_happy"],
+			"dialog"			: "我要慢慢的让她放下。",
+		},
+	],
+	
+	"step2_intro_B_boiler" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "呃，   [VAL1]想要我把这个给你。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "她在担心你，你知道吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "并且，我还想说-",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "|shake|对不起之前攻击过你！",
+		},
+	],
+	"step2_intro_B_boiler" 	: [
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "唔，   [VAL1]想让我把这个给你。",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "她很担心你，你知道吗？",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_sad"],
+			"dialog"			: "并且，我也想说-",
+		},
+		{
+			"character"			: ["VOICE_veyeral", "CHAR_storm_veyeral_right", "MOOD_normal"],
+			"dialog"			: "|shake|对不起我之前攻击了你！",
+		},
+	],
+}

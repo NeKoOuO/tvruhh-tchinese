@@ -30,6 +30,7 @@
 	"UI_leave"          : "离开",
 	"UI_exit"         	: "退出",
 	"UI_check_heart"  	: "检视你的心", 
+	"UI_no_heart"  		: "没有心",
 	"UI_use_quick"  	: "快速礼物",
 	"UI_check_monster"	: "检视怪物",
 	"UI_check_gift"	  	: "检视礼物",
@@ -932,6 +933,8 @@
 		"soups_made"		: "制作的汤",
 		"soups_eaten"		: "食用的汤",
 		"soups_burden"		: "食用的负担之汤",
+		"delivery_pickups"	: "取到的礼物",
+		"gifts_delivered"	: "送达的礼物",
 		
 		"total_tetrids"		: "收集的总棱晶",
 		"total_green"		: "绿色棱晶",
